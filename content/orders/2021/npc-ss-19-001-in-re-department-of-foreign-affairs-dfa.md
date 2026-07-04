@@ -164,6 +164,6 @@ GENERAL RECORDS UNIT
 [^23]: *Id.*
 [^24]: *Id.*
 [^25]: *Id.*
-[^26]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating For This Purpose a National Privacy Commission, and For Other Purposes [*Data Privacy Act of 2012*], Republic Act No. 10173, § 3(k).
-[^27]: *Id.* § 20.
-[^28]: Implementing Rules and Regulations of Republic Act No. 10173, Rule I, § 28.
+[^26]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating For This Purpose a National Privacy Commission, and For Other Purposes [*[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]*], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(k)]].
+[^27]: *Id.* [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20]].
+[^28]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of Republic Act No. 10173, Rule I, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|§ 28]].

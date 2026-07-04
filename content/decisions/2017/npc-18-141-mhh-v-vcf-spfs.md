@@ -43,7 +43,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-For this Commission's Resolution is the Complaint[^1] filed by Complainant MHH against Respondents VCF and SPFS, involving an alleged violation of R.A. No. 10173 (Data Privacy Act).
+For this Commission's Resolution is the Complaint[^1] filed by Complainant MHH against Respondents VCF and SPFS, involving an alleged violation of [[laws/data-privacy-act-of-2012|R.A. No. 10173 (Data Privacy Act)]].
 
 ### Facts
 
@@ -61,7 +61,7 @@ After that, Complainant thought that the issue was already settled.[^8] However,
 
 > In connection to this, please provide us a written explanation on the letter submitted to your office last October 18, 2017 of the documents of MHH for verification veracity (sic) of the papers submitted.[^9]
 
-On 09 May 2018, Complainant wrote a letter to Respondent VCF informing him that she will file criminal and administrative cases against SPFS and all the persons whose signatures appeared on the letter dated 02 May 2018, which included Respondent VCF. Complainant enumerated the violations they have allegedly committed against her, namely, Section 2, Bill of Rights of the Philippines Constitution; Sections 25 and 26 of R.A. No. 10173 (Data Privacy Act of 2012); Section 1 of Article V, Section 2 of Article VI, and Sections 1, 2 and 3 of Article XI of Code of Ethics for Professional Teachers.
+On 09 May 2018, Complainant wrote a letter to Respondent VCF informing him that she will file criminal and administrative cases against SPFS and all the persons whose signatures appeared on the letter dated 02 May 2018, which included Respondent VCF. Complainant enumerated the violations they have allegedly committed against her, namely, Section 2, Bill of Rights of the Philippines Constitution; [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Sections 25]] and [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|26]] of R.A. No. 10173 (Data Privacy Act of 2012); Section 1 of Article V, Section 2 of Article VI, and Sections 1, 2 and 3 of Article XI of Code of Ethics for Professional Teachers.
 
 On 25 September 2018, the Complaints and Investigation Division (CID) of this Commission received a Complaint[^10] from Complainant via its online complaints-assisted portal alleging that Respondent VCF requested from TCC her Official Transcript of Records and Diploma without her consent and knowledge.
 
@@ -125,7 +125,7 @@ Transcripts of Records are part of the usual pre-employment documents that need 
 
 Complainant also alleged in her Reply that her credentials were disclosed to unauthorized persons, such as the SPFS management committee, the PTA president of SPFS, the president of TCC, and the volunteer parishioners of SPFS.[^29] While the 02 May 2018 letter Complainant referred to states that it was attaching the "papers submitted by the said person," there is no evidence on record, however, showing the exact nature of those papers or that they contained personal information.
 
-It is a basic rule of evidence that mere allegations are not equivalent to proof.[^30] As this Commission held in *JV v. JR*:[^31]
+It is a basic rule of evidence that mere allegations are not equivalent to proof.[^30] As this Commission held in [[decisions/2019/npc-17-047-jv-vs-jr|*JV v. JR*]]:[^31]
 
 > The complaint shall only be recommended for prosecution if it is supported with relevant evidence which a reasonable mind might accept as adequate to justify a conclusion. The allegations in the complaint must be based on substantial evidence that there is a clear and real violation of the law.
 
@@ -201,10 +201,10 @@ National Privacy Commission
 [^23]: Rejoinder received by General Records Unit on 22 January 2019.
 [^24]: *Supra* note 12.
 [^25]: Emphasis supplied.
-[^26]: Data Privacy Act, Section 3(j).
+[^26]: Data Privacy Act, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(j)]].
 [^27]: *Supra* note 20, at par. 4(o).
 [^28]: *Ibid.*, at par. 4(q).
 [^29]: *Ibid.*, at par. 4(f), (g), and (i).
 [^30]: *See*, Morales v. Ombudsman, 798 SCRA 609, 17 July 2016.
-[^31]: NPC Case No. 17-047, 13 August 2019, available at https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf.
+[^31]: [[decisions/2019/npc-17-047-jv-vs-jr|NPC Case No. 17-047]], 13 August 2019, available at https://www.privacy.gov.ph/wp-content/uploads/2020/10/CID-17-047-JV-v.-JR-Decision-PSD-10Aug2020.pdf.
 [^32]: Emphasis supplied.

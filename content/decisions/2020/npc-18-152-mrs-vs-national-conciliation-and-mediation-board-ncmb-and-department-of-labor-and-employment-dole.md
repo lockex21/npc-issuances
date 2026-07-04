@@ -84,13 +84,13 @@ A few months after, Respondent NCMB furnished NPC with a letter that it sent to 
 
 ### Issue
 
-Whether or not Respondent NCMB and DOLE are liable for a violation of the Data Privacy Act of 2012.
+Whether or not Respondent NCMB and DOLE are liable for a violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
 
 ### Discussion
 
 Respondents are not liable for a violation of the Data Privacy Act of 2012.
 
-NPC Circular 16-04 (“Rules of Procedure”) provides that complaints may be dismissed outright for the following grounds:
+[[issuances/undated/rules-of-procedure|NPC Circular 16-04]] (“Rules of Procedure”) provides that complaints may be dismissed outright for the following grounds:
 
 1. The complainant did not give the respondent an opportunity to address the complaint, unless failure to do so is justified;
 
@@ -151,5 +151,5 @@ GENERAL RECORDS UNIT
 [^3]: *Supra* at Note 1.
 [^4]: Order to Confer for Discovery, n.d.
 [^5]: Letter from the NCMB dated 08 October 2018.
-[^6]: Section 12, NPC Circular 16-04. Dated 15 December 2016. Emphasis supplied.
+[^6]: [[issuances/undated/rules-of-procedure#rule-ii-complaints|Section 12]], NPC Circular 16-04. Dated 15 December 2016. Emphasis supplied.
 [^7]: *Ibid* at Section 4.

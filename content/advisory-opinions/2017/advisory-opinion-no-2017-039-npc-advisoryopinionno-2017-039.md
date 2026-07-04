@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2017"
+aliases:
+  - "NPC Advisory Opinion No. 2017-039"
+  - "npc advisory opinion no. 2017-039"
+  - "Advisory Opinion No. 2017-039"
+  - "advisory opinion no. 2017-039"
 draft: false
 ---
 
@@ -26,7 +31,7 @@ This pertains to your query received by the National Privacy Commission (NPC) on
 
 As per your email, you sought clarification as to whether a personal information controller ("PIC") or personal information processor ("PIP") is exempt from liability in case of breach arising from force majeure or Acts of God.
 
-A cursory reading of the Data Privacy Act of 2012 ("DPA") would reveal that "(t)he personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing"[^1] and "(t)he personal information controller shall implement reasonable and appropriate measures to protect personal information against natural dangers such as accidental loss or destruction, and human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration and contamination."[^2] However, the law is silent as to its application when an act falls under the category of a force majeure or fortuitous event.
+A cursory reading of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ("DPA") would reveal that "(t)he personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing"[^1] and "(t)he personal information controller shall implement reasonable and appropriate measures to protect personal information against natural dangers such as accidental loss or destruction, and human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration and contamination."[^2] However, the law is silent as to its application when an act falls under the category of a force majeure or fortuitous event.
 
 ### Discussion
 
@@ -53,7 +58,7 @@ Sincerely,
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: Data Privacy Act of 2012 (DPA), §20(a)
+[^1]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012 (DPA), §20(a)]]
 [^2]: *Ibid.*, §20(b)
 [^3]: Asset Privatization Trust vs. T.J. Enterprises, G.R. No. 167195, 08 May 2009.
 [^4]: *Ibid.*

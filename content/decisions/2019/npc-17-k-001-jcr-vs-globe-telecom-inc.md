@@ -63,9 +63,9 @@ After two weeks, Complainant inquired again about the status of her cancellation
 
 On 20 November 2017, Complainant filed her Complaint-Affidavit of even date before this Commission. According to her, she was worried about the integrity of her data and privacy because her primary means of communication and the repository of her personal data for six (6) years is now left uncertain in the hands of a stranger.
 
-Complainant alleges that “the inability of Globe to deactivate my lost Globe SIM, re-issue the same and restore my possession of my Globe number that belonged to me for the past six (6) years, qualify as a breach of its obligations under Republic Act No. 10173 or the Data Privacy Act of 2012 and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]].”[^1]
+Complainant alleges that “the inability of Globe to deactivate my lost Globe SIM, re-issue the same and restore my possession of my Globe number that belonged to me for the past six (6) years, qualify as a breach of its obligations under Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]].”[^1]
 
-Complainant further alleges that Respondent violated Sections 25 and 28(d) of the Implementing Rules and Regulations (“IRR”) of the Data Privacy Act of 2012 for failure to implement reasonable and appropriate security measures to protect the availability, integrity and confidentiality of her personal data.
+Complainant further alleges that Respondent violated [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Sections 25]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|28(d)]] of the Implementing Rules and Regulations (“IRR”) of the Data Privacy Act of 2012 for failure to implement reasonable and appropriate security measures to protect the availability, integrity and confidentiality of her personal data.
 
 For their part, Respondent argues in their Comment[^2] dated 28 August 2018 that there are no violations of the Data Privacy Act alleged in the Complaint. According to Respondent, the facts in the complaint discussed matters relating to a SIM replacement issue and/or customer service issue which was resolved when the replacement SIM card was issued to Complainant on 21 March 2018. As such, these are beyond the jurisdiction of this Commission.
 
@@ -115,7 +115,7 @@ For the reasons stated above, the Commission cannot agree with the Respondent th
 
 **WHEREFORE**, all the premises considered, the Commission finds no violation of the Data Privacy Act on the part of Respondent Globe Telecom, Inc. that is sufficient to warrant a recommendation for criminal prosecution. This Commission finds, however, that Respondent failed to adopt and implement the necessary policies and procedure relating to the prevention, correction, and mitigation against security incidents that can lead to a personal data breach.
 
-The Commission hereby **ORDERS** Respondent Globe Telecom to submit a complete report on the measures it has undertaken or will undertake to address the issue of delayed SIM deactivation such as in this case, including the timeline for the implementation of such measures, within thirty (30) days from receipt of this Decision. Reference may be made to the requirements provided in the Implementing Rules and Regulations of the Data Privacy Act, particularly Section 28, paragraphs (c), (d), (e), and (f).
+The Commission hereby **ORDERS** Respondent Globe Telecom to submit a complete report on the measures it has undertaken or will undertake to address the issue of delayed SIM deactivation such as in this case, including the timeline for the implementation of such measures, within thirty (30) days from receipt of this Decision. Reference may be made to the requirements provided in the Implementing Rules and Regulations of the Data Privacy Act, particularly [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|Section 28]], paragraphs (c), (d), (e), and (f).
 
 **SO ORDERED.**
 
@@ -151,5 +151,5 @@ National Privacy Commission
 [^5]: Rick Ayers, et al., Cellphone Forensic Tools: An Overview and Analysis Update, NIST IR 7387, United States of America National Institute of Standards and Technology, available at https://doi.org/10.6028/NIST.IR.7387, retrieved on 09 December 2019.
 [^6]: See 3rd Generation Partnership Project: Technical Specification Group Terminals Specification of the Subscriber Identity Module – Mobile Equipment (SIM – ME) Interface, 3GPP TS 11.11 v8.14.0 (2007-06) available at https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=419, retrieved on 09 December 2019.
 [^7]: Records, p. 35.
-[^8]: See Data Privacy Act, Sec. 20 (c)(3).
-[^9]: Implementing Rules and Regulations of DPA, Sec. 28 (d).
+[^8]: See [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act, Sec. 20]] (c)(3).
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-28-guidelines-for-technical-security-measures|Implementing Rules and Regulations of DPA, Sec. 28]] (d).

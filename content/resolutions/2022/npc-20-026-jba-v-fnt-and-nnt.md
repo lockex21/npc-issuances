@@ -47,7 +47,7 @@ This Commission resolves the Motion for Reconsideration (MR) filed by FNT on the
 
 ### Facts
 
-On 22 September 2022, the Commission issued a Decision and held FNT liable for a violation of Section 25 (Unauthorized Processing of Personal Information and Sensitive Personal Information) of Republic Act No. 10173 or the Data Privacy Act (DPA):
+On 22 September 2022, the Commission issued a [[decisions/2022/npc-20-026-jba-v-fnt-and-nnt|Decision]] and held FNT liable for a violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (Unauthorized Processing of Personal Information and Sensitive Personal Information)]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act (DPA)]]:
 
 **WHEREFORE**, premises considered, this Commission hereby:
 
@@ -151,7 +151,7 @@ The Commission denies FNT's MR. The Commission finds no reason to overturn the D
 
 #### I. FNT filed the MR out of time.
 
-For cases before the NPC, judgments, orders, or resolutions shall be served either personally, by registered mail, by courier, or by electronic mail.[^32] Rule III, Section 6 of the NPC Circular 2021-01 (2021 NPC Rules of Procedure) provides:
+For cases before the NPC, judgments, orders, or resolutions shall be served either personally, by registered mail, by courier, or by electronic mail.[^32] Rule III, Section 6 of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 2021-01 (2021 NPC Rules of Procedure)]] provides:
 
 > **Section 6. Service of judgments, orders, or resolutions of the NPC.** Judgments, orders, or resolutions shall be served either personally, by registered mail, by courier, or by electronic mail: Provided, that service by electronic mail shall only be made if the party recipient consents to such mode of service or by order of the Commission. Provided further, that when a complaint or pleading is filed through electronic mail, the Commission may serve its judgments, orders, or resolutions by electronic mail through the same electronic mail address used in the filing of the complaint or pleading, unless otherwise indicated therein.[^33]
 
@@ -159,7 +159,7 @@ The Commission's judgments, orders, or resolutions shall only be served through 
 
 This situation, however, cannot apply to this case. FNT cannot claim that her email is unavailable since she herself admitted that she received the e-mails from the NPC Adjudication Secretariat. In fact, the records show that FNT received the Decision by email on 29 December 2022.[^35]
 
-A period of fifteen (15) days from the receipt of the copy of the decision is given to a party for him or her to file an appeal.[^36] Section 4, Rule 8 of the 2021 NPC Rules of Procedure provides that the Commission's decision becomes final and executory within fifteen (15) days from receipt of the parties:
+A period of fifteen (15) days from the receipt of the copy of the decision is given to a party for him or her to file an appeal.[^36] Section 4, Rule 8 of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-viii-decision|2021 NPC Rules of Procedure]] provides that the Commission's decision becomes final and executory within fifteen (15) days from receipt of the parties:
 
 > **Section 4. Appeal.** The decision of the Commission shall become final and executory fifteen (15) calendar days after receipt of a copy by both parties. One motion for reconsideration may be filed, which shall suspend the running of the said period. Any appeal from the Decision shall be to the proper courts, in accordance with law and rules.[^37]
 
@@ -177,7 +177,7 @@ Despite this, FNT only filed her MR on 20 January 2023 or seven (7) days beyond 
 
 Nevertheless, even if the MR was filed on time, FNT still did not provide any new or material allegations to justify a reversal of the Decision dated 22 September 2022.
 
-In the Decision dated 22 September 2022, the Commission held FNT liable for Section 25 (Unauthorized Processing of Sensitive or Personal Information) of the DPA.[^42] FNT processed JBA's personal information by posting ad listings even after JBA's resignation.[^43] When JBA submitted her official resignation letter, she withdrew her consent and explicitly exercised her right to erasure as a data subject.[^44]
+In the [[decisions/2022/npc-20-026-jba-v-fnt-and-nnt|Decision]] dated 22 September 2022, the Commission held FNT liable for [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (Unauthorized Processing of Sensitive or Personal Information)]] of the [[laws/data-privacy-act-of-2012|DPA]].[^42] FNT processed JBA's personal information by posting ad listings even after JBA's resignation.[^43] When JBA submitted her official resignation letter, she withdrew her consent and explicitly exercised her right to erasure as a data subject.[^44]
 
 In the MR, FNT relies heavily on the allegation that she denies the processing of JBA's personal information after her resignation because of the "AUTO-RENEW" feature of ads posted on the Sheryna website.[^45]
 
@@ -223,7 +223,7 @@ In the Decision dated 22 September 2022, the Commission ruled that "availing of 
 
 Even if FNT argues that the ads are not "newly posted" by her, this does not change the fact that the ads which contain JBA's personal information keep appearing on the website because of the feature she availed of in 2016. This reinforces the fact that FNT was unable to discontinue such ads. She also failed to do anything from the time the staff member who had access resigned until JBA resigned and exercised her right to erasure and even after that.
 
-Lastly, FNT averred that she did not pay for the subscription of Sheryna's auto-renewal feature.[^58] In her MR, she again failed to provide additional circumstances that would warrant a denial of the request for erasure under Section 10(B)(2) of NPC Advisory 21-01 on Data Subject Rights. Absent any of those circumstances, she should have acted on JBA's request for erasure.
+Lastly, FNT averred that she did not pay for the subscription of Sheryna's auto-renewal feature.[^58] In her MR, she again failed to provide additional circumstances that would warrant a denial of the request for erasure under Section 10(B)(2) of [[issuances/2021/data-subject-rights|NPC Advisory 21-01 on Data Subject Rights]]. Absent any of those circumstances, she should have acted on JBA's request for erasure.
 
 Upon JBA's resignation on 30 October 2018, FNT should have initiated the removal of ads containing JBA's personal information. The ads served a specific purpose which is no longer relevant after JBA's resignation making its continued presence in the website unnecessary.[^59] Thus, FNT should have removed the same since it was specifically requested in JBA's resignation letter that "all the dummy account [sic] you created in my name will be remove [sic] in [sic] Facebook, [LinkedIn] [and] any website and other online services."[^60]
 
@@ -337,15 +337,15 @@ National Privacy Commission
 
 [^31]: *Id.*
 
-[^32]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]], rule III, § 6 (28 January 2021).
+[^32]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]] [NPC Circular No. 2021-01], rule III, § 6 (28 January 2021).
 
-[^33]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC Circular No. 2021-01], rule III, § 6 (28 January 2021). Emphasis supplied.
+[^33]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]] [NPC Circular No. 2021-01], rule III, § 6 (28 January 2021). Emphasis supplied.
 
 [^34]: *Id.*
 
 [^35]: Statement in Support for the Submission of Motion of Extension of Time and Motion for Reconsideration, 13 February 2023, at 2, *in JBA v. FNT and NNT, NPC 20-026* (NPC 2023).
 
-[^36]: NPC 2021 Rules of Procedure, rule II, § 4.
+[^36]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC 2021 Rules of Procedure]], rule II, § 4.
 
 [^37]: *Id.* Emphasis supplied.
 
@@ -367,9 +367,9 @@ National Privacy Commission
 
 [^46]: Verified Comment of FNT, 23 December 2021, at 2, *in JBA v. FNT and NNT, NPC 20-026* (NPC 2021).
 
-[^47]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 21 (a) and (b) (2012). Emphasis supplied.
+[^47]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|§ 21 (a) and (b)]] (2012). Emphasis supplied.
 
-[^48]: Data Privacy Act, § 3 (h). Emphasis supplied.
+[^48]: [[laws/data-privacy-act-of-2012|Data Privacy Act]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]]. Emphasis supplied.
 
 [^49]: Verified Comment of FNT, 23 December 2021, at 5, *in JBA v. FNT and NNT, NPC 20-026* (NPC 2021).
 
@@ -379,7 +379,7 @@ National Privacy Commission
 
 [^52]: *Id.* at 15.
 
-[^53]: Data Privacy Act, § 21 (a) and (b). Emphasis supplied.
+[^53]: [[laws/data-privacy-act-of-2012|Data Privacy Act]], [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|§ 21 (a) and (b)]]. Emphasis supplied.
 
 [^54]: Motion for Reconsideration, 20 January 2023, at 1, *in JBA v. FNT and NNT, NPC 20-026* (NPC 2023).
 

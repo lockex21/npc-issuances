@@ -7,6 +7,11 @@ tags:
   - "year/2021"
   - "topic/data-sharing"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-035"
+  - "npc advisory opinion no. 2021-035"
+  - "Advisory Opinion No. 2021-035"
+  - "advisory opinion no. 2021-035"
 ---
 
 ## Source
@@ -59,7 +64,7 @@ You raised the following concerns relative to the above:
 
 #### Criteria for lawful processing
 
-Sections 12 and 13 of the DPA provides for a set of criteria in the processing of personal and sensitive personal information (collectively, personal data), respectively, apart from consent. Particularly, processing that is necessary for compliance with a legal obligation,[^3] provided for by existing laws and regulations,[^4] or necessary for the establishment, exercise, or defense of legal claims,[^5] may be applicable.
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA provides for a set of criteria in the processing of personal and sensitive personal information (collectively, personal data), respectively, apart from consent. Particularly, processing that is necessary for compliance with a legal obligation,[^3] provided for by existing laws and regulations,[^4] or necessary for the establishment, exercise, or defense of legal claims,[^5] may be applicable.
 
 We understand that PHIC has been granted quasi-judicial powers which include the conduct of investigations pursuant to Section 17 of RA No. 7875, as amended by RA No. 10606.[^6] Thus, where the processing of personal data is required pursuant to its mandate, specifically for investigations, the same is recognized under the DPA.
 
@@ -77,7 +82,7 @@ As to PHIC’s request on the release of certified true copies of death certific
 
 #### Data sharing; data sharing agreements; term
 
-We would like to note that NPC Circular No. 2020-038 superseded NPC Circular No. 16-02 as the governing rule regarding data sharing.[^8]
+We would like to note that [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-038]] superseded [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] as the governing rule regarding data sharing.[^8]
 
 On the term or duration of the data sharing arrangement, the current Circular provides as follows:
 
@@ -98,11 +103,11 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 12 (c).
-[^4]: Id. § 13 (b).
-[^5]: Id. § 13 (f).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]] (c).
+[^4]: Id. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]] (b).
+[^5]: Id. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]] (f).
 [^6]: An Act Amending Republic Act No. 7875, Otherwise Known as The "National Health Insurance Act of 1995", As Amended, And For Other Purposes [National Health Insurance Act of 2013], Republic Act No. 10606, § 17 (2013).
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
-[^8]: National Privacy Commission, Data Sharing Agreements [NPC Circular 2020-038] (23 December 2020).
+[^7]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18]] (c) (2016).
+[^8]: National Privacy Commission, [[issuances/2020/data-sharing-agreements|Data Sharing Agreements]] [NPC Circular 2020-038] (23 December 2020).
 [^9]: Id. 9 (D).

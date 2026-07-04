@@ -46,7 +46,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission is a complaint filed by JCB against JME for an alleged violation of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a complaint filed by JCB against JME for an alleged violation of the [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -368,19 +368,19 @@ GENERAL RECORDS UNIT
 [^42]: NPC 2021 Rules of Procedure, rule II, § 3.
 [^43]: *Id.* rule IV, § 1 (1).
 [^44]: Complaint-Affidavit, 26 January 2021, Annexes A & B, in JCB v. JME, NPC 21-032 (NPC 2021).
-[^45]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (g) (2012).
+[^45]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]] (2012).
 [^46]: *See* Complaint-Affidavit, 26 January 2021, ¶ 13, in JCB v. JME, NPC 21-032 (NPC 2021); Complainant's Memorandum, 06 January 2022, at 2-3, 10-12, in JCB v. JME, NPC 21-032 (NPC 2022).
-[^47]: Data Privacy Act of 2012, § 12 (f).
+[^47]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (f)]].
 [^48]: CID Case No. 17-K003, 19 November 2019, (NPC 2019) (unreported).
 [^49]: *BGM v. IPP*, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]], 17 December 2020, available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 06 June 2022).
-[^50]: Data Privacy Act of 2012, § 13 (f).
+[^50]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13 (f)]].
 [^51]: [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], 03 March 2022, at 11, (NPC 2022) (unreported).
 [^52]: Comment, 08 November 2021, at 10, in JCB v. JME, NPC 21-032 (NPC 2021).
-[^53]: Data Privacy Act of 2012, § 31.
+[^53]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|§ 31]].
 [^54]: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-015]], 03 February 2022, (NPC 2022) (unreported).
 [^55]: Complainant's Memorandum, 06 January 2022, at 3, in JCB v. JME, NPC 21-032 (NPC 2022).
 [^56]: *Id.* at 3-5.
-[^57]: Data Privacy Act of 2012, § 32.
+[^57]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|§ 32]].
 [^58]: [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021 (NPC 2021) (unreported).
 [^59]: *Metropolitan Bank and Trust Co. v. Liberty Corrugated Boxes Manufacturing Corp.*, G.R. No. 184317 (2017).
 [^60]: *Fort Bonifacio Development Corp. v. Commissioner of Internal Revenue*, G.R. Nos. 158885 & 170680 (Resolution) (2009).

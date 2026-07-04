@@ -68,7 +68,7 @@ On 07 April 2018 a regenerated third CA PIN was delivered to the billing address
 
 On even date, the Commission, through its Complaints and Investigation Division (CID), received the Letter of Complaint dated 06 April 2018 from the Complainant.
 
-The Complainant alleged that the Respondent exposed his personal and sensitive personal information (i.e., full name, address, CA PIN, and name of bank) to persons unknown to him and that it may bring potential risk to his finances and safety. Complainant thus charges Respondent with violations of Sections 32 and 33 of the Data Privacy Act of 2012 (DPA).[^4]
+The Complainant alleged that the Respondent exposed his personal and sensitive personal information (i.e., full name, address, CA PIN, and name of bank) to persons unknown to him and that it may bring potential risk to his finances and safety. Complainant thus charges Respondent with violations of [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Sections 32]] and [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|33]] of the Data Privacy Act of 2012 (DPA).[^4]
 
 Respondent filed its Comment in compliance with the Commission’s Order dated 04 July 2018. Respondent argues the following:
 
@@ -134,7 +134,7 @@ Further, even if the Respondent subcontracts its courier service, the DPA still 
 
 > **SEC. 14. Subcontract of Personal Information.** – A personal information controller may subcontract the processing of personal information: Provided, That the personal information controller shall be responsible for ensuring that proper safeguards are in place to ensure the confidentiality of the personal information processed, prevent its use for unauthorized purposes, and generally, comply with the requirements of this Act and other laws for processing of personal information. The personal information processor shall comply with all the requirements of this Act and other applicable laws.
 
-Thus, even if the Complainant failed to establish his case by substantial evidence, this Commission would not be precluded to conduct Compliance Check to the Respondent herein as provided by NPC Circular No. 18-02. This is to ensure that its processes and procedures are compliant with the DPA and other issuances of the Commission.
+Thus, even if the Complainant failed to establish his case by substantial evidence, this Commission would not be precluded to conduct Compliance Check to the Respondent herein as provided by [[issuances/undated/guidelines-on-compliance-checks|NPC Circular No. 18-02]]. This is to ensure that its processes and procedures are compliant with the DPA and other issuances of the Commission.
 
 WHEREFORE, all premises considered, this Commission resolves to **DISMISS** the instant Complaint filed by JLB against Security Bank Corporation for lack of merit.
 

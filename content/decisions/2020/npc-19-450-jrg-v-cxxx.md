@@ -158,15 +158,15 @@ GENERAL RECORDS UNIT
 [^8]: Order dated 18 September 2019.
 [^9]: Comment dated 08 October 2019. Emphasis supplied.
 [^10]: *Ibid*.
-[^11]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] dated 15 December 2016 (“NPC Rules of Procedure”), Section 22. Emphasis supplied.
+[^11]: [[issuances/undated/rules-of-procedure#rule-iii-procedure-in-complaints|NPC Circular No. 16-04]] dated 15 December 2016 (“NPC Rules of Procedure”), Section 22. Emphasis supplied.
 [^12]: G.R. No. 165585, 20 November 2013, citing *Real v. Belo*, 542 Phil. 109 (2007).
-[^13]: Republic Act No. 10173, Section 25.
-[^14]: *Id.*, at Section 28.
+[^13]: [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Republic Act No. 10173, Section 25]].
+[^14]: *Id.*, at [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28]].
 [^15]: Complaints-Assisted Form, p. 7.
 [^16]: *Supra* Note 11, at Section 19.
 [^17]: *Supra* Note 9.
 [^18]: *Id.*, at Annex A.
-[^19]: Republic Act No. 10173, Section 3(b).
+[^19]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173, Section 3(b)]].
 [^20]: NPC Advisory Opinion 2018-063. 23 October 2018.
 [^21]: See, Guidelines on transparency under Regulation 2016/679 of the Article 29 Working Party (2017).
 [^22]: *Ibid*.

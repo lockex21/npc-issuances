@@ -588,7 +588,7 @@ The preceding paragraph shall likewise apply if the complaint proceedings occurr
 ## RULE XI. BREACH INVESTIGATION
 
 **SECTION 1.** ***Procedure for personal data breach notification.***  The procedure for
-personal data breach notification and other requirements shall be governed by the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Implementing Rules and Regulations, and [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], including any of its amendments. These Rules shall apply in a suppletory character.
+personal data breach notification and other requirements shall be governed by the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], including any of its amendments. These Rules shall apply in a suppletory character.
 
 **SECTION 2.** ***Receipt of data breach notifications.***  The CMD shall be the initial recipient
 of data breach notifications. The CMD shall assign an evaluating officer to evaluate the data breach notification.

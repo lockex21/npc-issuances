@@ -71,7 +71,7 @@ Whether Respondent processed the sensitive personal information of Complainant f
 
 The Commission hereby resolves to dismiss the instant case.
 
-NPC Circular 16-041 (Rules) provides that the National Privacy Commission, sua sponte, or persons who are the subject of a privacy violation or personal data breach, or who are otherwise personally affected by a violation of the Data Privacy Act (DPA), may file complaints for violations of the Act.[^1]
+[[issuances/undated/rules-of-procedure#rule-ii-complaints-for-violations-of-the-data-privacy-act|NPC Circular 16-041]] (Rules) provides that the National Privacy Commission, sua sponte, or persons who are the subject of a privacy violation or personal data breach, or who are otherwise personally affected by a violation of the Data Privacy Act (DPA), may file complaints for violations of the Act.[^1]
 
 In this case, Complainant avers that the documents he submitted to Respondent contains sensitive personal information that might fall into the wrong hands and be used for purposes other than those he intended. Thus, as a precautionary measure, he appealed to the Commission so that adequate protection may be accorded to the personal data that he submitted to Respondent.
 
@@ -117,5 +117,5 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 
-[^1]: Section 3, NPC Rules of Procedure
+[^1]: [[issuances/undated/rules-of-procedure#rule-ii-complaints-for-violations-of-the-data-privacy-act|Section 3, NPC Rules of Procedure]]
 [^2]: Luxuria Homes Inc. vs. CA, GR No. 125986, Jan 28, 1999

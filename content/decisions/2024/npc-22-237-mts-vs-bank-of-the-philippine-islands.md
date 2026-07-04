@@ -64,7 +64,7 @@ x-------------------------------------------------------x
 
 DE JESUS, *D.P.C.*;
 
-Before the Commission is MTS' complaint against Respondent BPI – ZBC (BPI) for alleged violation of Section 25 (Unauthorized Processing) and [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Access Due to Negligence) of the Data Privacy Act]] or Republic Act No. 10173 (DPA).[^1]
+Before the Commission is MTS' complaint against Respondent BPI – ZBC (BPI) for alleged violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (Unauthorized Processing)]] and [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Access Due to Negligence) of the Data Privacy Act]] or Republic Act No. 10173 (DPA).[^1]
 
 ### Facts
 
@@ -112,7 +112,7 @@ BPI, in its Comment, further denied the allegation of the Complainant that it vi
 
 BPI added that "aside from the Complainant's consent, the processing of her personal data was necessary for her continued use of the Respondent's services, facilities and channels. Hence, contrary to the Complainant's allegations, the foregoing discussion categorically proves that she expressly authorized the Respondent to process her data."[^30]
 
-As to the allegation of violation of Section 26 (Access Due to Negligence) of the DPA, BPI claims that "the Complainant miserably failed to present even a shred of competent evidence establishing that the Respondent was negligent in processing her data, and the same was the proximate cause of the fraudulent transactions. Verily, the burden of proof necessarily lies with the party making the allegation."[^31]
+As to the allegation of violation of [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Access Due to Negligence)]] of the DPA, BPI claims that "the Complainant miserably failed to present even a shred of competent evidence establishing that the Respondent was negligent in processing her data, and the same was the proximate cause of the fraudulent transactions. Verily, the burden of proof necessarily lies with the party making the allegation."[^31]
 
 To establish its diligence, BPI narrated in its Comment that it "implements a multi-factor authentication method to verify transactions made through BPI Online. This requires the concurrence of the following personal data conclusively presumed to be known only to the depositor:[^32]
 
@@ -224,7 +224,7 @@ On 09 November 2023, the Commission issued a Notice[^80] to the parties that thi
 
 ### Issue
 
-Whether BPI violated Section 25 (Unauthorized Processing) and Section 26 (Access Due to Negligence) of the DPA.
+Whether BPI violated [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (Unauthorized Processing)]] and [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Access Due to Negligence)]] of the DPA.
 
 ### Discussion
 
@@ -252,7 +252,7 @@ Thus, the Complainant in this case bears the burden of proof to substantiate her
 
 #### *Respondent is not liable under Section 25 of the DPA due to lack of substantial evidence.*
 
-To be held liable under Section 25 of the DPA, the following requisites must concur:
+To be held liable under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]], the following requisites must concur:
 
 > 1. The perpetrator processed the information of the data subject;
 > 2. The information processed was personal information or sensitive personal information;
@@ -272,7 +272,7 @@ As such, since the Complainant failed to substantiate that BPI processed her per
 
 #### *Respondent is not liable under Section 26 of the DPA due to lack of substantial evidence.*
 
-As to the alleged violation of Section 26 (Access Due to Negligence), Complainant also failed to sufficiently prove that the unauthorized access to her information was brought about by the negligence on the part of BPI.
+As to the alleged violation of [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Access Due to Negligence)]], Complainant also failed to sufficiently prove that the unauthorized access to her information was brought about by the negligence on the part of BPI.
 
 Anent this claimed negligence by BPI, Complainant asserts BPI's negligence on account that there was "[n]ot enough protection BPI provided to [my] account knowing that we have a scammer/fraudster here in the Philippines and it is getting wild, and that BPI "did not provide enough notice not to entertain such a call."[^99] However, these claims are unsupported by concrete evidence. The Complainant has failed to substantiate her allegations with proof of a violation of Section 26 of the DPA.
 
@@ -418,8 +418,8 @@ National Privacy Commission
 [^86]: Luxuria Homes, Inc. v. Court of Appeals, G.R. No. 125986, January 28, 1999, 302 SCRA 315, 325; Coronel v. Court of Appeals, G.R. No. 103577, October 7, 1996, 263 SCRA 15, 35.
 [^87]: G.R. No. 165585, 20 November 2013.
 [^88]: *Id.,* citing Real v. Belo, 542 Phil. 109 (2007).
-[^89]: In Re: FLI Operating ABC Online Lending Application, NPC 19-910, Decision dated 17 December 2020 at p. 17.
-[^90]: National Privacy Commission, Data Privacy Act of 2012, Chapter I § 3(j) (2012). Emphasis supplied.
+[^89]: In Re: FLI Operating ABC Online Lending Application, [[decisions/2020/npc-19-910-in-re-fli-operating-abc-online-lending-application|NPC 19-910]], Decision dated 17 December 2020 at p. 17.
+[^90]: National Privacy Commission, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, Chapter I § 3(j)]] (2012). Emphasis supplied.
 [^91]: Complaints-Assisted Form dated 26 October 2022 of MTS.
 [^92]: *Id.*
 [^93]: *Id.*

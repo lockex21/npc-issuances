@@ -9,6 +9,11 @@ tags:
 - topic/legitimate-interest
 - topic/online-lending
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-012"
+  - "npc advisory opinion no. 2023-012"
+  - "Advisory Opinion No. 2023-012"
+  - "advisory opinion no. 2023-012"
 ---
 
 ## Source
@@ -64,7 +69,7 @@ For such purpose, CIBI intends to collect the following specific datapoints:
         j.   other details in the signed application form, if applicable.
 
 Desiring to pursue its initiative while committed to comply with Republic Act No. 10173, or
-the Data Privacy Act of 2012 (DPA),[^4] CIBI seeks guidance on the following:
+the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA),[^4] CIBI seeks guidance on the following:
 
    1. Whether information pertaining to juridical entities that are in default of their payment
        obligations either from sales transactions or loans be shared to CIBI to improve debt
@@ -140,8 +145,8 @@ evidenced by written, electronic or recorded means as prescribed by the DPA.
 
 In keeping with best practices, CIBI may enter into a data sharing agreement (DSA) with each
 of its members to properly document the obligations, responsibilities, and liabilities of the
-PICs involved in the transfer of personal data. Under NPC Memorandum Circular No. 2020-
-03,[^9] the execution of a DSA demonstrates accountability on the part of the PICs as [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]] requires the PIC to use contractual or other reasonable means to provide a
+PICs involved in the transfer of personal data. Under [[issuances/2020/data-sharing-agreements|NPC Memorandum Circular No. 2020-
+03]],[^9] the execution of a DSA demonstrates accountability on the part of the PICs as [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 of the DPA]] requires the PIC to use contractual or other reasonable means to provide a
 comparable level of protection while the personal data is being processed by a third party.
 
 Should the individual client refuse to consent to the processing, CIBI can also rely on Section
@@ -162,7 +167,7 @@ personal information, thus:
        overridden by the legitimate interests of the PICs, considering the likely impact of the
        processing on the data subjects.[^10]
 
-Subsequently, the NPC provided in MAF v. Shopee[^11] the conditions for lawful processing based
+Subsequently, the NPC provided in [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|MAF v. Shopee]][^11] the conditions for lawful processing based
 on legitimate interest under the DPA, viz.:
 
    Processing based on legitimate interest requires the fulfillment of the
@@ -194,7 +199,7 @@ and its members are required to regularly monitor for security breaches and take
 corrective and mitigating measures against incidents which may lead to security breaches.
 
 In the same vein, the PICs shall uphold the rights of the data subject at all times. For more
-information on the rights of the data subjects, please see NPC Advisory No. 2021-01.
+information on the rights of the data subjects, please see [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]].
 
 Please be advised that this Advisory Opinion was rendered based solely on the information
 you provided. Any extraneous fact that may be subsequently furnished us may affect our
@@ -212,12 +217,12 @@ Director IV, Privacy Policy Office
 [^1]: Tags: lawful criteria for processing, data sharing, credit information, consent, legitimate interest.
 [^2]: Formerly known as the Credit Information Exchange System.
 [^3]: CIBI website, About Us, available at https://www.cibi.com.ph/about-us/ (last accessed 27 March 2023).
-[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^5]: Data Privacy Act of 2012, § 4.
-[^6]: Id. § 3 (g).
-[^7]: National Privacy Commission, NPC Advisory Opinion No. 2020-002 (06 Feb 2020).
-[^8]: Id. § 3 (b).
-[^9]: National Privacy Commission, Data Sharing Agreements, Memorandum Circular No. 2020-03 [NPC Circular 2020-03] (23 December 2020).
-[^10]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed Feb. 12, 2020).
-[^11]: National Privacy Commission, MAF v. Shopee [NPC 19-073] (March 2021).
+[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^5]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
+[^6]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id. § 3 (g)]].
+[^7]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-002-redacted-advisory-opinion-no-2020-002-2|NPC Advisory Opinion No. 2020-002]] (06 Feb 2020).
+[^8]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id. § 3 (b)]].
+[^9]: National Privacy Commission, Data Sharing Agreements, [[issuances/2020/data-sharing-agreements|Memorandum Circular No. 2020-03]] [NPC Circular 2020-03] (23 December 2020).
+[^10]: See generally, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (f)]]; United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed Feb. 12, 2020).
+[^11]: National Privacy Commission, [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|MAF v. Shopee]] [NPC 19-073] (March 2021).
 [^12]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-039-redacted-advisory-opinion-no-2020-039-2|NPC Advisory Opinion No. 2020-039]] (11 December 2020).

@@ -106,13 +106,13 @@ Records show that the parties did not submit any further pleadings or compliance
 
 ### Issue
 
-Whether Respondent Bank of the Philippine Islands is liable under the DPA.
+Whether Respondent Bank of the Philippine Islands is liable under the [[laws/data-privacy-act-of-2012|DPA]].
 
 ### Discussion
 
 The Commission dismisses the complaint for lack of substantial evidence.
 
-*Respondent did not commit a violation of the DPA.*
+*Respondent did not commit a violation of the [[laws/data-privacy-act-of-2012|DPA]].*
 
 Preliminarily, it is observed that Complainant did not specify a particular provision of the DPA violated by the Respondent in her CAF[^43] or in the Complaint-Affidavit[^44] attached. However, regardless of the designation of the act allegedly committed by Respondent, the Commission deems it proper to dismiss the charge against Respondent considering that Complainant failed to provide sufficient evidence to prove any participation whatsoever on the part of Respondent in the alleged disclosure of her personal data.
 
@@ -231,7 +231,7 @@ GENERAL RECORDS UNIT
 [^47]: 2019 Amendment to the 1989 Revised Rules on Evidence, A.M. No. 19-08-15-SC, Rule 131, § 1 (1 May 2020).
 [^48]: Gatmaytan v. Dolor, G.R. 198120, 20 February 2017.
 [^49]: *Id.*
-[^50]: IBC v. PBI, CID No. 17-K-004, undated.
+[^50]: IBC v. PBI, [[decisions/2017/ibc-vs-pbi|CID No. 17-K-004]], undated.
 [^51]: *Id.*
 [^52]: Complaints-Assisted Form dated 02 May 2019 of KDC.
 [^53]: Complaint-Affidavit dated 02 May 2019 of KDC.

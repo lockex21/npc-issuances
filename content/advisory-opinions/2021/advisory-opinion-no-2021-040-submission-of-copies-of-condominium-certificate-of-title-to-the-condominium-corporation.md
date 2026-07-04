@@ -7,6 +7,11 @@ tags:
   - "year/2021"
   - "topic/consent"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-040"
+  - "npc advisory opinion no. 2021-040"
+  - "Advisory Opinion No. 2021-040"
+  - "advisory opinion no. 2021-040"
 ---
 
 ## Source
@@ -39,7 +44,7 @@ You also provided in your letter that Perla Mansion is an old building with mini
 
 The DPA applies to the processing of all types of personal and sensitive personal information (collectively, personal data) and to any natural or juridical person involved in the processing of personal data.[^4] A CCT contains personal data of the registered owner such as the name, marital status, address, and citizenship. Hence, the processing of a CCT falls within the scope of the DPA.
 
-The DPA provides for the various criteria for lawful processing of personal and sensitive personal information in Sections 12 and 13, respectively. As the CCT contains sensitive personal information, PCC should determine the most appropriate lawful basis for processing under Section 13 of the law, taking into account the purpose of the processing and PCC's relationship with the data subjects. In particular, the following criteria may be considered:
+The DPA provides for the various criteria for lawful processing of personal and sensitive personal information in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]], respectively. As the CCT contains sensitive personal information, PCC should determine the most appropriate lawful basis for processing under Section 13 of the law, taking into account the purpose of the processing and PCC's relationship with the data subjects. In particular, the following criteria may be considered:
 
 "SECTION 13. Sensitive Personal Information and Privileged Information. — The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 
@@ -51,9 +56,9 @@ For consent-based processing, the DPA requires consent to be freely given, speci
 
 Hence, if consent is the most appropriate basis, PCC should obtain the consent of the unit owners prior to the collection of copies of their CCTs. The consent must be documented in a form which states the specific purpose for which the CCTs will be used and other details on, among others, the processing involved, identity of the personal information controller, rights of data subjects and ways to exercise the same. PCC must provide the adequate details to enable the data subjects to make an informed decision on the processing of their personal data.
 
-For Section 13 (f), the Commission had the opportunity to clarify the same, specifically on the criterion of the establishment, exercise or defense of legal claims in the case of BGM vs. IPP:[^8]
+For Section 13 (f), the Commission had the opportunity to clarify the same, specifically on the criterion of the establishment, exercise or defense of legal claims in the case of [[decisions/2020/19-653-bgm-vs-ipp|BGM vs. IPP]]:[^8]
 
-"In the case of NPC 17-018 dated 15 July 2019, this Commission held that "processing as necessary for the establishment of legal claims" does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of "establishment … of legal claims" presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established."
+"In the case of [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]] dated 15 July 2019, this Commission held that "processing as necessary for the establishment of legal claims" does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of "establishment … of legal claims" presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established."
 
 This Commission in the same case went on further and held that: The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is "necessary" or may or may not be collected by lawyers for purposes of building a case, applying the qualifier "necessary" to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of "establishment of legal claims" consistent with the general principles of legitimate purpose and proportionality. As regards legitimate purpose, the Implementing Rules and Regulations (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings." (underscoring supplied)
 
@@ -85,12 +90,12 @@ Very truly yours,
 OIC-Director IV, Privacy Policy Office
 
 [^1]: Tags: Condominium Certificate of Title; lawful processing; consent; establishment, exercise, or defense of legal claims; general data privacy principles; proportionality; privacy impact assessment.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4 (2012).
-[^5]: Data Privacy Act of 2012, § 3 (c).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2016).
+[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]] (2012).
+[^5]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (c).
 [^6]: Ibid.
-[^7]: Id. § 13 (a).
+[^7]: Id. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]] (a).
 [^8]: National Privacy Commission, BGM vs. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
-[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c).
+[^9]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18]] (c).
 [^10]: Ibid.

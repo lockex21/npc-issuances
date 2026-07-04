@@ -57,7 +57,7 @@ On 08 February 2024, the Commission issued a Decision with the following disposi
 
 **WHEREFORE**, premises considered, this Commission hereby:
 
-1. HOLDS Respondent RB liable for Unauthorized Disclosure, violating Section 32 of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA);
+1. HOLDS Respondent RB liable for Unauthorized Disclosure, violating [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32]] of Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA);
 
 2. AWARDS the Complainant JAA with nominal damages in the amount of ₱20,000.00 for Respondent's unauthorized disclosure of his personal information and sensitive personal information, pursuant to [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (f) of the DPA]]; and
 
@@ -65,9 +65,9 @@ On 08 February 2024, the Commission issued a Decision with the following disposi
 
 **SO ORDERED**.[^1]
 
-On 26 June 2024, Respondent received a copy of the abovementioned Decision through electronic mail.[^2] Under the 2021 Rules of Procedure of the National Privacy Commission (2021 ROP), as amended, the Decision of the Commission shall become final and executory fifteen (15) calendar days from notice thereof with proof of service to the adverse party.[^3] Hence, Respondent had until 11 July 2024 to file his MR.
+On 26 June 2024, Respondent received a copy of the abovementioned Decision through electronic mail.[^2] Under the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]] (2021 ROP), as amended, the Decision of the Commission shall become final and executory fifteen (15) calendar days from notice thereof with proof of service to the adverse party.[^3] Hence, Respondent had until 11 July 2024 to file his MR.
 
-On 09 July 2024, Respondent, through counsel, filed his MR without paying the corresponding fees, wherein he assailed the Decision finding him liable for Unauthorized Disclosure under Section 32 of Republic Act 10173 or the Data Privacy Act of 2012 (DPA) and recommending his prosecution therein.[^4] The arguments in his MR were anchored on the following:
+On 09 July 2024, Respondent, through counsel, filed his MR without paying the corresponding fees, wherein he assailed the Decision finding him liable for Unauthorized Disclosure under [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32]] of Republic Act 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and recommending his prosecution therein.[^4] The arguments in his MR were anchored on the following:
 
 First, Respondent alleged that the right to privacy must be balanced with the exercise of the Police Power of the State.[^5]
 
@@ -79,7 +79,7 @@ In times of national crisis and emergency, Respondent believed that the governme
 
 Respondent, as Barangay Captain, is charged with maintaining the peace, order, and safety in the Barangay, including the implementation of COVID-19 protocols and regulations passed by various government agencies.[^9] In the exercise of these laws, Respondent is purportedly exercising the Police Power of the State.[^10]
 
-Second, Respondent contended that not all elements of Unauthorized Disclosure were present because the disclosure is lawful and justified under Sections 12 and 13 of the DPA, it is neither malicious nor in bad faith, and the information disclosed was not unwarranted or false.[^11] Respondent is of the opinion that:
+Second, Respondent contended that not all elements of Unauthorized Disclosure were present because the disclosure is lawful and justified under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, it is neither malicious nor in bad faith, and the information disclosed was not unwarranted or false.[^11] Respondent is of the opinion that:
 
 > As one of the government officials being in charge of safeguarding and protecting the public, and likewise implementing the rules, guidelines and regulations of Covid-19 guidelines, it is part and parcel of the duties of the respondent as a Barangay Chairman to identify the names of the patients inflicted with the Covid-19 Pandemic. This is part of the contract tracing being done by the respondent, which involves identification of individuals residing in a community.
 >
@@ -91,7 +91,7 @@ Moreover, Respondent asserted that Complainant's failure to comply with COVID-19
 
 However, there is supposedly no unnecessary disclosure by the Respondent because he only posted Complainant's information in the group chat limited to the legitimate residents and homeowners of XXX and not for the general public.[^17]
 
-Lastly, Respondent argued that Complainant is not entitled to nominal damages under Section 16 (f) of the DPA since there was no violation of his right to privacy due to substantial State interest.[^18] Furthermore, Respondent averred:
+Lastly, Respondent argued that Complainant is not entitled to nominal damages under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (f)]] of the DPA since there was no violation of his right to privacy due to substantial State interest.[^18] Furthermore, Respondent averred:
 
 > The National Privacy Commission is only authorized to award indemnity to the person whose right to privacy was invaded under Section 16 (f) of the DPA. However, the office is not authorized to determine the existence of damages under the Civil Code, nor should the Civil Code be applied suppletorily in its determination of awarding its indemnities.[^19]
 
@@ -99,7 +99,7 @@ Thus, Respondent prayed that the Commission reconsider its Decision dated 08 Feb
 
 On 15 July 2024, by reason of Respondent's non-payment of the required fees, the Commission, through its Enforcement Division (EnD), furnished the parties with the Entry of Judgment dated 12 July 2024.[^21]
 
-On 16 July 2024, the EnD ordered Respondent to submit proof of payment and/or receipt of the nominal damages for the Complainant within ten (10) days from receipt of the letter.[^22] The EnD stated that the 08 February 2024 Decision became final and executory on 11 July 2024 as it appears that Respondent failed to pay the necessary filing fee for his MR, in accordance with NPC Circular 2023-01 (Schedule of Fees and Charges of the NPC).[^23]
+On 16 July 2024, the EnD ordered Respondent to submit proof of payment and/or receipt of the nominal damages for the Complainant within ten (10) days from receipt of the letter.[^22] The EnD stated that the 08 February 2024 Decision became final and executory on 11 July 2024 as it appears that Respondent failed to pay the necessary filing fee for his MR, in accordance with [[issuances/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|NPC Circular 2023-01 (Schedule of Fees and Charges of the NPC)]].[^23]
 
 On 19 July 2024, Complainant submitted his Comment and Opposition to the MR filed by the Respondent, stating that the Commission did not err in finding him liable for Unauthorized Disclosure under Section 32 of the DPA:
 
@@ -145,7 +145,7 @@ Hence, Complainant prayed that the 08 February 2024 Decision be reaffirmed, the 
 
 On 25 July 2024, Respondent filed his Motion to Reconsider Entry of Judgment.[^33] Respondent averred that he paid the appropriate fees in the amount of XXX as filing fee for the MR and XXX for the legal research fee, through the LANDBANK Link.BizPortal on 11 July 2024.[^34]
 
-Respondent claimed that under Section 4 of NPC Circular 23-01, online payment is allowed and may be coursed through the NPC's official online payment partner.[^35] Respondent therefore prays that the Commission consider his payment as substantial compliance to the abovementioned Circular and that the instant case be decided on the merits rather than on technicalities.[^36]
+Respondent claimed that under Section 4 of [[issuances/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|NPC Circular 23-01]], online payment is allowed and may be coursed through the NPC's official online payment partner.[^35] Respondent therefore prays that the Commission consider his payment as substantial compliance to the abovementioned Circular and that the instant case be decided on the merits rather than on technicalities.[^36]
 
 On 05 August 2024, Complainant filed his Comment and Opposition to the Motion to Reconsider Entry of Judgment Filed by Respondent on the ground that the filing fee for his MR was not paid and received on 11 July 2024.[^37]
 
@@ -169,7 +169,7 @@ The Commission resolves to deny Respondent's Motion for Reconsideration.
 
 #### Respondent has timely paid the appropriate filing fees.
 
-Sections 7 and 8, Rule VIII of the 2021 ROP, as amended, provides:
+Sections 7 and 8, Rule VIII of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-viii-decision|2021 ROP]], as amended, provides:
 
 > **SECTION 7. Motion for reconsideration on the decision issued by the Commission.** – The decision of the Commission shall become final and executory fifteen (15) calendar days from notice thereof with proof of service to the adverse party. One motion for reconsideration may be filed, which shall suspend the running of the period. Any appeal from the decision shall be to the proper courts, in accordance with law and the rules.[^43]
 
@@ -177,7 +177,7 @@ Sections 7 and 8, Rule VIII of the 2021 ROP, as amended, provides:
 
 In this case, Respondent received a copy of the Decision through electronic mail on 26 June 2024.[^45] Following the abovementioned provisions, Respondent has fifteen (15) calendar days from 26 June 2024 or until 11 July 2024 to file his MR before the judgment becomes final and executory.
 
-Section 4, Rule II of the 2021 ROP provides for the general rule that no further action on a complaint shall be made unless the appropriate filing fees have been paid.[^46] In relation to this, Sections 3 and 4 of NPC Circular 23-01 state:
+Section 4, Rule II of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|2021 ROP]] provides for the general rule that no further action on a complaint shall be made unless the appropriate filing fees have been paid.[^46] In relation to this, Sections 3 and 4 of [[issuances/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|NPC Circular 23-01]] state:
 
 > **Section 3. Date of Payment** – Fees shall be considered to have been paid as follows:
 >
@@ -201,7 +201,7 @@ As it is clearly established that Respondent's payment was made within the regle
 
 #### Respondent's disclosure of Complainant's personal data does not find lawful basis under the DPA or any existing law.
 
-Respondent insists that the disclosure of Complainant's personal and sensitive personal information is lawful and justified under Sections 12 and 13 of the DPA.[^50] As Barangay Captain, Respondent supports his argument by reiterating his involvement in the implementation of rules and regulations of the COVID-19 guidelines, such as contact tracing, which mandates him to identify the names of the patients inflicted with the virus.[^51]
+Respondent insists that the disclosure of Complainant's personal and sensitive personal information is lawful and justified under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA.[^50]  As Barangay Captain, Respondent supports his argument by reiterating his involvement in the implementation of rules and regulations of the COVID-19 guidelines, such as contact tracing, which mandates him to identify the names of the patients inflicted with the virus.[^51]
 
 This contention does not hold water. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b) of the DPA]] provides for one of the lawful criteria for processing sensitive personal information, to wit:
 
@@ -213,7 +213,7 @@ This contention does not hold water. [[laws/data-privacy-act-of-2012#section-13-
 
 There is no dispute that it is Respondent's obligation as Barangay Chairman to maintain the peace, order, and safety in their Barangay, which includes the implementation of COVID-19 protocols and regulations. However, this duty is not without boundaries in the same way that the processing under Section 13 (b) is not absolute, as such regulatory enactments should still guarantee the protection of sensitive personal information.[^53]
 
-On this note, Section 5 (A) of NPC Circular 2021-02 (Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures) states:
+On this note, Section 5 (A) of [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|NPC Circular 2021-02]] (Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures) states:
 
 > **SECTION 5. Further processing; limitation.** — Further processing of personal data may be allowed in instances which are compatible or consistent with the response to public health emergencies as part of public health measures, such as but not limited to historical, statistical, or scientific purposes.
 >
@@ -350,33 +350,33 @@ National Privacy Commission
 [^40]: Urgent Manifestation and Compliance dated 15 August 2024 of RB.
 [^41]: Id., at p.1.
 [^42]: Id., at pp.1-2.
-[^43]: 2024 Amendments to the 2021 NPC Rules of Procedure, rule VIII, § 7.
-[^44]: 2024 Amendments to the 2021 NPC Rules of Procedure, rule VIII, § 8.
+[^43]: [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|2024 Amendments to the 2021 NPC Rules of Procedure]], rule VIII, § 7.
+[^44]: [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|2024 Amendments to the 2021 NPC Rules of Procedure]], rule VIII, § 8.
 [^45]: Motion for Reconsideration dated 09 July 2024 of RB, at p. 1.
-[^46]: 2024 Amendments to the 2021 NPC Rules of Procedure, rule II, § 4.
-[^47]: National Privacy Commission, Schedule of Fees and Charges of the National Privacy Commission, NPC Circular 2023-01, § 3 (17 May 2023) (NPC Circular 23-01).
+[^46]: [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|2024 Amendments to the 2021 NPC Rules of Procedure]], rule II, § 4.
+[^47]: National Privacy Commission, Schedule of Fees and Charges of the National Privacy Commission, [[issuances/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|NPC Circular 2023-01]], § 3 (17 May 2023) (NPC Circular 23-01).
 [^48]: NPC Circular 23-01, § 4.
 [^49]: Comment and Opposition to the Motion to Reconsider Entry of Judgment Filed by Respondent dated 05 August 2024 of JAA, at p. 3.
 [^50]: Motion for Reconsideration dated 09 July 2024 of RB, at p. 4.
 [^51]: Id., at p. 4.
-[^52]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 13 (b) (2012).
+[^52]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter III, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13 (b)]] (2012).
 [^53]: Id.
-[^54]: National Privacy Commission, Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures, NPC Circular 2021-02, § 5 (A), (08 November 2021) (NPC Circular 2021-02).
+[^54]: National Privacy Commission, Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures, [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|NPC Circular 2021-02]], § 5 (A), (08 November 2021) (NPC Circular 2021-02).
 [^55]: Comment and Opposition to the Motion for Reconsideration Filed by the Respondent dated 19 July 2024 of JAA, at p. 15.
 [^56]: Motion for Reconsideration dated 09 July 2024 of RB, at p. 7.
 [^57]: Id.
-[^58]: Public Disclosure of Identities of COVID Patients for Contact Tracing, [[advisory-opinions/2020/advisory-opinion-no-2020-022-public-disclosure-of-identities-of-covid-patients-for-contact-tracing|NPC Advisory Opinion No. 2020-022]], (08 June 2020, at p. 3.
+[^58]: Public Disclosure of Identities of COVID Patients for Contact Tracing, [[advisory-opinions/2020/advisory-opinion-no-2020-022-public-disclosure-of-identities-of-covid-patients-for-contact-tracing|NPC Advisory Opinion No. 2020-022]], 08 June 2020, at p. 3.
 [^59]: JA vs. RB, NPC 21-085, Decision dated 08 February 2024, at pp. 20-21.
 [^60]: Department of Health, Updated Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease Cases, Department Memorandum 2020-0189 (2020).
 [^61]: Department of Health and National Privacy Commission, Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002, VI (F) (2020).
 [^62]: JA vs. RB, NPC 21-085, Decision dated 08 February 2024, at pp. 18-19.
 [^63]: Id.
-[^64]: Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion No. 2020-022, 08 June 2020, at pp. 3-4.
+[^64]: Public Disclosure of Identities of COVID Patients for Contact Tracing, [[advisory-opinions/2020/advisory-opinion-no-2020-022-public-disclosure-of-identities-of-covid-patients-for-contact-tracing|NPC Advisory Opinion No. 2020-022]], 08 June 2020, at pp. 3-4.
 [^65]: Motion for Reconsideration dated 08 July 2024 of RB, at p. 7.
-[^66]: Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion No. 2020-022, 08 June 2020, at p. 3.
-[^67]: Data Privacy Act of 2012, chapter IV, § 16 (f).
-[^68]: Data Privacy Act of 2012, chapter II, § 7 (b).
+[^66]: Public Disclosure of Identities of COVID Patients for Contact Tracing, [[advisory-opinions/2020/advisory-opinion-no-2020-022-public-disclosure-of-identities-of-covid-patients-for-contact-tracing|NPC Advisory Opinion No. 2020-022]], 08 June 2020, at p. 3.
+[^67]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter IV, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16 (f)]].
+[^68]: Data Privacy Act of 2012, chapter II, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|§ 7 (b)]].
 [^69]: Motion for Reconsideration dated 09 July 2024 of RB, at p. 8.
-[^70]: Data Privacy Act of 2012, chapter VIII, § 37.
+[^70]: Data Privacy Act of 2012, chapter VIII, [[laws/data-privacy-act-of-2012#section-37-restitution|§ 37]].
 [^71]: An Act to Ordain and Institute the Civil Code of the Philippines [Civil Code of the Philippines], Republic Act No. 386, book IV, chapter 3, § 3, Art. 2221 (1949).
 [^72]: NFM vs. Bank of the Philippine Islands Family – Credit Card Division, [[decisions/2023/npc-19-1273-nfm-v-bpi|NPC 19-1273]], Decision dated 19 January 2023, at p. 13.

@@ -65,7 +65,7 @@ This was reiterated in the [[laws/implementing-rules-and-regulations-of-the-data
 >
 > 1. Issuing cease and desist orders, or imposing a temporary or permanent ban on the processing of personal data, upon finding that the processing will be detrimental to national security or public interest, or if it is necessary to preserve and protect the rights of data subjects.
 
-In the exercise of its rule-making power and to flesh out the provision above, the NPC issued NPC Circular 20-02, otherwise known as the Rules on the Issuance of Cease and Desist Order on 06 October 2020. Section 5 thereof provides who may apply for CDO, thus:
+In the exercise of its rule-making power and to flesh out the provision above, the NPC issued [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular 20-02]], otherwise known as the Rules on the Issuance of Cease and Desist Order on 06 October 2020. Section 5 thereof provides who may apply for CDO, thus:
 
 > "Section 5. Filing of Application. – An action for the issuance of a CDO may be commenced upon the filing with the Commission of an application in writing, verified and under oath, by any of the following applicants:
 >
@@ -125,5 +125,5 @@ ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 
 [^1]: Page 1, Application for Issuance of Cease and Desist Order.
-[^2]: See RA 10173, Section 7.
+[^2]: See [[laws/data-privacy-act-of-2012|RA 10173]], [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7]].
 [^3]: See *Id.*, Section 2.

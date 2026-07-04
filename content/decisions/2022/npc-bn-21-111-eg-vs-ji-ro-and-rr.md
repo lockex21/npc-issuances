@@ -53,7 +53,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before this Commission is a Complaint filed by EG against JI, RO, and RR (collectively, Respondents) for an alleged violation of Section 32 of Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by EG against JI, RO, and RR (collectively, Respondents) for an alleged violation of [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA)]].
 
 ### Facts
 
@@ -233,7 +233,7 @@ In EG Complaint, he alleged that "he did not give his consent in the disclosure 
 
 Respondents further alleged that the Spouses JM and PM requested a copy of the CCTV Footage "as evidence to show lack of physical interaction (sic) between the two parties and to enlighten the Barangay Moonwalk that only [a] simple misunderstanding of both parties had transpired." Respondents also argued that the data subjects whose personal information was processed are those of Spouses JM and PM personal information, which was necessary for their defenses against EG accusation in the barangay proceedings.
 
-Meanwhile, under Section 7 of NPC Advisory No. 2020-04:
+Meanwhile, under Section 7 of [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|NPC Advisory No. 2020-04]]:
 
 > **SECTION 7. Data subject request for access.** – Any person whose image is recorded on a CCTV system has a right to reasonable access and/or be supplied with a copy of their own personal data from the footage, subject to the provisions of Section 13 of this Advisory.
 >
@@ -291,7 +291,7 @@ Further, Section 9 of NPC Advisory No. 2020-04, provides:
 
 It is apparent in the submissions of the parties that the CCTV footage obtained by the Spouses JM and PM was used as part of their defense in a complaint against them before the barangay. The CCTV footage was used to prove that there was no physical altercation between the Complainant and the Spouses JM and PM. Thus, the release of the footage was necessary for the exercise of the spouses' defenses in the barangay proceeding. The purpose for the release of the footage was adequately shown through the Investigation Request Form, and the Spouses JM and PM's letter dated 31 January 2020.
 
-In the case of *KRL vs. Trinity University of Asia, et. al.*, the Commission ruled:
+In the case of [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|*KRL vs. Trinity University of Asia, et. al.*]], the Commission ruled:
 
 > Although Section 13(f) applies to sensitive personal information while the information involved in this case is just personal information, the protection of lawful rights and interests under Section 13(f) by the respondent faculty members in this case is considered as legitimate interest pursuant to Section 12(f) of the DPA.
 

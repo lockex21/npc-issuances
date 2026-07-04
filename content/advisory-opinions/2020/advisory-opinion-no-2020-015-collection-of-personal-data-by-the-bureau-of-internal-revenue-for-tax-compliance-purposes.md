@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+aliases:
+  - "NPC Advisory Opinion No. 2020-015"
+  - "npc advisory opinion no. 2020-015"
+  - "Advisory Opinion No. 2020-015"
+  - "advisory opinion no. 2020-015"
 draft: false
 ---
 
@@ -157,10 +162,10 @@ Privacy Commissioner and Chairman
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) (2016).
+[^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d)]] (2016).
 
 [^4]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-022-npc-advisory-opinion-no-2019-022|NPC Advisory Opinion No. 2019-022]] (May 7, 2019).
 
-[^5]: Data Privacy Act of 2012, § 19.
+[^5]: [[laws/data-privacy-act-of-2012#section-19-non-applicability|Data Privacy Act of 2012, § 19]].
 
 [^6]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Oct. 29, 2018).

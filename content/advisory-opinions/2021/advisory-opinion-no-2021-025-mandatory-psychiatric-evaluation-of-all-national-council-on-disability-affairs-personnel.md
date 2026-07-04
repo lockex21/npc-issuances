@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2021-025 — Mandatory Psychiatric Evaluation Of All National Council On Disability Affairs Personnel"
 description: "Guidance on mandatory psychiatric evaluation of public employees under data privacy principles."
+aliases:
+  - "NPC Advisory Opinion No. 2021-025"
+  - "npc advisory opinion no. 2021-025"
+  - "Advisory Opinion No. 2021-025"
+  - "advisory opinion no. 2021-025"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -62,7 +67,7 @@ Executive Director rather than to the concerned NCDA personnel.
 
 #### Sensitive Personal Information; Health Information; Psychiatric Evaluation of Employees; Lawful Criteria for Processing Sensitive Personal Information by Employers; Consent
 
-The Data Privacy Act of 2012[^2] (DPA) considers an individual’s health information as sensitive
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) considers an individual’s health information as sensitive
 personal information.[^3] As such, the processing of the same, as a general rule, is prohibited
 unless the processing falls within the criteria for lawful processing enumerated under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], to wit:
 
@@ -161,7 +166,7 @@ OIC-Director IV, Privacy Policy Office
 [^1]: Tags: sensitive personal information; health information; psychiatric evaluation of employees; criteria for lawful processing of sensitive personal information; consent.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Id. § 3 (d) (2).
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (a) (2016).
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (a)]] (2016).
 [^5]: Id. § 18 (c).
 
 Copy furnished:     ''''''''''''' ''''''''''''''''''' ''''''''''''''''''''' ''''' '''''''''''''''''

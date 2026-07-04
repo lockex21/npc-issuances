@@ -9,6 +9,11 @@ tags:
   - topic/data-sharing
   - topic/government
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2017-052"
+  - "npc advisory opinion no. 2017-052"
+  - "Advisory Opinion No. 2017-052"
+  - "advisory opinion no. 2017-052"
 ---
 
 ## Source

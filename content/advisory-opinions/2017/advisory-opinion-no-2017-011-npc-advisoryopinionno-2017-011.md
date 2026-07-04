@@ -7,6 +7,11 @@ tags:
   - year/2017
   - data-privacy-act
   - scope
+aliases:
+  - "NPC Advisory Opinion No. 2017-011"
+  - "npc advisory opinion no. 2017-011"
+  - "Advisory Opinion No. 2017-011"
+  - "advisory opinion no. 2017-011"
 draft: false
 ---
 
@@ -38,4 +43,4 @@ Sincerely,
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: RA No. 10173, §4.
+[^1]: [[laws/data-privacy-act-of-2012#section-4-scope|RA No. 10173, §4]].

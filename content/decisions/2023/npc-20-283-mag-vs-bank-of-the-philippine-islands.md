@@ -42,7 +42,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission is a Complaint filed by MAG against the Bank of the Philippine Islands (BPI) for alleged violation of the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by MAG against the Bank of the Philippine Islands (BPI) for alleged violation of the Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -76,7 +76,7 @@ On 18 March 2021, the CID issued an Order cancelling and resetting the discovery
 
 On 05 April 2021, the CID issued another Order cancelling the discovery conference set on 06 April 2021 following the extension of the Enhanced Community Quarantine imposed in the National Capital Region and nearby provinces.[^30]
 
-In view of the effectivity of NPC Circular 21-01 (2021 Rules of Procedure of the NPC), the CID ordered the BPI to file its verified comment.[^31]
+In view of the effectivity of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 21-01 (2021 Rules of Procedure of the NPC)]], the CID ordered the BPI to file its verified comment.[^31]
 
 On 12 May 2021, the parties were ordered to appear virtually before the CID for preliminary conferences on 26 May 2021 and 09 June 2021.[^32]
 
@@ -100,7 +100,7 @@ In its Comment, BPI argued that MAG failed to substantiate her claim that she wa
 
 BPI claimed that other than her bare allegations, MAG "manifestly failed to adduce any evidence to support her claim that she indeed received a call from a fraudster."[^49] BPI argued that it cannot be faulted for denying MAG's claim for reversal because BPI "has in its favor the disputable presumption that the subject transactions were fair and regular and that the ordinary course of business has been followed."[^50] Further, the transactions cannot be reversed as they were properly authenticated.[^51] BPI stressed that once a transaction has been authenticated, the bank immediately transmits payment to the merchant.[^52] Thus, a reversal would already result in the bank's assumption of the financial obligation.[^53]
 
-BPI added that aside from the absence of any evidence to prove the alleged fraudulent call, even the identity of the alleged fraudster remained a mystery.[^54] Thus, on this ground alone, the complaint merits outright dismissal under Section 12 (d) of NPC Circular 21-01 (2021 NPC Rules of Procedure).[^55]
+BPI added that aside from the absence of any evidence to prove the alleged fraudulent call, even the identity of the alleged fraudster remained a mystery.[^54] Thus, on this ground alone, the complaint merits outright dismissal under Section 12 (d) of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 21-01 (2021 NPC Rules of Procedure)]].[^55]
 
 Further, BPI stated that MAG's claim that BPI made disclosures to the alleged fraudster is based solely on surmises and conjectures.[^56] BPI argued that MAG failed to adduce any evidence to show that the personal information possessed by the alleged fraudster came from BPI.[^57] BPI averred that "the instant charge is based solely on the [C]omplainant's hasty conclusion that simply because she just recently communicated with BPI, any information possessed by the alleged fraudster must have come from the bank without any justification or substantiation."[^58]
 
@@ -149,13 +149,13 @@ To support its defenses, BPI attached the following to its Memorandum: (1) Lette
 
 ### Issue
 
-Whether there is substantial evidence to find BPI liable for a violation of Section 26 (Accessing Due to Negligence) and Section 32 (Unauthorized Disclosure) of the DPA.
+Whether there is substantial evidence to find BPI liable for a violation of [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Accessing Due to Negligence)]] and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure)]] of the DPA.
 
 ### Discussion
 
 The Commission dismisses the case for lack of substantial evidence.
 
-BPI cannot be held liable for a violation of the DPA based on the allegations of and evidence submitted by MAG.
+BPI cannot be held liable for a violation of the [[laws/data-privacy-act-of-2012|DPA]] based on the allegations of and evidence submitted by MAG.
 
 In her Memorandum, MAG claims that the alleged fraudster gained access to her personal information because BPI was negligent in holding and storing her personal information.[^98] To substantiate her complaint, she submitted the printed screenshot of the call log,[^99] printed screenshots of the BPI OTP,[^100] an email thread between BPI and her,[^101] an email thread between Shopee and her,[^102] an email thread between Lazada and her,[^103] her BPI Statement of Account,[^104] and the BPI Cardholders' Statement of Disputed Item.[^105] She also attached a Certification of Authenticity stating that the evidence submitted consists of screenshots and photo reproductions of the original non-documentary evidence.[^106]
 

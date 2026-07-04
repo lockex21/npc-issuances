@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2019
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-032"
+  - "npc advisory opinion no. 2019-032"
+  - "Advisory Opinion No. 2019-032"
+  - "advisory opinion no. 2019-032"
 ---
 
 ## Source
@@ -27,7 +32,7 @@ We write in response to your letter request for an advisory opinion which sought
 issues in your company’s business operations:
 
 •     What data protection measures that your organization may further take involving the storage of personal and sensitive personal information of patients; and
-•     What measures should be taken in complying with the Data Privacy Act of 2012[^1] (DPA) with respect to the sharing of the analysis and anonymized disease and medical treatment information.
+•     What measures should be taken in complying with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) with respect to the sharing of the analysis and anonymized disease and medical treatment information.
 
 As stated in your letter, MedCheck E-Commerce, Inc. (MedCheck) is a healthcare clinical data
 company specializing in the collection and analysis of Real World Evidence (RWE), through a
@@ -81,13 +86,13 @@ In addition, MedCheck should have technical security measures which may come in 
 
 While security measures may not completely eliminate the risks involved in data processing, these minimize the effects of such risks on the data subjects.
 
-Accordingly, MedCheck should be transparent to the data subjects on how these risks shall be addressed and its capacity as a PIC to address the same. A privacy impact assessment (PIA)[^8] on MedCheck’s data processing system should be conducted. A PIA shall, among others, assist the organization in the identification, assessment, evaluation and management of the risks involved in the processing of personal data.[^9] For a more comprehensive discussion on the conduct of a PIA, kindly refer to NPC Advisory No. 2017-03.
+Accordingly, MedCheck should be transparent to the data subjects on how these risks shall be addressed and its capacity as a PIC to address the same. A privacy impact assessment (PIA)[^8] on MedCheck’s data processing system should be conducted. A PIA shall, among others, assist the organization in the identification, assessment, evaluation and management of the risks involved in the processing of personal data.[^9] For a more comprehensive discussion on the conduct of a PIA, kindly refer to [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]].
 
 #### Security measures in the sharing of anonymized medical data and statistics with third parties
 
 We understand that MedCheck is in the business of collection, analysis and sharing of
 anonymized medical data. For a more comprehensive discussion on the nature of anonymized
-data, we refer you to NPC Advisory Opinion No. 2017-27 dated 23 June 2017 on Anonymized
+data, we refer you to [[advisory-opinions/2017/advisory-opinion-no-2017-027-npc-advisoryopinionno-2017-027|NPC Advisory Opinion No. 2017-27]] dated 23 June 2017 on Anonymized
 Data for Marketing Analytics. To reiterate, anonymized data does not fall within the ambit of the
 DPA.
 
@@ -120,11 +125,11 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Data Privacy Act of 2012, § 3 (h).
+[^2]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]].
 [^3]: *Id.* § 3 (i).
-[^4]: *Id.* §§ 12–13.
-[^5]: *Id.* § 20.
-[^6]: Data Privacy Act of 2012, § 13; National Privacy Commission, Guidelines on Processing of Sensitive Personal Information, Advisory No. 2015-03 (2015).
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 25 (2016).
-[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 25 (2016).
+[^4]: *Id.* [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§§ 12]]–[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]].
+[^5]: *Id.* [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20]].
+[^6]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]]; National Privacy Commission, Guidelines on Processing of Sensitive Personal Information, Advisory No. 2015-03 (2015).
+[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|§ 25]] (2016).
+[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|§ 25]] (2016).
 [^9]: National Privacy Commission, Guidelines on Privacy Impact Assessment, [[issuances/2017/guidelines-on-privacy-impact-assessments|Advisory No. 2017-03]] (July 31, 2017).

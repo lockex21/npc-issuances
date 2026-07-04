@@ -54,13 +54,13 @@ On 13 November 2023, the Commission issued a Decision with the following disposi
 
 1. **HOLDS** Respondent Spouses CKP and CJC liable for violating [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the Data Privacy Act of 2012]]; and
 
-2. **FORWARDS** this Decision and a copy of the pertinent case records to the Secretary of Justice and recommends the prosecution of Spouses CKP and CJC for Unauthorized Processing of Personal Information and Sensitive Personal Information under Section 25 of the DPA.
+2. **FORWARDS** this Decision and a copy of the pertinent case records to the Secretary of Justice and recommends the prosecution of Spouses CKP and CJC for Unauthorized Processing of Personal Information and Sensitive Personal Information under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25]] of the DPA.
 
 **SO ORDERED**.[^1]
 
-On 22 February 2024, Spouses C received a copy of the Decision dated 13 November 2023 through electronic mail.[^2] Under the 2021 Rules of Procedure of the National Privacy Commission (2021 ROP), as amended, the Decision of the Commission shall become final and executory fifteen (15) calendar days from notice thereof with proof of service to the adverse party.[^3] Hence, Spouses C have until 08 March 2024 to file their MR.
+On 22 February 2024, Spouses C received a copy of the Decision dated 13 November 2023 through electronic mail.[^2] Under the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]] (2021 ROP), as amended, the Decision of the Commission shall become final and executory fifteen (15) calendar days from notice thereof with proof of service to the adverse party.[^3] Hence, Spouses C have until 08 March 2024 to file their MR.
 
-On 04 March 2024, Spouses C filed their MR, assailing the abovementioned Decision finding them liable for Unauthorized Processing of Personal Information and Sensitive Personal Information under Section 25 of Republic Act 10173 or the Data Privacy Act of 2012 (DPA) and recommending their prosecution therein.[^4]
+On 04 March 2024, Spouses C filed their MR, assailing the abovementioned Decision finding them liable for Unauthorized Processing of Personal Information and Sensitive Personal Information under Section 25 of Republic Act 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and recommending their prosecution therein.[^4]
 
 In addition to the defenses raised by Spouses C in their Verified Comment[^5] and Memorandum,[^6] the arguments in their MR were anchored on the following:
 
@@ -76,7 +76,7 @@ Spouses C additionally posited that while it is true that the NPC may waive the 
 
 More so, Complainants could never be purportedly exposed to any risk or any grave or irreparable damage because the disclosure was made only to the Investigating Prosecutor in NPS Docket No. INV-20B-01419 and not to the public at large.[^13] "No third parties, other than those who were parties in NPS Docket No. INV-20B-01419 received the disclosures, as Complainants themselves were aware and privy to said documents."[^14]
 
-Second, Spouses C argued that they had a basis to process the information under Section 12 (f) or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]].[^15]
+Second, Spouses C argued that they had a basis to process the information under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f)]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]].[^15]
 
 To support such claims, Spouses C alleged that the disclosures were made to strengthen their accusations against the Complainants for Estafa under Article 315 (2) (a) of the Revised Penal Code and to protect their rights and interests as Complainants in NPS Docket No. INV-20B-01419.[^16]
 
@@ -84,7 +84,7 @@ The disclosure was for the supposed purpose of showing to the Investigating Pros
 
 Thus, Spouses C insist that "this, by any stretch of the imagination, cannot be called anything but a legitimate interest."[^18]
 
-Also, Spouses C stressed on the previous Decisions of the Commission where documents containing personal data were processed in relation to complaints filed against the Complainants.[^19] Spouses C cited these to emphasize that the Commission, in such instances, upheld the processing as valid on the basis of Section 13(f) of the DPA.[^20]
+Also, Spouses C stressed on the previous Decisions of the Commission where documents containing personal data were processed in relation to complaints filed against the Complainants.[^19] Spouses C cited these to emphasize that the Commission, in such instances, upheld the processing as valid on the basis of [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f)]] of the DPA.[^20]
 
 Furthermore, Spouses C asserted that the Complainants have given their consent to the disclosure of their information.[^21] They hinged said argument on the fact that the Complainants did not complain to the NBI but resorted to filing their Joint Rejoinder Affidavit to counter the Spouses C's Joint Reply Affidavit.[^22]
 
@@ -102,7 +102,7 @@ The Commission resolves to deny the MR filed by Spouses CKP and CJC.
 
 #### I. The Commission validly exercised its authority to resolve the case on the merits.
 
-Section 2, Rule II of the 2021 ROP, as amended, states:
+Section 2, Rule II of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|2021 ROP]], as amended, states:
 
 > SECTION 2. Exhaustion of remedies. – No complaint shall be given due course unless it has been sufficiently established and proven that:
 >
@@ -132,7 +132,7 @@ Spouses C also asserted that the Complainants would not be exposed to any risk g
 
 This contention does not hold water. It should be emphasized that Spouses C themselves were already unauthorized persons as to the previous Syndicated Estafa case as they were not parties therein. As such, there arises a risk of serious harm to the Complainants given that persons not privy to said case were able to access documents relating to it.
 
-Moreover, the Spouses C attempted to establish their innocence by shifting the blame on the NBI, as they were allegedly the PIC.[^33] The Spouses C supported such claim by the Principle of Accountability under Section 21 of the DPA.[^34]
+Moreover, the Spouses C attempted to establish their innocence by shifting the blame on the NBI, as they were allegedly the PIC.[^33] The Spouses C supported such claim by the Principle of Accountability under [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21]] of the DPA.[^34]
 
 The Spouses C are wrong. A PIC is "a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf."[^35]
 
@@ -142,7 +142,7 @@ Thus, the Commission finds it appropriate to exercise its authority to resolve t
 
 #### II. The disclosure made by Spouses C does not fall within the processing necessary for the establishment, exercise, or defense of legal claims.
 
-Section 13 of the DPA provides that the processing of sensitive personal information and privileged information shall be prohibited, except when:
+[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]] of the DPA provides that the processing of sensitive personal information and privileged information shall be prohibited, except when:
 
 > (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.[^36]
 
@@ -172,11 +172,11 @@ Anent their last argument, Spouses C averred that the Complainants had actually 
 
 It is beyond cavil that the Complainants did not consent to such disclosure, whether expressly or impliedly. Under the DPA, the consent of the data subject is any "freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her."[^45]
 
-In their Memorandum, Complainants explicitly stated that Spouses C are liable for violating Sections 25, 28, 31, and 32 of the DPA for disclosing their personal information and sensitive personal information with the OCP-QC without their consent, or without being authorized under Sections 12 and 13 of the DPA.[^46] This express declaration from the Complainants clearly shows the absence of all the elements of consent as abovementioned.
+In their Memorandum, Complainants explicitly stated that Spouses C are liable for violating [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Sections 25]], [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|28]], [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|31]], and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]] of the DPA for disclosing their personal information and sensitive personal information with the OCP-QC without their consent, or without being authorized under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA.[^46] This express declaration from the Complainants clearly shows the absence of all the elements of consent as abovementioned.
 
 Furthermore, Spouses C's position that instead of complaining to the NBI or the Investigating Prosecutor regarding the supposed disclosure, Complainants chose to meet their allegations by filing a Joint Rejoinder Affidavit which revealed more information related to the Affidavit of Desistance, cannot be interpreted as consent, even impliedly.[^47]
 
-Section 10 (A) of NPC Circular 2023-04 (Guidelines on Consent) states that consent can never be assumed, and non-response does not constitute valid consent.[^48] Therefore, the DPA and the other issuances of the NPC do not recognize implied or tacit consent, as the Spouses C would like to believe.
+Section 10 (A) of [[issuances/2023/guidelines-on-consent|NPC Circular 2023-04 (Guidelines on Consent)]] states that consent can never be assumed, and non-response does not constitute valid consent.[^48] Therefore, the DPA and the other issuances of the NPC do not recognize implied or tacit consent, as the Spouses C would like to believe.
 
 In view of the foregoing, the Commission finds that Spouses C have not presented additional arguments supported by substantial evidence that would warrant the reversal of the Decision dated 13 November 2023.
 
@@ -221,7 +221,7 @@ GENERAL RECORDS UNIT
 
 [^1]: Spouses JG and AG vs. Spouses CKP and CJC, NPC 23-036, Decision dated 13 November 2023, at p. 13.
 [^2]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 1.
-[^3]: National Privacy Commission, Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission, NPC Circular 2024-01, rule VIII, § 7 (26 January 2024) (NPC Circular 24-01).
+[^3]: National Privacy Commission, Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission, [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 2024-01]], rule VIII, § 7 (26 January 2024) (NPC Circular 24-01).
 [^4]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 1.
 [^5]: Verified Comment dated 02 May 2023 of Spouses CKP and CJC.
 [^6]: Memorandum dated 12 June 2023 of Spouses CKP and CJC.
@@ -244,16 +244,16 @@ GENERAL RECORDS UNIT
 [^23]: Id.
 [^24]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 14.
 [^25]: Id., at p. 15.
-[^26]: NPC Circular 24-01, rule II, § 2.
+[^26]: [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 24-01]], rule II, § 2.
 [^27]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 3.
 [^28]: Spouses JG and AG vs. Spouses CKP and CJC, NPC 23-036, Decision dated 13 November 2023, at p. 13.
 [^29]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 3.
 [^30]: An Act to Ordain and Institute the Civil Code of the Philippines [Civil Code of the Philippines], Republic Act No. 386, chapter 1, Art. 3 (1949).
-[^31]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (l) (2012).
+[^31]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]] (2012).
 [^32]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 5.
 [^33]: Id., at p. 4.
 [^34]: Id.
-[^35]: Data Privacy Act of 2012, chapter I, § 3 (h).
+[^35]: Data Privacy Act of 2012, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]].
 [^36]: Id., chapter III, § 13 (f).
 [^37]: Id., chapter I, § 3 (j).
 [^38]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 7.
@@ -263,7 +263,7 @@ GENERAL RECORDS UNIT
 [^42]: CL vs. DDZ and DM vs. DDZ, [[decisions/2021/npc-19-030-and-npc-19-132-cl-vs-ddz-and-dm-vs-ddz|NPC 19-030]] and NPC 19-132, Resolution dated 10 June 2021, at p. 6.
 [^43]: Id.
 [^44]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 14.
-[^45]: Data Privacy Act of 2012, chapter I, § 3 (b).
+[^45]: Data Privacy Act of 2012, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (b)]].
 [^46]: Memorandum dated 12 June 2023 of Spouses CKP and CJC, at p. 19.
 [^47]: Motion for Reconsideration dated 04 March 2024 of Spouses CKP and CJC, at p. 14.
-[^48]: National Privacy Commission, Guidelines on Consent, NPC Circular 2023-04, § 10 (A) (07 November 2023) (NPC Circular 23-04).
+[^48]: National Privacy Commission, Guidelines on Consent, [[issuances/2023/guidelines-on-consent|NPC Circular 2023-04]], § 10 (A) (07 November 2023) (NPC Circular 23-04).

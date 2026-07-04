@@ -7,6 +7,11 @@ tags:
   - "year/2021"
   - "topic/data-subject-rights"
   - "topic/employment"
+aliases:
+  - "NPC Advisory Opinion No. 2021-001"
+  - "npc advisory opinion no. 2021-001"
+  - "Advisory Opinion No. 2021-001"
+  - "advisory opinion no. 2021-001"
 draft: false
 ---
 
@@ -29,7 +34,7 @@ We write in response to your request for an Advisory Opinion seeking clarificati
 
 We understand that the BM Online System is a web-based service that allows vacationing or returning OFW to get their Overseas Employment Certificate (OEC) without having to go the Philippine Overseas Employment Administration (POEA) Office or Philippine Overseas Labor and Office (POLO) Centers.[^2] This system is a collaboration between the Department of Labor and Employment (DOLE) and the POEA to expedite the application and processing of the OECs allowing the OFWs to make relevant OEC transactions online.[^3]
 
-Given the foregoing, you seek clarification on the data subjects' right to erasure as well as the proposal for the POEA to anonymize personal information of OFWs in the BM Online system, and whether this falls within the scope of the Data Privacy Act of 2012[^4] (DPA).
+Given the foregoing, you seek clarification on the data subjects' right to erasure as well as the proposal for the POEA to anonymize personal information of OFWs in the BM Online system, and whether this falls within the scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^4] (DPA).
 
 ### Discussion
 

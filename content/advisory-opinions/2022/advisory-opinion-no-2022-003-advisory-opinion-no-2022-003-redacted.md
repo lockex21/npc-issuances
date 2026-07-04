@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2022
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2022-003"
+  - "npc advisory opinion no. 2022-003"
+  - "Advisory Opinion No. 2022-003"
+  - "advisory opinion no. 2022-003"
 ---
 
 ## Source
@@ -29,9 +34,9 @@ We understand that the documents requested will be used by the requestor in conn
 
 ### Discussion
 
-#### Sensitive personal information; lawful processing; establishment, exercise or defense of legal claims under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the Data Privacy Act of 2012]]
+#### Sensitive personal information; lawful processing; establishment, exercise or defense of legal claims under Section 13(f) of the Data Privacy Act of 2012
 
-Republic Act No. 10713, otherwise known as the Data Privacy Act of 2012[^1] (DPA), provides a specific enumeration of personal data classified as sensitive personal information under the law, one of which involves a data subject's information pertaining to offenses and the incidence in relation thereto, to wit:
+Republic Act No. 10713, otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA), provides a specific enumeration of personal data classified as sensitive personal information under the law, one of which involves a data subject's information pertaining to offenses and the incidence in relation thereto, to wit:
 
 > "(1) Sensitive personal information refers to personal information: x x x
 >
@@ -39,7 +44,7 @@ Republic Act No. 10713, otherwise known as the Data Privacy Act of 2012[^1] (DPA
 
 In fine, any (1) proceeding for any offense committed or alleged to have been committed by a data subject; (2) the disposal of the proceedings; or (3) the sentence of any court in such proceedings, are considered as sensitive personal information under the DPA.
 
-Although there is a prohibition under the law to process sensitive personal information, the DPA also provide for exceptions to this rule. Section 13 (f) recognizes the processing which concerns the establishment, exercise, or defense of legal claims. The provision reads:
+Although there is a prohibition under the law to process sensitive personal information, the DPA also provide for exceptions to this rule. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] recognizes the processing which concerns the establishment, exercise, or defense of legal claims. The provision reads:
 
 > "SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases: x x x
 >
@@ -64,8 +69,8 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for other purposes [Data Privacy Act of 2012] Republic Act No. 10173, § 3 (l) (2) (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for other purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l) (2)]] (2012).
 [^2]: *Id.*, § 3 (l) (2).
-[^3]: Data Privacy Act of 2012, § 13 (f).
+[^3]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13 (f)]].
 [^4]: See: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-044-npc-advisory-opinion-no-2021-044|NPC Advisory Opinion No. 2021-044]] (Dec. 29, 2021).
 [^5]: *Id.*

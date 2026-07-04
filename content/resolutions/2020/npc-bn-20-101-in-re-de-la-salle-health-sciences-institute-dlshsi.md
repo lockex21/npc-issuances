@@ -52,7 +52,7 @@ Notification to the data subject would further expose the data subjects’ vulne
 
 ### Discussion
 
-Section 3 of the National Privacy Commission Circular 16-03 (Circular) defines security incident and data breach in this wise:
+Section 3 of the [[issuances/undated/personal-data-breach-management|National Privacy Commission Circular 16-03]] (Circular) defines security incident and data breach in this wise:
 
 > “Personal data breach” refers to a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed. A personal data breach may be in the nature of:
 >
@@ -108,7 +108,7 @@ GENERAL RECORDS UNIT
 
 [^1]: NPC BN 20-101 In re DLSHSI Initial Report dated 10 June 2020 at pp. 1.
 [^2]: Id at pp. 1.
-[^3]: Item 3, Section 3 (F), NPC Circular 16-03
+[^3]: Item 3, Section 3 (F), [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]
 [^4]: Item 1, id.
 [^5]: Item 2, id.
 [^6]: Section 3 (J), id.

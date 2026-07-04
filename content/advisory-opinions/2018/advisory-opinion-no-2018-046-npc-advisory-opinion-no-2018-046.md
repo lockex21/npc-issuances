@@ -8,6 +8,11 @@ tags:
   - topic/consent
   - topic/legitimate-interest
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-046"
+  - "npc advisory opinion no. 2018-046"
+  - "Advisory Opinion No. 2018-046"
+  - "advisory opinion no. 2018-046"
 ---
 
 ## Source
@@ -25,7 +30,7 @@ Re: CONSENT FOR BUSINESS CORRESPONDENCE
 
 Dear [Redacted],
 
-We write in response to your inquiry received by the National Privacy Commission (NPC) regarding consent for business correspondence. Specifically, you asked if business contact information on business cards is within the scope of Republic Act No. 10173,[^1] otherwise known as the Data Privacy Act of 2012 (DPA), and if written consent is needed when a person offers their contact information.
+We write in response to your inquiry received by the National Privacy Commission (NPC) regarding consent for business correspondence. Specifically, you asked if business contact information on business cards is within the scope of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] otherwise known as the Data Privacy Act of 2012 (DPA), and if written consent is needed when a person offers their contact information.
 
 ### Discussion
 
@@ -64,8 +69,8 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: *Id.* § 4.
-[^3]: *Id.* § 3(j).
-[^4]: *Id.* § 12.
+[^2]: *Id.* [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]].
+[^3]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(j)]].
+[^4]: *Id.* [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]].
 [^5]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), Recital 47 (2016).
 [^6]: *Id.*

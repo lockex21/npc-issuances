@@ -28,7 +28,7 @@ the State values the dignity of every human person and guarantees full respect f
 rights;
 
 WHEREAS, Article II, Section 24, of the Constitution provides that the State recognizes
-the vital role of communication and information in nation-building, and Section 2 of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], provides that it is the policy of the
+the vital role of communication and information in nation-building, and [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], provides that it is the policy of the
 State to protect the fundamental human right of privacy of communication while ensuring free
 flow of information to promote innovation and growth;
 
@@ -38,7 +38,7 @@ processing of personal data and putting at risk data subjects for identity theft
 harm, and that in order to afford protection of personal data, reasonable and appropriate
 organizational, physical and technical measures should be implemented;
 
-WHEREAS, Section 20(f) of the Act requires prompt notification of the National Privacy
+WHEREAS, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(f) of the Act]] requires prompt notification of the National Privacy
 Commission and affected data subjects when sensitive personal information or other
 information that may, under the circumstances, be used to enable identity fraud are reasonably
 believed to have been acquired by an unauthorized person, which may likely give rise to a real
@@ -56,7 +56,7 @@ hereby issues this Circular governing personal data breach management.
 
 **RULE I.** ***General Provisions.***
 
-**SECTION 1.** ***Scope.*** These Rules apply to any natural and juridical person in the government or private sector processing personal data outside of the Philippines, subject to the relevant provisions of the Act and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]].
+**SECTION 1.** ***Scope.*** These Rules apply to any natural and juridical person in the government or private sector processing personal data outside of the Philippines, subject to the relevant provisions of the [[laws/data-privacy-act-of-2012|Act]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]].
 
 **SECTION 2.** ***Purpose.*** These Rules provide the framework for personal data breach management and the procedure for personal data breach notification and other requirements.
 
@@ -149,7 +149,7 @@ communications system;
 D. Mitigation of possible harm and negative consequences to a data subject in the event of
 a personal data breach; and
 
-E. Compliance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all related issuances by the Commission
+E. Compliance with the [[laws/data-privacy-act-of-2012|Act]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all related issuances by the Commission
 pertaining to personal data breach notification.
 
 **SECTION 5.** ***Data Breach Response Team.*** A personal information controller or personal information processor shall constitute a data breach response team, which shall have at least one (1) member with the authority to make immediate decisions regarding critical action, if necessary. The team may include the Data Protection Officer.
@@ -162,7 +162,7 @@ information controller or personal information processor;
 B. Management of security incidents and personal data breaches; and
 
 C. Compliance by the personal information controller or personal information processor
-with the relevant provisions of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all related issuances by the
+with the relevant provisions of the [[laws/data-privacy-act-of-2012|Act]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all related issuances by the
 Commission on personal data breach management.
 
 The team must be ready to assess and evaluate a security incident, restore integrity to the
@@ -200,7 +200,7 @@ principles, and internal procedures for responding to security incidents;
 F. Procedure for the regular review of policies and procedures, including the testing,
 assessment, and evaluation of the effectiveness of the security measures.
 
-**SECTION 7.** ***Availability, Integrity and Confidentiality of Personal Data.*** The implementation of security measures shall be in accordance with the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the Commission. The security measures should be directed to ensuring the availability, integrity, and confidentiality of the personal data being processed, and may include:
+**SECTION 7.** ***Availability, Integrity and Confidentiality of Personal Data.*** The implementation of security measures shall be in accordance with the [[laws/data-privacy-act-of-2012|Act]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances of the Commission. The security measures should be directed to ensuring the availability, integrity, and confidentiality of the personal data being processed, and may include:
 
 A. Implementation of back-up solutions;
 

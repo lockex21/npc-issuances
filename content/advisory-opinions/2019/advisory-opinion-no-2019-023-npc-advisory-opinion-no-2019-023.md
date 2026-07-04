@@ -9,6 +9,11 @@ tags:
   - topic/employment
   - topic/legitimate-interest
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-023"
+  - "npc advisory opinion no. 2019-023"
+  - "Advisory Opinion No. 2019-023"
+  - "advisory opinion no. 2019-023"
 ---
 
 ## Source
@@ -26,7 +31,7 @@ Re: PROCESSING OF CCTV FOOTAGE UNDER THE DATA PRIVACY ACT OF 2012
 
 Dear [Redacted],
 
-We write in response to your request for advisory opinion received by the National Privacy Commission (NPC) which sought to clarify the following matters regarding Data Privacy Act of 2012[^2] (DPA):
+We write in response to your request for advisory opinion received by the National Privacy Commission (NPC) which sought to clarify the following matters regarding [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA):
 
 1. Whether the use of the closed-circuit television (CCTV) is allowed under the DPA; and
 2. Whether the CCTV footage is admissible as evidence in court.
@@ -41,7 +46,7 @@ Personal information is any information whether recorded in a material form or n
 
 A CCTV is a camera surveillance system that captures images of individuals or information relating to individuals.[^4] Accordingly, if a camera surveillance footage is of sufficient quality, a person with the necessary knowledge will be able to reasonably ascertain the identity of an individual from the footage.[^5]
 
-As can be gleaned from the foregoing, the footage and images captured in the CCTV, as a general rule, are considered personal information, and the provisions of the DPA, specifically Section 12, will apply:
+As can be gleaned from the foregoing, the footage and images captured in the CCTV, as a general rule, are considered personal information, and the provisions of the DPA, specifically [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]], will apply:
 
 - The data subject has given his or her consent;
 - The processing of personal information is necessary and is related to the fulfillment of a contract with the data subject or in order to take steps at the request of the data subject prior to entering into a contract;

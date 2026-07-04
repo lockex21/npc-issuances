@@ -8,6 +8,11 @@ tags:
   - topic/children
   - topic/consent
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2017-049"
+  - "npc advisory opinion no. 2017-049"
+  - "Advisory Opinion No. 2017-049"
+  - "advisory opinion no. 2017-049"
 ---
 
 ## Source

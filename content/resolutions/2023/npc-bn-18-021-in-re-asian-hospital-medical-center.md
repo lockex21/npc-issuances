@@ -88,13 +88,13 @@ Whether AHMC conducted proper breach management, including the implementation of
 
 The Commission finds that AHMC conducted proper breach management and implemented reasonable and appropriate security measures in addressing the breach. AHMC has also sufficiently notified the patient. Thus, the Commission resolves to close the matter.
 
-Section 20 (a) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) provides that a Personal Information Controller (PIC) should implement reasonable and appropriate measures to protect personal information:
+Section 20 (a) of Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) provides that a Personal Information Controller (PIC) should implement reasonable and appropriate measures to protect personal information:
 
 > Section 20. *Security of Personal Information*.
 >
 > (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^28]
 
-Similarly, Section 17 (D) of NPC Circular 16-03 (Personal Data Breach Management) provides a PIC with the obligation to notify the NPC of a personal data breach.[^29] The provision also outlines the content of notification specifically the measures that a PIC took to address the breach:
+Similarly, Section 17 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]] provides a PIC with the obligation to notify the NPC of a personal data breach.[^29] The provision also outlines the content of notification specifically the measures that a PIC took to address the breach:
 
 > Section 17. *Notification of the Commission*. The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 >
@@ -116,7 +116,7 @@ Similarly, Section 17 (D) of NPC Circular 16-03 (Personal Data Breach Management
 >
 > e. the measures being taken to prevent a recurrence of the incident.[^30]
 
-As early as its Initial Report, AHMC narrated the measures it took to address the breach following [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) of the DPA]] and Section 17 (D) (3) of NPC Circular 16-03.
+As early as its Initial Report, AHMC narrated the measures it took to address the breach following [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) of the DPA]] and Section 17 (D) (3) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
 Upon receiving a report of a potential data breach, AHMC initiated its Data Privacy Breach Protocol.[^31] This included the extraction of the names of the personnel who accessed the patient’s chart on the HIS and the conduct of interviews and dialogues with the involved personnel.[^32]
 
@@ -205,8 +205,8 @@ GENERAL RECORDS UNIT
 [^25]: *Id.*
 [^26]: *Id.*
 [^27]: *Id.*
-[^28]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (a) (2012).
-[^29]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], §17 (D)(3) (15 December 2016).
+[^28]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (a)]] (2012).
+[^29]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 3, Series of 2016]] [NPC Circ. No. 16-03], §17 (D)(3) (15 December 2016).
 [^30]: *Id.*
 [^31]: Initial Report, 22 February 2018, at 2, *in In re: Asian Hospital Medical Center*, NPC BN 18-021 (NPC 2018).
 [^32]: *Id.*
@@ -218,7 +218,7 @@ GENERAL RECORDS UNIT
 [^39]: Compliance, 19 October 2020, Annex C, *in In re: Asian Hospital Medical Center*, NPC BN 18-021 (NPC 2020).
 [^40]: *Id.*
 [^41]: *Id.*
-[^42]: NPC Circ. No. 16-03, § 18 (A).
+[^42]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 18 (A).
 [^43]: *Id.*
 [^44]: Initial Report, 22 February 2018, at 2, *in In re: Asian Hospital Medical Center*, NPC BN 18-021 (NPC 2018).
 [^45]: *Id.*

@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2024-015 — Request to Obtain Personal Data for Audit Purposes"
 description: "Advisory opinion on whether a government registrar may comply with the Commission on Audit's request for personal data of deceased persons for audit purposes under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2024-015"
+  - "npc advisory opinion no. 2024-015"
+  - "Advisory Opinion No. 2024-015"
+  - "advisory opinion no. 2024-015"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -23,7 +28,7 @@ Re: REQUEST TO OBTAIN A COPY OF PERSONAL DATA FOR AUDIT PURPOSES
 
 Dear [Redacted],
 
-We respond to your request for an Advisory Opinion on whether the Registrar (Registrar) may comply with the request of the Commission on Audit (COA) for a list of deceased persons without violating Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA).[^2]
+We respond to your request for an Advisory Opinion on whether the Registrar (Registrar) may comply with the request of the Commission on Audit (COA) for a list of deceased persons without violating [[laws/data-privacy-act-of-2012|Republic Act No. 10173, or the Data Privacy Act of 2012]] (DPA).[^2]
 
 You state in your letter that the COA requested the Registrar for a list of deceased persons
 containing personal information and sensitive personal information (collectively called
@@ -75,7 +80,7 @@ Accordingly, the COA must be provided with the necessary information to effectiv
 
 #### Principle of Proportionality
 
-There is a legal presumption granted to COA that it will lawfully process personal data pursuant to its mandate, and that the processing shall be limited to achieving the specific purpose, function, or activity. Nevertheless, COA remains subject to the requirements under the DPA, its IRR, and NPC issuances. This includes implementing security measures to secure and protect personal data mandated under NPC Circular No. 2023-06.[^8] Significantly, maintaining compliance with the law requires strict adherence to the data privacy principles outlined in the DPA, one of which is the principle of proportionality, to wit:
+There is a legal presumption granted to COA that it will lawfully process personal data pursuant to its mandate, and that the processing shall be limited to achieving the specific purpose, function, or activity. Nevertheless, COA remains subject to the requirements under the DPA, its IRR, and NPC issuances. This includes implementing security measures to secure and protect personal data mandated under [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular No. 2023-06]].[^8] Significantly, maintaining compliance with the law requires strict adherence to the data privacy principles outlined in the DPA, one of which is the principle of proportionality, to wit:
 
 > **Section 11. General Data Privacy Principles.** The processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.
 >
@@ -118,10 +123,10 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes.
+[^2]: [[laws/data-privacy-act-of-2012|An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes]].
 [^3]: Section 2, Article IX-D of the 1987 Constitution
 [^4]: *Yap v. Commission on Audit*, G.R. No. 158562, 23 April 2010.
 [^5]: Commission on Audit, Issuances, Revised Rules of Procedure, available at https://www.coa.gov.ph/issuances/2009-revised-rules-of-procedures-of-the-commission-on-audit/ (last accessed 11 October 2024).
 [^6]: *See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-035-npc-advisory-opinion-no-2018-035|Advisory Opinion No. 2018-035]]* (20 July 2018).
 [^7]: *Sanchez v. Commission on Audit*, G.R. No. 127545, 23 April 2008.
-[^8]: Security of Personal Data in the Government and the Private Sector.
+[^8]: [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]].

@@ -28,7 +28,7 @@ WHEREAS, by virtue of Proclamation No. 922, series of 2020, the President declar
 
 WHEREAS, the Department of Health, through Department Memorandum No. 2020-056, prescribed the strict observance of social distancing and other health measures to help fight the spread of the COVID-19 virus;
 
-WHEREAS, under the Rules of Procedure of the National Privacy Commission, parties are required to personally appear and/or testify before the Office of the National Privacy Commission in Discovery Conferences, Summary Hearings, Mediation Proceedings, Investigations, and Clarificatory Hearings;
+WHEREAS, under the [[issuances/undated/rules-of-procedure|Rules of Procedure of the National Privacy Commission]], parties are required to personally appear and/or testify before the Office of the National Privacy Commission in Discovery Conferences, Summary Hearings, Mediation Proceedings, Investigations, and Clarificatory Hearings;
 
 WHEREAS, travel to and personal appearance before the Office of the National Privacy Commission for the conduct of conferences and hearings have been rendered difficult due to the strict enforcement of Community Quarantine, the restriction on unnecessary travel, and the suspension of public transportation;
 
@@ -42,7 +42,7 @@ WHEREAS, in consideration of these premises, the National Privacy Commission res
 
 **SECTION 1.** ***General Provisions.***
 
-A. Objective. To provide the parties the option to attend the proceedings remotely, in the relative safety of their chosen premises, in accordance with the Rules of Procedure, before the National Privacy Commission. If parties do not avail of this videoconferencing option, the hearings will be governed by the Rules of Procedure of the National Privacy Commission.
+A. Objective. To provide the parties the option to attend the proceedings remotely, in the relative safety of their chosen premises, in accordance with the [[issuances/undated/rules-of-procedure|Rules of Procedure]], before the National Privacy Commission. If parties do not avail of this videoconferencing option, the hearings will be governed by the Rules of Procedure of the National Privacy Commission.
 
 B. General Principles.
 
@@ -75,7 +75,7 @@ A. Pre-Hearing.
 The following technical and operational standards shall be observed prior to the conduct of the e-hearing:
 
 1. Consent by parties - The parties to the complaint or investigation who may wish to avail of e-hearing shall express their written consent by affixing their electronic signatures[^5] to the consent forms provided to them and sending the same through e-mail to the concerned division or the Commission, copy furnished all the other concerned parties to the case at least three (3) days prior to the scheduled hearing.
-2. If a party consents to the use of videoconferencing option but subsequently fails to meet the technical requirements prescribed in these Guidelines, the concerned division or the Commission shall notify the parties of the reversion of the same to regular proceedings as prescribed under the Rules of Procedure of the National Privacy Commission.
+2. If a party consents to the use of videoconferencing option but subsequently fails to meet the technical requirements prescribed in these Guidelines, the concerned division or the Commission shall notify the parties of the reversion of the same to regular proceedings as prescribed under the [[issuances/undated/rules-of-procedure|Rules of Procedure of the National Privacy Commission]].
 3. E-hearings shall be conducted by the National Privacy Commission in a secure and reliable videoconferencing platform to be communicated to the parties to the case.
 4. The minimum technical requirements for videoconferencing technology are as follows:
    a. Desktop computer and/or laptops in the conference room and remote facility;
@@ -115,9 +115,9 @@ The recordings shall form part of the records of the case and shall only be used
 
 C. Post-hearing.
 
-1. Storage of videoconferencing proceeding - An encrypted master copy shall be retained by the authorized personnel of the Division/Commission as part of the case records, while a backup copy shall be stored in a secured location. Parties may be allowed to view the master copy of the recording upon written application with and approval of the Commission. Only the NPC shall be permitted to record the proceedings. Any unauthorized recording of the proceedings shall be dealt with in accordance with the Data Privacy Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], related issuances, and laws of the Republic of the Philippines.
+1. Storage of videoconferencing proceeding - An encrypted master copy shall be retained by the authorized personnel of the Division/Commission as part of the case records, while a backup copy shall be stored in a secured location. Parties may be allowed to view the master copy of the recording upon written application with and approval of the Commission. Only the NPC shall be permitted to record the proceedings. Any unauthorized recording of the proceedings shall be dealt with in accordance with the [[laws/data-privacy-act-of-2012|Data Privacy Act]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], related issuances, and laws of the Republic of the Philippines.
 2. Subsequent orders from the investigating officer, mediation officer, or Commission shall be sent via e-mail to the address on record of the parties. Such orders shall be equivalent to physical copies of orders sent through mail or courier service. Hard copies of such orders may be provided to the parties upon written request and approval of the concerned division/Commission.
-3. The processing, including that of retention and disposal, shall be in accordance with the National Archives Law, Data Privacy Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other related issuances.
+3. The processing, including that of retention and disposal, shall be in accordance with the National Archives Law, [[laws/data-privacy-act-of-2012|Data Privacy Act]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other related issuances.
 
 **SECTION 3.** ***Effectivity.*** These Guidelines shall take effect immediately upon approval and shall remain effective until the lifting of the State of Public Health Emergency.
 

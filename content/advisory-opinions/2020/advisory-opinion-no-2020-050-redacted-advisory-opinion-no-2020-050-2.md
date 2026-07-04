@@ -33,8 +33,8 @@ Dear [Redacted],
 We write in response to your letter received by the National Privacy Commission (NPC)
 which sought to clarify whether the disclosure of personal information provided to financial
 technology companies, digital payment platforms and telecommunications entities to the
-credit card issuers for purposes of fraud investigation is allowed under the Data Privacy Act
-of 20122 (DPA).
+credit card issuers for purposes of fraud investigation is allowed under the [[laws/data-privacy-act-of-2012|Data Privacy Act
+of 2012]] (DPA).
 
 In your letter, you disclosed that the credit card industry has been experiencing high volumes
 of fraudulent transactions which were carried out using various digital payment platforms,
@@ -107,12 +107,12 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-[^1]: Data Privacy Act of 2012, § 12(f) (2012).
+[^1]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12(f)]] (2012).
 [^2]: *Id.*; United Kingdom Information Commissioner's Office (ICO), "What is the 'Legitimate Interests' basis?" available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed November 9, 2020).
 [^3]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), 2016 O.J. (L 119), Recital 47 (2016).
-[^4]: EU GDPR, Recital 47; National Privacy Commission, NPC Case No. 17-047 (August 10, 2020).
+[^4]: EU GDPR, Recital 47; National Privacy Commission, [[decisions/2019/npc-17-047-jv-vs-jr|NPC Case No. 17-047]] (August 10, 2020).
 [^5]: *Id.*
 [^6]: An Act Regulating the Philippine Credit Card Industry [Philippine Credit Card Industry Law], Republic Act No. 10870, § 16(f) (2016).
-[^7]: Data Privacy Act of 2012, §§ 9–11, § 20 (2012).
-[^8]: NPC Advisory Opinion No. 2019-041.
-[^9]: Data Privacy Act of 2012, § 20 (c) (4) (2012).
+[^7]: Data Privacy Act of 2012, §§ [[laws/data-privacy-act-of-2012#section-9-organizational-structure-of-the-commission|9]]–[[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|11]], [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20]] (2012).
+[^8]: [[advisory-opinions/2019/advisory-opinion-no-2019-041-npc-advisory-opinion-no-2019-041|NPC Advisory Opinion No. 2019-041]].
+[^9]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, § 20 (c) (4)]] (2012).

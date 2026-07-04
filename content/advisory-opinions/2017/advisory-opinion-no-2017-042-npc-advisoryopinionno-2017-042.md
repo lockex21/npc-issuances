@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2017
   - topic/consent
+aliases:
+  - "NPC Advisory Opinion No. 2017-042"
+  - "npc advisory opinion no. 2017-042"
+  - "Advisory Opinion No. 2017-042"
+  - "advisory opinion no. 2017-042"
 draft: false
 ---
 
@@ -79,4 +84,4 @@ RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
 [^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, "Data Privacy Act of 2012" (15 August 2012).
-[^2]: Implementing Rules and Regulations of the Data Privacy Act, §21(a).
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-21-criteria-for-lawful-processing-of-personal-information|Implementing Rules and Regulations of the Data Privacy Act, §21(a)]].

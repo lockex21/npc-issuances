@@ -7,6 +7,11 @@ tags:
   - "year/2020"
   - "topic/data-subject-rights"
   - "topic/fees-and-payments"
+aliases:
+  - "NPC Advisory Opinion No. 2020-020"
+  - "npc advisory opinion no. 2020-020"
+  - "Advisory Opinion No. 2020-020"
+  - "advisory opinion no. 2020-020"
 draft: false
 ---
 
@@ -62,5 +67,5 @@ Very truly yours,
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Data Privacy Act of 2012, § 16 (d).
+[^2]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, § 16 (d)]].
 [^3]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Art. 12 (5) (2016).

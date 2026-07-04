@@ -54,7 +54,7 @@ On 17 January 2020, the Commissioner rendered a Decision on this case, thus:
 >
 > SO ORDERED.[^1]
 
-On 16 September 2020, the Commission received Quicklend's Privacy Manual.[^2] After assessing the Privacy Manual, the Commission found that while it included a section on Security Management, it did not include the required provisions in NPC Circular No. 16-03[^3] that will ensure the following:
+On 16 September 2020, the Commission received Quicklend's Privacy Manual.[^2] After assessing the Privacy Manual, the Commission found that while it included a section on Security Management, it did not include the required provisions in [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]][^3] that will ensure the following:
 
 a. Implementation of an Incident Response Procedure intended to contain a security incident or personal data breach and restore integrity to the information and communication system.
 
@@ -70,7 +70,7 @@ Whether or not Quicklend implemented sufficient measures to manage data privacy 
 
 ### Discussion
 
-Rule II, Section 4 of NPC Circular No. 16-03 states that personal information controllers should implement policies and procedures to manage security incidents:
+Rule II, Section 4 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] states that personal information controllers should implement policies and procedures to manage security incidents:
 
 > SECTION 4. Security Incident Management Policy. A personal information controller or personal information processor shall implement policies and procedures for the purpose of managing security incidents, including personal data breach. These policies and procedures must ensure:
 >
@@ -166,7 +166,7 @@ GENERAL RECORDS UNIT
 
 [^1]: NPC Decision dated 17 January 2020.
 [^2]: Letter from Quicklend Financing Co. Inc. dated 14 September 2020.
-[^3]: Section 4, NPC Circular No. 16-03. Personal Data Breach Management, dated 15 December 2016.
+[^3]: Section 4, [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03. Personal Data Breach Management]], dated 15 December 2016.
 [^4]: Enforcement Letter dated 22 October 2020.
 [^5]: Letter from Quicklend Financing Co. Inc. dated 9 November 2020.
 [^6]: Quicklend Financing Co., Inc.'s Security Incident Management Policy.

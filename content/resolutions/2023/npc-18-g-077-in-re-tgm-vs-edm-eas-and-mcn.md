@@ -58,7 +58,7 @@ This is without prejudice to the filing of appropriate civil, criminal, or admin
 
 TGM filed her Motion dated 10 June 2021, reiterating the arguments alleged in her Complaint. In her Motion, TGM argued that "[t]he share capital account is classified as sensitive personal information" hence, "[l]egitimate [r]easons" rule does not apply.[^4] TGM stated that [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the Data Privacy Act of 2012]] (DPA) is not exclusive, emphasizing on the phrase "but not limited to," under paragraph 3 of the said provision.[^5]
 
-TGM further argued that the Commission "extended the meaning of "health records" to medical records kept by publicly-listed corporation notwithstanding the original tenor of Section 3(l) referring to health records issued by "government agencies" citing Advisory Opinion No. 2019-010.[^6]
+TGM further argued that the Commission "extended the meaning of "health records" to medical records kept by publicly-listed corporation notwithstanding the original tenor of Section 3(l) referring to health records issued by "government agencies" citing [[advisory-opinions/2019/advisory-opinion-no-2019-010-npc-advisory-opinion-no-2019-010|Advisory Opinion No. 2019-010]].[^6]
 
 Moreover, TGM stated that the parties sufficiently established in their pleadings that shared capital accounts are sensitive personal information.[^7] According to TGM, the pleadings submitted to the Commission stated that the share capital account contains sensitive personal information, including deposits, withdrawals, and other loan details.[^8] Thus, she argued that the share capital account should be considered as a financial record that is confidential and sensitive information.[^9]
 
@@ -80,7 +80,7 @@ The Commission resolves to deny the Motion.
 
 #### I. Share capital account is not sensitive personal information as defined under the DPA.
 
-Personal information is considered sensitive personal information if it falls under the exclusive enumeration set forth by Section 3(l) of the DPA.
+Personal information is considered sensitive personal information if it falls under the exclusive enumeration set forth by [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]].
 
 In this case, TGM alleged that the enumerations under Section 3(l) of the DPA is not exclusive emphasizing that par. 3 of the said provision contains the phrase "but not limited to."[^14]
 
@@ -110,7 +110,7 @@ Further, TGM cited in her Motion the Commission's Advisory Opinion 2019-010 whic
 
 #### II. Respondents did not violate Section 25 of the DPA for Unauthorized Processing of Personal and Sensitive Personal Information. The processing of share capital account has lawful basis.
 
-TGM stated that Respondents violated her right to be informed of the processing of her information under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(a) of the DPA]] which is a violation of Section 25 for Unauthorized Processing of Personal and Sensitive Personal Information.[^23]
+TGM stated that Respondents violated her right to be informed of the processing of her information under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(a) of the DPA]] which is a violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25]] for Unauthorized Processing of Personal and Sensitive Personal Information.[^23]
 
 In establishing whether there is a violation of Section 25 of the DPA, the following requisites must be present:
 
@@ -124,9 +124,9 @@ The second requisite is also present considering that the share capital account 
 
 However, the third requisite is lacking in this case.
 
-TGM stated that the Respondents processed her personal information without her consent.[^25] Under Section 12 of the DPA, the processing of personal information is permitted whenever there is lawful basis, and when at least one of the criteria for lawful processing is present.[^26] Among the conditions is when the data subject has given his or her consent. However, the Commission emphasizes that under the DPA, consent is not the only lawful basis for processing personal information.
+TGM stated that the Respondents processed her personal information without her consent.[^25] Under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], the processing of personal information is permitted whenever there is lawful basis, and when at least one of the criteria for lawful processing is present.[^26] Among the conditions is when the data subject has given his or her consent. However, the Commission emphasizes that under the DPA, consent is not the only lawful basis for processing personal information.
 
-In this case, the processing of the share capital account is valid as there exists legitimate interest pursuant to Section 12(f) of the DPA, which provides:
+In this case, the processing of the share capital account is valid as there exists legitimate interest pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]], which provides:
 
 > (f) The processing is necessary for the purposes of the **legitimate interests** pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.[^27]
 
@@ -142,7 +142,7 @@ Thus, it cannot be denied that the Respondents' processing of the share capital 
 
 Further, considering that the interest is legitimate herein, the processing of TGM's personal information does not override her rights as a data subject. TGM failed to prove that her rights as data subject have been violated by the Respondents.
 
-Lastly, TGM did not provide any new or material allegations in her Motion to warrant the reversal of the Commission's Decision dated 15 April 2021. Hence, Respondents should not be held liable for violating Section 25 of the DPA.
+Lastly, TGM did not provide any new or material allegations in her Motion to warrant the reversal of the Commission's Decision dated 15 April 2021. Hence, Respondents should not be held liable for violating [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25]] of the DPA.
 
 Thus, the Commission deems it proper to deny the Motion filed by TGM for failure to establish by substantial evidence her allegations against the Respondents.
 
@@ -199,20 +199,20 @@ GENERAL RECORDS UNIT
 [^12]: Motion for Reconsideration dated 10 June 2021 of TGM.
 [^13]: Urgent Motion to Resolve Motion for Reconsideration dated 10 June 2021 and To Recall Certificate of Finality dated 17 January 2023 of TGM.
 [^14]: NPC 18-077 (unreported), Decision dated 15 April 2021, at p. 9.
-[^15]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (2012).
+[^15]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (2012).
 [^16]: Rules and Regulation Implementing Certain Provisions of the Philippine Cooperative Code of 2008, Republic Act No. 9520, § 2(m) (2015).
 [^17]: NPC 18-077 (unreported), Decision dated 15 April 2021, at p. 9.
 [^18]: Martin Centeno v. Hon. Victoria Villalon-Pornillos, G.R. No. 113092, 01 September 1994.
 [^19]: Francisco I. Chavez v. Judicial and Bar Council, G.R. No. 202242, 17 July 2012.
-[^20]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (2012).
+[^20]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (2012).
 [^21]: Motion for Reconsideration dated 10 June 2021 of TGM, at p. 3.
-[^22]: National Privacy Commission, Rules of procedure on requests for Advisory Opinions, NPC Circular 18-01, rule I, § 2 (10 September 2018) (NPC Circular 18-01).
+[^22]: National Privacy Commission, [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|Rules of procedure on requests for Advisory Opinions, NPC Circular 18-01]], rule I, § 2 (10 September 2018) (NPC Circular 18-01).
 [^23]: Motion for Reconsideration dated 10 June 2021 of TGM, at p. 5.
 [^24]: Complaint-Affidavit dated 25 July 2018 of TGM, referred to as Annex "A-1"
 [^25]: Motion for Reconsideration dated 10 June 2021 of TGM, at p. 5.
-[^26]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 12 (2012).
+[^26]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter III, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]] (2012).
 [^27]: Id., § 12(f).
-[^28]: MAF v. Shopee Philippines, Inc., Decision dated 22 September 2022.
+[^28]: [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|MAF v. Shopee Philippines, Inc.]], Decision dated 22 September 2022.
 [^29]: NPC 18-077 (unreported), Decision dated 15 April 2021, at p. 10.
 [^30]: Id.
 [^31]: Id., at p. 2.

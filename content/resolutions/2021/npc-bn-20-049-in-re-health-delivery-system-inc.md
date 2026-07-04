@@ -79,13 +79,13 @@ Even assuming the authenticity and due execution of the Attestation Letter, base
 
 This Commission notes that the purpose of the required notification to the affected data subjects of a breach incident is for them to protect themselves against possible negative consequences or effects of the data breach. That is why if the PIC cannot prove that it will not be in the public interest or in the interest of the affected data subjects, a breach notification is required.
 
-The Commission reiterates that notification of the data subjects is the general rule. Section 18(B) of NPC Circular No. 16-03 provides that, "a personal information controller may be exempted from notification requirement where the Commission determines that such notification would not be in the public interest or in the interest of affected data subjects."
+The Commission reiterates that notification of the data subjects is the general rule. Section 18(B) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides that, "a personal information controller may be exempted from notification requirement where the Commission determines that such notification would not be in the public interest or in the interest of affected data subjects."
 
-As to the manner of notification to the affected data subjects, Section 18(A) of NPC Circular No. 16-03 provides that:
+As to the manner of notification to the affected data subjects, Section 18(A) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides that:
 
 > The data subjects shall be notified within seventy-two (72) hours upon knowledge of or reasonable belief by the personal information controller or personal information processor that a personal data breach has occurred. The notification may be made on the basis of available information within the 72-hour period if the personal data breach is likely to give rise to a real risk to the rights and freedoms of data subjects. It shall be undertaken in a manner that would allow data subjects to take the necessary precautions or other measures to protect themselves against the possible effects of the breach. It may be supplemented with additional information at a later stage on the basis of further investigation.[^7]
 
-Moreover, Section 18(D) of same Circular provides that:
+Moreover, Section 18(D) of the same [[issuances/undated/personal-data-breach-management|Circular]] provides that:
 
 > Notification of affected data subjects shall be done individually, using secure means of communication, whether written or electronic. The personal information controller shall take the necessary steps to ensure the proper identity of the data subject being notified, and to safeguard against further unnecessary disclosure of personal data. The personal information controller shall establish all reasonable mechanisms to ensure that all affected data subjects are made aware of the breach: *Provided*, that where individual notification is not possible or would require a disproportionate effort, the personal information controller may seek the approval of the Commission to use alternative means of notification, such as through public communication or any similar measure through which the data subjects are informed in an equally effective manner: *Provided further*, that the personal information controller shall establish means through which the data subjects can exercise their rights and obtain more detailed information relating to the breach.[^8]
 
@@ -152,7 +152,7 @@ GENERAL RECORDS UNIT
 [^4]: *Ibid*.
 [^5]: *Ibid*.
 [^6]: *Ibid*.
-[^7]: National Privacy Commission, Personal Data Breach Management, Circular No. 16-03 (December 15, 2016). Emphasis supplied.
+[^7]: National Privacy Commission, Personal Data Breach Management, [[issuances/undated/personal-data-breach-management|Circular No. 16-03]] (December 15, 2016). Emphasis supplied.
 [^8]: *Id*. Emphasis supplied.
 [^9]: NPC BN 20-161, 17 December 2021.
-[^10]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [Data Privacy Act], Republic Act No. 10173 (2012).
+[^10]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [Data Privacy Act], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).

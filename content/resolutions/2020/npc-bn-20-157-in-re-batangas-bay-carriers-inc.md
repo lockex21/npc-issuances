@@ -39,11 +39,11 @@ x-------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-This Resolution refers to the Proof of Compliance[^1] submitted by Batangas Bay Carriers, Inc. (Batangas Bay), a subsidiary of Magsaysay Shipping & Logistics, to this Commission’s Order[^2] for it to notify the affected data subjects of the breach incident in accordance with the provisions of NPC Circular 16-03 and to submit proof of compliance thereto, involving a personal data breach caused by a ransomware attack.
+This Resolution refers to the Proof of Compliance[^1] submitted by Batangas Bay Carriers, Inc. (Batangas Bay), a subsidiary of Magsaysay Shipping & Logistics, to this Commission’s Order[^2] for it to notify the affected data subjects of the breach incident in accordance with the provisions of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] and to submit proof of compliance thereto, involving a personal data breach caused by a ransomware attack.
 
 ### Facts
 
-On 21 September 2020, this Commission issued a Resolution[^3] with the following dispositive portion, to wit:
+On 21 September 2020, this Commission issued a [[resolutions/2020/npc-bn-20-157-in-re-batangas-bay-carriers-inc-2|Resolution]][^3] with the following dispositive portion, to wit:
 
 > **WHEREFORE**, premises considered, the request for Postponement of Notification to Data Subjects filed by Batangas Bay Carriers, Inc. is hereby **DENIED**.
 >
@@ -57,7 +57,7 @@ The notification contains the nature of the breach, personal data possibly invol
 
 This Commission finds the proof of compliance submitted by Batangas Bay insufficient for this Commission’s Order to submit proof of compliance that it has notified the affected data subjects of the breach incident.
 
-Section 18(A) of NPC Circular No. 16-03 provides that:
+Section 18(A) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides that:
 
 > The data subjects shall be notified within seventy-two (72) hours upon knowledge of or reasonable belief by the personal information controller or personal information processor that a personal data breach has occurred. The notification may be made on the basis of available information within the 72-hour period if the personal data breach is likely to give rise to a real risk to the rights and freedoms of data subjects. **It shall be undertaken in a manner that would allow data subjects to take the necessary precautions or other measures to protect themselves against the possible effects of the breach.** It may be supplemented with additional information at a later stage on the basis of further investigation.[^6]
 

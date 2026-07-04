@@ -89,7 +89,7 @@ On 15 November 2018, ABS-CBN submitted their vulnerability scan report for the s
 
 ### Discussion
 
-Upon careful inspection of the reports and documents submitted by ABS-CBN, the Commission finds the absence of any proof of notification to the affected data subjects as well as proof of receipt of the said notification. NPC Circular 16-03[^12] requires that all actions made by a personal information controller should be properly documented. This includes compliance with the notification requirements and assistance to affected data subjects:
+Upon careful inspection of the reports and documents submitted by ABS-CBN, the Commission finds the absence of any proof of notification to the affected data subjects as well as proof of receipt of the said notification. [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]][^12] requires that all actions made by a personal information controller should be properly documented. This includes compliance with the notification requirements and assistance to affected data subjects:
 
 > SECTION 9. Documentation. All actions taken by a personal information controller or personal information processor shall be properly documented. Reports should include:
 >
@@ -173,7 +173,7 @@ GENERAL RECORDS UNIT
 [^9]: A jump server, jump host or jump box is a system on a network used to access and manage devices in a separate security zone.
 [^10]: Supplemental update dated 16 October 2018.
 [^11]: A false positive state is when the IDS identifies an activity as an attack, but the activity is acceptable behavior.
-[^12]: National Privacy Commission, Personal Data Breach Management, Circular No. 16-03 (December 15, 2016).
+[^12]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 16-03]] (December 15, 2016).
 [^13]: Emphasis supplied.
 [^14]: Emphasis supplied.
 [^15]: *Supra*, Note 2.

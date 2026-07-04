@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2021-019 — Access To Documents In An Administrative Case"
 description: "Clarification on whether a private complainant may access copies of case files in an administrative case under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2021-019"
+  - "npc advisory opinion no. 2021-019"
+  - "Advisory Opinion No. 2021-019"
+  - "advisory opinion no. 2021-019"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -41,7 +46,7 @@ provide for the right of private complainant to be given copies of the requested
 
 The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) considers information about any proceeding for any offense committed or alleged to have been committed by an individual, the disposal of such proceedings, or the sentence of any court in such proceedings, as sensitive personal information.[^2] As a rule, the processing of sensitive personal information is not allowed except for the instances provided under the DPA. Some of these exceptions include processing which is provided for by existing laws and regulations,[^3] necessary for the establishment, exercise, or defense of legal claims,[^4] among others.
 
-Thus, access to or disclosure of the above should have a lawful basis under the DPA, specifically under Section 13 of the law.
+Thus, access to or disclosure of the above should have a lawful basis under the DPA, specifically under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the law]].
 
 #### Civil Service Commission (CSC) 2017 Rules on Administrative Cases in the Civil Service (2017 RACCS); Classification of Offenses
 
@@ -109,8 +114,8 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3 (l) (2) (2012).
-[^3]: Data Privacy Act of 2012, § 13 (b).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l) (2)]] (2012).
+[^3]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13 (b)]].
 [^4]: Id. § 13 (f).
 [^5]: Civil Service Commission, 2017 Rules on Administrative Cases in the Civil Service [2017 RACCS], Rule 10, § 50 (July 3, 2017).
 [^6]: Id. Rule 11, § 59.

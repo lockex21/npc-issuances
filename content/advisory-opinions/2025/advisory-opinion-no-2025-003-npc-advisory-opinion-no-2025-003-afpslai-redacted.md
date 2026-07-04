@@ -9,6 +9,11 @@ tags:
   - "topic/data-subject-rights"
   - "topic/legitimate-interest"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-003"
+  - "npc advisory opinion no. 2025-003"
+  - "Advisory Opinion No. 2025-003"
+  - "advisory opinion no. 2025-003"
 ---
 
 ## Source
@@ -37,7 +42,7 @@ Accordingly, you seek to obtain the member's consent via the above authorization
 
 #### Definition of personal data; Lawful criteria for processing
 
-Republic Act No. 10173 or the Data Privacy Act of 2012[^2] (DPA) mandates the protection of personal information. Under the DPA, personal information is defined as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^3] On the other hand, the DPA classifies the following as sensitive personal information,[^4] viz.:
+[[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]][^2] (DPA) mandates the protection of personal information. Under the DPA, personal information is defined as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^3] On the other hand, the DPA classifies the following as sensitive personal information,[^4] viz.:
 
    xxx
 
@@ -64,7 +69,7 @@ Considering the above provisions, the birth certificate, marriage contract, Cert
 Marriage Record (CENOMAR), and such other pertinent PSA records of AFPSLAI members
 necessarily contain personal and sensitive personal information. As such, collection of such
 documents by AFPSLAI from its members constitutes processing under the DPA. Thus, the
-processing must comply with Sections 12 and 13 of the DPA, respectively, to wit:
+processing must comply with [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, respectively, to wit:
 
    SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal
          information shall be permitted only if not otherwise prohibited by law, and when at least one of the
@@ -130,11 +135,11 @@ processing must comply with Sections 12 and 13 of the DPA, respectively, to wit:
 
 You posit that the consent of AFPSLAI members is necessary to access their records as such access arises from their membership with the AFPSLAI which constitutes a contractual relationship. That said, we wish to clarify that the AFPSLAI, as a Personal Information Controller (PIC), must adhere to the general data privacy principles of Transparency, Legitimate Purpose, Proportionality, and Fairness, which are elaborated in [[issuances/2023/guidelines-on-consent|NPC Circular No. 2023 – 04]] or the Guidelines on Consent.[^5] In relying on consent as a basis, AFPSLAI must ensure such consent was freely given, specific to the declared purpose, manifested through a clear assenting action, and evidenced by written, electronic, or recorded means.
 
-However, consent is not the only applicable legal basis in this case. AFPSLAI may also rely on Section 12(c) since the processing involved is necessary for compliance with a legal obligation, and Section 13(f), since the processing is necessary for the protection of lawful rights and interests or the establishment, exercise, or defense of legal claims. As a regulated entity by the Banko Sentral ng Pilipinas (BSP), AFPSLAI has a legal obligation to comply with the BSP’s issuances which requires the presentation and collection of PSA documents. Also, as applied in this case, accessing such records may be allowed in situations like assessing the propriety of credit redemption insurance claim, or resolving conflicting claims among beneficiaries. Section 3 of NPC Advisory 2024-02, or Guidelines on Personal Data Processing Based on [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the Data Privacy Act of 2012]],[^6] clarifies:
+However, consent is not the only applicable legal basis in this case. AFPSLAI may also rely on Section 12(c) since the processing involved is necessary for compliance with a legal obligation, and Section 13(f), since the processing is necessary for the protection of lawful rights and interests or the establishment, exercise, or defense of legal claims. As a regulated entity by the Banko Sentral ng Pilipinas (BSP), AFPSLAI has a legal obligation to comply with the BSP’s issuances which requires the presentation and collection of PSA documents. Also, as applied in this case, accessing such records may be allowed in situations like assessing the propriety of credit redemption insurance claim, or resolving conflicting claims among beneficiaries. Section 3 of [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|NPC Advisory 2024-02]], or Guidelines on Personal Data Processing Based on [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the Data Privacy Act of 2012]],[^6] clarifies:
 
    SECTION 3. Processing under Section 13 (f) of the DPA as legitimate interest.
           — Processing under Section 13 (f) of the DPA may be considered legitimate
-          interest under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]], which is a lawful basis for processing
+          interest under Section 12 (f) of the DPA, which is a lawful basis for processing
           personal information.
 
    A. Processing personal information that is necessary for the protection of
@@ -171,7 +176,7 @@ Ultimately, in any processing of personal data, we respectfully remind AFPSLAI t
 regard to the fundamental rights and freedoms of data subjects. As a PIC, AFPSLAI bears the
 responsibility of ensuring that its data subjects are informed of their rights under the DPA, and
 that appropriate mechanisms are in place to enable the exercise of such rights. For a thorough
-guidance on the matter, you may read through NPC Advisory No. 2021-019 on Data Subject Rights.
+guidance on the matter, you may read through [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-019 on Data Subject Rights]].
 
 Please be advised that this Advisory Opinion was rendered based solely on the information you
 have provided. Any extraneous fact that may be subsequently furnished us may affect our present
@@ -188,9 +193,9 @@ Director IV, Privacy Policy Office
 
 [^1]: Tags: lawful processing of personal data; access to government records; data privacy principles; consent; legitimate interest; legal obligations; data subject rights; public authority.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
-[^3]: Ibid., Section 3(g).
-[^4]: Ibid., Section 3(l).
-[^5]: National Privacy Commission, Guidelines on Consent, NPC Circular No. 2023 – 04 (07 November 2023).
-[^6]: National Privacy Commission, Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012, NPC Advisory 2024-02 (12 August 2024).
-[^7]: NPC Advisory Opinion No. 2022-009 (02 March 2022); see also Opinion Nos. 2022-002 (Feb. 11, 2022), 2021-10 (March 22, 2021) and 2020-50 (Nov. 26, 2020).
-[^8]: DPA, Sec. 11.
+[^3]: Ibid., [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(g)]].
+[^4]: Ibid., [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l)]].
+[^5]: National Privacy Commission, Guidelines on Consent, [[issuances/2023/guidelines-on-consent|NPC Circular No. 2023 – 04]] (07 November 2023).
+[^6]: National Privacy Commission, Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012, [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|NPC Advisory 2024-02]] (12 August 2024).
+[^7]: [[advisory-opinions/2022/advisory-opinion-no-2022-009-advisory-opinion-no-2022-009-redacted|NPC Advisory Opinion No. 2022-009]] (02 March 2022); see also Opinion Nos. [[advisory-opinions/2022/advisory-opinion-no-2022-002-advisory-opinion-no-2022-002-redacted|2022-002]] (Feb. 11, 2022), [[advisory-opinions/2021/advisory-opinion-no-2021-010-private-detective-services|2021-10]] (March 22, 2021) and [[advisory-opinions/2020/advisory-opinion-no-2020-050-redacted-advisory-opinion-no-2020-050-2|2020-50]] (Nov. 26, 2020).
+[^8]: [[laws/data-privacy-act-of-2012|DPA]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Sec. 11]].

@@ -7,6 +7,11 @@ tags:
   - "year/2018"
   - "topic/security"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-024"
+  - "npc advisory opinion no. 2018-024"
+  - "Advisory Opinion No. 2018-024"
+  - "advisory opinion no. 2018-024"
 ---
 
 ## Source
@@ -30,9 +35,9 @@ This has reference to your inquiry received by the National Privacy Commission (
 
 #### Reporting to the police and other law enforcement agencies in relation to a criminal investigation
 
-The practice of security agencies and establishments of reporting to the PNP or barangay officials criminal incidents which happened within their premises and personal information on an alleged criminal offender (data subject[^1]), do not constitute a violation of Republic Act (R.A.) No. 10173, otherwise known as the Data Privacy Act (DPA) of 2012.
+The practice of security agencies and establishments of reporting to the PNP or barangay officials criminal incidents which happened within their premises and personal information on an alleged criminal offender (data subject[^1]), do not constitute a violation of [[laws/data-privacy-act-of-2012|Republic Act (R.A.) No. 10173]], otherwise known as the Data Privacy Act (DPA) of 2012.
 
-The processing[^2] of personal information of a possible suspect, by reporting to police officers and/or barangay officials of proper jurisdiction, is allowed under Section 12(e) of R.A. No. 10173, specifically the following provision:
+The processing[^2] of personal information of a possible suspect, by reporting to police officers and/or barangay officials of proper jurisdiction, is allowed under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(e) of R.A. No. 10173]], specifically the following provision:
 
 > (e) The processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate;
 
@@ -97,20 +102,20 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: Data Privacy Act of 2012, § 3(c) — Data subject refers to an individual whose personal information is processed.
+[^1]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3(c)]] — Data subject refers to an individual whose personal information is processed.
 [^2]: *Id.* § 3(j) — Processing refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
 [^3]: *Id.* § 3(g) — Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 [^4]: AN ACT ESTABLISHING THE PHILIPPINE NATIONAL POLICE UNDER A REORGANIZED DEPARTMENT OF THE INTERIOR AND LOCAL GOVERNMENT, AND FOR OTHER PURPOSES [Philippine National Police Reorganization and Modernization Act], Republic Act No. 6975, § 24 (1990).
 [^5]: Association of Chief Police Officers of England, Wales & Northern Ireland, Guidance on the Release of Images of Suspects and Defendants (May 2009), available at http://library.college.police.uk/docs/acpo/ACPO-Guidance-Release-Images-Suspects-Media.pdf.
-[^6]: Data Privacy Act of 2012, § 11 (2012).
+[^6]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11]] (2012).
 [^7]: *Id.*
 [^8]: *Id.*
 [^9]: Graham Greenleaf, Asian Data Privacy Laws: Trade and Human Rights Perspectives (2014).
 [^10]: *Id.*
-[^11]: Data Privacy Act of 2012, §§ 12–13 (2012).
-[^12]: *Id.* §§ 16–19; Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §§ 34–37 (2016).
-[^13]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(b) (2016).
+[^11]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, §§ 12]]–[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] (2012).
+[^12]: *Id.* [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§§ 16]]–[[laws/data-privacy-act-of-2012#section-19-non-applicability|19]]; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|§§ 34]]–[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-37-limitation-on-rights|37]] (2016).
+[^13]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(b)]] (2016).
 [^14]: *Id.* § 18(c).
 [^15]: *Id.*
-[^16]: Data Privacy Act of 2012, § 3(h) — Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf.
-[^17]: *Id.* § 20; Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §§ 25–29 (2016).
+[^16]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3(h)]] — Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf.
+[^17]: *Id.* [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20]]; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|§§ 25]]–[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-29-appropriate-level-of-security|29]] (2016).

@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-067"
+  - "npc advisory opinion no. 2018-067"
+  - "Advisory Opinion No. 2018-067"
+  - "advisory opinion no. 2018-067"
 ---
 
 ## Source
@@ -31,7 +36,7 @@ As mentioned in your letter, Section 11 of the Overseas Workers Welfare Administ
 
 #### Special case under the law
 
-Section 4 of the DPA states that the law does not apply to:
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] of the DPA states that the law does not apply to:
 
 > e) Information necessary in order to carry out the functions of public authority which includes the processing of personal data for the performance by the independent central monetary authority and law enforcement and regulatory agencies of their constitutionally and statutorily mandated functions. Nothing in this Act shall be construed as to have amended or repealed Republic Act No. 1405, otherwise known as the Secrecy of Bank Deposits Act; Republic Act NO. 6427, otherwise known as the Foreign Currency Deposit Act; and Republic Act No. 9510, otherwise known as the Credit Information System Act (CISA);
 
@@ -73,14 +78,14 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose, a National Privacy Commission, and for other purposes, “Data Privacy Act of 2012” (15 August 2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose, a National Privacy Commission, and for other purposes, “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]” (15 August 2012).
 [^2]: An Act Governing the Operations and Administration of the Overseas Workers Welfare Administration, “Overseas Workers Welfare Administration Act” (10 May 2016).
 [^3]: *Id.*, §4.
-[^4]: Data Privacy Act of 2012, §3(j).
-[^5]: *Id.*, §3(l).
-[^6]: *Id.*, §3(h).
-[^7]: Implementing Rules and Regulations of the DPA, §11.
-[^8]: *Id.*, §18(a).
-[^9]: *Id.*, §18(b).
-[^10]: *Id.*, §18(c).
-[^11]: *Id.*, §43.
+[^4]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(j)]].
+[^5]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(l)]].
+[^6]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(h)]].
+[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the DPA, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-11-reports-and-information|§11]].
+[^8]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§18(a)]].
+[^9]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§18(b)]].
+[^10]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§18(c)]].
+[^11]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-43-subcontract-of-personal-data|§43]].

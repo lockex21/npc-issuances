@@ -43,7 +43,7 @@ Respondent.
 
 x----------------------------------------------------x
 
-Before the Commission is the Application for Issuance of Cease and Desist Order dated 16 August 2022 (CDO Application) of the Complaints and Investigation Division (CID) of the National Privacy Commission (NPC). The CDO Application is against PH-Check.com (https://ph-check.com) for violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA). The PH-Check.com website contains personal data and other information found in the Business Name Registration System (BNRS) website of the Department of Trade and Industry (DTI).
+Before the Commission is the Application for Issuance of Cease and Desist Order dated 16 August 2022 (CDO Application) of the Complaints and Investigation Division (CID) of the National Privacy Commission (NPC). The CDO Application is against PH-Check.com (https://ph-check.com) for violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA). The PH-Check.com website contains personal data and other information found in the Business Name Registration System (BNRS) website of the Department of Trade and Industry (DTI).
 
 ### Facts
 
@@ -141,7 +141,7 @@ In a Supplemental Report dated 05 July 2022 (Supplemental Report), the CID furth
 >
 > xxx
 >
-> The data scraping activity of the website https://ph-check.com and its deliberate intent to hide the identity of its owner or contact details of its administrators is a clear violation of Sections 11 and 16 of the DPA, which is detrimental to public interest and unless restrained, will cause grave and irreparable injury to a data subject. It is worth noting that as of date, two (2) individuals have already complained regarding this matter.[^20]
+> The data scraping activity of the website https://ph-check.com and its deliberate intent to hide the identity of its owner or contact details of its administrators is a clear violation of [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Sections 11]] and [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|16]] of the DPA, which is detrimental to public interest and unless restrained, will cause grave and irreparable injury to a data subject. It is worth noting that as of date, two (2) individuals have already complained regarding this matter.[^20]
 
 The Supplemental Report recommended that an Application for Cease and Desist Order (CDO) be filed against PH-Check.com.[^21]
 
@@ -185,9 +185,9 @@ The Commission also has the correlative duty to ensure that PICs, like PH-Check.
 >
 > (c) Issue cease and desist orders, impose a temporary or permanent ban on the processing personal information, upon finding that the processing will be detrimental to national security and public interest.[^35]
 
-As part of its rule-making power and to flesh out its power to issue CDOs, the Commission issued NPC Circular No. 2020-02, also known as the Rules on the Issuance of Cease and Desist Orders (NPC Circular No. 20-02).
+As part of its rule-making power and to flesh out its power to issue CDOs, the Commission issued [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 2020-02, also known as the Rules on the Issuance of Cease and Desist Orders]] (NPC Circular No. 20-02).
 
-Rule II, Section 5 of the same Circular provides for the filing of a CDO Application:
+[[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Rule II, Section 5]] of the same Circular provides for the filing of a CDO Application:
 
 > **Section 5. Filing of Application.** – An action for the issuance of a CDO may be commenced upon the filing with the Commission of an application in writing, verified and under oath, by any of the following applicants:
 >
@@ -211,7 +211,7 @@ Rule II, Section 4 of NPC Circular No. 20-02 provides for the grounds for the is
 >
 > C. the commission or continuance of such act or practice, unless restrained, will cause grave and irreparable injury to a data subject.[^44]
 
-The Commission finds that the CDO against PH-Check.com be issued since the grounds provided in NPC Circular No. 2020-02 have been met.
+The Commission finds that the CDO against PH-Check.com be issued since the grounds provided in [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 2020-02]] have been met.
 
 #### *I. PH-Check.com is doing some act or practice in violation of Section 11 (General Data Privacy Principles) and Section 16 (Rights of the Data Subject) of the DPA.*
 
@@ -297,9 +297,9 @@ An essential purpose of the DPA is to protect and uphold the rights of the data 
 
 **WHEREFORE, premises considered, PH-Check.com (https://ph-check.com) is hereby ordered to:**
 
-1) **CEASE AND DESIST** from the processing of personal data on its website, including the collection and display of personal data on its website, pursuant to Section 8 of NPC Circular No. 2020-02; and
+1) **CEASE AND DESIST** from the processing of personal data on its website, including the collection and display of personal data on its website, pursuant to [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Section 8 of NPC Circular No. 2020-02]]; and
 
-2) **SUBMIT its COMMENT**, within ten (10) days from receipt of this Order, on the allegations in the attached Application for Issuances of Cease and Desist Order dated 16 August 2022, pursuant to Section 9 of NPC Circular No. 2020-02.
+2) **SUBMIT its COMMENT**, within ten (10) days from receipt of this Order, on the allegations in the attached Application for Issuances of Cease and Desist Order dated 16 August 2022, pursuant to [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Section 9 of NPC Circular No. 2020-02]].
 
 The National Telecommunications Commission is hereby instructed to take down the website of PH-Check.com immediately upon receipt of this Order.
 
@@ -369,18 +369,18 @@ National Privacy Commission
 [^22]: Technical Report dated 26 July 2022 of the Complaints and Investigation Division, at p. 1.
 [^23]: Technical Report dated 26 July 2022 of the Complaints and Investigation Division, at p. 1.
 [^24]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at p. 8.
-[^25]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (g) (2012) (Data Privacy Act of 2012).
-[^26]: Data Privacy Act of 2012, chapter I, § 3 (l) (2012).
+[^25]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes ([[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]), Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]] (2012) ([[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]).
+[^26]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]] (2012).
 [^27]: Complaints and Investigation Division, Application for Issuance of Cease and Desist Order dated 16 August 2022, at p. 1; See Initial Report dated 21 January 2022, Annex "F".
 [^28]: Initial Report dated 21 January 2022 of the Complaints and Investigation Division, Annex "F".
 [^29]: Initial Report dated 21 January 2022 of the Complaints and Investigation Division, Annex "F".
-[^30]: Data Privacy Act of 2012, chapter I, § 3 (j) (2012).
-[^31]: Data Privacy Act of 2012, chapter I, § 3 (h) (2012).
+[^30]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (j)]] (2012).
+[^31]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]] (2012).
 [^32]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at p. 3.
-[^33]: National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of 2012, rule I, § 3 (m) (2016) (IRR of the DPA).
+[^33]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]], rule I, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|§ 3 (m)]] (2016) (IRR of the DPA).
 [^34]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at p. 3.
-[^35]: Data Privacy Act of 2012, chapter II, § 7 (C) (2012).
-[^36]: Rules on the Issuance of Cease and Desist Order, rule II, § 5.
+[^35]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter II, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|§ 7 (C)]] (2012).
+[^36]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Rules on the Issuance of Cease and Desist Order]], rule II, § 5.
 [^37]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at p. 3.
 [^38]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at p. 3.
 [^39]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at p. 6.
@@ -388,14 +388,14 @@ National Privacy Commission
 [^41]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at pp. 7-8.
 [^42]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at p. 6.
 [^43]: De Jesus v. Guerrero III, G.R. No. 171491, 04 September 2009.
-[^44]: National Privacy Commission, Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission, NPC Circular No. 2020-02, rule II, § 4 (06 October 2020) (Rules on the Issuance of Cease and Desist Order).
+[^44]: National Privacy Commission, [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Rules on the Issuance of Cease and Desist Orders of the National Privacy Commission]], NPC Circular No. 2020-02, rule II, § 4 (06 October 2020) (Rules on the Issuance of Cease and Desist Order).
 [^45]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at pp. 4-5.
 [^46]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at p. 6.
-[^47]: Data Privacy Act of 2012, chapter III, § 11.
-[^48]: IRR of the DPA, rule IV, § 18.
+[^47]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter III, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
+[^48]: IRR of the DPA, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|rule IV, § 18]].
 [^49]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at p. 5.
 [^50]: Complaints and Investigation Division (CID) Initial Report dated 21 January 2022, Annex "J".
-[^51]: IRR of the DPA, rule IV, § 18 (b).
+[^51]: IRR of the DPA, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|rule IV, § 18 (b)]].
 [^52]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at p. 3.
 [^53]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at p. 3.
 [^54]: Application for Issuance of Cease and Desist Order dated 16 August 2022 of the Complaints and Investigation Division, at p. 5.

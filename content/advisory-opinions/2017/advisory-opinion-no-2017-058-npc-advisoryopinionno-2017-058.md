@@ -1,5 +1,10 @@
 ---
 title: "NPC Advisory Opinion No. 2017-058 — Offenses Under the Data Privacy Act of 2012"
+aliases:
+  - "NPC Advisory Opinion No. 2017-058"
+  - "npc advisory opinion no. 2017-058"
+  - "Advisory Opinion No. 2017-058"
+  - "advisory opinion no. 2017-058"
 description: "Addresses the applicability of the Data Privacy Act to business process outsourcing companies processing personal information of foreign nationals, complaint procedures, and remedies available to affected parties."
 tags:
   - issuance
@@ -33,7 +38,7 @@ b. If the personal information of foreign citizens was processed illegally by an
 
 c. Will the BPO be able to institute a complaint for and in behalf of the account holders/owners of the information against said employee for violations of the Act? If not, what is the remedy?
 
-d. If yes, may the complaint be instituted directly with the courts or will Rule II, Section 4 of NPC Circular 16-04 on exhaustion of remedies apply?
+d. If yes, may the complaint be instituted directly with the courts or will Rule II, Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] on exhaustion of remedies apply?
 
 The exception on personal information originally collected from residents of foreign jurisdictions would not be a bar for prosecution of violations of the DPA.
 
@@ -59,7 +64,7 @@ As a rule, it should be the data subject who shall file a complaint for violatio
 
 As an alternative, the BPO may file the complaint as the person subject of a privacy violation or a personal data breach, not as a data subject, but as a PIP. "Person" may refer to both natural and juridical persons. The complaint may be brought as a violation of any of the provisions of the Data Privacy Act, where the PIC or PIP has been directly affected.
 
-The National Privacy Commission, mandated to administer and implement R.A. No 10173, has the primary jurisdiction on matters that involve violations of the Data Privacy Act, and matters that relate to privacy and personal data protection. The BPO, however, is not precluded from availing of other remedies in existing laws, such as remedies under R.A. No. 10175 when applicable, or the Civil Code for breach of contract and other relevant provisions, in accordance with established Rules of Procedure.
+The National Privacy Commission, mandated to administer and implement [[laws/data-privacy-act-of-2012|R.A. No 10173]], has the primary jurisdiction on matters that involve violations of the Data Privacy Act, and matters that relate to privacy and personal data protection. The BPO, however, is not precluded from availing of other remedies in existing laws, such as remedies under R.A. No. 10175 when applicable, or the Civil Code for breach of contract and other relevant provisions, in accordance with established Rules of Procedure.
 
 This opinion is based on the limited information provided, and may change depending on the particular circumstances of the case.
 
@@ -70,6 +75,6 @@ Very truly yours,
 **RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
-[^1]: See: IRR of RA No. 10173, Rule II, §5(3)(f).
-[^2]: See: IRR of RA No. 10173, §5.
-[^3]: NPC Circular 16-04, §4.
+[^1]: See: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA No. 10173, Rule II, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§5(3)(f)]].
+[^2]: See: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§5]].
+[^3]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04]], §4.

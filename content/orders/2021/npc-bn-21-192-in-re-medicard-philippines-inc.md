@@ -70,7 +70,7 @@ The Commission grants MediCard's request for additional time to comply with its 
 
 #### The Commission grants the request for additional time to comply.
 
-Section 17(C) of NPC Circular No. 16-03 (Personal Data Breach Management) provides:
+Section 17(C) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management) provides:
 
 > SECTION 17. Notification of the Commission. The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 >
@@ -151,15 +151,15 @@ GENERAL RECORDS UNIT
 [^3]: *Id.*
 [^4]: *Id.*
 [^5]: *Id.*
-[^6]: Section 17(C) of NPC Circular No. 16-03.
-[^7]: Section 18(A) of NPC Circular No. 16-03.
+[^6]: Section 17(C) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
+[^7]: Section 18(A) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 [^8]: Resolution dated 28 October 2021, at p. 5.
-[^9]: Section 17(C) of NPC Circular No. 16-03.
-[^10]: Section 18(A) of NPC Circular No. 16-03.
+[^9]: Section 17(C) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
+[^10]: Section 18(A) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 [^11]: MediCard Email Request dated 29 December 2021.
-[^12]: Section 18(D) of NPC Circular No. 16-03.
+[^12]: Section 18(D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 [^13]: MediCard Email Request dated 29 December 2021.
 [^14]: Initial Report dated 22 September 2021, at p. 2.
 [^15]: *Id.*
-[^16]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Section 3(m).
+[^16]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|Section 3(m)]].
 [^17]: *Id.*

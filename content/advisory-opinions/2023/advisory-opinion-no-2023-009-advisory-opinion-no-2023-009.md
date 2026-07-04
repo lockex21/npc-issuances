@@ -7,6 +7,11 @@ tags:
 - year/2023
 - topic/data-sharing
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-009"
+  - "npc advisory opinion no. 2023-009"
+  - "Advisory Opinion No. 2023-009"
+  - "advisory opinion no. 2023-009"
 ---
 
 ## Source
@@ -29,7 +34,7 @@ You state that the DA is currently collaborating with the FAO for the establishm
 
 One of the deliverables under the collaboration involves the integration of the components' databases and reporting platforms for seamless sharing. Since the DA maintains the Registry System for Basic Sectors in Agriculture (RBSA), which is an electronic database of basic information of farmers, farm laborers, fishermen, and target beneficiaries of agriculture-related program and services of the government, the collaboration would necessarily involve the disclosure to the FAO of confidential information about the program and the personal data of the program beneficiaries.
 
-In its desire to comply with R.A. 10173, or the Data Privacy Act of 2012 (DPA),[^2] and relevant issuances of the National Privacy Commission (NPC), the DA proposed to FAO that they execute a Data Sharing Agreement (DSA). Unfortunately, the FAO refused invoking their status as a Specialized Agency of the UN System which subscribes to the privileges and immunities under public international law and relevant treaties, including the immunity from all legal processes. The FAO posits that since the DSA is grounded on Philippine law, the execution thereof would equate to a waiver of its immunities.
+In its desire to comply with R.A. 10173, or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA),[^2] and relevant issuances of the National Privacy Commission (NPC), the DA proposed to FAO that they execute a Data Sharing Agreement (DSA). Unfortunately, the FAO refused invoking their status as a Specialized Agency of the UN System which subscribes to the privileges and immunities under public international law and relevant treaties, including the immunity from all legal processes. The FAO posits that since the DSA is grounded on Philippine law, the execution thereof would equate to a waiver of its immunities.
 
 The DA, on the other hand, recognizes its obligation to comply with the security requirements in the protection of personal data within its control under [[laws/data-privacy-act-of-2012#section-22-responsibility-of-heads-of-agencies|Section 22 of the DPA]]. Since the FAO will gain access to confidential information and personal data, including sensitive personal information of program beneficiaries, there must be a DSA to lay down the obligations and responsibilities of the parties in handling personal data.
 
@@ -69,15 +74,15 @@ While we recognize the immunity and privileges accorded to the FAO pursuant to t
 
 Under [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 (a) of the DPA]], a personal information controller (PIC) is accountable for complying with the requirements of the law and shall use contractual or other reasonable means to provide a comparable level of protection while the personal data are being processed by a third party.[^5]
 
-The NPC previously issued NPC Circular No. 2016-02 which makes it mandatory for government agencies to execute a Data Sharing Agreement when sharing personal data to a third party. This was superseded by NPC Circular No. 2020-03,[^6] which provides:
+The NPC previously issued NPC Circular No. 2016-02 which makes it mandatory for government agencies to execute a Data Sharing Agreement when sharing personal data to a third party. This was superseded by [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]],[^6] which provides:
 
 > SECTION 8. Data sharing agreement; key considerations. — Data sharing may be covered by a data sharing agreement (DSA) or a similar document containing the terms and conditions of the sharing arrangement, including obligations to protect the personal data shared, the responsibilities of the parties, mechanisms through which data subjects may exercise their rights, among others.
 >
-> The execution of a DSA is a sound recourse and demonstrates accountable personal data processing, as well as good faith in complying with the requirements of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances of the NPC. The NPC shall take this into account in case a complaint is filed pertaining to such data sharing and/or in the course of any investigation relating thereto, as well as in the conduct of compliance checks.
+> The execution of a DSA is a sound recourse and demonstrates accountable personal data processing, as well as good faith in complying with the requirements of the DPA, its IRR, and issuances of the NPC. The NPC shall take this into account in case a complaint is filed pertaining to such data sharing and/or in the course of any investigation relating thereto, as well as in the conduct of compliance checks.
 >
 > (Underscoring supplied).
 
-Thus, pursuant to NPC Circular No. 2020-03, the execution of a DSA is no longer mandatory but is considered as a best practice and a demonstration of accountability by the PIC in relation to data sharing.
+Thus, pursuant to [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]], the execution of a DSA is no longer mandatory but is considered as a best practice and a demonstration of accountability by the PIC in relation to data sharing.
 
 In the present case, the DA has other recourses besides the execution of a DSA to ensure that it is compliant with the DPA. Section 21 (a) of the DPA does not restrict the PIC with the use of contracts to protect the personal data transferred to a third party because it also allows "other reasonable means."
 
@@ -125,9 +130,9 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: United Nations, Convention on the Privileges and Immunities of the United Nations (February 13, 1946).
 [^4]: *Khosrow Minucher v. Court of Appeals*, G.R. No. 142396, [February 11, 2003].
-[^5]: Data Privacy Act of 2012, § 21 (a).
-[^6]: National Privacy Commission, NPC Circular No. 2020-03 on Data Sharing Agreements [NPC Circular No. 2020-03] (23 December 2020).
+[^5]: [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Data Privacy Act of 2012, § 21 (a)]].
+[^6]: National Privacy Commission, [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03 on Data Sharing Agreements]] [NPC Circular No. 2020-03] (23 December 2020).
 [^7]: *Lasco v. United Nations Revolving Fund for Natural Resources Exploration*, G.R. Nos. 109095-109107, [February 23, 1995].

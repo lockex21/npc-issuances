@@ -84,7 +84,7 @@ The Commission finds MediCard compliant with the Resolution dated 10 December 20
 
 Medicard was able to notify the remaining one thousand two hundred forty one (1,241) affected data subjects by sending the notification to the available e-mail addresses of the data subjects[^14] and by posting the notice on its website.[^15]
 
-Section 18(C) of NPC Circular 16-03, otherwise known as Personal Data Breach Management, provides:
+Section 18(C) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], otherwise known as Personal Data Breach Management, provides:
 
 C. Content of Notification. The notification shall include, but not be limited to:
 
@@ -107,7 +107,8 @@ The failure to send e-mail notifications to the remaining nine (9) data subjects
 
 Even though there is an impossibility in sending e-mail notifications to these data subjects, the Commission provides for alternative means of notifying them through NPC Circular No. 16-03 (Personal Data Breach Management).[^22]
 
-Particularly, Section 18(D) of NPC Circular No. 16-03 allows for alternative means of notification in which data subjects would be informed about the personal data breach in an equally effective manner if individual notification is impossible or would require disproportionate effort, to wit:
+
+Particularly, Section 18(D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] allows for alternative means of notification in which data subjects would be informed about the personal data breach in an equally effective manner if individual notification is impossible or would require disproportionate effort, to wit:
 
 SECTION 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 
@@ -164,12 +165,12 @@ National Privacy Commission
 [^13]: Id.
 [^14]: Compliance Report dated 15 March 2022 and Compliance Report dated 25 May 2022
 [^15]: Unauthorized Disclosure, available at https://www.medicardphils.com/news-promos-announcements/article/35, last accessed on 22 June 2022
-[^16]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18 (C) (15 December 2016) (NPC Circular 16-03).
+[^16]: National Privacy Commission, Personal Data Breach Management, [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, § 18 (C) (15 December 2016) (NPC Circular 16-03).
 [^17]: Unauthorized Disclosure, available at https://www.medicardphils.com/news-promos-announcements/article/35, last accessed on 22 June 2022
 [^18]: Compliance Report dated 15 March 2022
 [^19]: Compliance Report dated 25 May 2022
 [^20]: Affidavit of FC; Affidavit of JM
 [^21]: Final Enforcement Assessment Report, 23 June 2022, p. 6
-[^22]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18 (D) (15 December 2016) (NPC Circular 16-03).
-[^23]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18 (15 December 2016) (NPC Circular 16-03).
+[^22]: National Privacy Commission, Personal Data Breach Management, [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, § 18 (D) (15 December 2016) (NPC Circular 16-03).
+[^23]: National Privacy Commission, Personal Data Breach Management, [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, § 18 (15 December 2016) (NPC Circular 16-03).
 [^24]: See Affidavit of FC and Affidavit of JM.

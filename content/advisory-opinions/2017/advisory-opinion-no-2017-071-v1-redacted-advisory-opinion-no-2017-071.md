@@ -1,5 +1,10 @@
 ---
 title: "NPC Advisory Opinion No. 2017-071 — Compliance Obligations of Brokers and Dealers Under the Data Privacy Act of 2012"
+aliases:
+  - "NPC Advisory Opinion No. 2017-071"
+  - "npc advisory opinion no. 2017-071"
+  - "Advisory Opinion No. 2017-071"
+  - "advisory opinion no. 2017-071"
 description: "Guidance on the obligations of stockbrokers under the Data Privacy Act and whether brokers must comply with SEC requirements regarding client information disclosure and direct database access."
 tags:
   - issuance
@@ -35,7 +40,7 @@ You likewise stated that in view of the said requirements, the most prudent cour
 
 #### Scope of the DPA
 
-The DPA has the twin task of protecting the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth.[^1] There is no absolute prohibition in the processing of personal and sensitive personal information as the law provides for certain criteria for lawful processing. The general rule is that processing should adhere to the principles of transparency, legitimate purpose and proportionality.[^2]
+The [[laws/data-privacy-act-of-2012|DPA]] has the twin task of protecting the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth.[^1] There is no absolute prohibition in the processing of personal and sensitive personal information as the law provides for certain criteria for lawful processing. The general rule is that processing should adhere to the principles of transparency, legitimate purpose and proportionality.[^2]
 
 One of the exceptions to the scope of the law is information necessary in order to carry out the functions of public authority which includes the processing of personal data for the performance by regulatory agencies of their constitutionally and statutorily mandated functions.[^3]
 
@@ -49,9 +54,9 @@ Thus, when brokers submit the personal and sensitive personal information to the
 
 #### Lawful Processing of Personal and Sensitive Personal Information Vis-à-vis Consent
 
-Under the DPA, the processing of personal information is only allowed when it complies with the requirements of the Act and other laws that allow the disclosure of information to the public, and when it adheres to the principles of transparency, legitimate purpose and proportionality.[^7]
+Under the [[laws/data-privacy-act-of-2012|DPA]], the processing of personal information is only allowed when it complies with the requirements of the Act and other laws that allow the disclosure of information to the public, and when it adheres to the principles of transparency, legitimate purpose and proportionality.[^7]
 
-Sections 12 and 13 of the DPA provide for the criteria for lawful processing of personal and sensitive personal information, to wit:
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA provide for the criteria for lawful processing of personal and sensitive personal information, to wit:
 
 > SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -89,11 +94,11 @@ Very truly yours,
 (Sgd). RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: RA No. 10173, §2
-[^2]: RA No. 10173, §11
-[^3]: RA No. 10173, §4(e)
+[^1]: [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|RA No. 10173, §2]]
+[^2]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|RA No. 10173, §11]]
+[^3]: [[laws/data-privacy-act-of-2012#section-4-scope|RA No. 10173, §4(e)]]
 [^4]: RA No. 8799 – SRC, §5(b)
-[^5]: IRR of RA No. 10173, §5, last paragraph
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|IRR of RA No. 10173, §5]], last paragraph
 [^6]: *Id.*
-[^7]: RA No. 10173, §11
-[^8]: RA No. 10173, §3(b)
+[^7]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|RA No. 10173, §11]]
+[^8]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(b)]]

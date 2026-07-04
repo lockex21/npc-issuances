@@ -59,7 +59,7 @@ In the Discovery Conference Report,[^6] the Complainant listed the documentary o
 2. Rules and regulations as to how clients can change their personal information on file; and
 3. File or any record in case the Complainant's information was linked or forwarded to a third party.
 
-On 23 November 2018, the CID received the Complaint Affidavit[^7] of the Complainant formally charging the Respondent for violation of the Data Privacy Act in relation to the unauthorized changes, modification, and alteration of his two (2) credit card accounts, namely, HSBC GOLD Visa and HSBC RED MasterCard.
+On 23 November 2018, the CID received the Complaint Affidavit[^7] of the Complainant formally charging the Respondent for violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act]] in relation to the unauthorized changes, modification, and alteration of his two (2) credit card accounts, namely, HSBC GOLD Visa and HSBC RED MasterCard.
 
 On 15 April 2019, an Order[^8] was issued by the CID requiring the Respondent to submit the above-mentioned documents requested by the Complainant. In addition, the CID also required the Respondent to submit its Privacy Management Program.
 
@@ -71,7 +71,7 @@ On 20 May 2019, the Respondent filed its Comment[^10] and submitted its Privacy 
 
 ### Discussion
 
-Section 14(a) of NPC Circular 16-04[^12] provides that:
+Section 14(a) of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]][^12] provides that:
 
 > The National Privacy Commission may issue an Order governing the discovery of electronically stored information pursuant to:
 >
@@ -138,7 +138,7 @@ GENERAL RECORDS UNIT
 [^9]: *Ibid.*
 [^10]: Comment dated 20 May 2019.
 [^11]: *Supra* note 5.
-[^12]: NPC Circular 16-04. Rules of Procedure of the National Privacy Commission. Dated 15 December 2016.
+[^12]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04. Rules of Procedure of the National Privacy Commission.]] Dated 15 December 2016.
 [^13]: Emphasis supplied.
 [^14]: *Supra* note 10.
 [^15]: Emphasis supplied.

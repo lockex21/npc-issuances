@@ -84,21 +84,21 @@ Approved:
 [^3]: See Convention on the Rights of the Child art. 3(1), adopted 20 November 1989, 1577 U.N.T.S. 3.
 [^4]: See Id. art. 5.
 [^5]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 § 11 (2012).
-[^6]: See National Privacy Commission, Security of Personal Data in the Government and the Private Sector, Circular No. 06, Series of 2023 [NPC Circ. No. 23-06], (01 December 2023).
+[^6]: See National Privacy Commission, [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]], Circular No. 06, Series of 2023 [NPC Circ. No. 23-06], (01 December 2023).
 [^7]: See Id.
-[^8]: Data Privacy Act of 2012, § 20 (f).
+[^8]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, § 20]] (f).
 [^9]: See Id. §§ 11 – 13.
 [^10]: Id. § 11.
 [^11]: Id.
-[^12]: See National Privacy Commission, Guidelines on Consent, Circular No. 04, Series of 2023 [NPC Circ. No. 23-04], § 3 (D)(3) (07 November 2023).
+[^12]: See National Privacy Commission, [[issuances/2023/guidelines-on-consent|Guidelines on Consent]], Circular No. 04, Series of 2023 [NPC Circ. No. 23-04], § 3 (D)(3) (07 November 2023).
 [^13]: Id.
 [^14]: See Id. § 3.
 [^15]: See Id. § 2 (E).
 [^16]: See Id. § 3 (D)(3)(c).
-[^17]: See Id. § 7; National Privacy Commission, Guidelines on Deceptive Design Patterns, Advisory No. 01, Series of 2023 [NPC Adv. No. 23-01] (07 November 2023).
+[^17]: See Id. § 7; National Privacy Commission, [[issuances/2023/guidelines-on-deceptive-design-patterns|Guidelines on Deceptive Design Patterns]], Advisory No. 01, Series of 2023 [NPC Adv. No. 23-01] (07 November 2023).
 [^18]: See NPC Circ. No. 23-04, § 11.
 [^19]: See Id. § 3 (D)(3).
-[^20]: Data Privacy Act of 2012, § 21.
+[^20]: [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Data Privacy Act of 2012, § 21]].
 
 [^1]: See An Act Providing For Stronger Deterrence And Special Protection Against Child Abuse, Exploitation And Discrimination, And For Other Purposes [Special Protection of Children Against Abuse, Exploitation and Discrimination Act of 1992], Republic Act No. 7610 § 3 (a) (1992).
 [^2]: See UN Committee on the Rights of the Child (UNCRC), General Comment No. 25 (2021) on Children’s
@@ -107,7 +107,7 @@ Approved:
 [^5]: An Act Protecting Individual Personal Information in Information and Communications Systems in
 [^6]: See National Privacy Commission, Security of Personal Data in the Government and the Private Sector,
 [^7]: See Id.
-[^8]: Data Privacy Act of 2012, § 20 (f).
+[^8]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, § 20]] (f).
 [^9]: See Id. §§ 11 – 13.
 [^10]: Id. § 11.
 [^11]: Id.
@@ -119,7 +119,7 @@ Approved:
 [^17]: See Id. § 7; National Privacy Commission, Guidelines on Deceptive Design Patterns, Advisory No. 01,
 [^18]: See NPC Circ. No. 23-04, § 11.
 [^19]: See Id. § 3 (D)(3).
-[^20]: Data Privacy Act of 2012, § 21.
+[^20]: [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Data Privacy Act of 2012, § 21]].
 
 ## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/Advisory-2024.12.17-Guidelines-on-Child-Oriented-Transparency-w-SGD.pdf

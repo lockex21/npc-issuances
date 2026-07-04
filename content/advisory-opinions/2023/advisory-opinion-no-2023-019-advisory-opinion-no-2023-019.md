@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2023"
   - "topic/legitimate-interest"
+aliases:
+  - "NPC Advisory Opinion No. 2023-019"
+  - "npc advisory opinion no. 2023-019"
+  - "Advisory Opinion No. 2023-019"
+  - "advisory opinion no. 2023-019"
 draft: false
 ---
 
@@ -46,7 +51,7 @@ GCash hesitates to accede to the Sender’s request considering that it already 
 name and email address of the Recipient. Further, it is GCash’s position that the Sender’s right
 to access does not include the disclosure to her of the Recipient’s home address.
 
-Thus, you ask if the refusal of GCash to provide the recipient’s home address is justified under the Data Privacy Act of 2012 (DPA) and other relevant issuances.[^1]
+Thus, you ask if the refusal of GCash to provide the recipient’s home address is justified under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and other relevant issuances.[^1]
 
 #### Processing based on legitimate interest
 
@@ -119,8 +124,8 @@ Director IV, Privacy Policy Office
 
 [^1]: Tags: special cases; law enforcement; lawful processing; investigations.
 [^2]: Article 22, Civil Code of the Philippines.
-[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 12(f) (2012).
-[^4]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner’s Office (ICO), What is the ‘Legitimate Interests’ basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12(f)]] (2012).
+[^4]: See generally, [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12 (f)]]; United Kingdom Information Commissioner’s Office (ICO), What is the ‘Legitimate Interests’ basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
 [^5]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]] (Sept. 22, 2022).
 [^6]: Article 26. Civil Code of the Philippines.
 [^7]: Spouses Bill and Victoria Hing v. Alexander Choachuy Sr. and Allan Choachuy, G.R. No. 179736, June 26, 2013.

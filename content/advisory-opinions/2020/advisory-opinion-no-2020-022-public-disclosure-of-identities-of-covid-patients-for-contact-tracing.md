@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+aliases:
+  - "NPC Advisory Opinion No. 2020-022"
+  - "npc advisory opinion no. 2020-022"
+  - "Advisory Opinion No. 2020-022"
+  - "advisory opinion no. 2020-022"
 draft: false
 ---
 ## Source

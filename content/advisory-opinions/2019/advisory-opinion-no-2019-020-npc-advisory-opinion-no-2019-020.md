@@ -10,6 +10,11 @@ tags:
   - borrowers
   - disclosure
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-020"
+  - "npc advisory opinion no. 2019-020"
+  - "Advisory Opinion No. 2019-020"
+  - "advisory opinion no. 2019-020"
 ---
 
 ## Source
@@ -29,13 +34,13 @@ Dear [Redacted],
 
 We write in response to your request for an advisory opinion on the propriety of disclosing to the Commission on Audit (COA)-LBP State Auditors the personal information[^2] and basic credit data[^3] of individual borrowers[^4] who availed and received loans from the Land Bank of the Philippines (LBP), for audit purposes and pursuant to the powers vested to COA under the 1987 Philippine Constitution and Rule II, Section 3 of its 2009 Revised Rules of Procedures.
 
-In particular, you seek clarification on the propriety of disclosure given the exemption from the scope of the DPA, as claimed by COA.
+In particular, you seek clarification on the propriety of disclosure given the exemption from the scope of the [[laws/data-privacy-act-of-2012|DPA]], as claimed by COA.
 
 ### Discussion
 
 #### Scope of the DPA
 
-The Data Privacy Act of 2012 (DPA)[^5] applies to all types of processing of personal data,[^6] including disclosure of basic credit data of individual borrowers.
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^5] applies to all types of processing of personal data,[^6] including disclosure of basic credit data of individual borrowers.
 
 We affirm that [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] and Section 5 of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) exempt certain categories of information from its scope and application. However, such exemption applies only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned.[^7]
 
@@ -57,7 +62,7 @@ We take notice of the provision on confidentiality of information indicated unde
 
 Based on the foregoing, all information pertaining to borrowers are strictly confidential unless the disclosure to be made by the banks falls under the circumstances enumerated, including disclosure to a government office or agency authorized by law.
 
-On the other hand, the processing of personal and sensitive personal information may be based on the various criteria under Section 12 and 13 of the DPA, to wit:
+On the other hand, the processing of personal and sensitive personal information may be based on the various criteria under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, to wit:
 
 > SECTION 12. *Criteria for Lawful Processing of Personal Information.* – xxx
 >
@@ -84,11 +89,11 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^2]: Data Privacy Act of 2012, § 3(g) - Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^2]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(g)]] - Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 [^3]: Republic Act 9510, 3(b) - "Basic Credit Data" refers to positive and negative information provided by a borrower to a submitting entity in connection with the application for and availment of a credit facility and any information on the borrower's creditworthiness in the possession of the submitting entity and other factual and objective information related or relevant thereto in the submitting entity's data files or that of other sources of information: Provided, that in the absence of a written waiver duly accomplished by the borrower, basic credit data shall exclude confidential information on bank deposits and/or clients funds under Republic Act No. 1405 (Law on Secrecy of Bank Deposits), Republic Act No. 6426 (The Foreign Currency Deposit Act), Republic Act No. 8791 (The General Banking Law of 2000), Republic Act No. 9160 (Anti-Money Laundering Law) and their amendatory laws.
 [^4]: R.A. 9510, 3(c) - "Borrower" refers to a natural or juridical person, including any local government unit (LGU), its subsidiaries and affiliates, that applies for and/or avails of a credit facility.
 [^5]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^6]: *Id.* § 4.
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
+[^6]: *Id.* [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]].
+[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5]] (2016).
 [^8]: *Ibid.*
 [^9]: Part III, Section X304.12, Manual of Regulations for Banks (MORB), Volume 1.

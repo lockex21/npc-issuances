@@ -51,7 +51,7 @@ x----------------------------------------------------x
 
 LIBORO, P.C.:
 
-Before this Commission is a Complaint filed by RLA (Complainant) against Respondent PLDT Enterprise (PLDT) for violation of the Data Privacy Act of 2012 ("DPA" or "Data Privacy Act") when it published the Complainant's personal information in its White Pages without the consent of the Complainant.
+Before this Commission is a Complaint filed by RLA (Complainant) against Respondent PLDT Enterprise (PLDT) for violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ("DPA" or "Data Privacy Act") when it published the Complainant's personal information in its White Pages without the consent of the Complainant.
 
 ### Facts
 
@@ -115,19 +115,19 @@ Complainant alleged that he and his father relocated several times after the abd
 
 Due to such publication, Complainant accused PLDT of violating the following provisions of the DPA:
 
-a. Section 28 for Processing of Personal Information and Sensitive Personal Information for Unauthorized Purposes, when Complainant was not informed of the purpose for processing his personal information and to whom said information will be disclosed;
+a. [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28]] for Processing of Personal Information and Sensitive Personal Information for Unauthorized Purposes, when Complainant was not informed of the purpose for processing his personal information and to whom said information will be disclosed;
 
-b. Section 29 for Unauthorized Access or Intentional Breach, when Complainant's personal information was published intentionally and knowingly published even with the presence of the prevailing law under National Telecommunication Commission and Data Privacy Act;
+b. [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Section 29]] for Unauthorized Access or Intentional Breach, when Complainant's personal information was published intentionally and knowingly published even with the presence of the prevailing law under National Telecommunication Commission and Data Privacy Act;
 
-c. Section 30 for Concealment of Security Breaches Involving Sensitive Personal Information, when PLDT's customer service representative told Complainant that his personal information was already tagged as confidential during his initial inquiry in March 2018 when it only started to be confidential for their June 2018 publication; and
+c. [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Section 30]] for Concealment of Security Breaches Involving Sensitive Personal Information, when PLDT's customer service representative told Complainant that his personal information was already tagged as confidential during his initial inquiry in March 2018 when it only started to be confidential for their June 2018 publication; and
 
-d. Section 32 for Unauthorized Disclosure, when Complainant's personal information was published in PLDT's White Pages without his consent.
+d. [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32]] for Unauthorized Disclosure, when Complainant's personal information was published in PLDT's White Pages without his consent.
 
 Complainant prayed for actual damages representing the cost of their several relocations to safeguard their welfare and for moral damages representing the mental anguish, fright, anxiety, sleepless nights, and emotional stress caused to the Complainant for jeopardizing the safety of his family due to the disclosure of their exact address.
 
 ### Issue
 
-Whether PLDT violated Sections 28, 29, 30, and 32 of the Data Privacy Act of 2012 in publishing Complainant's personal information in its White Pages without the consent of the Complainant.
+Whether PLDT violated [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Sections 28]], [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|29]], [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|30]], and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]] of the Data Privacy Act of 2012 in publishing Complainant's personal information in its White Pages without the consent of the Complainant.
 
 ### Discussion
 
@@ -235,8 +235,8 @@ GENERAL RECORDS UNIT
 NATIONAL PRIVACY COMMISSION
 
 [^1]: Fact-Finding Report dated 13 October 2020.
-[^2]: Republic Act No. 10173, Section 3 (g).
-[^3]: Republic Act No. 10173, Section 3(h).
-[^4]: *Id.*, at Section 3(i).
-[^5]: Section 3 (b), Data Privacy Act of 2012.
+[^2]: Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (g)]].
+[^3]: Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(h)]].
+[^4]: *Id.*, at [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(i)]].
+[^5]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (b)]], Data Privacy Act of 2012.
 [^6]: *Areola v. Court of Appeals*, G.R. No. 95641, [September 22, 1994], 306 PHIL 656-667.

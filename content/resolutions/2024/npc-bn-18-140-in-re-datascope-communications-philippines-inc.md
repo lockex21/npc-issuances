@@ -180,7 +180,7 @@ The Commission finds Datascope's submissions to be sufficiently compliant with t
 
 #### I. Datascope sufficiently provided the details in its Full Report pursuant to NPC Circular 16-03
 
-On 19 October 2020, Datascope was required by CID to submit a Full Report "expounding the details of the incident" and "attaching the specified documents" to be used in the investigation of the breach incident, pursuant to Section 17(D) of NPC Circular 16-03 (Personal Data Breach Management).[^22] Likewise, an Order dated 14 June 2021 was issued by the CID requiring Datascope to submit an Audit Report containing the result of the physical audit of all external HDDs.[^23]
+On 19 October 2020, Datascope was required by CID to submit a Full Report "expounding the details of the incident" and "attaching the specified documents" to be used in the investigation of the breach incident, pursuant to Section 17(D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).[^22] Likewise, an Order dated 14 June 2021 was issued by the CID requiring Datascope to submit an Audit Report containing the result of the physical audit of all external HDDs.[^23]
 
 In order to promote cooperation with the personal information controller (PIC) regarding investigations on matters relating to personal data breach, Rule V, Section 17(D) of NPC Circular 16-03 requires such PIC to notify the Commission of the incident which shall contain the following details:
 
@@ -326,7 +326,7 @@ In an Order dated 14 June 2021, the CID required Datascope to submit the followi
 
 Accordingly on 19 May 2022, Datascope submitted to the Commission the required PIA.[^70]
 
-NPC Advisory No. 2017-03 defines a PIA as a:
+[[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]] defines a PIA as a:
 
 > [P]rocess undertaken and used to evaluate and manage impacts on privacy of a particular program, project, process, measure, system or technology product of a PIC or PIP program, project, process, measure, system or technology product of a PIC or PIP. It takes into account the nature of the personal data to be protected, the personal data flow, the risks to privacy and security posed by the processing, current data privacy best practices, the cost of security implementation, and, where applicable, the size of the organization, its resources, and the complexity of its operations.[^71]
 
@@ -392,7 +392,7 @@ In its initial report, Datascope stated that an external HDD containing scanned 
 
 Datascope also enumerated the personal data contained in the missing external HDD were: (1) full name; (2) date of birth; (3) address; (4) contact information; (5) SSS number; (6) tax identification number; (7) BIR Form 2316; (8) Philhealth number; (9) PAG-Ibig number; (10) education/transcripts/diplomas; (11) performance assessments; (12) disciplinary actions; (13) work history; (14) post-employment information; (15) hiring requirements; and, (16) annual medical records, among others.[^106]
 
-In order to allow the affected data subjects to take "necessary precautions or other measures to protect themselves against the possible effects of the breach," notification should be made upon them regarding the incident.[^107] Thus, Rule V, Section 11 of NPC Circular 16-03 (Personal Data Breach Management) provides:
+In order to allow the affected data subjects to take "necessary precautions or other measures to protect themselves against the possible effects of the breach," notification should be made upon them regarding the incident.[^107] Thus, Rule V, Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management) provides:
 
 > SECTION 11. When notification is required.
 >
@@ -489,7 +489,7 @@ GENERAL RECORDS UNIT
 [^21]: Id.
 [^22]: Id.
 [^23]: Id.
-[^24]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 17(D) (15 December 2016) (NPC Circular 16-03).
+[^24]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 17(D) (15 December 2016) (NPC Circular 16-03).
 [^25]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope Communications (Philippines), Inc.
 [^26]: Id.
 [^27]: Id., referred to as Annex "1."
@@ -536,7 +536,7 @@ GENERAL RECORDS UNIT
 [^68]: NPC BN 18-140 (unreported), Order dated 19 October 2020 of the National Privacy Commission's Complaints and Investigation Division. See also NPC BN 18-140 (unreported), Order dated 14 June 2021 of the National Privacy Commission's Complaints and Investigation Division.
 [^69]: NPC BN 18-140 (unreported), Order dated 14 June 2021 of the National Privacy Commission's Complaints and Investigation Division.
 [^70]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc., referred to as Privacy Impact Assessment at pp. 1-5.
-[^71]: National Privacy Commission, Guidelines on Privacy Impact Assessments, NPC Advisory 2017-03, in Definition of Terms (31 July 2017) (NPC Advisory 2017-03).
+[^71]: National Privacy Commission, [[issuances/2017/guidelines-on-privacy-impact-assessments|Guidelines on Privacy Impact Assessments, NPC Advisory 2017-03]], in Definition of Terms (31 July 2017) (NPC Advisory 2017-03).
 [^72]: Id., at pp. 31-40.
 [^73]: Id., at pp. 41-45.
 [^74]: Id., at pp. 46-60.
@@ -572,10 +572,10 @@ GENERAL RECORDS UNIT
 [^104]: Additional Documents dated 19 May 2022 of Datascope Communications (Philippines), Inc., referred to as Privacy Impact Assessment at pp. 61-65.
 [^105]: Full Report on the Personal Data Breach dated 03 November 2020 of Datascope Communications (Philippines), Inc.
 [^106]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications (Philippines), Inc.
-[^107]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 11.
+[^107]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 11.
 [^108]: NPC Circular 16-03, rule V, § 11.
 [^109]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications (Philippines), Inc.
-[^110]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter V, § 20(f) (2012).
+[^110]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter V, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20(f)]] (2012).
 [^111]: NPC Circular 16-03, rule V, § 11(A).
 [^112]: Mandatory Notification and Report dated 31 July 2018 of Datascope Communications (Philippines), Inc., at p. 4.
 [^113]: Id., at pp. 3-4.

@@ -81,7 +81,7 @@ In the Complaint filed by Complainant, she plainly alleged the violations commit
 
 Despite several opportunities given to Complainant to prove her allegations at the two (2) Discovery Conferences scheduled on 06 September 2019 and 03 December 2019, Complainant still failed to appear without prior notice nor justification.
 
-In consideration of the circumstances of this case, the Commission is bound to adjudicate in accordance with the provision of the NPC Circular 16-04 or the NPC Rules of Procedure, *viz*:
+In consideration of the circumstances of this case, the Commission is bound to adjudicate in accordance with the provision of the [[issuances/undated/rules-of-procedure#rule-iii-procedure-in-complaints|NPC Circular 16-04]] or the NPC Rules of Procedure, *viz*:
 
 **Section 22. *Rendition of decision.* –** The Decision of the Commission shall adjudicate the issues raised in the complaint on the basis of all the evidence presented and its own consideration of the law.[^12]
 

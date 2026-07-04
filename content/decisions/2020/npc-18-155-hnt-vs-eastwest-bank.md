@@ -117,6 +117,6 @@ Deputy Privacy Commissioner
 [^10]: Order dated 06 December 2019.
 [^11]: *Ibid*.
 [^12]: Mediated Settlement Agreement filed on 22 January 2020.
-[^13]: Section 7(b), R.A. 10173.
+[^13]: [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b)]], R.A. 10173.
 [^14]: Section 2, Republic Act No. 9285 (Alternative Resolution Dispute Act of 2004).
 [^15]: The 1997 Rules of Procedure, Rule 16.

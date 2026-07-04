@@ -7,6 +7,11 @@ tags:
 - year/2023
 - topic/consent
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-002"
+  - "npc advisory opinion no. 2023-002"
+  - "Advisory Opinion No. 2023-002"
+  - "advisory opinion no. 2023-002"
 ---
 
 ## Source
@@ -45,7 +50,7 @@ You also state that the counsel of Premier Islands Management Corporation (Premi
 alleged current owner of eleven (11) of the subject properties, is preventing the Municipal
 Assessor from releasing to the DOST copies of the requested documents. The counsel of
 Premier is claiming that disclosure of the requested documents to DOST would violate the
-Data Privacy Act of 2012 (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) since it
+[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) since it
 contains personal data.
 
 You thus ask if the position of Premier’s counsel is legally proper.
@@ -147,7 +152,7 @@ We emphasize that the processing of sensitive personal information is allowed un
 DPA, subject to compliance with the criteria provided by law. As stated earlier, Section 13(b) of the DPA recognizes the processing of sensitive personal information when it is provided
 for by existing laws and regulations.[^5]
 
-Under Section 4(a)(4) of the DPA, any information about any individual who is or was an
+Under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(a)(4) of the DPA]], any information about any individual who is or was an
 officer or employee of a government institution that relates to the position or functions of the
 individual, such as the name of the individual on a document prepared by the individual in
 the course of employment with the government, falls outside the scope of the DPA. In this
@@ -223,8 +228,8 @@ FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
 [^1]: Tags: scope of the DPA; sensitive personal information; tax declarations; public documents.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]] (2012).
 [^3]: Id. § 12 (e).
 [^4]: Id. § 13 (b).
-[^5]: Data Privacy Act of 2012, § 13 (b) (2012).
+[^5]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13 (b)]] (2012).
 [^6]: National Privacy Commission, BGM v. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).

@@ -84,13 +84,13 @@ Whether SMART conducted proper breach management, including the implementation o
 
 The Commission finds that SMART conducted proper breach management and implemented reasonable and appropriate security measures upon knowledge of the incident. Thus, the Commission resolves to close the case.
 
-Section 20 (a) and (b) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) mandates a Personal Information Controller (PIC) to implement reasonable organizational, physical, and technical measures intended for the protection of personal information:
+[[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) and (b)]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) mandates a Personal Information Controller (PIC) to implement reasonable organizational, physical, and technical measures intended for the protection of personal information:
 
 > Section 20. Security of Personal Information. (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.
 >
 > (b) The personal information controller shall implement reasonable and appropriate measures to protect personal information against natural dangers such as accidental loss or destruction, and human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration and contamination.[^19]
 
-Further, SMART enumerated in its submissions the measures it took to address the breach following Section 17 (D) (3) of NPC Circular 16-03 (Personal Data Breach Management):
+Further, SMART enumerated in its submissions the measures it took to address the breach following Section 17 (D) (3) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management):
 
 > Section 17. Notification of the Commission. The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 >
@@ -180,8 +180,8 @@ GENERAL RECORDS UNIT
 [^16]: Order (To Submit Full-Breach Report), 26 October 2022, at 1, in In re: Smart Communications, Inc., NPC BN 18-142 (NPC 2022).
 [^17]: Compliance, 11 November 2022, at 1, in In re: Smart Communications, Inc., NPC BN 18-142 (NPC 2022).
 [^18]: Final Breach Notification Evaluation Report, 18 January 2023, at 7, in In re: Smart Communications, Inc., NPC BN 18-142 (NPC 2023).
-[^19]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (a) and (b) (2012). Emphasis supplied.
-[^20]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], §17 (D) (3) (15 December 2016).
+[^19]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Republic Act No. 10173 § 20 (a) and (b)]] (2012). Emphasis supplied.
+[^20]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], §17 (D) (3) (15 December 2016).
 [^21]: Data Breach Notification – SMART LTE Tourist SIM Registration Matter, 01 August 2018, at 1, in In re: Smart Communications, Inc., NPC BN 18-142 (NPC 2018).
 [^22]: Compliance to Order dated 15 November 2021, 01 December 2021, Annex A (Full Report), in In re: Smart Communications, Inc., NPC BN 18-142 (NPC 2021).
 [^23]: Data Breach Notification – SMART LTE Tourist SIM Registration Matter, 01 August 2018, at 1, in In re: Smart Communications, Inc., NPC BN 18-142 (NPC 2018).

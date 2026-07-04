@@ -52,7 +52,7 @@ On 6 August 2020, this Commission issued a Resolution[^2] with the following dis
 >
 > Furthermore, the Commission **GRANTS** the request for Postponement of Notification to Data Subjects of E-Science Corporation and directs them to submit proof of compliance thereof within fifteen (15) days from submission of their Full Breach Report. Pending their verification of the full list of affected data subjects, E-Science Corporation is enjoined to use alternative means of notification under Section 18(d) of NPC Circular No. 16-03.
 
-However, instead of submitting a proof of compliance on the required Notification to Data Subjects, E-Science submitted a Request for Exemption to Notify the Data Subjects.[^3] Citing Section 11 of NPC Circular 16-03, it contended that after full investigation, it has confirmed that the incident was only limited to names, e-mail addresses and testing logs. It claimed that no sensitive, personal or biometric data were involved. It also found that there was no PIN, password, birthday, account number, telephone number, or any data involved that could put the individual at risk.[^4]
+However, instead of submitting a proof of compliance on the required Notification to Data Subjects, E-Science submitted a Request for Exemption to Notify the Data Subjects.[^3] Citing Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], it contended that after full investigation, it has confirmed that the incident was only limited to names, e-mail addresses and testing logs. It claimed that no sensitive, personal or biometric data were involved. It also found that there was no PIN, password, birthday, account number, telephone number, or any data involved that could put the individual at risk.[^4]
 
 E-Science also stated that it has undertaken subsequent measures to ensure that the risk of harm or negative consequence to the data subjects will not materialize.[^5]
 
@@ -60,7 +60,7 @@ E-Science also stated that it has undertaken subsequent measures to ensure that 
 
 This Commission denies E-Science’s Request for Exemption to Notify the Data Subjects.
 
-Section 11 of NPC Circular 16-03 provides that:
+Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides that:
 
 > Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 >

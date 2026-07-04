@@ -107,11 +107,11 @@ A. Through its head of agency, designate a Data Protection Officer;
 
 B. Conduct a Privacy Impact Assessment for each program, process or measure within the agency that involves personal data, Provided, that such assessment shall be updated as necessary;
 
-C. Create privacy and data protection policies, taking into account the privacy impact assessments, as well as [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 25 and 29 of the IRR]];
+C. Create privacy and data protection policies, taking into account the privacy impact assessments, as well as [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Sections 25]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-29-appropriate-level-of-security|29]] of the IRR;
 
 D. Conduct a mandatory, agency-wide training on privacy and data protection policies once a year: Provided, that a similar training shall be provided during all agency personnel orientations.
 
-E. Register its data processing systems with the Commission in cases where processing involves personal data of at least one thousand (1,000) individuals, taking into account [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 46 and 49 of the IRR]];
+E. Register its data processing systems with the Commission in cases where processing involves personal data of at least one thousand (1,000) individuals, taking into account [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-46-enforcement-of-the-data-privacy-act|Sections 46]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-49-review-by-the-commission|49]] of the IRR;
 
 F. Cooperate with the Commission when the agency’s privacy and data protection policies are subjected to review and assessment, in terms of their compliance with the requirements of the Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and all issuances by the Commission.
 

@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+aliases:
+  - "NPC Advisory Opinion No. 2017-031"
+  - "npc advisory opinion no. 2017-031"
+  - "Advisory Opinion No. 2017-031"
+  - "advisory opinion no. 2017-031"
 draft: false
 ---
 
@@ -47,4 +52,4 @@ Officer-in-Charge and
 Deputy Privacy Commissioner
 for Policies and Planning
 
-[^1]: RA No. 10173, §4(a)
+[^1]: [[laws/data-privacy-act-of-2012#section-4-scope|RA No. 10173, §4(a)]]

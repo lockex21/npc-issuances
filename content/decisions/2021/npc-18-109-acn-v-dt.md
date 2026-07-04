@@ -43,7 +43,7 @@ x---------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by ACN (Complainant) against DT (Respondent) for an alleged violation of the Data Privacy Act of 2012 or Republic Act No. 10173 (DPA).
+Before this Commission is a Complaint filed by ACN (Complainant) against DT (Respondent) for an alleged violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 or Republic Act No. 10173]] (DPA).
 
 ### Facts
 
@@ -169,7 +169,7 @@ It is therefore undisputed that, as an editor of Boxrec.com, Respondent's access
 
 On the Complainant's assertions that he did not give his consent to his name being updated on the website, it must be clarified that the lack of consent did not change the nature of Respondent's access and make it unlawful all of a sudden. The information involved in this case is the name of the Complainant which is classified as personal information.
 
-The Commission takes this opportunity to stress that consent is not the only lawful basis to process personal or sensitive personal information under the DPA. Even a cursory look at Sections 12 and 13 of the DPA will show that there are other lawful criteria to process personal information and sensitive personal information aside from consent.[^19]
+The Commission takes this opportunity to stress that consent is not the only lawful basis to process personal or sensitive personal information under the DPA. Even a cursory look at [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA will show that there are other lawful criteria to process personal information and sensitive personal information aside from consent.[^19]
 
 In describing the nature of Boxrec.com, Complainant explains that it is "an online repository, record keeper of all boxing matches around the world, including data of boxers, referees, judges, among others..."[^20]
 
@@ -258,8 +258,8 @@ National Privacy Commission
 [^8]: Records at 7.
 [^9]: Id., at 21-22.
 [^10]: Id., at 25-26.
-[^11]: NPC Circular 16-04 dated 15 December 2016, Section 12. Emphasis supplied.
-[^12]: See, NPC Circular 16-04 dated 15 December 2016, Section 12.
+[^11]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] dated 15 December 2016, Section 12. Emphasis supplied.
+[^12]: See, [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] dated 15 December 2016, Section 12.
 [^13]: Complaint-Affidavit dated 24 August 2018.
 [^14]: Reply to Respondent's Position Paper dated 27 December 2018.
 [^15]: Records at 26-29.

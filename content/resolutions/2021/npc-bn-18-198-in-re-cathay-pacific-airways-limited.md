@@ -36,13 +36,13 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-This Commission resolves the sufficiency of notification of the data subjects and the evidence of such notification submitted by Cathay Pacific Airways Limited (Cathay Pacific) in line with NPC Circular No. 16-03 (Personal Data Breach Management).
+This Commission resolves the sufficiency of notification of the data subjects and the evidence of such notification submitted by Cathay Pacific Airways Limited (Cathay Pacific) in line with [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management).
 
 ### Facts
 
 On 18 March 2021, the Commission ordered Cathay Pacific to submit evidence of notification to the affected data subjects in or from the Philippines and explain any discrepancy between its analysis of the number of affected data subjects, exposed passport numbers, and accessed credit card numbers:
 
-WHEREFORE, all premises considered and pursuant to the requirements of Section 18(A) and Section (D) of Circular No. 16-03, the Commission **ORDERS** Cathay Pacific Airways Limited to submit evidence of notification to the affected data subjects in or from the Philippines and explain any discrepancy from its abovementioned analysis of affected data subjects, exposed passport numbers, and accessed credit card numbers within fifteen (15) days from receipt of this Order.
+WHEREFORE, all premises considered and pursuant to the requirements of Section 18(A) and Section (D) of [[issuances/undated/personal-data-breach-management|Circular No. 16-03]], the Commission **ORDERS** Cathay Pacific Airways Limited to submit evidence of notification to the affected data subjects in or from the Philippines and explain any discrepancy from its abovementioned analysis of affected data subjects, exposed passport numbers, and accessed credit card numbers within fifteen (15) days from receipt of this Order.
 
 **SO ORDERED.**[^1]
 
@@ -86,7 +86,7 @@ On 22 June 2021, Cathay Pacific submitted the following compliance documents in 
 
 The Commission finds sufficient Cathay Pacific's notification of its affected data subjects and the evidence of such notification that it submitted pursuant to the Order dated 18 March 2021. The Commission also finds Cathay Pacific's explanation on the consistency between the number of reported notifications and the total number of its affected data subjects to be satisfactory.
 
-Section 18(C) of NPC Circular No. 16-03 provides the necessary contents of the notification to the affected data subjects:
+Section 18(C) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides the necessary contents of the notification to the affected data subjects:
 
 > SECTION 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -109,7 +109,7 @@ The contents of the general notice published on the Cathay Pacific website and t
 
 In its efforts to mitigate the negative consequences of the breach incident, Cathay Pacific offered a twelve-month complimentary identity monitoring services to its affected data subjects to monitor if the affected data subject's personal data are available on public websites, chat rooms, blogs, and non-public places on the internet.[^9] It also advised its affected data subjects to change their passwords regularly, check for any suspicious activities, and remain vigilant against phishing and other attempted scams.[^10]
 
-Section 18(D) of NPC Circular No. 16-03 requires a personal information controller (PIC) to establish all reasonable means to ensure that its affected data subjects are notified of the breach incident:
+Section 18(D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] requires a personal information controller (PIC) to establish all reasonable means to ensure that its affected data subjects are notified of the breach incident:
 
 > SECTION 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -117,11 +117,11 @@ Section 18(D) of NPC Circular No. 16-03 requires a personal information controll
 >
 > D. Form. Notification of affected data subjects shall be done individually, using secure means of communication, whether written or electronic. The personal information controller shall take the necessary steps to ensure the proper identity of the data subject being notified, and to safeguard against further unnecessary disclosure of personal data. The personal information controller shall establish all reasonable mechanisms to ensure that all affected data subjects are made aware of the breach: *Provided, that where individual notification is not possible or would require a disproportionate effort*, the personal information controller may seek the approval of the Commission to use alternative means of notification, such as through public communication or any similar measure through which the data subjects are informed in an equally effective manner: *Provided further, that* the personal information controller shall establish means through which the data subjects can exercise their rights and obtain more detailed information relating to the breach.[^11]
 
-The Commission recognizes that Cathay Pacific took considerable efforts to fulfill the mandatory notification requirement under NPC Circular No. 16-03. Cathay Pacific conducted the notification by email, by post, and by posting a general notice on its website.[^12] Despite the large number of individuals affected in the breach incident, Cathay Pacific employed a variety of means to ensure that all its affected data subjects were notified of the breach incident in compliance with Section 18(D) of NPC Circular No. 16-03.
+The Commission recognizes that Cathay Pacific took considerable efforts to fulfill the mandatory notification requirement under [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]]. Cathay Pacific conducted the notification by email, by post, and by posting a general notice on its website.[^12] Despite the large number of individuals affected in the breach incident, Cathay Pacific employed a variety of means to ensure that all its affected data subjects were notified of the breach incident in compliance with Section 18(D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 
 Cathay Pacific likewise complied with the Commission's Order dated 18 March 2021. It submitted sufficient evidence to prove that it notified its affected data subjects of the breach incident. The Commission deems sufficient the evidence that Cathay Pacific submitted in line with the Order dated 18 March 2021.
 
-Considering the foregoing, the Commission finds that Cathay Pacific complied with the mandatory notification requirement of its affected data subjects pursuant to Section 18 of NPC Circular No. 16-03.
+Considering the foregoing, the Commission finds that Cathay Pacific complied with the mandatory notification requirement of its affected data subjects pursuant to Section 18 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 
 WHEREFORE, premises considered, the Commission hereby finds that Cathay Pacific Airways Limited has sufficiently notified its affected data subjects and complied with the Order dated 18 March 2021. This Commission hereby considers the matter **CLOSED**.
 
@@ -155,9 +155,9 @@ GENERAL RECORDS UNIT
 [^4]: *Id.* at 2.
 [^5]: *Id.*
 [^6]: Compliance Report from BCCS Law to National Privacy Commission (22 June 2021), at 2.
-[^7]: National Privacy Commission, NPC Circular No. 16-03, "Personal Data Breach Management" [NPC Circ. No. 16-03], § 18(C) (15 December 2016). Emphasis supplied.
+[^7]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], "Personal Data Breach Management" [NPC Circ. No. 16-03], § 18(C) (15 December 2016). Emphasis supplied.
 [^8]: Proof of Publication of General Notice from Cathay Pacific Airways Limited (24 October 2018), at 2; Final Individual Notice from Cathay Pacific Airways Limited, at 2.
 [^9]: *Id.*
 [^10]: *Id.*
-[^11]: NPC Circ. No. 16-03, § 18(D). Emphasis supplied.
+[^11]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 18(D). Emphasis supplied.
 [^12]: BCCS Law, supra note 6.

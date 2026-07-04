@@ -57,7 +57,7 @@ This Commission, upon reviewing the complete post breach report submitted by Hex
 
 The Commission finds that the complete post breach report submitted by Hexel Works, Inc. dated 28 July 2020 is sufficient and considers this matter closed.
 
-Section 17 of the NPC Circular 16-03[^1] provides that the Notification shall include, but not be limited to:
+Section 17 of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]][^1] provides that the Notification shall include, but not be limited to:
 
 1. Nature of the Breach
    - a. description of how the breach occurred and the vulnerability of the data processing system that allowed the breach;
@@ -121,4 +121,4 @@ ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 National Privacy Commission
 
-[^1]: Personal Data Breach Management, NPC Circular 16-03 (2016).
+[^1]: [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]] (2016).

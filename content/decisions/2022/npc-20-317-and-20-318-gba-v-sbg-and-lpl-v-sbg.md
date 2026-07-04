@@ -47,7 +47,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission are the consolidated cases filed by GBA and by LPL (Complainants) against SBG for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission are the consolidated cases filed by GBA and by LPL (Complainants) against SBG for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -125,7 +125,7 @@ As to the first requisite, SBG did not refute the allegation that she processed 
 
 Thus, SBG processed personal data when she obtained and used the printed copy of the ledgers and account transactions.
 
-As to the second requisite, the information processed was personal information. Section 3 (g) of the DPA defines personal information:
+As to the second requisite, the information processed was personal information. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (g) of the DPA]] defines personal information:
 
 > Section 3. Definition of Terms. Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 >
@@ -135,7 +135,7 @@ As to the second requisite, the information processed was personal information. 
 
 The printed ledgers and account transactions include the names and the account numbers of the Cooperative members.[^46] These names and account numbers, when put together with other information, can directly and certainly identify the members of the Cooperative. Thus, they are considered personal information under the DPA.
 
-The third requisite is not present. The members of the Cooperative claimed that SBG did not obtain their consent before processing their personal information.[^47] SBG's processing, however, is still pursuant to a lawful criterion for processing personal information. Section 12 (f) of the DPA provides:
+The third requisite is not present. The members of the Cooperative claimed that SBG did not obtain their consent before processing their personal information.[^47] SBG's processing, however, is still pursuant to a lawful criterion for processing personal information. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] provides:
 
 > Section 12. Criteria for Lawful Processing of Personal Information. The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -240,11 +240,11 @@ National Privacy Commission
 [^41]: Id. at 12.
 [^42]: NPC SS 21-006, 16 May 2022, at 31 (NPC 2022) (unreported).
 [^43]: Memorandum for the Respondent, 27 May 2022, at 11, in GBA v. SBG and LPL v. SBG, NPC 20-317 and 20-318 (NPC 2022).
-[^44]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (j) (2012).
-[^45]: Id. § 3 (g).
+[^44]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173 § 3 (j)]] (2012).
+[^45]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]].
 [^46]: See Comment, 10 December 2021, Annex F, in GBA v. SBG and LPL v. SBG, NPC 20-317 and 20-318 (NPC 2022).
 [^47]: Complaints-Assisted Form, 01 December 2020, in GBA v. SBG, NPC 20-317 (NPC 2022); Complaints-Assisted Form, 03 December 2020, in LPL v. SBG, NPC 20-318 (NPC 2022).
-[^48]: Data Privacy Act of 2012, § 12 (f).
+[^48]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (f)]].
 [^49]: [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]], 22 September 2022, at 9 (NPC 2022) (unreported).
 [^50]: See Comment, 10 December 2021, Annex G, in GBA v. SBG and LPL v. SBG, NPC 20-317 and 20-318 (NPC 2021).
 [^51]: See Id. Annex H.

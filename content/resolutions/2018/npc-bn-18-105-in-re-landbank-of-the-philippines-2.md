@@ -57,7 +57,7 @@ Whether or not Landbank sufficiently addressed the breach incident and implement
 
 ### Discussion
 
-Upon review of Landbank’s full breach report, the Commission finds that the outlined remedial measures of Landbank comply with [[laws/data-privacy-act-of-2012|R.A. 10173]] or the Data Privacy Act of 2012, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and NPC Circular No. 16-03 on Personal Data Breach Management.
+Upon review of Landbank’s full breach report, the Commission finds that the outlined remedial measures of Landbank comply with [[laws/data-privacy-act-of-2012|R.A. 10173]] or the Data Privacy Act of 2012, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] on Personal Data Breach Management.
 
 Section 17(D) of NPC Circular No. 16-03 provides for the content of the notification to the Commission:
 

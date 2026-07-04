@@ -89,7 +89,7 @@ V. GENERAL GUIDELINES
    c. To support case investigation and management, contact tracing and monitoring, quarantine and isolation, mandatory reporting to national and local public health authorities, and other disease surveillance-related activities.
    d. To improve response activities, including the quality and accessibility of health services and other related interventions for COVID-19.
    e. To allow information sharing and exchange between and among healthcare providers, public health authorities and other government authorities for treatment and care coordination, and/or surveillance and response purposes.
-3. The right to privacy of health information shall be protected at all times. The processing of personal health information of COVID-19 cases and identified close contacts shall be in accordance with RA 10173, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and other relevant issuances from the NPC, and shall adhere to the principles of transparency, legitimate purpose, and proportionality:
+3. The right to privacy of health information shall be protected at all times. The processing of personal health information of COVID-19 cases and identified close contacts shall be in accordance with [[laws/data-privacy-act-of-2012|RA 10173]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and other relevant issuances from the NPC, and shall adhere to the principles of transparency, legitimate purpose, and proportionality:
    a. Patients/close contacts (data subjects) shall have a right to adequate information on matters relating to the processing of their health information, including the nature, purpose, and intended use of processing.
    b. Health information shall be processed fairly and lawfully.
    c. The processing of health information shall involve only the minimum extent of personal data necessary to the declared and specified purpose at the time of collection.
@@ -104,9 +104,9 @@ A. Implementation Governance
 
 B. Processing of Health Information
 1. The processing of personal health information of COVID-19 cases and identified close contacts shall be allowed in any of the following cases:
-   a. The processing of personal health information is done by national and local public health authorities, pursuant to its constitutional or statutory mandate as provided under RA 11332, Sections 4(e), 12 and 13 of RA 10173, and other applicable laws, rules, and regulations.
+   a. The processing of personal health information is done by national and local public health authorities, pursuant to its constitutional or statutory mandate as provided under RA 11332, [[laws/data-privacy-act-of-2012#section-4-scope|Sections 4(e)]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of RA 10173, and other applicable laws, rules, and regulations.
    b. The processing of personal health information by a healthcare provider is allowed if necessary for the purposes of case investigation and management, contact tracing and monitoring, quarantine and isolation, mandatory reporting to public health authorities, or treatment and coordination purposes.
-   c. The processing of personal health information by DOH partner agencies and their authorized personnel shall be allowed, pursuant to a Data Sharing Agreement (DSA) as provided under NPC Circular 16-02 (Data Sharing Agreements Involving Government Agencies).
+   c. The processing of personal health information by DOH partner agencies and their authorized personnel shall be allowed, pursuant to a Data Sharing Agreement (DSA) as provided under [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular 16-02 (Data Sharing Agreements Involving Government Agencies)]].
       i. All personnel who will be authorized by the DOH partner agencies to collect and process personal health information shall sign a Non-Disclosure Agreement (NDA) beforehand to prevent any unauthorized processing.
    d. Personal information shall be pseudonymized or anonymized to prevent any unauthorized processing.
 2. In the processing of personal health information, the following must be observed:
@@ -147,11 +147,11 @@ A. Data Subjects (COVID-19 Cases, Close Contacts, and Other Informants)
 B. Department of Health
 1. Provide policy directions and oversight, together with NPC, on all matters relating to privacy and data protection, and processing and disclosure of COVID-19-related data.
 2. Evaluate, monitor and direct activities relating to processing and disclosure of COVID-19-related data in pursuit of surveillance and response as provided under RA 11332, its IRR, and other issuances from the DOH.
-3. Observe and comply with RA 10173, its IRR, and other issuances from NPC in the processing and disclosure of COVID-19-related data as a personal information controller.
+3. Observe and comply with [[laws/data-privacy-act-of-2012|RA 10173]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances from NPC in the processing and disclosure of COVID-19-related data as a personal information controller.
 
 C. National Privacy Commission
 1. Provide policy directions and oversight, together with DOH, on all matters relating to privacy and data protection, and processing and disclosure of COVID-19-related data.
-2. Evaluate, monitor and direct activities relating to privacy and data protection of COVID-19-related data in pursuit of surveillance and response as provided under RA 10173, its IRR, and other issuances from NPC.
+2. Evaluate, monitor and direct activities relating to privacy and data protection of COVID-19-related data in pursuit of surveillance and response as provided under [[laws/data-privacy-act-of-2012|RA 10173]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other issuances from NPC.
 
 D. Healthcare Providers
 1. Report to the DOH and its designated/deputized public health authorities personal health information of identified COVID-19 cases and/or close contacts.
@@ -171,7 +171,7 @@ F. DOH Partner Agencies (including Local Government Units)
 VIII. PENALTY CLAUSE
 
 1. Non-cooperation of any individual to disclose truthful and accurate information regarding their health condition and exposure to COVID-19 to public health authorities and/or DOH partner agencies, or of any individual or entity that should report and/or respond to COVID-19 surveillance and response, or any similar action insofar as they relate to the provisions of this Joint Memorandum Circular shall be penalized in accordance with RA 11332 (Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern Act), RA 11469 (Bayanihan to Heal as One Act), and other applicable laws, rules and regulations.
-2. Any privacy violation, or personal data breach, or security incident shall be penalized in accordance with RA 10173 (Data Privacy Act of 2012), or other applicable laws, rules, and regulations. Exemptions for privacy violation include disclosures of personal health information that is publicly known or becomes publicly known for causes not due to any unauthorized act of any concerned implementer of these Guidelines, or public disclosure made by the data subject himself/herself.
+2. Any privacy violation, or personal data breach, or security incident shall be penalized in accordance with [[laws/data-privacy-act-of-2012|RA 10173 (Data Privacy Act of 2012)]], or other applicable laws, rules, and regulations. Exemptions for privacy violation include disclosures of personal health information that is publicly known or becomes publicly known for causes not due to any unauthorized act of any concerned implementer of these Guidelines, or public disclosure made by the data subject himself/herself.
 
 IX. REPEALING CLAUSE
 

@@ -91,13 +91,13 @@ Based on the CID's assessment dated 11 January 2023, the City of Iloilo implemen
 
 ### Issue
 
-Whether the City of Iloilo conducted proper breach management, including the implementation of reasonable and appropriate security measures pursuant to NPC Circular 16-03 (Personal Data Breach Management).
+Whether the City of Iloilo conducted proper breach management, including the implementation of reasonable and appropriate security measures pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).
 
 ### Discussion
 
 The Commission finds that the City of Iloilo conducted proper breach management and implemented reasonable and appropriate security measures in addressing the breach. Thus, the Commission resolves to close the case.
 
-Section 17(D)(3) of NPC Circular 16-03 provides the obligation of a Personal Information Controller (PIC) to notify the Commission of a personal data breach.[^25] It provides the content of notification specifically the measures that a PIC must take to address the breach:
+Section 17(D)(3) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides the obligation of a Personal Information Controller (PIC) to notify the Commission of a personal data breach.[^25] It provides the content of notification specifically the measures that a PIC must take to address the breach:
 
 > Section 17. Notification of the Commission. The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 >
@@ -237,7 +237,7 @@ GENERAL RECORDS UNIT
 
 [^24]: Final Breach Notification Evaluation Report, 11 January 2023, at 7, in In re: City Government of Iloilo – Internal Audit Services, NPC BN 18-046 (NPC 2023).
 
-[^25]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], § 17(D)(3) (15 December 2016).
+[^25]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 17(D)(3) (15 December 2016).
 
 [^26]: *Id.*
 
@@ -267,6 +267,6 @@ GENERAL RECORDS UNIT
 
 [^39]: Post-Breach Report, 11 November 2021, annex O, in In re: City Government of Iloilo – Internal Audit Services, NPC BN 18-046 (NPC 2021).
 
-[^40]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 4 (2012).
+[^40]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-4-scope|Republic Act No. 10173 § 4]] (2012).
 
-[^41]: See National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule VI, § 25 (2016).
+[^41]: See National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, rule VI, § 25 (2016).

@@ -106,7 +106,7 @@ Finally, Manulife requested exemption from the notification of the affected data
 >
 > In light of the validation requirements in place that sufficiently protect the client from identity theft and fraud, or some other serious harm, it is respectfully requested that pursuant to Section 19, Rule V of the National Privacy Commission Circular 16-03 on Personal Data Breach Management, the Company be exempted from Notification Requirements. This request is bolstered by the fact that despite the lapse of two years from the incident, there was in fact no suspicious transaction on data subject’s account.[^50]
 
-On 09 December 2022, the CID assessed that the matter does not fall within mandatory notification under NPC Circular 16-03 (Personal Data Breach Management):
+On 09 December 2022, the CID assessed that the matter does not fall within mandatory notification under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management):
 
 > It must be remembered that Manulife specified that they have a validation procedure in place to verify the identity of a client who calls or communicates with their Company. These validation questions pertain to information which cannot be found in the SOA sent to the unintended recipient. But it may not be easily possible since confirmation for such change and account log-in are required.
 >
@@ -122,7 +122,7 @@ Whether Manulife sufficiently addressed the breach incident and implemented secu
 
 ### Discussion
 
-The Commission resolves to close the matter. The incident does not fall under mandatory breach notification under Section 11 of NPC Circular 16-03. Only the first two requisites are present in this case. The third requisite of real risk of serious harm is absent because of prior and subsequent security measures implemented by Manulife.
+The Commission resolves to close the matter. The incident does not fall under mandatory breach notification under Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]. Only the first two requisites are present in this case. The third requisite of real risk of serious harm is absent because of prior and subsequent security measures implemented by Manulife.
 
 #### On the Requisites of Mandatory Breach Notification
 
@@ -224,7 +224,7 @@ Other similar information referred to in the last sentence of Section
 
 11(A) of NPC Circular 16 -03 need not necessarily be personal
 
-information .61  For mandatory breach notification, Section 20 (f) of
+information .61  For mandatory breach notification, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (f)]] of
 
 [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act (DPA) only requires
 
@@ -745,23 +745,23 @@ National Privacy Commission
 
 [^54]: *Id.*
 
-[^55]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 11 (15 December 2016).
+[^55]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 03, Series of 2016]] [NPC Circ. No. 16-03], § 11 (15 December 2016).
 
-[^56]: *In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers*, NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at https://www.privacy.gov.ph/wp-content/uploads/2023/01/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-Commission-on-Elections-Decision-Final.pdf (last accessed 31 January 2023).
+[^56]: *[[decisions/2022/npc-ss-22-001-and-npc-ss-22-008-in-re-commission-on-elections|In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers]]*, NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at https://www.privacy.gov.ph/wp-content/uploads/2023/01/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-Commission-on-Elections-Decision-Final.pdf (last accessed 31 January 2023).
 
-[^57]: NPC Circ. No. 16-03, § 11 (A).
+[^57]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 11 (A).
 
 [^58]: Full Report, 21 October 2020, at 3, *in In re: Manufacturers Life Insurance Co., NPC BN 18-213* (NPC 2020).
 
-[^59]: NPC Circ. No. 16-03, § 11 (A).
+[^59]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 11 (A).
 
 [^60]: Incident Notification, 30 November 2018, at 1, *in In re: Manufacturers Life Insurance Co., NPC BN 18-213* (NPC 2018).
 
-[^61]: NPC Circ. No. 16-03, § 11 (A).
+[^61]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 11 (A).
 
-[^62]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (f) (2012). Emphasis supplied.
+[^62]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (f)]] (2012). Emphasis supplied.
 
-[^63]: NPC Circ. No. 16-03, § 11. Emphasis supplied.
+[^63]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 11. Emphasis supplied.
 
 [^64]: *Id.* § 11 (A).
 
@@ -773,7 +773,7 @@ National Privacy Commission
 
 [^68]: Incident Notification, 30 November 2018, at 1, *in In re: Manufacturers Life Insurance Co., NPC BN 18-213* (NPC 2018).
 
-[^69]: NPC Circ. No. 16-03, § 11.
+[^69]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 11.
 
 [^70]: NPC BN 17-028 and NPC BN 18-180, 11 May 2023, at 8 (NPC 2023) (unreported).
 

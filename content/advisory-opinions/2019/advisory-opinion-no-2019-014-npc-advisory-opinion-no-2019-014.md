@@ -11,6 +11,11 @@ tags:
   - topic/data-sharing
   - topic/government
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-014"
+  - "npc advisory opinion no. 2019-014"
+  - "Advisory Opinion No. 2019-014"
+  - "advisory opinion no. 2019-014"
 ---
 
 ## Source
@@ -46,7 +51,7 @@ BSP shall then determine and communicate with the pertinent LGUs which PSs and M
 
 We understand that the following issues arose in the course of finalizing the JMC:
 
-1. Whether or not the information shared under Clause 6.2 of the proposed JMC is covered by the Data Privacy Act of 2012[^2] (DPA);
+1. Whether or not the information shared under Clause 6.2 of the proposed JMC is covered by the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA);
 2. Assuming that the information to be shared is considered personal information, whether or not data sharing between DILG and BSP is allowed under the DPA; and
 3. In the affirmative, whether BSP and DILG are required to enter into a separate data sharing agreement or the proposed JMC is sufficient in order to share the information.
 
@@ -54,9 +59,9 @@ We understand that the following issues arose in the course of finalizing the JM
 
 #### Scope of the DPA; personal information; special cases
 
-The information of juridical entities is outside of the scope of the DPA, as the DPA applies solely to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.
+The information of juridical entities is outside of the scope of the [[laws/data-privacy-act-of-2012|DPA]], as the DPA applies solely to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.
 
-While the information of PSs and MSBs operating as sole proprietorships or partnerships may be considered as personal information as the identity of the owner/s can be reasonably and directly ascertained by the BSP and the DILG, their personal information may fall under the exclusions under Section 4(e) and/or 4(f) of the DPA, to wit:
+While the information of PSs and MSBs operating as sole proprietorships or partnerships may be considered as personal information as the identity of the owner/s can be reasonably and directly ascertained by the BSP and the DILG, their personal information may fall under the exclusions under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) and/or 4(f)]] of the DPA, to wit:
 
 > SECTION 4. *Scope.* — xxx xxx xxx
 >
@@ -79,7 +84,7 @@ Similarly, for Section 4(f), the exclusion applies to information necessary for 
 2. Republic Act No. 9160 - Anti-Money Laundering Act; and
 3. Other applicable laws.
 
-Given this, the personal and sensitive personal information (collectively, personal data) enumerated in Section 4 may be lawfully processed by a PIC, even without meeting the conditions under Sections 12 and 13 of the DPA, but the processing shall be limited to that necessary to achieve the specific purpose, function, or activity. The PIC is still required, however, to implement measures to secure and protect the personal data.[^4]
+Given this, the personal and sensitive personal information (collectively, personal data) enumerated in Section 4 may be lawfully processed by a PIC, even without meeting the conditions under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, but the processing shall be limited to that necessary to achieve the specific purpose, function, or activity. The PIC is still required, however, to implement measures to secure and protect the personal data.[^4]
 
 Thus, only the information required to be processed pursuant to the said function are not covered by the law, while the PICs are still covered by the DPA. The BSP and the DILG are mandated under the DPA to adhere to the data privacy principles of transparency, legitimate purpose, and proportionality, implement appropriate security measures for personal data protection, and ensure that data subjects are able to exercise their rights as provided for by law.
 
@@ -136,4 +141,4 @@ Privacy Commissioner and Chairman
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: *See:* National Privacy Commission, NPC Advisory Opinions No. 2018-002 (Jan. 15, 2018), 2018-014 (May 9, 2018), and 2018-060 (Aug. 30, 2018).
 [^4]: *See:* National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-060-npc-advisory-opinion-no-2018-060|NPC Advisory Opinion No. 2018-060]] (Aug. 30, 2018).
-[^5]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies, Circular No. 16-02 [NPC Circular 16-02] § 3 (E) (October 10, 2016).
+[^5]: National Privacy Commission, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies, Circular No. 16-02]] [NPC Circular 16-02] § 3 (E) (October 10, 2016).

@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2024-003 — Random Surveillance of Telecommuting Employees and Consent to the Recording of Virtual Meetings"
 description: "Guidance on employee monitoring policies and consent requirements for recording virtual meetings under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2024-003"
+  - "npc advisory opinion no. 2024-003"
+  - "Advisory Opinion No. 2024-003"
+  - "advisory opinion no. 2024-003"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -35,7 +40,7 @@ You state that your company is a business process outsourcing solutions and info
 
 Your company allows its employees to telecommute, or work remotely, using either company-issued equipment or their own device. To provide an additional level of security to prevent mishandling or unnecessary disclosure of confidential data to unauthorized third parties, your company is considering the adoption of certain policies that involve the requisition of web cameras with built-in microphones that will be turned on at random intervals to record short videos (including image and audio) of the subject employee and his/her immediate surroundings. Also, your company intends to record all work-related virtual meetings, conferences, trainings, and coaching sessions.
 
-Thus, you ask whether the Data Privacy Act of 2012[^2] (DPA): 1) permits the installation of a monitoring software to randomly record telecommuting employees and their immediate surroundings for purposes of data security; and 2) requires your company to secure the written consent of the employees every time a work-related virtual meetings, conferences, trainings, and coaching sessions (collectively, “virtual meetings”) is held.
+Thus, you ask whether the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA): 1) permits the installation of a monitoring software to randomly record telecommuting employees and their immediate surroundings for purposes of data security; and 2) requires your company to secure the written consent of the employees every time a work-related virtual meetings, conferences, trainings, and coaching sessions (collectively, “virtual meetings”) is held.
 
 #### Reasonable expectation of privacy
 
@@ -59,7 +64,7 @@ Processing refers to any operation or any set of operations performed upon perso
 
 The installation of a monitoring software is considered as processing under the DPA since it
 involves the collection and/or recording of the employees’ personal data. As such, a lawful
-basis must be established for processing of personal data under either Sections 12 or 13 of the
+basis must be established for processing of personal data under either [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the
 DPA.
 
 In the scenario you provided, your company may rely on either Section 12 (b) or 12 (f) of the
@@ -110,12 +115,12 @@ FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
 [^1]: Tags: Telecommuting, monitoring software, employee surveillance, contract, legitimate interest.
-[^2]: Republic Act No. 10173 (2012).
-[^3]: National Privacy Commission, NPC Advisory Opinion No. 2018-090 (28 November 2018).
+[^2]: [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
+[^3]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-090-npc-advisory-opinion-no-2018-090|NPC Advisory Opinion No. 2018-090]] (28 November 2018).
 [^4]: *Ibid.*
-[^5]: Data Privacy Act of 2012, § 4.
-[^6]: *Id.* § 3 (g).
-[^7]: *Id.* § 3 (j).
+[^5]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
+[^6]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]].
+[^7]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (j)]].
 [^8]: Privacy Guidelines: Monitoring and Personal Data Privacy at Work (April 2016), available at https://www.pcpd.org.hk/english/data_privacy_law/code_of_practices/files/Monitoring_and_Personal_Data_Privacy_At_Work_revis_Eng.pdf (last accessed Feb. 23, 2024).
 [^9]: *Id.*
 [^10]: ARTICLE 29 Data Protection Working Party, Opinion 2/2017 on data processing at work, available at https://ec.europa.eu/newsroom/article29/items/610169 (last accessed Feb.22, 2024).

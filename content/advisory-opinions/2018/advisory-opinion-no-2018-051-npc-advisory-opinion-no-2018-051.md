@@ -14,6 +14,11 @@ tags:
   - topic/employment
   - topic/registration
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-051"
+  - "npc advisory opinion no. 2018-051"
+  - "Advisory Opinion No. 2018-051"
+  - "advisory opinion no. 2018-051"
 ---
 
 ## Source
@@ -31,7 +36,7 @@ Re: Various Concerns Regarding the Data Privacy Act
 
 Dear [Redacted]:
 
-We write in response to your request concerning various inquiries and clarifications regarding the Data Privacy Act of 2012[^1] (DPA), particularly the following:
+We write in response to your request concerning various inquiries and clarifications regarding the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA), particularly the following:
 
 ### Discussion
 
@@ -47,7 +52,7 @@ Statutory acts of Congress are accorded with the presumption of validity. The pr
 
 #### How Does NPC Legally Define Sensitive Personal Information? What is the difference between Personal Information and Sensitive Personal Information?
 
-Section 3 (l) of the Act enumerates what are considered as Sensitive Personal Information, to wit:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l)]] of the Act enumerates what are considered as Sensitive Personal Information, to wit:
 
 > (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations;
 >
@@ -57,7 +62,7 @@ Section 3 (l) of the Act enumerates what are considered as Sensitive Personal In
 >
 > (4) Specifically established by an executive order or an act of Congress to be kept classified.
 
-The DPA provides for different sets of criteria for lawful processing of personal information and sensitive personal information.[^3] In [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], processing of personal information is allowed only if not prohibited by law and when at least one of the conditions enumerated in the provision exists. On the other hand, Section 13 states that generally, processing of sensitive personal information and privileged information is prohibited, unless the basis for processing is among the cases indicated.
+The DPA provides for different sets of criteria for lawful processing of personal information and sensitive personal information.[^3] In [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], processing of personal information is allowed only if not prohibited by law and when at least one of the conditions enumerated in the provision exists. On the other hand, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]] states that generally, processing of sensitive personal information and privileged information is prohibited, unless the basis for processing is among the cases indicated.
 
 Moreover, the law imposes higher penalties for violations involving sensitive personal information.
 
@@ -69,13 +74,13 @@ The Commission adopts the definition of the Rules of Court[^4] and other pertine
 
 A Data Protection Officer (DPO) should have expertise in relevant privacy or data protection policies and practices. He or she should have sufficient understanding of the processing operations being carried out by the PIC or PIP, including the latter's information systems, data security and/or data protection needs. Knowledge of the sector or field of the PIC or PIP, and the latter's internal structure, policies, and processes is also useful.
 
-You may also refer to NPC Advisory 2017-01 for further guidance on the designation of a DPO.
+You may also refer to [[issuances/2017/designation-of-data-protection-officers|NPC Advisory 2017-01]] for further guidance on the designation of a DPO.
 
 #### If the "data processor" has never had any data protection officer what are the penalties?
 
 The designation of a DPO is a means to comply with [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21(c) of the Data Privacy Act]]. A violation of the Data Privacy Act and any other issuances of the Commission can lead to compliance orders and other enforcement actions. The failure of the organization to appoint or designate a DPO will be taken into consideration in the event of an investigation or a compliance check. In the event of a breach, the lack of a DPO may be considered evidence of negligence.
 
-#### What is the penalty if personal data is not processed fairly and lawfully by failing to update address, phone number, email, name in SSS/PhilHealth/Pag-Ibig/BIR, as stated in Section 11 (b) and (c)?
+#### What is the penalty if personal data is not processed fairly and lawfully by failing to update address, phone number, email, name in SSS/PhilHealth/Pag-Ibig/BIR, as stated in [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 (b) and (c)]]?
 
 For the most part, the duty to update lies with the data subject since they are the ones who will know of any changes in their personal information. All PICs need to do is to give them an opportunity and a mechanism to update their information.
 
@@ -95,7 +100,7 @@ Pertinent laws and regulations on the Social Security System (SSS), Philippine H
 
 #### Does refusing access to the employee 201 file a violation of DPA? The employee 201 is a logbook of an employee's records and may include detrimental information written by the employer without the knowledge of the employee.
 
-The DPA does not prevent employers from collecting, maintaining, and using employment records. However, employers should also strive to strike a balance between the need to keep records of their employees and the employees' right to access their personal data. Section 16(c) provides for the right of data subjects to reasonable access to the following:
+The DPA does not prevent employers from collecting, maintaining, and using employment records. However, employers should also strive to strike a balance between the need to keep records of their employees and the employees' right to access their personal data. [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(c)]] provides for the right of data subjects to reasonable access to the following:
 
 > (1) Contents of his or her personal information that were processed;
 > (2) Sources from which personal information were obtained;
@@ -132,7 +137,7 @@ The provisions of the Anti-Photo and Video Voyeurism Act of 2009[^18] or the Cyb
 
 #### Scenario #3: Does the media or anyone who makes inquiries need to request consent of an interviewee before they can interview? Some of the ambush interviews tend to be rude and can come in at a wrong time, so does the law protect this? Does the law protect personal space in the same way as hands-off to private parts?
 
-Section 4(d) of the DPA provides for the non-applicability of the law on personal data processed for journalistic, artistic, literary or research purposes. The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) explain that this non-applicability is made "in order to uphold freedom of speech, of expression, or of the press, subject to requirements of other applicable law or regulations."[^20] Note, however, that the non-applicability of the DPA is only to the minimum extent necessary to achieve the specific purpose, function, or activity concerned.[^21]
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4(d)]] of the DPA provides for the non-applicability of the law on personal data processed for journalistic, artistic, literary or research purposes. The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) explain that this non-applicability is made "in order to uphold freedom of speech, of expression, or of the press, subject to requirements of other applicable law or regulations."[^20] Note, however, that the non-applicability of the DPA is only to the minimum extent necessary to achieve the specific purpose, function, or activity concerned.[^21]
 
 Stated otherwise, the exemption is not a carte blanche authorization that journalists can conveniently present to compel potential sources of information to turn over or disclosed data under their custody. After all, public disclosure of data remains subject to a range of policies, including internal constraints maintained by organizations, and other laws, as enacted or issued by the appropriate legislating authority. Thus, members of the media cannot compel a person to grant an interview without the latter's consent.
 
@@ -166,35 +171,35 @@ for Policies and Planning
 
 [^2]: *Lawyers Against Monopoly and Poverty (LAMP), et al. v. The Secretary of Budget and Management, et al.*, 686 Phil. 357, 372 (2012), citing *Farinas v. The Executive Secretary*, 463 Phil. 179, 197 (2003).
 
-[^3]: Republic Act No. 10173, § 12 and 13.
+[^3]: Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]].
 
 [^4]: *See* Revised Rules on Evidence, Rule 130, §24.
 
-[^5]: Republic Act No. 10173, §11.
+[^5]: Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§11]].
 
-[^6]: Implementing Rules and Regulations (IRR) of Republic Act No. 10173, known as the "Data Privacy Act of 2012," §18 (a).
+[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of Republic Act No. 10173, known as the "Data Privacy Act of 2012," [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§18 (a)]].
 
-[^7]: *Id.*, §18 (b).
+[^7]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§18 (b)]].
 
-[^8]: *Id.*, §18 (c).
+[^8]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§18 (c)]].
 
-[^9]: Republic Act No. 10173, §16.
+[^9]: Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§16]].
 
-[^10]: NPC Advisory Opinion No. 2017-64
+[^10]: [[advisory-opinions/2017/advisory-opinion-no-2017-064-npc-advisoryopinionno-2017-064|NPC Advisory Opinion No. 2017-64]]
 
 [^11]: G.R. No. 1-73883, May 27, 1987.
 
-[^12]: Republic Act No. 10173, §16(c).
+[^12]: Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§16(c)]].
 
-[^13]: *Id.*, §16(c).
+[^13]: *Id.*, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§16(c)]].
 
-[^14]: *Id.*, § 3(c).
+[^14]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(c)]].
 
-[^15]: *Id.*, § 3(h) (2).
+[^15]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(h) (2)]].
 
-[^16]: *Id.*, § 4(d).
+[^16]: *Id.*, [[laws/data-privacy-act-of-2012#section-4-scope|§ 4(d)]].
 
-[^17]: Republic Act No. 10173, § 25.
+[^17]: Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|§ 25]].
 
 [^18]: An Act Defining Cybercrime, Providing for the Prevention, Investigation, Suppression and the Imposition of Penalties for Other Purposes [ANTI-PHOTO AND VIDEO VOYEURISM ACT OF 2009], Republic Act No. 9905 (2010).
 
@@ -202,8 +207,8 @@ for Policies and Planning
 
 [^20]: *Id.*
 
-[^21]: IRR, §5(b).
+[^21]: IRR, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§5(b)]].
 
-[^22]: For further guidance, see: NPC Circular 16-04 (December 15, 2016).
+[^22]: For further guidance, see: [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] (December 15, 2016).
 
-[^23]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34(f).
+[^23]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|§ 34(f)]].

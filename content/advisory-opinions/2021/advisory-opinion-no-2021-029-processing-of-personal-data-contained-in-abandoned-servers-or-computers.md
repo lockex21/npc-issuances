@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-029"
+  - "npc advisory opinion no. 2021-029"
+  - "Advisory Opinion No. 2021-029"
+  - "advisory opinion no. 2021-029"
 ---
 
 ## Source
@@ -64,16 +69,16 @@ allowed only upon compliance with the requirements of the law and adherence to t
 data privacy principles of transparency, legitimate purpose, and proportionality.[^4]
 
 The various criteria for lawful processing of personal and sensitive personal information by
-personal information controllers (PICs) are provided under Sections 12 and 13 of the DPA,
+personal information controllers (PICs) are provided under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA,
 respectively.
 
-Section 12 enumerates the various criteria for processing personal information, such as
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] enumerates the various criteria for processing personal information, such as
 processing that is necessary for compliance with a legal obligation,[^5] or necessary for the
 purposes of the legitimate interests pursued by the PIC or by a third party or parties to whom
 the data is disclose,[^6] among others.
 
 Note, however, that if the database contains sensitive personal information, the processing
-thereof is prohibited, except for certain instances provided under Section 13 such as when the
+thereof is prohibited, except for certain instances provided under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]] such as when the
 processing is provided for by existing laws and regulations,[^7] or necessary for the protection
 of lawful rights and interests of natural or legal persons in court proceedings or the
 establishment, exercise, or defense of legal claims.[^8]
@@ -105,7 +110,7 @@ for personal information under its control or custody.[^9]
 If Eton, based on the lease agreement and/or the orders or judgement from a competent court,
 takes control over the abandoned servers, workstations, and computers, it may be deemed to
 be a PIC as well and should be cognizant of the duties, responsibilities, and risks associated
-with having custody of personal data. In CID Case No. 18-E-040,[^10] the Commission elaborated
+with having custody of personal data. In [[decisions/2020/cid-18-e-040-kgr-v-bb-et-al|CID Case No. 18-E-040]],[^10] the Commission elaborated
 on the accountability of the PIC:
 
    “By having the control of and discretion in the use of personal information of individuals,
@@ -152,13 +157,13 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 3 (j).
-[^4]: *Id.* § 11.
-[^5]: *Id.* § 12 (c).
-[^6]: *Id.* § 12 (f).
-[^7]: *Id.* § 13 (b).
-[^8]: *Id.* § 13 (f).
-[^9]: Data Privacy Act of 2012, § 21.
-[^10]: National Privacy Commission, CID Case No. 18-E-040, Rala v. Burguillos, et al. (May 12, 2020).
-[^11]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 19 (e) (3) (2016).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT OF 2012]], Republic Act No. 10173 (2012).
+[^3]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (j).
+[^4]: *Id.* [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
+[^5]: *Id.* [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]] (c).
+[^6]: *Id.* [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]] (f).
+[^7]: *Id.* [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]] (b).
+[^8]: *Id.* [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]] (f).
+[^9]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|§ 21]].
+[^10]: National Privacy Commission, [[decisions/2020/cid-18-e-040-kgr-v-bb-et-al|CID Case No. 18-E-040]], Rala v. Burguillos, et al. (May 12, 2020).
+[^11]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|§ 19]] (e) (3) (2016).

@@ -93,7 +93,7 @@ In re: Department of Foreign Affairs (DFA) Passport Breach
 
 When the Commission, through the CID, discovered that several pieces of personal information remain publicly available and may be downloaded using a web browser and a specific search criterion,[^19] there is no question that a security incident occurred in this case.
 
-Section 4 of Rule II of NPC Circular 16-03 (Personal Data Breach Management) states that Personal Information Controllers (PICs) should implement policies and procedures to manage security incidents:
+Section 4 of Rule II of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management) states that Personal Information Controllers (PICs) should implement policies and procedures to manage security incidents:
 
 > **Section 4. Security Incident Management Policy.** A personal information controller or personal information processor shall implement policies and procedures for the purpose of managing security incidents, including personal data breach. These policies and procedures must ensure:
 >
@@ -119,11 +119,10 @@ addressing the vulnerabilities of the DFA passport system and adding the “noin
 
 Following DFA’s compliance with the Order dated 11 November 2021 the Commission finds that DFA has sufficiently addressed the vulnerabilities on the DFA passport system available on the website “www.passport.gov.ph”.
 
-Although the DFA already addressed the vulnerabilities identified by the Commission, it is still obliged to periodically conduct vulnerability assessments as a preventive or minimization measure for possible personal data breach.[^24] Section 6 of Rule III of NPC
+Although the DFA already addressed the vulnerabilities identified by the Commission, it is still obliged to periodically conduct vulnerability assessments as a preventive or minimization measure for possible personal data breach.[^24] [[issuances/undated/personal-data-breach-management|Section 6 of Rule III of NPC Circular 16-03]] provides for preventive measures to minimize the occurrence of a security incident:
 
 In re: Department of Foreign Affairs (DFA) Passport Breach
 
-Circular 16-03 provides for preventive measures to minimize the occurrence of a security incident:
 
 > **Section 6. Preventive or Minimization Measures.** A security incident management policy shall include measures intended to prevent or minimize the occurrence of a personal data breach. Such safeguards may include:
 >
@@ -197,13 +196,13 @@ National Privacy Commission
 
 [^16]: Letter from MGM, Assistant Secretary and Data Protection Officer, Department of Foreign Affairs, to RSC. and MTP, National Privacy Commission, Enforcement Division (21 June 2022)
 
-[^17]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], Rule I § 3 (J) (15 December 2016).
+[^17]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], Rule I § 3 (J) (15 December 2016).
 
 [^18]: *Id.*
 
 [^19]: Final Enforcement Assessment Report, 28 June 2022, at 3, in In the Matter of Department of Foreign Affairs (DFA) Office of Consular Affairs Passport Appointment System (passport.gov.ph) Vulnerability, NPC SS 19-001 (NPC 2019).
 
-[^20]: NPC Circ. No. 16-03, § 4. (Emphasis Supplied).
+[^20]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 4. (Emphasis Supplied).
 
 [^21]: Final Enforcement Assessment Report, 28 June 2022, at 5, in In the Matter of Department of Foreign Affairs (DFA) Office of Consular Affairs Passport Appointment System (passport.gov.ph) Vulnerability, NPC SS 19-001 (NPC 2019).
 
@@ -211,6 +210,6 @@ National Privacy Commission
 
 [^23]: *Id.*
 
-[^24]: NPC Circ. No. 16-03, § 6 (D).
+[^24]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 6 (D).
 
 [^25]: *Id.*

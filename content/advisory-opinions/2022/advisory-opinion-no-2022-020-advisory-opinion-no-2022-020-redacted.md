@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2022-020 — Civil Registry Document Request by a Person Other Than the Owner"
 description: "Guidance on the Philippine Statistics Authority's denial of a request for another person's civil registry documents on data privacy grounds."
+aliases:
+  - "NPC Advisory Opinion No. 2022-020"
+  - "npc advisory opinion no. 2022-020"
+  - "Advisory Opinion No. 2022-020"
+  - "advisory opinion no. 2022-020"
 tags:
   - issuance
   - "type/advisory-opinion"
@@ -35,7 +40,7 @@ You thus seek advice on your possible remedies to obtain the requested documents
 
 #### Sensitive personal information; lawful processing; establishment, exercise or defense of legal claims under Section 13(f)
 
-A Death Certificate is an official document setting forth particulars relating to a deceased individual. It contains data such as (a) date and place of death, (b) full name, (c) age, (d) sex, (e) occupation or profession, (f) residence, (g) civil status, (h) nationality of the deceased, and (i) probable cause of death. Some of these items are sensitive personal information under the DPA.
+A Death Certificate is an official document setting forth particulars relating to a deceased individual. It contains data such as (a) date and place of death, (b) full name, (c) age, (d) sex, (e) occupation or profession, (f) residence, (g) civil status, (h) nationality of the deceased, and (i) probable cause of death. Some of these items are sensitive personal information under the [[laws/data-privacy-act-of-2012|DPA]].
 
 The processing of sensitive personal information is generally prohibited under the DPA. However, the DPA provides for exceptions to this rule. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] specifically recognizes processing for the establishment, exercise, or defense of legal claims, thus:
 
@@ -47,13 +52,13 @@ In line with the DPA's policy to protect the fundamental right of every individu
 
 > 6. The court or proper public official whenever absolutely necessary in administrative, judicial or other official or other proceedings to determine the identity of the person. Provided that there must be a duly issued subpoena duces tecum and ad testificandum for the production of the civil registry document.
 >
-> 7. Request from other government agencies pursuant to their mandate provided that the requesting government agency executed Data Sharing Agreement with PSA in accordance with NPC Circular 16-02.
+> 7. Request from other government agencies pursuant to their mandate provided that the requesting government agency executed Data Sharing Agreement with PSA in accordance with [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular 16-02]].
 
 Thus, the PSA is not totally precluded from providing a copy of the requested Death Certificate in the absence of the owner of the personal data or a next of kin.
 
 However, PSA's requirement that the request should be pursuant to a pending case and that there is a duly issued subpoena directing the release of the personal data requested unduly restricts the lawful basis to process under the DPA. Moreover, not all administrative agencies have the power to issue subpoenas.
 
-PSA's requirement is an erroneous interpretation of Section 13(f) of the DPA which was discussed in the case of BGM vs. IPP,[^2] citing NPC 17-018 dated 15 July 2019. The NPC ruled therein that "processing as necessary for the establishment of legal claims does not require an existing court proceeding". Further, the very idea of "establishment … of legal claims" presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established. The NPC further ruled that:
+PSA's requirement is an erroneous interpretation of Section 13(f) of the DPA which was discussed in the case of [[decisions/2020/19-653-bgm-vs-ipp|BGM vs. IPP]],[^2] citing [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]] dated 15 July 2019. The NPC ruled therein that "processing as necessary for the establishment of legal claims does not require an existing court proceeding". Further, the very idea of "establishment … of legal claims" presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established. The NPC further ruled that:
 
 > The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is "necessary" or may or may not be collected by lawyers for purposes of building a case, applying the qualifier "necessary" to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of "establishment of legal claims" consistent with the general principles of legitimate purpose and proportionality
 
@@ -66,6 +71,7 @@ In line with this, the NPC also stated in the BGM case that the protection of la
 3. Balancing test – The fundamental rights and freedoms of data subjects must not be overridden by the legitimate interst of the PIC or third party, considering the likely impact of the processing on data subjects.[^3]
 
 In this regard, we highlight that the appreciation of the facts and the evaluation of conditions for the release of documents under their control and custody fall primarily with the concerned agency as they are in the best position to apply their mandate.[^4]
+
 
 In other words, even if your request for processing is supported by a lawful criteria, it does not equate to the PIC granting a blanket authority for you to access personal information and/or sensitive personal information of the data subject. Your request would still be evaluated on a case-to-case basis and must always be subject to the PIC's guidelines for the release of such information.[^5]
 
@@ -88,8 +94,8 @@ Director IV, Privacy Policy Office
 
 [^2]: National Privacy Commission, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (17 December 2020)
 
-[^3]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 8 September 2022].
+[^3]: See generally, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (f)]]; United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 8 September 2022].
 
-[^4]: NPC Advisory Opinion 2019-037 (8 August 2019)
+[^4]: [[advisory-opinions/2019/advisory-opinion-no-2019-037-v1-redacted-advisory-opinion-no-2019-037|NPC Advisory Opinion 2019-037]] (8 August 2019)
 
 [^5]: Id.

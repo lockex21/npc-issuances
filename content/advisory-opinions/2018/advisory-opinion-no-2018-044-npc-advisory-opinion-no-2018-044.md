@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-044"
+  - "npc advisory opinion no. 2018-044"
+  - "Advisory Opinion No. 2018-044"
+  - "advisory opinion no. 2018-044"
 ---
 
 ## Source
@@ -77,7 +82,7 @@ The processing of all types of personal information will be allowed if the proce
 disclosures to third party, complies with the requirements of the DPA, including the mandatory
 requirement of meeting at least one of the criteria for lawful processing.
 
-Under Sections 12 and 13 of the DPA:
+Under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA:
 
 > Section 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -107,7 +112,7 @@ Under Sections 12 and 13 of the DPA:
 >
 > (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.[^8]
 
-Based on the information provided in this particular inquiry, the requested disclosure of personal information to a third party does not meet any of the criteria provided by the DPA in Sections 12 and 13. It should be emphasized that the request for disclosure in this instance is from a third party, an individual other than a patient or a patient’s authorized representative. The request is also not being made by a public authority for the fulfillment of their functions, nor does it proceed from a duly issued subpoena or court order. The information requested also pertains to a patient’s health, with clinical value, and is considered sensitive and privileged in nature, the processing of which is prohibited except under specific circumstances.
+Based on the information provided in this particular inquiry, the requested disclosure of personal information to a third party does not meet any of the criteria provided by the DPA in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]]. It should be emphasized that the request for disclosure in this instance is from a third party, an individual other than a patient or a patient’s authorized representative. The request is also not being made by a public authority for the fulfillment of their functions, nor does it proceed from a duly issued subpoena or court order. The information requested also pertains to a patient’s health, with clinical value, and is considered sensitive and privileged in nature, the processing of which is prohibited except under specific circumstances.
 
 The purpose for requesting the information should be examined. Hospitals are bound by reporting requirements in many instances, where disclosures are provided by law and regulation.
 
@@ -156,11 +161,11 @@ Privacy Commissioner and Chairman
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
 [^2]: An Act Penalizing Persons Driving Under the Influence of Alcohol, Dangerous Drugs, and Similar Substances, and for Other Purposes [Anti-Drunk and Drugged Driving Act of 2013] Republic Act No. 10586 (2013).
 [^3]: Anti-Drunk and Drugged Driving Act of 2013, §§ 7-8.
-[^4]: Data Privacy Act of 2012, § 4.
-[^5]: *Id.*, § 11
+[^4]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
+[^5]: *Id.*, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]]
 [^6]: DOH Health Information Manual (2013), p. 37.
 [^7]: It should be noted that even under the Dangerous Drugs Board Regulation No. 2 Series of 2003, Subject: Implementing Rules and Regulations Governing Accreditation of Drug Testing Laboratories in the Philippines: 15.4. Access to laboratory test results – the drug test result and the records shall be confidential subject to the usual accepted practices to protect the confidentiality of the test results.
-[^8]: Data Privacy Act of 2012, §§ 12-13 (emphasis supplied).
+[^8]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§§ 12]]-[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] (emphasis supplied).
 [^9]: RA No. 10586, §6.
 [^10]: Rules and Regulations Implementing the Anti-Drunk and Drugged Driving Act of 2013, Republic Act No. 10586, Rule IV, § 1.
 [^11]: *Id.*, Rule I, § 3 (n).

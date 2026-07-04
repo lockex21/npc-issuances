@@ -1,5 +1,10 @@
 ---
 title: "NPC Advisory Opinion No. 2017-063 — Personal and Sensitive Information"
+aliases:
+  - "NPC Advisory Opinion No. 2017-063"
+  - "npc advisory opinion no. 2017-063"
+  - "Advisory Opinion No. 2017-063"
+  - "advisory opinion no. 2017-063"
 description: "Provides clarification on blacklisting practices, biometric data classification, and which application system information qualifies as personal versus sensitive personal information."
 tags:
   - issuance
@@ -50,7 +55,7 @@ As can be gleaned from Republic Act (RA) No. 10367,[^3] biometrics refer to "the
 
 While under Article 29 Opinion 4/2007 (EU),[^5] a biometric data may be considered both as content of the information about a particular individual as well as an element to establish a link between one piece of information and the individual. As such, it can work as "identifier" for it produces a unique link to a specific individual.
 
-On that note, it must be emphasized that DPA defines personal information as "any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual."[^6] Corollarily, hand-written signatures, as may be used to identify an individual, is considered as personal information.
+On that note, it must be emphasized that [[laws/data-privacy-act-of-2012|DPA]] defines personal information as "any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual."[^6] Corollarily, hand-written signatures, as may be used to identify an individual, is considered as personal information.
 
 In the same manner, unique information relating[^7] to an individual or when linked with other information will allow an individual to be distinguished from others, may be treated as personal information.
 
@@ -76,7 +81,7 @@ Very truly yours,
 Privacy Commissioner and Chairman
 
 [^1]: Article 29 of Directive 95/46/EC "Working document on Blacklists", Adopted on 3 October 2002, available at http://ec.europa.eu/justice/policies/privacy/docs/wpdocs/2002/wp65_en.pdf
-[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA 10173, §18(a)
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§18(a)]]
 [^3]: AN ACT PROVIDING FOR MANDATORY BIOMETRICS VOTER REGISTRATION, 15 February 2013, §2(b)
 [^4]: R.A. No. 10367, §2(a)
 [^5]: Opinion 4/2007 on the concept of personal data, Adopted on 20th June 2007

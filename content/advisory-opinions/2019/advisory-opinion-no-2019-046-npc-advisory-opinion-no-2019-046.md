@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2019-046 — Inter-Agency Council Against Trafficking (IACAT) Request for Information with the Philippine Statistics Authority (PSA)"
 description: "Guidance on disclosure of sensitive personal information such as age from PSA to IACAT for trafficking case investigation and prosecution."
+aliases:
+  - "NPC Advisory Opinion No. 2019-046"
+  - "npc advisory opinion no. 2019-046"
+  - "Advisory Opinion No. 2019-046"
+  - "advisory opinion no. 2019-046"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -23,7 +28,7 @@ Re: INTER-AGENCY COUNCIL AGAINST TRAFFICKING (IACAT) REQUEST FOR INFORMATION WIT
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC) which sought to clarify whether or not the Data Privacy Act of 2012[^2] allows for the disclosure of the personal information, specifically the age, of an alleged trafficking victim, by the Philippine Statistics Authority (PSA) to the Inter-Agency Council Against Trafficking (IACAT) for purposes of filing a criminal case for violation of Republic Act No. 9208.[^3]
+We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC) which sought to clarify whether or not the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] allows for the disclosure of the personal information, specifically the age, of an alleged trafficking victim, by the Philippine Statistics Authority (PSA) to the Inter-Agency Council Against Trafficking (IACAT) for purposes of filing a criminal case for violation of Republic Act No. 9208.[^3]
 
 ### Discussion
 
@@ -69,12 +74,12 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: An Act to Institute Policies to Eliminate Trafficking in Persons Especially Women and Children, Establishing the Necessary Institutional Mechanisms for the Protection and Support of Trafficked Persons, Providing Penalties for its Violations, and for Other Purposes [Anti-Trafficking in Persons Act of 2003], Republic Act No. 9208 (2003).
-[^4]: Data Privacy Act of 2012, § 13 (a).
+[^4]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13 (a)]].
 [^5]: Id. § 13 (b).
 [^6]: Id. § 13 (f).
 [^7]: Id. § 3 (b).
-[^8]: See: National Privacy Commission, NPC Advisory Opinion No. 2017-49 (August 29, 2017).
+[^8]: See: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-049-npc-advisoryopinionno-2017-049|NPC Advisory Opinion No. 2017-49]] (August 29, 2017).
 [^9]: The Child and Youth Welfare Code [Child and Youth Welfare Code], P. D. No. 603 (2003).
 [^10]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Nov. 26, 2018).

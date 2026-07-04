@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2020
+aliases:
+  - "NPC Advisory Opinion No. 2020-002"
+  - "npc advisory opinion no. 2020-002"
+  - "Advisory Opinion No. 2020-002"
+  - "advisory opinion no. 2020-002"
 draft: false
 ---
 
@@ -50,7 +55,7 @@ The above must be harmonized with the protection of the fundamental human right 
 privacy. The DPA dictates that any person or entity who processes personal and/or sensitive
 personal information (collectively, personal data) shall still be subject to its provisions.
 
-Under the DPA, processing is defined as any operation or any set of operations performed upon personal information. Processing, therefore, includes publication of rulings. Sections 12 and 13 of the DPA provides for the instances wherein processing of personal and sensitive personal information, respectively, may be allowed, to wit:
+Under the DPA, processing is defined as any operation or any set of operations performed upon personal information. Processing, therefore, includes publication of rulings. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA provides for the instances wherein processing of personal and sensitive personal information, respectively, may be allowed, to wit:
 
 > SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 > xxx
@@ -112,9 +117,9 @@ Privacy Commissioner and Chairman
 [^2]: AN ACT AMENDING THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED, AND FOR OTHER PURPOSES ["Tax Reform Act of 1997"], Republic Act No. 8424 (1997).
 [^3]: Operationalizing in the Executive Branch the People's Constitutional Right to Information and the State Policies to Full Public Disclosure and Transparency in the Public Service and Providing Guidelines Therefor, Executive Order No. 02, s. 2016.
 [^4]: National Privacy Commission, Rules of Procedure on Requests for Advisory Opinions, [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|Circular No. 18-01]] [NPC Circular 18-01] (September 10, 2018).
-[^5]: Data Privacy Act of 2012, § 2.
+[^5]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|§ 2]].
 [^6]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Nov. 26, 2018).
 [^7]: Bureau of Internal Revenue, Revenue Memorandum Order No. 9-2014 [RMO No. 9-2014] (February 6, 2014).
-[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^8]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18]] (c) (2016).
 [^9]: *Ibid.*
-[^10]: National Privacy Commission, NPC Advisory Opinion No. 2018-018 (12 April 2018).
+[^10]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-018-npc-advisory-opinion-no-2018-018|NPC Advisory Opinion No. 2018-018]] (12 April 2018).

@@ -48,7 +48,7 @@ On 17 October 2018, this Commission issued an Order to GC containing the followi
 
 > WHEREFORE, PREMISES CONSIDERED, this Commission hereby ORDERS GC to:
 >
-> 1. SUBMIT a more comprehensive Data Breach Notification Report to this Commission following rules laid down in NPC Circular No. 16-03;
+> 1. SUBMIT a more comprehensive Data Breach Notification Report to this Commission following rules laid down in [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]];
 > 2. NOTIFY the affected data subjects through an appropriate Data Breach Notification following rules laid down in NPC Circular No. 16-03;
 > 3. PROVIDE identity theft and phishing insurance for affected Filipino data subjects, or in the alternative, ESTABLISH a dedicated helpdesk/help center for Filipino data subjects on privacy related matters concerning GC, located in the Philippines and with a local number, within six (6) months from receipt of the ORDER;
 > 4. IMPLEMENT a program in the Philippines or otherwise directed to Filipino data subjects to increase awareness in identity theft and phishing; and
@@ -92,7 +92,7 @@ vi. Whether GC provided sufficient evidence of compliance.
 
 #### On Jurisdiction Over the Alleged Data Breach Incident
 
-The National Privacy Commission is an independent body mandated to administer and implement the Data Privacy Act of 2012 (DPA), and to monitor and ensure compliance of the country with international standards set for data protection.[^3] Section 7 (a) and (d) of the DPA specifically provides that the NPC is mandated to ensure compliance of personal information controllers with the provisions of the act and compel or petition any entity, government agency or instrumentality to abide by its orders or take action on a matter affecting data privacy, respectively.
+The National Privacy Commission is an independent body mandated to administer and implement the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), and to monitor and ensure compliance of the country with international standards set for data protection.[^3] [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 (a) and (d) of the DPA]] specifically provides that the NPC is mandated to ensure compliance of personal information controllers with the provisions of the act and compel or petition any entity, government agency or instrumentality to abide by its orders or take action on a matter affecting data privacy, respectively.
 
 Corollary to the foregoing, [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|Section 6 of the DPA]] explicitly provides for the extraterritorial application of the DPA to wit:
 
@@ -120,7 +120,7 @@ Following the Extraterritorial Application provided by the Section 6 of the DPA,
 
 This Commission, upon carefully reviewing the Data Breach Notification Report submitted by GC, finds that GC has complied with the requirements laid down in NPC Circular No. 16-03.
 
-Section 17 of the NPC Circular 16-03[^4] provides that the Notification shall include, but not be limited to:
+Section 17 of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]][^4] provides that the Notification shall include, but not be limited to:
 
 > 1. Nature of the Breach
 >    - a. description of how the breach occurred and the vulnerability of the data processing system that allowed the breach;
@@ -213,6 +213,6 @@ GENERAL RECORDS UNIT
 
 [^1]: Data Breach Notification Report of GC dated 16 November 2018.
 [^2]: *Ibid.*
-[^3]: Data Privacy Act, Sec. 7 (2012).
-[^4]: Personal Data Breach Management, NPC Circular 16-03 (2016).
+[^3]: [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Data Privacy Act, Sec. 7]] (2012).
+[^4]: [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]] (2016).
 [^5]: See CID 18-J-162 Case Files at pp. 9 to pp. 15.

@@ -138,7 +138,7 @@ Based on records and EnD's evaluation, this Commission finds that LSGH has suffi
 
 #### *LSGH sufficiently complied with the requirements under NPC Advisory No. 17-03 in the conduct of its PIA*
 
-NPC Advisory No. 17-03 (Guidelines on Privacy Impact Assessment) defines a PIA as:
+[[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 17-03]] (Guidelines on Privacy Impact Assessment) defines a PIA as:
 
 > [A] process undertaken and used to evaluate and manage impacts on privacy of a particular program, project, process, measure, system or technology product of a PIC [Personal Information Controller] or PIP [Personal Information Processor] program, project, process, measure, system or technology product of a PIC or PIP. It takes into account the nature of the personal data to be protected, the personal data flow, the risks to privacy and security posed by the processing, current data privacy best practices, the cost of security implementation, and, where applicable, the size of the organization, its resources, and the complexity of its operations.[^28]
 
@@ -275,8 +275,8 @@ GENERAL RECORDS UNIT
 [^25]: *Id.*, at p. 1.
 [^26]: Compliance dated 29 July 2022 from La Salle Green Hills School.
 [^27]: In Re: La Salle Greenhills School, CID BN 18-085, Resolution dated 21 May 2020.
-[^28]: National Privacy Commission, Guidelines on Privacy Impact Assessment, NPC Advisory 2017-03, Definition of Terms, at item K (31 July 2017) (NPC Advisory 17-03).
-[^29]: NPC Advisory 17-03, Key Considerations.
+[^28]: National Privacy Commission, [[issuances/2017/guidelines-on-privacy-impact-assessments|Guidelines on Privacy Impact Assessment]], NPC Advisory 2017-03, Definition of Terms, at item K (31 July 2017) (NPC Advisory 17-03).
+[^29]: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory 17-03]], Key Considerations.
 [^30]: Compliance dated 06 August 2021 from La Salle Green Hills School; *See* Compliance dated 19 April 2022 from La Salle Green Hills School.
 [^31]: *Id.*
 [^32]: *See* Compliance dated 06 August 2021 from La Salle Green Hills School.
@@ -288,7 +288,7 @@ GENERAL RECORDS UNIT
 [^38]: *Id.*, in Finance Resource Department Privacy Impact Assessment.
 [^39]: *Id.*, in Guidance and Education Intervention Services Privacy Impact Assessment.
 [^40]: Compliance dated 06 August 2021 from La Salle Green Hills School in Security and Safety Office-Privacy Impact Assessment.
-[^41]: National Privacy Commission, Privacy Policy and Consent of Data Subjects, NPC Advisory Opinion 2018-013, (18 April 2018) (NPC Advisory Opinion 2018-013).
+[^41]: National Privacy Commission, Privacy Policy and Consent of Data Subjects, [[advisory-opinions/2018/advisory-opinion-no-2018-013-npc-advisory-opinion-no-2018-013|NPC Advisory Opinion 2018-013]], (18 April 2018) (NPC Advisory Opinion 2018-013).
 [^42]: Compliance dated 05 May 2021 from La Salle Green Hills School.
 [^43]: Compliance Letter dated 05 April 2022 from Enforcement Division, at p. 2.
 [^44]: Compliance dated 18 June 2022 from La Salle Green Hills in Data Privacy Policy, at p. 2.

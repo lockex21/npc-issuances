@@ -7,6 +7,11 @@ tags:
   - "year/2017"
   - "topic/data-sharing"
   - "topic/government"
+aliases:
+  - "NPC Advisory Opinion No. 2017-035"
+  - "npc advisory opinion no. 2017-035"
+  - "Advisory Opinion No. 2017-035"
+  - "advisory opinion no. 2017-035"
 draft: false
 ---
 
@@ -40,7 +45,7 @@ This is with regard to your inquiry received by the National Privacy Commission 
 
 #### Exemptions to the scope of the DPA
 
-The DPA provides for a list of specified information that are not covered by the law. Section 5 of the IRR[^1] provides for the special cases wherein the law and the rules are not applicable:
+The DPA provides for a list of specified information that are not covered by the law. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the IRR]][^1] provides for the special cases wherein the law and the rules are not applicable:
 
 "Section 5. Special Cases. The Act and these Rules shall not apply to the following specified information, *only to the minimum extent* of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:
 
@@ -100,6 +105,7 @@ We note however that there may be a need to check other pertinent laws, jurispru
 
 Data sharing is the disclosure or transfer to a third party of personal data under the custody of a personal information controller or personal information processor.[^3] Data sharing between government agencies for the purpose of a public function or provision of a public service shall be covered a data sharing agreement.[^4]
 
+
 A data sharing agreement refers to a contract, joint issuance, or any similar document that contains the terms and conditions of a data sharing arrangement between two or more parties.[^5]
 
 It is possible that directives from government agencies performing regulatory functions will be covered by the data sharing provisions of the IRR and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] on data sharing agreements involving government agencies.
@@ -141,7 +147,7 @@ RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
 [^1]: Implementing Rules and Regulations of Republic Act No. 10173, known as the "Data Privacy Act of 2012" (24 August 2016).
-[^2]: RA No. 10173, §3(f)
+[^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(f)]]
 [^3]: *Id.*, §20(d)
-[^4]: *NPC Circular 16-02 dated 10 October 2016*
+[^4]: *[[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular 16-02]] dated 10 October 2016*
 [^5]: *Ibid.*

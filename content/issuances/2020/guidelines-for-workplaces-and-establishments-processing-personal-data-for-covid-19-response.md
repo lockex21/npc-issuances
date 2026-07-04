@@ -140,8 +140,8 @@ Deputy Privacy Commissioner                Deputy Privacy Commissioner
 [^6]: See generally [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response]], Joint Memorandum Circular No. 2020-0002; and DOH DM No. 2020-0189.
 [^7]: DTI-DOLE JMC No. 20-04-A, § III.D.3.a.
 [^8]: DTI-DOLE JMC No. 20-04-A, § III.D.3.a.
-[^9]: Department of Health and National Privacy Commission, Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002, § VI(D)(2)(a) (24 April 2020).
-[^10]: See generally DOH NPC JMC No. 2020-0002 and DOH DM No. 2020-0189.
+[^9]: Department of Health and National Privacy Commission, [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response]], Joint Memorandum Circular No. 2020-0002, § VI(D)(2)(a) (24 April 2020).
+[^10]: See generally [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|DOH NPC JMC No. 2020-0002]] and DOH DM No. 2020-0189.
 [^11]: See supra note 5.
 
 ## Source

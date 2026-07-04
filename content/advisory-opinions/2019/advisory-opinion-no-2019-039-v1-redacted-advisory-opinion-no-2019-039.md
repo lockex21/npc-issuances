@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2019-039 — Request For Tax Declaration"
 description: "Guidance on access to tax declarations for pipeline project due diligence."
+aliases:
+  - "NPC Advisory Opinion No. 2019-039"
+  - "npc advisory opinion no. 2019-039"
+  - "Advisory Opinion No. 2019-039"
+  - "advisory opinion no. 2019-039"
 tags:
   - issuance
   - type/advisory-opinion
@@ -32,7 +37,7 @@ We understand that the Assessor’s Office and the Treasurer’s Office of the C
 
 #### Scope of the Data Privacy Act of 2012; regulatory function; public authority
 
-The DPA applies to all types of processing of personal information subject to certain qualifications.[^3] The disclosure of documents containing personal or sensitive personal information (collectively, personal data) is considered processing. Under the DPA, processing of personal data shall be allowed, subject to compliance with the law and adherence to the
+The [[laws/data-privacy-act-of-2012|DPA]] applies to all types of processing of personal information subject to certain qualifications.[^3] The disclosure of documents containing personal or sensitive personal information (collectively, personal data) is considered processing. Under the DPA, processing of personal data shall be allowed, subject to compliance with the law and adherence to the
 
 principles of transparency, legitimate purpose, and proportionality. By way of exception, the DPA recognizes that certain specified information is outside its scope.
 
@@ -89,18 +94,18 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^2]: *Id.* § 4.
-[^3]: Data Privacy Act of 2012, § 4(e).
+[^3]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4(e)]].
 [^4]: See generally, National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-079-v1-redacted-advisory-opinion-no-2018-079|NPC Advisory Opinion No. 2018-079]] (Oct. 23, 2018).
 [^5]: See: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-035-npc-advisoryopinionno-2017-035|NPC Advisory Opinion No. 2017-035]] (July 27, 2017).
 [^6]: *Id.*
 [^7]: An Act Creating The Metropolitan Waterworks And Sewerage System And Dissolving The National Waterworks And Sewerage Authority; And For Other Purposes, Republic Act No. 6234 (1971).
 [^8]: Amending and Codifying the Laws Relative to Registration of Property and for other Purposes [Property Registration Decree], Presidential Decree No. 1529 (1978).
 [^9]: An Act to Provide for the Adjudication and Registration of Titles to Lands in the Philippine Islands [The Land Registration Act], Act No. 496 (1902).
-[^10]: Data Privacy Act of 2012, § 13(f).
-[^11]: National Privacy Commission, NPC Advisory Opinion No. 2018-083 (Oct. 29, 2018).
-[^12]: National Privacy Commission, NPC Advisory Opinion No. 2017-030 (June 28, 2017), citing Office of the Privacy Commissioner for Personal Data, Hong Kong, Guidance Note - Guidance on Use of Personal Data Obtained from the Public Domain, August 2013, available at https://www.pcpd.org.hk/english/publications/files/GN_public_domain_e.pdf
+[^10]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13(f)]].
+[^11]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Oct. 29, 2018).
+[^12]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-030-npc-advisoryopinionno-2017-030|NPC Advisory Opinion No. 2017-030]] (June 28, 2017), citing Office of the Privacy Commissioner for Personal Data, Hong Kong, Guidance Note - Guidance on Use of Personal Data Obtained from the Public Domain, August 2013, available at https://www.pcpd.org.hk/english/publications/files/GN_public_domain_e.pdf
 [^13]: G.R. No. 48132 (1989).
 [^14]: Office of the President, Operationalizing In The Executive Branch The People’s Constitutional Right To Information And The State Policies To Full Public Disclosure And Transparency In The Public Service And Providing Guidelines Therefor, Executive Order No. 2 [EO No. 2] (July 23, 2016).
 [^15]: EO No. 2, § 7.

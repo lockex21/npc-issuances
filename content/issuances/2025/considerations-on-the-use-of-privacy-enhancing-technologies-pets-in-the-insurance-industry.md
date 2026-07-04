@@ -36,7 +36,7 @@ WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-20
 
 WHEREAS, Insurance Commission Circular Letter No. 2019-13 requires all entities under the regulatory control and supervision of the IC to comply with the provisions of the [[laws/data-privacy-act-of-2012|DPA]];
 
-WHEREAS, Section 20 (a) of the [[laws/data-privacy-act-of-2012|DPA]] provides that the personal information controller (PIC) must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration, and disclosure, as well as against any other unlawful processing;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) of the DPA]] provides that the personal information controller (PIC) must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration, and disclosure, as well as against any other unlawful processing;
 
 WHEREAS, PICs shall designate Data Protection Officers (DPOs) whose responsibilities include upholding privacy-preserving practices within their organizations, and ensuring the PICs' compliance with data privacy laws and regulations;[^1]
 
@@ -91,17 +91,17 @@ SGD.
 NERISSA N. DE JESUS
 Deputy Privacy Commissioner
 
-[^1]: See National Privacy Commission, Registration of Personal Data Processing System, Notification Regarding Automated Decision-Making Or Profiling, Designation of Data Protection Officer, And the National Privacy Commission Seal Of Registration, Circular No. 04, Series of 2022 [NPC Circ. No. 22-04] (05 December 2022).
+[^1]: See National Privacy Commission, [[issuances/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|Registration of Personal Data Processing System, Notification Regarding Automated Decision-Making Or Profiling, Designation of Data Protection Officer, And the National Privacy Commission Seal Of Registration]], Circular No. 04, Series of 2022 [NPC Circ. No. 22-04] (05 December 2022).
 
 [^2]: Organisation for Economic Co-operation and Development (OECD), Emerging Privacy-Enhancing Technologies: Current Regulatory and Policy Approaches, OECD Digital Economy Papers No. 351, at 4 (2023), available at https://doi.org/10.1787/bf121be4-en (last accessed: November 2024).
 [^3]: Id. at 13.
 [^4]: See Organisation for Economic Co-operation and Development (OECD), Emerging Privacy-Enhancing Technologies: Current Regulatory and Policy Approaches, OECD Digital Economy Papers No. 351 (2023), available at https://doi.org/10.1787/bf121be4-en (last accessed: November 2024).
 [^5]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 § 21 (2012).
-[^6]: Id. § 20.
+[^6]: Id. [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20]].
 [^7]: See NPC Circ. No. 22-04.
-[^8]: See National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], (15 December 2016).
+[^8]: See National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], (15 December 2016).
 [^9]: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]]: Guidelines on Privacy Impact Assessments, available at https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryNo.2017-03.pdf.
-[^10]: Section 20(c) of the Republic Act 10173 - Data Privacy Act of 2012, National Privacy Commission, available at https://privacy.gov.ph/data-privacy-act/.
+[^10]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(c)]] of the [[laws/data-privacy-act-of-2012|Republic Act 10173 - Data Privacy Act of 2012]], National Privacy Commission, available at https://privacy.gov.ph/data-privacy-act/.
 
 ## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2025/03/NPC-IC-Joint-Advisory-2025.03.11-Considerations-on-the-Use-of-PETs-in-the-Insurance-Industry-w-SGD.pdf

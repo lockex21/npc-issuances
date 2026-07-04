@@ -263,17 +263,17 @@ GENERAL RECORDS UNIT
 [^44]: Motion for Reconsideration, 03 January 2023, at 3, in RJC v. DL, NPC 22-012 (NPC 2023).
 [^45]: Id. at 7.
 [^46]: Id. at 5.
-[^47]: EA & TA v. EJ, EE, & HC, NPC 17-018, 15 July 2019, at 8, available at https://www.privacy.gov.ph/wp-content/uploads/2022/04/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf (last accessed 02 March 2023).
+[^47]: [[decisions/2019/npc-17-018-ea-and-ta-v-ej|EA & TA v. EJ, EE, & HC, NPC 17-018]], 15 July 2019, at 8, available at https://www.privacy.gov.ph/wp-content/uploads/2022/04/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf (last accessed 02 March 2023).
 [^48]: Motion for Reconsideration, 03 January 2023, at 7, in RJC v. DL, NPC 22-012 (NPC 2023).
 [^49]: Id. at 8.
-[^50]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 16 (a) (2012).
-[^51]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, Rule VIII, § 34(a)(2) (2016).
+[^50]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16 (a)]] (2012).
+[^51]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, Rule VIII, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|§ 34(a)(2)]] (2016).
 [^52]: ECA v. XXX, [[decisions/2020/07-23-2020-eca-vs-xxx|NPC 18-103]], 23 July 2020, at 5, available at https://www.privacy.gov.ph/wp-content/uploads/2020/12/NPC-18-103-ECA-v-XXX-Decision-ADJU1.pdf (last accessed 27 April 2023).
 [^53]: Raoul C. Villarete v. Commission on Audit, G.R. No. 243818 (2022).
 [^54]: Memorandum for Complainant, 04 August 2022, at 3, in RJC v. DL, NPC 22-012 (NPC 2022).
 [^55]: Motion for Reconsideration, 03 January 2023, at 9, in RJC v. DL, NPC 22-012 (NPC 2023).
 [^56]: Id. at 3.
 [^57]: Decision, 10 November 2022, at 8, in RJC v. DL, NPC 22-012 (NPC 2022).
-[^58]: Data Privacy Act of 2012, § 7.
+[^58]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|§ 7]].
 [^59]: Id. § 7 (a).
 [^60]: Motion for Reconsideration, 03 January 2023, at 9, in RJC v. DL, NPC 22-012 (NPC 2023).

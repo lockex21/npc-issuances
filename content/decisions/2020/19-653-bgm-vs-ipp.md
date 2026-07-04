@@ -52,7 +52,7 @@ DECISION
 
 LIBORO, P.C.:
 
-Before this Commission is a Complaint filed by BGM (Complainant) against IPP. (Respondent) for the violation of her rights as a data subject under the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by BGM (Complainant) against IPP. (Respondent) for the violation of her rights as a data subject under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -121,7 +121,7 @@ In order for Complainant to secure a court order, there must necessarily first b
 
 > "xxx f. The processing concerns such personal information as is **necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims**, or when provided to government or public authority (Emphasis supplied)."
 
-In the case of NPC 17-018 dated 15 July 2019, this Commission held that "processing as necessary for the establishment of legal claims" does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of "establishment … of legal claims" presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established.
+In the case of [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]] dated 15 July 2019, this Commission held that "processing as necessary for the establishment of legal claims" does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of "establishment … of legal claims" presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established.
 
 This Commission in the same case went on further and held that:
 
@@ -155,7 +155,7 @@ As established above, the Respondent violated the Complainant's right to access 
 
 As a recognition and vindication of Complainant's right that was violated by Respondent, the Commission awards nominal damages to the Complainant in the total amount of Forty Thousand (P40,000) Pesos.
 
-WHEREFORE, all premises considered, Respondent IPP. is hereby **ORDERED** to furnish the Complainant BGM the name of the recipient of her personal information in compliance with Section 16 (c) (3) of the Data Privacy Act and pay the Complainant the amount of Forty Thousand (P40,000) Pesos as nominal damages to vindicate Complainant's right to access, which was violated by Respondent. Further, Respondent is mandated by this Commission to submit proof of compliance that it complied with the orders of the Commission within ten (10) days from the receipt of this Resolution.
+WHEREFORE, all premises considered, Respondent IPP. is hereby **ORDERED** to furnish the Complainant BGM the name of the recipient of her personal information in compliance with [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (c) (3) of the Data Privacy Act]] and pay the Complainant the amount of Forty Thousand (P40,000) Pesos as nominal damages to vindicate Complainant's right to access, which was violated by Respondent. Further, Respondent is mandated by this Commission to submit proof of compliance that it complied with the orders of the Commission within ten (10) days from the receipt of this Resolution.
 
 **SO ORDERED.**
 
@@ -190,16 +190,16 @@ National Privacy Commission
 
 [^2]: Section 16 (c) of DPA provides: (c) Reasonable access to, upon demand, the following: (1) Contents of his or her personal information that were processed; (2) Sources from which personal information were obtained; (3) Names and addresses of recipients of the personal information; (4) Manner by which such data were processed; (5) Reasons for the disclosure of the personal information to recipients; (6) Information on automated processes where the data will or likely to be made as the sole basis for any decision significantly affecting or will affect the data subject; (7) Date when his or her personal information concerning the data subject were last accessed and modified; and (8) The designation, or name or identity and address of the personal information controller.
 
-[^3]: CID Case No. 17-K-003 dated 19 November 2019 and NPC 18-135 dated 06 August 2020
+[^3]: [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|CID Case No. 17-K-003]] dated 19 November 2019 and NPC 18-135 dated 06 August 2020
 
-[^4]: R.A. 10173, Section 12(f); Ibid.
+[^4]: [[laws/data-privacy-act-of-2012|R.A. 10173]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f)]]; Ibid.
 
 [^5]: Ibid.
 
-[^6]: Id., §37.
+[^6]: [[laws/data-privacy-act-of-2012#section-37-restitution|Id., §37]].
 
 [^7]: G.R. No. 95641, 22 September 1994.
 
-[^8]: SEC. 16. Rights of the Data Subject, Republic Act 10173 – Data Privacy Act of 2012
+[^8]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|SEC. 16. Rights of the Data Subject, Republic Act 10173 – Data Privacy Act of 2012]]
 
 [^9]: Seven Brothers Shipping Corporation v. DMC-Construction Resources, Inc. G.R. No. 193914. November 26 2014.

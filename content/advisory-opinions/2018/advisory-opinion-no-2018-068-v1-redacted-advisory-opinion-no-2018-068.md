@@ -7,6 +7,11 @@ tags:
   - year/2018
   - topic/consent
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-068"
+  - "npc advisory opinion no. 2018-068"
+  - "Advisory Opinion No. 2018-068"
+  - "advisory opinion no. 2018-068"
 ---
 
 ## Source
@@ -33,7 +38,7 @@ The privacy notice of the EMR provider posted on their website likewise states t
 
 #### Scope of the Data Privacy Act of 2012
 
-The Data Privacy Act of 2012[^1] (DPA) applies to the processing of any type of personal data by any natural and juridical person involved in the processing of personal data.
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) applies to the processing of any type of personal data by any natural and juridical person involved in the processing of personal data.
 
 Processing involves a wide set of operations performed upon personal data, including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.[^2] Thus, the collection, recording, storage and use of the personal data being encoded by the patients and physicians are processing activities as defined above.
 
@@ -59,7 +64,7 @@ When the EMR provider goes over and beyond the instructions and purpose of proce
 
 While the EMR provider claims that only anonymized information will be accessed, they should clarify the anonymization process. If before, during, and even after the anonymization process, the EMR provider will have direct access to the original data set that still contains personal data, then the said processing will not be exempt from provisions of DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|implementing rules and regulations]], considering that at any given time, the EMR provider may connect the relevant data sets.
 
-Consequently, the EMR provider as PIC will be required to comply with any of the criteria for processing under the Sections 12 and/or 13 of the DPA.
+Consequently, the EMR provider as PIC will be required to comply with any of the criteria for processing under the [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and/or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA.
 
 In connection with the foregoing, when using personal data for medical research purpose, the processing should comply with the requirements of applicable laws, regulations, or ethical standards, including but not limited to obtaining an informed consent from the patient.
 
@@ -79,9 +84,9 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [Data Privacy Act of 2012] Republic Act No. 10173 (2012).
-[^2]: Id. § 3 (j).
-[^3]: Data Privacy Act, § 3 (l).
+[^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [Data Privacy Act of 2012] [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
+[^2]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (j)]].
+[^3]: Data Privacy Act, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]].
 [^4]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) 2016 O.J. (L 119), Recital 26.
 [^5]: ISO/IEC 29100:2011(en), Information technology — Security techniques — Privacy framework, available at https://www.iso.org/obp/ui/#iso:std:iso-iec:29100:ed-1:v1:en
 [^6]: Article 29 Data Protection Working Party, Opinion 05/2014 on Anonymisation Techniques, 10 April 2014, §2.1 – Definition in the EU legal context

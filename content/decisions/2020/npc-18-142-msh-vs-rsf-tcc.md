@@ -44,7 +44,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.:
 
-Before this Commission is a Complaint filed by MSH (MSH) against TCC (TCC), and its president, RSF (RSF) for the alleged violation of Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by MSH (MSH) against TCC (TCC), and its president, RSF (RSF) for the alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173, or the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -189,15 +189,15 @@ GENERAL RECORDS UNIT
 [^15]: *See* Transcript of Record dated 23 May 2008, and Transcript of Record dated 22 January 2018.
 [^16]: Verified Comment dated 22 September 2021 filed by RSF and TCC.
 [^17]: Complaint Assisted Form dated 25 September 2018 filed by Complainant MSH.
-[^18]: Republic Act No. 10173, or the Data Privacy Act of 2012, Section 3(h).
-[^19]: Republic Act No. 10173, or the Data Privacy Act of 2012, Section 3(c).
-[^20]: Republic Act No. 10173, or the Data Privacy Act of 2012, Section 3(g).
-[^21]: Republic Act No. 10173, or the Data Privacy Act of 2012, Section 11(c).
-[^22]: Implementing Rules and Regulations of Republic Act No. 10173, Section 19(c).
-[^23]: Implementing Rules and Regulations of Republic Act No. 10173, Section 34(d).
-[^24]: Republic Act No. 10173, or the Data Privacy Act of 2012, Section 16(f).
+[^18]: [[laws/data-privacy-act-of-2012|Republic Act No. 10173, or the Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(h)]].
+[^19]: [[laws/data-privacy-act-of-2012|Republic Act No. 10173, or the Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(c)]].
+[^20]: [[laws/data-privacy-act-of-2012|Republic Act No. 10173, or the Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(g)]].
+[^21]: [[laws/data-privacy-act-of-2012|Republic Act No. 10173, or the Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11(c)]].
+[^22]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of Republic Act No. 10173]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19(c)]].
+[^23]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of Republic Act No. 10173]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34(d)]].
+[^24]: [[laws/data-privacy-act-of-2012|Republic Act No. 10173, or the Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(f)]].
 [^25]: *See* Verified Comment dated 22 September 2021 filed by RSF and TCC.
 [^26]: *See* Complaint Assisted Form dated 25 September 2018 filed by Complainant MSH, at page 2; and Verified Comment dated 22 September 2021 filed by RSF and TCC, at page 2.
-[^27]: Republic Act No. 10173, or the Data Privacy Act of 2021, Section 16(f).
+[^27]: [[laws/data-privacy-act-of-2012|Republic Act No. 10173, or the Data Privacy Act of 2021]], [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(f)]].
 [^28]: MCC Industrial Sales Corp. v. Ssangyong Corp., G.R. No. 170633, 17 October 2007.
 [^29]: EA v. Q288, Inc., [[decisions/2020/07-23-2020-eca-vs-xxx|NPC 18-103]], 23 July 2020, at page 7.

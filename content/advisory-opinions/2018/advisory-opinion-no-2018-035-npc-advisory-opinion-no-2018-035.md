@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
   - topic/elections
+aliases:
+  - "NPC Advisory Opinion No. 2018-035"
+  - "npc advisory opinion no. 2018-035"
+  - "Advisory Opinion No. 2018-035"
+  - "advisory opinion no. 2018-035"
 draft: false
 ---
 
@@ -54,5 +59,5 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
-[^2]: RA No. 10173, § 12(c)
-[^3]: RA No. 10173, § 12(e)
+[^2]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|RA No. 10173, § 12(c)]]
+[^3]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|RA No. 10173, § 12(e)]]

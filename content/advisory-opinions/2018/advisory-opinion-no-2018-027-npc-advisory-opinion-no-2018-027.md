@@ -10,6 +10,11 @@ tags:
   - data-privacy-principles
   - topic/data-subject-rights
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-027"
+  - "npc advisory opinion no. 2018-027"
+  - "Advisory Opinion No. 2018-027"
+  - "advisory opinion no. 2018-027"
 ---
 
 ## Source
@@ -76,11 +81,11 @@ Second, the deputized members or agents of the barangay must have presented thei
 
 ### Discussion
 
-The DPA mandates natural and juridical persons involved in personal information[^7] processing[^8] to abide by the data privacy principles, uphold the rights of the data subject, and implement security measures in order to protect personal information in their custody.
+The [[laws/data-privacy-act-of-2012|DPA]] mandates natural and juridical persons involved in personal information[^7] processing[^8] to abide by the data privacy principles, uphold the rights of the data subject, and implement security measures in order to protect personal information in their custody.
 
 At the outset, the subject Ordinance must be evaluated in terms of its observance with the data privacy principles.
 
-First, the principle of transparency states that the data subject must be aware of the nature, purpose and extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of the personal information controller and the rights of the data subjects and how these can be exercised.[^9] Although the data subject, the constituents, are aware of the nature and purpose of the processing, for public safety and welfare, they were not informed as to the risks and safeguards involved and their rights as data subjects.
+First, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|principle of transparency]] states that the data subject must be aware of the nature, purpose and extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of the personal information controller and the rights of the data subjects and how these can be exercised.[^9] Although the data subject, the constituents, are aware of the nature and purpose of the processing, for public safety and welfare, they were not informed as to the risks and safeguards involved and their rights as data subjects.
 
 Second, the principle of legitimate purpose is clearly provided for in the ordinance, given that the processing of personal information is compatible with the mandate of cities and barangays to enact measures on how to protects its territorial jurisdiction and maintain peace and order.[^10]
 
@@ -116,7 +121,7 @@ Privacy Commissioner and Chairman
 [^6]: International Migration – Statistical Office of Estonia, available at http://www.stat.ee/docdmend/19482
 [^7]: *Supra* note 2, §3(g) *Personal information* refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 [^8]: *Id.*, §3(j) *Processing* refers to any operation or any set of operations performed upon personal information including, but not limited to the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
-[^9]: IRR, §18(a).
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|IRR, §18(a)]].
 [^10]: *Id.*, §18(b).
 [^11]: *Id.*, §18(c).
 [^12]: Social Justice Society et al. vs. Hon. Jose L. Atienza, Jr., G.R No. 156952 (13 February 2008).

@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2023
   - topic/data-subject-rights
+aliases:
+  - "NPC Advisory Opinion No. 2023-023"
+  - "npc advisory opinion no. 2023-023"
+  - "Advisory Opinion No. 2023-023"
+  - "advisory opinion no. 2023-023"
 draft: false
 ---
 
@@ -35,7 +40,7 @@ You thus ask whether the Requesting Party is qualified to obtain the requested d
 
 The Philippine Statistics Authority (PSA) issued Memorandum Circular (MC) No. 2019-15 to provide guidelines for requests for the issuance of Certificate of Live Birth, Certificate of Death, Certificate of Marriage, and Certificate of No Marriage/Advisory on Marriage.
 
-A cursory reading of MC No. 2019-15 shows that it does not cover requests for supporting documents relative to the foregoing certificates. Be that as it may, the request for copies of the supporting documents may be considered as a data subject request under the Data Privacy Act of 2012 (DPA).
+A cursory reading of MC No. 2019-15 shows that it does not cover requests for supporting documents relative to the foregoing certificates. Be that as it may, the request for copies of the supporting documents may be considered as a data subject request under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 #### *Sensitive personal information*
 
@@ -49,7 +54,7 @@ Parties applying for a marriage license are required to submit the following doc
 6. Certificate stating that the parties have undergone marriage counseling, in cases where parental consent or advice is needed; and
 7. Certificate of legal capacity to contract marriage, in case either or both of the parties are citizens of a foreign country[^2]
 
-It is readily apparent from the enumerated documents above that they contain sensitive personal information as the term is defined in the DPA.[^3] As such, its processing is generally prohibited except when it falls under any of the circumstances provided in Section 13 the DPA.
+It is readily apparent from the enumerated documents above that they contain sensitive personal information as the term is defined in the DPA.[^3] As such, its processing is generally prohibited except when it falls under any of the circumstances provided in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]] the DPA.
 
 It is worth noting that although the Requesting Party did not specify the reason for her request, it is reasonable to assume that it is intended for the establishment, exercise or defense of a legal claim. In which case, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]] applies:
 
@@ -59,9 +64,9 @@ It is worth noting that although the Requesting Party did not specify the reason
 >
 > (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interest of natural or legal persons in court proceedings or the establishment, exercise, or defense of legal claims, or when provided to government or public authority.[^4]
 
-The National Privacy Commission (NPC) clarified in *BGM v. IPP*[^5] that the term “processing as necessary for the establishment of legal claims” does not require an existing court proceeding, thus:
+The National Privacy Commission (NPC) clarified in [[decisions/2020/19-653-bgm-vs-ipp|*BGM v. IPP*]][^5] that the term “processing as necessary for the establishment of legal claims” does not require an existing court proceeding, thus:
 
-> In the case of NPC 17-018 dated 15 July 2019, this Commission held that “processing as necessary for the establishment of legal claims” does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of “establishment ... of legal claims” presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established.”
+> In the case of [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]] dated 15 July 2019, this Commission held that “processing as necessary for the establishment of legal claims” does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of “establishment ... of legal claims” presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established.”
 >
 > This Commission in the same case went on further and held that: The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is “necessary” or may or may not be collected by lawyers for purposes of building a case, applying the qualifier “necessary” to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of “establishment of legal claims” consistent with the general principles of legitimate purpose and proportionality. As regards legitimate purpose, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.
 >
@@ -99,8 +104,8 @@ Director IV, Privacy Policy Office
 
 [^1]: Tags: press freedom; journalistic purpose, special case; freedom of information; security measures.
 [^2]: Philippine Statistics Authority, Registration of Application for Marriage License available at https://psa.gov.ph/content/registration-application-marriage-license [last accessed 20 April 2023].
-[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes, Republic Act No. 10173, [Data Privacy Act of 2012], § 3(l).
-[^4]: Data Privacy Act of 2012, § 13(f).
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes, Republic Act No. 10173, [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(l)]].
+[^4]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13(f)]].
 [^5]: National Privacy Commission, BGM vs. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 20 April 2023).
-[^6]: Data Privacy Act of 2012, § 16 (c).
-[^7]: Data Privacy Act of 2012, § 17.
+[^6]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16 (c)]].
+[^7]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-17-transmissibility-of-rights-of-the-data-subject|§ 17]].

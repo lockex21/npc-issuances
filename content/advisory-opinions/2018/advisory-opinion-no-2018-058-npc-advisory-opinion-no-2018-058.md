@@ -8,6 +8,11 @@ tags:
   - topic/consent
   - topic/data-subject-rights
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-058"
+  - "npc advisory opinion no. 2018-058"
+  - "Advisory Opinion No. 2018-058"
+  - "advisory opinion no. 2018-058"
 ---
 
 ## Source
@@ -83,7 +88,7 @@ We understand that the above Terms and Conditions was amended in October 2017, a
 
 #### Lawful Processing of Personal Data; Consent and Contract as Criteria for Lawful Processing
 
-There are several criteria for processing personal and sensitive personal information provided for under Sections 12 and 13 of Republic Act No. 10173,[^5] known as the Data Privacy Act of 2012 (DPA).
+There are several criteria for processing personal and sensitive personal information provided for under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^5] known as the Data Privacy Act of 2012 (DPA).
 
 Processing of personal information may be based on consent, contract, legal obligation, legitimate interest, among others. Similarly for sensitive personal information, the processing thereof may be based on consent, law or regulation, legal claims, among others.
 
@@ -93,7 +98,7 @@ Nonetheless, we wish to reiterate the definition of consent as follows:
 
 > Consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so.
 
-Further, the IRR states that when consent is required, it must be time-bound in relation to the declared, specified and legitimate purpose.[^6] The time-bound element does not necessarily mean that a specific date or period of time has to be declared. Thus, for instance, declaring that processing will be carried out for the duration of a contract between the PIC and the data subject may be a valid stipulation.
+Further, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] states that when consent is required, it must be time-bound in relation to the declared, specified and legitimate purpose.[^6] The time-bound element does not necessarily mean that a specific date or period of time has to be declared. Thus, for instance, declaring that processing will be carried out for the duration of a contract between the PIC and the data subject may be a valid stipulation.
 
 Also, as long as the purpose, scope, method and extent of the processing remain to be the same as that disclosed to the data subject when consent was given, the consent remains to be valid.
 
@@ -143,8 +148,8 @@ for Data Processing Systems
 [^3]: *Id.*
 [^4]: ARC, Terms and Conditions of Membership, available at https://www.ayalarewardscircle.com/terms-and-agreement/ (last accessed: 10 August 2018).
 [^5]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
-[^6]: *Id.* § 19 (a) (1).
-[^7]: Rules and Regulations implementing RA No. 10173 (IRR), § 18 (a).
+[^6]: *Id.* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|§ 19 (a) (1)]].
+[^7]: Rules and Regulations implementing RA No. 10173 (IRR), [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (a)]].
 [^8]: *Id.*
 [^9]: IAPP, Glossary of Privacy Terms, available at https://iapp.org/resources/glossary/#paperwork-reduction-act-2
 [^10]: *Id.*

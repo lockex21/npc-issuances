@@ -38,11 +38,11 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before this Commission is the Fact-Finding Report (FFR) with Application for the Issuance of a Temporary Ban on processing of personal data filed by the Complaints and Investigation Division (CID) of the National Privacy Commission (NPC) dated 09 June 2021, which serves as its Complaint (Complaint) pursuant to the NPC’s power to conduct a *sua sponte* investigation.[^1] The Complaint alleged violations of Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA), by Oriente Express Techsystem Corporation (OETC) which operates the Cashalo online lending application (Cashalo).
+Before this Commission is the Fact-Finding Report (FFR) with Application for the Issuance of a Temporary Ban on processing of personal data filed by the Complaints and Investigation Division (CID) of the National Privacy Commission (NPC) dated 09 June 2021, which serves as its Complaint (Complaint) pursuant to the NPC’s power to conduct a *sua sponte* investigation.[^1] The Complaint alleged violations of [[laws/data-privacy-act-of-2012|Republic Act No. 10173, or the Data Privacy Act of 2012 (DPA)]], by Oriente Express Techsystem Corporation (OETC) which operates the Cashalo online lending application (Cashalo).
 
 ### Facts
 
-On 09 June 2021, the CID submitted its FFR with Application for the Issuance of a Temporary Ban against OETC. The CID alleged that OETC violated Sections 11, 16, and 25 of the DPA and Section 3(D)(4) of NPC Circular No. 20-01 (Guidelines on the Processing of Personal Data for Loan-related Transactions).[^2]
+On 09 June 2021, the CID submitted its FFR with Application for the Issuance of a Temporary Ban against OETC. The CID alleged that OETC violated [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Sections 11]], [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|16]], and [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|25]] of the DPA and Section 3(D)(4) of NPC Circular No. 20-01 (Guidelines on the Processing of Personal Data for Loan-related Transactions).[^2]
 
 The CID, in its Complaint, alleged the following:
 
@@ -62,11 +62,11 @@ In the CID’s Technical Report dated 14 May 2021, it further alleged:
 
 > As part of Android’s programming capability, the Android SDK provides coding for Contacts retrieval wherein an application will have the ability to collect data from contacts. That being said, Android supports user privacy through App permissions. The user has control over the data that they share with apps, the user understands what data an app uses, and why the app accesses this data and an app accesses and uses only the data that’s required for a specific task or action that the user invokes.[^4]
 
-In its Complaint, the CID stated that OETC failed to adhere to the requirements of the DPA, specifically Section 11 which deals with the General Data Privacy Principles (transparency, legitimate purpose, proportionality).[^5]
+In its Complaint, the CID stated that OETC failed to adhere to the requirements of the DPA, specifically [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11]] which deals with the General Data Privacy Principles (transparency, legitimate purpose, proportionality).[^5]
 
 For the principle of transparency, the CID explained that this is related to the data subject’s right to information under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]].[^6] The CID claimed that OETC failed to uphold the principle of transparency since it “failed to provide the purpose for the storage of the personal information accessed, and such cannot be seen in the App’s Privacy Notice nor can be deduced from the permission it requires.”[^7]
 
-In terms of the legitimate purpose principle, the CID argued that it is upheld when one of the criteria for lawful processing, as provided in Sections 12 and 13 of the DPA, is met.[^8] According to the CID, OETC does not have a legitimate purpose in processing personal information of its users since it was done without valid consent.[^9] The CID stated that in Cashalo’s Privacy Policy, the data subjects have no opportunity to make an informed choice since in order for the users to avail of Cashalo’s services, they have no choice but to accept the terms and conditions it provided.[^10] CID further stated that such act of OETC is “misleading and inherently unfair.”[^11]
+In terms of the legitimate purpose principle, the CID argued that it is upheld when one of the criteria for lawful processing, as provided in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, is met.[^8] According to the CID, OETC does not have a legitimate purpose in processing personal information of its users since it was done without valid consent.[^9] The CID stated that in Cashalo’s Privacy Policy, the data subjects have no opportunity to make an informed choice since in order for the users to avail of Cashalo’s services, they have no choice but to accept the terms and conditions it provided.[^10] CID further stated that such act of OETC is “misleading and inherently unfair.”[^11]
 
 The CID argued that Cashalo can access and store the personal information of the data subjects including their phone contacts, which is not relevant to the purpose of a loan transaction.[^12]
 
@@ -76,7 +76,7 @@ The CID alleged that in terms of proportionality, OETC failed to clearly indicat
 
 The CID concluded that OETC “intends to process any and all information about the data subject, including phone contacts, for purposes of debt collection.”[^17]
 
-Accordingly, the CID alleged that the processing of the data subject’s information for debt collection violated Section 3(D)(4) of the NPC Circular No. 20-01.[^18] It faulted OETC for having a Privacy Policy that was vague and ambiguous since it declared that any and all information of the data subject may be used for purposes, which included debt collection.[^19] The CID stated that the consent given by Cashalo’s users cannot be considered free, voluntary, and informed because data subjects have no choice but to allow access to its phone contact list to avail of OETC’s loan service.[^20]
+Accordingly, the CID alleged that the processing of the data subject’s information for debt collection violated Section 3(D)(4) of the [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 20-01]].[^18] It faulted OETC for having a Privacy Policy that was vague and ambiguous since it declared that any and all information of the data subject may be used for purposes, which included debt collection.[^19] The CID stated that the consent given by Cashalo’s users cannot be considered free, voluntary, and informed because data subjects have no choice but to allow access to its phone contact list to avail of OETC’s loan service.[^20]
 
 The CID further argued that OETC is liable for Section 25 of the DPA that deals with the unauthorized processing of personal information and sensitive personal information.[^21] It contended that:
 
@@ -517,7 +517,7 @@ legitimate purpose, and proportionality .79
 
 2021 , at pp 26-27 .
 
-Id., at p. 27. See [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]], rule VIII, § 4.
+Id., at p. 27. See [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-viii-decision|NPC Circular No. 2021-01, rule VIII, § 4]].
 
 Compliance dated 10 December 2021 of Oriente Express Techsystem Corporation, ¶ 2. Annex
 
@@ -687,7 +687,7 @@ NPC Circular No. 20-01.
 
 ### Discussion
 
-Under the DPA, the NPC has the obligation to ensure a personal
+Under the [[laws/data-privacy-act-of-2012|DPA]], the NPC has the obligation to ensure a personal
 
 information controller ’s compliance with the law 101 and institute
 
@@ -707,11 +707,11 @@ An Act Protecting Individual Personal Information in Information and Communicati
 
 Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy
 
-Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter
+Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter
 
-II, § 7(a) (2012).
+II, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|§ 7(a)]] (2012).
 
-Id. § 7(b). NPC SS 21-005
+Id. [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|§ 7(b)]]. NPC SS 21-005
 
 The NPC’s mandate is supported by the NPC Circular No. 2 021-01,
 
@@ -765,11 +765,9 @@ further explained by the Supreme Court in De Jesus v. Guerrero III :
 
 NPC Circular No. 2021-01, rule X, §§ 5-6.
 
-National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of
+National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]], rule III, § (e)(1) (2016) (IRR of the DPA) .
 
-2012, rule III, § (e)(1) (2016) (IRR of the DPA) .
-
-NPC Circular No. 2021-01, rule X, §§ 3-5. See In re: FCash Global Lending Inc ., Operating FastCash
+[[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-x-sua-sponte-investigation|NPC Circular No. 2021-01, rule X, §§ 3-5]]. See In re: FCash Global Lending Inc ., Operating FastCash
 
 Online Lending Application, [[resolutions/2019/npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application|NPC 19-909]], Resolution dated 28 April 2022.
 
@@ -779,9 +777,9 @@ Resolution dated 28 April 2022., at pp. 3-4.
 
 Id., at p. 4.
 
-See Data Privacy Act of 2012, , chapter II, § 7(b).
+See [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter II, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|§ 7(b)]].
 
-NPC Circular No. 2021-01, rule VIII, § 1.
+[[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-viii-decision|NPC Circular No. 2021-01, rule VIII, § 1]].
 
 Office of the Ombudsman v. Fetalvero, Jr., G.R. No. 211450, 23 July 2018. NPC SS 21-005
 
@@ -855,9 +853,7 @@ Id.
 
 Id., ¶ 90. NPC SS 21-005
 
-Under Rule IV, Section 18 of the Implementing Rules and
-
-Regulations of the DPA (IRR) , transparency is explained as follows:
+Under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Rule IV, Section 18 of the Implementing Rules and Regulations of the DPA (IRR)]] , transparency is explained as follows:
 
 a. Transparency. The data subject must be aware of the nature,
 
@@ -907,9 +903,7 @@ location data, even if the user denies the permission, the application
 
 would still proceed to function. 122 However, the user has the option
 
-National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of
-
-2012, rule I V, § 1 8(a) (2016).
+National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18(a)]] (2016).
 
 See Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation , Annex es
 
@@ -1107,7 +1101,7 @@ monitoring, payment, collection and other remedial
 
 measures. 136
 
-IRR of the DPA, § 18(b) . 2
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|IRR of the DPA, § 18(b)]] . 2
 
 Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation, p. 3.
 
@@ -1169,7 +1163,7 @@ given their consent freely. The CID failed to provide other proof or
 
 adequate reasoning of the users’ lack or impairment of consent.
 
-> related Transactions, NPC Circular 20-01 (14 September 2020).
+> related Transactions, [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular 20-01]] (14 September 2020).
 
 From the records, the Commission finds that OETC has sufficiently
 
@@ -1229,7 +1223,7 @@ Memorandum dated 17 May 2022 of Oriente Express Techsystem Corporation, ¶ 141 .
 
 Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation , ¶ 126.
 
-Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18(c). NPC SS 21-005
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, § 18(c)]]. NPC SS 21-005
 
 The proportionality principle is adhered to “ when the processing is
 
@@ -1289,7 +1283,7 @@ Inform ation and Sensitive Personal
 
 Information .
 
-In determining whether a violation of Section 25 of the DPA
+In determining whether a violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]]
 
 occurred, three elements must be established with substantial
 
@@ -1399,7 +1393,7 @@ Id. , ¶ 104.
 
 Id., ¶ 123.
 
-See Data Privacy Act of 2012, § 3( h).
+See [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3(h)]].
 
 Position Paper dated 23 July 2021 of Oriente Express Techsystem Corporation, Annexes “2” -
 
@@ -1409,9 +1403,9 @@ An Act Protecting Individual Personal Information in Information and Communicati
 
 Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy
 
-Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter
+Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter
 
-II, § 7 (2012). NPC SS 21-005
+II, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|§ 7]] (2012). NPC SS 21-005
 
 (a) The data subject has given his or her consent;
 
@@ -1552,7 +1546,7 @@ find that OETC violate d Section
 
 3(D)(4) of NPC Circular No. 20-01 .
 
-Section 3(D)(4) of NPC Circular No. 20-01 states:
+Section 3(D)(4) of [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 20-01]] states:
 
 SECTION 3. Guidelines. — The processing of personal data for
 
@@ -1602,7 +1596,7 @@ the CID claimed that this was a prohibited activ ity that violated the
 
 Circular .174
 
-NPC Circular 20-01, § 3(D)(4) (14 September 2020).
+[[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular 20-01, § 3(D)(4)]] (14 September 2020).
 
 Memorandum dated 16 May 2022 of the Complaints and Investigation Division, at p.5.
 
@@ -1699,7 +1693,7 @@ ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 National Privacy Commission
 
-[^1]: See National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission, NPC Circular No. 2021-01, rule I, § 4(p); rule X, §§ 4-5 (28 January 2021) (2021 NPC Rules of Procedure).
+[^1]: See National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission, NPC Circular No. 2021-01]], rule I, § 4(p); [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-x-sua-sponte-investigation|rule X, §§ 4-5]] (28 January 2021) (2021 NPC Rules of Procedure).
 
 [^2]: Fact-Finding Report (with Application for Issuance of Temporary Ban on the Processing of Personal Data) dated 09 June 2021 of the Complaints and Investigation Division, at p. 18. (Fact-Finding Report)
 

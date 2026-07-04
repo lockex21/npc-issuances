@@ -1,5 +1,10 @@
 ---
 title: "NPC Advisory Opinion No. 2017-064 — Registration of Data Processing Systems"
+aliases:
+  - "NPC Advisory Opinion No. 2017-064"
+  - "npc advisory opinion no. 2017-064"
+  - "Advisory Opinion No. 2017-064"
+  - "advisory opinion no. 2017-064"
 description: "Addresses questions on data submitted to NPC for registration purposes, liability for data breaches, self-incrimination concerns, outsourcing declarations, applicability to foreign nationals, and Privacy Impact Assessment requirements."
 tags:
   - issuance
@@ -35,7 +40,7 @@ The information submitted by Globe to the Commission for purposes of registratio
 
 The Senate and the House of Representatives pursuant to their respective Rules of Procedure Governing Inquiries in Aid of Legislation[^2] may issue subpoena ad testificandum and subpoena duces tecum. Thus, it is possible that if and when either house of Congress deems it necessary to issue a subpoena requiring the Commission to produce documents for an inquiry in aid of legislation that Globe's data may be included in the same. This being said, the Commission is also mandated to ensure at all times the confidentiality of any personal information that comes to its knowledge and possession.
 
-Note further, under Circular 17-01 on Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making:
+Note further, under [[issuances/undated/registration-of-data-processing-systems|Circular 17-01]] on Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making:
 
 > **RULE III.**
 > **REGISTRY OF DATA PROCESSING SYSTEMS**
@@ -58,7 +63,7 @@ To clarify, Globe as a personal information controller, is required to register 
 
 #### 5. Does the processing of personal information of foreign nationals living the Philippines fall under the Data Privacy Act?
 
-Yes, processing of personal information of foreign nationals living in the Philippines falls under the scope of the DPA.
+Yes, processing of personal information of foreign nationals living in the Philippines falls under the scope of the [[laws/data-privacy-act-of-2012|DPA]].
 
 [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] states that the law "applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing including those personal information controllers and processors who, although not found or established in the Philippines, use equipment that are located in the Philippines, or those who maintain an office, branch or agency in the Philippines."
 
@@ -66,11 +71,11 @@ Based on such provision, it is clear that personal information controllers and p
 
 #### 6. As discussed, please release a sample submission of a data processing system, the description of the system which is not too general but also not too specific.
 
-Please refer to NPC Circular 17-01 on Registration of Data Processing Systems and Notifications regarding automated decision-making.
+Please refer to [[issuances/undated/registration-of-data-processing-systems|NPC Circular 17-01]] on Registration of Data Processing Systems and Notifications regarding automated decision-making.
 
 #### 7. Given that there are no subsequent update yet on the Registration of the systems, is the September deadline still the hard deadline?
 
-Please refer to NPC Circular 17-01 on Registration of Data Processing Systems and Notifications regarding automated decision-making.
+Please refer to [[issuances/undated/registration-of-data-processing-systems|NPC Circular 17-01]] on Registration of Data Processing Systems and Notifications regarding automated decision-making.
 
 The Commission has decided to process the registrations in two (2) phases. Phase One registration deadline was September 9, 2017. The deadline for Phase II registration will be on March 8, 2018.
 
@@ -80,7 +85,7 @@ Based on [[laws/data-privacy-act-of-2012#section-20-security-of-personal-informa
 
 Due to such considerations which vary from entity to entity, sector to sector, the Commission is not prescribing a particular format for the PIA report. The NPC will not restrict and limit the evaluation and assessment of the entities by requiring a specific format depending on the size of the organization, given that the organizational structure is only one of the factors to be considered the assessment.
 
-You may wish to check the PIA template which the Commission has provided in its website. Lastly, you may also refer to ISO/IEC 29134 – Information technology -- Security techniques -- Guidelines for privacy impact assessment for further guidance. Furthermore, a copy of NPC Advisory 2017-01 on the Designation of Data Protection Officers is currently available and may be downloaded in the website of the NPC, www.privacy.gov.ph.
+You may wish to check the PIA template which the Commission has provided in its website. Lastly, you may also refer to ISO/IEC 29134 – Information technology -- Security techniques -- Guidelines for privacy impact assessment for further guidance. Furthermore, a copy of [[issuances/2017/designation-of-data-protection-officers|NPC Advisory 2017-01]] on the Designation of Data Protection Officers is currently available and may be downloaded in the website of the NPC, www.privacy.gov.ph.
 
 For your reference.
 

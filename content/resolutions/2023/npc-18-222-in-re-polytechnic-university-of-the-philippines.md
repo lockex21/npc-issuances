@@ -79,7 +79,7 @@ Whether PUP notified its data subjects and sufficiently addressed the breach and
 
 The Commission resolves to close the matter. PUP individually notified its affected data subjects, submitted sufficient proof of notification, and implemented security measures to prevent the recurrence of the breach. PUP sufficiently complied with the Commission’s Order dated 10 November 2022.
 
-It is the obligation of a Personal Information Controller (PIC), such as PUP, to ensure that it promptly notifies its affected data subjects of the breach.[^23] Section 18 (D) of NPC Circular 16-03 (Personal Data Breach Management) states:
+It is the obligation of a Personal Information Controller (PIC), such as PUP, to ensure that it promptly notifies its affected data subjects of the breach.[^23] Section 18 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]] states:
 
 Section 18. *Notification of Data Subjects*. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 
@@ -87,7 +87,7 @@ Section 18. *Notification of Data Subjects*. The personal information controller
 
 D. *Form*. **Notification of affected data subjects shall be done individually, using secure means of communication, whether written or electronic.** The personal information controller shall take the necessary steps to ensure the proper identity of the data subject being notified, and to safeguard against further unnecessary disclosure of personal data.[^24]
 
-Section 18 (C) of the NPC Circular 16-03 also provides the information required to be provided to data subjects:
+Section 18 (C) of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] also provides the information required to be provided to data subjects:
 
 Section 18. *Notification of Data Subjects*. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 
@@ -114,7 +114,7 @@ The notification sent by PUP sufficiently informs the affected data subjects of 
 
 Further, the notification enumerated the measures PUP took to address the breach and to reduce the harm or negative consequences of the breach.[^32] It enumerated PUP’s actions, such as cross-checking the email addresses listed in the Facebook post with the SIS database; placing prompt in its SIS informing students to change passwords and secure account; conducted an audit of the System Log; checking the SIS’ vulnerabilities; and securing and improving the security measures in the program.[^33] It also contained the contact information of PUP’s Data Protection Officer in case the affected data subjects should require further assistance.[^34]
 
-As part of a PIC’s data breach management, it should implement policies and procedures for managing security incidents, including data breaches, following Section 4 of NPC Circular 16-03.[^35] This includes ensuring implementation of organizational, physical, and technical security measures and data privacy policies intended to prevent or minimize the occurrence of a data breach and assure the timely discovery of a security incident:
+As part of a PIC’s data breach management, it should implement policies and procedures for managing security incidents, including data breaches, following Section 4 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].[^35] This includes ensuring implementation of organizational, physical, and technical security measures and data privacy policies intended to prevent or minimize the occurrence of a data breach and assure the timely discovery of a security incident:
 
 Section 4. *Security Incident Management Policy*. A personal information controller or personal information processor shall implement policies and procedures for the purpose of managing security incidents, including personal data breach. These policies and procedures must ensure:
 
@@ -182,7 +182,7 @@ GENERAL RECORDS UNIT
 [^20]: *Id.*
 [^21]: Compliance of PUP to Order dated 10 November 2022, 19 January 2023, Annex, *in In re: Polytechnic University of the Philippines, NPC BN 18-222* (NPC 2023).
 [^22]: *Id.*
-[^23]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
+[^23]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 03, Series of 2016]] [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
 [^24]: *Id.* § 18 (D). Emphasis supplied.
 [^25]: *Id.* § 18 (C).
 [^26]: Compliance of PUP to Order dated 10 November 2022, 19 January 2023, Annex, *in In re: Polytechnic University of the Philippines, NPC BN 18-222* (NPC 2023).
@@ -194,7 +194,7 @@ GENERAL RECORDS UNIT
 [^32]: Compliance of PUP to Order dated 10 November 2022, 19 January 2023, Annex, *in In re: Polytechnic University of the Philippines, NPC BN 18-222* (NPC 2023).
 [^33]: *Id.*
 [^34]: *Id.*
-[^35]: NPC Circ. No. 16-03, § 4.
+[^35]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 4.
 [^36]: *Id.* § 4 (B).
 [^37]: Final Breach Notification Evaluation Report, 14 October 2022, at 8, *in In re: Polytechnic University of the Philippines, NPC BN 18-222* (NPC 2022).
 [^38]: Compliance of PUP to Order dated 10 November 2022, 19 January 2023, Annex, *in In re: Polytechnic University of the Philippines, NPC BN 18-222* (NPC 2023).

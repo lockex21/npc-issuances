@@ -51,7 +51,7 @@ We understand that both NHMFC and SHFC plans to securitize receivables from vari
 
 We also understand there must be prior approval by the Securities and Exchange Commission (SEC) of the respective securitization plans before the securities can be issued. And to prepare and complete such plans, both GOCCs will be assisted by transaction advisors who will be conducting due diligence and reviewing all the executed loan documents which include the processing of PI and SPI of the individual borrowers/member beneficiaries. These are required pursuant to the relevant provisions of Republic Act No. 9267 or the Securitization Act of 2004.[^6]
 
-It is evident that the preparation and implementation of the securitization plans would entail processing of personal data and should comply with any of the various criteria for lawful processing under the DPA, specifically under Sections 12 or 13 of the law.
+It is evident that the preparation and implementation of the securitization plans would entail processing of personal data and should comply with any of the various criteria for lawful processing under the DPA, specifically under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the law.
 
 For processing personal and sensitive personal information, this may be done pursuant to the applicable provisions Section 12 and 13, to wit:
 
@@ -75,7 +75,7 @@ Finally, we would like to reiterate that while a government agency may collect a
 
 The NHMFC and SHFC, as personal information controllers, are duty-bound to comply with the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and other relevant issuances of the National Privacy Commission, including the implementation of security measures.
 
-For this purpose, the transaction advisors and personnel who will be engaged and authorized by both GOCCs to process personal data in the conduct of due diligence and in preparing the securitization plan may be required to sign a non-disclosure agreement or similar contract to ensure confidentiality and to prevent any unauthorized processing of the collected personal data. Please refer also to Sections 43-45 of the IRR of the DPA on guidance for outsourcing and subcontracting agreements.
+For this purpose, the transaction advisors and personnel who will be engaged and authorized by both GOCCs to process personal data in the conduct of due diligence and in preparing the securitization plan may be required to sign a non-disclosure agreement or similar contract to ensure confidentiality and to prevent any unauthorized processing of the collected personal data. Please refer also to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-43-subcontract-of-personal-data|Sections 43]]-[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-45-duty-of-personal-information-processor|45]] of the IRR of the DPA on guidance for outsourcing and subcontracting agreements.
 
 This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
@@ -86,9 +86,9 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: Creating A National Home Mortgage Finance Corporation Defining its Powers and Functions and for Other Purposes, Presidential Decree No. 1267 [PD No. 1267] (December 21, 1977).
 [^4]: Identifying the Government Agencies Essential for the National Shelter Program and Defining Their Mandates, Creating the Housing and Urban Development Coordinating Council, Rationalizing Funding Sources and Lending Mechanisms for Home Mortgages and for Other Purposes, Executive Order No. 90, [EO No. 90] (December 17, 1986).
 [^5]: Executive Order No. 272, Authorizing The Creation Of The Social Housing Finance Corporation And Directing The Transfer Of The Community Mortgage Program, Abot-Kaya Pabahay Fund Program, And Other Social Housing Powers And Functions Of The National Home Mortgage Finance Corporation To The Social Housing Finance Corporation (20 January 2004).
 [^6]: An Act Providing The Regulatory Framework For Securitization And Granting For The Purpose Exemptions From The Operation Of Certain Laws [The Securitization Act of 2004], Republic Act No. 9267 (2004).
-[^7]: See: NPC Advisory Opinion No. 2018-02 (15 January 2018).
+[^7]: See: [[advisory-opinions/2018/advisory-opinion-no-2018-002-npc-advisory-opinion-no-2018-002|NPC Advisory Opinion No. 2018-02]] (15 January 2018).

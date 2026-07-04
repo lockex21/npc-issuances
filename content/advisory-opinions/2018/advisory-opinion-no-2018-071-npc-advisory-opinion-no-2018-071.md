@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-071"
+  - "npc advisory opinion no. 2018-071"
+  - "Advisory Opinion No. 2018-071"
+  - "advisory opinion no. 2018-071"
 ---
 
 ## Source
@@ -23,7 +28,7 @@ RE: DISCLOSURE OF SCHOOL RECORDS FOR INVESTIGATION PURPOSES
 
 Dear [Redacted],
 
-We write in response to your letter which sought clarification on whether the disclosure of school records for investigation purposes of the National Bureau of Investigation (NBI) is in accordance with Data Privacy Act of 2012 (DPA),[^1] its Implementing Rules and Regulations (IRR) and relevant issuances of the National Privacy Commission (NPC).
+We write in response to your letter which sought clarification on whether the disclosure of school records for investigation purposes of the National Bureau of Investigation (NBI) is in accordance with [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA),[^1] its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and relevant issuances of the National Privacy Commission (NPC).
 
 ### Discussion
 
@@ -80,10 +85,10 @@ Officer-in-Charge and
 Deputy Privacy Commissioner
 for Policies and Planning
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
 [^2]: An Act Providing for the Establishment and Maintenance of an Integrated System of Education [Education Act of 1982], Batas Pambansa Blg. 232 (11 September 1982).
 [^3]: *Id.* § 9 (4).
-[^4]: Data Privacy Act of 2012, § 3 (l).
+[^4]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]].
 [^5]: An Act Reorganizing And Modernizing The National Bureau Of Investigation (NBI) And Providing Funds Therefor [NBI Reorganization and Modernization Act], Republic Act No. 10867, § 3 (2016).
 [^6]: An Act Defining the Crime of Child Pornography, Prescribing Penalties Therefor and For Other Purposes [Anti-Child Pornography Act Of 2009] Republic Act No. 9775, § 20 (2009).
 [^7]: An Act Instituting the Comprehensive Dangerous Drugs Act of 2002, Repealing Republic Act No. 6425, Otherwise known as the Dangerous Drugs Act of 1972, as Amended, Providing Funds Therefor, and for Other Purposes [Comprehensive Dangerous Drugs Act Of 2002] Republic Act No. 9165 (2002).

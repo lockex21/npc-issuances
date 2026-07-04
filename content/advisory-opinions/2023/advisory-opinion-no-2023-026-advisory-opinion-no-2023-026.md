@@ -8,6 +8,11 @@ tags:
   - topic/data-sharing
   - topic/employment
   - topic/security
+aliases:
+  - "NPC Advisory Opinion No. 2023-026"
+  - "npc advisory opinion no. 2023-026"
+  - "Advisory Opinion No. 2023-026"
+  - "advisory opinion no. 2023-026"
 draft: false
 ---
 
@@ -33,7 +38,7 @@ Under the Project, the IT-BPO Companies will provide data points on concerned em
 
 As the custodian of information, CIBI undertakes to limit the access to the database to only a select group of individuals within the organization. These individuals will only release information to requesting members while following the best practices to protect data. Additionally, only CIBI members who contribute data will be granted access to the information.
 
-Your also mentioned that CIBI will establish the following safeguards and features in the implementation of the Employee Fraud Database to comply with the Data Privacy Act of 2012 (DPA):
+Your also mentioned that CIBI will establish the following safeguards and features in the implementation of the Employee Fraud Database to comply with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA):
 
 a) Every data point submitted by the members will be owned by them, not by CIBI;
 b) CIBI will only store information in the cloud with all the required security measures following the SOC 2 standards which covers implementation of encryption and data security;
@@ -64,9 +69,9 @@ It must be noted that the data set intended to be shared includes sensitive pers
 >
 > (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.[^3] (Underscoring supplied)
 
-In BGM v. IPP, the National Privacy Commission (NPC) explained the nature of processing pursuant to Section 13(f):
+In [[decisions/2020/19-653-bgm-vs-ipp|BGM v. IPP]], the National Privacy Commission (NPC) explained the nature of processing pursuant to Section 13(f):
 
-> In the case of NPC 17-018 dated 15 July 2019, this Commission held that "processing as necessary for the establishment of legal claims" does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of "establishment ... of legal claims" presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established."
+> In the case of [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]] dated 15 July 2019, this Commission held that "processing as necessary for the establishment of legal claims" does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of "establishment ... of legal claims" presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established."
 >
 > This Commission in the same case went on further and held that: The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is "necessary" or may or may not be collected by lawyers for purposes of building a case, applying the qualifier "necessary" to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of "establishment of legal claims" consistent with the general principles of legitimate purpose and proportionality. As regards legitimate purpose, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.
 >
@@ -119,26 +124,26 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3 (l) (2) (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l) (2)]] (2012).
 
-[^3]: Data Privacy Act of 2012, § 13(f).
+[^3]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13(f)]].
 
 [^4]: National Privacy Commission, BGM v. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020).
 
-[^5]: National Privacy Commission, Advisory Opinion No. 2017-063 (Oct. 9, 2017) citing Article 29 of Directive 95/46/EC "Working document on Blacklists", Adopted on 3 October 2002 available at https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2002/wp65_en.pdf
+[^5]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-063-npc-advisoryopinionno-2017-063|Advisory Opinion No. 2017-063]] (Oct. 9, 2017) citing Article 29 of Directive 95/46/EC "Working document on Blacklists", Adopted on 3 October 2002 available at https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2002/wp65_en.pdf
 
-[^6]: Data Privacy Act of 2012, § 11 (a).
+[^6]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11 (a)]].
 
-[^7]: Id. § 11 (c).
+[^7]: Id. [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11 (c)]].
 
 [^8]: Ibid.
 
 [^9]: Id.
 
-[^10]: Implementing Rules and Regulations of Republic Act No. 10173, known as the "Data Privacy Act of 2012" [Implementing Rules and Regulations of Data Privacy Act of 2012] (2016).
+[^10]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of Republic Act No. 10173, known as the "Data Privacy Act of 2012"]] [Implementing Rules and Regulations of Data Privacy Act of 2012] (2016).
 
-[^11]: Data Privacy Act of 2012, § 20 (c) (4).
+[^11]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (c) (4)]].
 
-[^12]: Id. § 20 (c).
+[^12]: Id. [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (c)]].
 
 [^13]: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]], Guidelines on Privacy Impact Assessment, 31 July 2017.

@@ -77,13 +77,13 @@ Based on the CID’s assessment dated 12 October 2022, I-Remit implemented reaso
 
 ### Issue
 
-Whether I-Remit conducted proper breach management, including the implementation of reasonable and appropriate security measures pursuant to NPC Circular 16-03 (Personal Data Breach Management).
+Whether I-Remit conducted proper breach management, including the implementation of reasonable and appropriate security measures pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).
 
 ### Discussion
 
 The Commission finds that I-Remit conducted proper breach management and implemented reasonable and appropriate security measures in addressing the breach. The Commission resolves to close the case.
 
-I-Remit enumerated in its submissions the measures it took to address the breach following Section 17 (D) (3) of NPC Circular 16-03:
+I-Remit enumerated in its submissions the measures it took to address the breach following Section 17 (D) (3) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]:
 
 > Section 17. *Notification of the Commission*. The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 
@@ -177,7 +177,7 @@ National Privacy Commission
 [^17]: Report, 31 January 2022, at 1, in *In re: I-Remit, Inc.*, NPC BN 18-115 (NPC 2018).
 [^18]: Compliance, 04 February 2022 at 1, in *In re: I-Remit, Inc.*, NPC BN 18-115 (NPC 2018).
 [^19]: Final Breach Notification Evaluation Report, 12 October 2022, at 6, in *In re: I-Remit, Inc.*, NPC BN 18-115 (NPC 2018).
-[^20]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], §17 (D)(3) (15 December 2016).
+[^20]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 3, Series of 2016]] [NPC Circ. No. 16-03], §17 (D)(3) (15 December 2016).
 [^21]: Report, 23 October 2020, at 3, in *In re: I-Remit, Inc.*, NPC BN 18-115 (NPC 2018).
 [^22]: *Id.*
 [^23]: Report, 23 October 2020, at 3, in *In re: I-Remit, Inc.*, NPC BN 18-115 (NPC 2018).
@@ -196,4 +196,4 @@ National Privacy Commission
 [^36]: *Id.*
 [^37]: *Id.*
 [^38]: Report, 23 October 2020, at 4, in *In re: I-Remit, Inc.*, NPC BN 18-115 (NPC 2018).
-[^39]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule VI, § 25 (2016).
+[^39]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, rule VI, § 25 (2016).

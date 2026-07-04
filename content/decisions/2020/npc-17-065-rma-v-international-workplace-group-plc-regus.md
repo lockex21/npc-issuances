@@ -53,7 +53,7 @@ I’m working for International Workplace Group PLC (Regus) as an IT Network Con
 
 On 28 February 2018, the National Privacy Commission (Commission), through the CID, issued an Order to Confer for Discovery that ordered both parties to appear before the Commission on 27 March 2018. The Order stated thus:
 
-Pursuant to Section 13 of Circular 16-04 of the National Privacy Commission, the Parties shall discuss whether discovery of information and of electronically stored information will be sought; issues relating to preservation of information; period to produce the information; method of asserting and preserving claims of privilege information, confidentiality, and proprietary status of information; appropriateness of allocating expenses of production of information; and any other issue relating thereto.[^2]
+Pursuant to Section 13 of [[issuances/undated/rules-of-procedure|Circular 16-04]] of the National Privacy Commission, the Parties shall discuss whether discovery of information and of electronically stored information will be sought; issues relating to preservation of information; period to produce the information; method of asserting and preserving claims of privilege information, confidentiality, and proprietary status of information; appropriateness of allocating expenses of production of information; and any other issue relating thereto.[^2]
 
 Only the representatives from the respondent appeared on 27 March 2018.[^3] Complainant having failed to attend the Conference, the presiding officer proceeded to discuss with the respondent the purpose of the hearing. It was agreed that the respondent would file a comment with their internal policy and the privacy policy attached in the Comment.[^4]
 

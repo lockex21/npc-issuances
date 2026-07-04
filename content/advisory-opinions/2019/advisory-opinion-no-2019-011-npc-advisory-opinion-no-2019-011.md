@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2019
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-011"
+  - "npc advisory opinion no. 2019-011"
+  - "Advisory Opinion No. 2019-011"
+  - "advisory opinion no. 2019-011"
 ---
 
 ## Source
@@ -23,7 +28,7 @@ Re: INSPECTION OF CORPORATE RECORDS CONCERNING AN INDIVIDUAL
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion on the interpretation of the provisions of the Data Privacy Act of 2012[^2] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^3] in relation to Section 74 of the Corporation Code of the Philippines (Corporation Code), specifically the following:
+We write in response to your request for an advisory opinion on the interpretation of the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^3] in relation to Section 74 of the Corporation Code of the Philippines (Corporation Code), specifically the following:
 
 1. Whether case files involving a member of a corporation constitute personal information or sensitive personal information under the DPA; and
 2. Whether the disclosure of the case files to inspecting members of a corporation would constitute lawful processing under the DPA or unlawful disclosure giving rise to liability under the DPA.
@@ -32,7 +37,7 @@ We write in response to your request for an advisory opinion on the interpretati
 
 #### Scope of the DPA; Personal Information; Sensitive Personal Information
 
-The DPA applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.
+The [[laws/data-privacy-act-of-2012|DPA]] applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.
 
 As defined in [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(g) of the DPA]], personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 
@@ -48,7 +53,7 @@ The provision clearly states that information pertaining to any: (1) proceeding 
 
 It then covers any of the three (3) items involving a data subject, not limited to court proceedings.
 
-The omission of the term *judicial* to specify the type of proceeding under Section 3(l) of the DPA reflected the view of the legislators not to limit the scope of proceedings to judicial proceedings. Thus, case files of every data subject, in all types of proceedings, shall be provided a higher degree of protection "as the context of their processing could create significant risks to the fundamental rights and freedoms."[^6]
+The omission of the term *judicial* to specify the type of proceeding under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]] reflected the view of the legislators not to limit the scope of proceedings to judicial proceedings. Thus, case files of every data subject, in all types of proceedings, shall be provided a higher degree of protection "as the context of their processing could create significant risks to the fundamental rights and freedoms."[^6]
 
 Case files, whether judicial or non-judicial in nature, may contain evidence in the form of affidavits, photographs, confidential documents, or objects that may endanger an individual, cause undue prejudice or cloud judgement that will violate the rights and interests of the data subject/s involved.
 
@@ -64,7 +69,7 @@ Hence, the protection of case files, which includes not only the resolution but 
 
 #### Lawful Processing of Sensitive Personal Information; Section 74 of the Corporation Code
 
-The DPA generally prohibits the processing of sensitive personal and privileged information, except in the following cases in Section 13:
+The DPA generally prohibits the processing of sensitive personal and privileged information, except in the following cases in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]]:
 
 a. The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing;
 
@@ -117,7 +122,7 @@ Privacy Commissioner and Chairman
 [^1]: Tags: scope, personal information, sensitive personal information, lawful processing, Corporation Code, inspection of corporate books and records
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-[^4]: Data Privacy Act of 2012, § 3 (l).
+[^4]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]].
 [^5]: Microsoft Corporation v. Rolando D. Manansala and/or Mel Manansala, G.R No. 166391 (21 October 2015).
 [^6]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Recital 51 (4 May 2016).
 [^7]: Supreme Court En Banc Resolution (14 February 2012).

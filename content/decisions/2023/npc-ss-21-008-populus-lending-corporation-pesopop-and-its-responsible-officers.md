@@ -59,7 +59,7 @@ AGUIRRE, D.P.C.;
 
 Before this Commission is a Fact-Finding Report with Application for the Issuance of a Temporary Ban on the Processing of Personal Data (FFR) dated 10 June 2021 against Populus Lending Corporation (Pesopop), the operator of the online lending application, Pesopop, and its responsible officers.
 
-The Complaints and Investigation Division (CID) of the National Privacy Commission (NPC), pursuant to its power to conduct *sua sponte* investigations, filed an FFR against Pesopop. The FFR alleged that Pesopop committed violations of Sections 11, 16, and 25 of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) and Section 3(D)(4) of NPC Circular 20-01 or the Guidelines on the Processing of Personal Data for Loan-Related Transactions (Loan-Related Transactions Circular).[^1] This concludes the *sua sponte* investigation conducted by the NPC.
+The Complaints and Investigation Division (CID) of the National Privacy Commission (NPC), pursuant to its power to conduct *sua sponte* investigations, filed an FFR against Pesopop. The FFR alleged that Pesopop committed violations of [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Sections 11]], [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|16]], and [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|25]] of Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and Section 3(D)(4) of NPC Circular 20-01 or the [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions]] (Loan-Related Transactions Circular).[^1] This concludes the *sua sponte* investigation conducted by the NPC.
 
 ### Facts
 
@@ -440,15 +440,15 @@ Given all these, despite the changes to its app and Privacy Policy, Pesopop stil
 
 ### Issue
 
-Whether Pesopop's violation of the DPA warrants a recommendation for prosecution and whether the responsible officers of Pesopop are liable under Section 34 of the DPA.
+Whether Pesopop's violation of the [[laws/data-privacy-act-of-2012|DPA]] warrants a recommendation for prosecution and whether the responsible officers of Pesopop are liable under [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the DPA]].
 
 ### Discussion
 
 #### On Pesopop's Violation of the DPA and Recommendation for Prosecution
 
-Having established that Pesopop committed Unauthorized Processing before and during the effectivity of the temporary ban, the Commission proceeds to determine whether Pesopop's Board of Directors and corporate officers are liable based on Section 34 of the DPA.
+Having established that Pesopop committed Unauthorized Processing before and during the effectivity of the temporary ban, the Commission proceeds to determine whether Pesopop's Board of Directors and corporate officers are liable based on [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the DPA]].
 
-The DPA imposes criminal penalties on specific offenses, which are imposed by courts of law after the conduct of a criminal trial.[^173] Upon finding of a violation, the Commission may recommend to the Department of Justice the prosecution and imposition of penalties on the violations enumerated under the DPA.[^174] These unlawful acts provided in Sections 25 to 32 are unauthorized processing of personal or sensitive personal information, processing personal or sensitive personal information for unauthorized purposes, accessing of personal or sensitive personal information, unauthorized access or intentional breach, improper disposal of personal or sensitive personal information, concealment of security breaches involving sensitive personal information, malicious disclosure, and unauthorized disclosure.[^175] If the PIC or Personal Information Processor (PIP) is a juridical person, then the penalties are imposed on its responsible officers.[^176]
+The [[laws/data-privacy-act-of-2012|DPA]] imposes criminal penalties on specific offenses, which are imposed by courts of law after the conduct of a criminal trial.[^173] Upon finding of a violation, the Commission may recommend to the Department of Justice the prosecution and imposition of penalties on the violations enumerated under the DPA.[^174] These unlawful acts provided in Sections 25 to 32 are unauthorized processing of personal or sensitive personal information, processing personal or sensitive personal information for unauthorized purposes, accessing of personal or sensitive personal information, unauthorized access or intentional breach, improper disposal of personal or sensitive personal information, concealment of security breaches involving sensitive personal information, malicious disclosure, and unauthorized disclosure.[^175] If the PIC or Personal Information Processor (PIP) is a juridical person, then the penalties are imposed on its responsible officers.[^176]
 
 Corporations and other juridical entities cannot be prosecuted for crimes under Philippine law.[^177] It is an established principle in criminal law that:
 
@@ -888,13 +888,13 @@ National Privacy Commission
 
 [^172]: *Id.*
 
-[^173]: Data Privacy Act of 2012, §§ 25-37.
+[^173]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|§§ 25]]-[[laws/data-privacy-act-of-2012#section-37-restitution|37]].
 
-[^174]: *Id.* § 7 (i).
+[^174]: *Id.* [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|§ 7 (i)]].
 
-[^175]: *Id.* §§ 23-32.
+[^175]: *Id.* [[laws/data-privacy-act-of-2012#section-23-requirements-relating-to-access-by-agency-personnel-to-sensitive-personal-information|§§ 23]]-[[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]].
 
-[^176]: *Id.* § 34.
+[^176]: *Id.* [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|§ 34]].
 
 [^177]: See *People v. Tan Boon Kong*, G.R. L-35262 (1930).
 
@@ -906,7 +906,7 @@ National Privacy Commission
 
 [^181]: *People v. Tan Boon Kong*, G.R. L-35262 (1930).
 
-[^182]: *In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers*, NPC SS 21-006, at 40.
+[^182]: *In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers*, [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006]], at 40.
 
 [^183]: *Id.*
 
@@ -920,15 +920,15 @@ National Privacy Commission
 
 [^188]: *Id.*
 
-[^189]: Data Privacy Act of 2012, § 34.
+[^189]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|§ 34]].
 
-[^190]: *In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers*, NPC SS 21-006, at 41.
+[^190]: *In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers*, [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006]], at 41.
 
 [^191]: *Id.*
 
 [^192]: *Id.* at 43-44. Emphasis supplied.
 
-[^193]: See *Revised Corporation Code*, § 171; *Data Privacy Act of 2012*, § 34.
+[^193]: See *Revised Corporation Code*, § 171; *[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]*, [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|§ 34]].
 
 [^194]: Notice of Entry of Appearance with Motion for Reconsideration, 03 September 2021, at 5, *in In re: Populus Lending Corporation and its Responsible Officers*, NPC SS 21-008 (NPC 2021).
 
@@ -944,6 +944,6 @@ National Privacy Commission
 
 [^200]: *Fernandez v. Office of the Ombudsman*, G.R. No. 193983, 14 March 2012. Emphasis supplied.
 
-[^201]: KGR v. BB, et. al., CID 18-E-040, 12 May 2020, at 5, *available at* https://privacy.gov.ph/wp-content/uploads/2023/05/CID-18-E-040-KGR-v.-BB-et-al.-Decision-2020.05.12.pdf (last accessed 04 December 2023)
+[^201]: KGR v. BB, et. al., [[decisions/2020/cid-18-e-040-kgr-v-bb-et-al|CID 18-E-040]], 12 May 2020, at 5, *available at* https://privacy.gov.ph/wp-content/uploads/2023/05/CID-18-E-040-KGR-v.-BB-et-al.-Decision-2020.05.12.pdf (last accessed 04 December 2023)
 
 [^202]: *Id.*

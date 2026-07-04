@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2020
   - topic/cctv-surveillance
+aliases:
+  - "NPC Advisory Opinion No. 2020-001"
+  - "npc advisory opinion no. 2020-001"
+  - "Advisory Opinion No. 2020-001"
+  - "advisory opinion no. 2020-001"
 draft: false
 ---
 
@@ -23,7 +28,7 @@ Re: USE OF BODY-WORN CAMERA PURSUANT TO A PEA TOLLWAY CORPORATION POLICY
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion which sought guidance regarding the applicability of the provisions of the Data Privacy Act of 2012[^1] (DPA) to the Memorandum dated 5 August 2019 and Policy and Procedure for the Use of Body Worn Camera (BWC) (Policy) dated 9 July 2019, issued by the PEA Tollway Corporation (PEATC).
+We write in response to your request for an advisory opinion which sought guidance regarding the applicability of the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) to the Memorandum dated 5 August 2019 and Policy and Procedure for the Use of Body Worn Camera (BWC) (Policy) dated 9 July 2019, issued by the PEA Tollway Corporation (PEATC).
 
 Specifically, you requested for clarification on the following:
 
@@ -79,7 +84,7 @@ from both the Patrol/Traffic Officers and the data subjects.
 
 Lastly, the PEATC and its Patrol/Traffic Officers are mandated under the DPA to uphold the
 rights of data subjects and implement reasonable and appropriate security measures for the
-protection of the personal data collected against unauthorized processing. Refer to NPC Circular No. 2016-01 - Security of Personal Data in Government Agencies for further details.
+protection of the personal data collected against unauthorized processing. Refer to [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 2016-01]] - Security of Personal Data in Government Agencies for further details.
 
 This opinion is rendered based on the information you have provided. Additional information
 may change the context of the inquiry and the appreciation of the facts.
@@ -95,7 +100,7 @@ Privacy Commissioner and Chairman
 [^3]: PEATC official website, About PEATC, available at http://peatc.gov.ph/about-us/about-peatc (last accessed Jan. 30, 2020).
 [^4]: Authorizing the Establishment of Toll Facilities on Public Improvements, Creating a Board for the Regulation Thereof, and for Other Purposes [Toll Operation Decree of 1977], Presidential Decree No. 1112, § 3 (e) (1977).
 [^5]: *Ibid.*
-[^6]: Data Privacy Act of 2012, § 20 (c).
-[^7]: *Id.* § 12 (c).
-[^8]: *Id.* § 12 (f).
-[^9]: *Id.* § 13 (b).
+[^6]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], § 20 (c).
+[^7]: *Id.* [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]] (c).
+[^8]: *Id.* [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]] (f).
+[^9]: *Id.* [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]] (b).

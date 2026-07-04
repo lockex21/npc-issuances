@@ -62,7 +62,7 @@ From the time the Cease and Desist Order was first served to the Respondents, th
 
 From the above, it can be concluded that Lisensya.Info is no longer easily accessible to the general public.
 
-Section 12 of NPC Circular 20-02 or the "Rules on the Issuance of Cease and Desist Order" provides:
+Section 12 of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular 20-02]] or the "Rules on the Issuance of Cease and Desist Order" provides:
 
 > Section 12. Decision on the Issued CDO. – If after giving the Adverse Party the opportunity to be heard, it appears that the applicant is entitled to have the act or practice enjoined and that there is a need for the extension of the issued CDO, the Commission shall extend its effectivity, otherwise, the same shall be lifted.
 >
@@ -88,7 +88,7 @@ Section 12 of NPC Circular 20-02 provides:
 
 WHEREFORE, premises considered, the Cease and Desist Order dated 12 November 2020 issued against Lisensya.Info and its owner/operator, JOSE MINAO, BILLY JAMES JIMENA and other responsible officers is hereby extended until modified or lifted by the Commission upon showing that the factual or legal basis for which it was issued no longer exists.
 
-The Enforcement Division of NPC is hereby ordered to submit the necessary compliance report within the time prescribed in NPC Circular 20-02 for monitoring purposes on the enforcement action on Lisensya.Info and its owner/operator.
+The Enforcement Division of NPC is hereby ordered to submit the necessary compliance report within the time prescribed in [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular 20-02]] for monitoring purposes on the enforcement action on Lisensya.Info and its owner/operator.
 
 **SO ORDERED.**
 

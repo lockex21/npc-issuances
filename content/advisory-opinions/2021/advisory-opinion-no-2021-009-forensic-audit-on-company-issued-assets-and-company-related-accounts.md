@@ -7,6 +7,11 @@ tags:
   - "year/2021"
   - "topic/data-subject-rights"
   - "topic/employment"
+aliases:
+  - "NPC Advisory Opinion No. 2021-009"
+  - "npc advisory opinion no. 2021-009"
+  - "Advisory Opinion No. 2021-009"
+  - "advisory opinion no. 2021-009"
 draft: false
 ---
 
@@ -25,7 +30,7 @@ Re: FORENSIC AUDIT ON COMPANY-ISSUED ASSETS AND COMPANY-RELATED ACCOUNTS
 
 Dear [Redacted],
 
-We write in response to your email received by the National Privacy Commission (NPC) which sought to clarify whether the conduct of a forensic audit on company-issued assets and company-related accounts will have any negative implications or non-compliance with the Data Privacy Act of 2012[^2] (DPA) and if there are any specific guidelines for such audits.
+We write in response to your email received by the National Privacy Commission (NPC) which sought to clarify whether the conduct of a forensic audit on company-issued assets and company-related accounts will have any negative implications or non-compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) and if there are any specific guidelines for such audits.
 
 We understand that the internal audit team of your company is planning to perform a forensic audit on company-issued assets such as laptops and mobile phones, and company-related accounts and accesses such as email addresses, WiFi access, browsing and download history, among others. The purpose of such forensic audit is to ensure that no confidential company information is disclosed to third parties and that the use of company-issued assets shall not cause any type of company information breach.
 

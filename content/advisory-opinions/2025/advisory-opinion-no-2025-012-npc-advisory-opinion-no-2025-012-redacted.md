@@ -7,6 +7,11 @@ tags:
   - "year/2025"
   - "topic/legitimate-interest"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-012"
+  - "npc advisory opinion no. 2025-012"
+  - "Advisory Opinion No. 2025-012"
+  - "advisory opinion no. 2025-012"
 ---
 
 ## Source
@@ -23,7 +28,7 @@ Re: REQUEST AND DISCLOSURE OF PERSONAL DATA FROM THE REGISTRY OF DEEDS
 
 Dear [Redacted],
 
-We respond to your request for guidance on the legality of obtaining personal information from the Registry of Deeds of Antipolo City, Rizal, specifically, the names and pertinent details of the individuals who caused the registration of the instruments affecting the real properties of your deceased parents, in line with Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).
+We respond to your request for guidance on the legality of obtaining personal information from the Registry of Deeds of Antipolo City, Rizal, specifically, the names and pertinent details of the individuals who caused the registration of the instruments affecting the real properties of your deceased parents, in line with [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).
 
 In your letter, you state that the subject properties covered by Transfer Certificate of Title (TCT) Nos. [Redacted] were previously owned by your parents, [Redacted]. You have indicated that the TCTs' Memorandum of Encumbrances reflect several register instruments including among others: (1) Affidavits of Loss and Non-Loss; (2) Certificates Authorizing Registration (CARs) issued by the Bureau of Internal Revenue (BIR); (3) Deeds of Sale; and a (4) Special Power of Attorney.
 
@@ -35,7 +40,7 @@ In their reply, the Registry of Deeds denied your request, citing its ministeria
 
 #### Establishment, Exercise or Defense of Legal Claims; Secs. 12 (f), 13(f), DPA
 
-Under Sections 12 and 13 of the DPA, personal information and sensitive personal information (collectively referred to as "personal data") may be processed when the same meets the criteria, to wit:
+Under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, personal information and sensitive personal information (collectively referred to as "personal data") may be processed when the same meets the criteria, to wit:
 
 > SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -65,7 +70,7 @@ The National Privacy Commission (NPC) clarified in NPC Advisory No. 2024-023 tha
 >
 > A. Processing personal information that is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings or necessary for the establishment, exercise, or defense of legal claims may be considered as legitimate interest under Section 12 (f) of the DPA. As such, Section 13 (f) in relation to Section 12 (f) of the DPA may be a lawful basis for processing personal information for this purpose.
 >
-> B. The PIC must fulfill the requisites for processing based on legitimate interest in NPC Circular 2023-07 or the Guidelines on Legitimate Interest.
+> B. The PIC must fulfill the requisites for processing based on legitimate interest in [[issuances/2023/guidelines-on-legitimate-interest|NPC Circular 2023-07]] or the Guidelines on Legitimate Interest.
 
 We wish to clarify that the processing based on Sections 12(f) and 13(f) may be conducted even during stages preparatory to a case. It does not require that there be an existing proceeding before an administrative agency, court, or other tribunal. Neither is it required that a filing of an actual case is subsequently made.
 

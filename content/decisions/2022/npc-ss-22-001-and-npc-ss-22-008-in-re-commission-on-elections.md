@@ -47,7 +47,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission is a sua sponte initiated case by the Complaints and Investigation Division (CID) of the National Privacy Commission (NPC) against the Commission on Elections (COMELEC), Smartmatic Group of Companies (Smartmatic), RVA, WS, and other John Does and Jane Does for an alleged violation of Section 29 and Section 30 of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a sua sponte initiated case by the Complaints and Investigation Division (CID) of the National Privacy Commission (NPC) against the Commission on Elections (COMELEC), Smartmatic Group of Companies (Smartmatic), RVA, WS, and other John Does and Jane Does for an alleged violation of [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Section 29]] and [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Section 30]] of Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -211,7 +211,7 @@ Although Section 30 of the DPA penalizes the concealment or failure to notify th
 >
 > (f) The personal information controller shall promptly notify the Commission and affected data subjects *when sensitive personal information or other information that may, under the circumstances, be used to enable identity fraud are reasonably believed to have been acquired by an unauthorized person, and the personal information controller or the Commission believes that such unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject*. The notification shall at least describe the nature of the breach, the sensitive personal information possibly involved, and the measures taken by the entity to address the breach. Notification may be delayed only to the extent necessary to determine the scope of the breach, to prevent further disclosures, or to restore reasonable integrity to the information and communications system.[^118]
 
-In relation to Section 20 (f) of the DPA, Section 11 of NPC Circular 16-03 (Personal Data Breach Management) discusses the parameters of mandatory breach notification:
+In relation to Section 20 (f) of the DPA, Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]] discusses the parameters of mandatory breach notification:
 
 > Section 11. *When notification is required*. Notification shall be required upon knowledge of, or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 >
@@ -455,7 +455,7 @@ National Privacy Commission
 [^62]: *Id*.
 [^63]: *Id*.
 [^64]: Consolidated Fact-Finding Report, Complaints and Investigation Division, 05 April 2022, in In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, NPC SS 22-001 and NPC SS 22-008 (NPC 2022).
-[^65]: See National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], rule X, §§ 5-6 (28 January 2021).
+[^65]: See National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-x-sua-sponte-investigation|2021 Rules of Procedure of the National Privacy Commission]] [NPC 2021 Rules of Procedure], rule X, §§ 5-6 (28 January 2021).
 [^66]: Consolidated Fact-Finding Report, Complaints and Investigation Division, 05 April 2022, at 21, in In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, NPC SS 22-001 and NPC SS 22-008 (NPC 2022).
 [^67]: *Id*.
 [^68]: *Id*.
@@ -493,9 +493,9 @@ National Privacy Commission
 [^100]: *Id*. at 4.
 [^101]: *Id*.
 [^102]: *Id*.
-[^103]: See NPC 2021 Rules of Procedure, rule X, § 5-6.
+[^103]: See [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-x-sua-sponte-investigation|NPC 2021 Rules of Procedure]], rule X, § 5-6.
 [^104]: Consolidated Fact-Finding Report, Complaints and Investigation Division, 05 April 2022, at 21, in In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, NPC SS 22-001 and NPC SS 22-008 (NPC 2022).
-[^105]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, §29 (2012).
+[^105]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|§29]] (2012).
 [^106]: *Id*. Annex X at 3.
 [^107]: Consolidated Fact-Finding Report, Complaints and Investigation Division, 05 April 2022, at 5, in In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, NPC SS 22-001 and NPC SS 22-008 (NPC 2022).
 [^108]: *Id*.
@@ -504,19 +504,19 @@ National Privacy Commission
 [^111]: Consolidated Fact-Finding Report, Complaints and Investigation Division, Annex S at 3, 05 April 2022, in In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, NPC SS 22-001 and NPC SS 22-008 (NPC 2022).
 [^112]: *Id*. at 21.
 [^113]: *Id*.
-[^114]: See NPC 2021 Rules of Procedure, rule X, § 5-6.
+[^114]: See [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-x-sua-sponte-investigation|NPC 2021 Rules of Procedure]], rule X, § 5-6.
 [^115]: Consolidated Fact-Finding Report, Complaints and Investigation Division, 05 April 2022, at 10-11, in In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, NPC SS 22-001 and NPC SS 22-008 (NPC 2022).
-[^116]: Data Privacy Act of 2012, § 30.
-[^117]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], §11 (15 December 2016).
-[^118]: Data Privacy Act of 2012, § 20 (f). Emphasis supplied.
-[^119]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], §11 (15 December 2016).
+[^116]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|§ 30]].
+[^117]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 3, Series of 2016]] [NPC Circ. No. 16-03], §11 (15 December 2016).
+[^118]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (f)]]. Emphasis supplied.
+[^119]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 3, Series of 2016]] [NPC Circ. No. 16-03], §11 (15 December 2016).
 [^120]: *Id*.
 [^121]: *Id*. at 11 and Annex F, in In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, NPC SS 22-001 and NPC SS 22-008 (NPC 2022).
 [^122]: *Id*.
 [^123]: *Id*.
 [^124]: *Id*. at 5.
-[^125]: Data Privacy Act of 2012, § 3 (l).
-[^126]: Data Privacy Act of 2012, § 4.
+[^125]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]].
+[^126]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]].
 [^127]: Consolidated Fact-Finding Report, Complaints and Investigation Division, 05 April 2022, at 11 and Annex F, in In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, NPC SS 22-001 and NPC SS 22-008 (NPC 2022).
 [^128]: *Id*. at 10.
 [^129]: *Id*. at 10-11.
@@ -531,4 +531,4 @@ National Privacy Commission
 [^138]: *Id*. at 4.
 [^139]: Commission on Elections Comment, Office of the Solicitor General, 22 July 2022, in In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, NPC SS 22-001 and NPC SS 22-008 (NPC 2022).
 [^140]: Consolidated Fact-Finding Report, Complaints and Investigation Division, 05 April 2022, at 20-21, in In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, NPC SS 22-001 and NPC SS 22-008 (NPC 2022).
-[^141]: Data Privacy Act of 2012, § 21.
+[^141]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|§ 21]].

@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+aliases:
+  - "NPC Advisory Opinion No. 2017-041"
+  - "npc advisory opinion no. 2017-041"
+  - "Advisory Opinion No. 2017-041"
+  - "advisory opinion no. 2017-041"
 draft: false
 ---
 
@@ -73,8 +78,8 @@ Privacy Commissioner and Chairman
 [^4]: *Ibid.*
 [^5]: Office of the Privacy Commissioner for Personal Data, Hong Kong, *Guidance Note - Guidance on Use of Personal Data Obtained from the Public Domain*, August 2013, available at https://www.pcpd.org.hk/english/publications/files/GN_public_domain_e.pdf
 [^6]: *Id.*
-[^7]: RA No. 10173, §3(b)
-[^8]: RA No. 10173, §3(h).
-[^9]: IRR of RA No. 10173, §34(a)(1)
+[^7]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(b)]]
+[^8]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(h)]].
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|IRR of RA No. 10173, §34(a)(1)]]
 [^10]: *Id.*, §34(b)
 [^11]: *Id.*, §6(a)

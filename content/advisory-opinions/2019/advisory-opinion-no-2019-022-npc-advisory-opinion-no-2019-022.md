@@ -9,6 +9,11 @@ tags:
   - data-privacy-principles
   - investigation
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-022"
+  - "npc advisory opinion no. 2019-022"
+  - "Advisory Opinion No. 2019-022"
+  - "advisory opinion no. 2019-022"
 ---
 
 ## Source
@@ -26,7 +31,7 @@ Re: DISCLOSURE OF MARRIAGE CERTIFICATE FOR INVESTIGATION PURPOSES
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion which sought to clarify the following matters regarding the Data Privacy Act of 2012[^2] (DPA) in relation to the mandate of the Department of Finance - Revenue Integrity Protection Service (DOF-RIPS). Specifically, you request for clarification on the following:
+We write in response to your request for an advisory opinion which sought to clarify the following matters regarding the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) in relation to the mandate of the Department of Finance - Revenue Integrity Protection Service (DOF-RIPS). Specifically, you request for clarification on the following:
 
 1. Whether the DOF-RIPS, as a public authority which investigates and gathers information necessary to carry out its law enforcement functions, is exempt from the coverage of the DPA;
 2. Whether [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]] applies to information on marital and filial relations sought to be secured by DOF-RIPS in order to carry out its law enforcement functions; and
@@ -48,7 +53,7 @@ Hence, the DOF-RIPS is a public authority, specifically, an investigative body, 
 
 #### Scope of the DPA; special cases
 
-The DPA provides for a list of specified information that are not covered by the law. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the Implementing Rules and Regulations]] (IRR) of the DPA provides for the special cases wherein the law and the rules are not applicable:
+The [[laws/data-privacy-act-of-2012|DPA]] provides for a list of specified information that are not covered by the law. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the Implementing Rules and Regulations]] (IRR) of the DPA provides for the special cases wherein the law and the rules are not applicable:
 
 > SECTION 5. *Special Cases.* The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned: xxx
 >
@@ -68,7 +73,7 @@ In this case, however, the DOF-RIPS is primarily an investigative agency rather 
 
 A Certificate of Marriage issued by the Office of the Civil Registrar General and/or the Philippine Statistics Authority (PSA) contains both personal and sensitive personal information (collectively, personal data) of the contracting parties.
 
-The processing of personal data by the DOF-RIPS may find support in the DPA, specifically Sections 12 and 13 thereof providing the criteria for lawful processing of personal and sensitive personal information, respectively, to wit:
+The processing of personal data by the DOF-RIPS may find support in the [[laws/data-privacy-act-of-2012|DPA]], specifically [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] thereof providing the criteria for lawful processing of personal and sensitive personal information, respectively, to wit:
 
 > SECTION 12. *Criteria for Lawful Processing of Personal Information.* – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -102,4 +107,4 @@ Privacy Commissioner and Chairman
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Office of the President, Creating the Department of Finance Revenue Integrity Protection Service, and for other purposes, Executive Order No. 259 [E.O. No. 259] (Dec. 17, 2003).
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173 (2016).

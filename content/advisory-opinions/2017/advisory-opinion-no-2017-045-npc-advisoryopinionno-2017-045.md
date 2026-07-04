@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2017
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2017-045"
+  - "npc advisory opinion no. 2017-045"
+  - "Advisory Opinion No. 2017-045"
+  - "advisory opinion no. 2017-045"
 ---
 
 ## Source

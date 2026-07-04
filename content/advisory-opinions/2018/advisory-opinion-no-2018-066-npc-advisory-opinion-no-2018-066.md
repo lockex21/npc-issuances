@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-066"
+  - "npc advisory opinion no. 2018-066"
+  - "Advisory Opinion No. 2018-066"
+  - "advisory opinion no. 2018-066"
 ---
 
 ## Source
@@ -38,7 +43,7 @@ Also, that the IDTOMIS is a system implemented by the DOH to facilitate collecti
 
 #### Legitimate Purpose
 
-Under the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), the principle of legitimate purpose pertains to the processing of personal information based on the declared and specified purpose, which is not contrary to law, morals or public policy.[^3] Lawful processing, on the other hand, is discussed under Sections 12 and 13 of the DPA for processing of personal information and sensitive personal information, respectively.
+Under the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), the principle of legitimate purpose pertains to the processing of personal information based on the declared and specified purpose, which is not contrary to law, morals or public policy.[^3] Lawful processing, on the other hand, is discussed under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA for processing of personal information and sensitive personal information, respectively.
 
 In consideration of the foregoing, we confirm that the submission of personal data of patients who undergo drug testing by GMDC to the DOH, through the IDTOMIS, as well as sharing of the such information by the DOH to authorized government agencies, is permitted[^4] pursuant to the provisions of the Comprehensive Dangerous Drugs Act of 2002, to wit:
 
@@ -84,14 +89,14 @@ Noted by:
 (Sgd.) RAYMOND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [DATA PRIVACY ACT OF 2012] Republic Act No. 10173 (2012).
+[^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [DATA PRIVACY ACT OF 2012] [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
 [^2]: An Act Instituting the Comprehensive Dangerous Drugs Act of 2002, Repealing Republic Act No. 6425, otherwise known as the Dangerous Drugs Act of 1972, As Amended, Providing Funds Therefor, and for other purposes [THE COMPREHENSIVE DANGEROUS DRUGS ACT OF 2002] Republic Act No. 9165 (2002).
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (b) (2016).
-[^4]: *Id.*, § 13.
+[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (b)]] (2016).
+[^4]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-13-organizational-structure|§ 13]].
 [^5]: Supra note 2, § 76.
 [^6]: Department of Health, Administrative Order 2008-0025, Guidelines on the Implementation of the Integrated Drug Test Operations and Management Information System (IDTOMIS) for Screening and Confirmatory Drug Test Laboratory Operation (29 July 2008).
 [^7]: Dangerous Drugs Board, Board Regulation No. 8 Series of 2007, AMENDING BOARD REGULATION NO. 2, SERIES OF 2003, ENTITLED "IMPLEMENTING RULES AND REGULATIONS GOVERNING ACCREDITATION OF DRUG TESTING LABORATORIES IN THE PHILIPPINES" (11 December 2007).
-[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (a) (2016).
+[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (a)]] (2016).
 [^9]: IAPP, Glossary of Privacy Terms, "Privacy Notice" available at https://iapp.org/resources/glossary/#paperwork-reduction-act-2 (last accessed on 10 September 2018).
 [^10]: Implementing Rules
-[^11]: *Id.*, § 18(c) (2016).
+[^11]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(c)]] (2016).

@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2024-005 — Use of Artificial Intelligence in Call Analysis and Monitoring of Call Center Employees"
 description: "Guidance on processing personal data through AI-based analytics for employee performance evaluation and coaching."
+aliases:
+  - "NPC Advisory Opinion No. 2024-005"
+  - "npc advisory opinion no. 2024-005"
+  - "Advisory Opinion No. 2024-005"
+  - "advisory opinion no. 2024-005"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -67,7 +72,7 @@ The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) applies to 
 
 The names, address, and other unique identifiers such as one’s voice or speech pattern are considered as personal information. The DPA allows the processing of personal information when it is necessary for the purpose of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.[^3]
 
-Section 3(a) of NPC Circular No.2023-07[^4] defines legitimate interest as any actual and real interest, benefit, or gain that a Personal Information Controller (PIC) or third party may have in or may derive from the processing of specific personal information.
+Section 3(a) of [[issuances/2023/guidelines-on-legitimate-interest|NPC Circular No.2023-07]][^4] defines legitimate interest as any actual and real interest, benefit, or gain that a Personal Information Controller (PIC) or third party may have in or may derive from the processing of specific personal information.
 
 In MAF v. Shopee,[^5] the National Privacy Commission (NPC) provided the following conditions for processing based on legitimate interest, viz.:
 
@@ -145,10 +150,10 @@ FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
 [^1]: Tags: Artificial intelligence; legitimate interest; proportionality; right to object.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], (2012).
 [^3]: Id.
-[^4]: National Privacy Commission, Guidelines on Legitimate Interest, NPC Circular No. 2023 – 07, (13 December 2023).
+[^4]: National Privacy Commission, Guidelines on Legitimate Interest, [[issuances/2023/guidelines-on-legitimate-interest|NPC Circular No. 2023 – 07]], (13 December 2023).
 [^5]: National Privacy Commission, MAF v. Shopee Philippines, Inc. [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]] (Sept. 22, 2022).
 [^6]: Id.
 [^7]: Id.
-[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34 (b) (2) (2016).
+[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|§ 34 (b) (2)]] (2016).

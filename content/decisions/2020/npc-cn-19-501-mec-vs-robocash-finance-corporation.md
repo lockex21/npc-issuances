@@ -70,17 +70,17 @@ Now, on the main issue on whether the Respondent violated the data privacy right
 
 ### Discussion
 
-Before going to the main issue of the case, this Commission deems it proper to discuss a procedural matter that was raised in the Respondent’s responsive comment, specifically on the requirement to exhaust administrative remedies as provided in Section 4 (a) of NPC Circular 16-04.[^1]
+Before going to the main issue of the case, this Commission deems it proper to discuss a procedural matter that was raised in the Respondent’s responsive comment, specifically on the requirement to exhaust administrative remedies as provided in Section 4 (a) of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]].[^1]
 
 The Respondent argued that the Complainant failed to exhaust remedies by going straight to this Commission without notifying the Respondent on the alleged data privacy violation committed by them against her. Such action they argued prevented the Respondent to take appropriate measures to address the concerns of the Complainant. The Respondent then concluded that this should cause the outright dismissal of the Complaint.
 
-While the intention of the abovementioned provision is to promote settlement of data privacy disputes between Personal Information Controller (PIC) or the concerned entity and the data subject before going through the formal procedures in this Commission, the Respondent herein must be reminded that the Commission may waive any and all of the requirements of Section 4 at its discretion, upon good cause shown, or if the complaint involves a serious violation or breach of the Data Privacy Act.[^2] Thus, this Commission deems it proper to adjudicate on the substantial issues of this case.
+While the intention of the abovementioned provision is to promote settlement of data privacy disputes between Personal Information Controller (PIC) or the concerned entity and the data subject before going through the formal procedures in this Commission, the Respondent herein must be reminded that the Commission may waive any and all of the requirements of Section 4 at its discretion, upon good cause shown, or if the complaint involves a serious violation or breach of the [[laws/data-privacy-act-of-2012|Data Privacy Act]].[^2] Thus, this Commission deems it proper to adjudicate on the substantial issues of this case.
 
 This Commission finds that the Complainant failed to provide sufficient information to substantiate the allegations made in her complaint.
 
 Section 10 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] (Rules of Procedure) provides: “The **complaint shall include a brief narration of the material facts and supporting documentary and testimonial evidence**, all of which show: (a) the violation of the Data Privacy Act of related issuance; or (b) the acts or omissions allegedly committed by the respondent amounting to a privacy violation or personal data breach…” (Emphasis Supplied)
 
-Furthermore, Section 22 of the NPC Circular No. 16-04 provides that, “the Commission shall adjudicate the issues raised in the complaint on the basis of all the evidence presented and its own consideration of the law the grounds for the dismissal of complaint.”
+Furthermore, Section 22 of the [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] provides that, “the Commission shall adjudicate the issues raised in the complaint on the basis of all the evidence presented and its own consideration of the law the grounds for the dismissal of complaint.”
 
 In the case at hand, Complainant solely relied on the averments contained in her complaints-assisted form without procuring evidence to support the allegations made. Further, the Complainant failed to cite a single provision in the Data Privacy Act which was violated by the Respondent. This Commission then finds that the Complainant failed to satisfy the requisite quantum of proof in an administrative case.
 

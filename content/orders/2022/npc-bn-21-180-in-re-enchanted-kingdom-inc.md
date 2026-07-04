@@ -65,7 +65,7 @@ A PIC is defined as one "who controls the collection, holding, processing or use
 
 EKI is the owner and administrator of its website which sells various goods, services and merchandise, and its website provides avenues for online payment.[^12] Particularly, customers are required to provide personal information (name, credit card number, and validation value) to confirm credit card payments on its website. This makes EKI a PIC since it determines and requires customers to provide such personal information. EKI is a PIC regardless of having AsiaPay as its online gateway partner, since AsiaPay is processing the personal data for the benefit and on behalf of EKI.
 
-As the PIC, EKI has clear obligations under NPC Circular No. 16-03 (Personal Data Breach Management) relating to the notification of affected data subjects and the Commission, as well as providing crucial information about the data breach to the Commission and to the affected data subjects.
+As the PIC, EKI has clear obligations under [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]] relating to the notification of affected data subjects and the Commission, as well as providing crucial information about the data breach to the Commission and to the affected data subjects.
 
 **The data breach falls under mandatory data subject notification.**
 
@@ -123,7 +123,7 @@ WHEREFORE, premises considered, this Commission **DENIES** the request of Enchan
 
 EKI is hereby **ORDERED** within fifteen (15) days from receipt of this Order to comply with the following:
 
-1. **NOTIFY** the affected data subjects pursuant to Section 18 of NPC Circular No. 16-03 and submit proof of compliance thereof, including the proof of receipt of the data subjects of such notification;
+1. **NOTIFY** the affected data subjects pursuant to Section 18 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] and submit proof of compliance thereof, including the proof of receipt of the data subjects of such notification;
 
 2. **SUBMIT** a Full Breach Report pursuant to Sections 9 and 17 (D) of NPC Circular No. 16-03;
 
@@ -162,13 +162,13 @@ GENERAL RECORDS UNIT
 [^7]: See Security Incident, accessed at https://www.asiapay.com/2021.html, as provided in the Initial Report.
 [^8]: Id.
 [^9]: Id.
-[^10]: [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012, Section 3(h).
-[^11]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, Section 3(m).
+[^10]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012, Section 3(h).
+[^11]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, Section 3(m).
 [^12]: Initial Report dated 31 August 2021 of Enchanted Kingdom, Inc.
-[^13]: Section 11 of the NPC Circular No. 16-03.
+[^13]: Section 11 of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 [^14]: Initial Report dated 31 August 2021 of Enchanted Kingdom, Inc.
 [^15]: See Security Incident, accessed at https://www.asiapay.com/2021.html, as provided in the Initial Report.
 [^16]: Initial Report dated 31 August 2021 of Enchanted Kingdom, Inc.
 [^17]: Id.
-[^18]: Section 18(A) of the NPC Circular 16-03.
-[^19]: Section 17(A) and (C) of the NPC Circular No. 16-03.
+[^18]: Section 18(A) of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
+[^19]: Section 17(A) and (C) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].

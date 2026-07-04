@@ -110,7 +110,7 @@ Before the Commission is the Motion for Reconsideration dated 05 April 2022 file
 
 ### Facts
 
-On 03 February 2022, the Commission issued a Decision finding DSL liable for Section 32 of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) and recommending his prosecution to the Department of Justice:
+On 03 February 2022, the Commission issued a [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|Decision]] finding DSL liable for [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA)]] and recommending his prosecution to the Department of Justice:
 
 **WHEREFORE, premises considered, the Commission hereby:**
 
@@ -134,7 +134,7 @@ Further, DSL argued that the Commission did not have jurisdiction over the case 
 
 20. The issues as to the right of the [C]ondominium [C]orporation to impose condominium dues, the validity of the provisions of its by-laws, enforce the provisions of its master deed and house rules are issues related to intra-]corporate controversy.[^11]
 
-In relation to DSL’s allegation that the case should have been dismissed outright due to procedural lapses, he claimed that the Complainants failed to observe the procedural requirement under NPC Circular 2021-01 (2021 NPC Rules of Procedure) when they did not attach their respective certificates against forum shopping to their complaints.[^12] He further alleged that the Complainants committed forum shopping since they failed to disclose that there were four (4) cases with same issues as the case at bar pending before various courts.[^13] To recall, DSL enumerated the following pending cases:
+In relation to DSL’s allegation that the case should have been dismissed outright due to procedural lapses, he claimed that the Complainants failed to observe the procedural requirement under [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 2021-01 (2021 NPC Rules of Procedure)]] when they did not attach their respective certificates against forum shopping to their complaints.[^12] He further alleged that the Complainants committed forum shopping since they failed to disclose that there were four (4) cases with same issues as the case at bar pending before various courts.[^13] To recall, DSL enumerated the following pending cases:
 
 a. SEC Case No. 01-18-463, JM et., al., vs. GAT1CC, DSL et., al. [...]
 
@@ -166,7 +166,7 @@ Whether the Motion for Reconsideration dated 05 April 2022 should be granted.
 
 The Commission denies DSL’s Motion for Reconsideration dated 05 April 2022.
 
-DSL asserted that GAT1CC, through him as the President, may post the names of delinquent unit owners pursuant to Section 12 (c) of the DPA:
+DSL asserted that GAT1CC, through him as the President, may post the names of delinquent unit owners pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the DPA]]:
 
 8. As members of GAT1CC, [C]omplainants are indisputably bound by the [C]ondominium House Rules which are authorized by GAT1CC’s Articles of Incorporation, By-Laws, the Master Deed, the Corporation Code, and the Condominium Act. As such, [GAT1CC] may validly disclose information such as the names of delinquent members pursuant to Section 12 (c) of the Data Privacy Act.
 
@@ -186,7 +186,7 @@ When a PIC claims lawful processing on the basis of a legal obligation, the burd
 
 The Commission cannot give credence to DSL’s assertion since he failed to identify the actual Board of Directors that authorized his act nor was he able to present any document certifying that he was authorized by the Board of Directors to publish the letter dated 23 November 2021. The burden is on DSL to prove that he really had authority to represent GAT1CC.
 
-The Commission emphasizes that once the complainant has proven that there was indeed a processing that occurred, it is incumbent upon the PIC that processed the personal data to prove that it is either exempted from the scope of the DPA or that the processing was based on lawful criteria under Sections 12 or 13 of the DPA.
+The Commission emphasizes that once the complainant has proven that there was indeed a processing that occurred, it is incumbent upon the PIC that processed the personal data to prove that it is either exempted from the scope of the DPA or that the processing was based on lawful criteria under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA.
 
 Here, however, DSL failed to prove that he is exempted from the scope of the DPA or that his processing was based on any of the lawful criteria under Sections 12 or 13 of the DPA.
 
@@ -194,13 +194,13 @@ As regards the procedural issues, DSL argued that the Commission "inadvertently 
 
 He also claimed that the Commission should have dismissed the case outright because the Complainants failed to disclose that there were four (4) pending cases before different courts that have the same issues and circumstances with that of the case at bar.[^36]
 
-Further, DSL pointed out that the Complainants failed to comply with Section 3 (10), Rule II of the 2021 NPC Rules of Procedure when they did not attach certificates against forum shopping to their respective complaints.[^37]
+Further, DSL pointed out that the Complainants failed to comply with [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|Section 3 (10), Rule II]] of the 2021 NPC Rules of Procedure when they did not attach certificates against forum shopping to their respective complaints.[^37]
 
 Contrary to DSL’s assertions, the Commission did not commit an error when it took cognizance of the case. The issue in the case at bar relates to the processing of personal information, which is within the scope of the DPA and under the jurisdiction of the Commission.[^38] The fact that the parties in the case at bar are members and officers of a corporation does not automatically result in the existence of an intra-corporate dispute. In addition, even if there was an intra-corporate dispute, the issue in this case is the propriety of the processing of personal information undertaken by DSL. This is precisely within the mandate of the Commission.
 
 Further, the four (4) pending cases and the case at bar do not have the same issue and cause of action. As previously stated, the issue in the case at bar relates to data privacy, particularly on the processing of personal information, and the Complainants’ cause of action stems from their rights as data subjects. The four (4) pending cases relate to a dispute in the election of the Board of Directors of GAT1CC, which is an intra-corporate controversy, and to the main actions for injunction of the implementation of the condominium’s rule on cable services.[^39] The issues and the circumstances of the four (4) pending cases in comparison to the present case are not identical.
 
-As to the issue on the certificate against forum shopping, the Commission maintains that it did not err when it did not dismiss the case outright due to the lack of certificate against forum shopping. The Complaints-Assisted Forms were filed on 15 January 2021, when NPC Circular 16-04, which does not require a certificate against forum shopping, was still in effect. Thus, the lack of a certificate against forum shopping does not result in any error on the part of the Complainants.
+As to the issue on the certificate against forum shopping, the Commission maintains that it did not err when it did not dismiss the case outright due to the lack of certificate against forum shopping. The Complaints-Assisted Forms were filed on 15 January 2021, when [[issuances/undated/rules-of-procedure|NPC Circular 16-04]], which does not require a certificate against forum shopping, was still in effect. Thus, the lack of a certificate against forum shopping does not result in any error on the part of the Complainants.
 
 Given the foregoing, the Commission finds that the issues raised in the Motion for Reconsideration dated 05 April 2022 failed to sufficiently establish a reason to set aside and reverse the Decision dated 03 February 2022. The Commission, therefore, reiterates its Decision dated 03 February 2022 finding DSL liable for Unauthorized Disclosure under Section 32 of the DPA and recommending for his prosecution to the Department of Justice.
 
@@ -320,6 +320,6 @@ National Privacy Commission
 
 [^37]: *Id.* ¶ 24-26.
 
-[^38]: See An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4 (2012).
+[^38]: See An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]] (2012).
 
 [^39]: See Comment, 06 October 2021, Annexes 2-8, in MVC, et al. v. DSL, NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, NPC 21-015 (NPC 2022).

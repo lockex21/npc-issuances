@@ -8,6 +8,11 @@ tags:
   - "topic/data-subject-rights"
   - "topic/employment"
   - "topic/legitimate-interest"
+aliases:
+  - "NPC Advisory Opinion No. 2021-010"
+  - "npc advisory opinion no. 2021-010"
+  - "Advisory Opinion No. 2021-010"
+  - "advisory opinion no. 2021-010"
 draft: false
 ---
 
@@ -137,9 +142,9 @@ these specific inquiries:
 #### Legality of processing personal data by private detective services; criteria for processing personal data
 
 On the services provided by Eyespy, you propose that the same are all permissible data
-gathering activities pursuant to the provisions of the DPA, specifically Section 12 (b) -
+gathering activities pursuant to the provisions of the DPA, specifically [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (b)]] -
 processing of personal information is necessary and is related to the fulfillment of a contract
-with the data subject and Section 13 (f) - the processing concerns such personal information
+with the data subject and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] - the processing concerns such personal information
 as is necessary for the protection of lawful rights and interests of natural or legal persons in
 court proceedings, or the establishment, exercise or defense of legal claims.
 
@@ -151,14 +156,14 @@ provisions are the indeed the appropriate legal bases for Eyespy to carry out al
 in relation to all the engagements earlier described.
 
 Please note that the criteria for valid processing of personal and sensitive personal
-information (collectively, personal data) are enumerated in Sections 12 and 13 of the DPA,
+information (collectively, personal data) are enumerated in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA,
 respectively. As discussed above, Section 12 (b) may be applicable in some instances where
 processing of personal information is related to or rooted on an existing contract between your
 client and the data subject, while Section 13 (f) may be applicable when processing sensitive
 personal information for legal claims or court proceedings.
 
-With this, Eyespy should evaluate other possible lawful bases for processing, i.e., Section 12
-(f) for processing personal information on legitimate interests pursued by the PIC or by a third
+With this, Eyespy should evaluate other possible lawful bases for processing, i.e., [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12
+(f)]] for processing personal information on legitimate interests pursued by the PIC or by a third
 party or parties to whom the data is disclosed, except where such interests are overridden by
 fundamental rights and freedoms of the data subject, especially for those instances where
 there is no underlying contract involving the data subject and/or where Eyespy’s client is not
@@ -233,6 +238,7 @@ in instances where processing is based on consent or legitimate interest. Hence,
 possible to continue processing personal data where for example, the same is still necessary
 for the performance of or in relation to a contract or service to which the data subject is a party,
 or when necessary or desirable in the context of an employer-employee relationship.[^7]
+
 
 For further guidance, we refer to [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] on Data Subject Rights
 discussing the right to object, to wit:
@@ -315,6 +321,6 @@ OIC-Director IV, Privacy Policy Office
 [^4]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
 [^5]: National Privacy Commission, NPC Advisory Opinion No. 2019-001.
 [^6]: See: UK Information Commissioner's Office, When can I disclose information to a private investigator?, available at https://ico.org.uk/media/1556/disclosures_to_private_investigators.pdf (last accessed March 23, 2021).
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34 (b) (2) (2016).
-[^8]: National Privacy Commission, NPC Advisory Opinion No. 2021-01, Data Subject Rights.
-[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 13 and 13 (D).
+[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34 (b) (2)]] (2016).
+[^8]: National Privacy Commission, [[issuances/2021/data-subject-rights|NPC Advisory Opinion No. 2021-01, Data Subject Rights]].
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 13 and 13 (D)]].

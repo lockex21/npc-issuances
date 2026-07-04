@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2022
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2022-007"
+  - "npc advisory opinion no. 2022-007"
+  - "Advisory Opinion No. 2022-007"
+  - "advisory opinion no. 2022-007"
 ---
 
 ## Source
@@ -23,7 +28,7 @@ Re: TRANSPORT OF PHYSICAL MEDIA CONTAINING PERSONAL DATA
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC or the Commission) on whether the act of transporting physical media that may contain personal and sensitive personal information (collectively, personal data) is considered as “processing” of the personal data that are contained therein under existing data privacy legislation such as the Data Privacy Act of 2012[^1] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and applicable NPC issuances.
+We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC or the Commission) on whether the act of transporting physical media that may contain personal and sensitive personal information (collectively, personal data) is considered as “processing” of the personal data that are contained therein under existing data privacy legislation such as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and applicable NPC issuances.
 
 We understand that your company is a courier and logistics company engaged in pick-up,
 transport and delivery of mails, letters, pouches, cargoes and personal effects of all kinds, wherein
@@ -113,7 +118,7 @@ not either because it knew or should have known that the physical media contains
 or pursuant to its contract with its PIC. In the latter case, it’s liability may be determined based on
 the specific terms of its contract with its PIC and its level of compliance with its duty as a PIP.
 
-Specific to loss or damage, we refer further to Sections 26 of the DPA on Accessing Personal
+Specific to loss or damage, we refer further to [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Sections 26 of the DPA]] on Accessing Personal
 Information and Sensitive Personal Information Due to Negligence. If the loss or damage resulted
 in allowing an unauthorized person to have access to the personal information contained in the
 physical media through negligence, the determination of the presence of negligence and the
@@ -159,12 +164,12 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^2]: Tags: personal information controller; personal information processor; processing; personal information; liability; damages; accountability.
-[^3]: Data Privacy Act of 2012, § 3 (h).
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 3 (m).
-[^5]: Data Privacy Act of 2012, § 3 (i).
+[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (h)]].
+[^4]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|§ 3 (m)]].
+[^5]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (i)]].
 [^6]: *Id.* § 3 (g).
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 45.
-[^8]: *Id.* § 25.
+[^7]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-45-duty-of-personal-information-processor|§ 45]].
+[^8]: *Id.* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|§ 25]].
 [^9]: *Id.*

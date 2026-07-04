@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2022-026 — Disclosure of Personal Data Through the Database of Individuals Barred From Taking Civil Service Examinations and From Entering Government Service (dibar)"
 description: "Advisory opinion on whether online disclosure of personal data through the DIBAR database would violate the Data Privacy Act of 2012."
+aliases:
+  - "NPC Advisory Opinion No. 2022-026"
+  - "npc advisory opinion no. 2022-026"
+  - "Advisory Opinion No. 2022-026"
+  - "advisory opinion no. 2022-026"
 tags:
   - issuance
   - type/advisory-opinion
@@ -26,7 +31,7 @@ Re: Disclosure of Personal Data Through the Database of Individuals Barred From 
 
 Dear [Redacted],
 
-We respond to your request for clarification on whether the online disclosure of personal data of dismissed officials/employees through the Database of Individuals Barred from Taking Civil Service Examinations and from Entering Government Service (DIBAR), would violate the Data Privacy Act of 2012 (DPA),[^1] considering that the posting of such personal data is part of the constitutional mandate of the Civil Service Commission (CSC).
+We respond to your request for clarification on whether the online disclosure of personal data of dismissed officials/employees through the Database of Individuals Barred from Taking Civil Service Examinations and from Entering Government Service (DIBAR), would violate the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (DPA)]],[^1] considering that the posting of such personal data is part of the constitutional mandate of the Civil Service Commission (CSC).
 
 We understand that the CSC, through the Integrated Records Management Office, developed the DIBAR which is an electronic database of government officials and employees who have been dismissed and precluded from being re-hired in the government service. The DIBAR contains information on the administrative decision against the concerned officials/employees, which includes the offense committed and penalty imposed. It also contains the following: name, agency, civil service eligibility, date and place of exam, exam rating, gender, date and place of birth, occupation category, and position of the employee. This information is necessary for identity verification of a dismissed official/employee to ensure that he/she will neither be re-hired in the government service nor be able to retake any civil service examination.
 
@@ -50,17 +55,17 @@ We nonetheless underscore that as a PIC, the CSC is still required under the DPA
 
 This obligates the CSC to ensure that any natural person acting under their authority and who has access to personal data in the DIBAR, processes the data contained therein only upon proper instruction or as required by law.[^8] The CSC should limit the access to DIBAR only to specific authorized users whose functions necessitate such access, such as the designated personnel from the Human Resource (HR) department/division of government agencies.
 
-It is also incumbent upon the CSC to establish and implement data protection policies specific for the DIBAR, taking into account the nature, scope, context, and purposes of the processing, as well as the risks posed to the rights and freedoms of the dismissed officials/employees who are the data subjects.[^9] For further information on security measures for the protection of personal data, please refer to Sections 25-29 and 30-33 of the IRR of R.A. No. 10173.
+It is also incumbent upon the CSC to establish and implement data protection policies specific for the DIBAR, taking into account the nature, scope, context, and purposes of the processing, as well as the risks posed to the rights and freedoms of the dismissed officials/employees who are the data subjects.[^9] For further information on security measures for the protection of personal data, please refer to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Sections 25]]-29 and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-30-responsibility-of-heads-of-agencies|30]]-33 of the IRR of R.A. No. 10173.
 
 #### Privacy impact assessment
 
-We also highlight that all sensitive personal information in the DIBAR should be secured, as far as practicable, with the use of the most appropriate standard recognized by the information and communications technology industry, subject to the IRR and other issuances of the National Privacy Commission (NPC).[^10] CSC should conduct a Privacy Impact Assessment (PIA) prior to the adoption of the DIBAR. In CID Case No. 17-K-003, we discussed the following:
+We also highlight that all sensitive personal information in the DIBAR should be secured, as far as practicable, with the use of the most appropriate standard recognized by the information and communications technology industry, subject to the IRR and other issuances of the National Privacy Commission (NPC).[^10] CSC should conduct a Privacy Impact Assessment (PIA) prior to the adoption of the DIBAR. In [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|CID Case No. 17-K-003]], we discussed the following:
 
 > "A PIA should be conducted prior to the deployment of a project, product, or service that involves the collection of personal information. When there are new or revised industry standards, organization policy, law or regulation, or when there are changes to methods in which personal information is handled, a personal information controller should conduct a PIA again on the pertinent process.
 >
 > To emphasize, it should not only identify the existing controls and risks a project, product, or service may have upon personal data privacy, but it should lead to the identification of remedial actions or mitigation measures necessary to avoid or reduce those risks. These remedial actions and mitigation measures may be incorporated in the organization's Privacy Management Program (PMP)."
 
-For further guidelines, please refer to [NPC Circular No. 2016-01 - Security of Personal Data in Government Agencies](https://privacy.gov.ph) and [NPC Advisory No. 2017-03 - Guidelines on Privacy Impact Assessments](https://privacy.gov.ph).
+For further guidelines, please refer to [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 2016-01 - Security of Personal Data in Government Agencies]] and [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03 - Guidelines on Privacy Impact Assessments]].
 
 #### Adherence to general data privacy principles; proportionality
 
@@ -82,7 +87,7 @@ Considering the foregoing, we clarify the minimum requirements and recommend the
 - Prior to the adoption of the DIBAR, CSC should conduct a PIA.
 - The CSC should have available mechanisms for the exercise of the rights of the data subjects where applicable, such as the right to rectification.
 
-We trust that the CSC is aware of its obligations under the DPA, its IRR, and issuances of the NPC, such as [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security of Personal Data in Government Agencies and NPC Circular No. 16-03 on Personal Data Breach Management, among others.
+We trust that the CSC is aware of its obligations under the DPA, its IRR, and issuances of the NPC, such as [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security of Personal Data in Government Agencies and [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] on Personal Data Breach Management, among others.
 
 Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
@@ -94,15 +99,15 @@ SGD.
 FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
-[^1]: Republic Act (R.A.) No. 10173.
-[^2]: Data Privacy Act of 2012, § 4 (e); Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016), § 5 (d).
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 5.
+[^1]: [[laws/data-privacy-act-of-2012|Republic Act (R.A.) No. 10173]].
+[^2]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4 (e)]]; Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016), [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5 (d)]].
+[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5]].
 [^4]: Ibid.
 [^5]: PHIL. CONST. art. 9 (B) § 3; See also Executive Order No. 292, Book V, Title I, Subtitle A, Chapter 1, § 1.
-[^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 25.
+[^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|§ 25]].
 [^7]: Ibid.
 [^8]: Ibid.
-[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 26 (b).
-[^10]: Id. § 30-33.
-[^11]: Data Privacy Act of 2012, § 11 (b) (c).
+[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-26-organizational-security-measures|§ 26 (b)]].
+[^10]: Id. §§ [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-30-responsibility-of-heads-of-agencies|30]]-33.
+[^11]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11 (b) (c)]].
 [^12]: Ibid.

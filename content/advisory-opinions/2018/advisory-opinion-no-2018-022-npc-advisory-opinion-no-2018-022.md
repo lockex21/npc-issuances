@@ -10,6 +10,11 @@ tags:
   - data-processing-registration
   - topic/employment
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-022"
+  - "npc advisory opinion no. 2018-022"
+  - "Advisory Opinion No. 2018-022"
+  - "advisory opinion no. 2018-022"
 ---
 
 ## Source
@@ -27,7 +32,7 @@ Re: SCOPE AND COVERAGE OF THE DATA PRIVACY ACT
 
 Dear [Redacted],
 
-This refers to your request for advisory opinion received by the National Privacy Commission (NPC) on 16 April 2018, which sought to clarify the coverage and applicability of Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA),[^1] its Implementing Rules and Regulations (IRR),[^2] and relevant issuances. Specifically, you have inquired about the following:
+This refers to your request for advisory opinion received by the National Privacy Commission (NPC) on 16 April 2018, which sought to clarify the coverage and applicability of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the Data Privacy Act of 2012 (DPA),[^1] its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR),[^2] and relevant issuances. Specifically, you have inquired about the following:
 
 1. Applicability of the DPA to all private employers operating in the Philippines with respect to the personal data of their employees, regardless of the number of the employees;
 2. Inclusion of records of past employees in determining the threshold of processing sensitive personal information of at least one thousand (1,000) individuals;
@@ -38,7 +43,7 @@ This refers to your request for advisory opinion received by the National Privac
 
 #### Scope of the DPA
 
-The DPA applies to any natural and juridical person involved in the personal information in the personal information[^3] including those personal information controllers (PICs)[^4] and processors (PIPs)[^5] who, although not found or established in the Philippines, use equipment that are located in the Philippines, or those who maintain an office of agency in the Philippines.[^6]
+The [[laws/data-privacy-act-of-2012#section-4-scope|DPA applies to any natural and juridical person involved in the personal information]] in the personal information[^3] including those personal information controllers (PICs)[^4] and processors (PIPs)[^5] who, although not found or established in the Philippines, use equipment that are located in the Philippines, or those who maintain an office of agency in the Philippines.[^6]
 
 Thus, the DPA shall apply to any private or government entity regardless of the number of employees, as long as they are processing personal data in the Philippines. The number of employees is only material in determining whether the organization is required to register their data processing systems.[^7]
 

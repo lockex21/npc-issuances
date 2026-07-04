@@ -7,6 +7,11 @@ tags:
 - year/2023
 - topic/legitimate-interest
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-001"
+  - "npc advisory opinion no. 2023-001"
+  - "Advisory Opinion No. 2023-001"
+  - "advisory opinion no. 2023-001"
 ---
 
 ## Source
@@ -24,7 +29,7 @@ Dear [Redacted],
 
 We respond to your request for an Advisory Opinion on whether your client may compel the
 condominium developer and the Register of Deeds to disclose the following information without
-violating the Data Privacy Act of 2012 (DPA):
+violating the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA):
 
 ### Discussion
 
@@ -74,7 +79,7 @@ We emphasize that CCT numbers, although distinct and unique, do not identify the
 owner of the property or any specific individual for that matter. Instead, the CCT number is
 issued to identify the property, not the individual. Hence, CCT numbers by themselves are not
 considered personal information. Accordingly, it also cannot be considered as sensitive personal
-information since under Section 3 (l)(3) of the DPA, government-issued numbers should be
+information since under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l)(3) of the DPA]], government-issued numbers should be
 peculiar to an individual which is not the case with CCT numbers.
 
 However, we note that CCT numbers can only be regarded as personal information if the actual
@@ -171,7 +176,7 @@ TICC, subject to the respective internal policies and rules of NPI and the Regis
 disclosure (e.g., verification of identity, required documents). However, we wish to emphasize
 that NPI and the Register of Deeds should establish a system to ensure that the requested
 information shall be limited only for the legitimate interests stated by the requesting party, and
-not be subject to abuse. As we stated in Advisory Opinion No. 2022-05:[^4]
+not be subject to abuse. As we stated in [[advisory-opinions/2022/advisory-opinion-no-2022-005-advisory-opinion-no-2022-005-redacted|Advisory Opinion No. 2022-05]]:[^4]
 
    “LTO must establish a system for handling these types of requests for information to
     avoid the possibility of abuse. As a request for personal information for the filing of a
@@ -297,12 +302,12 @@ FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
 [^1]: Tags: lawful processing; legal claims; contractual obligation; condominium corporation.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 4 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]] (2012).
 [^3]: National Privacy Commission, BGM v. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
-[^4]: NPC Advisory Opinion No. 2022-05, 24 February 2022.
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016), § 18 (c).
-[^6]: Data Privacy Act of 2012, § 3(g).
+[^4]: [[advisory-opinions/2022/advisory-opinion-no-2022-005-advisory-opinion-no-2022-005-redacted|NPC Advisory Opinion No. 2022-05]], 24 February 2022.
+[^5]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2016), [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]].
+[^6]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3(g)]].
 [^7]: Section 6 of the TICC By-Laws, as provided in the letter request of Duran & Duran-Schulze Law.
-[^8]: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010]], NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015, 03 February 2022, page 7.
-[^9]: Data Privacy Act of 2012, § 11 (d).
-[^10]: NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015, 03 February 2022, page 8.
+[^8]: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015]], 03 February 2022, page 7.
+[^9]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11 (d)]].
+[^10]: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015]], 03 February 2022, page 8.

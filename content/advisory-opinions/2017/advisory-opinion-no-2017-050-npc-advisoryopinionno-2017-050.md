@@ -8,6 +8,11 @@ tags:
   - topic/consent
   - topic/employment
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2017-050"
+  - "npc advisory opinion no. 2017-050"
+  - "Advisory Opinion No. 2017-050"
+  - "advisory opinion no. 2017-050"
 ---
 
 ## Source
@@ -28,7 +33,7 @@ This pertains to your query received by the National Privacy Commission (NPC) on
 
 ### Discussion
 
-At the outset, please note that the giving of consent does not amount to waiver of your rights under the Data Privacy Act of 2012 (DPA). It only means that you agree to the collection and processing of your personal information.
+At the outset, please note that the giving of consent does not amount to waiver of your rights under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA). It only means that you agree to the collection and processing of your personal information.
 
 Under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the DPA]], and Section 3(d) of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. As such, when you give your consent to the processing it will not necessarily bar you from exercising your rights as a data subject under the DPA.
 
@@ -52,7 +57,7 @@ RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
 [^1]: City of Manila v. Entote, G.R. No. L-24776, June 28, 1974
-[^2]: See: RA No. 10173, §12 and 13
-[^3]: RA No. 10173, §12(b)
-[^4]: Id., §12(c)
-[^5]: Id., §13(b)
+[^2]: See: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|RA No. 10173, §12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]]
+[^3]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|RA No. 10173, §12(b)]]
+[^4]: Id., [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12(c)]]
+[^5]: Id., [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§13(b)]]

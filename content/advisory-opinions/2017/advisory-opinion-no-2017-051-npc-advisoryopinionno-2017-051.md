@@ -8,6 +8,11 @@ tags:
   - topic/consent
   - topic/employment
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2017-051"
+  - "npc advisory opinion no. 2017-051"
+  - "Advisory Opinion No. 2017-051"
+  - "advisory opinion no. 2017-051"
 ---
 
 ## Source

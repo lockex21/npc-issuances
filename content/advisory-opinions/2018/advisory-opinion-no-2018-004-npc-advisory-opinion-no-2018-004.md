@@ -7,6 +7,11 @@ tags:
   - year/2018
   - topic/employment
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-004"
+  - "npc advisory opinion no. 2018-004"
+  - "Advisory Opinion No. 2018-004"
+  - "advisory opinion no. 2018-004"
 ---
 
 ## Source
@@ -84,14 +89,14 @@ Very truly yours,
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes, “Data Privacy Act of 2012” (15 August 2012).
-[^2]: Implementing Rules and Regulations of the Data Privacy Act (24 August 2016).
-[^3]: Data Privacy Act of 2012, §3(j).
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act]] (24 August 2016).
+[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, §3(j)]].
 [^4]: About Us, Philippine Institute for Development studies, https://www.pids.gov.ph/about-us (last accessed 16 January 2018).
 [^5]: Research Projects, https://www.pids.gov.ph/research-projects (last accessed 22 January 2018).
 [^6]: Publications, https://www.pids.gov.ph/publications (last accessed 22 January 2018).
 [^7]: Legislative Inputs (Comments on Proposed Bills), https://www.pids.gov.ph/legislative-inputs (last accessed 22 January 2018).
-[^8]: RA No. 10173, §3(g) – Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
-[^9]: *Id.*, §3(l) - Sensitive personal information refers to personal information: (1) About an individual’s race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual’s health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
-[^10]: See: IRR of RA No. 10173, §31(a) and NPC Circular No. 2016-01, §15.
+[^8]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(g)]] – Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^9]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(l)]] - Sensitive personal information refers to personal information: (1) About an individual’s race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual’s health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
+[^10]: See: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-31-requirements-relating-to-access-by-agency-personnel-to-sensitive-personal-information|IRR of RA No. 10173, §31(a)]] and [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 2016-01]], §15.
 [^11]: See R.A. No. 386, otherwise known as the “Civil Code of the Philippines,” Article 1163: Every person obliged to give something is also obliged to take care of it with the proper diligence of a good father of a family, unless the law or the stipulation of the parties requires another standard of care.
-[^12]: NPC Circular No. 2016-01, §4(D).
+[^12]: [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 2016-01]], §4(D).

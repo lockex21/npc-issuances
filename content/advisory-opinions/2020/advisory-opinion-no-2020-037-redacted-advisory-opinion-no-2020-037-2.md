@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-037"
+  - "npc advisory opinion no. 2020-037"
+  - "Advisory Opinion No. 2020-037"
+  - "advisory opinion no. 2020-037"
 ---
 
 ## Source
@@ -22,7 +27,7 @@ Re: LOSS OF CUSTOMER DOCUMENTS
 
 Dear [Redacted],
 
-We write in response to your various communications received by the National Privacy Commission (NPC). Upon further evaluation, the Office of the Privacy Commissioner, as recommended by the Complaints and Investigation Division (CID), endorsed the same to the Privacy Policy Office for the issuance of an advisory opinion in accordance with NPC Circular 16-04, specifically Section 4, which states that the failure to comply with the requirements of this Section shall cause the matter to be evaluated as a request for an advisory opinion.
+We write in response to your various communications received by the National Privacy Commission (NPC). Upon further evaluation, the Office of the Privacy Commissioner, as recommended by the Complaints and Investigation Division (CID), endorsed the same to the Privacy Policy Office for the issuance of an advisory opinion in accordance with [[issuances/undated/rules-of-procedure|NPC Circular 16-04]], specifically Section 4, which states that the failure to comply with the requirements of this Section shall cause the matter to be evaluated as a request for an advisory opinion.
 
 We understand that your brother applied for a transfer of ownership of his landline phone and internet accounts, both with Globe Telecom, Inc. (Globe), to you. In so doing, you and your brother were required to accomplish application forms for the transfer and submit certain documents.
 
@@ -38,7 +43,7 @@ In one of the screenshots of your conversation with Globe's CCR, you stated that
 
 The specific acts penalized under the abovementioned provision are to knowingly or negligently dispose, discard, or abandon the personal information in an area accessible to the public or has otherwise placed the personal information in its container for trash collection.
 
-We point out that the documents you claim to have been lost includes a copy of your SSS ID, which contains sensitive personal information. As defined under the DPA, sensitive personal information refers to personal information issued by government agencies peculiar to an individual which includes social security numbers. Thus, the scenario may fall under Section 27 (b) instead, which provides for the penalty when sensitive personal information is involved.
+We point out that the documents you claim to have been lost includes a copy of your SSS ID, which contains sensitive personal information. As defined under the DPA, sensitive personal information refers to personal information issued by government agencies peculiar to an individual which includes social security numbers. Thus, the scenario may fall under [[laws/data-privacy-act-of-2012#section-27-improper-disposal-of-personal-information-and-sensitive-personal-information|Section 27 (b)]] instead, which provides for the penalty when sensitive personal information is involved.
 
 Nevertheless, a careful reading of Section 27 (b) will show the following essential elements of improper disposal:
 
@@ -73,7 +78,7 @@ Very truly yours,
 Privacy Commissioner
 
 [^1]: Tags: loss of personal information; improper disposal; personal information controller; security measures; complaint-assisted form.
-[^2]: National Privacy Commission, Rules of Procedure [NPC Circular 16-04] (December 15, 2016).
-[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012) § 27 (a).
+[^2]: National Privacy Commission, [[issuances/undated/rules-of-procedure|Rules of Procedure]] [NPC Circular 16-04] (December 15, 2016).
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012) § 27 (a).
 [^4]: Id. § 3 (l) (3).
 [^5]: Id. § 27 (b).

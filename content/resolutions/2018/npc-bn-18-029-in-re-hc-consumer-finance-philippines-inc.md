@@ -44,7 +44,7 @@ Before the Commission is a breach notification submitted by HC Consumer Finance 
 
 On 02 March 2018, HC PH notified the National Privacy Commission (NPC) of a breach:
 
-Pursuant to the requirement of NPC Circular 16-03 which requires personal information controllers to notify the National Privacy Commission (Commission) within seventy-two (72) hours upon knowledge of or reasonable belief by the Personal Information Controller or Personal Information Processor [sic] that a personal data breach has occurred, HC Consumer Finance Philippines, Inc. (HCPH) hereby submits the following breach notification:
+Pursuant to the requirement of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] which requires personal information controllers to notify the National Privacy Commission (Commission) within seventy-two (72) hours upon knowledge of or reasonable belief by the Personal Information Controller or Personal Information Processor [sic] that a personal data breach has occurred, HC Consumer Finance Philippines, Inc. (HCPH) hereby submits the following breach notification:
 
 1. Data Breach Notification 2018-001 Stolen Laptop[^1]
 
@@ -93,7 +93,7 @@ HCPH also attached copies of the process it follows when dealing with lost and s
 
 ### Issue
 
-I. Whether the matter falls under mandatory breach notification under Section 11 of NPC Circular 16-03 (Personal Data Breach Management); and
+I. Whether the matter falls under mandatory breach notification under Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management); and
 
 II. Whether HCPH sufficiently addressed the breach and implemented security measures to prevent its recurrence.
 
@@ -103,7 +103,7 @@ The Commission resolves to close the matter. The incident does not fall under ma
 
 #### *The matter does not fall under mandatory breach notification under Section 11 of NPC Circular 16-03.*
 
-Section 11 of NPC Circular 16-03 on mandatory breach notification provides:
+Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] on mandatory breach notification provides:
 
 > **Section 11. When notification is required.** Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions.
 >
@@ -121,7 +121,7 @@ Following this, the requisites for mandatory breach notification to the Commissi
 
 Here, the first requisite is present. The breach involves sensitive personal information, or information that may, under the circumstances, be used to enable identity fraud.
 
-According to HCPH, the information involved consists of HCPH customers’ dates of birth and copies of their identification documents such as Voter’s ID, Passport, UMID, SSS ID, and Driver’s License.[^37] These contain sensitive personal information under Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+According to HCPH, the information involved consists of HCPH customers’ dates of birth and copies of their identification documents such as Voter’s ID, Passport, UMID, SSS ID, and Driver’s License.[^37] These contain sensitive personal information under [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the Data Privacy Act of 2012 (DPA).
 
 [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]] provides:
 
@@ -139,7 +139,7 @@ Here, the HCPH customers’ respective dates of birth are considered sensitive p
 
 In addition to this, HCPH stated that the breach involved its customers’ full names, home addresses, permanent addresses and email addresses.[^39] These may be considered as other information that, under the circumstances, may enable identity fraud.
 
-In determining whether other information involved in a breach may enable identity fraud, Section 11 of NPC Circular 16-03 should be read together with Section 20(f) of DPA. Section 20(f) expressly requires the consideration of the specific circumstances of a breach in making this determination:
+In determining whether other information involved in a breach may enable identity fraud, Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] should be read together with [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20(f) of DPA]]. Section 20(f) expressly requires the consideration of the specific circumstances of a breach in making this determination:
 
 > **Section 20. Security of Personal Information.**
 >
@@ -176,7 +176,7 @@ stolen, it was used to connect to the Puppet Server.[^54] The foregoing shows th
 
 The third requisite, however, is absent. There is no real risk of serious harm in this case.
 
-The following factors are considered in determining the presence of the third requisite of mandatory breach notification. Section 11(C) of NPC Circular 16-03 provides:
+The following factors are considered in determining the presence of the third requisite of mandatory breach notification. Section 11(C) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides:
 
 > **Section 11. When notification is required.** Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions.
 >
@@ -270,14 +270,14 @@ GENERAL RECORDS UNIT
 [^31]: Id. at 1.
 [^32]: Id. Annex C.
 [^33]: Id. Annex D.
-[^34]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 11 (15 December 2016).
+[^34]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 ([[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]]), § 11 (15 December 2016).
 [^35]: In re: Pacific Plaza Towers Condominium Corporation, [[resolutions/2018/npc-bn-18-138-in-re-pacific-plaza-resolution|NPC BN 18-138]], 13 November 2023, at 7, available at https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-BN-18-138-2023.11.13-In-re-Pacific-Plaza-Resolution-Final.pdf (last accessed 03 December 2024).
-[^36]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers, NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-COMELEC-Decision-FinalP.pdf (last accessed 25 September 2024).
+[^36]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers, [[decisions/2022/npc-ss-22-001-and-npc-ss-22-008-in-re-commission-on-elections|NPC SS 22-001 and NPC SS 22-008]], 22 September 2022, at 19, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-COMELEC-Decision-FinalP.pdf (last accessed 25 September 2024).
 [^37]: Data Breach Notification, 01 March 2018, at 4, in In re: HC Consumer Finance Philippines, Inc., NPC BN 18-029 (NPC 2018).
-[^38]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3(l) (2012). Emphasis supplied.
+[^38]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173 § 3(l)]] (2012). Emphasis supplied.
 [^39]: Data Breach Notification, 01 March 2018, at 1, in In re: HC Consumer Finance Philippines, Inc., NPC BN 18-029 (NPC 2018).
-[^40]: Data Privacy Act of 2012, § 20(f). Emphasis supplied.
-[^41]: In re: E-Science Corporation, NPC BN 20-124, 10 September 2020, at 3, available at https://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-20-124-2020.09.10-In-re-E-Science-Corporation-Resolution.pdf (last accessed 03 December 2024).
+[^40]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, § 20(f)]]. Emphasis supplied.
+[^41]: In re: E-Science Corporation, [[resolutions/2020/npc-bn-20-124-in-re-e-science-corporation|NPC BN 20-124]], 10 September 2020, at 3, available at https://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-20-124-2020.09.10-In-re-E-Science-Corporation-Resolution.pdf (last accessed 03 December 2024).
 [^42]: Id. Emphasis supplied.
 [^43]: Id. at 4.
 [^44]: Id.
@@ -288,12 +288,12 @@ GENERAL RECORDS UNIT
 [^49]: Data Breach Notification, 01 March 2018, at 3, in In re: HC Consumer Finance Philippines, Inc., NPC BN 18-029 (NPC 2018).
 [^50]: Letter, 03 April 2023, at 1, in In re: HC Consumer Finance Philippines, Inc., NPC BN 18-029 (NPC 2023).
 [^51]: Data Breach Notification, 01 March 2018, at 1, in In re: HC Consumer Finance Philippines, Inc., NPC BN 18-029 (NPC 2018).
-[^52]: In re: Office Warehouse, Inc., NPC BN 18-144, 21 March 2024, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-18-144-2024.03.21-In-re-Office-Warehouse-Inc.-Resolution.pdf (last accessed 03 December 2024).
+[^52]: In re: Office Warehouse, Inc., [[resolutions/2018/npc-18-144-in-re-office-warehouse-inc|NPC BN 18-144]], 21 March 2024, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-18-144-2024.03.21-In-re-Office-Warehouse-Inc.-Resolution.pdf (last accessed 03 December 2024).
 [^53]: Data Breach Notification, 01 March 2018, at 3, in In re: HC Consumer Finance Philippines, Inc., NPC BN 18-029 (NPC 2018).
 [^54]: Id.
-[^55]: In re: Office Warehouse, Inc., NPC BN 18-144, 21 March 2024, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-18-144-2024.03.21-In-re-Office-Warehouse-Inc.-Resolution.pdf (last accessed 03 December 2024).
-[^56]: NPC Circ. No. 16-03, § 11.
-[^57]: In re: Easytrip Services Corporation, NPC BN 17-028 and NPC BN 18-180, 11 May 2023, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/06/NPC-BN-17-028-_-18-180-2023.05.11-Resolution-FinalP.pdf (last accessed 03 December 2024).
+[^55]: In re: Office Warehouse, Inc., [[resolutions/2018/npc-18-144-in-re-office-warehouse-inc|NPC BN 18-144]], 21 March 2024, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-18-144-2024.03.21-In-re-Office-Warehouse-Inc.-Resolution.pdf (last accessed 03 December 2024).
+[^56]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 11.
+[^57]: In re: Easytrip Services Corporation, [[resolutions/2023/npc-17-028-and-npc-bn-18-180-in-re-easytrip-services-corporation|NPC BN 17-028 and NPC BN 18-180]], 11 May 2023, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/06/NPC-BN-17-028-_-18-180-2023.05.11-Resolution-FinalP.pdf (last accessed 03 December 2024).
 [^58]: Id.
 [^59]: Id.
 [^60]: Id.

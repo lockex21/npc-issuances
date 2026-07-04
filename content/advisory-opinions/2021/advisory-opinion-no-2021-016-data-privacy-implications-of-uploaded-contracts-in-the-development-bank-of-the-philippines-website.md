@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2021-016 — Data Privacy Implications Of Uploaded Contracts In The Development Bank Of The Philippines’ Website"
 description: "The NPC provided guidance on how to reconcile government procurement disclosure requirements with data privacy obligations, particularly regarding protection of sensitive personal information in uploaded contracts."
+aliases:
+  - "NPC Advisory Opinion No. 2021-016"
+  - "npc advisory opinion no. 2021-016"
+  - "Advisory Opinion No. 2021-016"
+  - "advisory opinion no. 2021-016"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -30,7 +35,7 @@ Commission (NPC) which sought to clarify the data privacy and security implicati
 website posting requirements mandated by National Budget Circular No. 542[^2] and
 Government Procurement Policy Board (GPPB) Circular No. 02-2020,[^3] issued in accordance
 to the requirements of Republic Act No. 9184[^4] otherwise known as the Government
-Procurement Reform Act and its revised [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^5] (IRR), and
+Procurement Reform Act and its revised Implementing Rules and Regulations[^5] (IRR), and
 how these can be reconciled with the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^6] (DPA).
 
 We understand that the Development Bank of the Philippines (DBP) is considering the
@@ -128,5 +133,5 @@ OIC-Director IV, Privacy Policy Office
 [^4]: An Act Providing for the Modernization, Standardization and Regulation of the Procurement Activities of the Government and for Other Purposes [Government Procurement Reform Act], Republic Act No. 9184 (2003).
 [^5]: Revised Rules and Regulations Implementing the Government Procurement Reform Act, Republic Act No. 9184 (2016).
 [^6]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^7]: Data Privacy Act of 2012 § 3 (g).
-[^8]: NPC Advisory Opinion No. 2021-006.
+[^7]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012 § 3 (g)]].
+[^8]: [[advisory-opinions/2021/advisory-opinion-no-2021-006-data-classification-for-the-disclosure-of-procurement-related-documents|NPC Advisory Opinion No. 2021-006]].

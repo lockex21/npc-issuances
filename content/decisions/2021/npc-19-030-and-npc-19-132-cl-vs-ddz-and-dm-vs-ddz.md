@@ -67,7 +67,7 @@ x-----------------------------------------------x
 
 NAGA, D.P.C.:
 
-Before this Commission are the complaints separately filed by Mr. CL and Mr. DM against Mr. DDZ for alleged violations of the Data Privacy Act (DPA) of 2012.
+Before this Commission are the complaints separately filed by Mr. CL and Mr. DM against Mr. DDZ for alleged violations of the [[laws/data-privacy-act-of-2012|Data Privacy Act (DPA) of 2012]].
 
 ### Facts
 
@@ -91,7 +91,7 @@ In his Rejoinder,[^6] DDZ reiterated his arguments in his Answer. He also stated
 
 ### Issue
 
-1. Whether the Complaints are exempted from Section 4 of the NPC Circular No. 16-04.
+1. Whether the Complaints are exempted from Section 4 of the [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]].
 
 2. Whether the Respondent violated the Data Privacy Act.
 
@@ -103,7 +103,7 @@ The Complaints for the violation of the DPA lack merit.
 
 #### I. The Complaints are Exempted from Section 4 of the NPC Circular 16-04
 
-In his Answer and Rejoinder, Respondent argues that the Commission should not have entertained the Complaints for failing to exhaust all remedies under Section 4 of NPC Circular No. 16-04. This Commission refers to the last paragraph of the aforementioned Circular, viz:
+In his Answer and Rejoinder, Respondent argues that the Commission should not have entertained the Complaints for failing to exhaust all remedies under Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]]. This Commission refers to the last paragraph of the aforementioned Circular, viz:
 
 > **SECTION 4. Exhaustion of remedies.** – No complaint shall be entertained unless:
 >
@@ -127,7 +127,7 @@ Further, Rule II, Section 2 of the [[issuances/2021/2021-rules-of-procedure-of-t
 
 This Commission recognizes that it is afforded with a broad range of powers to implement its mandate such as the power to waive the requirements of its Rules of Procedure. However, there are two alternate factors to be taken into account should it decide to waive the requirements of the aforementioned section: (a) good cause shown, properly alleged and proved by the complainant; or (b) if the complaint involves a serious violation or breach of the DPA, taking into account the risk of harm to affected data subjects.
 
-Moreover, this Commission takes this opportunity to remind its previous ruling in NPC Case No. 19-528, which states that the purpose of Section 4 of NPC Circular No. 16-04 is to prevent the unduly clogging of the Commission's docket and avoid instances wherein a case shall be dismissed despite the good cause shown by the Complainant or the case involves a serious violation of the DPA. This Commission also reminds that the Rule is meant to prohibit instances of deciding cases based on mere technicalities.[^7]
+Moreover, this Commission takes this opportunity to remind its previous ruling in [[resolutions/2021/02-23-2021-mnlc-vs-pxxx-corporation|NPC Case No. 19-528]], which states that the purpose of Section 4 of NPC Circular No. 16-04 is to prevent the unduly clogging of the Commission's docket and avoid instances wherein a case shall be dismissed despite the good cause shown by the Complainant or the case involves a serious violation of the DPA. This Commission also reminds that the Rule is meant to prohibit instances of deciding cases based on mere technicalities.[^7]
 
 Additionally, it shall be emphasized that the personal information of Complainants were already processed by the Respondent when he requested and accessed the passports and included it to his Complaint-Affidavit. In this case, the Rule can no longer apply given that the Respondent cannot take any appropriate action to remedy the situation since the passports were already included in the Complaint-Affidavit filed before the Office of the Prosecutor and cannot be withdrawn.
 
@@ -159,7 +159,7 @@ As previously discussed, passports contain sensitive personal information wherei
 >
 > (f) The processing concerns such personal information as is **necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.**[^12] (Emphasis Supplied)
 
-This Commission then finds that Respondent's request and access to the copies of CL and DM's passports fall under the exception as stated in Section 13(f) of the DPA, specifically, the processing is necessary for the establishment, exercise or defense of legal claims. As previously ruled by the Commission in NPC Case No. 17-018, "the relationship of the parties during the processing and judicial ties between them are being considered in determining valid reliance to Section 13(f) of the DPA."[^13] In this case, Respondent's attachment of CL and DM's passports to his DOLE letter attached in his complaint-affidavit to the Office of the Prosecutor is to show factual antecedent for his allegations of theft and grave coercion against Complainants. It also alleges that both CL and DM are Australian citizens without valid working visas in the Philippines.
+This Commission then finds that Respondent's request and access to the copies of CL and DM's passports fall under the exception as stated in Section 13(f) of the DPA, specifically, the processing is necessary for the establishment, exercise or defense of legal claims. As previously ruled by the Commission in [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC Case No. 17-018]], "the relationship of the parties during the processing and judicial ties between them are being considered in determining valid reliance to Section 13(f) of the DPA."[^13] In this case, Respondent's attachment of CL and DM's passports to his DOLE letter attached in his complaint-affidavit to the Office of the Prosecutor is to show factual antecedent for his allegations of theft and grave coercion against Complainants. It also alleges that both CL and DM are Australian citizens without valid working visas in the Philippines.
 
 Likewise, the second processing by Respondent wherein he submitted the copies of passports as attachment to his letter to DOLE, CDC and BI which were attached to his complaint-affidavit to the Office of the Prosecutor, also falls under the same exception stated in the aforementioned section.
 
@@ -175,7 +175,7 @@ CL and DM alleged that DDZ may have broken into the MVP's database where the sca
 
 > **SEC. 29. Unauthorized Access or Intentional Breach.** – The penalty of imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) **shall be imposed on persons who knowingly and unlawfully, or violating data confidentiality and security data systems, breaks in any way into any system where personal and sensitive personal information is stored.**[^19] (Emphasis Supplied)
 
-Complainants were not able to demonstrate by substantial evidence the very *corpus delicti* of the crime which is the instance that the Respondent breaks into the data system where personal or sensitive personal information of the MVP is stored. Section 22 of NPC Circular No. 16-04 provides, "the Decision of the Commission shall adjudicate the issues raised in the complaint **on the basis of all the evidence presented** and its own consideration of the law." (Emphasis Supplied)
+Complainants were not able to demonstrate by substantial evidence the very *corpus delicti* of the crime which is the instance that the Respondent breaks into the data system where personal or sensitive personal information of the MVP is stored. Section 22 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] provides, "the Decision of the Commission shall adjudicate the issues raised in the complaint **on the basis of all the evidence presented** and its own consideration of the law." (Emphasis Supplied)
 
 Further, as the Supreme Court held in *Florencio Morales, Jr. v. Ombudsman Conchita Carpio-Morales, et. al.*, "The basic rule is that mere allegation is not evidence and is not equivalent to proof. Charges based on mere suspicion and speculation likewise cannot be given credence. When the complainant relies on mere conjectures and suppositions, and fails to substantiate his allegations, the complaint must be dismissed for lack of merit."[^20]
 
@@ -228,17 +228,17 @@ National Privacy Commission
 [^4]: Id. at p. 51 to 58, and p. 41 to 49.
 [^5]: Id. at p. 71 to 78, and p. 62 to 70.
 [^6]: Records (NPC Case no. 19-030) at 88 to 93, and Records (NPC Case no. 19-132) at 72 to 79.
-[^7]: Resolution, NPC Case No. 19-528. Dated 23 February 2021.
-[^8]: Sections 12, 13 and 29, DPA.
+[^7]: Resolution, [[resolutions/2021/02-23-2021-mnlc-vs-pxxx-corporation|NPC Case No. 19-528]]. Dated 23 February 2021.
+[^8]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]], [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] and [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|29]], DPA.
 [^9]: Records (NPC Case No. 19-030) at p. 91.
 [^10]: Records (NPC Case No. 19-132) at p. 46.
-[^11]: Section 3(j) of the Data Privacy Act of 2012.
-[^12]: Section 13(f) of the DPA.
-[^13]: Resolution, NPC Case No. 17-018. Dated 05 November 2020.
+[^11]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(j)]] of the Data Privacy Act of 2012.
+[^12]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f)]] of the DPA.
+[^13]: Resolution, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC Case No. 17-018]]. Dated 05 November 2020.
 [^14]: Section 9(b) of the Republic Act No. 10071.
 [^15]: Article 37 of the Labor Code of the Philippines.
 [^16]: Section 1 of Executive Order No. 80, Series of 1993.
 [^17]: Section 31 of the Administrative Code of 1987.
-[^18]: Resolution, NPC Case No. 17-018. Dated 5 November 2020.
-[^19]: Section 29 of the Data Privacy Act of 2012.
+[^18]: Resolution, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC Case No. 17-018]]. Dated 5 November 2020.
+[^19]: [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Section 29]] of the Data Privacy Act of 2012.
 [^20]: G.R. No. 208086, 27 July 2016, citing Agdeppa v. Office of the Ombudsman citing De Jesus v. Guerrero III, 614 Phil. 520, 529.

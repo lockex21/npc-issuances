@@ -44,7 +44,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before this Commission is a Complaint filed by JAA (Complainant) against RB (Respondent) for an alleged violation of Sections 31 and 32 of the Data Privacy Act of 2012 or Republic Act No. 10173 (DPA).
+Before this Commission is a Complaint filed by JAA (Complainant) against RB (Respondent) for an alleged violation of [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Sections 31]] and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 or Republic Act No. 10173 (DPA)]].
 
 ### Facts
 
@@ -349,7 +349,7 @@ Nonetheless, [[advisory-opinions/2020/advisory-opinion-no-2020-022-public-disclo
 
 In relation to this, DOH-NPC JMC 2020-0002 states that aggregate health information, or pseudonymized or anonymized detailed health information may be disclosed for a legitimate purpose, consistent with the DOH Updated Guidelines on Contact Tracing provisions on Protecting Data Privacy of COVID-19 Cases and Close Contacts.[^91]
 
-Said policy is further reinforced in Section 10 (C) (5) of NPC Circular 2021-02, or the Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures, which prohibits the disclosure of personal data to the public, the media, or any other public-facing platforms without the consent of the patient or vaccinee or his/her authorized representative or next of kin.[^92]
+Said policy is further reinforced in Section 10 (C) (5) of [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|NPC Circular 2021-02, or the Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures]], which prohibits the disclosure of personal data to the public, the media, or any other public-facing platforms without the consent of the patient or vaccinee or his/her authorized representative or next of kin.[^92]
 
 Unfortunately, these issuances are what Respondent precisely failed to abide by when he specifically named the Complainant as a COVID patient in the BAA Facebook group with over seven thousand (7,000) members.
 
@@ -471,16 +471,16 @@ National Privacy Commission
 [^42]: Urgent Motion for Resolution dated 20 February 2023 of JAA, at pp. 5-6.
 [^43]: Id, at p. 6.
 [^44]: JAA vs. RB, NPC 21-085, Notice that the Case is Submitted for the Decision of the Commission dated 22 March 2023.
-[^45]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 31 (2012).
+[^45]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Republic Act No. 10173, chapter VIII, § 31]] (2012).
 [^46]: Comment dated 26 July 2021 of RB, at p. 2.
-[^47]: Data Privacy Act of 2012, chapter I, § 3 (h).
+[^47]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, chapter I, § 3 (h)]].
 [^48]: An Act Providing Policies and Prescribing Procedures on Surveillance and Response to Notifiable Diseases, Epidemics, and Health Events of Public Health Concern, and Appropriating Funds Therefor, Repealing for the Purpose Act No. 3573, Otherwise Known as the "Law on Reporting of Communicable Diseases" [Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern Act], Republic Act No. 11332, § 9 (e) (2019).
 [^49]: Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002, VII (E) (2020).
 [^50]: Comment dated 26 July 2021 of RB, at p. 2.
 [^51]: Complaint Affidavit dated 25 May 2021 of JAA, at p. 1.
-[^52]: Data Privacy Act of 2012, chapter I, § 3 (j).
-[^53]: Data Privacy Act of 2012, chapter I, § 3 (g).
-[^54]: Data Privacy Act of 2012, chapter I, § 3 (l).
+[^52]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, chapter I, § 3 (j)]].
+[^53]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, chapter I, § 3 (g)]].
+[^54]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, chapter I, § 3 (l)]].
 [^55]: Attached Screenshots from the Complaints-Assisted Form dated 27 May 2021 of JAA.
 [^56]: Id, at p. 8.
 [^57]: Id, at p. 13.
@@ -509,7 +509,7 @@ National Privacy Commission
 [^80]: Id, at p. 3.
 [^81]: Id, at pp. 2-3.
 [^82]: Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern Act, § 9 (e).
-[^83]: Data Privacy Act of 2012, chapter VIII, § 32.
+[^83]: [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Data Privacy Act of 2012, chapter VIII, § 32]].
 [^84]: EG v. JI, RO, and RR, [[decisions/2022/npc-21-111-eg-v-ji-ro-and-rr|NPC 21-111]], Decision dated 22 September 2022, at pp. 11-12.
 [^85]: Department of Health, Updated Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease Cases, Department Memorandum 2020-0189 (2020).
 [^86]: Department of Health Department Memorandum 2020-0189.
@@ -518,9 +518,9 @@ National Privacy Commission
 [^89]: Id, at p. 11.
 [^90]: Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion No. 2020-022, 08 June 2020, at p. 3.
 [^91]: Department of Health and National Privacy Commission, Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response, Joint Memorandum Circular No. 2020-0002, VI (F) (2020).
-[^92]: National Privacy Commission, Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures, NPC Circular 2021-02, § 10 (C) (5), (08 November 2021) (NPC Circular 2021-02).
+[^92]: National Privacy Commission, [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures, NPC Circular 2021-02]], § 10 (C) (5), (08 November 2021) (NPC Circular 2021-02).
 [^93]: Public Disclosure of Identities of COVID Patients for Contact Tracing, NPC Advisory Opinion No. 2020-022, 08 June 2020, at p. 3.
 [^94]: Department of Health and National Privacy Commission Joint Memorandum Circular No. 2020-0002, VII (F)(2).
 [^95]: Complaint Affidavit dated 25 May 2021 of JAA, at p. 1.
-[^96]: Data Privacy Act of 2012, chapter IV, § 16 (f).
+[^96]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, chapter IV, § 16 (f)]].
 [^97]: An Act to Ordain and Institute the Civil Code of the Philippines [Civil Code of the Philippines], Republic Act No. 386, book IV, chapter 3, § 3, Art. 2221 (1949).

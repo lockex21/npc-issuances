@@ -1,5 +1,10 @@
 ---
 title: "NPC Advisory Opinion No. 2019-049 — Facial Recognition for ID System"
+aliases:
+  - "NPC Advisory Opinion No. 2019-049"
+  - "npc advisory opinion no. 2019-049"
+  - "Advisory Opinion No. 2019-049"
+  - "advisory opinion no. 2019-049"
 description: "Advisory opinion on the use of facial recognition as a means of identification for entry to private buildings and the requirements for obtaining express consent under the Data Privacy Act."
 tags:
   - "issuance"
@@ -31,7 +36,7 @@ The NPC has yet to issue official guidelines on the use of facial recognition in
 
 ### Discussion
 
-Using facial recognition as a means to identify an individual entering buildings and premises must be grounded on any of the lawful criteria for processing under Section 12 of the law. In this situation, the identification of the individual is linked to ensuring the safety and security of the premises and its occupants, which may fall under “legitimate interests pursued by the
+Using facial recognition as a means to identify an individual entering buildings and premises must be grounded on any of the lawful criteria for processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] of the law. In this situation, the identification of the individual is linked to ensuring the safety and security of the premises and its occupants, which may fall under “legitimate interests pursued by the
 
 personal information controller” under Section 12 (f)[^2] under the DPA. To comply with transparency and the right of the data subject to be informed, employees or occupants of buildings must first be apprised of the use of facial recognition as the chosen identification system, and any information related to the processing of their information in connection such system.
 
@@ -49,5 +54,5 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, (2012).
 [^2]: (f) The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.

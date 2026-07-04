@@ -1,5 +1,10 @@
 ---
 title: "NPC Advisory Opinion No. 2017-057 — Consent for Data Sharing and Outsourcing Agreements"
+aliases:
+  - "NPC Advisory Opinion No. 2017-057"
+  - "npc advisory opinion no. 2017-057"
+  - "Advisory Opinion No. 2017-057"
+  - "advisory opinion no. 2017-057"
 description: "Clarifies that personal information controllers are not required to obtain separate data subject consent before entering into outsourcing agreements, as the processing purpose and controller remain unchanged, unlike data sharing agreements which involve multiple controllers."
 tags:
   - issuance
@@ -24,18 +29,19 @@ Re: Consent for Data Sharing and Outsourcing Agreements
 
 Dear [Redacted],
 
-This pertains to your request for advisory opinion received by the National Privacy Commission (NPC) on 16 August 2017, which sought to clarify matters regarding [[laws/data-privacy-act-of-2012|Republic Act No. 10173]][^1], also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR)[^2] and relevant issuances, and particularly respond to the following questions:
+This pertains to your request for advisory opinion received by the National Privacy Commission (NPC) on 16 August 2017, which sought to clarify matters regarding [[laws/data-privacy-act-of-2012|Republic Act No. 10173]][^1], also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations (IRR)]][^2] and relevant issuances, and particularly respond to the following questions:
 
 ### Discussion
 
 1. Whether the personal information controller (PIC) is required to obtain the data subject's consent before entering into an outsourcing agreement with a personal information processor (PIP); and
-2. Whether outsourcing agreements should also comply with the conditions outlined in Rule IV, Section 20(b) for data sharing.
+2. Whether outsourcing agreements should also comply with the conditions outlined in Rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20(b)]] for data sharing.
 
 First, it is important to take note of the difference between a data sharing agreement and an outsourcing agreement. As defined in the IRR, data sharing pertains to the disclosure or transfer to a third party of personal data under the custody of a PIC or a PIP wherein such transfer was directly instructed by the PIC.[^3]
 
-The data sharing agreement then refers to the contract which contains the terms and conditions of a data sharing arrangement between two or more PICs.[^4] Despite sharing directly by the PIP, the party to the agreement will be the PIC, and not the PIP. Every data sharing agreement must comply with the conditions set forth in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20(b) of the IRR]], as well as those indicated in NPC Circular 16-02 where the sharing arrangement involves the government.
+The data sharing agreement then refers to the contract which contains the terms and conditions of a data sharing arrangement between two or more PICs.[^4] Despite sharing directly by the PIP, the party to the agreement will be the PIC, and not the PIP. Every data sharing agreement must comply with the conditions set forth in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20(b) of the IRR]], as well as those indicated in [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular 16-02]] where the sharing arrangement involves the government.
 
 On the other hand, an outsourcing agreement pertains to the disclosure or transfer of personal data by the PIC to a PIP in order for the latter to perform the particular activities outsourced by the former.[^5] Outsourcing or subcontracting agreements must then comply with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|Section 44 of the IRR]].
+
 
 In your email, you inquired about consent for outsourcing agreements because the definition of data sharing excludes outsourcing.
 
@@ -49,7 +55,7 @@ This is different in the case of a data sharing agreement as there will be two (
 
 Given that the data subject has the right to be informed and notified of the processing activities done to his personal data, the PIC must indicate in the privacy notice or privacy statement that particular data processing activities are outsourced in order to deliver their services effectively and efficiently.
 
-Consequently, outsourcing agreements need not comply with the requirements for data sharing, but must ensure its compliance with Section 44, in relation to Sections 43 and 45 of the IRR.
+Consequently, outsourcing agreements need not comply with the requirements for data sharing, but must ensure its compliance with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|Section 44]], in relation to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-43-subcontract-of-personal-data|Sections 43]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-45-duty-of-personal-information-processor|45]] of the IRR.
 
 For your reference.
 
@@ -58,12 +64,12 @@ Very truly yours,
 **RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
-[^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, "Data Privacy Act of 2012" (15 August 2012).
-[^2]: Implementing Rules and Regulations of the Data Privacy Act (24 August 2016).
+[^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, "[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]" (15 August 2012).
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act]] (24 August 2016).
 [^3]: Id., §3(f).
-[^4]: NPC Circular 16-02: Data Sharing Agreements Involving Government Agencies (10 October 2016), §3(e).
+[^4]: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular 16-02]]: Data Sharing Agreements Involving Government Agencies (10 October 2016), §3(e).
 [^5]: Supra note 3.
 [^6]: Supra note 4, §6(a).
 [^7]: Supra note 3, §20(b).
 [^8]: Supra note 4, §6(b)&(c).
-[^9]: IRR of RA No. 10173, §3(o) "Processing" refers to any operation or any set of operations performed upon personal data including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data. Processing may be performed through automated means, or manual processing, if the personal data are contained or are intended to be contained in a filing system.
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA No. 10173, §3(o) "Processing" refers to any operation or any set of operations performed upon personal data including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data. Processing may be performed through automated means, or manual processing, if the personal data are contained or are intended to be contained in a filing system.

@@ -7,6 +7,11 @@ tags:
   - "year/2021"
   - "topic/data-sharing"
   - "topic/government"
+aliases:
+  - "NPC Advisory Opinion No. 2021-003"
+  - "npc advisory opinion no. 2021-003"
+  - "Advisory Opinion No. 2021-003"
+  - "advisory opinion no. 2021-003"
 draft: false
 ---
 
@@ -41,7 +46,7 @@ Pursuant to the above, the NMP produced the comprehensive Factbook which is a co
 
 At the outset, please note that NPC Circular No. 2020-03 on Data Sharing Agreements has expressly repealed NPC Circular No. 16-02. The new Circular may be accessed at our website at: https://www.privacy.gov.ph/wp-content/uploads/2021/01/Circular-Data-Sharing-Agreement-amending-16-02-21-Dec-2020-clean-copy-FINAL-LYA-and-JDN-signed-minor-edit.pdf.
 
-To determine whether data sharing falls within the scope of the Data Privacy Act of 2012[^4] (DPA) and NPC Circular No. 2020-03, it is important to first determine whether the subject matter of the DSA is personal information.
+To determine whether data sharing falls within the scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^4] (DPA) and NPC Circular No. 2020-03, it is important to first determine whether the subject matter of the DSA is personal information.
 
 To clarify, [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] provides that the law applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing, whereas Section 3(g) of the same defines personal information as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 

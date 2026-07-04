@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2022-025 — 201 Files of Government Employees"
 description: "Advisory opinion on the rights of government employees to their 201 files and other information processed by government agencies."
+aliases:
+  - "NPC Advisory Opinion No. 2022-025"
+  - "npc advisory opinion no. 2022-025"
+  - "Advisory Opinion No. 2022-025"
+  - "advisory opinion no. 2022-025"
 tags:
   - issuance
   - type/advisory-opinion
@@ -30,7 +35,7 @@ We respond to your inquiry concerning the rights of government employees to thei
 
 You inform that you have been an employee of the Department of Agriculture. In September 2020, you received a Special Order reassigning you to a remote province. You filed an appeal before the Civil Service Commission (CSC) to assail your reassignment. Pending your appeal, you requested to be reinstated at your original station but was denied. Months later, you were dropped from the rolls without notice. As a result, you filed another petition before the CSC for being dropped from the rolls.
 
-To support your petition, you requested for a copy of your 201 file which is in the custody of the Human Resources Office of DA. In your letters to the Officer-in-Charge Regional Director (OIC-RD), you insisted that government employees are entitled to copies of their 201 files citing relevant CSC rules and the Data Privacy Act of 2012.
+To support your petition, you requested for a copy of your 201 file which is in the custody of the Human Resources Office of DA. In your letters to the Officer-in-Charge Regional Director (OIC-RD), you insisted that government employees are entitled to copies of their 201 files citing relevant CSC rules and the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
 
 Through a 31 March 2022 letter, the OIC-RD denied your request for copies of your 201 Files stating that:
 
@@ -65,7 +70,7 @@ In [[advisory-opinions/2018/advisory-opinion-no-2018-028-npc-advisory-opinion-no
 
 > Accordingly, Employee A, being a data subject, is entitled to have reasonable access to the personal information in her 201 file. She may exercise her right to access in the manner provided under the DPA but she must still abide by company protocols in accessing her 201 file.
 >
-> Under the law, the company is obligated to respond and grant reasonable access to subject request. Should the request be ignored or denied, a complaint with the NPC may be initiated following the procedure laid down in NPC Circular No. 2016-04, as one of NPC's functions is to enforce and effectively implement the provisions of the DPA, including those pertaining to the rights of data subjects.
+> Under the law, the company is obligated to respond and grant reasonable access to subject request. Should the request be ignored or denied, a complaint with the NPC may be initiated following the procedure laid down in [[issuances/undated/rules-of-procedure|NPC Circular No. 2016-04]], as one of NPC's functions is to enforce and effectively implement the provisions of the DPA, including those pertaining to the rights of data subjects.
 
 In addition, the National Privacy Commission (NPC) issued [[issuances/2022/guidelines-on-requests-for-personal-data-of-public-officers|NPC Advisory No. 2022-01]], "Guidelines on Requests for Personal Data of Public Officers"[^2] to provide guidance in dealing with personal and sensitive personal information (collectively, personal data) of government employees. The said Advisory unequivocally states that public officers and employees are recognized as data subjects with all the concomitant rights and available redresses, viz.:
 
@@ -81,7 +86,7 @@ In addition, you mentioned that your request for a copy of your 201 files is to 
 >
 > (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 
-In EA and TA vs. EJ, EE and HC the Commission emphasized that:
+In [[decisions/2019/npc-17-018-ea-and-ta-v-ej|EA and TA vs. EJ, EE and HC]] the Commission emphasized that:
 
 > "…processing as necessary for the establishment of legal claims" does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of "establishment … of legal claims" presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established.
 

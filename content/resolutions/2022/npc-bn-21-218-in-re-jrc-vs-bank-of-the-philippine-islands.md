@@ -58,7 +58,7 @@ Despite the Order to Mediate dated 01 August 2022[^12] to further conduct mediat
 
 ### Discussion
 
-> Rule III, Section (e)(3) of the Implementing Rules and Regulations of the Data Privacy Act of 2012 provides:
+> Rule III, Section (e)(3) of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]] provides:
 >
 > The Commission shall adjudicate on complaints and investigations on matters affecting personal data: Provided, that in resolving any complaint or investigation, except where amicable settlement is reached by the parties, the Commission shall act as collegial body. This includes:
 >
@@ -124,7 +124,7 @@ GENERAL RECORDS UNIT
 [^12]: *Supra* Note 10.
 [^13]: Mediated Settlement Agreement dated 05 August 2022.
 [^14]: *Id.* at pages 1–2.
-[^15]: Rule III, Section (e)(3) of the Implementing Rules and Regulations of the Data Privacy Act of 2012.
+[^15]: Rule III, Section (e)(3) of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]].
 [^16]: Application for Mediation of Complainant dated 14 April 2022.
 [^17]: Application for Mediation of Respondent dated 20 April 2022.
 [^18]: *Supra* Note 8.

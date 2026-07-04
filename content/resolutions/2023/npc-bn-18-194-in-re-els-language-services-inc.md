@@ -80,7 +80,7 @@ Whether ELS has sufficiently complied with the Commission's Order dated 13 Octob
 
 The Commission finds that ELS has sufficiently complied with the Order dated 13 October 2020. As such, the Commission resolves to terminate the investigation and consider the matter closed.
 
-Section 18 (D), NPC Circular 16-03 provides how notification shall be made, to wit:
+Section 18 (D), [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides how notification shall be made, to wit:
 
 Section 18. *Notification of Data Subjects*.
 
@@ -111,7 +111,7 @@ Sec. 20. *Security of Personal Information*.
 
 (a) The personal information controller must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^19]
 
-Furthermore, as also emphasized in Section 4 (B) of NPC Circular 16-03:
+Furthermore, as also emphasized in Section 4 (B) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]:
 
 SECTION 4. *Security Incident Management Policy*.
 
@@ -169,12 +169,12 @@ Attorney-In-Fact for ELS Language Services, Inc.
 [^12]: In re: ELS Language Services, Inc., NPC BN 18-194, Order to Submit Full Breach Report, 13 October 2020.
 [^13]: Personal Data Breach Report of ELS Language Services, Inc., dated 28 October 2020.
 [^14]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016-03, rule V, § 18 (D) (15 December 2016) (NPC Circular 16-03).
-[^15]: RPR vs. Edukasyon.ph, NPC 19-438, Resolution dated 22 September 2022, at p. 4.
+[^15]: RPR vs. Edukasyon.ph, [[resolutions/2022/npc-19-438-rpr-v-edukasyon-ph|NPC 19-438]], Resolution dated 22 September 2022, at p. 4.
 [^16]: ELS Letter to NPC, Attachment to Electronic Mail dated 11 October 2018 from ELS Language Services, Inc.
 [^17]: In Re BPI Philam Life Assurance Corporation, [[orders/2021/npc-bn-no-21-054-in-re-bpi-philam-life-assurance-corporation|NPC BN 21-054]], Order dated 15 April 2021, at p. 3.
 [^18]: Final Breach Notification Evaluation Report, 12 December 2022, at 6, in In Re ELS Language Services, Inc., NPC BN 18-194 (NPC 2018).
-[^19]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Chapter V, § 20 (a) (2012) (Data Privacy Act of 2012).
-[^20]: NPC Circular 16-03, rule II, § 4 (B).
+[^19]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], Chapter V, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (a)]] (2012) (Data Privacy Act of 2012).
+[^20]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule II, § 4 (B).
 
 COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION

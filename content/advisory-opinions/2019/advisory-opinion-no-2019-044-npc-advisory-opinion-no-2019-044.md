@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2019-044 — Authority to Share Customers' Personal Information to Partner Loan Provider"
 description: "Guidance on sharing customer personal data for credit scoring and data sharing agreements with loan providers."
+aliases:
+  - "NPC Advisory Opinion No. 2019-044"
+  - "npc advisory opinion no. 2019-044"
+  - "Advisory Opinion No. 2019-044"
+  - "advisory opinion no. 2019-044"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -74,6 +79,6 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 11.
-[^4]: Data Privacy Act of 2012, § 21.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11]].
+[^4]: [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Data Privacy Act of 2012, § 21]].

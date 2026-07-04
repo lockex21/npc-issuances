@@ -51,7 +51,7 @@ The National Privacy Commission's Compliance and Monitoring Division (CMD) issue
 
 In the Resolution dated 03 February 2022, the Commission ordered Grab PH to submit its Privacy Impact Assessment (PIA) In-Vehicle Audio Recording.[^6]
 
-Nevertheless, this Commission deems it appropriate that Grab PH must first remediate the issues found in its PIA in accordance with the DPA.
+Nevertheless, this Commission deems it appropriate that Grab PH must first remediate the issues found in its PIA in accordance with the [[laws/data-privacy-act-of-2012|DPA]].
 
 In Grab PH's PIA on the Consumer Verification via Selfie dated 6 February 2020, it stated that:
 
@@ -77,9 +77,9 @@ In the Technical Report of CMD, it was indicated that:
 >
 > ...
 
-Here, Grab PH indicated in its PIA that the Consumer Selfie may be retained as long as necessary if it is related to safety incidents.[^10] However, the Commission considers that while these may be limited to individuals involved in safety incidents, the retention for an indefinite period is contrary to the DPA.
+Here, Grab PH indicated in its PIA that the Consumer Selfie may be retained as long as necessary if it is related to safety incidents.[^10] However, the Commission considers that while these may be limited to individuals involved in safety incidents, the retention for an indefinite period is contrary to the [[laws/data-privacy-act-of-2012|DPA]].
 
-The Commission deems it appropriate that by revising the retention period stated in Grab PH's PIA and aligning it to the DPA, it essentially acquaints the data subject on how the personal data is being retained consistent with its purpose to "reduce criminal incidents and improve safety to its riders."[^11]
+The Commission deems it appropriate that by revising the retention period stated in Grab PH's PIA and aligning it to the [[laws/data-privacy-act-of-2012|DPA]], it essentially acquaints the data subject on how the personal data is being retained consistent with its purpose to "reduce criminal incidents and improve safety to its riders."[^11]
 
 As to the disposal of selfie data, Grab PH indicated in its PIA:
 
@@ -89,7 +89,7 @@ As to the disposal of selfie data, Grab PH indicated in its PIA:
 >
 > - Selfie will be removed after the Consumer account becomes inactive i.e dormant, per Grab account archival policy, unless the account is related/involved in any safety incidents. Grab will delete the data of Consumers who are dormant after 180 days. The cleanup activity (of selfie data) is manually triggered by Grab Safety Engineers once in every six (6) months. The deletion process is triggered manually once in 6 months and safety teams are implementing to auto trigger the deletion process once in 6 months. (ETA to implement auto triggers is by the end of 2021). If consumers were involved in any safety incidents, their selfie will not be deleted.[^12]
 
-Rule IV, Section 19 D(3) of the Implementing Rules and Regulation of the Data Privacy Act of 2012 (IRR), provides that:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Rule IV, Section 19 D(3) of the Implementing Rules and Regulation of the Data Privacy Act of 2012 (IRR)]], provides that:
 
 > Section 19. General principles in collection, processing and retention. The processing of personal data shall adhere to the following general principles in the collection, processing, and retention of personal data:
 >
@@ -153,13 +153,13 @@ GENERAL RECORDS UNIT
 [^6]: In re: Grab Philippines, NPC CC 20-001, Resolution dated 03 February 2022.
 [^7]: Grab PH's Privacy Impact Assessment Consumer Verification via Selfie dated 06 February 2020, at pp. 15-16.
 [^8]: Compliance and Monitoring Division (CMD), Revised Technical Report on Grab Philippines' Consumer Verification via Selfie Project dated 17 May 2022, at p. 4.
-[^9]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, §11(e) (2012).
+[^9]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter III, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§11(e)]] (2012).
 [^10]: Grab PH's Privacy Impact Assessment Consumer Verification via Selfie dated 06 February 2020, at pp. 15-16.
 [^11]: Id., at p. 4.
 [^12]: Id., at p. 18.
-[^13]: National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, §19 D(3) (2016).
+[^13]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Implementing Rules and Regulations of the Data Privacy Act of 2012]], rule IV, §19 D(3) (2016).
 [^14]: Grab PH's Privacy Impact Assessment Consumer Verification via Selfie dated 06 February 2020.
 [^15]: Id.
-[^16]: National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of 2012, rule IV, §19 D(3) (2016).
+[^16]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Implementing Rules and Regulations of the Data Privacy Act of 2012]], rule IV, §19 D(3) (2016).
 [^17]: Grab Philippines Compliance and Motion to Lift Cease-and-Desist Order dated 22 June 2021.
-[^18]: National Privacy Commission, NPC Advisory 17-03, 31 July 2017, Guidelines on Privacy Impact Assessment, at p. 5.
+[^18]: National Privacy Commission, NPC Advisory 17-03, 31 July 2017, [[issuances/2017/guidelines-on-privacy-impact-assessments|Guidelines on Privacy Impact Assessment]], at p. 5.

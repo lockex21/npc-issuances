@@ -6,6 +6,11 @@ tags:
   - “type/advisory-opinion”
   - “year/2018”
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-016"
+  - "npc advisory opinion no. 2018-016"
+  - "Advisory Opinion No. 2018-016"
+  - "advisory opinion no. 2018-016"
 ---
 
 ## Source
@@ -41,7 +46,7 @@ You are seeking guidance on how Capitol Medical Center (CMC) can resolve the iss
 
 #### Criteria for Lawful Processing of Personal Data
 
-The processing of personal, sensitive personal and privileged information (collectively, personal data) shall be allowed, subject to the compliance with the requirements of the DPA, and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.[^2]
+The processing of personal, sensitive personal and privileged information (collectively, personal data) shall be allowed, subject to the compliance with the requirements of the [[laws/data-privacy-act-of-2012|DPA]], and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.[^2]
 
 Specifically, personal data must be collected for specified and legitimate purposes determined and declared before, or as soon as reasonably practicable after collection, and later processed in a way compatible with such declared, specified and legitimate purposes only, and processed fairly and lawfully.[^3]
 
@@ -71,9 +76,9 @@ Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes, "Data Privacy Act of 2012" (15 August 2012).
 
-[^2]: RA No. 10173, §11.
+[^2]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|RA No. 10173, §11]].
 
-[^3]: RA 10173 § 11; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] § 20(b).
+[^3]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|RA 10173 § 11]]; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|IRR § 20(b)]].
 
 [^4]: RA No. 10173, §3(b) – Consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so.
 

@@ -7,6 +7,11 @@ tags:
   - "year/2021"
   - "topic/consent"
   - "topic/employment"
+aliases:
+  - "NPC Advisory Opinion No. 2021-004"
+  - "npc advisory opinion no. 2021-004"
+  - "Advisory Opinion No. 2021-004"
+  - "advisory opinion no. 2021-004"
 draft: false
 ---
 
@@ -53,7 +58,7 @@ Thus, as PICs, the brokers are accountable with respect to the personal data the
 
 #### Lawful basis for processing; sensitive personal information; health information; consent; transparency
 
-Since the brokers intend to collect and process health information, which is considered as sensitive personal information under the DPA, they must anchor their processing on any of the various lawful criteria under Section 13 of the law. A determination must be made on the most appropriate lawful basis, considering all relevant circumstances of the proposed processing, the corporate clients' employees' expectation of privacy as well as the impact on their rights and freedoms.
+Since the brokers intend to collect and process health information, which is considered as sensitive personal information under the DPA, they must anchor their processing on any of the various lawful criteria under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the law]]. A determination must be made on the most appropriate lawful basis, considering all relevant circumstances of the proposed processing, the corporate clients' employees' expectation of privacy as well as the impact on their rights and freedoms.
 
 Should there be no other appropriate lawful basis to process such utilization information except for the consent of the employee data subject, it is incumbent upon the brokers to inform them and obtain their consent, either directly or through the corporate clients.
 
@@ -74,9 +79,9 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 4.
-[^4]: Data Privacy Act of 2012, § 3 (h).
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 3 (m) (2016).
-[^6]: Data Privacy Act of 2012, § 3 (b).
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
+[^4]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (h)]].
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 3 (m)]] (2016).
+[^6]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (b)]].
+[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c)]] (2016).

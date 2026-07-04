@@ -125,7 +125,7 @@ In cases where consent is not required, a privacy notice is sufficient. Where th
 
 It is a good practice for PICs to review their privacy notice regularly to ensure that it continues to reflect accurately the data sharing arrangement they are engaged in.
 
-**SECTION 6.** ***Authorized processing.*** Data sharing may be based on any of the criteria for lawful processing of personal data in Sections 12 and 13 of the Act: *provided*, that nothing in this Circular shall be construed as prohibiting or limiting the sharing, disclosure, or transfer of personal data that is already authorized or required by law.
+**SECTION 6.** ***Authorized processing.*** Data sharing may be based on any of the criteria for lawful processing of personal data in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the Act: *provided*, that nothing in this Circular shall be construed as prohibiting or limiting the sharing, disclosure, or transfer of personal data that is already authorized or required by law.
 
 **SECTION 7.** ***Special cases.*** Data sharing may also be allowed pursuant to [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the Act]], which specifies the special cases wherein the law and the rules are not applicable, but such data sharing should only be to the minimum extent necessary to achieve the specific purpose, function, or activity, and subject to the requirements of applicable laws, regulations, or ethical standards.
 

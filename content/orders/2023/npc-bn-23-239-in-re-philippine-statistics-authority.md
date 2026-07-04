@@ -50,7 +50,7 @@ Further, PSA requested for the postponement to notification of affected data sub
 
 On 20 October 2023, the Commission issued a Minute Resolution ordering PSA to submit proof to substantiate its request for postponement to notify the affected data subjects:
 
-> Pursuant to Section 17 (D) of NPC Circular 16-03 (Personal Data Breach Management), the Commission may require additional information, if necessary, for the proper resolution of the request for postponement to notify the affected data subjects.
+> Pursuant to Section 17 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]], the Commission may require additional information, if necessary, for the proper resolution of the request for postponement to notify the affected data subjects.
 >
 > **WHEREFORE**, premises considered, the Commission hereby **ORDERS** Philippine Statistics Authority to **SUBMIT** within five (5) days upon receipt of this Minute Resolution proof to substantiate the request for postponement to notify the affected data subjects.
 >
@@ -72,11 +72,11 @@ Additionally, according to PSA, it intends to notify the affected data subjects 
 
 Subsequently, PSA claimed that it will train personnel who will conduct the notification through the heads of the households.[^24] Further, the said manpower personnel tasked to conduct the notifications "will be trained to use a secure means of communication, proper identification of the data subject to be notified and will be required to submit an Oath of Data Privacy."[^25]
 
-Lastly, PSA stated that it will set up a help desk or a portal where affected data subjects can obtain more detailed information with regard to the incident.[^26] Its Legal Service (LS) and the Data Protection and Security Unit (DPSU) will oversee the proposed procedure of data subject notification.[^27] Additionally, the LS and DPSU of PSA will train its personnel and will conduct random audits to ensure its compliance with NPC Circular No. 16-03 (Personal Data Breach Management).[^28]
+Lastly, PSA stated that it will set up a help desk or a portal where affected data subjects can obtain more detailed information with regard to the incident.[^26] Its Legal Service (LS) and the Data Protection and Security Unit (DPSU) will oversee the proposed procedure of data subject notification.[^27] Additionally, the LS and DPSU of PSA will train its personnel and will conduct random audits to ensure its compliance with [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]].[^28]
 
 The Commission denies PSA's request for postponement of data subject notification and request for use of alternative means of data subject notification.
 
-Section 18 (B) of NPC Circular No. 16-03 provides:
+Section 18 (B) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides:
 
 > B. Exemption or Postponement of Notification. If it is not reasonably possible to notify the data subjects within the prescribed period, the personal information controller shall request the Commission for an exemption from the notification requirement, or the postponement of the notification. A personal information controller may be exempted from the notification requirement where the Commission determines that such notification would not be in the public interest or in the interest of the affected data subjects. The Commission may authorize the postponement of notification where it may hinder the progress of a criminal investigation related to a serious breach, taking into account circumstances provided in Section 13 of this Circular, and other risks posed by the personal data breach.[^29] (Emphasis supplied)
 
@@ -84,7 +84,7 @@ To reiterate, PSA's justification for its request for postponement is that the a
 
 Additionally, PSA requests for the use of alternative means of notification. According to PSA, it "intends to notify the data subjects through the head of household as the information was collected through them."[^30]
 
-Section 18 (D) of NPC Circular No. 16-03 states that:
+Section 18 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] states that:
 
 > D. Form. Notification of affected data subjects shall be done individually, using secure means of communication, whether written or electronic. The personal information controller shall take the necessary steps to ensure the proper identity of the data subject being notified, and to safeguard against further unnecessary disclosure of personal data.
 >
@@ -96,7 +96,7 @@ In seeking the approval of the Commission to use alternative means of data subje
 
 Further, the Commission finds that notification of the head of the household alone is insufficient. It bears stressing that notification of the head of the household is not tantamount to notification to the affected members of the household. Notwithstanding that the information was collected through the head of the household, data subjects who are members of the household whose personal data was affected by the breach, must also be notified of such incident in order to allow them to take precautions against the likelihood of harm or risk that the incident might cause.[^33]
 
-Moreover, the Commission underscores the necessity for PICs to identify the affected data subjects and personal data involved in breach incidents. In this case, it must be noted that individuals whose personal data are involved, such as sensitive personal information as defined in [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]], and any other information that may be used to enable identity fraud as provided in Section 11(A) of the NPC Circular No. 16-03 are considered the affected data subjects. Thus, individuals whose personal data falls under the definition of the aforementioned provisions must be individually notified.
+Moreover, the Commission underscores the necessity for PICs to identify the affected data subjects and personal data involved in breach incidents. In this case, it must be noted that individuals whose personal data are involved, such as sensitive personal information as defined in [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]], and any other information that may be used to enable identity fraud as provided in Section 11(A) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] are considered the affected data subjects. Thus, individuals whose personal data falls under the definition of the aforementioned provisions must be individually notified.
 
 Furthermore, in establishing all mechanisms to ensure that affected data subjects are made aware of the breach, PSA may carry out the individual notification through sending the data subject notification of members of the household whose personal data is affected by the breach to the head of the household. PSA must provide an individual data subject notification to the members of the household affected by the breach through the head of the household.
 
@@ -162,8 +162,8 @@ GENERAL RECORDS UNIT
 [^26]: Compliance (With Request for Alternative Mode of Notification) by Philippine Statistics Authority dated 31 October 2023.
 [^27]: Id.
 [^28]: Id.
-[^29]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18(B) (15 December 2016) (NPC Circular 16-03).
+[^29]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18(B) (15 December 2016) (NPC Circular 16-03).
 [^30]: Compliance (With Request for Alternative Mode of Notification) by Philippine Statistics Authority dated 31 October 2023.
-[^31]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18(D) (15 December 2016) (NPC Circular 16-03).
+[^31]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18(D) (15 December 2016) (NPC Circular 16-03).
 [^32]: Id.
-[^33]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 13 (15 December 2016) (NPC Circular 16-03).
+[^33]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 13 (15 December 2016) (NPC Circular 16-03).

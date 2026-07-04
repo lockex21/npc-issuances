@@ -94,7 +94,7 @@ However, the Commission denies UPHDMC's requests to limit notification to those 
 
 Accordingly, the Commission finds that UPHDMC must notify the affected data subjects and submit proof of notification and its full breach report.
 
-Section 11, NPC Circular No. 16-03 (Personal Data Breach Management) provides when notification shall be required, to wit:
+Section 11, [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]] provides when notification shall be required, to wit:
 
 > SECTION 11. When notification is required.
 > Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
@@ -107,7 +107,7 @@ Section 11, NPC Circular No. 16-03 (Personal Data Breach Management) provides wh
 
 In this case, all the elements of mandatory breach notification are present. As to the first element, the incident that affected UPHDMC's systems contains sensitive personal information and other information that may be used to enable identity fraud.[^13]
 
-Section 3 (l) of Republic Act 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) defines sensitive personal information as personal information:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l)]] of Republic Act 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) defines sensitive personal information as personal information:
 
 > (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations;
 >
@@ -135,11 +135,11 @@ From UPHDMC's Compliance, it can be gleaned that the affected data subjects tota
 > Total number of notifications sent to doctors: 590 out of 4,885
 > Total number of notifications sent to employees: 719 out of 1,097[^21]
 
-On this note, Section 13 of NPC Circular 16-03 provides for additional factors that a personal information controller (PIC) shall consider if there is uncertainty as to the need to notify, such as when "the personal data reasonably believed to have been compromised involves at least one hundred (100) individuals."[^22]
+On this note, Section 13 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides for additional factors that a personal information controller (PIC) shall consider if there is uncertainty as to the need to notify, such as when "the personal data reasonably believed to have been compromised involves at least one hundred (100) individuals."[^22]
 
 Notwithstanding UPHDMC's claim in its Compliance that it partially notified the affected data subjects, without any substantiation, these bare allegations do not conform with the purpose of the notification requirement, which is "to protect themselves against the possible effects of the data breach."[^23]
 
-Hence, the large number of affected data subjects, in addition to the attendance of the three elements of mandatory breach notification, mandates that UPHDMC must individually notify all affected data subjects, in line with NPC Circular 16-03.
+Hence, the large number of affected data subjects, in addition to the attendance of the three elements of mandatory breach notification, mandates that UPHDMC must individually notify all affected data subjects, in line with [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
 Lastly, UPHDMC's requests to limit notification to those having transactions for the last six months from the date of the incident and to notify the affected data subjects in a piecemeal manner cannot be sustained.
 
@@ -153,7 +153,7 @@ WHEREFORE, premises considered, the Commission resolves to:
 
 1. **DENY** University of Perpetual Help Dalta Medical Center, Inc.'s requests to limit notification to those having transactions for the last six months from the date of the incident and to notify the affected data subjects in a piecemeal manner;
 2. **ORDER** University of Perpetual Help Dalta Medical Center, Inc. to notify all affected data subjects and submit proof of notification and its full breach report directly to the Compliance and Monitoring Division (CMD) within fifteen (15) days from receipt of this Order; and
-3. **DIRECT** the CMD to issue the appropriate orders necessary to evaluate and monitor the completeness of University of Perpetual Help Dalta Medical Center, Inc.'s data breach notification and assess its breach management pursuant to NPC Circular 16-03 (Personal Data Breach Management).
+3. **DIRECT** the CMD to issue the appropriate orders necessary to evaluate and monitor the completeness of University of Perpetual Help Dalta Medical Center, Inc.'s data breach notification and assess its breach management pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]].
 
 **SO ORDERED.**
 
@@ -196,20 +196,20 @@ GENERAL RECORDS UNIT
 [^9]: Compliance dated 11 December 2023 of University of Perpetual Help Dalta Medical Center, Inc, at p. 1.
 [^10]: Id, at p. 1.
 [^11]: Id, at p. 1.
-[^12]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).
-[^13]: NPC Circular 16-03, rule V, § 11.
-[^14]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (l) (2012).
+[^12]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 2016-03]], rule V, § 11 (15 December 2016) (NPC Circular 16-03).
+[^13]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, § 11.
+[^14]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]] (2012).
 [^15]: In re: University of Perpetual Help Dalta Medical Center, Inc., NPC BN 22-208, Preliminary Data Breach Notification Form, Data Breach Notification Management System (DBNMS), 2.a SPI, and 2.b Other info that may enable identity fraud.
 [^16]: NPC BN 18-141 (unreported), Resolution dated 30 June 2023, at p. 5.
-[^17]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).
+[^17]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 2016-03]], rule V, § 11 (15 December 2016) (NPC Circular 16-03).
 [^18]: In re: University of Perpetual Help Dalta Medical Center, Inc., NPC BN 22-208, Preliminary Data Breach Notification Form, Data Breach Notification Management System (DBNMS), Brief Summary.
 [^19]: Id, 1.e Likely consequences.
 [^20]: NPC BN 17-028 & NPC BN 18-180 (unreported), Resolution dated 11 May 2023, at p. 8.
 [^21]: Compliance dated 11 December 2023 of University of Perpetual Help Dalta Medical Center, Inc, at p. 1.
-[^22]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016-03, rule V, § 13 (15 December 2016) (NPC Circular 16-03).
-[^23]: NPC Circular 16-03, rule V, § 18 (A).
-[^24]: NPC Circular 16-03, rule V, § 18 (D).
+[^22]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 2016-03]], rule V, § 13 (15 December 2016) (NPC Circular 16-03).
+[^23]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, § 18 (A).
+[^24]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, § 18 (D).
 [^25]: In re: University of Perpetual Help Dalta Medical Center, Inc., NPC BN 22-208, Preliminary Data Breach Notification Form, Data Breach Notification Management System (DBNMS).
-[^26]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016-03, rule V, § 18 (A) (15 December 2016) (NPC Circular 16-03).
-[^27]: NPC Circular 16-03, rule V, § 18 (D).
-[^28]: NPC Circular 16-03, rule V, § 18 (A).
+[^26]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 2016-03]], rule V, § 18 (A) (15 December 2016) (NPC Circular 16-03).
+[^27]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, § 18 (D).
+[^28]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], rule V, § 18 (A).

@@ -7,6 +7,11 @@ tags:
   - year/2018
   - topic/legitimate-interest
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-059"
+  - "npc advisory opinion no. 2018-059"
+  - "Advisory Opinion No. 2018-059"
+  - "advisory opinion no. 2018-059"
 ---
 
 ## Source
@@ -24,7 +29,7 @@ Re: SKIP TRACING AND PROBING OF CONTACT DETAILS THROUGH THE INTERNET AND THIRD P
 
 Dear [Redacted]:
 
-We write in response to your inquiry about the applicability of the Data Privacy Act of 2012[^1] (DPA) to the practice of skip tracing and probing of collection agencies, particularly on the following points:
+We write in response to your inquiry about the applicability of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) to the practice of skip tracing and probing of collection agencies, particularly on the following points:
 
 1. Whether the DPA prohibits collection agencies to obtain and use contact information of a borrower or subscriber made publicly available online, otherwise known as skip tracing; and
 2. Whether collection agents are allowed to ask third parties, over the phone or in person, for the updated contact details and address of borrowers in case they can no longer be reached through the contact information you possess, which is known as probing.
@@ -49,7 +54,7 @@ Collection agencies are considered personal information processors (PIPs) to who
 
 #### Lawful Processing and Legitimate Interest
 
-The processing of personal data should meet one of the conditions for lawful processing provided in Sections 12 and 13 of the DPA, for personal information and sensitive personal information, respectively. One of the conditions that may be applicable in this case is "legitimate interest." The DPA provides that processing of personal information is permissible when it is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed.[^6] It should be noted that the processing under this ground shall only involve personal information like contact details and addresses of borrowers. The DPA does not provide legitimate interest as criteria for lawful processing of sensitive personal information.
+The processing of personal data should meet one of the conditions for lawful processing provided in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, for personal information and sensitive personal information, respectively. One of the conditions that may be applicable in this case is "legitimate interest." The DPA provides that processing of personal information is permissible when it is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed.[^6] It should be noted that the processing under this ground shall only involve personal information like contact details and addresses of borrowers. The DPA does not provide legitimate interest as criteria for lawful processing of sensitive personal information.
 
 To determine if there is "legitimate interest" in processing personal information, PICs must consider the following:[^7]
 
@@ -88,12 +93,12 @@ Deputy Privacy Commissioner
 for Policies and Planning
 
 [^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (15 August 2012).
-[^2]: Data Privacy Act of 2012, § 11-13, 20-21
-[^3]: Data Privacy Act of 2012, § 16.
-[^4]: *Id.*, § 4.
-[^5]: *Id.*, § 3(j).
-[^6]: *Id.*, § 12(f).
-[^7]: See generally, Data Privacy Act of 2012, § 12(f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on June 11, 2018].
+[^2]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]]-[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]], [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|20]]-[[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|21]]
+[^3]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16]].
+[^4]: *Id.*, [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]].
+[^5]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(j)]].
+[^6]: *Id.*, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12(f)]].
+[^7]: See generally, Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12(f)]]; United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on June 11, 2018].
 [^8]: See generally, United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on June 11, 2018].
 [^9]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC [General Data Protection Regulation], Recital 47.
-[^10]: Data Privacy Act of 2012, § 11, 16.
+[^10]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]], [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|16]].

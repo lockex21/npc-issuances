@@ -46,7 +46,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission is a Complaint filed by JBZ against Metropolitan Bank & Trust Company (Metrobank) and CDR as Vice President, Cards and Personal Credit Sector for alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by JBZ against Metropolitan Bank & Trust Company (Metrobank) and CDR as Vice President, Cards and Personal Credit Sector for alleged violation of Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -89,7 +89,7 @@ JBZ categorically stated that he does not have a Metrobank card ending in [ ] "a
 
 JBZ alleged that the numerous anonymous emails and calls resulted in him being "practically in chaos and mentally tortured asking who really was/were trying to fool [him] or were trying to snare [him] in a scam."[^25]
 
-JBZ prayed for "damages pursuant to the DPA," and "for the appropriate complaint/case be filed against Metrobank Card Corporation for culpable violation" of Sections 19 and 20 of the DPA.[^26]
+JBZ prayed for "damages pursuant to the DPA," and "for the appropriate complaint/case be filed against Metrobank Card Corporation for culpable violation" of [[laws/data-privacy-act-of-2012#section-19-non-applicability|Sections 19]] and [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|20]] of the DPA.[^26]
 
 On 10 September 2021, the Commission, through the Complaints and Investigation Division (CID), issued an Order directing Metrobank to file its Verified Comment within fifteen (15) days from receipt of the Order and to appear for preliminary conferences on 09 November 2021 and 07 December 2021.[^27]
 
@@ -147,7 +147,7 @@ Further, Metrobank argued that JBZ failed to state a cause of action against CDR
 
 Metrobank argued that none of the circumstances in [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the DPA]] on the liability of responsible officers applies to CDR.[^55] Metrobank explained that she only signed the letter for and on behalf of Metrobank.[^56] Metrobank concluded that it would be unjust to drag the name of a bank officer without clear basis on her involvement in the alleged violations of the DPA.[^57]
 
-Metrobank also argued that it is not liable for violating Section 26 (Access Due to Negligence), Section 27 (Improper Disposal), Section 31 (Malicious Disclosure), and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].[^58] Metrobank maintained that it disclosed JBZ's information to its collection agents with his consent, and that JBZ neither raised clear allegations nor presented evidence to substantiate his allegations.[^59]
+Metrobank also argued that it is not liable for violating [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Access Due to Negligence)]], [[laws/data-privacy-act-of-2012#section-27-improper-disposal-of-personal-information-and-sensitive-personal-information|Section 27 (Improper Disposal)]], [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 (Malicious Disclosure)]], and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].[^58] Metrobank maintained that it disclosed JBZ's information to its collection agents with his consent, and that JBZ neither raised clear allegations nor presented evidence to substantiate his allegations.[^59]
 
 Metrobank argued it is not liable for Section 26 (Access due to Negligence):
 
@@ -194,7 +194,7 @@ On 03 June 2022, Metrobank submitted its Manifestation and Compliance dated 03 J
 
 ### Issues
 
-I. Whether Metrobank's outsourcing of the collection of unpaid accounts is a violation of the DPA;
+I. Whether Metrobank's outsourcing of the collection of unpaid accounts is a violation of the [[laws/data-privacy-act-of-2012|DPA]];
 
 II. Whether there is substantial evidence to find Metrobank and CDR liable for a violation of the DPA.
 
@@ -238,7 +238,7 @@ Given the foregoing, Metrobank's referral of JBZ's account to its PIPs pursuant 
 
 Metrobank and CDR cannot be held liable for violation of the DPA based on the allegations and evidence submitted by JBZ.
 
-JBZ claims that as a result of a breach on the part of Metrobank, his personal data was disclosed without authorization and he was subjected to numerous anonymous emails, calls, and scam offers that caused him distress.[^83] He alleged Metrobank was liable for violation of Section 26 (Access due to Negligence), Section 27 (Improper Disposal), Section 31 (Malicious Disclosure), and Section 32 (Unauthorized Disclosure).[^84] To substantiate his complaint, JBZ submitted his e-mail correspondences with Metrobank,[^85] a copy of the System-Generated Letter reminding him of his unpaid obligation,[^86] screenshots of text messages and emails from collection agents,[^87] of call logs from untagged numbers,[^88] and scam messages from the Pacquiao Foundation[^89] and AP.[^90]
+JBZ claims that as a result of a breach on the part of Metrobank, his personal data was disclosed without authorization and he was subjected to numerous anonymous emails, calls, and scam offers that caused him distress.[^83] He alleged Metrobank was liable for violation of [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Access due to Negligence)]], [[laws/data-privacy-act-of-2012#section-27-improper-disposal-of-personal-information-and-sensitive-personal-information|Section 27 (Improper Disposal)]], [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31 (Malicious Disclosure)]], and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure)]].[^84] To substantiate his complaint, JBZ submitted his e-mail correspondences with Metrobank,[^85] a copy of the System-Generated Letter reminding him of his unpaid obligation,[^86] screenshots of text messages and emails from collection agents,[^87] of call logs from untagged numbers,[^88] and scam messages from the Pacquiao Foundation[^89] and AP.[^90]
 
 Section 1 of Rule 131 of the 2019 Amendments to the Revised Rules on Evidence provides:
 
@@ -252,7 +252,7 @@ Section 6 of Rule 133 of the 2019 Amendments to the Revised Rules on Evidence pr
 
 In this case, JBZ, as the complainant, has the burden of proof in alleging violation of the DPA. He did not discharge this, however, as he failed to support his allegations with substantial evidence.
 
-JBZ could have utilized the discovery proceedings during preliminary conference to obtain other pieces of evidence to substantiate his allegations. Rule V, Section 1 of the 2021 NPC Rules of Procedure provides:
+JBZ could have utilized the discovery proceedings during preliminary conference to obtain other pieces of evidence to substantiate his allegations. Rule V, Section 1 of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-v-preliminary-conference|2021 NPC Rules of Procedure]] provides:
 
 > Section 1. Order to confer for preliminary conference. No later than thirty (30) calendar days from the lapse of the reglementary period to file the comment, the investigating officer shall hold a preliminary conference to determine:
 >
@@ -282,7 +282,7 @@ Instead of availing himself of discovery proceedings during the preliminary conf
 
 Aside from Metrobank, JBZ also impleaded CDR as a respondent in his complaint.[^97] JBZ, however, failed to substantiate CDR's participation in Metrobank's alleged violation of the DPA.
 
-Under Section 34 of the DPA, an officer of a corporation, partnership, or any juridical person may be held liable if they participated in or allowed the commission of the crime by their gross negligence:
+Under [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the DPA]], an officer of a corporation, partnership, or any juridical person may be held liable if they participated in or allowed the commission of the crime by their gross negligence:
 
 > Section 34. Extent of Liability. If the offender is a corporation, partnership or any juridical person, the penalty shall be imposed upon the responsible officers, as the case may be, who participated in, or by their gross negligence, allowed the commission of the crime. If the offender is a juridical person, the court may suspend or revoke any of its rights under this Act. If the offender is an alien, he or she shall, in addition to the penalties herein prescribed, be deported without further proceedings after serving the penalties prescribed. If the offender is a public official or employee and lie or she is found guilty of acts penalized Under Sections 27 and 28 of this Act, he or she shall, in addition to the penalties prescribed herein, suffer perpetual or temporary absolute disqualification from office, as the case may be.[^98]
 
@@ -391,7 +391,7 @@ GENERAL RECORDS UNIT
 [^37]: Id. at 3-4.
 [^38]: Comment, 23 September 2021, at 3-4, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21-122 (NPC 2021).
 [^39]: Id. at 10.
-[^40]: See National Privacy Commission, Re: Consent Requirement on Outsourcing Agreement with an External Service Provider, Advisory Opinion No. 15, Series of 2018, at 2 (12 April 2018).
+[^40]: See National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-015-npc-advisory-opinion-no-2018-015|Re: Consent Requirement on Outsourcing Agreement with an External Service Provider, Advisory Opinion No. 15, Series of 2018]], at 2 (12 April 2018).
 [^41]: Comment, 23 September 2021, at 10-11, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21-122 (NPC 2021).
 [^42]: Id. at 4.
 [^43]: Id.
@@ -425,10 +425,10 @@ GENERAL RECORDS UNIT
 [^71]: Manifestation and Compliance, 03 June 2022, Annex A, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21-122 (NPC 2021).
 [^72]: Memorandum, 09 June 2022, at 2, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21-122 (NPC 2021).
 [^73]: Manifestation and Compliance, 03 June 2022, at 2, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21-122 (NPC 2021).
-[^74]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose aNational Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 14 (2012). Emphasis supplied.
-[^75]: Implementing Rules and Regulations of Republic Act No. 10173, known as the "Data Privacy Act of 2012" [Implementing Rules and Regulations of the Data Privacy Act of 2012], IRR of Republic Act No. 10173 rule X, § 43 (2016). Emphasis supplied.
+[^74]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose aNational Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-14-subcontract-of-personal-information|§ 14]] (2012). Emphasis supplied.
+[^75]: Implementing Rules and Regulations of Republic Act No. 10173, known as the "Data Privacy Act of 2012" [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]], IRR of Republic Act No. 10173 rule X, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-43-subcontract-of-personal-data|§ 43]] (2016). Emphasis supplied.
 [^76]: Id.
-[^77]: Data Privacy Act of 2012, §21. Emphasis supplied.
+[^77]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|§21]]. Emphasis supplied.
 [^78]: Id. §1.
 [^79]: Id. §2.
 [^80]: Complaints-Assisted Form, 08 February 2021, Annex 3, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21-122 (NPC 2021).
@@ -444,12 +444,12 @@ GENERAL RECORDS UNIT
 [^90]: Id. Annex 13.
 [^91]: 2019 AMENDMENT TO THE 1989 REVISED RULES ON EVIDENCE, A.M. No. 19-08-15-SC, Rule 131, §1 (1 May 2020).
 [^92]: Id. §6.
-[^93]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], rule IV, § 1 (28 January 2021). Emphasis supplied.
+[^93]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-iv-pre-investigation-phase|2021 Rules of Procedure of the National Privacy Commission]] [NPC 2021 Rules of Procedure], rule IV, § 1 (28 January 2021). Emphasis supplied.
 [^94]: BSA Tower Condominium Corp. v. Reyes II, A.C. No. 11944 (2018).
 [^95]: Producers Bank of the Philippines v. Court of Appeals, G.R. No. 11049 (1998).
 [^96]: Order (After the 2nd Preliminary Conference held on 07 December 2021, Granting the Adoption of the Complaint as Complainant's Memorandum, and for the Respondent to Submit its Memorandum), at 1, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21-122 (NPC 2021).
 [^97]: Complaints-Assisted Form, 08 February 2021, at 2, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21-122 (NPC 2021).
-[^98]: Data Privacy Act of 2012, §34.
+[^98]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|§34]].
 [^99]: Complaints-Assisted Form, 08 February 2021, at 3, in JBZ v. Metropolitan Bank & Trust Company, CDR as VP Cards and Personal Credit Sector, NPC 21-122 (NPC 2021).
-[^100]: Data Privacy Act of 2012, §34.
+[^100]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|§34]].
 [^101]: Id. Emphasis supplied.

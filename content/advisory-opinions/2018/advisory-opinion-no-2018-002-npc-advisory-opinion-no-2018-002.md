@@ -8,6 +8,11 @@ tags:
   - topic/employment
   - topic/government
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-002"
+  - "npc advisory opinion no. 2018-002"
+  - "Advisory Opinion No. 2018-002"
+  - "advisory opinion no. 2018-002"
 ---
 
 ## Source
@@ -25,7 +30,7 @@ Re: COMMISSION ON AUDIT (COA) REQUEST FOR ACCESS TO BANGKO SENTRAL NG PILIPINAS 
 
 Dear [Redacted],
 
-This is with regard to your query received by the National Privacy Commission (NPC) on 21 November 2017 on the request of the Commission on Audit (COA) for access to the directory of employees posted in the BSP intranet vis-à-vis COA’s position that it is exempt from the application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA) in the performance of its constitutionally-mandated auditing functions.
+This is with regard to your query received by the National Privacy Commission (NPC) on 21 November 2017 on the request of the Commission on Audit (COA) for access to the directory of employees posted in the BSP intranet vis-à-vis COA’s position that it is exempt from the application of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA) in the performance of its constitutionally-mandated auditing functions.
 
 We understand that the BSP employee directory contains the following information:
 

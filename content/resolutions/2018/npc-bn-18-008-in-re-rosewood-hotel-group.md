@@ -91,7 +91,7 @@ Section 20 (a) and (b) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173
 >
 > (b) The personal information controller shall implement reasonable and appropriate measures to protect personal information against natural dangers such as accidental loss or destruction, and human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration and contamination.[^32]
 
-Further, Section 17 (D) (3) of NPC Circular 16-03 (Personal Data Breach Management) provides for the PIC’s obligation to inform its data subjects of the measures it took to address the breach:
+Further, Section 17 (D) (3) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management) provides for the PIC’s obligation to inform its data subjects of the measures it took to address the breach:
 
 > Section 17. Notification of the Commission. The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 >
@@ -131,7 +131,7 @@ Sabre implemented safeguards such as conducting application and code scanning, m
 
 As an organizational measure, Rosewood maintains that it reviewed its internal policies and procedures to assist Rosewood employees with identifying, responding to, and managing data security incidents, including breaches involving personal data.[^49] It also reviewed its Data Security Incident Response Plan in response to data security incidents at Sabre and revised the plan.[^50]
 
-Based on the foregoing, the actions taken by Rosewood following the incident allowed it to enhance its security measures and are sufficient to close the matter in accordance with the DPA and NPC Circular 16-03.
+Based on the foregoing, the actions taken by Rosewood following the incident allowed it to enhance its security measures and are sufficient to close the matter in accordance with the [[laws/data-privacy-act-of-2012|DPA]] and [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
 ### Dispositive Portion
 
@@ -231,7 +231,7 @@ GENERAL RECORDS UNIT
 
 [^31]: *Id.* at 2.
 
-[^32]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (a) & (b) (2012). Emphasis supplied.
+[^32]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Republic Act No. 10173 § 20 (a) & (b)]] (2012). Emphasis supplied.
 
 [^33]: *Id.*
 

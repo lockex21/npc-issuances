@@ -100,7 +100,7 @@ Complainants filed a Motion to Consolidate on 16 December 2020. Additionally, th
 
 Complainants emphasized that the consolidation of the cases are important since it would expedite the resolution of the issue. Complainants added "if the cases were consolidated, DMV and SM could have been summoned and shed light on the factual circumstances claimed by Respondent DDZ."[^15] Further, they stated that the proper resolution of this case will be incomplete, unfair, and unjust since SM and DMV are not allowed to be made part of the case and that the situation calls for a proper remand for investigation.[^16]
 
-On Respondent's reliance on [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the Data Privacy Act]] (DPA) of 2012, Complainants argued that attaching the passports to Respondent's Complaint-letter was not necessary since Complainants being Australian citizens without working visas is not relevant to the criminal and labor cases then existing.[^17] The nationality or citizenship is also neither an essential element of the crimes mentioned nor would constitute part of the labor case for dismissal. Complainants argued that the virtual nexus between Respondent and Complainants with regard to the contents of the passports does not exist and therefore fail the test provided by NPC Case No. 17-018.[^18]
+On Respondent's reliance on [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the Data Privacy Act]] (DPA) of 2012, Complainants argued that attaching the passports to Respondent's Complaint-letter was not necessary since Complainants being Australian citizens without working visas is not relevant to the criminal and labor cases then existing.[^17] The nationality or citizenship is also neither an essential element of the crimes mentioned nor would constitute part of the labor case for dismissal. Complainants argued that the virtual nexus between Respondent and Complainants with regard to the contents of the passports does not exist and therefore fail the test provided by [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC Case No. 17-018]].[^18]
 
 Moreover, according to Complainants it was Respondent, together with his cohorts, SM and DMV, who should be guilty of theft of Complainants' sensitive personal information.[^19]
 
@@ -142,7 +142,7 @@ On Complainants' allegation that he broke into MVP's database, Respondent stated
 
 Respondent argued that like any other cases, Complainants have the burden of proof to show that Respondent violated the DPA.[^42] He further stated that Complainants failed to provide substantial evidence that Respondent knowingly and unlawfully broke into MVP's database. Complainants also did not show that there was an actual storage of scanned copies of passports. Moreover, the facilities of MVP are covered by CCTV cameras but Complainants did not attach video clip or screen capture to prove their claims.[^43] Respondent stated that he fully subscribe to the findings of the Commission that he cannot be held liable for the violation of [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Section 29 of the DPA]] (Unauthorized Access or Intentional Breach).[^44]
 
-Further, Respondent stated that he agrees to a certain extent on Complainants' allegations that passport contains personal and sensitive personal information.[^45] However, he reiterated that such information is excluded from the coverage of the DPA pursuant to [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]]. Additionally, he stated that the processing of information contained in the passport is permitted under Section 12(e) and (f) of the DPA, and exempted under Section 13(e) of the DPA.[^46]
+Further, Respondent stated that he agrees to a certain extent on Complainants' allegations that passport contains personal and sensitive personal information.[^45] However, he reiterated that such information is excluded from the coverage of the DPA pursuant to [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]]. Additionally, he stated that the processing of information contained in the passport is permitted under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(e) and (f) of the DPA]], and exempted under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(e) of the DPA]].[^46]
 
 He also reiterated that the information of Complainants were necessary in order for the government agencies to perform their statutorily mandated functions.[^47]
 
@@ -150,7 +150,7 @@ Moreover, Respondent stated "Complainants argued that Respondent's processing of
 
 He also stated that he only processed Complainants' information with the government agencies which were tasked to enforce laws and protect lawful rights and interests of natural or legal persons, the Philippine Government, and the Filipino citizens.[^49]
 
-Respondent stated that his legitimate interest was to report the illegal acts of Complainants, and although he is not a Personal Information Controller (PIC), his processing is permitted as a "third party" pursuant to Section 13(f) of the DPA.[^50] Further, Respondent stated that he processed the information in good faith pursuant to his moral obligation to promptly report on what he believes is an illegal act under Philippine Laws.[^51]
+Respondent stated that his legitimate interest was to report the illegal acts of Complainants, and although he is not a Personal Information Controller (PIC), his processing is permitted as a "third party" pursuant to [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]].[^50] Further, Respondent stated that he processed the information in good faith pursuant to his moral obligation to promptly report on what he believes is an illegal act under Philippine Laws.[^51]
 
 Respondent prays that Complainants' Motion for Reconsideration dated 11 September 2021 be denied for the lack of merit.[^52]
 
@@ -278,4 +278,4 @@ GENERAL RECORDS UNIT
 [^53]: Motion for Reconsideration dated 11 September 2021. At p. 23.
 [^54]: Id. at p. 52.
 [^55]: Id.
-[^56]: Section 7 of the NPC Circular No. 2021-01
+[^56]: Section 7 of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]]

@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2021-028 — Disclosure Of Personal Information Of Tenants By A Condominium Corporation To The Bureau Of Internal Revenue"
 description: "The National Privacy Commission clarified whether the Data Privacy Act allows a condominium corporation to refuse the Bureau of Internal Revenue's request for a list of tenants."
+aliases:
+  - "NPC Advisory Opinion No. 2021-028"
+  - "npc advisory opinion no. 2021-028"
+  - "Advisory Opinion No. 2021-028"
+  - "advisory opinion no. 2021-028"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -46,7 +51,7 @@ its tax collection efforts.
 
 You now ask for confirmation if ANCC’s position to decline BIR RDO’s request is appropriate.
 ANCC believes that providing the requested documents and information will be violative of
-the unit owners’ and tenants’ data privacy rights under the Data Privacy Act of 2012[^2] (DPA)
+the unit owners’ and tenants’ data privacy rights under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA)
 since the information were collected by ANCC for validation purposes only.
 
 ### Discussion
@@ -134,5 +139,5 @@ OIC – Director IV, Privacy Policy Office
 [^1]: Tags: Bureau of Internal Revenue; scope of the DPA; special cases.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Id. § 4 (e) (2012).
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) (2016).
-[^5]: National Privacy Commission, NPC Advisory Opinion No. 2020-015 (24 Feb 2020).
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d)]] (2016).
+[^5]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|NPC Advisory Opinion No. 2020-015]] (24 Feb 2020).

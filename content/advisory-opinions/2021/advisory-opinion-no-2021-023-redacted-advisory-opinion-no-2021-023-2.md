@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2021-023 — Processing of Personal Data for Research Without Ethics Clearance"
 description: "Advisory opinion on the processing of personal data for research conducted without the proper ethics clearance and approval from appropriate authorities and institutions."
+aliases:
+  - "NPC Advisory Opinion No. 2021-023"
+  - "npc advisory opinion no. 2021-023"
+  - "Advisory Opinion No. 2021-023"
+  - "advisory opinion no. 2021-023"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -39,7 +44,7 @@ You disclosed in your letter that the researcher still proceeded with the study 
 
 We note also that the NCIP issued a statement dated 15 April 2021 condemning the conduct of genetic/genomic research with indigenous peoples by the researcher without Free and Prior Informed Consent (FPIC) and the required ethical clearance; that the blatant disregard of policies governing scientific research in the Philippines will have far-reaching adverse impact to the governance of scientific research in the country; and that the lack of consent offends the rights of the IPs/ICCs to self-determination, self-governance, human rights, and social justice.
 
-You now express concern over the possible unlawful processing of personal data involved in the study since this may have serious implications in scientific integrity. You now ask on the possible actions that may be taken, considering the provisions of the Data Privacy Act of 2012[^4] (DPA).
+You now express concern over the possible unlawful processing of personal data involved in the study since this may have serious implications in scientific integrity. You now ask on the possible actions that may be taken, considering the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^4] (DPA).
 
 ### Discussion
 
@@ -47,7 +52,7 @@ Scope of the DPA; research; special case
 
 Research is an activity that aims to develop or contribute to knowledge that can be generalized (including theories, principles, relationships), or any accumulation of information using scientific methods, observation, inference, and analysis.[^5]
 
-[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] enumerates the categories of personal information and sensitive personal information (collectively, personal data) which fall outside the scope of the law. This includes the processing of personal data for research purposes.[^6] The DPA recognizes that research is critical to nation-building and serves a public interest.[^7] It is therefore the intent of the DPA to grant a certain degree of flexibility in the processing of personal data for purposes of research.[^8] Stated differently, a personal information controller, such as a researcher, may lawfully process personal data even without meeting the criteria provided by Section 12 and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].[^9]
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] enumerates the categories of personal information and sensitive personal information (collectively, personal data) which fall outside the scope of the law. This includes the processing of personal data for research purposes.[^6] The DPA recognizes that research is critical to nation-building and serves a public interest.[^7] It is therefore the intent of the DPA to grant a certain degree of flexibility in the processing of personal data for purposes of research.[^8] Stated differently, a personal information controller, such as a researcher, may lawfully process personal data even without meeting the criteria provided by [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].[^9]
 
 However, this exemption is not absolute. The following must be strictly complied with:
 
@@ -64,7 +69,7 @@ The researcher apparently failed to complete the foregoing ethical and legal sta
 
 Health data as sensitive personal information; genetic data
 
-Information about an individual's race, ethnic origin, health, and genetics are classified as sensitive personal information under the DPA.[^12] The processing of sensitive personal information is allowed, if not otherwise provided by law, when at least one of the criteria required by Section 13 of the DPA is complied with.
+Information about an individual's race, ethnic origin, health, and genetics are classified as sensitive personal information under the DPA.[^12] The processing of sensitive personal information is allowed, if not otherwise provided by law, when at least one of the criteria required by [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] is complied with.
 
 Note that the DPA does not provide a definition for the term "genetic data". However, the EU General Data Protection Regulation[^13] (GDPR) may provide further insight on this matter. It defines genetic data as "personal data relating to the inherited or acquired genetic characteristics of a natural person which give unique information about the physiology or the health of that natural person and which result, in particular, from an analysis of a biological sample from the natural person in question."[^14]
 
@@ -106,19 +111,19 @@ OIC – Director IV, Privacy Policy Office
 [^3]: National Commission on Indigenous Peoples, The Revised Guidelines of Free and Informed Prior Consent (FPIC) and Related Processes of 2012, NCIP Administrative Order No. 3, Series of 2012 [NCIP AO No. 2012-3] (April 13, 2012).
 [^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^5]: Philippine Health Research Ethics Board Ad Hoc Committee for Updating the National Ethical Guidelines, National Ethical Guidelines for Health and Health Related Research, Introduction, p. 5 (2017).
-[^6]: Data Privacy Act of 2012, § 4 (d).
+[^6]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4 (d)]].
 [^7]: See [[advisory-opinions/2019/advisory-opinion-no-2019-017-npc-advisory-opinion-no-2019-017|NPC Advisory Opinion No. 2019-017]] (March 5, 2019).
 [^8]: Ibid.
 [^9]: See [[advisory-opinions/2020/advisory-opinion-no-2020-029-redacted-advisory-opinion-no-2020-029-2|NPC Advisory Opinion No. 2020-029]] (July 30, 2020).
 [^10]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
 [^11]: Id. § 5 (c).
-[^12]: Data Privacy Act of 2012, § 3 (l).
+[^12]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (l)]].
 [^13]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119 (4 May 2016).
 [^14]: EU General Data Protection Regulation, Art. 4 (13).
 [^15]: See: Information Commissioner's Office, UK, What is special category data?, available at https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/special-category-data/what-is-special-category-data/#scd3 (last accessed 5 July 2021).
 [^16]: Ibid.
-[^17]: Data Privacy Act of 2012, § 3 (b).
+[^17]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (b)]].
 [^18]: Ibid.
-[^19]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (a).
-[^20]: See: National Privacy Commission, JVA v. U-PESO.PH Lending Corporation (UPESO), NPC Case No. 19-498 (9 June 2020).
-[^21]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC Circular No. 2021-01], available at https://www.privacy.gov.ph/wp-content/uploads/2021/01/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf.
+[^19]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (a)]].
+[^20]: See: National Privacy Commission, [[decisions/2020/npc-19-498-jva-vs-u-peso-ph-lending-corporation-upeso|JVA v. U-PESO.PH Lending Corporation (UPESO), NPC Case No. 19-498]] (9 June 2020).
+[^21]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]] [NPC Circular No. 2021-01], available at https://www.privacy.gov.ph/wp-content/uploads/2021/01/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf.

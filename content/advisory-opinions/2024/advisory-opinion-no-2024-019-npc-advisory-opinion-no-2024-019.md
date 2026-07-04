@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2024"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2024-019"
+  - "npc advisory opinion no. 2024-019"
+  - "Advisory Opinion No. 2024-019"
+  - "advisory opinion no. 2024-019"
 ---
 
 ## Source
@@ -24,7 +29,7 @@ Dear [Redacted], et. al:
 
 We respond to your request for an Advisory Opinion on whether the records processed by
 your client,                             (Company), are exempted from the application of
-the Data Privacy Act of 2012 (DPA),[^2] and whether the DPA would pose any impediment to
+the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (DPA)]],[^2] and whether the DPA would pose any impediment to
 the United States Securities and Exchange Commission (U.S. SEC) ability to examine and
 access the Company’s records.
 
@@ -80,9 +85,9 @@ From the foregoing, this Advisory Opinion seeks to address issues:
 
 #### Scope of the DPA; Special Cases; Foreign Jurisdiction[^1]
 
-The DPA and its Implementing Rules and Regulations (IRR) exclude from its scope the
+The [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations (IRR)]] exclude from its scope the
 personal and sensitive personal information of foreigners originally collected in foreign
-jurisdictions and subsequently processed in the Philippines. Section 4(g) of the DPA explicitly
+jurisdictions and subsequently processed in the Philippines. [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(g) of the DPA]] explicitly
 states:
 
    Section 4. Scope – […] This act does not apply to the following:
@@ -93,7 +98,7 @@ states:
         in accordance with the laws of those foreign jurisdictions, including any applicable
         data privacy laws, which is being processed in the Philippines.
 
-Similarly, the IRR provides a parallel provision in Section 5(f):
+Similarly, the IRR provides a parallel provision in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5(f)]]:
 
    Section 5. Special Cases – The Act and these Rules shall not apply to the following
 

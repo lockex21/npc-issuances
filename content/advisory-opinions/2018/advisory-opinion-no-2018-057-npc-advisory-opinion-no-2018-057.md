@@ -10,6 +10,11 @@ tags:
   - cross-border
   - topic/cross-border-transfers
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-057"
+  - "npc advisory opinion no. 2018-057"
+  - "Advisory Opinion No. 2018-057"
+  - "advisory opinion no. 2018-057"
 ---
 
 ## Source
@@ -32,7 +37,7 @@ email. You stated that Automatic Data Processing (ADP) is a human capital manage
 solutions company based in the United States. It has presence in the Philippines through ADP
 (Philippines) Inc. which provides payroll services to Philippine clients. You seek advice and
 clarification regarding [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|Section 44 of the Implementing Rules and Regulations]] (IRR)[^1] of
-Republic Act No. 10173,[^2] otherwise known as the Data Privacy Act of 2012 (DPA).
+[[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^2] otherwise known as the Data Privacy Act of 2012 (DPA).
 
 ### Discussion
 
@@ -143,6 +148,6 @@ Privacy Commissioner and Chairman
 
 [^1]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173, (2012).
-[^3]: Id., § 19 (d)(1)(c).
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 19 (d).
+[^3]: Id., [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|§ 19 (d)(1)(c)]].
+[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|§ 19 (d)]].
 [^5]: An Act To Ordain And Institute The Civil Code Of The Philippines [THE CIVIL CODE OF THE PHILIPPINES] Republic Act. No. 386 (1949), Art. 1306.

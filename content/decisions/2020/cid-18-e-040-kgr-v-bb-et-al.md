@@ -67,7 +67,7 @@ Respondents later filed a Motion to Waive Presentation of Additional Evidence (w
 
 ### Arguments of the Parties
 
-Complainant alleges that the resume contained her sensitive personal information. In her Complaint, she states that "everyone who entered the shop can easily see her resume."[^7] She filed a criminal complaint for violation of Sections 27, 28, 31, and 32 of the Data Privacy Act arising from Improper Disposal, Unauthorized Purposes, Malicious and Unauthorized Disclosure of her sensitive personal information without her prior consent and knowledge.[^8]
+Complainant alleges that the resume contained her sensitive personal information. In her Complaint, she states that "everyone who entered the shop can easily see her resume."[^7] She filed a criminal complaint for violation of [[laws/data-privacy-act-of-2012#section-27-improper-disposal-of-personal-information-and-sensitive-personal-information|Sections 27]], [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|28]], [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|31]], and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32 of the Data Privacy Act]] arising from Improper Disposal, Unauthorized Purposes, Malicious and Unauthorized Disclosure of her sensitive personal information without her prior consent and knowledge.[^8]
 
 In their Joint Affidavit, Respondents admit that BB cut the portion of Complainant's resume where her photo, address, contact nos. and email were printed. They state that he pasted this on the side of the CPU inside the cashier's counter for purpose of identifying the Complainant in case she returns. He did it because he does not want to transact anymore with Complainant.[^9]
 
@@ -170,9 +170,9 @@ National Privacy Commission
 [^8]: Id., p. 1.
 [^9]: Id., at p. 42.
 [^10]: Records, p. 45.
-[^11]: R.A. 10173, §§ 12-13.
-[^12]: Id., at § 20.
-[^13]: Id., at § 11.
+[^11]: R.A. 10173, §§ [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|12]]-[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]].
+[^12]: Id., at [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20]].
+[^13]: Id., at [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
 [^14]: Records, p. 44.
 [^15]: Supra at note 10.
 [^16]: Records., p. 43.

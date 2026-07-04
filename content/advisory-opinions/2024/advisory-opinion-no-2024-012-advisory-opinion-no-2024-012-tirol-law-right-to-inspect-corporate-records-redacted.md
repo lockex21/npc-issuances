@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2024-012 — Right to Inspect Corporate Records Vis-à-Vis the Data Privacy Act of 2012"
 description: "Guidance on balancing stockholder rights to inspect corporate records with protection of personal data under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2024-012"
+  - "npc advisory opinion no. 2024-012"
+  - "Advisory Opinion No. 2024-012"
+  - "advisory opinion no. 2024-012"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -21,7 +26,7 @@ Re: RIGHT TO INSPECT CORPORATE RECORDS VIS-À-VIS THE [[laws/data-privacy-act-of
 
 Dear [Redacted],
 
-We respond to your request for an Advisory Opinion regarding the relation between the right of a stockholder to inspect corporate records under Section 73 of the Revised Corporation Code of the Philippines (RCC)[^2] and the Data Privacy Act of 2012 (DPA).[^3]
+We respond to your request for an Advisory Opinion regarding the relation between the right of a stockholder to inspect corporate records under Section 73 of the Revised Corporation Code of the Philippines (RCC)[^2] and the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^3]
 
 You state that your client, Tibiao Bakery Inc. (TBI), received a request from a law office representing certain stockholders to be furnished with a statement of account detailing the advances made by TBI to its officers and employees, including their names, dates, and amounts of the advances, and the relevant supporting board resolution.
 
@@ -33,7 +38,7 @@ In response, TBI allowed the examination of its books and records subject to the
 - That the examination shall be limited only to those who gave their consent; and
 - That the undersigned is requested to submit a request for Advisory Opinion to the NPC.
 
-On the agreed date of the examination, the law office argued that they were not required to obtain the consent of the other stockholders as their request is based on Section 73 of the RCC in relation to Sections 12(c) and 13(b) of the DPA. As such, they have an unqualified and absolute right to inspect corporate records.
+On the agreed date of the examination, the law office argued that they were not required to obtain the consent of the other stockholders as their request is based on Section 73 of the RCC in relation to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12(c)]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13(b)]] of the DPA. As such, they have an unqualified and absolute right to inspect corporate records.
 
 Thus, TBI presents the following issues:
 
@@ -106,7 +111,7 @@ Congruently, the DPA applies to the processing of all types of personal informat
 (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and
 (4) Specifically established by an executive order or an act of Congress to be kept classified.[^11]
 
-In the present case, the corporate records requested to be inspected contain both personal information and sensitive personal information (collectively referred to as "personal data"). Significantly, Section 12(c) and Section 13(b) state:
+In the present case, the corporate records requested to be inspected contain both personal information and sensitive personal information (collectively referred to as "personal data"). Significantly, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(c)]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(b)]] state:
 
 > SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -132,11 +137,11 @@ The allegations of bad faith and improper use of information cannot operate as a
 
 #### Consent; Data Privacy Principles; Duty of Confidentiality
 
-As mentioned above, Sections 12(c) and Section 13(b) provide for the lawful basis for the processing of the corporate records in the present case. This necessarily means that the other stockholders need not consent to the inspection. Nevertheless, TBI, as a personal information controller (PIC) may limit the scope of the inspection or redact such information that is not relevant to the request consistent with the general privacy principles of transparency, legitimate purpose, and proportionality,[^15] and in recognition of the rights of the data subjects affected.[^16] In Advisory Opinion 2019-011,[^17] we emphasized that:
+As mentioned above, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12(c)]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(b)]] provide for the lawful basis for the processing of the corporate records in the present case. This necessarily means that the other stockholders need not consent to the inspection. Nevertheless, TBI, as a personal information controller (PIC) may limit the scope of the inspection or redact such information that is not relevant to the request consistent with the general privacy principles of transparency, legitimate purpose, and proportionality,[^15] and in recognition of the rights of the data subjects affected.[^16] In [[advisory-opinions/2019/advisory-opinion-no-2019-011-npc-advisory-opinion-no-2019-011|Advisory Opinion 2019-011]],[^17] we emphasized that:
 
 > The data subject concerned has the right to be informed of the request for disclosure. Moreover, the corporation has the obligation to examine or inquire about the particular demand thereby disclosing only those personal information that are necessary, not excessive, relevant and adequate to fulfill the legitimate purpose of the demand, as required by Section 74 [now Section 73] of the Corporation Code.
 
-TBI must also implement reasonable and appropriate organizational, physical and technical measures to ensure the confidentiality and security of personal data,[^18] as mandated by the DPA and as supported by NPC Circular 23-06.[^19]
+TBI must also implement reasonable and appropriate organizational, physical and technical measures to ensure the confidentiality and security of personal data,[^18] as mandated by the DPA and as supported by [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular 23-06]].[^19]
 
 Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
@@ -150,20 +155,20 @@ Very truly yours,
 
 [^1]: Tags: personal information, sensitive personal information, lawful processing, Corporation Code, inspection of corporate books and records, data subject rights
 [^2]: An Act Providing for the Revised Corporation Code of the Philippines, [Revised Corporation Code of the Philippines], R.A. 11232 (2019)
-[^3]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
 [^4]: Gokongwei, Jr., v. Securities and Exchange Commission, G.R. No. L-45911 (April 11, 1979)
 [^5]: M.E. Grey v. Insular Lumber Company, G.R. No. L-45144 (April 3, 1939)
 [^6]: Terelay Investment and Development Corp. v. Cecilia Teresita J. Yulo, G.R. No. 160924, (August 5, 2015)
 [^7]: Ibid, 6.
 [^8]: Ibid, 8.
-[^9]: Data Privacy Act of 2012, §. 16.
-[^10]: Data Privacy Act of 2012, §. 3(g).
-[^11]: Data Privacy Act of 2012, §. 3(l).
-[^12]: Data Privacy Act of 2012, §. 2.
+[^9]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, §. 16]].
+[^10]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, §. 3(g)]].
+[^11]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, §. 3(l)]].
+[^12]: [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Data Privacy Act of 2012, §. 2]].
 [^13]: Sy Tiong Shiou et al v. Sy Chim, G.R. No. 174168 (March 30, 2009)
 [^14]: Philippine Associated Smelting and Refining Corporation vs. Pablito O. Lim, et al, G.R. No. 172948 (October 05, 2016)
-[^15]: Data Privacy Act of 2012, §. 11.
-[^16]: Data Privacy Act of 2012, § 16-18.
-[^17]: National Privacy Commission, Advisory Opinion 2019-011 (14 January 2019)
-[^18]: Data Privacy Act of 2012, §. 20.
-[^19]: National Privacy Commission, NPC Circular 23-06 (01 December 2023)
+[^15]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, §. 11]].
+[^16]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16]]-[[laws/data-privacy-act-of-2012#section-18-right-to-data-portability|18]].
+[^17]: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-011-npc-advisory-opinion-no-2019-011|Advisory Opinion 2019-011]] (14 January 2019)
+[^18]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, §. 20]].
+[^19]: National Privacy Commission, [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular 23-06]] (01 December 2023)

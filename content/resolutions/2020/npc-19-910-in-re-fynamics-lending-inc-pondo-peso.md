@@ -37,7 +37,7 @@ IN RE: FYNAMICS LENDING INC. OPERATING PONDOPESO ONLINE LENDING APPLICATION
 
 x---------------------------------------------x
 
-On 01 October 2020, the Commission conducted a Clarificatory Hearing pursuant to Section 21 of NPC Circular No. 16-04. Respondent Fynamics Lending, Inc. (Fynamics) and the individual respondents ML, CW, and BBS were represented by Atty. LAQ and Atty. EAT from the Gonzales & Quismorio Law Offices, while the individual respondents KF, JCG and HAD were represented by Atty. FG from the law firm of Gorosin, Garcia & Associates.
+On 01 October 2020, the Commission conducted a Clarificatory Hearing pursuant to Section 21 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]]. Respondent Fynamics Lending, Inc. (Fynamics) and the individual respondents ML, CW, and BBS were represented by Atty. LAQ and Atty. EAT from the Gonzales & Quismorio Law Offices, while the individual respondents KF, JCG and HAD were represented by Atty. FG from the law firm of Gorosin, Garcia & Associates.
 
 During the Clarificatory Hearing, counsels for Fynamics were ordered to submit specific documents to the Commission.[^1]
 

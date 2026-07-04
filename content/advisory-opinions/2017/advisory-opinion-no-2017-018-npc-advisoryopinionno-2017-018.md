@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2017-018 — Queries Regarding the Implementing Rules and Regulations of the Data Privacy Act"
 description: "Advisory Opinion addressing various queries regarding the DPA IRR including lawful representatives, consent types, data sharing, direct marketing, and personal information definitions."
+aliases:
+  - "NPC Advisory Opinion No. 2017-018"
+  - "npc advisory opinion no. 2017-018"
+  - "Advisory Opinion No. 2017-018"
+  - "advisory opinion no. 2017-018"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -43,7 +48,7 @@ questions thoroughly to avoid any confusion.
 
 What would constitute a “lawful representative”? Would “an agent specifically authorized by the data subject” include anyone authorized in writing or other recorded form by the data subject?
 
-A lawful representative or agent, as used in the IRR[^1], refers to a person duly authorized by the data subject to act on his or her behalf. As in the case of consent, the grant of authority by the data subject must be evidenced through written, electronic or recorded means.
+A lawful representative or agent, as used in the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR]][^1], refers to a person duly authorized by the data subject to act on his or her behalf. As in the case of consent, the grant of authority by the data subject must be evidenced through written, electronic or recorded means.
 
 ##### Would negative consent be sufficient (e.g., where a data subject returns a signed application form but does not tick an opt-out box)?
 
@@ -53,7 +58,7 @@ Implied, implicit, or negative consent is not recognized under the DPA and its I
 
 ##### Given the definition for “data sharing”, will data collected in the Philippines but transferred to a foreign company as part of an outsourcing agreement be exempt from the DPA and IRR?
 
-No. The DPA[^2] and its IRR[^3] explicitly state that they apply to the processing of personal data, even if the act or practice is performed outside of the country, provided that the personal data relates to a Filipino citizen or a resident of the Philippines, and/or the personal information controller (PIC) or personal information processor (PIP) has an established link to the Philippines. As long as the foregoing conditions are met, processing of personal data, whether or not it is part of a data sharing or a subcontracting/outsourcing arrangement, will be covered by the DPA, the IRR and other applicable issuances by the NPC.
+No. The [[laws/data-privacy-act-of-2012#section-4-scope|DPA]][^2] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|IRR]][^3] explicitly state that they apply to the processing of personal data, even if the act or practice is performed outside of the country, provided that the personal data relates to a Filipino citizen or a resident of the Philippines, and/or the personal information controller (PIC) or personal information processor (PIP) has an established link to the Philippines. As long as the foregoing conditions are met, processing of personal data, whether or not it is part of a data sharing or a subcontracting/outsourcing arrangement, will be covered by the DPA, the IRR and other applicable issuances by the NPC.
 
 In the case of outsourcing or subcontracting, note that the IRR requires the PIC to use all reasonable means in ensuring that proper safeguards are in place whenever it outsources or subcontracts data processing.[^4]
 
@@ -79,7 +84,7 @@ The IRR adopts the common or general definition for the term, “affiliate.” U
 
 ##### Would the foreign parent or foreign affiliate of a PIC or a personal information processor (PIP) be subject to all the requirements under the IRR (i.e., submission of policies, consent from data subject, etc.)?
 
-If a PIC or PIP operating in the Philippines has a foreign parent company or a foreign affiliate, the latter shall be subject to the requirements under the DPA if it is engaged in the processing of personal data of Filipino citizens or residents of the Philippines, and/or it has an established link to the country.[^7] “Access” falls within the definition of the term, “processing”.[^8]
+If a PIC or PIP operating in the Philippines has a foreign parent company or a foreign affiliate, the latter shall be subject to the requirements under the [[laws/data-privacy-act-of-2012#section-4-scope|DPA]] if it is engaged in the processing of personal data of Filipino citizens or residents of the Philippines, and/or it has an established link to the country.[^7] “Access” falls within the definition of the term, “processing”.[^8]
 
 ##### If there is a security breach in the parent or an affiliate offshore that does not include Philippine residents/citizens, and the Philippine entity is not involved, should it be reported to the NPC?
 
@@ -159,7 +164,7 @@ The term “commercial purpose” is taken in its ordinary meaning. Thus, data s
 
 ##### Section 20(b)(3): Is it necessary to identify the specific processors, or would a general description as to the category of processors (e.g. direct marketing companies, call center operators, telecommunications providers, affiliates within a group of companies, etc.) be sufficient?
 
-The language of Section 20(b)(3) of the IRR clearly imposes a duty to identify the PIP.[^18]
+The language of [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20(b)(3) of the IRR]] clearly imposes a duty to identify the PIP.[^18]
 Unlike Section 34(a)(2)(3), wherein it is possible to refer to the recipients of the personal data
 by their class, Section 20(b)(3) explicitly calls for the identity of the PIP.
 
@@ -291,7 +296,7 @@ Accordingly, in figuring out whether or not a company should register its person
 
 ##### Would the liability of a corporation extend to: (a) its directors; (b) the data protection officer; and/or (c) other employees involved in the offense?
 
-Where a juridical person is found to be criminally liable under the DPA, Section 61 of the IRR clearly identifies the officers against whom the penalties provided in the DPA may be imposed, namely:
+Where a juridical person is found to be criminally liable under the DPA, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-61-extent-of-liability|Section 61 of the IRR]] clearly identifies the officers against whom the penalties provided in the DPA may be imposed, namely:
 
 1. officers who participated in the commission of the crime
 2. officers who, by their gross negligence, allowed the commission of the crime
@@ -334,32 +339,32 @@ Officer in Charge
 Deputy Privacy Commissioner
 Policy and Planning
 
-[^1]: IRR, §3(c).
-[^2]: DPA, §4.
-[^3]: IRR of the DPA, §4.
-[^4]: IRR, §43.
-[^5]: IRR, §3(g).
+[^1]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR, §3(c)]].
+[^2]: [[laws/data-privacy-act-of-2012#section-4-scope|DPA, §4]].
+[^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|IRR of the DPA, §4]].
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-43-subcontract-of-personal-data|IRR, §43]].
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR, §3(g)]].
 [^6]: §4(b).
-[^7]: IRR, §4(d)(4).
-[^8]: see: IRR, §3(o).
-[^9]: IRR, §4(d)(4).
-[^10]: IRR, §4(d).
-[^11]: see: IRR, §3(n).
-[^12]: RA 10173, §14, in relation to §21(b).
-[^13]: IRR, §45.
+[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|IRR, §4(d)(4)]].
+[^8]: see: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR, §3(o)]].
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|IRR, §4(d)(4)]].
+[^10]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|IRR, §4(d)]].
+[^11]: see: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR, §3(n)]].
+[^12]: [[laws/data-privacy-act-of-2012#section-14-subcontract-of-personal-information|RA 10173, §14]], in relation to §21(b).
+[^13]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-45-duty-of-personal-information-processor|IRR, §45]].
 [^14]: id., §5, last paragraph.
-[^15]: IRR, §20(a).
+[^15]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|IRR, §20(a)]].
 [^16]: id., §20(b).
 [^17]: id., §20(b)(2).
-[^18]: IRR, §20(b)(3)(a).
+[^18]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|IRR, §20(b)(3)(a)]].
 [^19]: see: [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]], §3(F).
-[^20]: RA 10173, §21(b).
+[^20]: [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|RA 10173, §21(b)]].
 [^21]: id., §14, in relation to §21(b).
 [^22]: Amores v. House of Representatives Electoral Tribunal, G.R. No. 189600 (29 June 2010).
-[^23]: see: RA 10173, §16(a) and 16(b).
-[^24]: RA 10173, §16(b) and IRR, §34a(2).
-[^25]: see: DPA, §3(i) and IRR, §3(n).
-[^26]: IRR, §45.
-[^27]: NPC Circular No. 16-03, §16.
-[^28]: see: IRR, §3(m) and (n).
-[^29]: IRR, §67.
+[^23]: see: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|RA 10173, §16(a) and 16(b)]].
+[^24]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|RA 10173, §16(b)]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|IRR, §34a(2)]].
+[^25]: see: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|DPA, §3(i)]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR, §3(n)]].
+[^26]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-45-duty-of-personal-information-processor|IRR, §45]].
+[^27]: [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], §16.
+[^28]: see: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR, §3(m) and (n)]].
+[^29]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-67-period-for-compliance|IRR, §67]].

@@ -94,7 +94,7 @@ The Commission validly served the Order dated 16 July 2021 to JuanHand.
 >
 > In case the respondent has a known electronic mail address, service by the Commission may be effected upon him or her through electronic mail in lieu of publication.[^14]
 
-Section 6 of Rule III further provides that the Commission's orders may be served by electronic mail:
+Section 6 of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-iii-filing-and-service|Rule III]] further provides that the Commission's orders may be served by electronic mail:
 
 > SECTION 6. Service of judgments, orders, or resolutions of the NPC. – Judgments, orders, or resolutions shall be served either personally, by registered mail, by courier, or by electronic mail: Provided, that service by electronic mail shall only be made if the party recipient consents to such mode of service or by order of the Commission. x x x[^15]
 
@@ -120,7 +120,7 @@ Nevertheless, in the interest of fully assessing the issue at hand, the Commissi
 
 #### All requisites for granting a temporary ban are satisfied.
 
-Section 3 of Rule IX of the 2021 NPC Rules of Procedure provides for the requisites for temporary ban:
+Section 3 of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ix-ban-on-processing-of-personal-data|Rule IX]] of the 2021 NPC Rules of Procedure provides for the requisites for temporary ban:
 
 > SECTION 3. Requisites for temporary ban. – A temporary ban on processing of personal data may be granted only when:
 >
@@ -160,7 +160,7 @@ According to JuanHand, it considers accessing and modifying a user's calendar as
 
 In the next provision, JuanHand declares that users are "materially informed" of the kind of personal information it processes when users give consent:
 
-> Therefore, we consider that when users give consent to the Service Agreement, users are materially informed the kind of personal information shall be processed in compliance with [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|section 16(a) of the DPA]] and have given consent to the above functions.[^29]
+> Therefore, we consider that when users give consent to the Service Agreement, users are materially informed the kind of personal information shall be processed in compliance with section 16(a) of the DPA and have given consent to the above functions.[^29]
 
 The privacy provisions in the Service Agreement, however, do not mention access to the user's phone calendar. In fact, the request for permission to access and modify the calendar is not included among the disclosed permissions JuanHand requests from its users, as presented in Annex 2 of the Position Paper. The access and modification of the calendar that JuanHand claims to be covered under its legitimate interest is not included in the categories of personal information that will be collected and processed, as set out in the Service Agreement. As a result, the access and modification of the calendar could not have been disclosed to the data subjects. JuanHand neither informed its borrowers of the additional personal information that will be processed nor acquired their consent to such processing. Having failed to inform its borrowers of such processing, much less acquired their consent, JuanHand cannot belatedly use legitimate interest to cure this defect especially since its borrowers could not have expected this at the time they gave their consent.
 
@@ -208,13 +208,13 @@ Third, the FFR showed that JuanHand's system processes personal information beyo
 
 These allegations in the FFR show that there is merit in the Application for a Temporary Ban.
 
-The third requisite for temporary ban is present in this case. Section 4 of Rule II of the NPC Circular No. 21-01 provides:
+The third requisite for temporary ban is present in this case. Section 4 of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|Rule II]] of the NPC Circular No. 21-01 provides:
 
 > Section 4. Filing fees - No further action on a complaint shall be made unless the appropriate filing fees have been paid, except when: (a) the complainant is the government, or any agency or instrumentality, and government-owned and controlled corporations organized and existing under their own charter; excluding government-owned and controlled corporations organized and incorporated under the Corporation Code; (b) the complaint is filed by an indigent complainant as defined in the Rules of Court or as otherwise prescribed by NPC through an advisory; or (c) the NPC, upon motion by the requesting party, waives this requirement based on discretion and for good cause shown.[^38]
 
 The NPC, as a government agency, is exempt from the payment of filing fees. Thus, it is not required to file a bond for the Application for Temporary Ban.
 
-Lastly, the fourth requisite for temporary ban is satisfied. While there was no summary hearing, the Commission, in an Order dated 16 July 2021, required JuanHand to submit a Position Paper on the Application for Temporary Ban. Section 6 of Rule XI of the 2021 NPC Rules of Procedure states:
+Lastly, the fourth requisite for temporary ban is satisfied. While there was no summary hearing, the Commission, in an Order dated 16 July 2021, required JuanHand to submit a Position Paper on the Application for Temporary Ban. Section 6 of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-xi-breach-investigation|Rule XI]] of the 2021 NPC Rules of Procedure states:
 
 > SECTION 6. Submission of position papers or other pleadings as alternative to summary hearing. - The investigating officer may, upon motion or in its discretion, compel the parties to submit simultaneous position papers in lieu of a summary hearing.[^39]
 
@@ -293,11 +293,11 @@ GENERAL RECORDS UNIT
 [^11]: *Id.*
 [^12]: Motion to Properly Serve Order with Motion to Admit Position Paper Ad Cautelam, 12 August 2021, at 3.
 [^13]: Position Paper by Wefund Lending Corporation, 12 August 2021, at 10.
-[^14]: National Privacy Commission, NPC Circular No. 21-01, "2021 Rules of Procedure of the National Privacy Commission" [NPC Circ. No. 2021-01], Rule III, § 5 (28 January 2021).
+[^14]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 21-01]], "2021 Rules of Procedure of the National Privacy Commission" [NPC Circ. No. 2021-01], [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-iii-filing-and-service|Rule III, § 5]] (28 January 2021).
 [^15]: *Id.* at § 6.
 [^16]: Supreme Court of the Philippines, A.M. No. 19-10-20-SC, "2019 Amendments to the 1997 Rules of Civil Procedure" [Rules of Court], Rule XII, § 8 (01 May 2020).
 [^17]: Rules of Court, Rule XIII, § 15(2). Emphasis supplied.
-[^18]: NPC Circ. No. 2021-01, Rule IX, § 3.
+[^18]: NPC Circ. No. 2021-01, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ix-ban-on-processing-of-personal-data|Rule IX, § 3]].
 [^19]: Fact-Finding Report, 9 June 2021, at 5.
 [^20]: Position Paper by Wefund Lending Corporation, 12 August 2021, at 2.
 [^21]: *Id.*
@@ -317,6 +317,6 @@ GENERAL RECORDS UNIT
 [^35]: Fact-Finding Report, 9 June 2021, at 3.
 [^36]: *Id.* at 4. Emphasis supplied.
 [^37]: *Id.* at 5. Emphasis supplied.
-[^38]: NPC Circ. No. 2021-01, Rule II, § 4. Emphasis supplied.
-[^39]: NPC Circ. No. 2021-01, Rule XI, § 6.
+[^38]: NPC Circ. No. 2021-01, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|Rule II, § 4]]. Emphasis supplied.
+[^39]: NPC Circ. No. 2021-01, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-xi-breach-investigation|Rule XI, § 6]].
 [^40]: *Flores-Concepcion v. Castañeda*, A.M. No. RTJ-15-2438, 15 September 2020 (citing *Lumiqued v. Exevea*, G.R. No. 117565, 18 November 1997). Emphasis supplied.

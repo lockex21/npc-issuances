@@ -134,7 +134,7 @@ On 07 January 2022, the Commission, through the Complaints and Investigation Div
 
 This Commission finds the breach notification report lacking details to fully appreciate and determine the compliance of Cebu Pacific with the [[laws/data-privacy-act-of-2012|Data Privacy Act]] and the issuances of this Commission.
 
-Thus, pursuant to Section 9, Rule IV of the NPC Circular No. 16-03 on Personal Data Breach Management, you are hereby required to submit a Post Breach Report detailing the incident that prompted the notification to the Commission, provide documentation/reports as to determination of the extent and number of data subjects affected, the security measures conducted before, during and after the security incident and remedial measures taken to address the incident and prevent its recurrence.
+Thus, pursuant to Section 9, Rule IV of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 on Personal Data Breach Management]], you are hereby required to submit a Post Breach Report detailing the incident that prompted the notification to the Commission, provide documentation/reports as to determination of the extent and number of data subjects affected, the security measures conducted before, during and after the security incident and remedial measures taken to address the incident and prevent its recurrence.
 
 You are hereby given a period of fifteen (15) days from receipt hereof to submit your compliance through email at complaints@privacy.gov.ph.
 
@@ -144,7 +144,7 @@ Cebu Pacific submitted a Post-Data Breach report dated 19 January 2022 to comply
 
 Cebu Pacific explained further that "[a]part from the eight (8) records reported by the two (2) passengers, however, [it] was unable to determine whether other records were similarly exposed due to safety features built into the system meant to enhance data privacy."[^33] It reported monitoring its channels until 25 May 2018. It also reported that it engaged a data breach monitoring service "to investigate the dark web"[^34] Cebu Pacific stated that it was able to validate "that no [personal information] appeared in the dark web."[^35]
 
-The CID recommended to close the matter based on its assessment,[^36] because it does not fall within mandatory notification under NPC Circular 16-03 (Personal Data Breach Management):
+The CID recommended to close the matter based on its assessment,[^36] because it does not fall within mandatory notification under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]]:
 
 In this case, it appears that only the name and other flight details were compromised. Clearly, the personal data affected in this breach incident only involved personal information. Cebu Pacific reiterated that passport numbers, credit card information, passwords, birthdays, or email addresses were not compromised.
 
@@ -156,7 +156,7 @@ Although there is reason to believe that the information may have been acquired 
 
 Thus, with only one (1) out of three elements for a mandatory breach notification present in this case, it is hereby determined that notification, in this case, is not required.[^37]
 
-The CID concluded that the breach posed only minor risks to data subjects, and the Personal Information Controller (PIC) implemented reasonable and appropriate measures to address the incident.[^38] According to the CID, there was also no possible violation of the Data Privacy Act (DPA),[^39] and as such, notification was not required.[^40]
+The CID concluded that the breach posed only minor risks to data subjects, and the Personal Information Controller (PIC) implemented reasonable and appropriate measures to address the incident.[^38] According to the CID, there was also no possible violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA),[^39] and as such, notification was not required.[^40]
 
 ### Issue
 
@@ -168,7 +168,7 @@ The Commission resolves to close the matter. Cebu Pacific showed that it notifie
 
 Contrary to the CID's assessment, however, this matter falls under mandatory breach notification.
 
-Section 11 of NPC Circular 16-03 provides:
+Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides:
 
 > Section 11. When notification is required. Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions.
 >
@@ -300,8 +300,8 @@ National Privacy Commission
 [^38]: Id. at 9.
 [^39]: Id.
 [^40]: Id. at 8.
-[^41]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 11 (15 December 2016).
-[^42]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at 2022.09.22-In-re-Commission-on-Elections-Decision-Final.pdf (last accessed 22 February 2023).
+[^41]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 03, Series of 2016]] [NPC Circ. No. 16-03], § 11 (15 December 2016).
+[^42]: In re: [[decisions/2022/npc-ss-22-001-and-npc-ss-22-008-in-re-commission-on-elections|Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, NPC SS 22-001 and NPC SS 22-008]], 22 September 2022, at 19, available at 2022.09.22-In-re-Commission-on-Elections-Decision-Final.pdf (last accessed 22 February 2023).
 [^43]: Full Breach Report – 18 May 2018 Event, 25 May 2018, at 2, in In re: Cebu Pacific, NPC BN 18-075 (NPC 2018).
 [^44]: Id. at 3.
 [^45]: Id.

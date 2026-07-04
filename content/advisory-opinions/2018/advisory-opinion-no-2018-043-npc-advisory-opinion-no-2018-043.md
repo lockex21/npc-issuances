@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
   - topic/registration
+aliases:
+  - "NPC Advisory Opinion No. 2018-043"
+  - "npc advisory opinion no. 2018-043"
+  - "Advisory Opinion No. 2018-043"
+  - "advisory opinion no. 2018-043"
 draft: false
 ---
 
@@ -24,7 +29,7 @@ Re: REGISTRATION OF DATA PROCESSING SYSTEMS
 
 Dear [Redacted],
 
-We write in response to your request for advisory opinion received by the National Privacy Commission (NPC) which sought to clarify matters regarding Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR)[^2] and relevant issuances, particularly NPC Circular No. 17-01.
+We write in response to your request for advisory opinion received by the National Privacy Commission (NPC) which sought to clarify matters regarding [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^2] and relevant issuances, particularly [[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-01]].
 
 You requested for clarification on whether the processing of personal information in Microsoft Office 365 (Office 365) is considered as a data processing system. If in the affirmative, whether the following entities are required to register with the NPC:
 
@@ -41,7 +46,7 @@ We confirm that Office 365 and its allied applications may be considered as a da
 
 #### Registration
 
-For the registration requirement, NPC Circular No. 17-01 and its Appendix 1 must be read together with the law and its IRR. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] provides for the definition of processing of personal data which refers to any operation or any set of operations performed upon personal information, including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
+For the registration requirement, [[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-01]] and its Appendix 1 must be read together with the law and its IRR. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] provides for the definition of processing of personal data which refers to any operation or any set of operations performed upon personal information, including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
 
 In connection with this, the natural or juridical person who may be required to register are those operating and doing business in the Philippines. Doing business is understood as it is defined under Executive Order No. 226, as amended, or the Omnibus Investment Code of 1987, the Foreign Investments Act of 1991, as amended, the respective IRRs, as amended, and other applicable laws, rules, regulations and jurisprudence on the matter.
 
@@ -55,7 +60,7 @@ From the foregoing, the registration requirement is interpreted to apply to thos
 
 A foreign corporation that does not operate or do business in the Philippines and does not process personal data through data processing systems operating in the Philippines are not covered by the mandatory registration requirement.
 
-Nevertheless, the Foreign Parent and Asia Affiliate, through its Rep Office may always opt to avail of the voluntary registration provided under Section 6 of NPC Circular No. 17-01.
+Nevertheless, the Foreign Parent and Asia Affiliate, through its Rep Office may always opt to avail of the voluntary registration provided under Section 6 of [[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-01]].
 
 This opinion is being rendered based on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of the facts.
 
@@ -73,4 +78,4 @@ Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
 [^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173.
-[^3]: NPC Circular No. 17-01 - Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making, 31 July 2017, §3(F).
+[^3]: [[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-01]] - Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making, 31 July 2017, §3(F).

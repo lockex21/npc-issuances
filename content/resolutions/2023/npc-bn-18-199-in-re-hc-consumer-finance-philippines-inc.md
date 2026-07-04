@@ -71,7 +71,7 @@ On 01 August 2022, HC submitted its Compliance to the Order dated 12 July 2022.[
 
 ### Issue
 
-Whether HC has sufficiently addressed the breach and implemented appropriate measures pursuant to NPC Circular 16-03 (Personal Data Breach Management).
+Whether HC has sufficiently addressed the breach and implemented appropriate measures pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]].
 
 ### Discussion
 
@@ -83,7 +83,7 @@ As to the security measures it implemented, HC’s agents were reoriented to ver
 
 commodity were also taken as additional measures to prevent any other fraudulent schemes.[^27]
 
-Further, HC has notified the affected data subject following Rule V, Section 18 (C) and (D) NPC Circular 16-03.
+Further, HC has notified the affected data subject following Rule V, Section 18 (C) and (D) [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
 > **SECTION 18. Notification of Data Subjects.**
 > 
@@ -110,7 +110,7 @@ Furthermore, HC has deleted the contact information of RBB to prevent any furthe
 
 Additionally, HC provided its Customer Service Hotline and an email address to report any unauthorized or suspicious activity involving the personal data of RBB.[^32] However, HC stated in its Supplemental Post Breach Report dated 01 August 2022, that it did not receive any inquiries or responses from RBB.[^33]
 
-As to the notification to the Commission, HC submitted its full breach report dated 04 November 2020. Rule V, Section 17 (D) of the NPC Circular 16-03 provides:
+As to the notification to the Commission, HC submitted its full breach report dated 04 November 2020. Rule V, Section 17 (D) of the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides:
 
 > **D. Content of Notification.** The notification shall include, but not be limited to:
 > 
@@ -242,7 +242,7 @@ GENERAL RECORDS UNIT
 
 [^27]: *Id.*
 
-[^28]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18 (C) (D) (15 December 2016) (NPC Circular 16-03).
+[^28]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], NPC Circular 16-03, rule V, § 18 (C) (D) (15 December 2016) (NPC Circular 16-03).
 
 [^29]: Letter dated 23 October 2018, from HC Consumer Finance Philippines, Inc. (Data Subject Notification) Annex (I)
 
@@ -254,7 +254,7 @@ GENERAL RECORDS UNIT
 
 [^33]: Letter dated 01 August 2022 “Supplemental Post-Breach Report on NPC BN 18-199” from HC Consumer Finance Philippines, Inc.
 
-[^34]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 17(D) (15 December 2016) (NPC Circular 16-03).
+[^34]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], NPC Circular 16-03, rule V, § 17(D) (15 December 2016) (NPC Circular 16-03).
 
 [^35]: Letter dated 04 November 2020 “Updated Report on Identity Theft (NPC BN-199)” from HC Consumer Finance Philippines, Inc.
 

@@ -7,6 +7,11 @@ tags:
 - year/2023
 - topic/government
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-005"
+  - "npc advisory opinion no. 2023-005"
+  - "Advisory Opinion No. 2023-005"
+  - "advisory opinion no. 2023-005"
 ---
 
 ## Source
@@ -169,9 +174,9 @@ the equipment which will store the data collected from the inventory are duly pr
 offices are properly secured by locks and bolts). On the other hand, technical security measures
 refer to the means by which a personal information controller protects its electronic system from
 unlawful, unauthorized and accidental access. Since the inventory system may be accessed
-online, we recommend looking into the technical security measures specifically stated in NPC
-Circular 16-01 relating to online accessible systems, for guidance and application. You may access
-a copy of NPC Circular 16-01 at our website or you may click on this link:
+online, we recommend looking into the technical security measures specifically stated in [[issuances/undated/security-of-personal-data-in-government-agencies|NPC
+Circular 16-01]] relating to online accessible systems, for guidance and application. You may access
+a copy of [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular 16-01]] at our website or you may click on this link:
 https://www.privacy.gov.ph/memorandum-circulars/npc-circular-16-01-security-of-personal-
 data-in-government-agencies/
 
@@ -226,14 +231,14 @@ Director IV, Privacy Policy Office
 
 [^1]: Tags: sensitive personal information; health data; legal mandate; proportionality.
 [^2]: Entitled "Inventory of Vaccinated Population in the Barangay," issued on 18 January 2022.
-[^3]: Republic Act 10173.
-[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3(g) & 3(l) (2012).
-[^5]: Data Privacy Act of 2012, § 12 (c).
-[^6]: Id. § 13 (b).
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(a) (2016).
+[^3]: [[laws/data-privacy-act-of-2012|Republic Act 10173]].
+[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(g) & 3(l)]] (2012).
+[^5]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (c)]].
+[^6]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Id. § 13 (b)]].
+[^7]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(a)]] (2016).
 [^8]: Id. § 11 (d).
-[^9]: Data Privacy Act of 2012, § 11 (d).
+[^9]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11 (d)]].
 [^10]: See: National Privacy Commission, [[advisory-opinions/2022/advisory-opinion-no-2022-005-advisory-opinion-no-2022-005-redacted|NPC Advisory Opinion No. 2022-005]] (24 February 2022).
-[^11]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 25 (2016).
-[^12]: NPC Advisory No. 2017-03.
-[^13]: Data Privacy Act of 2012, § 11 (f).
+[^11]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|§ 25]] (2016).
+[^12]: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]].
+[^13]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11 (f)]].

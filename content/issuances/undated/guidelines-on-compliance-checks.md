@@ -98,7 +98,7 @@ A. Level of risk to the rights and freedoms of data subjects posed by personal d
 
 B. Reports received by the Commission against the PIC or PIP, or its sector;
 
-C. Non-registration of a PIC or PIP that is subject to the mandatory registration requirement as provided under NPC Circular 17-01;
+C. Non-registration of a PIC or PIP that is subject to the mandatory registration requirement as provided under [[issuances/undated/registration-of-data-processing-systems|NPC Circular 17-01]];
 
 D. Unsecured or publicly available personal data found on the internet that may be traced to a PIC or PIP; and
 

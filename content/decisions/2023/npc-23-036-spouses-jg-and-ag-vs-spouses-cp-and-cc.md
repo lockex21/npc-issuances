@@ -45,7 +45,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before the Commission is the Complaint filed by Spouses JG and AG (Complainants) against Spouses CP (MC) and CC (Respondents) for an alleged violation of Sections 25, 28, 31, and 32 of the Data Privacy Act of 2012 or Republic Act No. 10173 ("DPA").
+Before the Commission is the Complaint filed by Spouses JG and AG (Complainants) against Spouses CP (MC) and CC (Respondents) for an alleged violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Sections 25]], [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|28]], [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|31]], and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] or Republic Act No. 10173 ("DPA").
 
 ### Facts
 
@@ -65,7 +65,7 @@ Additionally, in the same Reply Affidavit, Respondents admitted that they secure
 
 > 62. Interestingly, respondents Spouses G and daughter respondent AYG demanded confidentiality of this settlement from complainant AL. This is precisely the reason why complainant Spouses could not get any assistance from her in instant case. Fortunately, good minded persons with access to NBI records provided complainant Spouses with a copy of settlement.[^8]
 
-Complainants alleged that the acts done by Respondent of "accessing, processing and disclosing [C]omplainants' G's personal and sensitive personal information gives rise to criminal liability under the Data Privacy Act."[^9] Hence, in their CAF, the Complainants pleaded that the Respondents be held liable under Sections 25, 28, 31, and 32 of the DPA.[^10] Complainants also stated that "the culpable officers of the NBI may likewise be held liable together with Respondents," citing Republic Act No. 6713, the Code of Conduct and Ethical Standards for Public Officials and Employees and the Revised Penal Code.[^11]
+Complainants alleged that the acts done by Respondent of "accessing, processing and disclosing [C]omplainants' G's personal and sensitive personal information gives rise to criminal liability under the [[laws/data-privacy-act-of-2012|Data Privacy Act]]."[^9] Hence, in their CAF, the Complainants pleaded that the Respondents be held liable under Sections 25, 28, 31, and 32 of the DPA.[^10] Complainants also stated that "the culpable officers of the NBI may likewise be held liable together with Respondents," citing Republic Act No. 6713, the Code of Conduct and Ethical Standards for Public Officials and Employees and the Revised Penal Code.[^11]
 
 On 11 April 2023, the CID issued an Order (To File Verified Comment and Appear Virtually for Preliminary Conference) requiring the Respondents to file their Verified Comment within fifteen (15) days from receipt of the Order.[^12] The CID likewise orders the parties to appear virtually for a Preliminary Conference on 16 May 2023, and 27 June 2023.[^13]
 
@@ -107,11 +107,11 @@ II. Whether Respondents are liable for violating [[laws/data-privacy-act-of-2012
 
 ### Discussion
 
-The Commission finds that the case should not be dismissed on procedural grounds and that Respondents are liable for violating Section 25 of the DPA.
+The Commission finds that the case should not be dismissed on procedural grounds and that Respondents are liable for violating [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25]] of the [[laws/data-privacy-act-of-2012|DPA]].
 
 #### I. Complainants did not violate the Rule on Exhaustion of Remedies.
 
-Section 2, Rule II of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure) provides:
+[[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|Section 2, Rule II]] of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure) provides:
 
 > **SECTION 2. Exhaustion of remedies.** – No complaint shall be given due course unless it has been sufficiently established and proven that:
 >
@@ -275,24 +275,24 @@ GENERAL RECORDS UNIT
 [^37]: Memorandum dated 21 June 2023 of Spouses JG and AG, at p. 19.
 [^38]: *Id.*, at p. 22.
 [^39]: Spouses JG and AG vs. Spouses CP and CC, NPC 23-036, Notice (that the Case is Submitted for Decision of the Commission) dated 06 September 2023.
-[^40]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission, NPC Circular No. 2021-01, rule II, § 2 (28 January 2021) (2021 NPC Rules of Procedure).
+[^40]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]], NPC Circular No. 2021-01, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|rule II, § 2]] (28 January 2021) (2021 NPC Rules of Procedure).
 [^41]: Complaints-Assisted Form dated 14 March 2023 of Spouses JG and AG, at p. 7 and Annex 1 "Joint and Consolidated Reply Affidavit" at p. 28.
-[^42]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission, NPC Circular No. 2021-01, rule II, § 2 (28 January 2021) (2021 NPC Rules of Procedure).
+[^42]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]], NPC Circular No. 2021-01, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|rule II, § 2]] (28 January 2021) (2021 NPC Rules of Procedure).
 [^43]: Complaints-Assisted Form dated 14 March 2023 of Spouses JG and AG, at p. 7.
 [^44]: Heirs of Amada Zaulda v. Zaulda, G.R. No. 201234, 17 March 2014.
-[^45]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 25 (2012).
+[^45]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter VIII, [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|§ 25]] (2012).
 [^46]: *Id.*
-[^47]: *Id.*, chapter I, § 3(j) (2012).
+[^47]: *Id.*, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(j)]] (2012).
 [^48]: Complaints-Assisted Form dated 14 March 2023 of Spouses JG and AG, at p. 7 and Annex 1 "Joint and Consolidated Reply Affidavit" at p. 28.
-[^49]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (g) (2012).
-[^50]: *Id.*, chapter I, § 3 (l) (2012).
+[^49]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]] (2012).
+[^50]: *Id.*, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]] (2012).
 [^51]: Complaints-Assisted Form dated 14 March 2023 of Spouses JG and AG, at p. 7.
 [^52]: *Id.*, at p. 7 and Annex 1 "Joint and Consolidated Reply Affidavit" at p. 28.
 [^53]: Verified Comment dated 02 May 2023 of Spouses CP and CC, at p. 16.
-[^54]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 13(f) (2012).
-[^55]: *Id.*, chapter III, § 11(a) (2012).
-[^56]: JBD v. JI and VVV, NPC 18-D-012, Decision dated 21 January 2021, at p. 13.
+[^54]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter III, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13(f)]] (2012).
+[^55]: *Id.*, chapter III, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11(a)]] (2012).
+[^56]: JBD v. JI and VVV, [[decisions/2020/cid-18-d-012-jbd-vs-ji-and-vvv|NPC 18-D-012]], Decision dated 21 January 2021, at p. 13.
 [^57]: *Id.*
 [^58]: Complaints-Assisted Form dated 14 March 2023 of Spouses JG and AG, at p. 7 and Annex 1 "Joint and Consolidated Reply Affidavit" at p. 28.
-[^59]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, rule IV, § 18(b) (2016).
+[^59]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the Data Privacy Act of 2012, rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(b)]] (2016).
 [^60]: Complaints-Assisted Form dated 14 March 2023 of Spouses JG and AG, at p. 7.

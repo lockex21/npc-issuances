@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/data-sharing"
+aliases:
+  - "NPC Advisory Opinion No. 2020-010"
+  - "npc advisory opinion no. 2020-010"
+  - "Advisory Opinion No. 2020-010"
+  - "advisory opinion no. 2020-010"
 draft: false
 ---
 
@@ -44,7 +49,7 @@ Philhealth’s legal counsel not to sign the same.
 From the foregoing, you seek clarification on the following:
 
    1) Are the inspection and monitoring activities of the Philhealth an exemption from the
-         applicability of Section 5 (d) and the last paragraph thereof of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^2] (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^3] (DPA);
+         applicability of [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 (d)]] and the last paragraph thereof of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^2] (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^3] (DPA);
     2) Is Philhealth exempt from signing an NDA if their staff performs monitoring and
        inspection; and
     3) Is Philheatlh exempt from entering into a data sharing agreement (DSA) with the
@@ -88,7 +93,7 @@ is part of its organizational security measures. With this, Philhealth and its a
 representatives are not prohibited from signing an NDA which ensures the confidentiality of
 the patients’ personal data as between the hospital and Philhealth.
 
-As to whether or not Philhealth is exempt from entering into a data sharing agreement, NPC Circular No. 2016-02 provides that nothing in the Circular shall be construed as prohibiting or limiting the sharing or transfer of any personal data that is already authorized or required by law.[^8]
+As to whether or not Philhealth is exempt from entering into a data sharing agreement, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 2016-02]] provides that nothing in the Circular shall be construed as prohibiting or limiting the sharing or transfer of any personal data that is already authorized or required by law.[^8]
 
 For this purpose, we understand that there is already a Philhealth issuance on the matter – Philhealth Circular No. 013 – 2015 (Revisions in the Performance Commitment for Health Care Institutions and Professionals).[^9] You quoted the 2018 version of the Performance Commitment form, specifically Item E (35), to wit:
 
@@ -117,7 +122,7 @@ Privacy Commissioner
 
 [^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
 [^3]: An Act Protecting the Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) and last ¶ (2016).
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5]] (d) and last ¶ (2016).
 [^5]: See generally: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-079-v1-redacted-advisory-opinion-no-2018-079|NPC Advisory Opinion No. 2018-079]] (Oct. 23, 2018).
 [^6]: An Act Amending Republic Act No. 7875, Otherwise Known as the "National Health Insurance Act of 1995", As Amended, And for Other Purposes [National Health Insurance Act of 2013], Republic Act No. 10606, § 10 (2013).
 [^7]: *Id.*

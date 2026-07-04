@@ -58,7 +58,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission is a Complaint filed by CA and VP (Complainants) against Westparc Condominium (Westparc) for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by CA and VP (Complainants) against Westparc Condominium (Westparc) for an alleged violation of Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -156,7 +156,7 @@ Whether Westparc is liable for violation of Complainants’ right to access unde
 
 ### Discussion
 
-The Commission finds Westparc liable for violation of the Complainants' right to access under Section 16 (c) of the DPA.
+The Commission finds Westparc liable for violation of the Complainants' right to access under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (c) of the DPA]].
 
 In administrative proceedings, Complainants carry the burden of proof to establish their allegations with substantial evidence.[^40]
 
@@ -176,7 +176,7 @@ Once the complainant has established his case, the burden of evidence shifts to 
 
 Westparc, however, neglected to submit the documents as directed by CID in multiple Orders. Westparc also failed to appear without notice or justification, despite several opportunities to address the complaints against it.
 
-NPC Circular 2016-04 (2016 Rules of Procedure) provides:
+[[issuances/undated/rules-of-procedure|NPC Circular 2016-04 (2016 Rules of Procedure)]] provides:
 
 > Section 22. *Rendition of decision.* The Decision of the Commission shall adjudicate the issues raised in the complaint **on the basis of all the evidence presented and its own consideration of the law.**[^44]
 
@@ -312,13 +312,13 @@ GENERAL RECORDS UNIT
 [^41]: Civil Service Commission v. Hernandez, G.R. No. 151095 (2004).
 [^42]: 2019 AMENDMENT TO THE 1989 REVISED RULES ON EVIDENCE, A.M. NO. 19-08-15-SC, Rule 131, § 1 (1 May 2020). Emphasis supplied.
 [^43]: Office of the Ombudsman v. Espina, G.R. No. 213500 (2017).
-[^44]: National Privacy Commission, 2016 Rules of Procedure of the National Privacy Commission [NPC 2016 Rules of Procedure], rule III, § 22 (15 December 2016). Emphasis supplied.
-[^45]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 16 (c) (2012). Emphasis supplied.
+[^44]: National Privacy Commission, [[issuances/undated/rules-of-procedure#rule-iii-procedure-in-complaints|2016 Rules of Procedure of the National Privacy Commission]] [NPC 2016 Rules of Procedure], rule III, § 22 (15 December 2016). Emphasis supplied.
+[^45]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16 (c)]] (2012). Emphasis supplied.
 [^46]: Complaints-Affidavit, 28 February 2018, at 1, in CA v. Westparc Condominium, NPC 18-004 & 18-005 (NPC 2018).
 [^47]: *Id.*
 [^48]: *Id.*
-[^49]: Data Privacy Act of 2012, § 37.
+[^49]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-37-restitution|§ 37]].
 [^50]: *Id.*
 [^51]: An Act to Ordain and Institute the Civil Code of the Philippines [CIVIL CODE], Republic Act No. 386, art. 2221 (1949).
-[^52]: Data Privacy Act of 2012, § 16(c).
+[^52]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16(c)]].
 [^53]: Complaints-Affidavit, 28 February 2018, at 1, in CA v. Westparc Condominium, NPC 18-004 & 18-005 (NPC 2018).

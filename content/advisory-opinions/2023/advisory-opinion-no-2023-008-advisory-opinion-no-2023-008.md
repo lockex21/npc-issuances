@@ -6,6 +6,11 @@ tags:
 - type/advisory-opinion
 - year/2023
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-008"
+  - "npc advisory opinion no. 2023-008"
+  - "Advisory Opinion No. 2023-008"
+  - "advisory opinion no. 2023-008"
 ---
 
 ## Source
@@ -34,7 +39,7 @@ Second, Globe’s blocking process does not involve the reading or storing of th
 
 Lastly, the only way that Globe sees the contents of spam and scam text messages are through the screenshots submitted or reported by its subscribers and partner-organizations. Globe then inputs the keywords and links for blocking based on the pattern or trend observed in the screenshots.
 
-You thus seek clarification on whether Globe’s temporary blocking of text messages pursuant to the NTC directive is in accordance with Section 3, Article III of the 1987 Constitution and with Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).
+You thus seek clarification on whether Globe’s temporary blocking of text messages pursuant to the NTC directive is in accordance with Section 3, Article III of the 1987 Constitution and with Republic Act No. 10173, otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).
 
 ### Discussion
 
@@ -56,8 +61,8 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
-[^2]: Id, § 4
-[^3]: Id, § 3 (j).
-[^4]: Id, § 3 (g).
+[^2]: [[laws/data-privacy-act-of-2012#section-4-scope|Id, § 4]]
+[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id, § 3 (j)]].
+[^4]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id, § 3 (g)]].
 [^5]: Republic Act No. 7925, Public Telecommunications Policy Act of 1995.
 [^6]: Bureau of Customs Employees Association v. Teves, G.R. No.181704 (2011)

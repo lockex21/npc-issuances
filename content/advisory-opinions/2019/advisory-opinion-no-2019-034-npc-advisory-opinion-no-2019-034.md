@@ -8,6 +8,11 @@ tags:
   - topic/consent
   - topic/employment
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-034"
+  - "npc advisory opinion no. 2019-034"
+  - "Advisory Opinion No. 2019-034"
+  - "advisory opinion no. 2019-034"
 ---
 
 ## Source
@@ -24,8 +29,8 @@ Re: CONSENT AND ITS WITHDRAWAL FOR EMPLOYMENT PURPOSES
 
 Dear [Redacted],
 
-We write in response to your query which sought to clarify matters regarding the Data Privacy
-Act of 2012 (DPA),[^2] specifically on the consent of job applicants and existing company employees.
+We write in response to your query which sought to clarify matters regarding the [[laws/data-privacy-act-of-2012|Data Privacy
+Act of 2012]] (DPA),[^2] specifically on the consent of job applicants and existing company employees.
 You sought our opinion on the following scenarios where employers require consent forms:
 
    •      as a pre-employment requirement, enumerating the various purposes for the same, i.e.
@@ -104,7 +109,7 @@ In addition, consent shall be evidenced by written, electronic or recorded means
 #### Necessity of requiring employer to divide the purposes for data processing; other lawful criteria for processing aside from consent
 
 The processing of personal information is permitted under the DPA when at least one of the
-conditions provided under Section 12 is present. As to sensitive personal information, its
+conditions provided under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] is present. As to sensitive personal information, its
 processing is prohibited except when there exists any of the cases enumerated under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 As enunciated in [[advisory-opinions/2017/advisory-opinion-no-2017-050-npc-advisoryopinionno-2017-050|NPC Advisory Opinion No. 2017-050]]:
@@ -140,7 +145,7 @@ the following manner:
           statement or by a clear affirmative action, signifies agreement to the processing of
           personal data relating to him or her.[^13]
 
-On the other hand, Section 3(b) of the DPA specifically defines consent thus:
+On the other hand, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b)]] of the DPA specifically defines consent thus:
 
    Consent of the data subject refers to any freely given, specific, informed indication of
           will, whereby the data subject agrees to the collection and processing of personal
@@ -227,7 +232,7 @@ Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^2]: *Id.* § 3(b).
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (2016).
+[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18]] (2016).
 [^4]: *Id.*
 [^5]: European Commission, Article 29 Data Protection Working Party, Opinion 15/2011 on the definition of consent, 13 July 2011, pages 12-13, available at https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2011/wp187_en.pdf (last accessed May 27, 2019).
 [^6]: European Commission, Article 29 Data Protection Working Party, Opinion 2/2017 on data processing at work, 8 June 2017, pages 6-7, available at https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=610169 (last accessed May 27, 2019).
@@ -236,8 +241,8 @@ Privacy Commissioner and Chairman
 [^9]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-063-npc-advisory-opinion-no-2018-063|NPC Advisory Opinion No. 2018-063]] (October 23, 2018).
 [^10]: *Id.*
 [^11]: *Id.*
-[^12]: National Privacy Commission, NPC Advisory Opinion No. 2017-050 (Aug. 29, 2017).
+[^12]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-050-npc-advisoryopinionno-2017-050|NPC Advisory Opinion No. 2017-050]] (Aug. 29, 2017).
 [^13]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Article 4 (11) (2016).
 [^14]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-009-npc-advisoryopinionno-2017-009|NPC Advisory Opinion No. 2017-009]] (Jan. 16, 2017).
-[^15]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34(b) (2016).
-[^16]: National Privacy Commission, NPC Advisory Opinion No. 2018-013 (April 18, 2018).
+[^15]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|§ 34(b)]] (2016).
+[^16]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-013-npc-advisory-opinion-no-2018-013|NPC Advisory Opinion No. 2018-013]] (April 18, 2018).

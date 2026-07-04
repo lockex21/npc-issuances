@@ -126,7 +126,7 @@ DECISION
 
 AGUIRRE, D.P.C.:
 
-Before this Commission are six separate Complaints filed against DSL for an alleged violation of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 (DPA).
+Before this Commission are six separate Complaints filed against DSL for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -351,22 +351,22 @@ National Privacy Commission
 [^21]: *Id.*
 [^22]: Memorandum by RRB, 11 October 2021, *in* MVC, et al. v. DSL, NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015 (NPC 2021) (pending). Memorandum by NMB, 11 October 2021, *in* MVC, et al. v. DSL, NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015 (NPC 2021) (pending). Memorandum by RMP, 11 October 2021, *in* MVC, et al. v. DSL, NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015 (NPC 2021) (pending). Memorandum by NDL, 11 October 2021, *in* MVC, et al. v. DSL, NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015 (NPC 2021) (pending). Memorandum by MBN, 11 October 2021, *in* MVC, et al. v. DSL, NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015 (NPC 2021) (pending).
 [^23]: Memorandum by MBN, 11 October 2021, Annex I, *in* MVC, et al. v. DSL, NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015 (NPC 2021) (pending).
-[^24]: See Data Privacy Act of 2012, § 4 on the scope of the DPA which provides "This Act applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing".
-[^25]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 12 (c) (2012).
-[^26]: *Id.* § 11.
+[^24]: See [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]] on the scope of the DPA which provides "This Act applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing".
+[^25]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Republic Act No. 10173 § 12 (c)]] (2012).
+[^26]: *Id.* [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
 [^27]: Complaint-Assisted Form, 08 June 2018, Annex *in* MVC, et al. v. DSL, NPC 21-010, NPC 21-011, NPC 21-012, NPC 21-013, NPC 21-014, and NPC 21-015 (NPC 2021) (pending).
 [^28]: *Id.*
-[^29]: *Id.* § 32.
-[^30]: *Id.* § 31.
-[^31]: *Id.* § 31.
-[^32]: *Id.* § 32.
+[^29]: *Id.* [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|§ 32]].
+[^30]: *Id.* [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|§ 31]].
+[^31]: *Id.* [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|§ 31]].
+[^32]: *Id.* [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|§ 32]].
 [^33]: RSA Tower Condominium Corp. v. Reyes II, A.C. No. 11944 (2018).
 [^34]: Data Privacy Act of 2012, § 3.2.
 [^35]: Metropolitan Bank and Trust Co. v. Liberty Corrugated Boxes Manufacturing Corp., G.R. No.184317 (2017).
 [^36]: *Supra* note 35.
 [^37]: Fort Bonifacio Development Corp. v. Commissioner of Internal Revenue, G.R. Nos. 158885 & 170680 (Resolution) (2009).
-[^38]: See Data Privacy Act of 2012, § 3(j) on the definition of processing which "refers to any operation or any set of operations performed upon personal information" which necessarily includes the sharing and disclosure of personal information.
-[^39]: *Id.* § 11.
+[^38]: See [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3(j)]] on the definition of processing which "refers to any operation or any set of operations performed upon personal information" which necessarily includes the sharing and disclosure of personal information.
+[^39]: *Id.* [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
 [^40]: [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021 (NPC 2021) (unreported).
 [^41]: People v. Liban, G.R. Nos. 136247 & 138330 (2000).
 [^42]: *Supra* note 40.

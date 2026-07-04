@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+aliases:
+  - "NPC Advisory Opinion No. 2018-034"
+  - "npc advisory opinion no. 2018-034"
+  - "Advisory Opinion No. 2018-034"
+  - "advisory opinion no. 2018-034"
 draft: false
 ---
 
@@ -38,7 +43,7 @@ The BIR cited Section 5(B) of the National Internal Revenue Code (Tax Code) as b
 
 ### Discussion
 
-[[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] known as the Data Privacy Act of 2012 (DPA), provides the criterion for lawful processing of personal information under Section 12(e), *i.e.* that the processing is necessary in order to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.
+[[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] known as the Data Privacy Act of 2012 (DPA), provides the criterion for lawful processing of personal information under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(e)]], *i.e.* that the processing is necessary in order to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.
 
 The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the DPA defines a public authority as any government entity created by the Constitution or law and vested with law enforcement or regulatory authority and functions.[^2]
 
@@ -63,7 +68,7 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 3(r) (2016).
+[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|§ 3(r)]] (2016).
 [^3]: An Act Amending the National Internal Revenue Code, as Amended, and for Other Purposes [TAX REFORM ACT OF 1997], Republic Act No. 8424 (1997)
 [^4]: *Id.*, § 2
 [^5]: *Id.*, § 5

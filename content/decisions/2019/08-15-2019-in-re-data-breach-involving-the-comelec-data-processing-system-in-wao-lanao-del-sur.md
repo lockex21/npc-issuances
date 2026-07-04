@@ -38,7 +38,7 @@ In Re: DATA BREACH INVOLVING THE COMELEC DATA PROCESSING SYSTEM IN WAO, LANAO DE
 
 NPC CID Case No.: 17-002
 
-For: Violation of the Data Privacy Act of 2012
+For: Violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 
 x------------------------------------------x
 
@@ -104,7 +104,7 @@ On 13 February 2017, proceeding from the records of the Case, including the onsi
 
    a. Notification by publication in two newspapers of general circulation will be allowed for individuals with records in the National List of Registered Voters (NLRV);
 
-   b. Individual notification for the individuals with records in the Voters Registration System (VRS) in the Municipality of Wao, in accordance with NPC Circular 16-03 on Personal Data Breach Management;
+   b. Individual notification for the individuals with records in the Voters Registration System (VRS) in the Municipality of Wao, in accordance with [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] on Personal Data Breach Management;
 
 3. Submit to the National Privacy Commission proposed and implemented revisions in the voter registration process, taking into account the Data Privacy Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and related Issuances of the Commission in two weeks;
 
@@ -142,7 +142,7 @@ Considering the submissions of COMELEC to this Commission, and the continuing ef
 
 The reported robbery of the COMELEC field office in Wao happened on 11 January 2017. COMELEC notified this Commission of the personal data breach only on 28 January 2017.
 
-Section 20 Chapter V on the Security of Personal Information of the Data Privacy Act of 2012 provides:
+[[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20]] Chapter V on the Security of Personal Information of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] provides:
 
 > Section 20. Security of Personal Information.
 >
@@ -150,7 +150,7 @@ Section 20 Chapter V on the Security of Personal Information of the Data Privacy
 >
 > (f) The personal information controller shall promptly notify the Commission and affected data subjects when sensitive personal information or other information that may, under the circumstances, be used to enable identity fraud are reasonably believed to have been acquired by an unauthorized person, and the personal information controller or the Commission believes that such unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject. Xxx (Emphasis supplied.)
 
-The Implementing Rules and Regulations and NPC Circular 16-03 defined what constitutes prompt notification. That is, notification of personal data breach shall be within seventy-two (72) hours upon knowledge of or the reasonable belief by the personal information controller or personal information processor that a personal data breach has occurred.
+The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] and [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] defined what constitutes prompt notification. That is, notification of personal data breach shall be within seventy-two (72) hours upon knowledge of or the reasonable belief by the personal information controller or personal information processor that a personal data breach has occurred.
 
 The IRR allows delay in the notification to the extent necessary to determine the scope of the breach, to prevent further disclosures, or to restore reasonable integrity to the information and communications system.
 
@@ -168,11 +168,11 @@ From the records of the case, and considering that NPC Circular 16-03 took effec
 
 CTL reported the incident to his superiors on the same day that the robbery was discovered. Indeed, the determination of the scope of the breach should have been completed faster, and notification of the Commission should have been immediate based only on available knowledge. While COMELEC claims that the security measures are adequate considering the use of encryption and other safeguards, it should have been more circumspect. Such assertion by itself is inadequate basis to support the assumption that notification is not necessary. We take notice, however, that guidelines such as the factors to consider in determining necessity of notification have been provided only in NPC Circular 16-03.
 
-In sum, this Commission finds that there is insufficient evidence to recommend the prosecution of the responsible officers of COMELEC or CTL for the crimes of Access due to Negligence under Section 26, or Concealment of a Security Breach under Section 30 of the Data Privacy Act of 2012.
+In sum, this Commission finds that there is insufficient evidence to recommend the prosecution of the responsible officers of COMELEC or CTL for the crimes of Access due to Negligence under [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26]], or Concealment of a Security Breach under [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Section 30]] of the Data Privacy Act of 2012.
 
 This Commission considers, however, the need to ensure that existing policies on data privacy and data security are operationalized not just in the Central Office of COMELEC but also in regional and local field offices as well. It is not sufficient to provide documentation of compliance with the DPA; rather, it must be integrated in daily operations and data processing activities. While the evidence is not sufficient to warrant criminal prosecution, COMELEC must be able to demonstrate compliance with the DPA.
 
-The National Privacy Commission is mandated, under the DPA, to protect personal information. To this effect, NPC Circular 16-03 on Personal Data Breach Management provides guidelines to help PICs prevent and properly manage such breaches when they occur. Further, Section 9 of the same Circular provides for a procedure for post-breach review for the purpose of improving the personal data breach management policies and procedures of the PIC:
+The National Privacy Commission is mandated, under the DPA, to protect personal information. To this effect, [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] on Personal Data Breach Management provides guidelines to help PICs prevent and properly manage such breaches when they occur. Further, Section 9 of the same Circular provides for a procedure for post-breach review for the purpose of improving the personal data breach management policies and procedures of the PIC:
 
 > SECTION 9. Documentation. All actions taken by a personal information controller or personal information processor shall be properly documented. Reports should include:
 >
@@ -192,13 +192,13 @@ In order to ensure that existing breach management policies and procedures are b
 
 1. The Designation of Data Protection Officers/Compliance Officers for Privacy for every Regional Unit and the names and contact information thereof;
 
-2. A copy of its Security Incident Management Policy, pursuant to Sections 4 and 5 of NPC Circular 16-04, including documents demonstrating:
+2. A copy of its Security Incident Management Policy, pursuant to Sections 4 and 5 of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]], including documents demonstrating:
 
    a. Creation of its Breach Response Team, and the composition thereof;
 
    b. Dissemination of this Security Policy to all election field offices;
 
-3. Complete Post-Breach Report on its management of this Personal Data Breach in compliance with Section 9 of NPC Circular 16-03.
+3. Complete Post-Breach Report on its management of this Personal Data Breach in compliance with Section 9 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
 **SO ORDERED.**
 
@@ -229,6 +229,6 @@ Wao
 
 [^1]: According to COMELEC, part of the measures that have been implemented and/or still for implementation are the following: Measures already taken: 1. Memorandum dated 23 January 2017 called for installation of CCTV cameras in all field offices, including the hiring of a consultant for the Data Privacy Act compliance. 2. Memorandum dated 01 February 2017 prescribed the interim security measures and controls that will secure and prevent loss, destruction, unauthorized access and misuse of data pending issuance of the key policies related to data security, use, processing, storage and disposal. 3. Conduct of training-seminar on the Data Privacy Act. Measures to be undertaken: 1. Use of biometrics by the accountable officers to gain access to the VRS and NLRV. The COMELEC Information Technology Department ("ITD") has been directed to develop an application on the matter. 2. Limit the number of personal data in the NLRV deployed in the local field offices and overseas posts. Also under development is the patch that will delete and wipe-out the NLRV storage devices in the offices of the election officer. 3. Drafting of the rules and guidelines on limiting the use of the VS and NLRV in the local field offices to eighty-one (81) Provincial Election Supervisors only, instead of one thousand, six hundred fifty-six (1,656) election officers. 4. Streamline registration forms to cover only personal data required by law (R.A. No. 8189). 5. Execution of Non-Disclosure Agreements ("NDA") with the Job Orders/Contract of Services personnel authorized by the Commission En Banc to be hired. Said NDA shall likewise apply to regular employees of departments and offices that have personal data in their custody. 6. Execution of Data Sharing Agreements with Law Enforcement Agencies. 7. Submission to the Commission En Banc, for its approval, of a Notice to be incorporated in documents containing data requested by data sharing agencies. 8. Drafting of the key policies on the compliance requirements of the Data Privacy Act, for approval by the Commission En Banc. 9. Nationwide training of all the field officials on Data Privacy Act compliance, including the integration of such compliance requirements during the orientation of newly hired employees. 10. Finalization of the Privacy Impact Assessment, for submission to the Commission on or before 27 February 2017.
 
-[^2]: Rule IX, Sec. 38(c) of the IRR of the DPA.
+[^2]: Rule IX, Sec. 38(c) of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-38-data-breach-notification|IRR]] of the DPA.
 
 [^3]: In response to the order to submit proposed and implemented revisions in the voter registration process in view of the DPA, COMELEC submitted a draft of the Policy on Field Office Systems outlining the policy on data privacy, security and protection; and a draft of the Resolution to align changes in the VRS and the VS with the General Instruction on the conduct of the system of continuing registration of voters. COMELEC also reported the following: approval on the budget for the installation of CCTV cameras; delay in hiring a consultant due to low budget allocation; dissemination of Memorandum on interim security measures and controls on data processing; addition of a 1-day seminar on data privacy in their Strategic Planning Seminar attended by directors and division chiefs; directive to use biometrics to gain access in the VRS and the VS; development of application to limit the number of personal data in the NLRV and the deployment of application to wipe-out the NLRV from storage devices in the offices of the election officer; finalization of rules and guidelines on limiting the use of VS and NLRV in the local field offices; streamlining of the registration forms to cover only personal data required by Republic Act No. 8189; execution of Non-Disclosure Agreements with COMELEC personnel; planned execution of Data Sharing Agreements with Law Enforcement Agencies; incorporation of Notice in all documents requested by data-sharing agencies; drafting of a Data Privacy Manual; nationwide training of all field officials on DPA compliance; submission of Privacy Impact Assessment to NPC; meeting with PNP to discuss security concerns of COMELEC field offices; the publishing of the required notification to affected data subjects in two newspapers of general circulation and the completion of personal delivery of individual notices to affected data subjects in Wao, Lanao del Sur.

@@ -21,9 +21,9 @@ draft: false
 **Questions Raised During the Public Consultation on 07 December 2023**
 
 **SECTION 1.** ***General Questions.***  
-1. **What is legitimate interest?** Section 3 (A) of the Circular defines legitimate interest as an actual and lawful benefit, advantage, or gain that a PIC or third party seeks through processing. The purpose must remain lawful, not contrary to morals, public order, or public policy, and the activity should be transparent to data subjects.
+1. **What is legitimate interest?** Section 3 (A) of the [[issuances/2023/guidelines-on-legitimate-interest|Circular]] defines legitimate interest as an actual and lawful benefit, advantage, or gain that a PIC or third party seeks through processing. The purpose must remain lawful, not contrary to morals, public order, or public policy, and the activity should be transparent to data subjects.
 
-2. **When does legitimate interest apply?** It is a valid lawful basis under Section 12(f) of the [[laws/data-privacy-act-of-2012|DPA]] provided sensitive personal information is not involved. Legitimate interest may co-exist with other bases, but whichever basis applies must be communicated to the data subject under Section 16 of the [[laws/data-privacy-act-of-2012|DPA]] and Section 34 (a)(2)(c) of the IRR.
+2. **When does legitimate interest apply?** It is a valid lawful basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]] provided sensitive personal information is not involved. Legitimate interest may co-exist with other bases, but whichever basis applies must be communicated to the data subject under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 (a)(2)(c) of the IRR]].
 
 3. **Whose interests matter?** The legitimate interest of the PIC or the third party that receives the data is considered per Section 12(f). Section 3(C) clarifies that a third party is anyone other than the PIC, PIP, or the data subject, and the general privacy principles continue to apply even when legitimate interest is claimed.
 

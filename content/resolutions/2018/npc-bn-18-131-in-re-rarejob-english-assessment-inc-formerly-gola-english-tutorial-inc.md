@@ -89,9 +89,9 @@ Whether the matter falls under mandatory breach notification and whether REA suf
 
 ### Discussion
 
-The Commission resolves to close the matter. The incident does not fall under mandatory breach notification under Section 11 of NPC Circular 16-03 (Personal Data Breach Management). Nevertheless, REA sufficiently addressed the breach and implemented security measures to prevent its recurrence.
+The Commission resolves to close the matter. The incident does not fall under mandatory breach notification under Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management). Nevertheless, REA sufficiently addressed the breach and implemented security measures to prevent its recurrence.
 
-Section 11 of NPC Circular 16-03 on mandatory breach notification provides:
+Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] on mandatory breach notification provides:
 
 > **Section 11. When notification is required.** Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions.
 >
@@ -111,9 +111,9 @@ Following this, the requisites for mandatory breach notification to the Commissi
 
 The first requisite is absent in this case. The nature of the information involved is not sensitive personal information and cannot, under the circumstances, enable identity fraud.
 
-REA admitted that the personal data involved in the breach included, among others, the applicants’ educational attainment and the name of their school.[^37] Under Section 3 (l) of Republic Act No. 10173 or the Data Privacy Act (DPA), personal information about an individual’s education is considered sensitive personal information.[^38]
+REA admitted that the personal data involved in the breach included, among others, the applicants’ educational attainment and the name of their school.[^37] Under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l)]] of Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA), personal information about an individual’s education is considered sensitive personal information.[^38]
 
-In RCJ v. DL, however, the Commission explained that not all information related to education should automatically be considered sensitive personal information:
+In [[decisions/2022/npc-22-012-rjc-v-dl|RCJ v. DL]], however, the Commission explained that not all information related to education should automatically be considered sensitive personal information:
 
 > In construing Section (3) (l) of the DPA as a whole and considering the company of words in this Section, the information enumerated, which includes “education”, may be used to profile an individual. Thus, to harmonize and give effect to the provision as a whole, only information about education which can profile a particular individual falls within the definition of sensitive personal information.
 >
@@ -167,7 +167,7 @@ In determining whether the unauthorized acquisition is likely to give rise to a 
 
 In this case, as previously established, the unauthorized acquisition was due to REA's inadvertent failure to turn off the "view other responses" function.[^60] There is no showing that the tutor-applicant who notified REA deliberately intended to obtain the other applicants' information, as he even reported it to REA.[^61] Thus, the objective of the unauthorized acquisition was not for malicious or fraudulent purposes. Further, REA reported that it immediately disabled the feature that allowed the personal information of the applicants to be viewed by others.[^62] As such, further exposure or misuse of the information is unlikely.
 
-Finally, Section 20 of the DPA provides that Personal Information Controllers (PICs) must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any unlawful disclosure:
+Finally, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 of the DPA]] provides that Personal Information Controllers (PICs) must implement reasonable and appropriate organizational, physical, and technical measures intended for the protection of personal information against any unlawful disclosure:
 
 > **Section 20. Security of Personal Information.** (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^63]
 
@@ -276,15 +276,15 @@ GENERAL RECORDS UNIT
 
 [^33]: Id.
 
-[^34]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 11 (15 December 2016).
+[^34]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 03, Series of 2016]] [NPC Circ. No. 16-03], § 11 (15 December 2016).
 
 [^35]: NPC BN 18-158, 13 November 2023, at 10 (NPC 2023) (unreported).
 
-[^36]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers, NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-COMELEC-Decision-FinalP.pdf (last accessed 28 May 2024).
+[^36]: [[decisions/2022/npc-ss-22-001-and-npc-ss-22-008-in-re-commission-on-elections|In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does Initiated as a Sua Sponte NPC Investigation on Possible Data Privacy Violations Committed in Relation to the Alleged Hack and Breach of the Commission on Elections System or Servers]], NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-COMELEC-Decision-FinalP.pdf (last accessed 28 May 2024).
 
 [^37]: Personal Data Breach Notification from Rarejob English Assessment, Inc. (formerly GOLA English Tutorial, Inc., 27 July 2018, at 1-2, in In re: Rarejob English Assessment, Inc., NPC BN 18-131 (NPC 2018).
 
-[^38]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (l) (2012).
+[^38]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]] (2012).
 
 [^39]: RCJ v. DL, NPC BN 22-012, 10 November 2022, at 7, available at https://privacy.gov.ph/wp-content/uploads/2023/08/NPC-22-012-2022.11.10-RJC-v.-DL-Decision.pdf (last accessed 28 May 2024).
 
@@ -292,9 +292,9 @@ GENERAL RECORDS UNIT
 
 [^41]: Id.
 
-[^42]: NPC Circ. No. 16-03, § 11.
+[^42]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 11.
 
-[^43]: Data Privacy Act of 2012, § 20 (f). Emphasis supplied.
+[^43]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (f)]]. Emphasis supplied.
 
 [^44]: NPC BN 20-124, 10 September 2020, at 3 (NPC 2020) (unreported).
 
@@ -312,15 +312,15 @@ GENERAL RECORDS UNIT
 
 [^51]: Id. at 2.
 
-[^52]: In re: Batangas Bay Carriers, Inc., NPC BN 20-157, 21 September 2020, at 5, available at https://www.privacy.gov.ph/wp-content/uploads/2022/01/Resolution-NPC-BN-20-157-In-re-Batangas-Bay_Sep-21.pdf (last accessed 11 July 2024).
+[^52]: [[resolutions/2020/npc-bn-20-157-in-re-batangas-bay-carriers-inc-2|In re: Batangas Bay Carriers, Inc.]], NPC BN 20-157, 21 September 2020, at 5, available at https://www.privacy.gov.ph/wp-content/uploads/2022/01/Resolution-NPC-BN-20-157-In-re-Batangas-Bay_Sep-21.pdf (last accessed 11 July 2024).
 
 [^53]: Compliance, 07 March 2023, at 1-2, in In re: Rarejob English Assessment, Inc. (formerly GOLA English Tutorial, Inc.), NPC BN 18-131 (NPC 2023).
 
-[^54]: In re: Batangas Bay Carriers, Inc., NPC BN 20-157, at 5.
+[^54]: [[resolutions/2020/npc-bn-20-157-in-re-batangas-bay-carriers-inc-2|In re: Batangas Bay Carriers, Inc.]], NPC BN 20-157, at 5.
 
-[^55]: NPC Circ. No. 16-03, § 11.
+[^55]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 11.
 
-[^56]: In re: Easytrip Services Corporation, NPC BN 17-028 and NPC BN 18-180, 11 May 2023, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-17-028-_-NPC-BN-18-180-2023.05.11-In-re-Easytrip-Reso-Final.pdf (last accessed 28 May 2024).
+[^56]: [[resolutions/2023/npc-17-028-and-npc-bn-18-180-in-re-easytrip-services-corporation|In re: Easytrip Services Corporation]], NPC BN 17-028 and NPC BN 18-180, 11 May 2023, at 8, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-17-028-_-NPC-BN-18-180-2023.05.11-In-re-Easytrip-Reso-Final.pdf (last accessed 28 May 2024).
 
 [^57]: Id.
 
@@ -334,7 +334,7 @@ GENERAL RECORDS UNIT
 
 [^62]: Personal Data Breach Notification from Rarejob English Assessment, Inc. (formerly GOLA English Tutorial, Inc., 27 July 2018, at 2, in In re: Rarejob English Assessment, Inc., NPC BN 18-131 (NPC 2018).
 
-[^63]: Data Privacy Act of 2012, § 20 (a).
+[^63]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (a)]].
 
 [^64]: Compliance, 07 March 2023, at 3, in In re: Rarejob English Assessment, Inc. (formerly GOLA English Tutorial, Inc.), NPC BN 18-131 (NPC 2023).
 

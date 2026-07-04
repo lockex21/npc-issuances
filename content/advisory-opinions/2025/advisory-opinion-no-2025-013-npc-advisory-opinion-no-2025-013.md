@@ -7,6 +7,11 @@ tags:
   - "year/2025"
   - "topic/consent"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-013"
+  - "npc advisory opinion no. 2025-013"
+  - "Advisory Opinion No. 2025-013"
+  - "advisory opinion no. 2025-013"
 ---
 
 ## Source
@@ -61,7 +66,7 @@ Moreover, in compliance with the proportionality principle, Dataflow must ensure
 
 Most importantly, it is mandatory for all PICs and its PIPs to implement reasonable and appropriate organizational, physical, and technical security measures for the protection of personal data.
 
-NPC Circular No. 2023-06 (Security of Personal Data in the Government and the Private Sector) outlines the minimum standards and requirements for the security of personal data. A PIC and its PIP must conduct, among other requirements, a Privacy Impact Assessment for every processing system that involves personal data of individuals. As mentioned in the said Circular, a PIC and its PIP may implement more detailed or stricter policies and procedures that reflect industry-specific operating requirements. As such, the PIC or PIP is in the best position to determine the reasonable and appropriate organizational, physical, and technical security measures to implement, considering that it has the most knowledge of its own operations and IT infrastructure.
+[[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular No. 2023-06]] (Security of Personal Data in the Government and the Private Sector) outlines the minimum standards and requirements for the security of personal data. A PIC and its PIP must conduct, among other requirements, a Privacy Impact Assessment for every processing system that involves personal data of individuals. As mentioned in the said Circular, a PIC and its PIP may implement more detailed or stricter policies and procedures that reflect industry-specific operating requirements. As such, the PIC or PIP is in the best position to determine the reasonable and appropriate organizational, physical, and technical security measures to implement, considering that it has the most knowledge of its own operations and IT infrastructure.
 
 Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note, further, that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
@@ -73,6 +78,6 @@ Very truly yours,
 VIDA ZORA G. BOCAR
 OIC – Director IV, Privacy Policy Office
 
-[^1]: NPC Circular No. 2023-04 (Guidelines on Consent).
-[^2]: NPC Advisory Opinion No. 2018-031.
-[^3]: NPC Circular No. 2023-06 (Security of Personal Data in the Government and the Private Sector).
+[^1]: [[issuances/2023/guidelines-on-consent|NPC Circular No. 2023-04]] (Guidelines on Consent).
+[^2]: [[advisory-opinions/2018/advisory-opinion-no-2018-031-npc-advisory-opinion-no-2018-031|NPC Advisory Opinion No. 2018-031]].
+[^3]: [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular No. 2023-06]] (Security of Personal Data in the Government and the Private Sector).

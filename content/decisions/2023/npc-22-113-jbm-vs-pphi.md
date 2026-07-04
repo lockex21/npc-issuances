@@ -94,7 +94,7 @@ Accordingly, "[t]o ensure compliance with the Data Privacy Act of 2012 and other
 
 PPHI, in its Comment, also argued that there was no unauthorized disclosure of Complainant's personal data in this case.[^32] PPHI emphasized that Jxxxx (referred to as Ms. [] in the Comment) is part of the Respondent Corporation's Title Transfer Group,[^33] as such, she is "authorized by the Respondent Corporation, with the consent of the Complainant, to use and/or process personal information as may be needed to comply with the Respondent Corporation's contractual obligations."[^34]
 
-PPHI averred that there was no violation of the DPA and prayed for the dismissal of the complaint for lack of merit.
+PPHI averred that there was no violation of the [[laws/data-privacy-act-of-2012|DPA]] and prayed for the dismissal of the complaint for lack of merit.
 
 On 19 July 2022 and 16 August 2022, the first[^35] and second[^36] Preliminary Conferences for this case were held with only the counsel of PPHI present.
 
@@ -110,11 +110,11 @@ On 16 March 2023, the CID issued a Notice to the parties informing them that the
 
 ### Issue
 
-Whether there is substantial evidence to find PPHI liable for a violation of Section 32 (Unauthorized Disclosure) of the DPA.
+Whether there is substantial evidence to find PPHI liable for a violation of [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32]] (Unauthorized Disclosure) of the [[laws/data-privacy-act-of-2012|DPA]].
 
 ### Discussion
 
-The Commission dismisses the case for lack of substantial evidence. PPHI cannot be held liable for a violation of the DPA based on the allegations and evidence submitted by JBM.
+The Commission dismisses the case for lack of substantial evidence. PPHI cannot be held liable for a violation of the [[laws/data-privacy-act-of-2012|DPA]] based on the allegations and evidence submitted by JBM.
 
 In the CAF, JBM alleged a violation of Section 32 of the DPA for unauthorized disclosure.[^43] To substantiate this claim, JBM submitted the printed screenshot of the conversations she had with PPHI's sales agents.[^44]
 
@@ -357,34 +357,34 @@ GENERAL RECORDS UNIT
 [^47]: Comment dated 27 June 2022, in JBM v. PPHI, NPC 22-113.
 [^48]: *Id.*, Annex 3.
 [^49]: Comment dated 27 June 2022, in JBM v. PPHI, NPC 22-113.
-[^50]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 25 (2012).
-[^51]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 31 (2012).
+[^50]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter VIII, [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|§ 25]] (2012).
+[^51]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter VIII, [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|§ 31]] (2012).
 [^52]: Complaints-Assisted Form, 20 May 2022, in JBM v. PPHI, NPC 22-113.
 [^53]: EG v. JI, RO, and RR, [[decisions/2022/npc-21-111-eg-v-ji-ro-and-rr|NPC 21-111]], Decision dated 22 September 2022, at pp. 11-12.
 [^54]: *Id.*
-[^55]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (h) (2012).
+[^55]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]] (2012).
 [^56]: Comment dated 27 June 2022, in JBM v. PPHI, NPC 22-113.
-[^57]: EG v. JI, RO, and RR, NPC 21-111, Decision dated 22 September 2022, at pp. 11-12.
+[^57]: EG v. JI, RO, and RR, [[decisions/2022/npc-21-111-eg-v-ji-ro-and-rr|NPC 21-111]], Decision dated 22 September 2022, at pp. 11-12.
 [^58]: Complaints-Assisted Form, 20 May 2022, at 4-9, in JBM v. PPHI, NPC 22-113.
 [^59]: Comment dated 27 June 2022, in JBM v. PPHI, NPC 22-113.
-[^60]: EG v. JI, RO, and RR, NPC 21-111, Decision dated 22 September 2022, at pp. 11-12.
-[^61]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3(g) (2012).
+[^60]: EG v. JI, RO, and RR, [[decisions/2022/npc-21-111-eg-v-ji-ro-and-rr|NPC 21-111]], Decision dated 22 September 2022, at pp. 11-12.
+[^61]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(g)]] (2012).
 [^62]: *Id.*, Sec. 3(l).
 [^63]: Comment dated 27 June 2022, in JBM v. PPHI, NPC 22-113.
 [^64]: Comment dated 27 June 2022, in JBM v. PPHI, NPC 22-113.
 [^65]: Comment dated 27 June 2022, in JBM v. PPHI, NPC 22-113.
-[^66]: EG v. JI, RO, and RR, NPC 21-111, Decision dated 22 September 2022, at pp. 11-12.
-[^67]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 12 (2012).
-[^68]: *Id.*, §13.
+[^66]: EG v. JI, RO, and RR, [[decisions/2022/npc-21-111-eg-v-ji-ro-and-rr|NPC 21-111]], Decision dated 22 September 2022, at pp. 11-12.
+[^67]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter III, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]] (2012).
+[^68]: *Id.*, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§13]].
 [^69]: Comment dated 27 June 2022, in JBM v. PPHI, NPC 22-113, Annex 2.
 [^70]: Comment dated 27 June 2022, in JBM v. PPHI, NPC 22-113, See also Annex 2.
-[^71]: EG v. JI, RO, and RR, NPC 21-111, Decision dated 22 September 2022, at pp. 11-12.
+[^71]: EG v. JI, RO, and RR, [[decisions/2022/npc-21-111-eg-v-ji-ro-and-rr|NPC 21-111]], Decision dated 22 September 2022, at pp. 11-12.
 [^72]: Delgado v. HRET, G.R. No. 219603, 26 January 2016, cited in [[decisions/2022/npc-21-054-rgc-v-jk-incorporated-and-recovery-inc|NPC 21-054]].
-[^73]: Montinola vs. Philippine Airlines, G.R. No. 198656, 8 September 2014, cited in NPC 21-054.
+[^73]: Montinola vs. Philippine Airlines, G.R. No. 198656, 8 September 2014, cited in [[decisions/2022/npc-21-054-rgc-v-jk-incorporated-and-recovery-inc|NPC 21-054]].
 [^74]: Comment dated 27 June 2022, in JBM v. PPHI, NPC 22-113.
 [^75]: Complaints-Assisted Form, 20 May 2022, at 4-9, in JBM v. PPHI, NPC 22-113.
 [^76]: NPC 19-1260, RAR vs. NADC, 19 January 2023.
-[^77]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 37 (2012).
+[^77]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter VIII, [[laws/data-privacy-act-of-2012#section-37-restitution|§ 37]] (2012).
 [^78]: An Act to Ordain and Institute the Civil Code of the Philippines [New Civil Code], Republic Act No. 386, art. 2221 (1950).
 [^79]: Seven Brothers Shipping Corporation v. DMC-Construction Resources, G.R. No. 193914. November 26, 2014.
 [^80]: *Id.*

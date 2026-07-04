@@ -88,7 +88,7 @@ As such, in the absence of sufficient evidence to support Complainant's allegati
 
 #### The Complaint does not warrant the issuance of a temporary ban
 
-In his Complaints-Assisted form, Complainant applied for a temporary ban on Respondent's processing of his personal data based on the ground of "privacy invasion."[^13] This is governed by NPC Circular 16-04 (NPC Rules of Procedure) which provides:
+In his Complaints-Assisted form, Complainant applied for a temporary ban on Respondent's processing of his personal data based on the ground of "privacy invasion."[^13] This is governed by [[issuances/undated/rules-of-procedure#rule-iii-procedure-in-complaints|NPC Circular 16-04]] (NPC Rules of Procedure) which provides:
 
 **Section 19. *Temporary Ban on Processing Personal Data.* –** At the commencement of the complaint or at any time before the decision of the National Privacy Commission becomes final, a complainant or any proper party may have the National Privacy Commission, acting through the investigating officer, impose a temporary ban on the processing of personal data, if on the basis of the evidence on record, such a ban is necessary in order to preserve the rights of the complainant or to protect national security or public interest.
 
@@ -188,16 +188,16 @@ GENERAL RECORDS UNIT
 [^8]: Responsive Comments dated 20 December 2019.
 [^9]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] dated 15 December 2016 ("NPC Rules of Procedure"), Section 22. Emphasis supplied.
 [^10]: G.R. No. 165585, 20 November 2013, citing *Real v. Belo*, 542 Phil. 109 (2007).
-[^11]: Republic Act No. 10173, Section 25.
-[^12]: *Id.*, at Section 28.
+[^11]: [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Republic Act No. 10173, Section 25]].
+[^12]: *Id.*, at [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28]].
 [^13]: *Supra*, Note 1.
-[^14]: NPC Circular No. 16-04 dated 15 December 2016 ("NPC Rules of Procedure"), Section 19.
+[^14]: [[issuances/undated/rules-of-procedure#rule-iii-procedure-in-complaints|NPC Circular No. 16-04]] dated 15 December 2016 ("NPC Rules of Procedure"), Section 19.
 [^15]: *Supra*, Note 9.
 [^16]: *Supra*, Note 8 at Annex C.
 [^17]: *Ibid*, at Annex C-1.
 [^18]: *Ibid*, at Annex D.
 [^19]: *Ibid*, at Annex F. Emphasis supplied.
-[^20]: Republic Act No. 10173, Section 3(b). Emphasis supplied.
+[^20]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173, Section 3(b)]]. Emphasis supplied.
 [^21]: *Supra*, Note 1.
 [^22]: *Supra*, Note 8 at Annex F.
 [^23]: *See*, Guidelines on transparency under Regulation 2016/679 of the Article 29 Working Party (2017).

@@ -11,6 +11,11 @@ tags:
   - topic/data-subject-rights
   - topic/employment
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-028"
+  - "npc advisory opinion no. 2018-028"
+  - "Advisory Opinion No. 2018-028"
+  - "advisory opinion no. 2018-028"
 ---
 
 ## Source
@@ -32,7 +37,7 @@ This pertains to your query received by the National Privacy Commission (NPC) vi
 
 An employee 201 file, usually containing records pertaining to the employee's personal information, employment contract, duties, salary, performance and employment history, among others, is established and maintained by an employer for specific purposes relating to the employee's employment, i.e. payroll, training and development, performance evaluation, promotion, etc. As this file is compiled and in part, created by and held under the custody of the company, such files may be considered company property and acquiring a copy thereof may still be governed by certain company rules and regulations.
 
-On the other hand, Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), applies to the processing[^2] of all types of personal information and to any natural and juridical person involved in the processing thereof.[^3] Thus, companies that process personal information of an individual must comply with the provisions of the DPA.
+On the other hand, [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), applies to the processing[^2] of all types of personal information and to any natural and juridical person involved in the processing thereof.[^3] Thus, companies that process personal information of an individual must comply with the provisions of the DPA.
 
 ### Discussion
 

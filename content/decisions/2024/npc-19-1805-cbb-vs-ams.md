@@ -49,7 +49,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.:
 
-Before this Commission is a Complaint filed by CBB (Complainant) against AMS (Respondent) for an alleged violation of Sections 25, 28, and 31 of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by CBB (Complainant) against AMS (Respondent) for an alleged violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Sections 25]], [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|28]], and [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|31]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA)]].
 
 ### Facts
 
@@ -146,9 +146,9 @@ The Commission dismisses the complaint on the ground of lack of merit.
 
 #### I. The instant case should not be dismissed outright despite Complainant's failure to exhaust administrative remedies.
 
-The Complainant filed his complaint prior to the effectivity of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure), thus, the applicable procedural rules at the time of its filing, which was on 05 December 2019, is NPC Circular 16-04 or the 2016 NPC Rules of Procedure.[^41]
+The Complainant filed his complaint prior to the effectivity of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-01]] (2021 NPC Rules of Procedure), thus, the applicable procedural rules at the time of its filing, which was on 05 December 2019, is [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] or the 2016 NPC Rules of Procedure.[^41]
 
-Section 4, Rule II of NPC Circular No. 16-04 (2016 NPC Rules of Procedure) provides:
+Section 4, Rule II of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] (2016 NPC Rules of Procedure) provides:
 
 > SECTION 4. Exhaustion of remedies. – No complaint shall be entertained unless:
 >
@@ -166,7 +166,7 @@ Respondent, in her Memorandum dated 21 October 2021 argued that Complainant fail
 
 Moreover, Respondent argues that Complainant did not show a "written complaint/demand/information to the [R]espondent which evidently proves that there is no exhaustion of remedies on the part of the complainant."[^44] Indeed, as may be seen in Complainant's CAF, she admitted that she did not contact Respondent relative to her complaint.[^45] She, however, justified this failure by indicating "BUT SHE HAS AN EXISTING COMPLAINT AGAINST ME."[^46]
 
-As this Commission has ruled in *VVC v. CJB*, the Commission has the discretion to waive any of the conditions precedent enumerated in Section 4 of NPC Circular No. 16-04 "upon good cause shown, or if the complaint involves a serious violation or breach of the DPA, taking into account the risk of harm to the affected data subject."[^47]
+As this Commission has ruled in *VVC v. CJB*, the Commission has the discretion to waive any of the conditions precedent enumerated in Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] "upon good cause shown, or if the complaint involves a serious violation or breach of the DPA, taking into account the risk of harm to the affected data subject."[^47]
 
 In this case, it is alleged that Respondent has a recording of Complainant talking with Respondent's mother, and then walking from the front of Respondent's gate towards Complainant's garage and front door on 23 December 2017 from 3:00-4:30 p.m.[^48] Moreover, this video was allegedly discovered during mediation proceedings between Complainant and Respondent before the Office of the *Lupong Tagapamayapa* last April or May 2019 involving a different incident.[^49]
 
@@ -189,6 +189,7 @@ To be held liable under Section 25 (a) of the DPA, the following requisites must
 1. The accused processed the information of the data subject.
 2. That the information processed was personal information.
 3. That the processing was done without the consent of the data subject, or without authority under this Act or any existing law.[^55]
+
 
 As to the first requisite, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (j) of the DPA]] defines processing as "any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data."[^56]
 
@@ -226,7 +227,7 @@ However, as to the third element, the Commission finds that the same is absent a
 
 In this case, the alleged recording of CCTV footage is considered as processing necessary for the legitimate interests of the PIC. In particular, the CCTV cameras are used as security measures to protect one's home.
 
-In connection with Respondent's use of the CCTV footage is Complainant's allegation of Respondent's violation of the proportionality principle. Under the Implementing Rules and Regulations of the DPA, "the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means."[^69]
+In connection with Respondent's use of the CCTV footage is Complainant's allegation of Respondent's violation of the proportionality principle. Under the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the DPA]], "the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means."[^69]
 
 In this case, Complainant argues in her Memorandum dated 25 October 2021 that "the act of the [R]espondent in capturing video footages well beyond the boundaries of her property constitutes a violation of the proportionality principle."[^70] Complainant claimed that the CCTV cameras were pointed at her gate, garage, garden, and front door.
 
@@ -375,7 +376,7 @@ National Privacy Commission
 [^38]: Memorandum dated 21 October 2021 of AMS.
 [^39]: Attachments to the Electronic mail dated 20 July 2022 from CBB.
 [^40]: Electronic mail dated 20 July 2022 from CBB.
-[^41]: National Privacy Commission, Rules of Procedure of the National Privacy Commission, NPC Circular 16-04, (15 December 2016) (NPC Circular 16-04).
+[^41]: National Privacy Commission, [[issuances/undated/rules-of-procedure|Rules of Procedure of the National Privacy Commission, NPC Circular 16-04]], (15 December 2016) (NPC Circular 16-04).
 [^42]: *Id.*
 [^43]: Memorandum dated 21 October 2021 of AMS.
 [^44]: Complaints-Assisted Form dated 05 December 2019 of CBB, at p. 3.
@@ -387,33 +388,33 @@ National Privacy Commission
 [^50]: *Id.*, at p. 5.
 [^51]: *Id.*, at p. 5.
 [^52]: Memorandum dated 25 October 2021 of CBB.
-[^53]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 25 (2012).
+[^53]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Republic Act No. 10173, chapter VIII, § 25]] (2012).
 [^54]: *Id.*, chapter VIII, § 25.
-[^55]: In Re: FLI Operating ABC Online Lending Application, NPC 19-910, Decision dated 17 December 2020 at p. 17.
-[^56]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3(j) (2012).
+[^55]: In Re: FLI Operating ABC Online Lending Application, [[decisions/2020/npc-19-910-in-re-fli-operating-abc-online-lending-application|NPC 19-910]], Decision dated 17 December 2020 at p. 17.
+[^56]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173, chapter I, § 3(j)]] (2012).
 [^57]: *Id.*, chapter I, § 3 (c).
 [^58]: Attachments to the Complaints-Assisted Form dated 05 December 2019 of CBB.
 [^59]: Attachments to the Memorandum dated 25 October 2021 of CBB.
 [^60]: Attachments to the Electronic mail dated 20 July 2022 from CBB.
 [^61]: Electronic mail dated 20 July 2022 from CBB.
 [^62]: *Id.*
-[^63]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter I, § 3 (g) (2012).
+[^63]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173, chapter I, § 3 (g)]] (2012).
 [^64]: *Id.*
 [^65]: Electronic mail dated 20 July 2022 from CBB.
-[^66]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 ,chapter III, § 12 (f) (2012).
+[^66]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Republic Act No. 10173 ,chapter III, § 12 (f)]] (2012).
 [^67]: *Id.*, chapter III, § 13 (f).
 [^68]: *Id.*, chapter III, § 12 (f).
-[^69]: National Privacy Commission, Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule IV, § 18 (c) (2016).
+[^69]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Implementing Rules and Regulations of the Data Privacy Act of 2012, Rule IV, § 18 (c)]] (2016).
 [^70]: Memorandum dated 25 October 2021 of CBB.
 [^71]: *Id.*
 [^72]: *Id.*
-[^73]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 28 (2012).
-[^74]: RLA v. PLDT, NPC 18-010, Resolution dated 10 December 2021.
+[^73]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Republic Act No. 10173, chapter VIII, § 28]] (2012).
+[^74]: RLA v. PLDT, [[resolutions/2020/npc-18-010-rla-v-pldt-enterprise|NPC 18-010]], Resolution dated 10 December 2021.
 [^75]: *Id.*, chapter III, § 13 (f).
 [^76]: BGM v. IPP, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]], Decision dated 17 December 2020, at p. 7-8.
 [^77]: *Id.*
 [^78]: Memorandum dated 25 October 2021 of CBB.
-[^79]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter III, § 13 (f) (2012).
+[^79]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Republic Act No. 10173, chapter III, § 13 (f)]] (2012).
 [^80]: *Id.*, chapter III, § 12 (f).
 [^81]: *Id.*
 [^82]: *Id.*, chapter III, § 13 (f).

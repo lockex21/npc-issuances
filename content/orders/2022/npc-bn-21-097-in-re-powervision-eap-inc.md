@@ -89,7 +89,7 @@ The Commission grants PowerVision's request for an extension until 28 January 20
 
 **A Personal Information Controller has the obligation to ensure the accessibility of documents and information related to the personal data breach.**
 
-PowerVision, as the Personal Information Controller (PIC), is expected to comply with the periods stated in NPC Circular No. 16-03 (Personal Data Breach Management)[^11] and with the corresponding orders of the Commission. Particularly, Section 17(C) of NPC Circular No. 16-03 requires the submission of a Full Breach Report within five (5) days from initial notification, "unless the personal information controller is granted additional time by the Commission to comply."[^12]
+PowerVision, as the Personal Information Controller (PIC), is expected to comply with the periods stated in [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]][^11] and with the corresponding orders of the Commission. Particularly, Section 17(C) of NPC Circular No. 16-03 requires the submission of a Full Breach Report within five (5) days from initial notification, "unless the personal information controller is granted additional time by the Commission to comply."[^12]
 
 Further, Section 18(A) of the same Circular states:
 
@@ -103,7 +103,7 @@ PowerVision now requests an extension to submit documents given that they are al
 
 The Commission notes that in PowerVision's cover letter containing the Full Report, it stated that due to the pandemic, "counselling sessions are made through online platform or via audio calls."[^17] As a company that relies on technology, particularly during the pandemic, it would also be reasonable to infer that the documents are digitized and accessible. Thus, the files or documents needed would be accessible regardless of the physical location or health condition of the DPO.
 
-Further, Section 5 of NPC Circular No. 16-03 requires a data breach response team as part of the guidelines for personal data breach management, to quote:
+Further, Section 5 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] requires a data breach response team as part of the guidelines for personal data breach management, to quote:
 
 > SECTION 5. Data Breach Response Team. A personal information controller or personal information processor shall constitute a data breach response team, which shall have at least one (1) member with the authority to make immediate decisions regarding critical action, if necessary. The team may include the Data Protection Officer.
 >
@@ -119,7 +119,7 @@ Further, Section 5 of NPC Circular No. 16-03 requires a data breach response tea
 >
 > The functions of the Data Breach Response Team may be outsourced. Such outsourcing shall not reduce the requirements found in the Act, the IRR or related issuance. The Data Protection Officer shall remain accountable for compliance with applicable laws and regulations.[^18] (Emphases supplied)
 
-As the quoted provision shows, the responsibility for complying with NPC Circular No. 16-03 does not rest solely with the DPO. The PIC should have a data breach response team in place to handle proceedings related to data breaches. In this case, even though PowerVision's DPO is abroad and has contracted Covid-19, members of PowerVision's data breach response team should be available to comply with the CMD's Order.
+As the quoted provision shows, the responsibility for complying with [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] does not rest solely with the DPO. The PIC should have a data breach response team in place to handle proceedings related to data breaches. In this case, even though PowerVision's DPO is abroad and has contracted Covid-19, members of PowerVision's data breach response team should be available to comply with the CMD's Order.
 
 Further, the Commission once again reminds PICs that the prompt compliance with the Commission's orders is within their responsibilities and obligations in cases of data breach, especially if the incident involves sensitive personal information[^19] and the affected data subjects are more than one hundred (100) individuals.[^20]
 
@@ -133,7 +133,7 @@ The Commission expects that PowerVision will comply in good faith with the perio
 
 In the cover letter attaching its Full Report, PowerVision requested guidance from the Commission on whether it may be exempted from notifying the affected data subjects.[^22] It claims that "there was no sensitive personal data acquired by the intruder and that the possible emotional and mental effect which may unnecessarily burden the data subject is not proportionate to the minimal possible risk."[^23] This request for guidance shall be treated by the Commission as a request for exemption from data subject notification.
 
-The Commission finds that the reported breach falls under the mandatory breach notification requirement, and notification is crucial in order to reduce the risks and possible harm to the affected data subjects. Section 11 of NPC Circular No. 16-03 provides:
+The Commission finds that the reported breach falls under the mandatory breach notification requirement, and notification is crucial in order to reduce the risks and possible harm to the affected data subjects. Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides:
 
 > SECTION 11. When notification is required. Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 >
@@ -143,7 +143,7 @@ The Commission finds that the reported breach falls under the mandatory breach n
 >
 > C. The personal information controller or the Commission believes that the unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject.[^24] (Emphases supplied)
 
-Further, Section 13(B) and (C) of NPC Circular No. 16-03, in relation to Section 11 of the same Circular provides:
+Further, Section 13(B) and (C) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], in relation to Section 11 of the same Circular provides:
 
 > SECTION 13. Determination of the Need to Notify. Where there is uncertainty as to the need for notification, the personal information controller shall take into account, as a primary consideration, the likelihood of harm or negative consequences on the affected data subjects, and how notification, particularly of the data subjects, could reduce the risks arising from the personal data breach reasonably believed to have occurred. The personal information controller shall also consider if the personal data reasonably believed to have been compromised involves:
 >
@@ -155,7 +155,7 @@ Further, Section 13(B) and (C) of NPC Circular No. 16-03, in relation to Section
 
 Here, PowerVision itself identified that the personal data breach involved sensitive personal information since four hundred and eighty-two (482) emails in the administrative email account contained "the mental or emotional health condition of the data subject and possibly some isolated number of government identifiers".[^26] The number of data subjects is more than one hundred (100) since three hundred eighty-seven (387) people were recipients of the phishing email. The two circumstances combined require PowerVision to notify the affected data subjects.[^27]
 
-In this case, there are also insufficient grounds for the exemption of notification of affected data subjects. Section 18(B) of NPC Circular No. 16-03 provides for situations that may exempt a PIC from notifying data subjects, to quote:
+In this case, there are also insufficient grounds for the exemption of notification of affected data subjects. Section 18(B) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides for situations that may exempt a PIC from notifying data subjects, to quote:
 
 > SECTION 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -165,7 +165,7 @@ In this case, there are also insufficient grounds for the exemption of notificat
 >
 > A personal information controller may be exempted from the notification requirement where the Commission determines that such notification would not be in the public interest or in the interest of the affected data subjects.[^28]
 
-Section 19 of NPC Circular No. 16-03 further provides:
+Section 19 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] further provides:
 
 > SECTION 19. Exemption from Notification Requirements. The following additional factors shall be considered in determining whether the Commission may exempt a personal information controller from notification:
 >
@@ -183,7 +183,7 @@ Considering the type of personal information involved and the number of affected
 
 WHEREFORE, premises considered, PowerVision EAP, Inc.'s (PowerVision) request for an extension to submit the documents enumerated in the Compliance and Monitoring Division's Order dated 08 June 2021, is hereby **GRANTED**. PowerVision is **ORDERED** to submit the required documents as stated in the CMD Order dated 08 June 2021 until 28 January 2022, namely:
 
-1. Details on the full breach report based on the provisions of NPC Circular 16-03:
+1. Details on the full breach report based on the provisions of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]:
 
     a. Description how the breach occurred and the vulnerability of the data processing system that allowed the breach.
     b. Chronology of events.
@@ -232,23 +232,23 @@ GENERAL RECORDS UNIT
 [^8]: Cover Letter dated 07 June 2021 of PowerVision EAP, Inc.
 [^9]: Order dated 08 June 2021.
 [^10]: Email Request dated 04 January 2022 of PowerVision EAP, Inc.
-[^11]: See NPC Circular No. 16-03, Section 17(A) and (C); Section 18(A).
-[^12]: NPC Circular No. 16-03, Section 17(C).
-[^13]: Section 18(A) of the NPC Circular No. 16-03.
-[^14]: Section 17(C) of the NPC Circular No. 16-03.
-[^15]: Section 18(A) of the NPC Circular No. 16-03.
+[^11]: See [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], Section 17(A) and (C); Section 18(A).
+[^12]: [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], Section 17(C).
+[^13]: Section 18(A) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
+[^14]: Section 17(C) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
+[^15]: Section 18(A) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 [^16]: Id.
 [^17]: Cover Letter dated 07 June 2021 of PowerVision EAP, Inc.
-[^18]: Section 5 of the NPC Circular No. 16-03.
-[^19]: Section 11(A) of the NPC Circular No. 16-03.
-[^20]: Section 13(B) of the NPC Circular No. 16-03.
+[^18]: Section 5 of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
+[^19]: Section 11(A) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
+[^20]: Section 13(B) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 [^21]: NPC BN 20-129, In re: DB Schenker Global Service Asia Pacific Inc., Resolution dated 02 September 2021, at page 6.
 [^22]: Cover Letter dated 07 June 2021 of PowerVision EAP, Inc.
 [^23]: Id.
-[^24]: Section 11 of the NPC Circular No. 16-03.
-[^25]: Section 13(B) and (C) of the NPC Circular No. 16-03.
+[^24]: Section 11 of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
+[^25]: Section 13(B) and (C) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 [^26]: Full Report dated 07 June 2021 filed by PowerVision EAP, Inc.
 [^27]: Id.
-[^28]: Section 18(B) of the NPC Circular No. 16-03.
-[^29]: Section 19 of the NPC Circular No. 16-03.
-[^30]: See NPC Circular No. 16-03, Section 18(A).
+[^28]: Section 18(B) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
+[^29]: Section 19 of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
+[^30]: See [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], Section 18(A).

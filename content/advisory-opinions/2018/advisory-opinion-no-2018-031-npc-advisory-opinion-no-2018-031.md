@@ -10,6 +10,11 @@ tags:
   - health-information
   - healthcare
   - topic/consent
+aliases:
+  - "NPC Advisory Opinion No. 2018-031"
+  - "npc advisory opinion no. 2018-031"
+  - "Advisory Opinion No. 2018-031"
+  - "advisory opinion no. 2018-031"
 draft: false
 ---
 
@@ -109,6 +114,6 @@ Privacy Commissioner and Chairman
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
 [^2]: IAPP, Glossary of Privacy Terms, available at https://iapp.org/resources/glossary/#paperwork-reduction-act-2
 [^3]: *Id.*
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(a) (2016).
+[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(a)]] (2016).
 [^5]: *Id.*
-[^6]: RA No. 10173, §3(b).
+[^6]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(b)]].

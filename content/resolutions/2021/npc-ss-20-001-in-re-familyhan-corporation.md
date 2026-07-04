@@ -36,7 +36,7 @@ x--------------------------------------------x
 
 NPC SS 20-001
 
-For: Violation of the Data Privacy Act (DPA) of 2012
+For: Violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act (DPA)]] of 2012
 
 For Resolution of the Commission are the Motion to Clarify Order submitted by Respondent Familyhan Credit Corporation (Familyhan) and an email request by a collaborating counsel of Familyhan to enter into amicable settlement of this case.
 

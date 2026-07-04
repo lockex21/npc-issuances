@@ -82,9 +82,9 @@ Whether the incident subject of MPTC’s notification dated 27 January 2023 is a
 
 ### Discussion
 
-The Commission resolves to close the matter. The incident subject of MPTC’s notification dated 27 January 2023 is a security incident and not a personal data breach. As such, is not subject to mandatory breach notification under NPC Circular 16-03 (Personal Data Breach Management).
+The Commission resolves to close the matter. The incident subject of MPTC’s notification dated 27 January 2023 is a security incident and not a personal data breach. As such, is not subject to mandatory breach notification under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]].
 
-There is a distinction between a security incident and a personal data breach.[^25] Section 3 of NPC Circular 16-03 defines “Personal Data Breach” and “Security Incident” as follows:
+There is a distinction between a security incident and a personal data breach.[^25] Section 3 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] defines “Personal Data Breach” and “Security Incident” as follows:
 
 > Section 3. Definition of Terms. For the purpose of this Circular, the following terms are defined, as follows:
 
@@ -165,7 +165,7 @@ National Privacy Commission
 [^23]: Id.
 [^24]: Id.
 [^25]: In re: University of the Philippines – Visayas, [[resolutions/2022/npc-bn-18-045-in-re-university-of-the-philippines-visayas|NPC BN 18-045]], 10 November 2022, at 4, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-BN-18-045-2022.11.10-In-re-University-of-the-Philippines-Visayas-Resolution-Final.pdf (last accessed 29 August 2023).
-[^26]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 3 (F) & (J) (15 December 2016).
+[^26]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 03, Series of 2016]] [NPC Circ. No. 16-03], § 3 (F) & (J) (15 December 2016).
 [^27]: Initial Notification through the Personal Data Breach Notification Form, 27 January 2023, in In re: Metro Pacific Tollways Corporation, NPC BN 23-015 (NPC 2023).
 [^28]: Id.
 [^29]: Reply by Metro Pacific Tollways Corporation, 27 July 2023, at 1, in In re: Metro Pacific Tollways Corporation, NPC BN 23-015 (NPC 2023).

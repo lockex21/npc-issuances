@@ -7,6 +7,11 @@ tags:
   - year/2017
   - topic/registration
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2017-044"
+  - "npc advisory opinion no. 2017-044"
+  - "Advisory Opinion No. 2017-044"
+  - "advisory opinion no. 2017-044"
 ---
 
 ## Source

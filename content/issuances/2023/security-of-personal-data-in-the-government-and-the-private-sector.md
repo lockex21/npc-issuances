@@ -25,7 +25,7 @@ Date : 01 December 2023
 
 Subject : Security of Personal Data in the Government and the Private Sector
 
-WHEREAS, Section 2 of Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012” (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote innovation and growth, and the State recognizes its obligation to ensure that personal information in information and communications systems in the government and the private sector are secured and protected;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2 of Republic Act No. 10173]], otherwise known as the “Data Privacy Act of 2012” (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote innovation and growth, and the State recognizes its obligation to ensure that personal information in information and communications systems in the government and the private sector are secured and protected;
 
 WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the National Privacy Commission (NPC) is charged with administering and implementing the law, including ensuring that Personal Information Controllers (PICs) comply with the Act and relevant international standards, while coordinating with other government agencies and the private sector to strengthen personal data protection in the country;
 
@@ -280,7 +280,7 @@ The commencement of any action under this Circular is independent and without pr
 
 **SECTION 38.** ***Separability Clause.*** If any portion or provision of this Circular is declared null and void or unconstitutional, then the other provisions not affected thereby shall continue to be in force and effect.
 
-**SECTION 39.** ***Repealing Clause.*** This Circular expressly repeals NPC Circular No. 16-01. The provisions of the IRR and all other issuances contrary to or inconsistent with the provisions of this Circular are deemed repealed or modified.
+**SECTION 39.** ***Repealing Clause.*** This Circular expressly repeals [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]]. The provisions of the IRR and all other issuances contrary to or inconsistent with the provisions of this Circular are deemed repealed or modified.
 
 **SECTION 40.** ***Effectivity.*** These Rules shall take effect fifteen (15) days after their publication in a newspaper of general circulation.
 

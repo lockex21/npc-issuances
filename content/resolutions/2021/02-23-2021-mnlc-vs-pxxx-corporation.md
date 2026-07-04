@@ -53,9 +53,9 @@ On 18 January 2021, Respondents filed a Motion for Reconsideration dated 17 Janu
 
 The Respondents further argued that the real party-in-interest are the individual members of the MNLCI (MNLCI) which have not executed authorization for IKP, GSP, and HCM to represent MNLCI in the proceedings before this Commission. Further, Respondents contended that for the Commission to have jurisdiction, the complaints must be filed by a data subject. They stated that it is a serious error not to dismiss the case since it is filed by a person with no legal interest nor personality to institute the case. Respondents argued that considering MNLCI is a corporate or artificial being, no personal information could be processed nor there is a privacy right to be protected.[^2]
 
-Respondents maintained that as stated in the NPC Circular No. 2021-013, there is a need of a special power of attorney in case one or more data subjects is represented by a single juridical entity. IKP, who filed the complaint, does not have the required special power of attorney empowering him to represent MNLCI in this case. Further, Respondents stated that since IKP does not have authority to represent the individual members of the MNLCI, they are deemed to not have participated in this case. Hence, it is improper for the Commission to award damages to the said members.[^3] In relation thereto, Respondents stated that the Commission may not capriciously nor arbitrarily waive its own rules by mere invocation of, "serious violation of the Data Privacy Act".[^4]
+Respondents maintained that as stated in the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular No. 2021-013]], there is a need of a special power of attorney in case one or more data subjects is represented by a single juridical entity. IKP, who filed the complaint, does not have the required special power of attorney empowering him to represent MNLCI in this case. Further, Respondents stated that since IKP does not have authority to represent the individual members of the MNLCI, they are deemed to not have participated in this case. Hence, it is improper for the Commission to award damages to the said members.[^3] In relation thereto, Respondents stated that the Commission may not capriciously nor arbitrarily waive its own rules by mere invocation of, "serious violation of the Data Privacy Act".[^4]
 
-Moreover, Respondents argued that the Complainant failed to exhaust the remedies available to them as provided by Section 4 of the NPC Circular 16-046, which provides that no complaint shall be entertained unless the complainant has informed the concerned entity. Respondents added that the individual members of the MNLCI have not informed them of the alleged privacy violation. Although letters were sent to ACLO (Counsel for the Respondents), Respondents stated that they have the right not to entertain letters considering that the Complainant does not have Special Power of Attorney nor Secretary's Certificate.
+Moreover, Respondents argued that the Complainant failed to exhaust the remedies available to them as provided by Section 4 of the [[issuances/undated/rules-of-procedure|NPC Circular 16-046]], which provides that no complaint shall be entertained unless the complainant has informed the concerned entity. Respondents added that the individual members of the MNLCI have not informed them of the alleged privacy violation. Although letters were sent to ACLO (Counsel for the Respondents), Respondents stated that they have the right not to entertain letters considering that the Complainant does not have Special Power of Attorney nor Secretary's Certificate.
 
 On the substantive matters, Respondents maintained that MNLCI consented on the processing of their personal data. They further argued that there is no need to contextualize the contents of the emails and Secretary's Certificate given that MNLCI explicitly consented on the processing of personal information.
 
@@ -63,7 +63,7 @@ On the issue of legitimate interest to collect and process personal information,
 
 Lastly, on the Commission's finding that the Complainants are entitled to damages, Respondents contended that the data subjects must be individually identified to be entitled to damages. They stated that the identities of the individual members of MNLCI must be established and it must be proven that they are indeed members of the church. Respondents stated that in this case, there is no evidence presented to establish the names of MNLCI members.[^6]
 
-Complainant submitted an Opposition to the Respondents' Motion for Reconsideration dated 29 January 2021. In their Opposition/Comment to the Motion for Reconsideration, the Complainant stated that the Respondents based their argument on the Frequently Asked Questions (FAQs) of the 2021 Rules of Procedure in arguing that the Commission has no jurisdiction over the case. Complainant argued that FAQs to a proposed administrative rule have no bearing on the matter of jurisdiction and that the Commission correctly ruled in its Decision that jurisdiction was validly acquired.[^7]
+Complainant submitted an Opposition to the Respondents' Motion for Reconsideration dated 29 January 2021. In their Opposition/Comment to the Motion for Reconsideration, the Complainant stated that the Respondents based their argument on the Frequently Asked Questions (FAQs) of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure]] in arguing that the Commission has no jurisdiction over the case. Complainant argued that FAQs to a proposed administrative rule have no bearing on the matter of jurisdiction and that the Commission correctly ruled in its Decision that jurisdiction was validly acquired.[^7]
 
 In terms of jurisdiction over the parties, Complainant stated that there was implied consent of the church members to bring the violation of data privacy rights to the Commission, and that the Respondents themselves admitted that the data processing involved all the MNLCI church members.[^8]
 
@@ -87,11 +87,11 @@ This Commission finds that there are no new material facts added for our conside
 
 On the Respondents' contention of this Commission's jurisdiction over the case, this Commission reminds that the essential aspect of determining the Commission's jurisdiction is whether the allegations manifest a privacy violation against a data subject. Again, the fact that IKP in his Complaint-Affidavit alleged the Respondents committed acts that are violative of his privacy rights and other church members executed affidavit in support of his Complaint-Affidavit does not alter their status as affected data subjects, who are clearly within the scope of DPA's protection and this Commission's jurisdiction.
 
-On the matter concerning the exhaustion of remedies, the Respondents maintain their argument that the individual members of MNLCI have not informed PXXX Corporation with regard to the alleged privacy violation. Respondents contested this Commission's statement in the previous Decision whereas Section 4 of the NPC Circular 16-04 provides that the Commission has the discretion to waive any of the requirements upon good cause shown, or if the complaint involves a serious violation or breach of the Data Privacy Act, taking into account the risk of harm to Complainant.[^12] As stated by the Respondents in their Motion for Reconsideration:
+On the matter concerning the exhaustion of remedies, the Respondents maintain their argument that the individual members of MNLCI have not informed PXXX Corporation with regard to the alleged privacy violation. Respondents contested this Commission's statement in the previous Decision whereas Section 4 of the [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] provides that the Commission has the discretion to waive any of the requirements upon good cause shown, or if the complaint involves a serious violation or breach of the Data Privacy Act, taking into account the risk of harm to Complainant.[^12] As stated by the Respondents in their Motion for Reconsideration:
 
 > With all due respect, respondents posit that the Honorable Commission may not capriciously or arbitrarily waive its own Rules simply because of mere invocation of "serious violation or breach of Data Privacy Act" on the part of the complainant. If we are to follow such reasoning, there can be no occasion where the rule on exhaustion of remedies will be applied because of every litigant's bare invocation of "serious violation or breach of the Data Privacy Act."
 
-Again, this Commission refers to the last paragraph of Section 4 of NPC Circular 16-04 which was carried over in the NPC Circular 2021-01, viz:
+Again, this Commission refers to the last paragraph of Section 4 of NPC Circular 16-04 which was carried over in the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 2021-01]], viz:
 
 > SECTION 4. Exhaustion of remedies. – No complaint shall be entertained unless:
 >
@@ -103,7 +103,7 @@ Again, this Commission refers to the last paragraph of Section 4 of NPC Circular
 >
 > The failure to comply with the requirements of this Section shall cause the matter to be evaluated as a request to the National Privacy Commission for an advisory opinion, and for the National Privacy Commission to take such further action, as necessary. **The National Privacy Commission may waive any or all of the requirements of this Section, at its discretion, upon good cause shown, or if the complaint involves a serious violation or breach of the Data Privacy Act, taking into account the risk of harm to the affected data subject.**[^13] (Emphasis supplied)
 
-Just the same, Rule II, Section 2 of the NPC Circular 2021-01 provides:
+Just the same, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-ii-complaints|Rule II]], Section 2 of the NPC Circular 2021-01 provides:
 
 > SECTION 2. Exhaustion of remedies. – No complaint shall be given due course unless it has been sufficiently established and proven that:
 >
@@ -175,7 +175,7 @@ GENERAL RECORDS UNIT
 
 [^1]: Motion for Reconsideration dated 17 January 2021, p. 1
 [^2]: *Ibid.* at p. 2
-[^3]: 2021 Rules of Procedure of the National Privacy Commission, effective on 12 February 2021; *Ibid.* at p. 3
+[^3]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]], effective on 12 February 2021; *Ibid.* at p. 3
 [^4]: *Ibid.* at p. 5
 [^5]: *Ibid.* at p. 9
 [^6]: *Ibid.* at p. 10
@@ -185,11 +185,11 @@ GENERAL RECORDS UNIT
 [^10]: Decision dated 29 October 2020.
 [^11]: Opposition to the Respondent's Motion for Reconsideration dated 29 January 2021, at p. 5
 [^12]: Decision dated 29 October 2020. At p. 12.
-[^13]: Section 4 of NPC Circular 16-04
+[^13]: Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]]
 [^14]: Paz Reyes Aguam vs. Court of Appeals, G. R. No. 137672, 31 May 2000
-[^15]: Section 11, DPA
-[^16]: Sections 12 and 13, DPA
-[^17]: National Privacy Commission. Advisory Opinion 2019-034 Re: Consent and Its Withdrawal for Employment Purposes. 02 September 2019, citing European Commission, Article 29, Data Protection Working Party, Opinion 15/2011.
+[^15]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11]], DPA
+[^16]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]], DPA
+[^17]: National Privacy Commission. [[advisory-opinions/2019/advisory-opinion-no-2019-034-npc-advisory-opinion-no-2019-034|Advisory Opinion 2019-034]] Re: Consent and Its Withdrawal for Employment Purposes. 02 September 2019, citing European Commission, Article 29, Data Protection Working Party, Opinion 15/2011.
 [^18]: Records dated 19 July 2019, p. 3
 [^19]: Decision dated 29 October, at p. 30
 [^20]: Republic Act No. 286, at § 2, Article 2221

@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2017
   - topic/data-subject-rights
+aliases:
+  - "NPC Advisory Opinion No. 2017-001"
+  - "npc advisory opinion no. 2017-001"
+  - "Advisory Opinion No. 2017-001"
+  - "advisory opinion no. 2017-001"
 draft: false
 ---
 
@@ -87,7 +92,7 @@ The claim forwarded that "portion of the backup cannot be deleted without jeopar
 
 #### Clarification re: application of Section 19(e)(2) of the IRR in relation to the deletion of personal information
 
-Section 19(e)(2) of the IRR provides:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19(e)(2) of the IRR]] provides:
 
 > Section 19. General principles in collection, processing and retention. The processing of personal data shall adhere to the following general principles in the collection, processing, and retention of personal data: xxx xxx xxx
 >
@@ -97,7 +102,7 @@ Section 19(e)(2) of the IRR provides:
 
 The provision pertains to the authorized further processing and the retention of personal data that have already been transformed into an aggregated or anonymized state. What were previously considered personal data have been rendered anonymous, such that the data may no longer be associated or traced back to a specific person or individual.
 
-In relation to deletion, we believe that a data subject no longer has any right to erasure, as provided under Section 34(e) of the IRR, if the data concerned has already been aggregated or anonymized.
+In relation to deletion, we believe that a data subject no longer has any right to erasure, as provided under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34(e) of the IRR]], if the data concerned has already been aggregated or anonymized.
 
 Since anonymized data refers to data or information that may not be traced back to a particular person or individual, they do not constitute personal data, as defined by the IRR. Accordingly, given that a data subject may only assert his or her rights under the DPA relative to his or her personal data, he or she may not invoke or exercise such rights in relation to other types of data, including anonymized data.
 
@@ -114,6 +119,6 @@ IVY D. PATDU
 Deputy Privacy Commissioner,
 Policy and Planning
 
-[^1]: *See* Republic Act No. 10173, § 24, and IRR of RA 10173, § 47.
+[^1]: *See* [[laws/data-privacy-act-of-2012#section-24-applicability-to-government-contractors|Republic Act No. 10173, § 24]], and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|IRR of RA 10173, § 47]].
 [^2]: *Amores v. House of Representatives*, G.R. No. 189600, 29 June 2010.
 [^3]: *Lim v. Equitable PCI Bank*, G.R. No. 183918, 15 January 2014.

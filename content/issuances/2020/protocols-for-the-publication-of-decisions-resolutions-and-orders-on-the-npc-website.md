@@ -20,13 +20,13 @@ date: '2020-10-06'
 
 **SUBJECT:** PROTOCOLS FOR THE PUBLICATION OF DECISIONS, RESOLUTIONS AND ORDERS ON THE NPC WEBSITE
 
-WHEREAS, Section 7(b) of the [[laws/data-privacy-act-of-2012|R.A. 10173]] mandates the National Privacy Commission to receive complaints, institute investigations, facilitate or enable settlement of complaints through the use of alternative dispute resolution processes, adjudicate, award indemnity on matters affecting any personal information, prepare reports on disposition of complaints and resolution of any investigation it initiates, and, in cases it deems appropriate, publicize any such report;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b) of the R.A. 10173]] mandates the National Privacy Commission to receive complaints, institute investigations, facilitate or enable settlement of complaints through the use of alternative dispute resolution processes, adjudicate, award indemnity on matters affecting any personal information, prepare reports on disposition of complaints and resolution of any investigation it initiates, and, in cases it deems appropriate, publicize any such report;
 
-WHEREAS, Section 40 of the [[laws/data-privacy-act-of-2012|R.A. 10173]] mandates the National Privacy Commission to undertake whatever efforts it may determine to be necessary or appropriate to inform and educate the public of data privacy, data protection and fair information rights and responsibilities;
+WHEREAS, [[laws/data-privacy-act-of-2012#section-40-reports-and-information|Section 40 of the R.A. 10173]] mandates the National Privacy Commission to undertake whatever efforts it may determine to be necessary or appropriate to inform and educate the public of data privacy, data protection and fair information rights and responsibilities;
 
 WHEREAS, it is incumbent upon the National Privacy Commission to consider the provisions of [[laws/data-privacy-act-of-2012|R.A. 10173]] in the performance of its abovementioned mandate;
 
-WHEREAS, under Section 11(d) of the [[laws/data-privacy-act-of-2012|R.A. 10173]], the principle of proportionality must be observed in the National Privacy Commission’s publication of its Decisions, Orders, and Resolutions in the NPC Website.
+WHEREAS, under [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11(d) of the R.A. 10173]], the principle of proportionality must be observed in the National Privacy Commission’s publication of its Decisions, Orders, and Resolutions in the NPC Website.
 
 NOW THEREFORE, for the guidance of the public, the Commission issues the following policies and protocols for the promulgation and publication of Commission Decisions, Resolutions, and Orders posted in the NPC website.
 

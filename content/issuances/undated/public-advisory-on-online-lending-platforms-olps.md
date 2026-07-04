@@ -53,7 +53,7 @@ loans through OLPs2, whether recorded or unrecorded:
 
 1 See: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRRs), Guidelines on the Processing of Personal
 
-Data for Loan-Related Transactions [NPC Circular 20-01] (14 September 2020), as amended by NPC Circular No. 2022-
+Data for Loan-Related Transactions [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular 20-01]] (14 September 2020), as amended by NPC Circular No. 2022-
 02, Amending Certain Provisions of [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 20-01]] on the Guidelines on the Processing of Personal Data for Loan-
 Related Transactions (01 December 2022); Financial Products and Services Consumer Protection Act and the SEC IRR,
 Prohibition on Unfair Debt Collection Practices of Financing Companies (FC) and Lending Companies (LC) [SEC
@@ -70,9 +70,9 @@ programs or systems where the services and products of FCs and LCs are made avai
     case of default and who may be contacted in relation to loan obligations. To be
     considered a guarantor, one must have given consent to be a guarantor.
 
-•   LCs, FCs, and other persons acting as such shall comply with the applicable NPC
+•   LCs, FCs, and other persons acting as such shall comply with the applicable [[issuances/undated/registration-of-data-processing-systems|NPC
     Rules on Registration of Data Processing Systems and Notifications regarding
-    Automated Decision-Making.
+    Automated Decision-Making]].
 
 •   LCs, FCs, and other persons acting as such shall retain personal data of borrowers only
     for as long as necessary for the fulfillment of the purposes for which the data was

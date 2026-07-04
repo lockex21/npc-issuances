@@ -7,6 +7,11 @@ tags:
   - year/2019
   - topic/government
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-026"
+  - "npc advisory opinion no. 2019-026"
+  - "Advisory Opinion No. 2019-026"
+  - "advisory opinion no. 2019-026"
 ---
 
 ## Source
@@ -48,7 +53,7 @@ It has been held that access to public documents may be duly regulated, despite 
 
 EO No. 2 clarifies that "while providing access to information, public records, and official records, responsible officials shall afford full protection to the right to privacy of the individual."[^8] For this purpose, it requires that each government office shall ensure that personal information in its custody or control is disclosed or released only if it is material or relevant to the subject-matter of the request and its disclosure is permissible under this EO or existing law, rules or regulations, among others.[^9]
 
-The above is consistent with the provisions of the DPA which recognizes that certain personal information of public concern is outside of the scope of the law. This pertains to information about any individual who is or was an officer of a government institution that relates to the position or functions of the individual under Section 4(a), including:
+The above is consistent with the provisions of the DPA which recognizes that certain personal information of public concern is outside of the scope of the law. This pertains to information about any individual who is or was an officer of a government institution that relates to the position or functions of the individual under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(a)]], including:
 
 - The fact that the individual is or was an officer or employee of the government institution;
 - The title, business address and office telephone number of the individual;

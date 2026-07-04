@@ -49,7 +49,7 @@ On 09 May 2018, Aboitiz Land notified the Commission of a possible personal data
 
 > The CMS website contains a database of information collected through the website's "Contact Us" form. The database contains less that three hundred (300) records containing names and contact details of individuals who submitted information through the website's "Contact Us" form. Out of less than three hundred (300) records, approximately less than twenty (20) records contain sensitive personal information or any other information that may be used to enable identity fraud.[^9]
 
-In its Initial Report, Aboitiz Land also included a discussion of Section 11 of NPC Circular No. 16-03 (Personal Data Breach Management) stating that although the incident involves sensitive personal information,
+In its Initial Report, Aboitiz Land also included a discussion of Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management) stating that although the incident involves sensitive personal information,
 
 > [T]here is no conclusive evidence that those records were actually acquired by an unauthorized person. However, the available evidence supports the conclusion that an unauthorized person was able to enter and access the system. Given that the second condition uses the phrase "may have been acquired", Aboitiz Land acknowledges the "possibility" that an unauthorized person acquired those records.
 >
@@ -65,7 +65,7 @@ Moreover, Aboitiz Land stated that it will conduct vulnerability assessments of 
 
 Aboitiz Land also stated that it has not notified the affected data subjects and sought the guidance of the Commission to determine the need to notify the affected data subjects.[^17]
 
-On 19 October 2020, the CID issued an Order requiring Aboitiz Land to submit a Full Report pursuant to Section 17, Rule V of NPC Circular No. 16-03, detailing the incident containing the information provided therein.[^18]
+On 19 October 2020, the CID issued an Order requiring Aboitiz Land to submit a Full Report pursuant to Section 17, Rule V of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], detailing the incident containing the information provided therein.[^18]
 
 On 19 October 2022, the CID issued an Order requiring Aboitiz Land to submit a Post-Breach Report containing proper documentation of the security measures it implemented, proof of communication and notification to the data subjects, the outcome of the routine security assessments it has undertaken, and other proof of compliance with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^19]
 
@@ -90,7 +90,7 @@ Finally, Aboitiz Land included in its post-breach report a summary of the outcom
 
 The Commission resolves that this case falls under the mandatory breach notification requirement, hence, notification of the affected data subjects should be made.
 
-Section 11 of NPC Circular No. 16-03 provides that the personal information controller (PIC) or personal information processor (PIP) is required to notify the data subjects upon knowledge of or when there is reasonable belief that a personal data breach has occurred, when the following requisites are present:
+Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provides that the personal information controller (PIC) or personal information processor (PIP) is required to notify the data subjects upon knowledge of or when there is reasonable belief that a personal data breach has occurred, when the following requisites are present:
 
 > A. The personal data involves sensitive personal information or any other information that may be used to enable identity fraud. For this purpose, "other information" shall include, but not be limited to: data about the financial or economic situation of the data subject; usernames, passwords and other login data; biometric data; copies of identification documents, licenses or unique identifiers like Philhealth, SSS, GSIS, TIN number; or other similar information, which may be made the basis of decisions concerning the data subject, including the grant of rights or benefits.
 >
@@ -104,9 +104,9 @@ For the second requisite, Aboitiz Land stated that "the available evidence suppo
 
 Lastly, there was no evidence showing that "there is a minimal risk of serious harm to all data subjects," especially when the personal data involved may be compromised as to enable identity fraud.[^38] A minimal risk, as claimed by Aboitiz Land, is not sufficient to prove that no serious harm affects the data subjects. As mentioned by Aboitiz Land, the records acquired by an unauthorized person may pose a real risk of serious harm to the affected data subjects whose sensitive personal information such as age, educational background, and government-issued IDs are involved. Aboitiz Land should show proof that the incident would not seriously harm the affected data subjects, which, however, it failed to provide to the Commission.
 
-Given the foregoing circumstances, Aboitiz Land, as PIC, should be required to notify all the data subjects affected by the breach under Section 11 of NPC Circular 16-03.
+Given the foregoing circumstances, Aboitiz Land, as PIC, should be required to notify all the data subjects affected by the breach under Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
-Thus, Section 18(A) of the Circular provides:
+Thus, [[issuances/undated/personal-data-breach-management|Section 18(A) of the Circular]] provides:
 
 > SECTION 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -114,11 +114,11 @@ Thus, Section 18(A) of the Circular provides:
 >
 > The notification may be made on the basis of available information within the 72-hour period if the personal data breach is likely to give rise to a real risk to the rights and freedoms of data subjects. It shall be undertaken in a manner that would allow data subjects to take the necessary precautions or other measures to protect themselves against the possible effects of the breach. It may be supplemented with additional information at a later stage on the basis of further investigation.[^39] (Emphasis supplied)
 
-It is the obligation of Aboitiz Land as PIC to notify the affected data subjects when their personal data have been compromised by a breach. This is especially when the incident falls under the mandatory breach notification requirement provided in Section 11 of NPC Circular No. 16-03. By doing so, they can be able to take necessary precautions or other measures to protect themselves against the negative consequences of the breach.[^40] Thus, the Commission deems it unmeritorious for Aboitiz Land to conclude that notification is no longer necessary since no breach has resulted from the incident[^41] without sufficiently showing it by substantial evidence.
+It is the obligation of Aboitiz Land as PIC to notify the affected data subjects when their personal data have been compromised by a breach. This is especially when the incident falls under the mandatory breach notification requirement provided in Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]]. By doing so, they can be able to take necessary precautions or other measures to protect themselves against the negative consequences of the breach.[^40] Thus, the Commission deems it unmeritorious for Aboitiz Land to conclude that notification is no longer necessary since no breach has resulted from the incident[^41] without sufficiently showing it by substantial evidence.
 
 Moreover, Aboitiz Land has not sufficiently complied with the Order of CID dated 19 October 2022 requiring it to submit a proper documentation of the security measures it implemented.[^42] Aboitiz Land merely submitted a statement and proof of security measures it implemented "for the New Website Server Hosting."[^43] However, Aboitiz Land has not submitted any proof of security measures it implemented to address the incident.
 
-Rule V, Section 17(D) of NPC Circular 16-03 provides that the PIC shall notify the Commission of a personal data breach including the enumerated contents of the notification which are, but not limited to:
+Rule V, Section 17(D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides that the PIC shall notify the Commission of a personal data breach including the enumerated contents of the notification which are, but not limited to:
 
 > D. Content of Notification. The notification shall include, but not be limited to:
 >
@@ -141,7 +141,7 @@ Rule V, Section 17(D) of NPC Circular 16-03 provides that the PIC shall notify t
 >
 > The Commission reserves the right to require additional information, if necessary.[^44]
 
-In relation thereof, Rule IV, Section 9 of the same Circular also states that all actions taken by a PIC or PIP shall be properly documented which include:
+In relation thereof, [[issuances/undated/personal-data-breach-management|Rule IV, Section 9 of the same Circular]] also states that all actions taken by a PIC or PIP shall be properly documented which include:
 
 > A. Description of the personal data breach, its root cause and circumstances regarding its discovery;
 > B. Actions and decisions of the incident response team;
@@ -162,7 +162,7 @@ Moreover, Aboitiz Land is hereby **ORDERED** to comply with the following within
 
 2. **SUBMIT** proof of security measures implemented to address the breach to the CMD.
 
-The Commission also **DIRECTS** the CMD to evaluate and monitor the completeness of Aboitiz Land's data breach notification and assess its breach management pursuant to NPC Circular 16-03.
+The Commission also **DIRECTS** the CMD to evaluate and monitor the completeness of Aboitiz Land's data breach notification and assess its breach management pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
 **SO ORDERED.**
 
@@ -222,18 +222,18 @@ GENERAL RECORDS UNIT
 [^29]: Id., at p. 8.
 [^30]: Id., at pp. 8-10.
 [^31]: Id., at p. 10.
-[^32]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §11 (15 December 2016).
+[^32]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §11 (15 December 2016).
 [^33]: Breach Notification dated 09 May 2018 of Aboitiz Land, Inc., at p. 2.
 [^34]: Id., at p. 1.
 [^35]: Id., at p. 2.
 [^36]: Id.
 [^37]: Breach Notification dated 09 May 2018 of Aboitiz Land, Inc., at p. 2.
 [^38]: Id.
-[^39]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §18(A) (15 December 2016).
+[^39]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §18(A) (15 December 2016).
 [^40]: Id.
 [^41]: Post-Breach Report dated 03 November 2022 of Aboitiz Land, Inc., at p. 8.
 [^42]: In re: Aboitiz Land, Inc., NPC BN 18-071, Order dated 19 October 2022.
 [^43]: Post-Breach Report dated 03 November 2022 of Aboitiz Land, Inc., at p. 3.
-[^44]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, §17(D) (15 December 2016).
+[^44]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, §17(D) (15 December 2016).
 [^45]: Id., rule IV, §9.
 [^46]: Post-Breach Report dated 03 November 2022 of Aboitiz Land, Inc., at p. 4.

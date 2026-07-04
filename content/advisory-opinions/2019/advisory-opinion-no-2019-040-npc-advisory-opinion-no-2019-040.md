@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2019-040 — Anti-Money Laundering Council Request"
 description: "Guidance on disclosure of business documents and personal data in business permits to the Anti-Money Laundering Council for investigative purposes."
+aliases:
+  - "NPC Advisory Opinion No. 2019-040"
+  - "npc advisory opinion no. 2019-040"
+  - "Advisory Opinion No. 2019-040"
+  - "advisory opinion no. 2019-040"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -43,7 +48,7 @@ You seek clarification if your office may provide such documents of the business
 
 ### Scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]; processing of personal information
 
-The Data Privacy Act of 2012[^2] (DPA) applies to the processing of all types of personal information by any natural and/or juridical person involved in personal information processing.[^3] The law defines personal information as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^4]
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) applies to the processing of all types of personal information by any natural and/or juridical person involved in personal information processing.[^3] The law defines personal information as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^4]
 
 Business establishments are juridical persons. Thus, generally speaking, the certified true copies
 of the above listed documents are the juridical person’s information, and not an individual’s
@@ -77,10 +82,10 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: Id. § 4.
 [^4]: Id. § 3 (g).
-[^5]: Data Privacy Act of 2012, § 12 (c).
+[^5]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (c)]].
 [^6]: Id. § 12 (e).
 [^7]: Id. § 13 (b).
 [^8]: Id. § 13 (f).

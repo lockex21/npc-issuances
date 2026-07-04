@@ -7,6 +7,11 @@ tags:
   - year/2017
   - topic/consent
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2017-053"
+  - "npc advisory opinion no. 2017-053"
+  - "Advisory Opinion No. 2017-053"
+  - "advisory opinion no. 2017-053"
 ---
 
 ## Source
@@ -37,7 +42,7 @@ The EU General Data Protection Regulation (GDPR) offers further interpretation o
 
 As can be gleaned from the foregoing, it is clear that any of the (3) formats provided may be adopted by the personal information controller (PIC) to demonstrate that the data subject has consented to the processing his or her personal data.
 
-Regarding consent through recorded means or consent given through a duly recorded oral statement, the PIC is also allowed to present any other types of evidence (i.e., object, documentary, electronic evidence) that may validate the existence and content of the said recording. Note that, pursuant to the Rules of Procedure of the Commission, the Rules of Court shall apply *suppletorily* whenever practicable and/or convenient, given the circumstances.[^2]
+Regarding consent through recorded means or consent given through a duly recorded oral statement, the PIC is also allowed to present any other types of evidence (i.e., object, documentary, electronic evidence) that may validate the existence and content of the said recording. Note that, pursuant to the [[issuances/undated/rules-of-procedure|Rules of Procedure]] of the Commission, the Rules of Court shall apply *suppletorily* whenever practicable and/or convenient, given the circumstances.[^2]
 
 As per the Rules of Court, objects, when proffered as evidence, are those addressed to the senses of the court. When an object is relevant to the fact in issue, it may be exhibited to, examined or viewed by a court.[^3] Documentary evidence, on the other hand, consists of writing or any material containing letters, words, numbers, figures, symbols or other modes of written expression offered as proof of their contents.[^4]
 
@@ -53,7 +58,7 @@ RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
 [^1]: General Data Protection Regulation, Recital 32
-[^2]: NPC Circular 16-04 – Rules of Procedure dated December 15, 2016, §32
+[^2]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04 – Rules of Procedure]] dated December 15, 2016, §32
 [^3]: Rules of Court, Rule 130, §1
 [^4]: Id., §2
 [^5]: A.M. No. 01-7-01-SC - Rules on Electronic Evidence dated July 17, 2001, Rule 1, §1

@@ -45,7 +45,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.:
 
-Before this Commission is a Complaint filed by JRO against MSMI for an alleged violation of Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA).[^1]
+Before this Commission is a Complaint filed by JRO against MSMI for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173, also known as the Data Privacy Act of 2012]] (DPA).[^1]
 
 ### Facts
 
@@ -157,7 +157,7 @@ The Commission dismisses the Complaint for lack of merit.
 
 I. The Commission exercises its authority to resolve the case on the merits.
 
-MSMI contends that the case should be dismissed since JRO did not prove that he complied with Section 4(a) of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]], also known as the 2016 NPC Rules of Procedure.[^58]
+MSMI contends that the case should be dismissed since JRO did not prove that he complied with Section 4(a) of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]], also known as the [[issuances/undated/rules-of-procedure|2016 NPC Rules of Procedure]].[^58]
 
 In response, JRO claims that after resigning, he immediately informed the company to refrain from accessing his personal information.[^59]
 
@@ -201,7 +201,7 @@ The POEA Code, in this instance, cannot be considered personal information given
 
 Nevertheless, the fact that MSMI used JRO's company-issued email even after his resignation does not immediately equate to a violation of the DPA.
 
-Section 12 of the DPA provides for the criteria for lawful processing of personal information. Aside from consent, the DPA has other bases for lawful processing, including processing which is anchored on legitimate interests, to quote:
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] provides for the criteria for lawful processing of personal information. Aside from consent, the DPA has other bases for lawful processing, including processing which is anchored on legitimate interests, to quote:
 
 > SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -316,7 +316,7 @@ National Privacy Commission
 [^36]: Id., ¶ 11.
 [^37]: Id., ¶ 15.
 [^38]: Id., ¶ 29.
-[^39]: Comment and Opposition to the Motion to Dismiss dated July 2, 2019 with Prayer for the Issuance of Cease and Desist Orders as Provided for Under Chapter II, Section 7(a)(b)(c)(d) AND (i) of R.A. 10173, dated 10 June 2019 (sic) of JRO.
+[^39]: Comment and Opposition to the Motion to Dismiss dated July 2, 2019 with Prayer for the Issuance of Cease and Desist Orders as Provided for Under Chapter II, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(a)(b)(c)(d) AND (i) of R.A. 10173]], dated 10 June 2019 (sic) of JRO.
 [^40]: Id., ¶ 3.
 [^41]: Id.
 [^42]: Id., Annex "A".
@@ -326,7 +326,7 @@ National Privacy Commission
 [^46]: Id., ¶¶ 11-15.
 [^47]: Id., ¶ 25.
 [^48]: Id., ¶ 30.
-[^49]: Manifestation with Prayer to Expunge from the Record of the Case the Respondents' Reply (dated July 26, 2019) and Penalized Respondents (sic) Under Sec. 33 of R.A. 10173, dated 05 August 2019 of JRO.
+[^49]: Manifestation with Prayer to Expunge from the Record of the Case the Respondents' Reply (dated July 26, 2019) and Penalized Respondents (sic) Under [[laws/data-privacy-act-of-2012#section-33-combination-or-series-of-acts|Sec. 33 of R.A. 10173]], dated 05 August 2019 of JRO.
 [^50]: Id., ¶ 2.
 [^51]: Id., ¶ 1.
 [^52]: Motion to Expunge with Ex Abundanti Ad Cautelam (to Complainant's 05 August 2019 Manifestation) dated 28 August 2019 of MSMI.
@@ -336,15 +336,15 @@ National Privacy Commission
 [^56]: Motion for Early Resolution and to Declare Respondents in Default, dated 01 December 2019 of JRO, Prayer.
 [^57]: Resolution dated 12 January 2021, at pages 2-3.
 [^58]: Motion to Dismiss dated 02 July 2019 of MSMI, ¶ 29.
-[^59]: Comment and Opposition to the Motion to Dismiss dated July 2, 2019 with Prayer for the Issuance of Cease and Desist Orders as Provided for Under Chapter II, Section 7(a)(b)(c)(d) AND (i) of R.A. 10173, dated 10 June 2019 (sic) of John Raeman R. Oller, ¶ 3.
-[^60]: National Privacy Commission, Rules of Procedure, NPC Circular No. 16-04, § 4 (15 December 2016).
-[^61]: See Comment and Opposition to the Motion to Dismiss dated July 2, 2019 with Prayer for the Issuance of Cease and Desist Orders as Provided for Under Chapter II, Section 7(a)(b)(c)(d) AND (i) of R.A. 10173, dated 10 June 2019 (sic) of JRO, ¶ 3.
+[^59]: Comment and Opposition to the Motion to Dismiss dated July 2, 2019 with Prayer for the Issuance of Cease and Desist Orders as Provided for Under Chapter II, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(a)(b)(c)(d) AND (i) of R.A. 10173]], dated 10 June 2019 (sic) of John Raeman R. Oller, ¶ 3.
+[^60]: National Privacy Commission, [[issuances/undated/rules-of-procedure|Rules of Procedure, NPC Circular No. 16-04, § 4]] (15 December 2016).
+[^61]: See Comment and Opposition to the Motion to Dismiss dated July 2, 2019 with Prayer for the Issuance of Cease and Desist Orders as Provided for Under Chapter II, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(a)(b)(c)(d) AND (i) of R.A. 10173]], dated 10 June 2019 (sic) of JRO, ¶ 3.
 [^62]: Complaints-Assisted Form dated 27 March 2019 of JRO, at page 3.
 [^63]: Id.
 [^64]: Motion to Dismiss dated 02 July 2019 of MSMI, Annex "I" and "I-1".
-[^65]: See Comment and Opposition to the Motion to Dismiss dated July 2, 2019 with Prayer for the Issuance of Cease and Desist Orders as Provided for Under Chapter II, Section 7(a)(b)(c)(d) AND (i) of R.A. 10173, dated 10 June 2019 (sic) of JRO, Annex "A".
+[^65]: See Comment and Opposition to the Motion to Dismiss dated July 2, 2019 with Prayer for the Issuance of Cease and Desist Orders as Provided for Under Chapter II, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(a)(b)(c)(d) AND (i) of R.A. 10173]], dated 10 June 2019 (sic) of JRO, Annex "A".
 [^66]: POEA Memorandum Circular No. 06-2018, § 2, ¶ 1.
-[^67]: See Data Privacy Act of 2012, § 3(g): Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^67]: See [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3(g)]]: Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 [^68]: Id. § 12(f).
 [^69]: POEA Memorandum Circular No. 06-2018, § 1, ¶ 1.
 [^70]: Id.
@@ -357,10 +357,10 @@ National Privacy Commission
 [^77]: Id., Annex "G".
 [^78]: See POEA Memorandum Circular No. 06-2018, § 3, ¶ 1.2.
 [^79]: Motion to Dismiss dated 02 July 2019 of MSMI, Annex "H".
-[^80]: Comment and Opposition to the Motion to Dismiss dated July 2, 2019 with Prayer for the Issuance of Cease and Desist Orders as Provided for Under Chapter II, Section 7(a)(b)(c)(d) AND (i) of R.A. 10173, dated 10 June 2019 (sic) of JRO, ¶ 3.
+[^80]: Comment and Opposition to the Motion to Dismiss dated July 2, 2019 with Prayer for the Issuance of Cease and Desist Orders as Provided for Under Chapter II, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(a)(b)(c)(d) AND (i) of R.A. 10173]], dated 10 June 2019 (sic) of JRO, ¶ 3.
 [^81]: Id., Annex "A".
 [^82]: Motion to Dismiss dated 02 July 2019 of MSMI, Annex "H".
-[^83]: Comment and Opposition to the Motion to Dismiss dated July 2, 2019 with Prayer for the Issuance of Cease and Desist Orders as Provided for Under Chapter II, Section 7(a)(b)(c)(d) AND (i) of R.A. 10173, dated 10 June 2019 (sic) of JRO, Annex "A".
+[^83]: Comment and Opposition to the Motion to Dismiss dated July 2, 2019 with Prayer for the Issuance of Cease and Desist Orders as Provided for Under Chapter II, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(a)(b)(c)(d) AND (i) of R.A. 10173]], dated 10 June 2019 (sic) of JRO, Annex "A".
 [^84]: Motion to Dismiss dated 02 July 2019 of MSMI, Annex "F".
 [^85]: Id., Annex "G".
-[^86]: Data Privacy Act of 2012, § 12(f).
+[^86]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12(f)]].

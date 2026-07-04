@@ -8,6 +8,11 @@ tags:
   - topic/cctv-surveillance
   - topic/legitimate-interest
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-080"
+  - "npc advisory opinion no. 2018-080"
+  - "Advisory Opinion No. 2018-080"
+  - "advisory opinion no. 2018-080"
 ---
 
 ## Source
@@ -25,7 +30,7 @@ RE: VIEWING AND/OR RELEASE OF CCTV FOOTAGES
 
 Dear [Redacted],
 
-We write in response to your inquiry which sought to clarify whether a joint viewing or releasing of a copy of your closed-circuit television (CCTV) camera footages to a customer is in accordance with the provisions stated of the Data Privacy Act of 2012[^2] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and relevant issuances of the National Privacy Commission (NPC).
+We write in response to your inquiry which sought to clarify whether a joint viewing or releasing of a copy of your closed-circuit television (CCTV) camera footages to a customer is in accordance with the provisions stated of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and relevant issuances of the National Privacy Commission (NPC).
 
 ### Discussion
 
@@ -108,12 +113,12 @@ Privacy Commissioner and Chairman
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: See: Office of the Privacy Commissioner (New Zealand). Privacy and CCTV: A guide to the Privacy Act for businesses, agencies and organizations (2009), available at https://www.privacy.org.nz/assets/Files/Brochures-and-pamphlets-and-pubs/Privacy-and-CCTV-A-guide-October-2009.pdf (last accessed Oct. 16, 2018).
 [^4]: See: Office of the Information Commissioner (Queensland). Camera Surveillance and Privacy (2009), available at https://www.oic.qld.gov.au/__data/assets/pdf_file/0010/28099/guideline-camera-surveillance-and-privacy.pdf (last accessed Oct. 16, 2018).
-[^5]: Data Privacy Act of 2012, § 3 (j).
-[^6]: *Id.* § 3 (h).
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 §17 (2016).
-[^8]: *Id.* § 18.
-[^9]: Data Privacy Act of 2012, § 20.
-[^10]: See generally, Data Privacy Act of 2012, § 12(f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed on June 11, 2018).
+[^5]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (j)]].
+[^6]: *[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id.]]* § 3 (h).
+[^7]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-17-general-data-privacy-principles|§17]] (2016).
+[^8]: *[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Id.]]* § 18.
+[^9]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, § 20]].
+[^10]: See generally, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12(f)]]; United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed on June 11, 2018).
 [^11]: *Supra* note 3.
 [^12]: *Id.*
 [^13]: *Id.*

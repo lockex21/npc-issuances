@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2017-019 — Scope of NPC Circular No. 16-03 and Requirements for a Data Protection Officer"
 description: "Advisory Opinion on scope of npc circular no. 16-03 and requirements for a data protection officer under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2017-019"
+  - "npc advisory opinion no. 2017-019"
+  - "Advisory Opinion No. 2017-019"
+  - "advisory opinion no. 2017-019"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -25,7 +30,7 @@ Dear [Redacted],
 
 This pertains to your query received by the National Privacy Commission (NPC) on 24 January 2017, via email. Specifically, you inquired regarding the following:
 
-1. Scope of NPC Circular No. 16-03 – whether the same applies to the processing of personal data in and outside the Philippines; and
+1. Scope of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] – whether the same applies to the processing of personal data in and outside the Philippines; and
 2. Data Protection Officer (DPO) – whether only DPOs in the government are required to be organic employees; thus, there is no similar restriction in the private sector (i.e., DPO may be engaged on a consulting basis).
 
 ### Discussion
@@ -42,7 +47,7 @@ Furthermore, note that the Circular should be read in conjunction with the appli
 
 #### Data Protection Officer
 
-On 14 March 2017, the NPC issued Advisory 2017-01, which provides for guidelines on the designation of Data Protection Officers and Compliance Officers for Privacy (COP). While the Advisory is recommendatory, by default, it shall be given considerable weight by the Commission in the course of evaluating the compliance status of a personal information controller (PIC) or personal information processor (PIP) vis-à-vis the DPA, its IRR, and other relevant NPC issuances.
+On 14 March 2017, the NPC issued [[issuances/2017/designation-of-data-protection-officers|Advisory 2017-01]], which provides for guidelines on the designation of Data Protection Officers and Compliance Officers for Privacy (COP). While the Advisory is recommendatory, by default, it shall be given considerable weight by the Commission in the course of evaluating the compliance status of a personal information controller (PIC) or personal information processor (PIP) vis-à-vis the DPA, its IRR, and other relevant NPC issuances.
 
 The pertinent portion of the document reads:
 
@@ -75,4 +80,4 @@ Sincerely,
 RAYMUND E. LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: see: RA 10173, §6; IRR, §4(b) and (d).
+[^1]: see: [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|RA 10173, §6]]; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|IRR, §4(b) and (d)]].

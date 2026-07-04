@@ -36,7 +36,7 @@ draft: false
 >
 > ii. Interlocutory Decisions, Orders, and Resolutions that do not dispose the case or breach notification with finality.
 
-**SECTION 3.** ***Repealing Clause.*** Decisions, Orders and Resolutions that may be subject of a Motion for Reconsideration may nevertheless be published on the NPC website, subject to the protocols set by Section 2 of [[issuances/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Advisory 2020-01]]. Section 1(b)(iii) of Advisory 2020-01 is hereby repealed.
+**SECTION 3.** ***Repealing Clause.*** Decisions, Orders and Resolutions that may be subject of a Motion for Reconsideration may nevertheless be published on the NPC website, subject to the protocols set by [[issuances/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Section 2 of Advisory 2020-01]]. Section 1(b)(iii) of Advisory 2020-01 is hereby repealed.
 
 **SECTION 4.** ***Effectivity.*** This guideline shall be effective immediately upon the approval of the Commission.
 

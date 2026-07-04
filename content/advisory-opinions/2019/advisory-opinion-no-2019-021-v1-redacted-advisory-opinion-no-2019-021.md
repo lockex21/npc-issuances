@@ -7,6 +7,11 @@ tags:
   - year/2019
   - topic/registration
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-021"
+  - "npc advisory opinion no. 2019-021"
+  - "Advisory Opinion No. 2019-021"
+  - "advisory opinion no. 2019-021"
 ---
 
 ## Source
@@ -43,9 +48,9 @@ In addition, the assignment of a DPO familiar with Philippine laws and regulatio
 
 #### Requirement of a Local Contact Number for a Non-Resident DPO
 
-The IRR provides for minimum contents of registration of a PIC, among which is the name and contact details of the compliance or data protection officer which shall be immediately updated in case of changes.[^2] The registration form for DPOs likewise incorporates the minimum information required to be submitted to NPC, among which is the DPO’s title or designation, postal address, dedicated telephone number, mobile number, dedicated email address, and the industry to which the DPO belongs to.
+The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] provides for minimum contents of registration of a PIC, among which is the name and contact details of the compliance or data protection officer which shall be immediately updated in case of changes.[^2] The registration form for DPOs likewise incorporates the minimum information required to be submitted to NPC, among which is the DPO’s title or designation, postal address, dedicated telephone number, mobile number, dedicated email address, and the industry to which the DPO belongs to.
 
-The requirement for the Philippine local mobile number is primarily in connection with the Phase II registration provided in NPC Circular No. 17-01, to wit:
+The requirement for the Philippine local mobile number is primarily in connection with the Phase II registration provided in [[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-01]], to wit:
 
 > SECTION 9. Registration Process. A PIC or PIP shall register through the Commission’s official website in two (2) phases: xxx
 >
@@ -80,6 +85,6 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 47 (a) (10) (2016).
-[^3]: National Privacy Commission, Designation of Data Protection Officers, Advisory No. 17-01 [NPC Advisory 17-01] (March 14, 2017).
+[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|§ 47 (a) (10)]] (2016).
+[^3]: National Privacy Commission, [[issuances/2017/designation-of-data-protection-officers|Designation of Data Protection Officers, Advisory No. 17-01]] [NPC Advisory 17-01] (March 14, 2017).
 [^4]: NPC Advisory 2017-01.

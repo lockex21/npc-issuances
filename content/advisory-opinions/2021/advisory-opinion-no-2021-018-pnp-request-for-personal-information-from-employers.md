@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2021-018 — PNP Request For Personal Information From Employers"
 description: "Guidance on whether an employer may disclose residential addresses of employees to law enforcement agencies serving warrants of arrest under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2021-018"
+  - "npc advisory opinion no. 2021-018"
+  - "Advisory Opinion No. 2021-018"
+  - "advisory opinion no. 2021-018"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -141,9 +146,9 @@ Very truly yours,
 OIC-Director IV, Privacy Policy Office
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 3 (j).
+[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (j)]].
 [^4]: An Act Establishing the Philippine National Police under a Reorganized Department of the Interior and Local Government, and for Other Purposes [Department of the Interior and Local Government Act of 1990], Republic Act No. 6975, § 24 (1990).
 [^5]: An Act Granting the Chief of the Philippine National Police (PNP) and the Director and the Deputy Director for Administration of the Criminal Investigation and Detection Group (CIDG) the Authority to Administer Oath and to Issue Subpoena And Subpoena Duces Tecum, amending for the Purpose Republic Act No. 6975, as amended, otherwise known as the "Department Of The Interior And Local Government Act Of 1990, Republic Act No. 10973, § 1 (2018).
 [^6]: Ibid.
 [^7]: Ibid.
-[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^8]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c)]] (2016).

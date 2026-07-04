@@ -7,6 +7,11 @@ tags:
   - "year/2025"
   - "topic/government"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-011"
+  - "npc advisory opinion no. 2025-011"
+  - "Advisory Opinion No. 2025-011"
+  - "advisory opinion no. 2025-011"
 ---
 
 ## Source
@@ -20,7 +25,7 @@ draft: false
 
 Dear ATTY. SALANDANAN-ALMEIDA,
 
-We respond to your request for an Advisory Opinion on whether the compliance with the Bureau of Internal Revenue's (BIR) Request for documents which may contain personal data is consistent with the Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+We respond to your request for an Advisory Opinion on whether the compliance with the Bureau of Internal Revenue's (BIR) Request for documents which may contain personal data is consistent with the [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA)]].
 
 On 07 March 2025, [Redacted] received an Updated Letter of Authority (LOA) from the BIR to examine their books and accounts and other accounting records for all internal revenue taxes except Value Added Tax (VAT) for the year 2022, pursuant to Sections 6(a) and 10(c) of the National Internal Revenue Code of 1997.
 
@@ -38,7 +43,7 @@ Thus, you now seek guidance on the proper manner of compliance that would addres
 
 #### Special cases; Processing of Personal Information by a Public Authority; Regulatory Mandate; Proportionality
 
-[[laws/data-privacy-act-of-2012#section-5-protection-afforded-to-journalists-and-their-sources|Section 5 of the DPA]] provide for special cases to which it does not apply, to wit:
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the DPA's Implementing Rules and Regulations]] provide for special cases to which it does not apply, to wit:
 
 > Section 5. Special Cases. The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:
 >
@@ -97,7 +102,7 @@ OIC-Director IV, Privacy Policy Office
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for other purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^2]: National Internal Revenue Code of 1997, as amended by Republic Act No. 10963 [National Internal Revenue Code of 1997].
 [^3]: Revenue Regulation No. V-1 or The Bookkeeping Regulations, as amended (1947).
-[^4]: National Privacy Commission, Re: Disclosure of Personal Data Pursuant to a Mission Order by the Bureau of Internal Revenue, NPC Advisory Opinion No. 2024-016 (11 December 2024).
-[^5]: National Privacy Commission, Re: Collection of Personal Data by the Bureau of Internal Revenue for Tax Compliance Purposes, NPC Advisory Opinion No. 2020-015 (24 February 2020).
-[^6]: National Privacy Commission, Re: Disclosure of Personal Information of Tenants by a Condominium Corporation to the Bureau of Internal Revenue, NPC Advisory Opinion No. 2021-028 (16 July 2021).
+[^4]: National Privacy Commission, Re: Disclosure of Personal Data Pursuant to a Mission Order by the Bureau of Internal Revenue, [[advisory-opinions/2024/advisory-opinion-no-2024-016-npc-advisory-opinion-no-2024-016-disclosure-of-personal-data-pursuant-to-a-mo-by-the-bir-sgd-redacted|NPC Advisory Opinion No. 2024-016]] (11 December 2024).
+[^5]: National Privacy Commission, Re: Collection of Personal Data by the Bureau of Internal Revenue for Tax Compliance Purposes, [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|NPC Advisory Opinion No. 2020-015]] (24 February 2020).
+[^6]: National Privacy Commission, Re: Disclosure of Personal Information of Tenants by a Condominium Corporation to the Bureau of Internal Revenue, [[advisory-opinions/2021/advisory-opinion-no-2021-028-disclosure-of-personal-information-of-tenants-by-a-condominium-corporation-to-the-bureau-of-internal-revenue|NPC Advisory Opinion No. 2021-028]] (16 July 2021).
 [^7]: National Privacy Commission, Re: Request for Access to Taxpayer Information from a Local Government Unit, [[advisory-opinions/2025/advisory-opinion-no-2025-005-npc-advisory-opinion-no-2025-005-bir-makati-redacted|NPC Advisory Opinion No. 2025-005]] (23 June 2025).

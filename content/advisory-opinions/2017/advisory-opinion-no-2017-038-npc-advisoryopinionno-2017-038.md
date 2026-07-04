@@ -7,6 +7,11 @@ tags:
   - "year/2017"
   - "topic/data-sharing"
   - "topic/government"
+aliases:
+  - "NPC Advisory Opinion No. 2017-038"
+  - "npc advisory opinion no. 2017-038"
+  - "Advisory Opinion No. 2017-038"
+  - "advisory opinion no. 2017-038"
 draft: false
 ---
 

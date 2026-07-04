@@ -52,11 +52,11 @@ On 28 April 2020, the case was submitted by the CID for Resolution of this Commi
 
 ### Discussion
 
-The Data Privacy Act (“DPA”) and the NPC Circular 16-03 require every Personal Information Controller (“PIC”) the twin responsibility of notifying the Commission and the affected data subjects when personal data breach occurs. [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (f) of the DPA]] provides:
+The [[laws/data-privacy-act-of-2012|Data Privacy Act]] (“DPA”) and the [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] require every Personal Information Controller (“PIC”) the twin responsibility of notifying the Commission and the affected data subjects when personal data breach occurs. [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (f) of the DPA]] provides:
 
 > “(f) The personal information controller shall promptly notify the Commission and affected data subjects when sensitive personal information or other information that may, under the circumstances, be used to enable identify fraud are reasonably believed to have been acquired by an unauthorized person, and the personal information controller or the Commission believes that such unauthorized acquisitions is likely to give rise to real risk of serious harm to any affected data subjects…” (Emphasis supplied)
 
-Further, Section 15 of NPC Circular 16-03 states:
+Further, Section 15 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] states:
 
 > “The personal information controller shall notify the Commission and the affected data subjects upon knowledge of, or when there is reasonable belief that a personal data breach has occurred. The obligation to notify remains with the personal information controller even if the processing of information is outsourced or subcontracted to a personal information processor. The personal information controller shall identify the designated data protection officer of other individual responsible for ensuring its compliance with the notification requirements provided in this Circular…” (Emphasis supplied)
 
@@ -64,7 +64,7 @@ It can be inferred from the above that the PIC has the responsibility of notifyi
 
 In the case at hand, TSPI was clearly not the PIC responsible to report the incident to the Commission considering that it does not decide on what information is collected, or the purpose or extent of the processing in the TSPI employee’s personal bank account. Otherwise stated, TSPI is not the PIC that has the duty to notify the Commission about the personal data breach. However, reviewing the factual antecedents of the case, BDO and Lazada are the proper PICs that should have reported this breach to the Commission. BDO as the bank who holds the personal account of the TSPI employee and Lazada as the merchant who processed the payments made on 03 June 2018.
 
-Further, the return of the P10,000.00 to the TSPI employee’s personal account would reveal that his or her account was accessed and used by an unauthorized person. Clearly, this case falls under the required notification as provided in the above-cited Section 15 of NPC Circular 16-03.
+Further, the return of the P10,000.00 to the TSPI employee’s personal account would reveal that his or her account was accessed and used by an unauthorized person. Clearly, this case falls under the required notification as provided in the above-cited Section 15 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
 This Commission will then carry out its solemn duty of ensuring compliance of PICs with the DPA and its issuances in the end of protecting the rights of the affected data subject.
 

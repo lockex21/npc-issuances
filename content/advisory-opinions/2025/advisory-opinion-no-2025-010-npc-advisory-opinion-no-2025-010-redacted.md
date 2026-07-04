@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2025"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-010"
+  - "npc advisory opinion no. 2025-010"
+  - "Advisory Opinion No. 2025-010"
+  - "advisory opinion no. 2025-010"
 ---
 
 ## Source
@@ -51,15 +56,15 @@ More importantly, it appears that the College received the screenshots as eviden
 
 #### Scope of the College's authority to monitor or access students' digital spaces without consent
 
-The College, however, must still apply data protection principles — notably that the processing must still adhere to the principles of transparency, legitimate purpose, and proportionality. The DPA does not provide blanket authority for PICs, including schools, to monitor all digital activity of their data subjects. Such monitoring must be anchored on a lawful basis under Sections 12 or 13 of the Act and must comply with the principle of proportionality. The NPC, through its Education Sector Advisory No. 2020-1 on online learning, has cautioned that personal data processed through unofficial tools or social media platforms entails significant risks, and that submissions via such platforms are discouraged. The Advisory further reminds that processing of personal data in social media must always have a legitimate purpose and comply with the principles of proportionality and transparency. While issued in the context of online learning, these principles underscore the Commission's general approach that personal data disclosed or processed in social media spaces does not escape the protections of the DPA.
+The College, however, must still apply data protection principles — notably that the processing must still adhere to the principles of transparency, legitimate purpose, and proportionality. The [[laws/data-privacy-act-of-2012|DPA]] does not provide blanket authority for PICs, including schools, to monitor all digital activity of their data subjects. Such monitoring must be anchored on a lawful basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the Act and must comply with the principle of proportionality. The NPC, through its Education Sector Advisory No. 2020-1 on online learning, has cautioned that personal data processed through unofficial tools or social media platforms entails significant risks, and that submissions via such platforms are discouraged. The Advisory further reminds that processing of personal data in social media must always have a legitimate purpose and comply with the principles of proportionality and transparency. While issued in the context of online learning, these principles underscore the Commission's general approach that personal data disclosed or processed in social media spaces does not escape the protections of the DPA.
 
 Absent a legal obligation or a demonstrable connection to the school's legitimate interests that meets the proportionality test, indiscriminate monitoring of all students' online spaces may constitute unauthorized processing. However, we wish to remind that determinations about whether a specific act of monitoring is lawful should be made on a case-by-case basis, taking into account the facts and the proportionality of the measure.
 
 #### Data privacy implication of sharing private group chat screenshots; Processing in connection with personal, family, or household affairs
 
-On the question of whether the classmates' capture and disclosure of screenshots constitutes unauthorized processing under the DPA depends on their role and purpose when they processed the personal data. The act of capturing and sharing GC screenshots with third parties constitutes processing under the DPA. Whether such processing is lawful will depend on the presence of a valid basis under Sections 12 or 13.
+On the question of whether the classmates' capture and disclosure of screenshots constitutes unauthorized processing under the [[laws/data-privacy-act-of-2012|DPA]] depends on their role and purpose when they processed the personal data. The act of capturing and sharing GC screenshots with third parties constitutes processing under the DPA. Whether such processing is lawful will depend on the presence of a valid basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]].
 
-As noted in NPC Advisory Opinion No. 2020-043, a crucial consideration is whether the processing was done in connection with personal, family, or household affairs under Section 3(h)(2) of the DPA. If so, such processing may be generally excluded from the DPA's scope. However, depending on the attendant circumstances, the taking of screenshots and their transmission to third parties may not fall under this exclusion.
+As noted in [[advisory-opinions/2020/advisory-opinion-no-2020-043-redacted-advisory-opinion-no-2020-043-2|NPC Advisory Opinion No. 2020-043]], a crucial consideration is whether the processing was done in connection with personal, family, or household affairs under Section 3(h)(2) of the DPA. If so, such processing may be generally excluded from the DPA's scope. However, depending on the attendant circumstances, the taking of screenshots and their transmission to third parties may not fall under this exclusion.
 
 Where individuals who are not acting in a purely personal or household capacity collect, use, or disclose personal data of others, they may be considered PICs or personal information processors under the DPA, and thus subject to its obligations.
 
@@ -77,7 +82,7 @@ Whether the circumstances here would support a finding of reasonable expectation
 
 #### Legal remedies for unauthorized disclosure of private conversations; Criminal penalties; Civil liability; Damages
 
-Violations of the Data Privacy Act of 2012 (DPA) may give rise to liability depending on the circumstances of the case. Under Section 25, unauthorized processing of personal information is considered a punishable act. This generally covers instances where processing is carried out: (a) without the consent of the data subject; (b) without being anchored on any of the lawful criteria under Section 12; or (c) in a manner inconsistent with the declared, specific purpose of the processing. Section 26 similarly classifies the unauthorized processing of sensitive personal information as a punishable act. Here, liability may arise when such information is processed: (a) without the data subject's consent; or (b) absent compliance with any of the stricter conditions for lawful processing set out under Section 13. In both cases, the essential element is the lack of a lawful basis for the processing.
+Violations of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (DPA)]] may give rise to liability depending on the circumstances of the case. Under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25]], unauthorized processing of personal information is considered a punishable act. This generally covers instances where processing is carried out: (a) without the consent of the data subject; (b) without being anchored on any of the lawful criteria under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]]; or (c) in a manner inconsistent with the declared, specific purpose of the processing. [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26]] similarly classifies the unauthorized processing of sensitive personal information as a punishable act. Here, liability may arise when such information is processed: (a) without the data subject's consent; or (b) absent compliance with any of the stricter conditions for lawful processing set out under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]]. In both cases, the essential element is the lack of a lawful basis for the processing.
 
 Possible violations arising from the alleged disclosure of the screenshots may be assessed under the Data Privacy Act of 2012 (DPA), which falls within the jurisdiction of the NPC. Should you believe that injury was sustained as a result of such disclosure, you are not precluded from exercising your right to file a complaint and seek indemnification under the DPA. As to potential civil or criminal actions under other laws, these fall outside the NPC's jurisdiction, and we cannot make a conclusive determination on their applicability to your scenario.
 
@@ -97,25 +102,25 @@ OIC-Director IV, Privacy Policy Office
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3, ¶ g (2012).
 [^2]: Id. § 3, ¶ l.
-[^3]: National Privacy Commission, Disclosure of Screenshots of a Private Conversation, NPC Advisory Opinion No. 2020-043 (Nov. 4, 2020).
+[^3]: National Privacy Commission, Disclosure of Screenshots of a Private Conversation, [[advisory-opinions/2020/advisory-opinion-no-2020-043-redacted-advisory-opinion-no-2020-043-2|NPC Advisory Opinion No. 2020-043]] (Nov. 4, 2020).
 [^4]: Id. § 3, ¶ j.
 [^5]: Id., § 13.
-[^6]: National Privacy Commission, Guidelines on Personal Data Processing Based on Section 13 (F) of the Data Privacy Act of 2012, NPC Advisory No. 2024-02 (August 12, 2024).
+[^6]: National Privacy Commission, Guidelines on Personal Data Processing Based on Section 13 (F) of the Data Privacy Act of 2012, [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|NPC Advisory No. 2024-02]] (August 12, 2024).
 [^7]: Id. § 2 ¶ C.
 [^8]: Id. § 4.
 [^9]: National Privacy Commission, Disclosure and Release of Incident Reports by An Educational Institution, [[advisory-opinions/2024/advisory-opinion-no-2024-007-advisory-opinion-no-2024-007-redacted|NPC Advisory Opinion No. 2024-007]] (July 2, 2024).
 [^10]: Data Privacy Act of 2012, §§ 12-13.
 [^11]: Data Privacy Council for the Education Sector, Data Privacy and Online Learning, Data Privacy Council Education Sector Advisory No. 2020-1 (2020).
-[^12]: National Privacy Commission, Guidelines on Personal Data Processing Based on Section 13 (F) of the Data Privacy Act of 2012, NPC Advisory No. 2024-02 (August 12, 2024).
+[^12]: National Privacy Commission, Guidelines on Personal Data Processing Based on Section 13 (F) of the Data Privacy Act of 2012, [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|NPC Advisory No. 2024-02]] (August 12, 2024).
 [^13]: Id. § 2 ¶ C.
 [^14]: Id. § 4.
-[^15]: National Privacy Commission, Disclosure and Release of Incident Reports by An Educational Institution, NPC Advisory Opinion No. 2024-007 (July 2, 2024).
+[^15]: National Privacy Commission, Disclosure and Release of Incident Reports by An Educational Institution, [[advisory-opinions/2024/advisory-opinion-no-2024-007-advisory-opinion-no-2024-007-redacted|NPC Advisory Opinion No. 2024-007]] (July 2, 2024).
 [^16]: Data Privacy Act of 2012, §§ 12-13.
 [^17]: Data Privacy Council for the Education Sector, Data Privacy and Online Learning, Data Privacy Council Education Sector Advisory No. 2020-1 (2020).
-[^18]: NPC, NPC Advisory Opinion No. 2020-043.
+[^18]: NPC, [[advisory-opinions/2020/advisory-opinion-no-2020-043-redacted-advisory-opinion-no-2020-043-2|NPC Advisory Opinion No. 2020-043]].
 [^19]: Data Privacy Act of 2012, § 4 ¶ e.
 [^20]: Cadajas v. People, G.R. No. 247348 (November 16, 2021), https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/68092.
-[^21]: NPC, NPC Advisory Opinion No. 2020-043.
+[^21]: NPC, [[advisory-opinions/2020/advisory-opinion-no-2020-043-redacted-advisory-opinion-no-2020-043-2|NPC Advisory Opinion No. 2020-043]].
 [^22]: Data Privacy Act of 2012, § 4 ¶ e.
 [^23]: Cadajas v. People, G.R. No. 247348 (November 16, 2021), https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/68092.
 [^24]: Data Privacy Act of 2012, § 25.

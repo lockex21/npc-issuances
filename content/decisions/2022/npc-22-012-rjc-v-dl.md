@@ -42,7 +42,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission is a Complaint filed by RJC against DL for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by RJC against DL for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA)]].
 
 ### Facts
 
@@ -98,7 +98,7 @@ Whether DL's processing of RJC's personal data violated the DPA.
 
 ### Discussion
 
-DL did not violate the DPA when he processed RJC's personal data. The use of RJC's transcript of records in DL's counter-affidavit was lawful in accordance with Section 13 (f) of the DPA.
+DL did not violate the DPA when he processed RJC's personal data. The use of RJC's transcript of records in DL's counter-affidavit was lawful in accordance with [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]].
 
 RJC correctly argued that school records are sensitive personal information. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (l) of the DPA]] provides an enumeration of what constitutes sensitive personal information:
 
@@ -206,9 +206,9 @@ GENERAL RECORDS UNIT
 [^30]: *Id.* at 7-8.
 [^31]: *Id.* at 8.
 [^32]: Memorandum for Respondent, 04 August 2022, at 10, in RJC v. DL, NPC 22-012 (NPC 2022).
-[^33]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (l) (2012). Emphasis supplied.
+[^33]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]] (2012). Emphasis supplied.
 [^34]: MHH v. VCF and SFPS, [[decisions/2017/npc-18-141-mhh-v-vcf-spfs|NPC 18-141]], 09 June 2020, at 7 available at https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision-NPC-Case-No.-18-141-MHH-v.-VCF-SPFS-1.pdf (last accessed 23 December 2022).
 [^35]: Francisco Chavez v. Judicial and Bar Council, Sen. Francis Escudero, and Rep. Niel Tupas, Jr., G.R. No. 202242 (2012).
 [^36]: Memorandum for Respondent, 04 August 2022, at 7-8, in RJC v. DL, NPC 22-012 (NPC 2022).
-[^37]: Data Privacy Act of 2012, § 13 (f). Emphasis supplied.
-[^38]: EA and TA v. EJ, EE, and HC, NPC 17-018, 15 July 2019, at 8, available at https://www.privacy.gov.ph/wp-content/uploads/2022/04/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf (last accessed 01 December 2022).
+[^37]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13 (f)]]. Emphasis supplied.
+[^38]: EA and TA v. EJ, EE, and HC, [[resolutions/2020/npc-17-018-in-re-ea-ta-vs-ej-ee-hc|NPC 17-018]], 15 July 2019, at 8, available at https://www.privacy.gov.ph/wp-content/uploads/2022/04/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf (last accessed 01 December 2022).

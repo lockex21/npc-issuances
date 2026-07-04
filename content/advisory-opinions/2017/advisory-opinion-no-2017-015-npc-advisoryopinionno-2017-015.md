@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2017-015 — Subcontracting or Outsourcing of the Processing of Personal Data"
 description: "Clarification on outsourcing and subcontracting of personal data processing, distinction between personal information controllers and processors, and compliance requirements for outsourcing agreements."
+aliases:
+  - "NPC Advisory Opinion No. 2017-015"
+  - "npc advisory opinion no. 2017-015"
+  - "Advisory Opinion No. 2017-015"
+  - "advisory opinion no. 2017-015"
 tags:
   - issuance
   - type/advisory-opinion
@@ -28,7 +33,7 @@ Dear [Redacted],
 
 This pertains to your query received by the National Privacy Commission (NPC) on 10 February 2017. Specifically, you inquired whether the disclosure by the Social Security System (SSS) of sensitive personal information of some of its members to certain banks would violate [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the Data Privacy Act of 2012 (DPA). The members consist of those that have obtained loans from the SSS, while the banks are accredited collection agents of the SSS. You also mentioned that the members would be informed of such transfer, thereby directing them to the bank they shall make their loan payments.
 
-Based on the facts, the SSS is proposing to outsource or subcontract the specific personal data processing operation of loan or debt collection. Such a step is allowed under the DPA and its Implementing Rules and Regulations (IRR), provided that is carried out in accordance with their provisions.
+Based on the facts, the SSS is proposing to outsource or subcontract the specific personal data processing operation of loan or debt collection. Such a step is allowed under the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations (IRR)]], provided that is carried out in accordance with their provisions.
 
 It is worth stressing here that the concept of outsourcing or subcontracting is recognized under the law, and is deemed integral to any given data privacy or data protection framework. This much is evident from the use and distinction made in the DPA between the concepts of "personal information controller"[^1] or "PIC" on the one hand, and "personal information processor"[^2] or "PIP" on the other. By their respective definitions, it is easy to discern that the law considers the PIC as an outsourcing entity or principal, the PIP as the "outsourcee" or subcontractor, and their relationship or those transactions between them as regular occurrences or part of the norm, in today's globalized context.
 
@@ -38,7 +43,7 @@ In the case presented by the query, SSS is the PIC while the accredited banks fu
 
 #### Statutory Framework for Subcontracting and Outsourcing
 
-In the DPA, the primary reference for the subcontracting or outsourcing of the processing of personal data is Section 14:
+In the DPA, the primary reference for the subcontracting or outsourcing of the processing of personal data is [[laws/data-privacy-act-of-2012#section-14-subcontract-of-personal-information|Section 14]]:
 
 > **Subcontract of Personal Information.** – A personal information controller may subcontract the processing of personal information: *Provided, That* the personal information controller shall be responsible for ensuring that proper safeguards are in place to ensure the confidentiality of the personal information processed, prevent its use for unauthorized purposes, and generally, comply with the requirements of this Act and other laws for processing of personal information. The personal information processor shall comply with all the requirements of this Act and other applicable laws.
 
@@ -76,6 +81,6 @@ Sincerely,
 
 [Signature block not included in advisory opinion body]
 
-[^1]: RA 10173, §3(h).
+[^1]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA 10173, §3(h)]].
 [^2]: *Id.*, §3(i).
-[^3]: *See also:* IRR, §45.
+[^3]: *See also:* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-45-duty-of-personal-information-processor|IRR, §45]].

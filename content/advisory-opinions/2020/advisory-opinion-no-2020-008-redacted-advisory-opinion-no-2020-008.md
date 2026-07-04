@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+aliases:
+  - "NPC Advisory Opinion No. 2020-008"
+  - "npc advisory opinion no. 2020-008"
+  - "Advisory Opinion No. 2020-008"
+  - "advisory opinion no. 2020-008"
 draft: false
 ---
 
@@ -27,7 +32,7 @@ We write in response to your request for advisory opinion received by the Nation
 Commission (NPC) which sought clarify whether the requirement set by the Occupational
 Safety and Health Center (OSHC) mandating Occupational Safety and Health Training
 Organizations (OSHTOs) to submit video documentation of mandatory trainings for safety
-officers violates the Data Privacy Act of 2012[^2] (DPA).
+officers violates the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 ### Discussion
 
@@ -140,6 +145,6 @@ Privacy Commissioner and Chairman
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Establishing the Occupational Safety and Health Center in the Employees' Compensation Commission, attached agency of the Department of Labor and Employment [Executive Order No. 307] (1987).
 [^4]: Occupational Safety and Health Center, About OSHC available at http://www.oshc.dole.gov.ph/transparency-seal/history (last accessed December 4, 2019).
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 4 (2016).
-[^6]: Data Privacy Act of 2012, § 20 (c).
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|§ 4]] (2016).
+[^6]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], § 20 (c).
 [^7]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-053-npc-advisory-opinion-no-2018-053|Advisory Opinion No. 2018-053]] (26 November 2018).

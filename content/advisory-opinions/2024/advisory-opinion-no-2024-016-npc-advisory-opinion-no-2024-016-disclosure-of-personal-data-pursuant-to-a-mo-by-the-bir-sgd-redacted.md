@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2024-016 — Disclosure of Personal Data Pursuant to a Mission Order by the Bureau of Internal Revenue"
 description: "Advisory opinion on whether disclosing personal data pursuant to a Bureau of Internal Revenue Mission Order for tax compliance verification violates the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2024-016"
+  - "npc advisory opinion no. 2024-016"
+  - "Advisory Opinion No. 2024-016"
+  - "advisory opinion no. 2024-016"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -111,6 +116,6 @@ FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
 [^1]: Tags: Disclosure; Personal Data; Mission Order; Bureau of Internal Revenue; Tax Compliance Verification Drive; Data Privacy Act
-[^2]: Republic Act No. 10173 (2012).
-[^3]: National Privacy Commission, NPC Advisory Opinion No. 2020-015 (Feb. 24, 2020).
-[^4]: *Id.*, § 19.
+[^2]: [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
+[^3]: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|NPC Advisory Opinion No. 2020-015]] (Feb. 24, 2020).
+[^4]: *Id.*, [[laws/data-privacy-act-of-2012#section-19-non-applicability|§ 19]].

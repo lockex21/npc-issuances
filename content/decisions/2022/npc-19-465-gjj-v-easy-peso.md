@@ -44,7 +44,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by GJJ against Creditable Lending Corporation (Easy Peso) for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by GJJ against Creditable Lending Corporation (Easy Peso) for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -242,7 +242,7 @@ Furthermore, the screenshots reveal that she has not replied, even once, to Easy
 
 The totality of GJJ's actions demonstrates that she is, in fact, avoiding Easy Peso. Given that the clause in the Privacy Policy states that it may use contacts when the client cannot be reached,[^57] Easy Peso merely enforced the obligations stipulated in the contract it entered into with GJJ. Thus, it has a legitimate reason to undertake the processing of her contacts. A lending company has legitimate interests in collecting outstanding obligations due to it. Considering that GJJ failed to refute the defenses raised by Easy Peso despite being given the opportunity to do so, it can be said that Easy Peso's act of getting in touch with presumably valid character references that GJJ herself nominated is necessary for its legitimate interest.
 
-Also, it should be taken into consideration that, during this time, NPC Circular No. 20-01 (Guidelines on the Processing of Personal Data for Loan-Related Transactions) stating that, "[a]ccess to contact details in whatever form, such as but not limited to phone contact list [...] and/or copying or otherwise saving these contacts for use in debt collection or to harass in any way the borrower or his/her contacts, are prohibited,"[^58] had not yet taken effect. In the absence of the Circular, it cannot be said that Easy Peso's act of reaching out to GJJ's contacts is violative of the DPA. Easy Peso did not go beyond what it informed GJJ it would do since its actions merely executed what was purportedly in the Privacy Policy.
+Also, it should be taken into consideration that, during this time, [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 20-01 (Guidelines on the Processing of Personal Data for Loan-Related Transactions)]] stating that, "[a]ccess to contact details in whatever form, such as but not limited to phone contact list [...] and/or copying or otherwise saving these contacts for use in debt collection or to harass in any way the borrower or his/her contacts, are prohibited,"[^58] had not yet taken effect. In the absence of the Circular, it cannot be said that Easy Peso's act of reaching out to GJJ's contacts is violative of the DPA. Easy Peso did not go beyond what it informed GJJ it would do since its actions merely executed what was purportedly in the Privacy Policy.
 
 GJJ was not able to sufficiently establish that Easy Peso went beyond the terms disclosed to her when she availed herself of the loan.
 
@@ -328,7 +328,7 @@ GENERAL RECORDS UNIT
 [^24]: Reply with Motion to Dismiss, 03 December 2021, in GJJ v. Creditable Lending Corporation, NPC Case No. 19-465 (NPC 2019).
 [^25]: Answer to Complaint, 15 October 2019, in GJJ v. Creditable Lending Corporation, NPC Case No. 19-465 (NPC 2019).
 [^26]: Reply with Motion to Dismiss, 03 December 2021, in GJJ v. Creditable Lending Corporation, NPC Case No. 19-465 (NPC 2019).
-[^27]: National Privacy Commission, Rules on Procedure of the National Privacy Commission, Circular No. 04, Series of 2016 [NPC Circular No. 16-04], § 4 (a) (15 December 2016).
+[^27]: National Privacy Commission, [[issuances/undated/rules-of-procedure|Rules on Procedure of the National Privacy Commission, Circular No. 04, Series of 2016]] [NPC Circular No. 16-04], § 4 (a) (15 December 2016).
 [^28]: *Id.* Emphasis supplied.
 [^29]: Complaints-Assisted Form, 23 July 2019, at 5, in GJJ v. Creditable Lending Corporation, NPC Case No. 19-465 (NPC 2019).
 [^30]: Office of the Ombudsman v. Loving F. Fetalvero, Jr., G.R. No. 211450 (2018).
@@ -345,7 +345,7 @@ GENERAL RECORDS UNIT
 [^41]: (Note: Original footnote 41 was missing due to OCR error; see source discussion at paragraph level)
 [^42]: See People of the Philippines v. Sangcajo, Jr., G.R. No. 229204 (2018).
 [^43]: Re: Letter of Lucena Ofendo Reyes Alleging Illicit Activities Of A Certain Atty. Cajayon Involving Cases In The Court Of Appeals, Cagayan De Oro City, A.M. No. 16-12-03-CA (2017). Emphasis supplied.
-[^44]: NPC Circular No. 16-04, § 22. Emphasis supplied.
+[^44]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04, § 22]]. Emphasis supplied.
 [^45]: [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021, at 12 (NPC 2021) (unreported).
 [^46]: Answer to Complaint, 15 October 2019, in GJJ v. Creditable Lending Corporation, NPC Case No. 19-465 (NPC 2019).
 [^47]: *Id.*; See also Reply with Motion to Dismiss, 03 December 2021, Annex "A" at 1, 3-4, in GJJ v. Creditable Lending Corporation, NPC Case No. 19-465 (NPC 2019).
@@ -359,9 +359,9 @@ GENERAL RECORDS UNIT
 [^55]: *Id.*
 [^56]: *Id.* at 2.
 [^57]: Answer to Complaint, 15 October 2019, Annex "D", in GJJ v. Creditable Lending Corporation, NPC Case No. 19-465 (NPC 2019).
-[^58]: National Privacy Commission, Guidelines on the Processing of Personal Data for Loan-Related Transactions, Circular No. 01, Series of 2020 [NPC Circ. No. 20-01], § 3 (D)(4) (28 January 2021).
+[^58]: National Privacy Commission, [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions, Circular No. 01, Series of 2020]] [NPC Circ. No. 20-01], § 3 (D)(4) (28 January 2021).
 [^59]: RCBC v. Court of Appeals, G.R. No. 133107 (1999).
 [^60]: Avon Cosmetics, Inc. v. Luna, G.R. No. 153674 (2006). Emphasis supplied.
 [^61]: Development Bank of the Philippines v. Court of Appeals, G.R. No. 13870 (2006). Emphasis supplied.
 [^62]: Certificate of Incorporation and Authority to Operate as a Lending Company, in GJJ v. Creditable Lending Corporation, NPC Case No. 19-465 (NPC 2019).
-[^63]: Data Privacy Act of 2012, § 34 (2012). Emphasis supplied.
+[^63]: [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Data Privacy Act of 2012, § 34]] (2012). Emphasis supplied.

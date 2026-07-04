@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2022-019 — Use of Body-Worn Camera by Security Personnel"
 description: "The NPC addresses the lawfulness of using body-worn cameras by security personnel to record field observations and encounters under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2022-019"
+  - "npc advisory opinion no. 2022-019"
+  - "Advisory Opinion No. 2022-019"
+  - "advisory opinion no. 2022-019"
 tags:
   - issuance
   - type/advisory-opinion
@@ -29,7 +34,7 @@ We respond to your request for an advisory opinion regarding the use of body-wor
 
 We gather that the Corporations are affiliate companies located in Cavite, Tarlac, and Cebu, engaged in various manufacturing, processing, and sale of semiconductors. Currently, the Corporations are exploring the possibility of requiring their security personnel to use body-worn cameras to record their field observations and encounters, on top of the use of closed-circuit television systems (CCTVs).
 
-You thus ask whether the Corporations’ security personnel can employ BWCs without violating the provisions of the Data Privacy Act of 2012[^1] (DPA).
+You thus ask whether the Corporations’ security personnel can employ BWCs without violating the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA).
 
 ### Discussion
 
@@ -77,7 +82,7 @@ After evaluation, if the Corporations decide to use BWCs, they must ensure that 
 
 The privacy notice should describe the specific processes relating to the use of BWCs. In crafting the privacy notice regarding the use of BWCs, reference can be made to [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (b) of the DPA]] on the information that should be provided to the data subjects pursuant to their right to be informed and to demonstrate the Corporations’ adherence to the data privacy principle of transparency.
 
-Further, the Commission, in the case of JVA vs UPeso,[^7] ruled that:
+Further, the Commission, in the case of [[decisions/2020/npc-19-498-jva-vs-u-peso-ph-lending-corporation-upeso|JVA vs UPeso]],[^7] ruled that:
 
 > The test to determine if the personal information controller has complied with the general privacy principle of transparency is to examine whether an average member of the target audience could have understood the information provided to them. x x x
 
@@ -104,10 +109,10 @@ FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Data Privacy Act of 2012, § 4.
-[^3]: Data Privacy Act of 2012, § 3 (g).
-[^4]: Id. § 3 (g).
-[^5]: Id. § 3 (j).
-[^6]: Data Privacy Act of 2012, § 11 (c).
-[^7]: National Privacy Commission, JVA vs UPESO [NPC Case No. 19-498] 9 June 2020
+[^2]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
+[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (g)]].
+[^4]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]].
+[^5]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (j)]].
+[^6]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11 (c)]].
+[^7]: National Privacy Commission, [[decisions/2020/npc-19-498-jva-vs-u-peso-ph-lending-corporation-upeso|JVA vs UPESO]] [NPC Case No. 19-498] 9 June 2020
 [^8]: [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]], Guidelines on Privacy Impact Assessment, 31 July 2017.

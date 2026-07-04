@@ -7,6 +7,11 @@ tags:
   - "year/2025"
   - "topic/legitimate-interest"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-015"
+  - "npc advisory opinion no. 2025-015"
+  - "Advisory Opinion No. 2025-015"
+  - "advisory opinion no. 2025-015"
 ---
 
 ## Source
@@ -52,13 +57,13 @@ Accordingly, the PhilSys QR code, and any data derived from it in the course of 
 
 #### Personal Information Controller and Processor, Outsourcing; Obligations and Instructions
 
-Section 3 of the DPA distinguishes between a Personal Information Controller (PIC) and a Personal Information Processor (PIP). In your scenario, the bank is considered as the PIC, as it determines the purposes and means of processing its customers' personal data for KYC, account opening, credit card issuance, and related services. Your company meanwhile, may be considered as the bank's PIP, processing personal data on behalf of and upon the instructions of the bank.
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] distinguishes between a Personal Information Controller (PIC) and a Personal Information Processor (PIP). In your scenario, the bank is considered as the PIC, as it determines the purposes and means of processing its customers' personal data for KYC, account opening, credit card issuance, and related services. Your company meanwhile, may be considered as the bank's PIP, processing personal data on behalf of and upon the instructions of the bank.
 
 Your company, as a PIP, is required to process personal data only for the bank's lawfully specified purposes, under a written outsourcing agreement that sets out your obligations on security, confidentiality, retention, and data subject rights, among others. All processing must be strictly limited to the instructions and purposes defined by the bank as PIC.
 
 #### Lawful Basis for Processing PhilSys ID and QR Code Data
 
-Processing personal data from the PhilSys ID, including any data accessed through the QR code, must comply with Sections 12 and 13 of the DPA. These provisions govern the lawful criteria for processing personal information and sensitive personal information, respectively.
+Processing personal data from the PhilSys ID, including any data accessed through the QR code, must comply with [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA. These provisions govern the lawful criteria for processing personal information and sensitive personal information, respectively.
 
 For the bank, the following legal bases are typically relevant in the KYC context:
 
@@ -66,7 +71,7 @@ For the bank, the following legal bases are typically relevant in the KYC contex
 
 2. **Performance of a contract with the data subject.** For many banking services, processing the customer's identification documents is necessary for entering into and performing a contract with the data subject (for example, opening and maintaining an account, issuing a credit card, or granting a loan). This may be relied upon under Section 12(b) of the DPA as an additional or complementary basis.
 
-3. **Legitimate interests.** Processing may also be justified under Section 12(f), where it is necessary for the legitimate interests of the bank or a third-party (such as fraud prevention, risk management, and the integrity of financial transactions), provided that such interests are not overridden by the fundamental rights and freedoms of the data subject. NPC Circular No. 2023-07 (Guidelines on Legitimate Interest) clarifies how PICs may rely on legitimate interest as a lawful basis, subject to a three-part assessment of purpose, necessity and balancing tests. For sensitive personal information accessed via the PhilSys QR code, the primary lawful basis remains [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(b) of the DPA]], that is, processing provided for by existing laws and regulations such as AMLA and its implementing rules.
+3. **Legitimate interests.** Processing may also be justified under Section 12(f), where it is necessary for the legitimate interests of the bank or a third-party (such as fraud prevention, risk management, and the integrity of financial transactions), provided that such interests are not overridden by the fundamental rights and freedoms of the data subject. [[issuances/2023/guidelines-on-legitimate-interest|NPC Circular No. 2023-07]] (Guidelines on Legitimate Interest) clarifies how PICs may rely on legitimate interest as a lawful basis, subject to a three-part assessment of purpose, necessity and balancing tests. For sensitive personal information accessed via the PhilSys QR code, the primary lawful basis remains [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(b) of the DPA]], that is, processing provided for by existing laws and regulations such as AMLA and its implementing rules.
 
 While you mention that the bank's application forms contain broad consent wording authorizing the sharing and dissemination of personal data, the Commission has repeatedly reminded PICs that consent is not the only lawful criterion for processing, and that they should identify and rely on the basis that is most appropriate for the particular processing, especially where processing is required by law or necessary to provide a service. In such cases, consent should not be used as the primary basis, to avoid giving a false impression that data subjects may refuse processing that is in fact mandated or essential.
 

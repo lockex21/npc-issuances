@@ -7,6 +7,11 @@ tags:
   - "year/2021"
   - "topic/data-subject-rights"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-030"
+  - "npc advisory opinion no. 2021-030"
+  - "Advisory Opinion No. 2021-030"
+  - "advisory opinion no. 2021-030"
 ---
 
 ## Source
@@ -54,12 +59,12 @@ mandate extends to copyright registration by way of necessary implication.
 
 #### Criteria for Lawful Processing of Personal Data; Legal Obligation; Mandate
 
-The Data Privacy Act of 2012[^3] (DPA) applies to the processing of personal and sensitive
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^3] (DPA) applies to the processing of personal and sensitive
 personal information (collectively, personal data) and to any natural and juridical person
 involved in the processing within and outside the Philippines.
 
 Under the law, personal data processing may be based any of the various criteria for lawful
-processing provided under Sections 12 and 13 of the DPA, respectively.
+processing provided under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, respectively.
 
 Particularly applicable for IPOPHL’s proposed processing is [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the DPA]] which
 recognizes processing that is necessary for compliance with a legal obligation and/or Section
@@ -140,6 +145,6 @@ OIC – Director IV, Privacy Policy Office
 
 [^2]: An Act Prescribing the Intellectual Property Code and Establishing the Intellectual Property Office, providing for its Powers and Functions, and for Other Purposes [Intellectual Property Code of the Philippines], Republic Act No. 8293 (1997).
 
-[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
 [^4]: Intellectual Property Code of the Philippines, § 2.

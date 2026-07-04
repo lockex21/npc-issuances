@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2022-016 — Request for Personal Information of OFWs Deployed in the Middle East and Other Muslim Countries"
 description: "The NPC addresses whether the National Commission on Muslim Filipinos may lawfully obtain personal information of overseas Filipino workers from government departments to assist distressed OFWs in Muslim countries."
+aliases:
+  - "NPC Advisory Opinion No. 2022-016"
+  - "npc advisory opinion no. 2022-016"
+  - "Advisory Opinion No. 2022-016"
+  - "advisory opinion no. 2022-016"
 tags:
   - issuance
   - type/advisory-opinion
@@ -50,11 +55,11 @@ From the foregoing, we note that the authority of the Hajj Attaché is limited t
 
 #### Scope; Lawful Basis for Processing Personal Information; Section 12; Legal Obligation; Legitimate Interest
 
-The DPA applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.[^4]
+The [[laws/data-privacy-act-of-2012|DPA]] applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.[^4]
 
 As discussed above, if after judicious assessment it is determined that the mandate of the NCMF and/or the Hajj Attaché may cover the processing of personal data for the purpose of reaching out to distressed Muslim OFWs, their families, and relatives, then the processing of their personal data may be justified as will be discussed below.
 
-The collection and disclosure of personal information[^5] of Muslim OFWs constitute processing.[^6] As applied to your present concern, Section 12 (c) and (e) of the DPA appears to be the most appropriate criteria for lawful processing by the NCMF, thus:
+The collection and disclosure of personal information[^5] of Muslim OFWs constitute processing.[^6] As applied to your present concern, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) and (e) of the DPA]] appears to be the most appropriate criteria for lawful processing by the NCMF, thus:
 
 > SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists: x x x
 >
@@ -107,11 +112,11 @@ FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
 [^1]: Tags: lawful processing; legitimate interest; data privacy principles.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: An Act Creating the National Commission on Muslim Filipinos Defining its Powers, Functions and Responsibilities and Appropriation Funds Therefor and for other purposes [National Commission on Muslim Filipinos Act of 2009], Republic Act No. 9997, § 4 (2009).
-[^4]: Data Privacy Act of 2012, § 4.
-[^5]: *Id.* § 3 (g).
-[^6]: *Id.* § 3 (j).
-[^7]: *Id.* § 11.
+[^4]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
+[^5]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]].
+[^6]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (j)]].
+[^7]: *Id.* [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
 [^8]: Chavez v. National Housing Authority, 530 SCRA 235 (2007).
 [^9]: E.g., posting in their website or other appropriate platforms the NCMF or Hajj Attaché’s contact details, address, updates, and announcements.

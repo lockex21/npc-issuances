@@ -60,7 +60,7 @@ On 07 June 2022, PUP submitted its Compliance dated 03 June 2022.[^9] It expound
 
 Finally, PUP claimed that its "[a]ffected data subjects were prompted through the Student Information System (SIS) to change their SIS passwords before they can access the SIS. They were also advised to take other important measures to ensure that their account is secured" and attached a screenshot of the notification prompt contained in the SIS page.[^11]
 
-NPC Circular 16-03 (Personal Data Breach Management) provides that a Personal Information Controller (PIC), upon knowledge of or when there is reasonable belief that a personal data breach requiring notification has occurred, is required to notify the affected data subjects within seventy-two (72) hours:
+[[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]] provides that a Personal Information Controller (PIC), upon knowledge of or when there is reasonable belief that a personal data breach requiring notification has occurred, is required to notify the affected data subjects within seventy-two (72) hours:
 
 > Section 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -151,13 +151,13 @@ GENERAL RECORDS UNIT
 [^9]: In re: Polytechnic University of the Philippines, 03 June 2022, in In re: Polytechnic University of the Philippines, NPC BN 18-222 (NPC 2022).
 [^10]: Id. at 2.
 [^11]: Id. at 3-4.
-[^12]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
+[^12]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 03, Series of 2016]] [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
 [^13]: NPC BN 21-035, 01 June 2021, at 4 (NPC 2021) (unreported).
-[^14]: NPC Circ. No. 16-03, § 18 (A).
+[^14]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 18 (A).
 [^15]: NPC BN 20-124, 10 September 2020, at 3 (NPC 2020) (unreported). Emphasis supplied.
 [^16]: In re: Polytechnic University of the Philippines, 03 June 2022, at 3-4, in In re: Polytechnic University of the Philippines, NPC BN 18-222 (NPC 2022).
 [^17]: Id. at 4.
-[^18]: NPC Circ. No. 16-03, §§ 18 (C)–(D).
+[^18]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], §§ 18 (C)–(D).
 [^19]: In re: Polytechnic University of the Philippines, 03 June 2022, at 4, in In re: Polytechnic University of the Philippines, NPC BN 18-222 (NPC 2022).
 [^20]: Id. at 2.
 [^21]: Letter of Polytechnic University of the Philippines, 22 November 2018, at 2, in In re: Polytechnic University of the Philippines, NPC BN 18-222 (NPC 2022).

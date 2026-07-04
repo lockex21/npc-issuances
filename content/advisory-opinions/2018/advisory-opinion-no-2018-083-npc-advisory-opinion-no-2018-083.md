@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-083"
+  - "npc advisory opinion no. 2018-083"
+  - "Advisory Opinion No. 2018-083"
+  - "advisory opinion no. 2018-083"
 ---
 
 ## Source
@@ -98,7 +103,7 @@ The processing of personal data by DOH finds support in the DPA. The DOH is a pu
 authority performing regulatory functions, and is permitted to process personal data to the
 extent necessary for the fulfillment of these functions.[^8] DOH also processes personal data
 for research purpose.[^9] Furthermore, DOH may also rely on the provisions of the DPA in
-Sections 12 and 13 providing the criteria for lawful processing of personal information and
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] providing the criteria for lawful processing of personal information and
 sensitive personal information, respectively. For instance, Section 13 provides that the
 processing of sensitive personal information and privileged information shall be prohibited,
 except in the following cases:
@@ -152,11 +157,11 @@ providers, as may be necessary in certain circumstances.
 [^5]: Instituting the Administrative Code of 1987 [Administrative Code of 1987], Executive Order 292, Title IX, § 2 (1987).
 [^6]: Id. Title IX, § 3.
 [^7]: Id. Title IX, §§10, 13-15.
-[^8]: Data Privacy Act of 2012, § 4.
-[^9]: Data Privacy Act of 2012, § 4.
-[^10]: Data Privacy Act of 2012, § 13.
-[^11]: Data Privacy Act of 2012, § 11.
-[^12]: Data Privacy Act of 2012, § 11 (d).
+[^8]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
+[^9]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
+[^10]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13]].
+[^11]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11]].
+[^12]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11 (d)]].
 
 This opinion is rendered based on the information provided. Additional information may
 change the context of the inquiry and the appreciation of the facts.

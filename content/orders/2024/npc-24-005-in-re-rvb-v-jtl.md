@@ -44,7 +44,7 @@ x----------------------------------------------------x
 
 Before the Commission is a Motion for Reconsideration (MR) filed by RVB (Complainant) dated 26 March 2024.
 
-On 24 January 2024, Complainant filed a complaint against Respondent for violation of Section 26 (Access Due to Negligence) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).[^1]
+On 24 January 2024, Complainant filed a complaint against Respondent for violation of [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Access Due to Negligence)]] of Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^1]
 
 Complainant and Respondent were colleagues who worked at the same office.[^2] Complainant alleged that they were "engaged in private conversations through a messaging platform where [they] exchanged sensitive and confidential information."[^3] He further claimed that without obtaining his "explicit consent," Respondent shared screenshots of their conversations to individuals who were not part of their conversation.[^4]
 
@@ -62,7 +62,7 @@ On 08 March 2024, the NPC, through its Legal and Enforcement Office (LEO), issue
 
 In response to the LEO's Decision, Complainant filed an MR dated 26 March 2024.[^19]
 
-The Commission grants Respondent's MR. The LEO misinterpreted the application of Section 1 (3) of Rule IV of the NPC Circular 2021-01 (2021 NPC Rules of Procedure).
+The Commission grants Respondent's MR. The LEO misinterpreted the application of Section 1 (3) of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-iv-pre-investigation-phase|Rule IV]] of the NPC Circular 2021-01 (2021 NPC Rules of Procedure).
 
 Section 1 (3) of Rule IV of the 2021 NPC Rules of Procedure provides:
 
@@ -80,7 +80,7 @@ In this case, the LEO went beyond its authority and performed a function reserve
 
 The LEO's discussion on the supposed presence of a lawful criterion for processing shows that a privacy violation exists. The presence or applicability of a lawful basis to process is a matter for the determination of the Commission En Banc.
 
-Rather than dismissing the complaint, the LEO should have given the complaint due course and directed Respondent to file a verified comment. Section 3 of Rule IV of the 2021 NPC Rules of Procedure provides:
+Rather than dismissing the complaint, the LEO should have given the complaint due course and directed Respondent to file a verified comment. Section 3 of [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-iv-pre-investigation-phase|Rule IV]] of the 2021 NPC Rules of Procedure provides:
 
 > Section 3. Submission of comment. Upon finding that the complaint may be given due course, respondent shall be required to file a verified comment within fifteen (15) calendar days from receipt of the order. A copy of the complaint, together with its supporting evidence, shall be attached to the order to comment. A complaint may be submitted for resolution if respondent does not file a comment within the period provided.[^25]
 
@@ -142,9 +142,9 @@ GENERAL RECORDS UNIT
 [^17]: Decision, 08 March 2024, at 2, in RVB v. JTL, NPC 24-005 (NPC 2024).
 [^18]: Id. at 4.
 [^19]: Motion for Reconsideration, 26 March 2024, in RVB v. JTL, NPC 24-005 (NPC 2024).
-[^20]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], rule IV, § 1 (3) (28 January 2021).
+[^20]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]] [NPC 2021 Rules of Procedure], rule IV, § 1 (3) (28 January 2021).
 [^21]: GSS v. Global Dominion Financing, Inc., [[decisions/2022/npc-21-064-gss-v-global-dominion-financing-inc|NPC 21-064]], 16 June 2022, at 10, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-21-064-2022.06.16-GSS-v.-Global-Dominion-Financing-Inc.-Decision.pdf (last accessed 24 April 2024).
 [^22]: Id. at 10.
 [^23]: Id. at 7.
 [^24]: Decision, 08 March 2024, at 2, in RVB v. JTL, NPC 24-005 (NPC 2024).
-[^25]: NPC 2021 Rules of Procedure, rule IV, § 3. Emphasis supplied.
+[^25]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC 2021 Rules of Procedure]], rule IV, § 3. Emphasis supplied.

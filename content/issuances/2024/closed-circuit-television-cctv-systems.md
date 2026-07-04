@@ -142,7 +142,7 @@ SECTION 5. Safeguards. — PICs and its PIPs shall implement reasonable and appr
 
    5. Video analytics. The same requirements shall apply when processing personal data derived from CCTV systems that utilize video analytics. PICs shall utilize PIAs to assess and minimize potential privacy risks.
 
-   6. Assistance of PIPs. In accordance with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 43 and 44 of the IRR]], PICs should put in place contractual or other reasonable means to ensure the cooperation and assistance of PIPs they have engaged to process personal data on their behalf.
+   6. Assistance of PIPs. In accordance with Sections [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-43-subcontract-of-personal-data|43]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|44 of the IRR]], PICs should put in place contractual or other reasonable means to ensure the cooperation and assistance of PIPs they have engaged to process personal data on their behalf.
 
 **SECTION 6.** ***Data subject request for access.*** Any person whose personal data is recorded on CCTV systems has a right to reasonable access to the same pursuant to [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 of the IRR]].
 
@@ -154,7 +154,7 @@ SECTION 5. Safeguards. — PICs and its PIPs shall implement reasonable and appr
           4. Purpose and manner of the request for access, which should not be contrary to law, morals, or public policy; and
           5. Sufficient details on the requested footage such as the specific date, approximate time, and location, to enable PICs and its PIPs to locate such footage.
 
-   B. Where images of persons other than the requesting data subject appear on the CCTV footage, such as a specific person sought to be identified as part of the request for identification of malefactors for the protection of lawful rights and interests, establishing legal claims, investigation, or law enforcement purposes, Section 12 (f) or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] may apply as the basis for the disclosure.
+   B. Where images of persons other than the requesting data subject appear on the CCTV footage, such as a specific person sought to be identified as part of the request for identification of malefactors for the protection of lawful rights and interests, establishing legal claims, investigation, or law enforcement purposes, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f)]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] may apply as the basis for the disclosure.
 
 **SECTION 7.** ***Third-party access request.*** A third-party access request is a request to access CCTV footage made by a person other than the data subject involved in the footage or the latter’s authorized representative. If a data subject involved in the footage or their authorized representative requests access to CCTV footage, the presence of another person’s
 

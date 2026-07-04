@@ -74,7 +74,7 @@ Lastly, COMELEC claims that since the investigation is on-going and the challeng
 
 This Commission denies the request for an indefinite extension of COMELEC to notify the affected data subjects.
 
-Section 18(B) of NPC Circular 16-03 provides that:
+Section 18(B) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides that:
 
 > **If it is not reasonably possible to notify the data subjects within the prescribed period, the personal information controller shall request the Commission for an exemption from the notification requirement, or the postponement of the notification. A personal information controller may be exempted from the notification requirement where the Commission determines that such notification would not be in the public interest or in the interest of the affected data subjects. The Commission may authorize the postponement of notification where it may hinder the progress of a criminal investigation related to a serious breach, taking into account circumstances provided in Section 13 of this Circular, and other risks posed by the personal data breach.**[^9]
 
@@ -140,6 +140,6 @@ GENERAL RECORDS UNIT
 [^8]: Ibid.
 [^9]: Emphasis supplied.
 [^10]: Supra note 1.
-[^11]: NPC Circular 16-03. Personal Data Breach Management. Dated 15 December 2016.
+[^11]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03. Personal Data Breach Management]]. Dated 15 December 2016.
 [^12]: Emphasis supplied.
 [^13]: Emphasis supplied.

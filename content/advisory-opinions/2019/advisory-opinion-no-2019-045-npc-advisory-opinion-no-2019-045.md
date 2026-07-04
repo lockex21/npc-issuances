@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2019-045 — Confirmation of Death by the Philippine Statistics Authority for Debt Write-off by the Philippine General Hospital"
 description: "Guidance on release of death certificates and sensitive personal information for hospital debt write-off procedures."
+aliases:
+  - "NPC Advisory Opinion No. 2019-045"
+  - "npc advisory opinion no. 2019-045"
+  - "Advisory Opinion No. 2019-045"
+  - "advisory opinion no. 2019-045"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -27,7 +32,7 @@ We write in response to your e-mail received by the National Privacy Commission 
 
 ### Discussion
 
-We understand from your e-mail that in order to write-off the hospital's bad debts, the death of the patient owing such must be established. The Commission on Audit (COA) auditor suggested that a certificate issued by the Philippine Statistics Authority (PSA) will be acceptable for the purpose. PGH submitted a preliminary list of possibly deceased persons for the PSA's confirmation but such request was denied by the PSA, citing the Data Privacy Act of 2012[^2] (DPA) as its reason.
+We understand from your e-mail that in order to write-off the hospital's bad debts, the death of the patient owing such must be established. The Commission on Audit (COA) auditor suggested that a certificate issued by the Philippine Statistics Authority (PSA) will be acceptable for the purpose. PGH submitted a preliminary list of possibly deceased persons for the PSA's confirmation but such request was denied by the PSA, citing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) as its reason.
 
 ## Discussion
 
@@ -63,7 +68,7 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: Philippine Statistics Authority, Death Certificate, available at https://psa.gov.ph/civilregistration/requesting-civil-registry-document/death-certificate (last accessed Aug. 27, 2019).
 [^4]: Law on Registry of Civil Status, Act No. 3753, (1930).
 [^5]: Commission on Audit, COA Circular No. 2016-005 (December 19, 2016).

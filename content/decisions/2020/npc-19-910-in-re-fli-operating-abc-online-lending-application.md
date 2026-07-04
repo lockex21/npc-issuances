@@ -36,7 +36,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-This concludes the investigation conducted by the Commission following the Fact-Finding Report prepared by the NPC Task Force on Online Lending Mobile Applications[^1] (Task Force) dated 29 August 2019, which serves as the Complaint (Complaint) pursuant to Rule IV of NPC Circular 16-04.[^2] The Complaint alleged violations of Republic Act (R.A.) 10173 or the Data Privacy Act of 2012 (DPA) by FLI, operating the ABC online lending application.
+This concludes the investigation conducted by the Commission following the Fact-Finding Report prepared by the NPC Task Force on Online Lending Mobile Applications[^1] (Task Force) dated 29 August 2019, which serves as the Complaint (Complaint) pursuant to [[issuances/undated/rules-of-procedure#rule-iv-complaints-of-the-national-privacy-commission|Rule IV of NPC Circular 16-04]].[^2] The Complaint alleged violations of [[laws/data-privacy-act-of-2012|Republic Act (R.A.) 10173 or the Data Privacy Act of 2012 (DPA)]] by FLI, operating the ABC online lending application.
 
 The Complaint summarized its findings with the following
 
@@ -74,7 +74,7 @@ accomplishing this function, the Task Force submitted a fact-finding report on s
 
 lending companies, one of which is the herein Respondents.
 
-NPC Circular 16-04. Rules of Procedure of the National Privacy Commission. Dated 15
+[[issuances/undated/rules-of-procedure|NPC Circular 16-04]]. Rules of Procedure of the National Privacy Commission. Dated 15
 
 December 2016. NPC 19-910
 
@@ -888,7 +888,7 @@ information necessary to perform its functions under this Act;
 
 In the exercise of its rule -making power and to flesh out the provision
 
-above, the NPC issued NPC Circular 16-04 19 on 15 December 2016.
+above, the NPC issued [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] 19 on 15 December 2016.
 
 Section 3 thereof provides who may file complaints with the
 
@@ -1270,7 +1270,7 @@ The DPA provides for lawful criteria to process personal information.
 
 For the subject personal information in this case , the lawful criteria are
 
-found under Section 12 30 and 13 31 of the law.
+found under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] 30 and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] 31 of the law.
 
 Pondo Peso App Preliminary Technical Report, 09 August 2019 .
 
@@ -2303,7 +2303,7 @@ Having established that Respondent FLI has committed Unauthorized
 
 Processing under Section 25 of the DPA , the Commission refers to
 
-Section 34 of the law:
+[[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the law]]:
 
 SEC. 34. Extent of Liability. – If the offender is a corporation,
 
@@ -2864,28 +2864,28 @@ National Privacy Commissio n
 [^14]: Compliance dated 20 February 2020. NPC 19-910
 [^15]: Compliance dated 26 November 2020. NPC 19-910
 [^16]: Answer by Respondents FLI ,ML ,CW , and BSJ dated 15 October 2019 .Page 13 .NPC 19-910
-[^17]: See, RA 10173, Section 7.
-[^18]: See, Id., Section 2.
-[^19]: NPC Circular 16-04. NPC Rules of Procedure. Dated 15 December 2016. NPC 19-910
+[^17]: See, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|RA 10173, Section 7]].
+[^18]: See, [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Id., Section 2]].
+[^19]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04]]. NPC Rules of Procedure. Dated 15 December 2016. NPC 19-910
 [^20]: Ibid, Emphasis supplied. NPC 19-910
 [^21]: Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 . Page 14. NPC 19-910
 [^22]: Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019, page 2. NPC 19-910
-[^23]: NPC Case No. 17 -018, Decision dated 15 July 2019. NPC 19-910
+[^23]: [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC Case No. 17-018]], Decision dated 15 July 2019. NPC 19-910
 [^24]: Answer by Respondents FLI ,ML ,CW , and BSJ dated 15 October 2019 , at 6.
 [^25]: Ibid.
-[^26]: RA 10173, Section 3 ( g)
-[^27]: R.A. 10173, Section 3(l) Sensitive personal information refers to personal information:
-[^28]: R.A. 10173, Section 3(j).
+[^26]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA 10173, Section 3(g)]]
+[^27]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|R.A. 10173, Section 3(l)]] Sensitive personal information refers to personal information:
+[^28]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|R.A. 10173, Section 3(j)]].
 [^33]: Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 at 7 . Emphasis supplied. NPC 19-910
-[^34]: Advisory Opinion 2018 -013. Dated 18 April 2018. Emphasis supplied. NPC 19-910
+[^34]: [[advisory-opinions/2018/advisory-opinion-no-2018-013-npc-advisory-opinion-no-2018-013|Advisory Opinion 2018-013]]. Dated 18 April 2018. Emphasis supplied. NPC 19-910
 [^35]: Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 .Page 11 .
-[^36]: R.A. 10173, Section 3(b). Emphasis supplied.
-[^37]: NPC Case 19 -450. Dated 09 June 2020. NPC 19-910
+[^36]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|R.A. 10173, Section 3(b)]]. Emphasis supplied.
+[^37]: [[decisions/2020/npc-19-450-jrg-v-cxxx|NPC Case 19-450]]. Dated 09 June 2020. NPC 19-910
 [^38]: See, Guidelines on transparency under Regulation 2016/679 of the Article 29 Working Party
 [^39]: Ibid.
 [^40]: Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 , a t 7 .
-[^41]: R.A. 10173, Section 11(d). NPC 19-910
-[^42]: IRR, § 18(c), emphasis supplied. NPC 19-910
+[^41]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|R.A. 10173, Section 11(d)]]. NPC 19-910
+[^42]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|IRR, § 18(c)]], emphasis supplied. NPC 19-910
 [^43]: Fact-Finding Report, at 11 .
 [^44]: Fact-Finding Report, at 3. NPC 19-910
 [^45]: Id .at 4. NPC 19-910
@@ -2898,16 +2898,16 @@ National Privacy Commissio n
 [^52]: See , Transcript p. 8.
 [^53]: See, Transcript at 23 -25.
 [^54]: Fact-Finding Report, Annex B. NPC 19-910
-[^55]: R.A. 10173, Section 21. NPC 19-910
+[^55]: [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|R.A. 10173, Section 21]]. NPC 19-910
 [^56]: Chavez v. JBC, et. al. G.R. 202242. Dated 17 July 2012. NPC 19-910
-[^57]: R.A. 10173, Section 34. Emphasis Supplied. NPC 19-910
+[^57]: [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|R.A. 10173, Section 34]]. Emphasis Supplied. NPC 19-910
 [^58]: Answer by Respondents FLI ,ML, CW, and BSJ dated 15 October 2019 at p. 3.
 [^59]: Fernandez v. O ffice of the Ombudsman, G.R. No. 193983. 14 March 2012. NPC 19-910
 [^60]: Compliance dated 20 February 2020, Annex “C”. Emphasis supplied.
-[^61]: R.A. 10173, Section 14. Emphasis Supplied. NPC 19-910
+[^61]: [[laws/data-privacy-act-of-2012#section-14-subcontract-of-personal-information|R.A. 10173, Section 14]]. Emphasis Supplied. NPC 19-910
 [^62]: Fact-Finding Report, Annex “B”. Emphasis in the original.
 [^63]: See, Transcript at 39.
 [^64]: Compliance dated 26 November 2020, Annex 1. NPC 19-910
 [^65]: Verified Answer dated 4 October 2020, p. 2. NPC 19-910
 [^66]: G.R. No. 164317, February 6, 2006. NPC 19-910
-[^67]: NPC Case No. 19 -605. NPC 19-910
+[^67]: [[resolutions/2021/npc-19-605-gmt-vs-fcash-global-lending-inc-fast-cash|NPC Case No. 19-605]]. NPC 19-910

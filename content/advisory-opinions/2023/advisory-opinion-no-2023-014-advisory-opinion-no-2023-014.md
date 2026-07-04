@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2023"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-014"
+  - "npc advisory opinion no. 2023-014"
+  - "Advisory Opinion No. 2023-014"
+  - "advisory opinion no. 2023-014"
 ---
 
 ## Source
@@ -48,7 +53,7 @@ Thus, you ask the following:
 
 Your company’s intended action of transferring its client list to the new local distributor qualifies as “processing” under the Data Privacy Act (DPA).[^1] On the other hand, the information in your client list (which consists of your clients’ names, addresses, and contact details) is classified as personal information under the law.[^2] Hence, the processing of your company’s client list should therefore be supported by the appropriate basis under the DPA.
 
-The collection of unpaid charges from delinquent customers can be considered as lawful processing of personal information for the purpose of the fulfillment of a contract with the data subject pursuant to Sec. 12 (b) of the DPA. Your intended processing also finds basis under Sec. 12 (f) of the DPA, since both your company and the local electric cooperative have a legitimate interest to ensure that all unpaid accounts and charges are fully settled. As such, your company can provide the local electric cooperative with the list of delinquent customers for proper collection and payment even without the execution of a Data Sharing Agreement (DSA). As provided in Section 8 of NPC Circular 2020-03, the execution of a DSA is no longer mandatory, and the parties may resort to other contractual schemes containing the terms and conditions of the sharing arrangement. Nevertheless, the execution of a DSA is considered as a best practice and a demonstration of accountability by the personal information controllers.
+The collection of unpaid charges from delinquent customers can be considered as lawful processing of personal information for the purpose of the fulfillment of a contract with the data subject pursuant to Sec. 12 (b) of the DPA. Your intended processing also finds basis under Sec. 12 (f) of the DPA, since both your company and the local electric cooperative have a legitimate interest to ensure that all unpaid accounts and charges are fully settled. As such, your company can provide the local electric cooperative with the list of delinquent customers for proper collection and payment even without the execution of a Data Sharing Agreement (DSA). As provided in Section 8 of [[issuances/2020/data-sharing-agreements|NPC Circular 2020-03]], the execution of a DSA is no longer mandatory, and the parties may resort to other contractual schemes containing the terms and conditions of the sharing arrangement. Nevertheless, the execution of a DSA is considered as a best practice and a demonstration of accountability by the personal information controllers.
 
 #### *Privacy Notice; Data Privacy Principle of Transparency.*
 
@@ -88,9 +93,9 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Id. §3 (g).
-[^3]: Id. §18 (a).
-[^4]: Id. § 21.
-[^5]: Id. §11 (e).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id. §3 (g)]].
+[^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Id. §18 (a)]].
+[^4]: [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Id. § 21]].
+[^5]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Id. §11 (e)]].
 [^6]: National Privacy Commission, NPC Advisory Opinion No. 2017-24 (21 June 2017).

@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2022-028 — Request For Copies of Tax Declaration, Certificate of Title, and Tax Clearance of Real Properties"
 description: "Advisory opinion concerning the denial by the City Assessor of a request for copies of tax declarations, certificates of title, and tax clearances citing the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2022-028"
+  - "npc advisory opinion no. 2022-028"
+  - "Advisory Opinion No. 2022-028"
+  - "advisory opinion no. 2022-028"
 tags:
   - issuance
   - type/advisory-opinion
@@ -24,7 +29,7 @@ Re: Request For Copies of Tax Declaration, Certificate of Title, and Tax Clearan
 
 Dear [Redacted],
 
-We respond to your inquiry concerning the denial by the City Assessor of Talisay City of your request to obtain copies of tax declarations, certificates of title, and tax clearances (hereafter collectively referred to as, "Land Documents"), citing Republic Act No. 10173 also known as the Data Privacy Act of 2012 (DPA).[^1]
+We respond to your inquiry concerning the denial by the City Assessor of Talisay City of your request to obtain copies of tax declarations, certificates of title, and tax clearances (hereafter collectively referred to as, "Land Documents"), citing [[laws/data-privacy-act-of-2012|Republic Act No. 10173 also known as the Data Privacy Act of 2012 (DPA)]].[^1]
 
 We draw from your letter that you and your husband are the heirs of individuals who were awarded three (3) parcels of land through the Comprehensive Agrarian Reform Program. In the course of the survey of the properties for the issuance of a Certificate of Land Ownership Award, you found out that they were registered/titled in the name of a certain individual. You thus intend to file the appropriate case to dispute the registration of such properties (e.g., cancellation of title, annotation of *lis pendens*) which precipitated your request for the Land Documents and the consequent denial by the City Assessor.
 
@@ -32,7 +37,7 @@ We draw from your letter that you and your husband are the heirs of individuals 
 
 #### Processing that is necessary for the establishment of legal claims; Section 13 (f)
 
-The DPA applies to all types of processing of personal information subject to certain qualifications.[^2] The disclosure of Land Documents is considered processing of personal information, and therefore must comply with the requirements under the DPA.
+The [[laws/data-privacy-act-of-2012|DPA]] applies to all types of processing of personal information subject to certain qualifications.[^2] The disclosure of Land Documents is considered processing of personal information, and therefore must comply with the requirements under the DPA.
 
 The Land Documents contain various personal and sensitive personal information of the individual owner or administrator such as name, address, and taxpayer identification number (TIN).
 
@@ -65,11 +70,11 @@ On the other hand, a TIN is classified as a sensitive personal information[^3] a
 
 It appears that your request to the Assessor for copies of the Land Documents is necessary for your intended legal action. As such, your request qualifies as processing or disclosure for the establishment of a legal claim under Section 13 (f) of the DPA.
 
-In [NPC Advisory Opinion No. 2019-013](https://privacy.gov.ph) we stated that:
+In [[advisory-opinions/2019/advisory-opinion-no-2019-013-npc-advisory-opinion-no-2019-013|NPC Advisory Opinion No. 2019-013]] we stated that:
 
 > [A]s long as the requestor may properly establish x x x that the document is necessary to the establishment, exercise or defense of a legal claim, the assessor's office may grant the request from persons other than the registered owner without the latter's consent. This is subject to the existing policies, regulations, and procedures of the assessor's office relative to the release of such document, i.e., payment of fees, etc.[^4]
 
-In the case of BGM vs. IPP, citing NPC 17-018 dated 15 July 2019,[^5] the National Privacy Commission's (NPC) further elucidated on the following matters:
+In the case of [[decisions/2020/19-653-bgm-vs-ipp|BGM vs. IPP]], citing [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]] dated 15 July 2019,[^5] the National Privacy Commission's (NPC) further elucidated on the following matters:
 
 - **Processing as necessary for the establishment of legal claims under Section 13 (f) does not require an existing court proceeding.** The ruling provided that: "To require a court proceeding for the application of Section 13 (f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of "establishment … of legal claims" presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established;"
 
@@ -79,7 +84,7 @@ In the case of BGM vs. IPP, citing NPC 17-018 dated 15 July 2019,[^5] the Nation
 
 In addition, the term "establishment" may include activities to obtain evidence by lawful means for prospective court proceedings.[^7] As can be gleaned in the facts provided, your request for copies of the Land Documents is necessary for your intended legal actions.
 
-We note that [NPC Advisory No. 2017-02](https://privacy.gov.ph), which was mentioned in the letter request, is not applicable in this instance. The Advisory only involves requests for personal data sheets of government personnel.
+We note that [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|NPC Advisory No. 2017-02]], which was mentioned in the letter request, is not applicable in this instance. The Advisory only involves requests for personal data sheets of government personnel.
 
 Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
@@ -91,10 +96,10 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN IV
 Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Data Privacy Act of 2012, § 4.
-[^3]: Id. 3 (l): SECTION 3 . Definition of Terms . — Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth: x x x (l) Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
+[^1]: An Act Protecting Individual Personal Information in Information and Communication Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^2]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
+[^3]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|3 (l)]]: SECTION 3 . Definition of Terms . — Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth: x x x (l) Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
 [^4]: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-013-npc-advisory-opinion-no-2019-013|NPC Advisory Opinion No. 2019-013]] (April 1, 2019).
-[^5]: National Privacy Commission, EA and TA v. EJ, EE and HC, NPC Case No. 17-018, available at https://www.privacy.gov.ph/wp-content/uploads/2022/04/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf.
+[^5]: National Privacy Commission, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|EA and TA v. EJ, EE and HC, NPC Case No. 17-018]], available at https://www.privacy.gov.ph/wp-content/uploads/2022/04/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf.
 [^6]: National Privacy Commission, BGM vs. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020) (pages 6-8), available at https://privacy.gov.ph (last accessed 6 January 2023).
-[^7]: National Privacy Commission, NPC Advisory Opinion No. 2021-36 (Sept. 23, 2021) citing National Privacy Commission, NPC 19-653 (Dec. 17, 2020).
+[^7]: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-036-disclosure-of-loan-documents-pursuant-to-a-legal-claim|NPC Advisory Opinion No. 2021-36]] (Sept. 23, 2021) citing National Privacy Commission, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020).

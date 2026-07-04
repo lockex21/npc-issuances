@@ -26,7 +26,7 @@ date: '2017-07-31'
 
 Appendix 1.
 
-Re: Initial determination of the National Privacy Commission on sectors or institutions requiring Registration of Data Processing Systems under Sections 5(C) and 5(D) of NPC Circular 17-01 on the “Registration of Data Processing Systems and Notifications regarding automated decision-making.”
+Re: Initial determination of the National Privacy Commission on sectors or institutions requiring Registration of Data Processing Systems under Sections 5(C) and 5(D) of [[issuances/undated/registration-of-data-processing-systems#rule-ii-registration-of-data-processing-systems|NPC Circular 17-01]] on the “Registration of Data Processing Systems and Notifications regarding automated decision-making.”
 
 The sectors or institutions provided herein that are processing personal data and operating in the country are subject to mandatory registration as provided in Sections 5(C) and 5(D) of NPC Circular 17-01. ALL OTHER PICS OR PIPS SHOULD REGISTER IF IT EMPLOYS AT LEAST 250 PERSONS OR PROCESSING AT LEAST 1,000 RECORDS INVOLVING SENSITIVE PERSONAL INFORMATION.
 

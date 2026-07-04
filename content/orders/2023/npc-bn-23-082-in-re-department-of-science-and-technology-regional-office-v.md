@@ -47,7 +47,7 @@ Lastly, DOST – Region V stated that to avoid further data breaches and losses,
 
 On 08 May 2023, the Commission issued a Minute Resolution with the following dispositive portion:
 
-> Pursuant to Section 17(D) of NPC Circular No. 16-03 (Personal Data Breach Management), the Commission may require additional information, if necessary, for the proper resolution of the request for exemption to notify the affected data subjects.
+> Pursuant to Section 17(D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]], the Commission may require additional information, if necessary, for the proper resolution of the request for exemption to notify the affected data subjects.
 >
 > **WHEREFORE**, premises considered, the Commission hereby **ORDERS** Department of Science and Technology-Regional Office V to **SUBMIT** within five (5) days upon receipt of this Minute Resolution proof to substantiate the request for exemption to notify the affected data subjects.
 >
@@ -59,15 +59,15 @@ To date, DOST – Region V has not yet submitted any proof to substantiate its r
 
 The Commission denies the request for exemption to notify the affected data subjects.
 
-Section 18 (B) of NPC Circular No. 16-03 (Personal Data Breach Management) provides:
+Section 18 (B) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]] provides:
 
 > B. Exemption or Postponement of Notification. If it is not reasonably possible to notify the data subjects within the prescribed period, the personal information controller shall request the Commission for an exemption from the notification requirement, or the postponement of the notification. A personal information controller may be exempted from the notification requirement where the Commission determines that such notification would not be in the public interest or in the interest of the affected data subjects. The Commission may authorize the postponement of notification where it may hinder the progress of a criminal investigation related to a serious breach, taking into account circumstances provided in Section 13 of this Circular, and other risks posed by the personal data breach.[^14] (Emphasis supplied)
 
-Based on the foregoing, the instant case does not fall under any of the circumstances provided in Section 18 (B) of NPC Circular 16-03, which may warrant the exemption of notification to the affected data subjects. It must be noted that a mere assertion that there is no sensitive personal information involved that would likely give rise to a real risk to the affected data subjects without substantiating the same should not be given credence.
+Based on the foregoing, the instant case does not fall under any of the circumstances provided in Section 18 (B) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], which may warrant the exemption of notification to the affected data subjects. It must be noted that a mere assertion that there is no sensitive personal information involved that would likely give rise to a real risk to the affected data subjects without substantiating the same should not be given credence.
 
 To reiterate, DOST – Region V failed to provide any necessary supporting documentation for its request for exemption to notify the affected data subjects when it did not comply with the Commission's Minute Resolution dated 08 May 2023 ordering it to substantiate its request. Additionally, DOST – Region V was given sufficient opportunity to substantiate its request for exemption to notify the affected data subjects, however, it failed to do so.
 
-Further, it must be noted that there was a delay in notification to the Commission of the breach incident. NPC Circular 16-03 (Personal Data Breach Management) Section 17 (A) and (B) provides:
+Further, it must be noted that there was a delay in notification to the Commission of the breach incident. [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]] Section 17 (A) and (B) provides:
 
 > SECTION 17. Notification of the Commission.
 > The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
@@ -78,7 +78,7 @@ Further, it must be noted that there was a delay in notification to the Commissi
 > B. Delay in Notification.
 > Notification may only be delayed to the extent necessary to determine the scope of the breach, to prevent further disclosures, or to restore reasonable integrity to the information and communications system. The personal information controller need not be absolutely certain of the scope of the breach prior to notification. Its inability to immediately secure or restore integrity to the information and communications system shall not be a ground for any delay in notification, if such delay would be prejudicial to the rights of the data subjects. Delay in notification shall not be excused if it is used to perpetuate fraud or to conceal the personal data breach.[^15] (emphasis supplied)
 
-Thus, based on DOST Region V's initial report, it stated that it discovered the incident on 15 March 2023, however, it only notified the Commission on 20 March 2023.[^16] Accordingly, the seventy-two (72) hours time to notify the Commission had already lapsed. Given the foregoing, the Commission finds it necessary to direct DOST Region-V to provide an explanation for its delay in notification to the Commission of the breach incident pursuant to the above-stated provision of NPC Circular No. 16-03.
+Thus, based on DOST Region V's initial report, it stated that it discovered the incident on 15 March 2023, however, it only notified the Commission on 20 March 2023.[^16] Accordingly, the seventy-two (72) hours time to notify the Commission had already lapsed. Given the foregoing, the Commission finds it necessary to direct DOST Region-V to provide an explanation for its delay in notification to the Commission of the breach incident pursuant to the above-stated provision of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].
 
 WHEREFORE, premises considered, this Commission **DENIES** Department of Science and Technology Regional Office V's request for exemption of notification to the affected data subject.
 
@@ -126,6 +126,6 @@ GENERAL RECORDS UNIT
 [^11]: Id.
 [^12]: Id.
 [^13]: In re: Department of Science and Technology Regional Office V, NPC BN 23-082, Minute Resolution dated 08 May 2023, at p. 1.
-[^14]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18(B) (15 December 2016) (NPC Circular 16-03).
-[^15]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 17 (A) (B) (15 December 2016) (NPC Circular 16-03).
+[^14]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18(B) (15 December 2016) (NPC Circular 16-03).
+[^15]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 17 (A) (B) (15 December 2016) (NPC Circular 16-03).
 [^16]: In re: Department of Science and Technology Regional Office V, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), (20 March 2023).

@@ -87,7 +87,7 @@ Whether the Partial MR filed by Respondents should be granted.
 
 The Commission denies the Partial MR.
 
-The Commission notes that Respondents received the Decision on 15 February 2021. Section 4, Rule 8 of the 2021 Rules of Procedure of the National Privacy Commission (NPC Circular No. 21-01) provides:
+The Commission notes that Respondents received the Decision on 15 February 2021. Section 4, Rule 8 of the [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-viii-decision|2021 Rules of Procedure of the National Privacy Commission]] (NPC Circular No. 21-01) provides:
 
 > SECTION 4. Appeal. – The decision of the Commission shall become final and executory fifteen (15) calendar days after receipt of a copy by both parties. One motion for reconsideration may be filed, which shall suspend the running of the said period. Any appeal from the Decision shall be to the proper courts, in accordance with law and rules.[^11]
 
@@ -230,13 +230,13 @@ GENERAL RECORDS UNIT
 [^8]: *Id.*
 [^9]: *Id.*
 [^10]: *Id.*
-[^11]: National Privacy Commission, NPC Circular No. 21-01, "2021 Rules of Procedure of the National Privacy Commission" [NPC Circ. No. 2021-01], Rule VIII, § 4 (28 January 2021).
+[^11]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-viii-decision|NPC Circular No. 21-01, "2021 Rules of Procedure of the National Privacy Commission"]] [NPC Circ. No. 2021-01], Rule VIII, § 4 (28 January 2021).
 [^12]: Verified Answer by KF, JCG, HAD, 04 October 2019, at 2; Partial MR, at 3.
 [^13]: Records, at 165-169.
 [^14]: Records, at 170-177.
 [^15]: Government Services Insurance System v. Prudential Guarantee and Assurance, Inc., Development Bank Of The Philippines And Land Bank Of The Philippines G.R. No. 165585, 20 November 2013.
 [^16]: *Id.*
-[^17]: NPC Circ. No. 2021-01, Rule XII, § 8.
+[^17]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-xii-miscellaneous-provisions|NPC Circ. No. 2021-01, Rule XII, § 8]].
 [^18]: Supreme Court of the Philippines, A.M. No. 19-08-15-SC "2019 Amendments to the 1989 Revised Rules on Evidence" [Rules of Court], Rule 131, § 3 (1 May 2020).
 [^19]: G.R. No. 177780 January 25, 2012 Metropolitan Bank and Trust Co. (Metrobank), represented by RAS v. AOT.
 [^20]: Rules of Court, Rule 131, § 3(q).

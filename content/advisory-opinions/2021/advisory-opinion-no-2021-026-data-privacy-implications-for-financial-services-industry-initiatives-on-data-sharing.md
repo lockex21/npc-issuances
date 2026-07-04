@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2021-026 — Data Privacy Implications For Financial Services Industry Initiatives On Data Sharing"
 description: "Guidance on data sharing among financial institutions for fraud prevention and investigation under data privacy law."
+aliases:
+  - "NPC Advisory Opinion No. 2021-026"
+  - "npc advisory opinion no. 2021-026"
+  - "Advisory Opinion No. 2021-026"
+  - "advisory opinion no. 2021-026"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -106,7 +111,7 @@ required legal claims have already been established.”
             “necessary” to the second instance in Section 13(f) therefore, serves to limit the potentially
             broad concept of “establishment of legal claims” consistent with the general principles of
             legitimate purpose and proportionality. As regards legitimate purpose, the
-            [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the
+            Implementing Rules and Regulations (IRR) of the Data Privacy Act provides that the
             processing of information shall be compatible with a declared and specified purpose
             which must not be contrary to law, morals, or public policy. This means that the
             processing done for the establishment of a legal claim should not in any manner be
@@ -147,8 +152,8 @@ We reiterate our previous pronouncements on the above captioned Advisory Opinion
 to the Credit Card Association of the Philippines in 2019 and 2020 and the Union Bank of the
 Philippines in 2020.
 
-Essentially, fraud investigation may be considered as a legitimate interest under Section 12
-(f), considering the legitimate interests test:
+Essentially, fraud investigation may be considered as a legitimate interest under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12
+(f)]], considering the legitimate interests test:
 
    “First, it must be established that the investigation is strictly for purposes of resolving
           previously committed frauds and preventing possible frauds.
@@ -177,7 +182,7 @@ or banks, or bank transaction details from one bank to another affected bank or 
 money issuer, for purposes of fraud investigation is allowed under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]].
 
 As to the disclosure of such personal information to law enforcement, regulatory, or
-investigative agencies, the same may find basis under Section 12 (c), where processing is
+investigative agencies, the same may find basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c)]], where processing is
 necessary for compliance with a legal obligation, and/or Section 12 (e) on processing that is
 necessary to fulfill functions of public authority which necessarily includes the processing of
 personal data for the fulfillment of its mandate.
@@ -242,13 +247,13 @@ OIC – Director IV, Privacy Policy Office
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 
-[^2]: Data Privacy Act of 2012, § 13 (f) (2012).
+[^2]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13 (f)]] (2012).
 
 [^3]: National Privacy Commission, BGM vs. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
 
-[^4]: National Privacy Commission, BGM vs. IPP [NPC 19-653] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
+[^4]: National Privacy Commission, [[decisions/2020/19-653-bgm-vs-ipp|BGM vs. IPP]] [NPC 19-653] (Dec. 17, 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 9 July 2021).
 
-[^5]: National Privacy Commission, NPC Advisory Opinion No. 2021-017 (June 8, 2021).
+[^5]: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-017-intellectual-property-investigation-and-enforcement-agencies-rights-to-inquiry-and-request-for-personal-information|NPC Advisory Opinion No. 2021-017]] (June 8, 2021).
 
 [^6]: Id.
 
@@ -256,7 +261,7 @@ OIC – Director IV, Privacy Policy Office
 
 [^8]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-063-npc-advisoryopinionno-2017-063|NPC Advisory Opinion No. 2017-063]] (Oct. 9, 2017) citing Article 29 of Directive 95/46/EC "Working document on Blacklists", Adopted on 3 October 2002, available at http://ec.europa.eu/justice/policies/privacy/docs/wpdocs/2002/wp65_en.pdf
 
-[^9]: Data Privacy Act of 2012, § 11 (b).
+[^9]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11 (b)]].
 
 [^10]: Id. § 11 (c).
 

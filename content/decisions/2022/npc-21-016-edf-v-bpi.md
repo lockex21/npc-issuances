@@ -43,7 +43,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by EDF against the Bank of the Philippine Islands (BPI) for a violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by EDF against the Bank of the Philippine Islands (BPI) for a violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -107,7 +107,7 @@ under [[laws/data-privacy-act-of-2012#section-20-security-of-personal-informatio
 
 He maintains that his confidential personal information was breached because BPI was remiss in its mandatory obligation to secure his personal information, which are “under the safekeeping of BPI.”[^27] He also avers that BPI did not exercise the necessary due diligence when it failed to inform him of the dubious Lazada transactions that were charged to his BPI credit card.[^28]
 
-Because of BPI’s supposed failure to safeguard EDF’s personal information, he prays that BPI should be held liable for Section 26 (Accessing of Personal Information and Sensitive Personal Information Due to Negligence), Section 27 (Improper Disposal of Personal Information and Sensitive Personal Information), and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].[^29] He also prays that BPI should be ordered to reverse the Lazada transactions and all other related charges as damages.[^30]
+Because of BPI’s supposed failure to safeguard EDF’s personal information, he prays that BPI should be held liable for [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Accessing of Personal Information and Sensitive Personal Information Due to Negligence)]], [[laws/data-privacy-act-of-2012#section-27-improper-disposal-of-personal-information-and-sensitive-personal-information|Section 27 (Improper Disposal of Personal Information and Sensitive Personal Information)]], and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].[^29] He also prays that BPI should be ordered to reverse the Lazada transactions and all other related charges as damages.[^30]
 
 BPI did not file its Memorandum.
 
@@ -189,7 +189,7 @@ As admitted in his complaint, EDF’s own actions directly resulted in the dispu
 
 The Commission reminds data subjects that they should endeavor to protect their personal data, including bank account numbers, log-in credentials, credit card details, and OTP through email links, text messages or phone calls, to avoid possible risk or harm. As this Commission ruled in CID 17-K-004, “[the] security of personal information is a joint obligation of both the data subjects and data controller or processor. Implementation of a ‘reasonable’ security measure does not mean that the measure is a foolproof [sic] for any contributory negligence on the part of the data subject.”[^46]
 
-EDF’s admission, and the lack of substantial evidence to support his allegations cannot give rise to the conclusion that BPI’s failed to implement security measures and that this supposed failure resulted in the unauthorized transactions. Given the foregoing, the Commission cannot find BPI liable for violating Section 26 (Accessing of Personal Information and Sensitive Personal Information Due to Negligence), Section 27 (Improper Disposal of Personal Information and Sensitive Personal Information), and Section 32 (Unauthorized Disclosure) of the DPA.
+EDF’s admission, and the lack of substantial evidence to support his allegations cannot give rise to the conclusion that BPI’s failed to implement security measures and that this supposed failure resulted in the unauthorized transactions. Given the foregoing, the Commission cannot find BPI liable for violating [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 (Accessing of Personal Information and Sensitive Personal Information Due to Negligence)]], [[laws/data-privacy-act-of-2012#section-27-improper-disposal-of-personal-information-and-sensitive-personal-information|Section 27 (Improper Disposal of Personal Information and Sensitive Personal Information)]], and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32 (Unauthorized Disclosure) of the DPA]].
 
 As to EDF’s prayer on the reversal of the unauthorized transactions, such is beyond the jurisdiction of the Commission.
 
@@ -255,18 +255,18 @@ GENERAL RECORDS UNIT
 [^29]: Id. at 8-9.
 [^30]: Memorandum for the Complainant, 27 December 2021, at 11, in EDF v. Bank of the Philippine Islands, NPC 21-016 (NPC 2021).
 [^31]: Comment, 20 October 2021, at 1-3, in EDF v. Bank of the Philippine Islands, NPC 21-016 (NPC 2021).
-[^32]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], rule IV, § 1 (28 January 2021). Emphasis supplied.
+[^32]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-iv-pre-investigation-phase|2021 Rules of Procedure of the National Privacy Commission]] [NPC 2021 Rules of Procedure], rule IV, § 1 (28 January 2021). Emphasis supplied.
 [^33]: Complaints-Assisted Form, 15 January 2021, at 3-4, in EDF v. Bank of the Philippine Islands, NPC 21-016 (NPC 2021).
 [^34]: Id. Annex.
-[^35]: NPC 2021 Rules of Procedure, rule V, § 1. Emphasis supplied.
+[^35]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-v-preliminary-conference|NPC 2021 Rules of Procedure, rule V, § 1]]. Emphasis supplied.
 [^36]: Producers Bank of the Philippines v. Court of Appeals, G.R. No. 11049 (1998).
 [^37]: See Id.
 [^38]: Complaints-Assisted Form, 15 January 2021, at 3, in EDF v. Bank of the Philippine Islands, NPC 21-016 (NPC 2021).
 [^39]: 2019 Amendment to the 1989 Revised Rules on Evidence, A.M. No. 19-08-15-SC, Rule 131, § 1 (1 May 2020). Emphasis supplied.
-[^40]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (a) (2012).
+[^40]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Republic Act No. 10173 § 20 (a)]] (2012).
 [^41]: Memorandum for the Complainant, 27 December 2021, at 7, in EDF v. Bank of the Philippine Islands, NPC 21-016 (NPC 2021).
 [^42]: BSA Tower Condominium Corp. v. Reyes II, A.C. No. 11944 (2018).
 [^43]: Comment, 20 October 2021, at 1-3, in EDF v. Bank of the Philippine Islands, NPC 21-016 (NPC 2021).
 [^44]: See Comment, 20 October 2021, at 2, in EDF v. Bank of the Philippine Islands, NPC 21-016 (NPC 2021).
 [^45]: See Complaints-Assisted Form, 15 January 2021, at 3-4, in EDF v. Bank of the Philippine Islands, NPC 21-016 (NPC 2021).
-[^46]: CBI v. XXX, CID 17-K-004, 29 September 2020, at 5-6, available at https://www.privacy.gov.ph/wp-content/uploads/2020/12/CID-17-K-004-CBI-v-XXX-Decision-ADJU1.pdf (last accessed 04 April 2022).
+[^46]: [[decisions/2020/09-21-2020-cbi-vs-xxx|CBI v. XXX, CID 17-K-004]], 29 September 2020, at 5-6, available at https://www.privacy.gov.ph/wp-content/uploads/2020/12/CID-17-K-004-CBI-v-XXX-Decision-ADJU1.pdf (last accessed 04 April 2022).

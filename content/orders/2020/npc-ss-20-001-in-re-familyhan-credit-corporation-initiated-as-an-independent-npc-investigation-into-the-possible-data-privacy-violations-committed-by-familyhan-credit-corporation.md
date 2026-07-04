@@ -37,7 +37,7 @@ x----------------------------------------------------x
 
 **ORDER**
 
-This resolves the Recommendations of the National Privacy Commission (NPC)'s Complaints and Investigation Division (CID)[^1] which may be summarized as follows: 1) To initiate an investigation on Familyhan Credit Corporation (Familyhan) and its responsible officers and members of the board, MTR, VBV, JPV, AA, and MDA[^2] for reported violations of Sections 26 and 30 of the Data Privacy Act of 2012 (DPA); 2) To subject Familyhan to the appropriate compliance and enforcement orders; and 3) In the interim, to order the immediate take down of its database from being accessible online.
+This resolves the Recommendations of the National Privacy Commission (NPC)'s Complaints and Investigation Division (CID)[^1] which may be summarized as follows: 1) To initiate an investigation on Familyhan Credit Corporation (Familyhan) and its responsible officers and members of the board, MTR, VBV, JPV, AA, and MDA[^2] for reported violations of [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Sections 26]] and [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|30]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA); 2) To subject Familyhan to the appropriate compliance and enforcement orders; and 3) In the interim, to order the immediate take down of its database from being accessible online.
 
 ### The Facts
 
@@ -85,7 +85,7 @@ Section 7(b) of the DPA specifically states that it is the mandate of the NPC to
 
 > "(b) Receive complaints, institute investigations, facilitate or enable settlement of complaints through the use of alternative dispute resolution processes, adjudicate, award indemnity on matters affecting any personal information, prepare reports on disposition of complaints and resolution of any investigation it initiates, and, in cases it deems appropriate, publicize any such report: *Provided*, That in resolving any complaint or investigation (except where amicable settlement is reached by the parties), the Commission shall act as a collegial body. For this purpose, the Commission may be given access to personal information that is subject of any complaint and to collect the information necessary to perform its functions under this Act;" (Emphasis supplied)
 
-In the exercise of its rule-making power and to flesh out the provision above, the NPC issued NPC Circular 16-04, otherwise known as the Rules of Procedure of the National Privacy Commission (NPC Rules of Procedure) on 15 December 2016. Section 3 thereof provides who may file complaints with the Commission:
+In the exercise of its rule-making power and to flesh out the provision above, the NPC issued [[issuances/undated/rules-of-procedure|NPC Circular 16-04]], otherwise known as the Rules of Procedure of the National Privacy Commission (NPC Rules of Procedure) on 15 December 2016. Section 3 thereof provides who may file complaints with the Commission:
 
 > "SECTION 3. Who may file complaints. – The National Privacy Commission, sua sponte, or persons who are the subject of a privacy violation or personal data breach, or who are otherwise personally affected by a violation of the Data Privacy Act, may file complaints for violations of the Act."
 
@@ -127,7 +127,7 @@ The Report details how the personal and sensitive personal information of more t
 >
 > [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|Section 30 of the DPA]]. Concealment of Security Breaches Involving Sensitive Personal Information – The penalty of imprisonment one (1) year and six (6) months to five (5) years and a fine of not less than Five hundred thousand pesos (Php 500,000.00) but not more than One million pesos (Php 1,000,000.00) shall be imposed on persons who, after having knowledge of a security breach and of the obligation to notify the Commission pursuant to Section 20(f), intentionally or by omission conceals the fact of such security breach.
 
-The Report finds that there is reason to believe that Familyhan should have known or had a reasonable belief that a security breach of their borrowers' personal information occurred; that it has not made the required notification under NPC Circular 16-03 (Personal Data Breach Management); that there is evidence to support a finding of possible negligence for failure to secure the database and prevent unauthorized access; and that it has not registered with this Commission, despite meeting the criteria for mandatory registration.
+The Report finds that there is reason to believe that Familyhan should have known or had a reasonable belief that a security breach of their borrowers' personal information occurred; that it has not made the required notification under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management); that there is evidence to support a finding of possible negligence for failure to secure the database and prevent unauthorized access; and that it has not registered with this Commission, despite meeting the criteria for mandatory registration.
 
 These findings clearly allege a privacy violation or personal data breach, with risks of harm to the data subjects, the situation contemplated in the provision for sua sponte investigation under the NPC Rules of Procedure.
 
@@ -136,7 +136,7 @@ These findings also exhibit that the entity is doing, threatening, or about to d
 WHEREFORE, premises considered, Familyhan Credit Corporation and its responsible officers and members of the board, MTR, VBV, JPV, AA, and MDA are hereby ordered to:
 
 1. File a **COMMENT**, within ten (10) days from receipt of this Order, on the allegations in the attached Fact Finding Report, pursuant to Section 24 of the NPC Rules of Procedure; and
-2. **CEASE AND DESIST** from the processing of personal data on their database until the Commission issues a decision on the submission of the Comment, which shall be made no more than thirty (30) days from the expiration of the period to file a Comment or of the termination of the clarificatory hearing if one is held, pursuant to NPC Circular No. 20-02.
+2. **CEASE AND DESIST** from the processing of personal data on their database until the Commission issues a decision on the submission of the Comment, which shall be made no more than thirty (30) days from the expiration of the period to file a Comment or of the termination of the clarificatory hearing if one is held, pursuant to [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]].
 
 **SO ORDERED.**
 
@@ -188,5 +188,5 @@ GENERAL RECORDS UNIT
 [^7]: *Supra*, note 1.
 [^8]: Preliminary Report dated 03 September 2020.
 [^9]: *Supra*, note 1.
-[^10]: See, RA 10173, Section 7.
+[^10]: See, [[laws/data-privacy-act-of-2012|RA 10173]], [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7]].
 [^11]: See, *Id.*, Section 2.

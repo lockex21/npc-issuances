@@ -8,6 +8,11 @@ tags:
   - topic/consent
   - topic/employment
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-015"
+  - "npc advisory opinion no. 2018-015"
+  - "Advisory Opinion No. 2018-015"
+  - "advisory opinion no. 2018-015"
 ---
 
 ## Source
@@ -67,8 +72,8 @@ Privacy Commissioner and Chairman
 
 [^3]: *Supra* note 1, §3(f).
 
-[^4]: See: Implementing Rules and Regulations (IRR) of Republic Act No. 10173, § 44(b).
+[^4]: See: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|Implementing Rules and Regulations (IRR) of Republic Act No. 10173, § 44(b)]].
 
-[^5]: See: Republic Act No. 10173, § 21(a) and IRR, Rule X.
+[^5]: See: [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Republic Act No. 10173, § 21(a)]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], Rule X.
 
-[^6]: See: Republic Act No. 10173, § 16(a) and (b).
+[^6]: See: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Republic Act No. 10173, § 16(a) and (b)]].

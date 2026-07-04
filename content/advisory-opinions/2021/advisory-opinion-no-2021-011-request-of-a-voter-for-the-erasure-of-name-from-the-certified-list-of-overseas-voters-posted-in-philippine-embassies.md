@@ -7,6 +7,11 @@ tags:
   - "year/2021"
   - "topic/data-subject-rights"
   - "topic/elections"
+aliases:
+  - "NPC Advisory Opinion No. 2021-011"
+  - "npc advisory opinion no. 2021-011"
+  - "Advisory Opinion No. 2021-011"
+  - "advisory opinion no. 2021-011"
 draft: false
 ---
 
@@ -106,7 +111,7 @@ On the matter of the request for deletion of the name from the posted certified 
 voters, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (e) of the DPA]] provides that a data subject has the right to suspend,
 withdraw or order the blocking, removal or destruction of his or her personal information
 from the personal information controller’s filing system in certain instances. This may be read
-together with the right to object under Section 34 (b) of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^7] (IRR) of the DPA.
+together with the right to object under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 (b)]] of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^7] (IRR) of the DPA.
 
 These rights are further clarified in [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] on Data Subject Rights, which
 provides:
@@ -191,4 +196,4 @@ OIC-Director IV, Privacy Policy Office
 [^5]: Vienna Convention on Diplomatic Relations, available at https://legal.un.org/ilc/texts/instruments/english/conventions/9_1_1961.pdf (last accessed 26 March 2021).
 [^6]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-[^8]: National Privacy Commission, NPC Advisory Opinion No. 2021-01, Data Subject Rights.
+[^8]: National Privacy Commission, [[issuances/2021/data-subject-rights|NPC Advisory Opinion No. 2021-01, Data Subject Rights]].

@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
   - topic/data-subject-rights
+aliases:
+  - "NPC Advisory Opinion No. 2018-037"
+  - "npc advisory opinion no. 2018-037"
+  - "Advisory Opinion No. 2018-037"
+  - "advisory opinion no. 2018-037"
 draft: false
 ---
 
@@ -25,7 +30,7 @@ RE: APPLICABILITY OF THE DATA PRIVACY ACT OF 2012 TO PHYSICAL OR ONLINE ARCHIVES
 
 Dear [Redacted],
 
-We write in response to your inquiry received by the National Privacy Commission (NPC) regarding the applicability of Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), to physical or online archives and libraries. Particularly, you are inquiring whether the DPA applies to access to archival records which contain information of deceased individuals as well as church records used for historical research.
+We write in response to your inquiry received by the National Privacy Commission (NPC) regarding the applicability of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), to physical or online archives and libraries. Particularly, you are inquiring whether the DPA applies to access to archival records which contain information of deceased individuals as well as church records used for historical research.
 
 ### Discussion
 
@@ -61,7 +66,7 @@ These provisions should complement the NAP specifically on provisions applicable
 
 #### Deceased Individuals
 
-While the DPA does not explicitly provide for its applicability on personal information of deceased individuals, Section 17 thereof specifically grants the lawful heirs and assigns of the data subject the right to invoke the rights of the data subject at any time after death or when the data subject is incapacitated or incapable of exercising his or her rights. Hence, when personal data of deceased individuals are processed, they are still considered as data subjects and the lawful heirs and assigns may exercise the rights of the deceased as a data subject.
+While the DPA does not explicitly provide for its applicability on personal information of deceased individuals, [[laws/data-privacy-act-of-2012#section-17-transmissibility-of-rights-of-the-data-subject|Section 17]] thereof specifically grants the lawful heirs and assigns of the data subject the right to invoke the rights of the data subject at any time after death or when the data subject is incapacitated or incapable of exercising his or her rights. Hence, when personal data of deceased individuals are processed, they are still considered as data subjects and the lawful heirs and assigns may exercise the rights of the deceased as a data subject.
 
 Consequently, processing of personal information of deceased individuals requires the concomitant responsibility to observe general data privacy principles of transparency, legitimate purpose, and proportionality, as well as the implementation of appropriate security measures as required by the DPA. Note, however, considering the foregoing discussion on processing for historical research, personal information of deceased individuals processed for research purposes may be exempt from the coverage of the DPA.
 
@@ -81,15 +86,15 @@ Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
 [^2]: An Act to Strengthen the System of Management and Administration of Archival Records, Establishing for the Purpose the National Archives of the Philippines, and for other Purposes [NATIONAL ARCHIVES OF THE PHILIPPINES ACT OF 2007], Republic Act No. 9470 (2007).
-[^3]: Republic Act No. 10173, §2.
-[^4]: See: Republic Act No. 10173, §3(j).
-[^5]: Republic Act No. 10173, §11.
-[^6]: *Id.*, §16.
-[^7]: *Id.*, §20.
-[^8]: *Id.*, §4(d).
-[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §5(c) (2016).
+[^3]: [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Republic Act No. 10173, §2]].
+[^4]: See: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173, §3(j)]].
+[^5]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Republic Act No. 10173, §11]].
+[^6]: *Id.*, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§16]].
+[^7]: *Id.*, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§20]].
+[^8]: *Id.*, [[laws/data-privacy-act-of-2012#section-4-scope|§4(d)]].
+[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§5(c)]] (2016).
 [^10]: Maldoff, Gabe. How GDPR changes the rules for research, available at https://iapp.org/news/a/how-gdpr-changes-the-rules-for-research/ (last accessed 16 July 2018).
 [^11]: *Id.*
 [^12]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC [EU GENERAL DATA PROTECTION REGULATION], Recital 50 (2016).
 [^13]: *Id.*
-[^14]: See: Republic Act No. 10173, §11(e).
+[^14]: See: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Republic Act No. 10173, §11(e)]].

@@ -36,7 +36,7 @@ x-------------------------------------x
 
 *LIBORO, P.C.:*
 
-Before this Commission is a breach case involving University of the East (UE) for the violation of Data Privacy Act of 2012 (DPA).
+Before this Commission is a breach case involving University of the East (UE) for the violation of [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -64,7 +64,7 @@ Under circumstances where sensitive personal information or other information ar
 
 > The personal information controller shall promptly notify the Commission and affected data subjects when sensitive personal information or other information that may, under the circumstances, be used to enable identity fraud are reasonably believed to have been acquired by an unauthorized person, and the personal information controller or the Commission believes that such unauthorized acquisition is likely to give rise to a real risk of serious harm to any affected data subject. The notification shall at least describe the nature of the breach, the sensitive personal information possibly involved, and the measures taken by the entity to address the breach. Notification may be delayed only to the extent necessary to determine the scope of the breach, to prevent further disclosures, or to restore reasonable integrity to the information and communications system.
 
-Section 18 of NPC Circular No. 16-03 (Circular) provides for the procedure on which the personal information controller (PIC) must follow in notifying the affected data subjects affected by a personal breach.
+Section 18 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Circular) provides for the procedure on which the personal information controller (PIC) must follow in notifying the affected data subjects affected by a personal breach.
 
 As to the content of notification, the Circular[^2] provides that the notification shall include, but not be limited to:
 
@@ -139,7 +139,7 @@ GENERAL RECORDS UNIT
 
 [^1]: 09 September 2019, Resolution
 
-[^2]: Section 18 (c), NPC Circular 16-03 – Personal Data Breach Management
+[^2]: Section 18 (c), [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 – Personal Data Breach Management]]
 
 [^3]: Section 18 (d) Form. Notification of affected data subjects shall be done individually, using secure means of communication, whether written or electronic. The personal information controller shall take the necessary steps to ensure the proper identity of the data subject being notified, and to safeguard against further unnecessary disclosure of personal data. The personal information controller shall establish all reasonable mechanisms to ensure that all affected data subjects are made aware of the breach: Provided, that where individual notification is not possible or would require a disproportionate effort, the personal information controller may seek the approval of the Commission to use alternative means of notification, such as through public communication or any similar measure through which the data subjects are informed in an equally effective manner: Provided further, that the personal information controller shall establish means through which the data subjects can exercise their rights and obtain more detailed information relating to the breach.
 

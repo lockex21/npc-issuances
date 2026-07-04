@@ -52,7 +52,7 @@ On 13 March 2020, they submitted a sworn Affidavit of Compliance from their Chie
 
 On 3 April 2020, the Enforcement Division issued its findings on the compliance report. Its assessment stated thus:
 
-> Upon reviewing the Compliance Report and Affidavit of Compliance submitted by Manulife on 13 March 2020, as well as its breach notification report submitted on 13 June 2019, we found that the measures undertaken by Manulife Phils. comply with [[laws/data-privacy-act-of-2012|R.A. 10173]] or the Data Privacy Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and NPC Circular 16-03 on Personal Data Breach Management.
+> Upon reviewing the Compliance Report and Affidavit of Compliance submitted by Manulife on 13 March 2020, as well as its breach notification report submitted on 13 June 2019, we found that the measures undertaken by Manulife Phils. comply with [[laws/data-privacy-act-of-2012|R.A. 10173]] or the Data Privacy Act, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] on Personal Data Breach Management.
 >
 > The affidavit of compliance contained a certification as to the notification of affected data subjects as well as assistance provided to them. Moreover, Manulife implemented several measures subsequent to the breach. xxx
 

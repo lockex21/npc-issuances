@@ -7,6 +7,11 @@ tags:
   - year/2018
   - topic/data-sharing
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-062"
+  - "npc advisory opinion no. 2018-062"
+  - "Advisory Opinion No. 2018-062"
+  - "advisory opinion no. 2018-062"
 ---
 
 ## Source
@@ -58,7 +63,7 @@ Data sharing may be allowed under any of the conditions set forth in the DPA and
 
 Note also that data collected from parties other than the data subject for the purpose of research may be allowed when the personal data is publicly available, or has the consent of the data subject, as long as adequate safeguards are in place and no decision directly affecting the data subject will be made on the basis of the data collected or processed.[^11]
 
-Hence, the execution of separate data sharing agreements with both WIPO and First IP, respectively, is highly recommended for the sharing of personal data relating to the pending patent and trademark applicants and inventors to ensure that there are adequate safeguards for data privacy and security implemented by both parties. For proper guidance, please refer to NPC Circular No. 2016-02 – Data Sharing Agreements Involving Government Agencies.
+Hence, the execution of separate data sharing agreements with both WIPO and First IP, respectively, is highly recommended for the sharing of personal data relating to the pending patent and trademark applicants and inventors to ensure that there are adequate safeguards for data privacy and security implemented by both parties. For proper guidance, please refer to [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 2016-02 – Data Sharing Agreements Involving Government Agencies]].
 
 This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts.
 
@@ -74,14 +79,14 @@ Noted by:
 (Sgd.) RAYMOND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173, (2012).
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-[^3]: *Id.*, §5(c).
-[^4]: *Id.*, §18(a).
+[^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [DATA PRIVACY ACT OF 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], (2012).
+[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Republic Act No. 10173]] (2016).
+[^3]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§5(c)]].
+[^4]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§18(a)]].
 [^5]: *Id.*
-[^6]: Data Privacy Act of 2012, §12 (a) and §13 (a).
-[^7]: *Id.* § 3 (I).
+[^6]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12 (a)]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§13 (a)]].
+[^7]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (I)]].
 [^8]: *Id.*
-[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 20 (a).
-[^10]: *Id.* § 20 (b).
-[^11]: *Id.*, § 20 (c).
+[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|§ 20 (a)]].
+[^10]: *Id.* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|§ 20 (b)]].
+[^11]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|§ 20 (c)]].

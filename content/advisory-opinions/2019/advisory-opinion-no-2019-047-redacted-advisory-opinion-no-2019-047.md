@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2019-047 — Document Request From Philhealth in Legal Proceedings"
 description: "Advisory opinion on whether Philhealth may disclose sensitive health information and benefit claim documents to a private lawyer pursuing legal claims against a private corporation."
+aliases:
+  - "NPC Advisory Opinion No. 2019-047"
+  - "npc advisory opinion no. 2019-047"
+  - "Advisory Opinion No. 2019-047"
+  - "advisory opinion no. 2019-047"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -67,7 +72,7 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission and other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3 (l)(2) (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission and other Purposes [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012]], Republic Act No. 10173, § 3 (l)(2) (2012).
 
 [^3]: *Id.* § 13 (f).
 

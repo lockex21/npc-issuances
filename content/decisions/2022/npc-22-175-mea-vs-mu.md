@@ -44,7 +44,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before the Commission is the Complaint filed by MEA (Complainant) against MU (Respondent) for an alleged violation of Sections 31 and 32 of the Data Privacy Act of 2012 or Republic Act No. 10173 ("DPA").
+Before the Commission is the Complaint filed by MEA (Complainant) against MU (Respondent) for an alleged violation of [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Sections 31]] and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 or Republic Act No. 10173 ("DPA")]].
 
 ### Facts
 
@@ -350,20 +350,20 @@ GENERAL RECORDS UNIT
 [^74]: *Id.*
 [^75]: *Id.*
 [^76]: Order dated 09 January 2023.
-[^77]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 31 (2012).
+[^77]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter VIII, [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|§ 31]] (2012).
 [^78]: *Id.*
-[^79]: Data Privacy Act of 2012, chapter I, § 3 (h).
+[^79]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]].
 [^80]: Email submission dated 27 December 2022 of MU.
-[^81]: Data Privacy Act of 2012, chapter II, § 31.
-[^82]: Data Privacy Act of 2012, chapter I, § 3 (j).
-[^83]: Data Privacy Act of 2012, chapter I, § 3 (g).
-[^84]: Data Privacy Act of 2012, chapter VIII, § 31.
+[^81]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter II, [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|§ 31]].
+[^82]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (j)]].
+[^83]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter I, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]].
+[^84]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter VIII, [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|§ 31]].
 [^85]: Email submission dated 27 December 2022 of MEA.
-[^86]: Data Privacy Act of 2012, chapter VIII, § 31.
+[^86]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter VIII, [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|§ 31]].
 [^87]: Email Submission dated 11 November 2022 of MU.
 [^88]: *Adriano v. Lasala*, G.R. No. 197842, [October 9, 2013], 719 PHIL 408-421.
 [^89]: Letter dated 11 November 2022 of MU.
-[^90]: Data Privacy Act of 2012, chapter VIII, § 31.
-[^91]: Data Privacy Act of 2012, chapter IV, § 16 (f).
+[^90]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter VIII, [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|§ 31]].
+[^91]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], chapter IV, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16 (f)]].
 [^92]: An Act to Ordain and Institute the Civil Code of the Philippines [Civil Code of the Philippines], Republic Act No. 386, book IV, chapter 3, § 3, Art. 2221 (1949).
 [^93]: *Id.*

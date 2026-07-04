@@ -43,7 +43,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.:
 
-Before this Commission is a Complaint filed by ECV against CVF for violating Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA).[^1]
+Before this Commission is a Complaint filed by ECV against CVF for violating [[laws/data-privacy-act-of-2012|Republic Act No. 10173, also known as the Data Privacy Act of 2012]] (DPA).[^1]
 
 ### Facts
 
@@ -119,7 +119,7 @@ The Commission dismisses the Complaint for lack of merit.
 
 ECV filed her complaint against CVF on 23 July 2018.[^36] The first event to have allegedly violated her privacy rights happened on 30 November 2017, when CVF stated that she obtained ECV's Marriage Contract from the NSO.[^37] The second relevant event was narrated in her Supplemental Affidavit dated 07 November 2018, when she stated that CVF attached her Marriage Contract in the DepEd Complaint.[^38]
 
-NPC Circular No. 16-04, or the 2016 NPC Rules of Procedure, was the applicable procedural rules at the time of the filing of the complaint. Section 12(c) of the NPC Circular No. 16-04 allows for the outright dismissal of a complaint when it "is filed beyond the period for filing."[^39]
+[[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]], or the 2016 NPC Rules of Procedure, was the applicable procedural rules at the time of the filing of the complaint. Section 12(c) of the NPC Circular No. 16-04 allows for the outright dismissal of a complaint when it "is filed beyond the period for filing."[^39]
 
 Further, this Commission refers to the last paragraph of the aforementioned Circular, viz:
 
@@ -201,7 +201,7 @@ There are three (3) instances wherein Section 13(f) of the DPA is applicable: "(
 
 CVF's submission of ECV's Marriage Contract to the DepEd falls within processing that is necessary for the "establishment, exercise or defense of legal claims."[^61]
 
-As stated in EA and TA vs. EJ, EE and HC:
+As stated in [[decisions/2019/npc-17-018-ea-and-ta-v-ej|EA and TA vs. EJ, EE and HC]]:
 
 > The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is "necessary" or may or may not be collected by lawyers for purposes of building a case, applying the qualifier "necessary" to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of "establishment of legal claims" consistent with the general principles of legitimate purpose and proportionality.[^62]
 
@@ -262,7 +262,7 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes, [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes, [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^2]: Complaints-Assisted Form dated 23 July 2018 of ECV, at page 2.
 [^3]: *Id.*
 [^4]: *Id.*, at pages 2-3.
@@ -303,7 +303,7 @@ GENERAL RECORDS UNIT
 [^39]: National Privacy Commission, Rules of Procedure, NPC Circular No. 16-04, § 12(c) (15 December 2016) (NPC Circular 16-04).
 [^40]: *Id.*, § 4.
 [^41]: *Id.*
-[^42]: Data Privacy Act of 2012, § 3(j).
+[^42]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(j)]].
 [^43]: Supplemental Complaint Affidavit dated 07 November 2018 of ECV, ¶7, at page 1.
 [^44]: *Id.*, ¶11, at page 2.
 [^45]: Responsive Comment dated 07 June 2019 of CVF, ¶3, at pages 1-2.
@@ -314,15 +314,15 @@ GENERAL RECORDS UNIT
 [^50]: See Complaints-Assisted Form dated 23 July 2018 of ECV, at pages 2-3; Supplemental Complaint Affidavit dated 07 November 2018 of ECV, ¶¶ 5 & 8, at pages 1-2; PNP Incident Record Form Entry No. XXX-2 dated 04 December 2017, at page 2.
 [^51]: Certification dated 12 January 2022 of the Department of Education - Region X, Northern Mindanao.
 [^52]: Supplemental Complaint Affidavit dated 07 November 2018 of ECV, ¶ 22, at page 3.
-[^53]: Data Privacy Act of 2012, § 25.
+[^53]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|§ 25]].
 [^54]: NPC 18-077, Decision dated 15 April 2021, at page 6.
 [^55]: Certification dated 12 January 2022 of the Department of Education - Region X, Northern Mindanao.
-[^56]: See Data Privacy Act of 2012, § 3(j).
+[^56]: See [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(j)]].
 [^57]: *Id.*, § 3(l).
 [^58]: NPC 18-077, Decision dated 15 April 2021, at page 6.
-[^59]: Data Privacy Act of 2012, § 13(f).
-[^60]: EA and TA vs. EJ, EE and HC, NPC 17-018, Decision dated 15 July 2019, at page 8.
-[^61]: Data Privacy Act of 2012, § 13(f).
+[^59]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13(f)]].
+[^60]: EA and TA vs. EJ, EE and HC, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]], Decision dated 15 July 2019, at page 8.
+[^61]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13(f)]].
 [^62]: EA and TA vs. EJ, EE and HC, NPC 17-018, Decision dated 15 July 2019, at pages 8-9.
 [^63]: Complaint dated 09 May 2018 of CVF, ¶¶ 5-9, at pages 2-3.
 [^64]: *Id.*, ¶11, at page 3.
@@ -332,15 +332,15 @@ GENERAL RECORDS UNIT
 [^68]: *Id.*, unmarked Annex – Marriage Certificate of RV and EI.
 [^69]: *Id.*, unmarked Annex – Marriage Certificate of RV and ECV.
 [^70]: *Id.*, unmarked Annex – various pictures.
-[^71]: See EA and TA vs. EJ, EE and HC, NPC 17-018, Resolution dated 05 November 2020, at page 3.
-[^72]: Data Privacy Act of 2012, § 11.
+[^71]: See EA and TA vs. EJ, EE and HC, [[resolutions/2020/npc-17-018-in-re-ea-ta-vs-ej-ee-hc|NPC 17-018]], Resolution dated 05 November 2020, at page 3.
+[^72]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
 [^73]: Complaint dated 09 May 2018 of CVF.
 [^74]: *Id.*, ¶ 1, at page 1.
 [^75]: *Id.*, ¶¶ 7-9, at pages 2-3.
 [^76]: *Id.*, ¶ 13, at page 3.
 [^77]: Decision of the Department of Education - Region X, Northern Mindanao dated 23 April 2021, at page 3.
-[^78]: Data Privacy Act of 2012, § 13(f).
+[^78]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13(f)]].
 [^79]: See The Magna Carta for Public School Teachers, Republic Act No. 4670, §§ 7-9 (1966); Department of Education, Revised Rules of Procedure of the Department of Education in Administrative Cases, DepEd Order No. 49, series of 2006, §§ 1, 8-10, 46 (12 December 2006).
 [^80]: Complaint dated 09 May 2018 of CVF, ¶ 2, at page 1.
 [^81]: *Id.*, ¶¶ 14-15, at pages 3-4.
-[^82]: See Data Privacy Act of 2012, §§ 12 & 13.
+[^82]: See [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], §§ [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|12]] & [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]].

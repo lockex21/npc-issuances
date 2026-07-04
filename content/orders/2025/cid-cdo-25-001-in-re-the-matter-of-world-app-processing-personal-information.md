@@ -54,9 +54,9 @@ protection obligations rest.
 This Order resolves the application for the issuance of a Cease and
 Desist Order (hereinafter “CDO”) against Tools for Humanity, arising
 from its data privacy practices and processing of personal data in
-violation of the General Data Privacy Principles under Section 11 and
-the Rights of Data Subjects under Section 16 of Republic Act 10173,
-otherwise known as the Data Privacy Act of 2012 (DPA).
+violation of the [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|General Data Privacy Principles under Section 11]] and
+the [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Rights of Data Subjects under Section 16]] of Republic Act 10173,
+otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 
 ### Facts
@@ -457,7 +457,7 @@ explicitly provided in [[laws/data-privacy-act-of-2012#section-7-functions-of-th
 > security and public interest.[^53] (Emphasis supplied)
 
 
-Section 9 (f)(3) of the Implementing Rules and Regulations of the DPA
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 (f)(3)]] of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the DPA
 (IRR), reiterated the same power of the Commission to issue a Cease
 and Desist Order:
 
@@ -479,7 +479,7 @@ and Desist Order:
 > rights of data subjects;[^54] (Emphasis supplied)
 
 
-In addition, based on Section 4 of NPC Circular No. 20-02[^55] or the Rules
+In addition, based on Section 4 of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]][^55] or the Rules
 on the Issuance of Cease-and-Desist Orders of the National Privacy
 Commission (NPC Circular No. 20-02), for a CDO to be issued, the
 commission or continuance of such act or practice, unless restrained,
@@ -511,7 +511,7 @@ said submission likewise did not contain any proof authorizing DK as
 the signatory to sign and verify any pleadings on behalf of TFH.[^59]
 
 
-Rule IV, Section 9 of the NPC Rules of Procedure[^60] requires that if the
+[[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-iv-pre-investigation-phase|Rule IV, Section 9]] of the NPC Rules of Procedure[^60] requires that if the
 respondent is a juridical person, its representative filing the comment
 must be authorized through a board resolution contained in a duly
 notarized Secretary’s Certificate, or its equivalent for a government
@@ -557,7 +557,7 @@ Comment/Opposition , it cannot be denied that there are apparent
 procedural and formal defects.
 
 
-Section 23 of the NPC Circular No. 20-02 provides that the Rules of
+Section 23 of the [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]] provides that the Rules of
 Court shall apply suppletorily.[^69] Section 4, Rule 7 of the Rules of Court
 provides that a pleading should be verified by an affiant with an
 attached authorization of the affiant to act on behalf of a party:
@@ -647,7 +647,7 @@ criteria and substantive grounds that justify such extraordinary relief.
 #### Substantive grounds for the issuance of a CDO
 
 
-Pursuant to Section 4 of NPC Circular No. 20-02[^75], the issuance of a
+Pursuant to Section 4 of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]][^75], the issuance of a
 CDO requires substantial evidence showing that: (a) the adverse party
 is engaged in, or is about to engage in, an act or practice violative of
 the DPA, its IRR, or related issuances, (b) that such act or practice is
@@ -755,7 +755,7 @@ specific purpose and the data subject accepts such proposal:
 
 
 Moreover, the Commission had the opportunity to enlighten the
-public on this matter in its NPC 19-910 Decision:
+public on this matter in its [[decisions/2020/npc-19-910-in-re-fli-operating-abc-online-lending-application|NPC 19-910 Decision]]:
 
 > [T]he fact that the data subject must agree to a privacy policy or
 > notice fails to meet the requirement of meaningful consent. A
@@ -796,8 +796,7 @@ processes, the data subjects cannot give their specific consent.
 ###### I.B. Consent must be freely given
 
 
-Second, consent must be freely given. Section 7 of NPC Circular
-2023-04 mandates that:
+Second, consent must be freely given. Section 7 of [[issuances/2023/guidelines-on-consent|NPC Circular 2023-04]] mandates that:
 
 > SECTION 7. Freely given. — A data subject must have a genuine
 > choice and control over their decision to consent to the
@@ -809,7 +808,7 @@ Second, consent must be freely given. Section 7 of NPC Circular
 > to exercise free will by the data subject.[^95]
 
 
-The National Privacy Commission Circular No. 2023-0496 provides
+The National Privacy Commission [[issuances/2023/guidelines-on-consent|Circular No. 2023-04]]96 provides
 guidance on the issue of incentivized consent. It clarifies that offering
 benefits to the data subjects and similar actions of a PIC shall not be
 automatically construed as a deceptive method, coercion or
@@ -1070,7 +1069,7 @@ exchange therefor, to wit:
 These circumstances, as presented before the Commission,
 demonstrate that the consent obtained by TFH was not freely given in
 accordance with the requirements of the DPA and the provisions of the
-NPC Circular No. 2023-04, or the Guidelines on Consent.
+[[issuances/2023/guidelines-on-consent|NPC Circular No. 2023-04, or the Guidelines on Consent]].
 
 
 ###### I.C. Consent must be an informed indication of will
@@ -1237,7 +1236,7 @@ government-issued identification cards as sensitive personal
 information.[^138]
 
 
-Section 3(j) of the DPA defines processing as:
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(j) of the DPA]] defines processing as:
 
 > (j) Processing refers to any operation or any set of operations
 > performed upon personal information including, but not limited
@@ -1389,7 +1388,7 @@ Transparency
 
 
 The general privacy principle of transparency requires that the PIC’s
-interest is communicated to the data subject.[^152]
+interest is communicated to the data subject, as [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 of the DPA]] provides.[^152]
 
         SEC. 11. General Data Privacy Principles. – The processing of personal
         information shall be allowed, subject to compliance with the
@@ -1502,7 +1501,7 @@ thereby undermining the principles of transparency required under
 the DPA.
 
 
-Moreover, in accordance with the NPC Circular 2023-04 and Section
+Moreover, in accordance with the [[issuances/2023/guidelines-on-consent|NPC Circular 2023-04]] and Section
 
 
 information, technical jargon, confusing terminologies, double
@@ -1933,7 +1932,7 @@ the DPA. Thus, TFH should be held accountable.
 > which they are collected and processed.[^192] (Emphasis supplied)
 
 
-Section 18 of the IRR also elaborates on legitimate purpose and
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 of the IRR]] also elaborates on legitimate purpose and
 proportionality:
 
 > Section 18. Principles of Transparency, Legitimate Purpose and
@@ -2237,7 +2236,7 @@ failed to disclose these rights in their key documents.
 
 Second, the Commission finds that TFH’s Privacy Notice[^222] and
 Biometric Consent Form[^223] failed to meet the standards set forth under
-NPC Circular No. 2023-04. The non-compliance to NPC Circular No. 2023-04 is evident and proven by the Witness Affidavits of TFH’s data
+[[issuances/2023/guidelines-on-consent|NPC Circular No. 2023-04]]. The non-compliance to NPC Circular No. 2023-04 is evident and proven by the Witness Affidavits of TFH’s data
 
 
 subjects (Witness Affidavits)[^224] to wit: 1) data subjects admitted to not
@@ -2446,7 +2445,7 @@ rights of the data subjects.
 
 
 Consistent with the CID’s Comment dated 18 August 2025, this section
-satisfies the requisites under Section 7 (c) of the DPA and NPC Circular No. 20-02 for the issuance of a CDO. TFH’s grave and serious
+satisfies the requisites under [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 (c) of the DPA]] and [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]] for the issuance of a CDO. TFH’s grave and serious
 
 
 violations of the DPA, its IRR, and other related issuances warrant the
@@ -2522,7 +2521,7 @@ with the DPA, its IRR, and related issuances, poses a continuing risk
 to the rights of the data subjects. Consequently, the risks and harm
 associated to the processing of TFH necessitate the Commission to
 preserve and protect the rights of the data subjects through the
-issuance of a CDO pursuant to NPC Circular No. 20-02.[^248]
+issuance of a CDO pursuant to [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]].[^248]
 
 
 ##### II. Detrimental to public interest
@@ -2761,7 +2760,7 @@ Filipinos registered in the World App and verified through the Orb
 and to SUBMIT all the locations where they are currently operating.
 
 
-Further, in accordance with Section 9 of NPC Circular No. 20-02, TFH
+Further, in accordance with Section 9 of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]], TFH
 is hereby ORDERED to SUBMIT a comment on the Order and to file
 the same within ten (10) days from receipt hereof.
 
@@ -2862,13 +2861,13 @@ GENERAL RECORDS UNIT
 [^51]: CID Comment, 18 August 2025.
 [^52]: Id.
 [^53]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section
-[^54]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, Section 9 (f)(3), Rule III (2012).
-[^55]: NPC Circular No. 20-02, Rules on the issuance of Cease and Desist Orders, dated 06 October 2020.
+[^54]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 (f)(3)]], Rule III (2012).
+[^55]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02, Rules on the issuance of Cease and Desist Orders]], dated 06 October 2020.
 [^56]: Minute Resolution issued by the Commission dated 08 May 2025.
 [^57]: Letter dated 19 May 2025 from Tools for Humanity.
 [^58]: Id.
 [^59]: Id.
-[^60]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission, As Amended [2021 NPC Rules of Procedure], Section 9, Rule IV (28 January 2021).
+[^60]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission, As Amended]] [2021 NPC Rules of Procedure], Section 9, Rule IV (28 January 2021).
 [^61]: An Act Providing for the Revised Corporation Code of the Philippines, [Revised Corp. Code of the Philippines], Republic Act No. 11232, Section 22.
 [^62]: Rules of Procedure, A.M. No. 19-10-20-SC, Section 4, Rule 7.
 [^63]: Letter dated 19 May 2025 from Tools for Humanity.
@@ -2877,27 +2876,27 @@ GENERAL RECORDS UNIT
 [^66]:  TFH’s Supplement Comment/Opposition (To the National Privacy Commission [NPC] Complaints and Investigation Division’s [CID] Application for Issuance of Cease-and-desist Order dated 07 May 2025) dated 18 July 2025.
 [^67]: See email from NM dated 30 June 2025 at 12:43 pm.
 [^68]: TFH’s Supplement Comment/Opposition (To the National Privacy Commission [NPC] Complaints and Investigation Division’s [CID] Application for Issuance of Cease-and-desist Order dated 07 May 2025) dated 18 July 2025.
-[^69]: NPC Circular No. 20-02, Rules on the issuance of Cease and Desist Orders, dated 06 October 2020, Section 23.
+[^69]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02, Rules on the issuance of Cease and Desist Orders]], dated 06 October 2020, Section 23.
 [^70]: Section 4, Rule 7 of A.M. No. 19-10-20-SC or the Rules of Court.
 [^71]:  TFH’s Supplement Comment/Opposition (To the National Privacy Commission [NPC] Complaints and Investigation Division’s [CID] Application for Issuance of Cease-and-desist Order dated 07 May 2025) dated 18 July 2025.
-[^72]: NPC Circular No. 20-02, Rules on the issuance of Cease and Desist Orders, dated 06 October 2020, Section 23.
+[^72]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02, Rules on the issuance of Cease and Desist Orders]], dated 06 October 2020, Section 23.
 [^73]: Section 6, Rule 10, A.M. No. 19-10-20-SC or the Rules of Court. Complaints and Investigation Division’s [CID] Application for Issuance of Cease-and-desist Order dated 07 May 2025) dated 18 July 2025.
-[^75]: NPC Circular No. 20-02, Rules on the issuance of Cease and Desist Orders, dated 06 October 2020, Section 4.
+[^75]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02, Rules on the issuance of Cease and Desist Orders]], dated 06 October 2020, Section 4.
 [^76]: TFH Letter Response dated 19 May 2025, at p. 2, in CID CDO 25-001 (NPC 2025).
 [^77]: Id. at p. 3.
 [^78]: Id.
 [^79]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section
 [^80]: See TFH Privacy Notice and World Privacy Notice, Exhibit E, Compliance to the Minute Resolution dated 23 May 2025.
 [^81]: Form ng pahintulot ng biometric data ng World Foundation, Exhibit F, Compliance of TFH the NPC Minute Resolution dated 23 May 2025.
-[^82]: NPC Circular No. 2023-04, Guidelines on Consent dated 07 November 2023, Section 3.
+[^82]: [[issuances/2023/guidelines-on-consent|NPC Circular No. 2023-04, Guidelines on Consent]] dated 07 November 2023, Section 3.
 [^83]: Id. at Section 3 (D.4).
 [^84]: Id.
 [^85]: Id.
 [^86]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section
-[^87]: NPC Circular 2023-04, Guidelines on Consent dated 07 November 2023, Section 8.
+[^87]: [[issuances/2023/guidelines-on-consent|NPC Circular 2023-04, Guidelines on Consent]] dated 07 November 2023, Section 8.
 [^88]: Id. at Section 3 (D)(3)(4).
 [^89]: Id.
-[^90]: In re: FLI, NPC 19-910 (NPC 2020) citing Advisory Opinion 2018-013, dated 18 April 2018.
+[^90]: In re: FLI, [[decisions/2020/npc-19-910-in-re-fli-operating-abc-online-lending-application|NPC 19-910]] (NPC 2020) citing [[advisory-opinions/2018/advisory-opinion-no-2018-013-npc-advisory-opinion-no-2018-013|Advisory Opinion 2018-013]], dated 18 April 2018.
 [^91]: Letter dated 19 May 2025 from Tools for Humanity.
 [^92]: See P. 5, 7 of Annex C-1, Sinumpaang Salaysay, P. 6, 7 Annex C-2, Sinumpaang Salaysay, P. 7, 8, 10 Annex C-4, Sinumpaang Salaysay, P. 6, 9 Annex C-8, Sinumpaang Salaysay, of the Comment submitted by CID dated 18 August 2025, in compliance with the Minute Resolution issued by the Commission dated 04 August 2025.
 [^93]: 23 May 2025 Clarificatory Hearing Transcript, p. 17.
@@ -2925,7 +2924,7 @@ GENERAL RECORDS UNIT
 [^115]: Id.
 [^116]: TFH’s Supplement Comment/Opposition (To the National Privacy Commission [NPC] Complaints and Investigation Division’s [CID] Application for Issuance of Cease-and-desist Order dated 07 May 2025) dated 18 July 2025. Complaints and Investigation Division’s [CID] Application for Issuance of Cease-and-desist Order dated 07 May 2025) dated 18 July 2025, p.4.
 [^118]: ”Sinumpaang Salaysay” executed by JS, dated 01 August 2025, marked as Annex C-7.
-[^119]: NPC Circular No. 2023-04, Guidelines on Consent dated 07 November 2023, Section 9-10.
+[^119]: [[issuances/2023/guidelines-on-consent|NPC Circular No. 2023-04, Guidelines on Consent]] dated 07 November 2023, Section 9-10.
 [^120]: Letter dated 19 May 2025 from Tools for Humanity, at p.3-4.
 [^121]: Id.
 [^122]: See DPIA of TFH on the “Orb Processing” in the Context of the verification of a Proof of Personhood, Exhibit A, at Item G.1, Compliance to the Minute Resolution dated 23 May 2025.
@@ -2942,8 +2941,8 @@ GENERAL RECORDS UNIT
 [^135]: Id. at para. 3.
 [^136]: Id.
 [^137]: See DPIA of TFH on the “Orb Processing” in the Context of the verification of a Proof of Personhood, Exhibit A, at Item G.1, Compliance to the Minute Resolution dated 23 May 2025, p. 4.
-[^138]: Data Privacy Act of 2012, Section 3(l).
-[^139]: Data Privacy Act of 2012, Section 3(j).
+[^138]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l)]].
+[^139]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(j)]].
 [^140]: TFH Letter dated 19 May 2025, p. 7, Compliance to Minute Resolution dated 08 May 2025.
 [^141]: Annex E, E-1 of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated 04 August 2025.
 [^142]: Annex D (4) of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated 04 August 2025.
@@ -2952,16 +2951,16 @@ GENERAL RECORDS UNIT
 [^145]: Clarificatory Hearing on 23 May 2025 Transcript at 17-18.
 [^146]: TFH Privacy Notice, Exhibit E, Compliance to the Minute Resolution dated 23 May 2025 at 1.
 [^147]: Clarificatory Hearing on 23 May 2025 Transcript at 17-18.
-[^148]: Data Privacy Act of 2012, Section 3(j).
+[^148]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(j)]].
 [^149]: Id.
 [^150]: TFH Privacy Notice, Exhibit E, Compliance to the Minute Resolution dated 23 May 2025.
 [^151]: Annex E-1 of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated 04 August 2025.
 [^152]:  An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section
-[^153]: Rules and Regulations Implementing the Data Privacy Act of 2012, Rule IV, Section 18 (a).
+[^153]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 (a)]].
 [^154]: Id.
 [^155]: Id.
 [^156]: Id.
-[^157]: In Re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, dated     16    May     2022,    at    p.   34,   available  at    https://privacy.gov.ph/wp- content/uploads/2024/05/NPC-SS-21-006-2022.05.16-In-re-Wefund-Lending-Corporation- Decision-FinalP.pdf (last accessed 06 September 2025).
+[^157]: In Re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006]], dated     16    May     2022,    at    p.   34,   available  at    https://privacy.gov.ph/wp- content/uploads/2024/05/NPC-SS-21-006-2022.05.16-In-re-Wefund-Lending-Corporation- Decision-FinalP.pdf (last accessed 06 September 2025).
 [^158]: TFH Privacy Notice marked as Exhibit E, Compliance of TFH to the Minute Resolution dated 23 May 2025.
 [^159]: World Privacy Notice marked as Exhibit E, Compliance of TFH to the Minute Resolution dated
 [^160]: TFH Privacy Notice marked as Exhibit E, Item 5.2, Compliance of TFH to the Minute Resolution dated 23 May 2025.
@@ -2997,7 +2996,7 @@ GENERAL RECORDS UNIT
 [^190]:  An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section
 [^191]: Id at Section 3 (i).
 [^192]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section
-[^193]: Rules and Regulations Implementing the Data Privacy Act of 2012, Rule IV, Section 18 (b) (c).
+[^193]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 (b) (c)]].
 [^194]: DPIA of TFH on the “Orb Processing” in the Context of the verification of a Proof of Personhood, Exhibit A, Compliance to the Minute Resolution dated 23 May 2025.
 [^195]: Id.
 [^196]: Id.
@@ -3020,10 +3019,10 @@ GENERAL RECORDS UNIT
 [^214]: Clarificatory Hearing Transcript 23 May 2025, p. 56.
 [^215]: Id.
 [^216]: TFH Letter Response dated 08 June 2025 to Minute Resolution dated 23 May 2025, Item 12 & 13.
-[^217]:  An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 16, Chapter IV (2012).
+[^217]:  An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16]], Chapter IV (2012).
 [^218]: TFH Privacy Notice, Annex E in the Compliance to Minute Resolution dated 23 May 2025.
 [^219]: Form ng pahintulot ng biometric data ng World Foundation, Annex F in the Compliance to Minute Resolution dated 23 May 2025.
-[^220]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 16, Chapter IV (2012).
+[^220]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16]], Chapter IV (2012).
 [^221]: Id.
 [^222]: TFH Privacy Notice, Annex E in the Compliance to Minute Resolution dated 23 May 2025.
 [^223]: Form ng pahintulot ng biometric data ng World Foundation, Annex F in the Compliance to Minute Resolution dated 23 May 2025.
@@ -3046,12 +3045,12 @@ GENERAL RECORDS UNIT
 [^240]: Id.
 [^241]: Biometric Consent Form, Exhibit F, Compliance to the Minute Resolution dated 23 May 2025.
 [^242]: TFH Privacy Notice, Exhibit E, Compliance to the Minute Resolution dated 23 May 2025.
-[^243]: NPC Circular No. 2023-04, Guidelines on Consent dated 07 November 2025 ,Section 13.
+[^243]: [[issuances/2023/guidelines-on-consent|NPC Circular No. 2023-04, Guidelines on Consent]] dated 07 November 2025 ,Section 13.
 [^244]: Clarificatory Hearing dated 23 May 2025 Transcript, p. 20-21; TFH Letter dated 08 June 2025, par. 7, stating that TFH “team is not aware of any recorded instance” of retention of personal data beyond twelve (12) seconds.
 [^245]: See Annex G, at p. 48, Comment submitted by CID dated 18 August 2025.
 [^246]: Comment submitted by CID dated 18 August 2025, p.26, in Compliance to Commission’s Minute Resolution dated 04 August 2025.
 [^247]: Id.
-[^248]: NPC Circular No. 20-02, Rules on the issuance of Cease and Desist Orders, dated 06 October 2020.
+[^248]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02, Rules on the issuance of Cease and Desist Orders]], dated 06 October 2020.
 [^249]: Clarificatory Hearing on 23 May 2025.
 [^250]: TFH Updates to Response dated 08 June 2025, par. 8.
 [^251]: Letter dated 19 May 2025 signed by TFH in relation to CID CDO No. 25-001.

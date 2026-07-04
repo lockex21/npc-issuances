@@ -7,6 +7,11 @@ tags:
   - year/2018
   - topic/data-subject-rights
   - topic/employment
+aliases:
+  - "NPC Advisory Opinion No. 2018-039"
+  - "npc advisory opinion no. 2018-039"
+  - "Advisory Opinion No. 2018-039"
+  - "advisory opinion no. 2018-039"
 draft: false
 ---
 
@@ -26,7 +31,7 @@ RE: RIGHT TO ERASURE IN RELATION TO RETENTION OF PERSONAL INFORMATION
 
 Dear [Redacted],
 
-We write in response to your inquiry requesting for a clarification with regard to [[advisory-opinions/2017/advisory-opinion-no-2017-024-npc-advisoryopinionno-2017-024|NPC Advisory Opinion No. 2017-024]] on retention of personal data under Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA). Specifically, you seek to clarify the following:
+We write in response to your inquiry requesting for a clarification with regard to [[advisory-opinions/2017/advisory-opinion-no-2017-024-npc-advisoryopinionno-2017-024|NPC Advisory Opinion No. 2017-024]] on retention of personal data under [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA). Specifically, you seek to clarify the following:
 
 a. Whether a resigned employee may request that all his personal data kept by the former employer be deleted;
 b. Whether a resigned employee may demand the turnover of the compilation of his personal data under the employer's custody; and
@@ -98,6 +103,6 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
-[^2]: *Id.*, § 16(c).
-[^3]: *Id.*, §11(e).
-[^4]: *Id.*, §11.
+[^2]: *Id.*, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16(c)]].
+[^3]: *Id.*, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§11(e)]].
+[^4]: *Id.*, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§11]].

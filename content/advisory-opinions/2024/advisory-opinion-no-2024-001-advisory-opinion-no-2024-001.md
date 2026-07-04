@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2024
+aliases:
+  - "NPC Advisory Opinion No. 2024-001"
+  - "npc advisory opinion no. 2024-001"
+  - "Advisory Opinion No. 2024-001"
+  - "advisory opinion no. 2024-001"
 draft: false
 ---
 
@@ -59,6 +64,6 @@ FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
 [^2]: § 2(1), Article IX-D, The 1987 Philippine Constitution.
-[^3]: § 4(e), Data Privacy Act of 2012.
-[^4]: § 11(d), Data Privacy Act of 2012.
-[^5]: § 20 (c) (4), Data Privacy Act of 2012.
+[^3]: [[laws/data-privacy-act-of-2012#section-4-scope|§ 4(e)]], Data Privacy Act of 2012.
+[^4]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11(d)]], Data Privacy Act of 2012.
+[^5]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (c) (4)]], Data Privacy Act of 2012.

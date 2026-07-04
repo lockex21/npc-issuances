@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/consent"
+aliases:
+  - "NPC Advisory Opinion No. 2021-014"
+  - "npc advisory opinion no. 2021-014"
+  - "Advisory Opinion No. 2021-014"
+  - "advisory opinion no. 2021-014"
 draft: false
 ---
 
@@ -69,8 +74,8 @@ online:
          unauthorized purposes or are no longer necessary for the purposes for which they were
          collected. x x x.”
 
-As discussed above, data subjects should be able to exercise their rights under the Data
-Privacy Act of 2012[^5] (DPA). Kindly refer to [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] for further guidance
+As discussed above, data subjects should be able to exercise their rights under the [[laws/data-privacy-act-of-2012|Data
+Privacy Act of 2012]][^5] (DPA). Kindly refer to [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] for further guidance
 on this matter.
 
 Finally, we note that based on our records, you were not able to submit the required

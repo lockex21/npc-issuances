@@ -38,7 +38,7 @@ x----------------------------------------------------x
 
 On 05 August 2019, the Commission issued a Resolution containing the following dispositive portion:
 
-> WHEREFORE, all premises considered, it is resolved that there are no notable findings requiring further action from this Commission with regard to the breach subject of the notification, and that the Rosewood Hotel Group be ordered to submit a comprehensive report in compliance with Section 9 of Circular No. 16-03 within thirty (30) days of receipt of this Resolution.
+> WHEREFORE, all premises considered, it is resolved that there are no notable findings requiring further action from this Commission with regard to the breach subject of the notification, and that the Rosewood Hotel Group be ordered to submit a comprehensive report in compliance with Section 9 of [[issuances/undated/personal-data-breach-management|Circular No. 16-03]] within thirty (30) days of receipt of this Resolution.
 
 On 9 September 2019, the Commission received a comprehensive report from the Rosewood Group, containing the additional information required by the Commission, such as:
 

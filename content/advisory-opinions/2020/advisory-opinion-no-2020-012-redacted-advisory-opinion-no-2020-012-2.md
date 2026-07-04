@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2020
+aliases:
+  - "NPC Advisory Opinion No. 2020-012"
+  - "npc advisory opinion no. 2020-012"
+  - "Advisory Opinion No. 2020-012"
+  - "advisory opinion no. 2020-012"
 draft: false
 ---
 
@@ -22,7 +27,7 @@ RE: DISCLOSURE OF INSURANCE POLICY DETAILS TO THE NATIONAL BUREAU OF INVESTIGATI
 
 Dear [Redacted],
 
-We write in response to your letter which sought clarification on whether the disclosure of insurance policies of several government officials to the National Bureau of Investigation (NBI) by the Philippine Life Insurance Association, Inc. (PLIA) in connection with the investigation for graft and corruption being conducted by the NBI is allowed under the Data Privacy Act of 2012[^2] (DPA).
+We write in response to your letter which sought clarification on whether the disclosure of insurance policies of several government officials to the National Bureau of Investigation (NBI) by the Philippine Life Insurance Association, Inc. (PLIA) in connection with the investigation for graft and corruption being conducted by the NBI is allowed under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 We understand that the NBI National Capital Region (NBI-NCR), through a letter signed by the NBI-NCR Regional Director, provided a list of names and dates of birth of certain government officials, and requested for the following details from the Insurance Commission (IC):
 
@@ -45,7 +50,7 @@ From the foregoing, NBI’s request for personal information falls squarely with
 
 #### Processing of personal information by a public authority under the DPA
 
-The NBI is requesting for the details of the insurance policies of several government officials. These constitute personal information, the processing of which should be in accordance with any of the criteria for lawful processing under Section 12 of the DPA. Section 12 (e) provides as follows:
+The NBI is requesting for the details of the insurance policies of several government officials. These constitute personal information, the processing of which should be in accordance with any of the criteria for lawful processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]]. Section 12 (e) provides as follows:
 
 > Section 12. Criteria for Lawful Processing of Personal Information. — The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >

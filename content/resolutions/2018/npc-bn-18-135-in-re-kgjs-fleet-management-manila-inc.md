@@ -73,7 +73,7 @@ Whether KGJS sufficiently addressed the incident and implemented security measur
 
 The Commission resolves to close the matter. KGJS implemented reasonable and appropriate security measures to address the incident. Nonetheless, the incident does not amount to a personal data breach.
 
-Section 3 (F) of NPC Circular 16-03 (Personal Data Breach Management) defines a personal data breach:
+Section 3 (F) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management) defines a personal data breach:
 
 > **Section 3. Definition of Terms.** For the purpose of this Circular, the following terms are defined, as follows:
 >
@@ -176,7 +176,7 @@ GENERAL RECORDS UNIT
 [^26]: Update as of 27 Jul 18 – Security Incident dated 20 Jul 18 of Article/Web Content in Company Website, 27 July 2018, at 1, in In re: KGJS Fleet Management Manila, Inc., NPC BN 18-135 (NPC 2018).
 [^27]: Security Incident dated 20 July 2018 of Article/Web Content in Company Website, 24 July 2018, at 5, in In re: KGJS Fleet Management Manila, Inc., NPC BN 18-135 (NPC 2018).
 [^28]: *Id.* at 6.
-[^29]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], § 3 (F) (15 December 2016).
+[^29]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 3, Series of 2016]] [NPC Circ. No. 16-03], § 3 (F) (15 December 2016).
 [^30]: *Id.*
 [^31]: *See* Adam Hayes, Indeed v. Linked-in: What is the Difference, *available at* https://www.investopedia.com/articles/personal-finance/020215/indeed-vs-linkedin.asp (last accessed November 2023).
 [^32]: *See* About Indeed, *available at* https://ph.indeed.com/about (last accessed January 2023).
@@ -190,7 +190,7 @@ GENERAL RECORDS UNIT
 [^40]: Final Breach Notification Evaluation Report, 21 March 2023, at 5, in In re: KGJS Fleet Management Manila, Inc., NPC BN 18-135 (NPC 2023).
 [^41]: Security Incident dated 20 July 2018 of Article/Web Content in Company Website, 24 July 2018, at 2, in In re: KGJS Fleet Management Manila, Inc., NPC BN 18-135 (NPC 2018).
 [^42]: *Id.*
-[^43]: *See* NPC Circ. No. 16-03.
+[^43]: *See* [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]].
 [^44]: Security Incident dated 20 July 2018 of Article/Web Content in Company Website, 24 July 2018, at 5, in In re: KGJS Fleet Management Manila, Inc., NPC BN 18-135 (NPC 2018).
 [^45]: Full Report as of 30 Jul 18: Security Incident dated 20 Jul 18 of Article/Web Content in Company Website, 30 July 2018, at 1, in In re: KGJS Fleet Management Manila, Inc., NPC BN 18-135 (NPC 2018).
 [^46]: Security Incident dated 20 July 2018 of Article/Web Content in Company Website, 24 July 2018, at 5, in In re: KGJS Fleet Management Manila, Inc., NPC BN 18-135 (NPC 2018).

@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/legitimate-interest"
+aliases:
+  - "NPC Advisory Opinion No. 2020-024"
+  - "npc advisory opinion no. 2020-024"
+  - "Advisory Opinion No. 2020-024"
+  - "advisory opinion no. 2020-024"
 draft: false
 ---
 ## Source
@@ -26,8 +31,8 @@ Dear [Redacted],
 
 We write in response to your letter request on whether the disclosure of the contact
 information of lot buyers/homeowners to the homeowner’s association, for purposes of
-collection of monthly association dues, is allowed under the provisions of the Data Privacy
-Act of 2012[^2] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^3] and relevant issuances of
+collection of monthly association dues, is allowed under the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy
+Act of 2012]][^2] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^3] and relevant issuances of
 the National Privacy Commission (NPC).
 
 In your letter addressed to '''''''''''' ''''''''''''''' '''''' '''''''''''''''''''''' of the Housing and Land Use
@@ -129,9 +134,9 @@ Privacy Commissioner
 [^1]: Tags: contact information; disclosure; legitimate interest.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission and Other Purposes, "Data Privacy Act of 2012" (15 August 2012).
 [^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-[^4]: Data Privacy Act of 2012, § 2 (g).
-[^5]: Id. § 12(f).
-[^6]: See generally, Data Privacy Act of 2012, § 12(f); United Kingdom Information Commissioner’s Office (ICO), What is the ‘Legitimate Interests’ basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
+[^4]: [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Data Privacy Act of 2012, § 2 (g)]].
+[^5]: Id. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12(f)]].
+[^6]: See generally, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12(f)]]; United Kingdom Information Commissioner’s Office (ICO), What is the ‘Legitimate Interests’ basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
 [^7]: United Kingdom Information Commissioner’s Office (ICO), What is the ‘Legitimate Interests’ basis, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed July 13, 2019).
 [^8]: An Act Providing for a Magna Carta for Homeowners and Homeowners’ Associations, and for Other Purposes [Magna Carta for Homeowners and Homeowners’ Associations], Republic Act No. 9904, § 5 (2009).
 [^9]: Id. § 12 (b).

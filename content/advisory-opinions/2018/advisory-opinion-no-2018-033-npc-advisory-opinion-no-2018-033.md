@@ -7,6 +7,11 @@ tags:
   - year/2018
   - topic/consent
   - topic/data-sharing
+aliases:
+  - "NPC Advisory Opinion No. 2018-033"
+  - "npc advisory opinion no. 2018-033"
+  - "Advisory Opinion No. 2018-033"
+  - "advisory opinion no. 2018-033"
 draft: false
 ---
 
@@ -26,7 +31,7 @@ Re: DATA SHARING, CONSENT, AND COMPLIANCE WITH THE DATA PRIVACY ACT OF 2012
 
 Dear [Redacted],
 
-This is in response to your request received by the National Privacy Commission (NPC) concerning various inquiries and clarifications regarding Republic Act No. 10173,[^1] known as the Data Privacy Act of 2012 (DPA), particularly, the following:
+This is in response to your request received by the National Privacy Commission (NPC) concerning various inquiries and clarifications regarding [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] known as the Data Privacy Act of 2012 (DPA), particularly, the following:
 
 1. If two PICs agree to share data with a data sharing agreement signed stating that compliance to the Data Privacy Act will be separate responsibilities, will both PICs be held responsible for a violation committed by only one of them if violation involves the shared data (e.g., non-encryption, processing without consent)?
 
@@ -50,7 +55,7 @@ Where a PIC fails to put in place the security measures required by law, regulat
 
 #### Data Sharing and Consent of the Data Subject
 
-In relation to data sharing arrangement, the DSA or the pertinent contract may stipulate such fact or guarantee that the PIC sharing the personal data has collected or processed such on the basis of any of the criteria for lawful processing of personal and sensitive personal information under Sections 12 and 13 of the DPA, and that the data subject consented to the data sharing, unless consent is not required for the lawful processing of personal data.
+In relation to data sharing arrangement, the DSA or the pertinent contract may stipulate such fact or guarantee that the PIC sharing the personal data has collected or processed such on the basis of any of the criteria for lawful processing of personal and sensitive personal information under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, and that the data subject consented to the data sharing, unless consent is not required for the lawful processing of personal data.
 
 #### Consent
 
@@ -95,6 +100,6 @@ Deputy Privacy Commissioner
 for Policies and Planning
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §3(c).
+[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|§3(c)]].
 [^3]: *Id.*
-[^4]: *Id.* § 19 (a) (1).
+[^4]: *Id.* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|§ 19 (a) (1)]].

@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-045"
+  - "npc advisory opinion no. 2021-045"
+  - "Advisory Opinion No. 2021-045"
+  - "advisory opinion no. 2021-045"
 ---
 
 ## Source
@@ -37,7 +42,7 @@ In the same vein, you brought up the concern that the request may be inconsisten
 
 #### Special Cases Under the DPA; Public Authority
 
-The DPA provides specific kinds of information deemed as special cases, particularly under Section 4 of the law. The situation at hand involves the BIR as a public authority with a regulatory function. We reiterate our position in NPC Advisory Opinion No. 2021-28:[^2]
+The DPA provides specific kinds of information deemed as special cases, particularly under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the law]]. The situation at hand involves the BIR as a public authority with a regulatory function. We reiterate our position in [[advisory-opinions/2021/advisory-opinion-no-2021-028-disclosure-of-personal-information-of-tenants-by-a-condominium-corporation-to-the-bureau-of-internal-revenue|NPC Advisory Opinion No. 2021-28]]:[^2]
 
 > The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for a list of specified information which do not fall within the scope of the law. In particular, information necessary to carry out functions of a public authority are considered special cases under the DPA, to wit:
 >
@@ -98,6 +103,6 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-022-npc-advisory-opinion-no-2019-022|NPC Advisory Opinion No. 2019-022]] (07 May 2019), [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|NPC Advisory Opinion No. 2020-015]] (24 Feb 2020) and NPC Advisory Opinion No. 2021-28 (16 July 2021).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^2]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-022-npc-advisory-opinion-no-2019-022|NPC Advisory Opinion No. 2019-022]] (07 May 2019), [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|NPC Advisory Opinion No. 2020-015]] (24 Feb 2020) and [[advisory-opinions/2021/advisory-opinion-no-2021-028-disclosure-of-personal-information-of-tenants-by-a-condominium-corporation-to-the-bureau-of-internal-revenue|NPC Advisory Opinion No. 2021-28]] (16 July 2021).
 [^3]: Bureau of Internal Revenue, Revenue Memorandum Circular No. 97-2021 [BIR RMC No. 97-2021] (16 Aug 2021).

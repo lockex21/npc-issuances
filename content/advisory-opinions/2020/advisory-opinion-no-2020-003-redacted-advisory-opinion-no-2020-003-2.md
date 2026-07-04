@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2020
   - topic/legitimate-interest
+aliases:
+  - "NPC Advisory Opinion No. 2020-003"
+  - "npc advisory opinion no. 2020-003"
+  - "Advisory Opinion No. 2020-003"
+  - "advisory opinion no. 2020-003"
 draft: false
 ---
 
@@ -23,7 +28,7 @@ Re: INFORMATION ON VEHICLE INGRESS AND EGRESS
 
 Dear [Redacted],
 
-We write in response to your inquiry received by the National Privacy Commission (NPC) seeking to clarify the nature of vehicle ingress and egress information in light of the Data Privacy Act of 2012[^2] (DPA).
+We write in response to your inquiry received by the National Privacy Commission (NPC) seeking to clarify the nature of vehicle ingress and egress information in light of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 We understand from your letter that your company, Serendra Condominium Corporation (SCC), received a letter from one of your residents (“A”) through a certain law office requesting SCC to release the record of ingress and egress of the resident’s vehicle on 23 July 2018 (“Subject Information”). However, as confirmed from your records, A is married to B, the latter also a registered SCC resident. Thus, you opined that the vehicle may be conjugal property and SCC cannot determine who used and was in possession of the car on the said date.
 
@@ -66,6 +71,6 @@ Very truly yours,
 Privacy Commissioner and Chairman
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 3 (g).
-[^4]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on Feb. 12, 2020].
+[^3]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (g).
+[^4]: See generally, [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]] (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on Feb. 12, 2020].
 [^5]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-061-npc-advisory-opinion-no-2018-061|NPC Advisory Opinion No. 2018-061]] (Sept. 6, 2018).

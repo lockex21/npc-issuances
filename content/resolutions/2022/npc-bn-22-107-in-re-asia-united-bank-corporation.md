@@ -99,7 +99,7 @@ The Commission resolves to deny the requests for (1) exemption from notification
 
 The Commission finds that the incident falls within the scope of mandatory breach notification requirement, thus, notification of the affected data subjects is necessary to protect them from the risk of serious harm.
 
-Rule V, Section 11 of NPC Circular No. 16-03 (Personal Data Breach Management) provides:
+Rule V, Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management) provides:
 
 > **SECTION 11. When notification is required.** Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 >
@@ -131,7 +131,7 @@ It is noteworthy that AUB, as Personal Information Controller (PIC) has the obli
 
 AUB justifies its request for exemption by stating that the “notification may cause unnecessary panic to cardholders.”[^31] AUB also stated that “it is not possible to trace who the actual delivery recipients had been other than to confirm whether the cardholders in fact eventually received the delivered credit cards.”[^32] The Commission finds this justification unwarranted since in its full report, AUB was able to furnish this Commission copies of certificates of delivery of the credit cards showing the names of the recipients.[^33]
 
-Rule V, Sections 18 (A) and (B) of NPC Circular No. 16-03 provide:
+Rule V, Sections 18 (A) and (B) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] provide:
 
 > **A. When should notification be done.** The data subjects shall be notified **within seventy-two (72) hours upon knowledge of or reasonable belief by the personal information controller or personal information processor that a personal data breach has occurred.**[^34] (Emphasis supplied)
 
@@ -155,7 +155,7 @@ On the other hand, the full incident report of AUB dated 22 November 2022 does n
 >
 > As such, while unfortunate, AUB deems it unnecessary at this time to inform the Data Subjects on the loss of the delivery receipts. Notifying the Data Subjects of this incident may cause unnecessary panic on the part of the Data Subjects and blow the matter out of proportion, making it appear that the security measures of AUB are lax – although the loss of delivery receipts was accidental and purely attributable on the part of Entrego, a reputable courier. This reputational risk on the part of AUB will cause AUB irreparable harm as a financial institution with good standing, outweighing whatever imagined benefits there are to notifying the Data Subjects on such loss.[^41]
 
-However, this Commission finds that AUB shall submit its Full Breach Report containing the complete information required provided in Section 17(D) of the NPC Circular No. 16-03, including but not limited to the measures to secure/recover personal data and actions
+However, this Commission finds that AUB shall submit its Full Breach Report containing the complete information required provided in Section 17(D) of the [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], including but not limited to the measures to secure/recover personal data and actions
 
 performed or proposed to mitigate possible harm, among others.[^42] In addition, the Commission also finds that AUB must submit proof of security measures it implemented as reported in its Initial Report dated 25 July 2022 and Full Incident Report dated 22 November 2022.
 
@@ -239,7 +239,7 @@ GENERAL RECORDS UNIT
 
 [^21]: DPO-Report NPC dated 22 November 2022 of Asia United Bank Corporation, at p. 2.
 
-[^22]: NPC Circular No. 16-03, Rule V, § 11.
+[^22]: [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]], Rule V, § 11.
 
 [^23]: DPO-Report NPC dated 22 November 2022 of Asia United Bank Corporation, at p. 3.
 
@@ -263,9 +263,9 @@ GENERAL RECORDS UNIT
 
 [^33]: DPO-Report NPC dated 22 November 2022 of Asia United Bank Corporation, at p. 2.
 
-[^34]: NPC Circular 16-03, Rule V, § 18(A).
+[^34]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], Rule V, § 18(A).
 
-[^35]: NPC Circular 16-03, Rule V, § 18(B).
+[^35]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], Rule V, § 18(B).
 
 [^36]: In re: Asia United Bank Corporation, NPC BN 22-107, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), Justification for Exemption.
 
@@ -279,4 +279,4 @@ GENERAL RECORDS UNIT
 
 [^41]: DPO-Report NPC dated 22 November 2022 of Asia United Bank Corporation, at p. 4.
 
-[^42]: NPC Circular 16-03, Rule V, § 17(D).
+[^42]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], Rule V, § 17(D).

@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/government"
+aliases:
+  - "NPC Advisory Opinion No. 2020-026"
+  - "npc advisory opinion no. 2020-026"
+  - "Advisory Opinion No. 2020-026"
+  - "advisory opinion no. 2020-026"
 draft: false
 ---
 ## Source
@@ -24,7 +29,7 @@ Dear [Redacted],
 We write in response to your request for an Advisory Opinion received by the National Privacy
 Commission (NPC) to clarify whether or not the public disclosure of pertinent information of
 beneficiaries of the different government programs related to COVID-19 response is a violation
-of the Data Privacy Act of 2012[^2] (DPA).
+of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 In particular, you seek guidance on the legality of disclosing information involving but not
 limited to the following:
@@ -97,7 +102,7 @@ for the protection of the privacy of persons is an exception to the general rule
 right of access to information.[^7] Thus, informational privacy is recognized and the personal
 information of individuals are protected.
 
-However, the DPA expressly provides under Section 4(c) thereof that information relating to any
+However, the DPA expressly provides under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(c)]] thereof that information relating to any
 discretionary benefit of a financial nature given by the government to an individual, such as
 granting a license or permit, including the name of the individual and the exact nature of the
 benefit, is classified as a special case, where the provisions of the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) do not apply, subject to the qualification that such non-application
@@ -208,7 +213,7 @@ Privacy Commissioner
 [^5]: Office of the President, Operationalizing in the Executive Branch the Constitutional Right to Information and the State Policies of Full Public Disclosure and Transparency in the Public Service and Providing Guidelines Therefor, Executive Order No. 2 [E.O. No. 2] (July 23, 2016).
 [^6]: Office of the President, Inventory of Exceptions to Executive Order No. 2 (S. 2016), Memorandum from the Executive Secretary (Nov. 24, 2016).
 [^7]: Id. No. 4.
-[^8]: Data Privacy Act of 2012, § 4 (c) and Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
-[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c) (2016).
+[^8]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4 (c)]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5]] (2016).
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c)]] (2016).
 [^10]: See: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-019-public-disclosure-of-the-list-of-social-amelioration-program-beneficiaries|NPC Advisory Opinion No. 2020-019]] (April 28, 2020).
 [^11]: See: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC [EU GENERAL DATA PROTECTION REGULATION], Article 4(5) (2016).

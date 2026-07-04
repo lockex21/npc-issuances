@@ -8,6 +8,11 @@ tags:
   - topic/consent
   - topic/data-sharing
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-035"
+  - "npc advisory opinion no. 2019-035"
+  - "Advisory Opinion No. 2019-035"
+  - "advisory opinion no. 2019-035"
 ---
 
 ## Source
@@ -42,7 +47,7 @@ The sharing of personal information shall primarily enable the DHSUD and the KSA
 implement the “one-time availment” policy and to ensure that the limited government allocation
 for housing shall be given to the underprivileged Filipino families.
 
-You now inquire on whether the consent of all beneficiaries or data subjects are required prior to the sharing of their personal data, considering the provisions of the Data Privacy Act of 2012 (DPA), specifically Section 4 (e) thereof.
+You now inquire on whether the consent of all beneficiaries or data subjects are required prior to the sharing of their personal data, considering the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), specifically [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 (e)]] thereof.
 
 ### Discussion
 
@@ -92,7 +97,7 @@ PICs remain to be subject to the requirements of implementing measures to secure
 
 #### Lawful criteria for processing; law and regulation
 
-The DHSUD may also rely on the other provisions of the DPA, particularly Sections 12 and 13
+The DHSUD may also rely on the other provisions of the DPA, particularly [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]]
 which provides for the various criteria for lawful processing of personal and sensitive personal
 information, respectively, i.e. processing is necessary for compliance with a legal obligation,
 processing is provided for by existing laws and regulations, etc.

@@ -45,7 +45,7 @@ opinions, and other matters cognizable by the National Privacy Commission.
 
 SECTION 3. Who may file complaints. – The National Privacy Commission, sua sponte, or
 persons who are the subject of a privacy violation or personal data breach, or who are otherwise
-personally affected by a violation of the Data Privacy Act, may file complaints for violations of
+personally affected by a violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act]], may file complaints for violations of
 the Act.
 
 The person who is the subject of the privacy violation or personal data breach, or his or her duly
@@ -140,7 +140,7 @@ face, or is of such notoriety that it necessarily contains sufficient leads or p
 the taking of further action.
 
 The complaint shall include a brief narration of the material facts and supporting documentary
-and testimonial evidence, all of which show: (a) the violation of the Data Privacy Act or related
+and testimonial evidence, all of which show: (a) the violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act]] or related
 issuances; or (b) the acts or omissions allegedly committed by the respondent amounting to a
 privacy violation or personal data breach. The complaint must include any and all reliefs
 sought by the complainant.
@@ -470,7 +470,7 @@ Commission shall ensure confidentiality of any personal data that comes to its k
 possession, provided that any personal data submitted may be transferred to parties who will
 be contacted during the handling of the case and may be disclosed to agencies who are
 authorized to receive information relating to law enforcement, prosecution or review of the
-Commission's decisions, subject to the Act and related issuances. Information about the case
+Commission's decisions, subject to the [[laws/data-privacy-act-of-2012|Act]] and related issuances. Information about the case
 may also be used for policy development, public education, case reports and publications.
 
 SECTION 32. Application of Rules of Court. – The Rules of Court shall apply in a suppletory

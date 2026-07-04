@@ -9,6 +9,11 @@ tags:
   - topic/legitimate-interest
   - topic/online-lending
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-061"
+  - "npc advisory opinion no. 2018-061"
+  - "Advisory Opinion No. 2018-061"
+  - "advisory opinion no. 2018-061"
 ---
 
 ## Source
@@ -30,7 +35,7 @@ We write in response to your request for an advisory opinion regarding the appli
 
 We understand that HC Consumer Finance Philippines, Inc. (Home Credit) is a financing company whose primary purpose is to extend loans, credits and all types of financial accommodations from its own capital without collateral. To support the loan collection process, the company requires applicants and borrowers to supply at least two (2) character references and their respective contact numbers.
 
-The name and contact information of the character reference are considered personal information, and the processing of such information shall be permitted only if not otherwise prohibited by law, and when at least one of the conditions set by the Section 12 of the DPA is met.
+The name and contact information of the character reference are considered personal information, and the processing of such information shall be permitted only if not otherwise prohibited by law, and when at least one of the conditions set by the [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] is met.
 
 Among the criteria provided in the law for the processing of personal information is when "the processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution."[^2]
 
@@ -50,7 +55,7 @@ We also note Recital 47 of the General Data Protection Regulation (GDPR) which s
 
 Taking into account that the sole purpose of Home Credit in requesting the names and contact numbers of the character references is to ask for additional information about the applicant or borrower, such as new address and/or new contact number of the applicant or borrower, in the event that the latter defaults in his/her loan obligation and can no longer be reached at the contact information he/she provided, the same may be considered as a legitimate interest of Home Credit for verification and fraud prevention.
 
-The NPC may evaluate whether the PIC correctly relied on legitimate interest as the proper basis for the specific processing, taking into consideration the interpretation clause of the DPA under Section 38, and whether the rights of the data subject could be better protected by using the other lawful criteria for processing.
+The NPC may evaluate whether the PIC correctly relied on legitimate interest as the proper basis for the specific processing, taking into consideration the interpretation clause of the DPA under [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38]], and whether the rights of the data subject could be better protected by using the other lawful criteria for processing.
 
 However, taking into consideration the rights of data subjects, it is likewise advisable that moving forward, Home Credit should endeavor to make changes in the processing of loan applications and the terms necessary for the same, i.e. the loan application or contract with the borrower may reflect that the borrower guarantees and certifies that the character references have been informed by the borrower that his or her personal details will be submitted to Home Credit and that he or she consented to the processing of their personal information. It is important to specify that personal information will only be used to achieve the above-mentioned purposes.
 
@@ -78,8 +83,8 @@ Noted by:
 (Sgd.) RAYMOND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
-[^2]: *Id.* §12(f).
+[^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [DATA PRIVACY ACT OF 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
+[^2]: *Id.* [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12(f)]].
 [^3]: See also United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on September 5, 2018] (Anything illegitimate, unlawful or unethical is not a legitimate interest).
 [^4]: See generally, United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on September 5, 2018].
-[^5]: See generally, Data Privacy Act of 2012, § 12(f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on September 5, 2018]; Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC [General Data Protection Regulation] 2016 O.J. (L 119), Recital 47.
+[^5]: See generally, [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12(f)]]; United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on September 5, 2018]; Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC [General Data Protection Regulation] 2016 O.J. (L 119), Recital 47.

@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2019
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-031"
+  - "npc advisory opinion no. 2019-031"
+  - "Advisory Opinion No. 2019-031"
+  - "advisory opinion no. 2019-031"
 ---
 
 ## Source
@@ -25,7 +30,7 @@ Dear [Redacted],
 
 We write in response to your letter request for an advisory opinion on whether St. Luke’s Medical
 Center – Bonifacio Global City (SLMC-BGC) and St. Luke’s Medical Center, Quezon City (SLMC-
-QC) (collectively, SLMC) are allowed under the Data Privacy Act of 2012[^1] (DPA) to provide access
+QC) (collectively, SLMC) are allowed under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) to provide access
 to patient medical records and collection of information from said records by the Department of
 Health (DOH) – Rizal Cancer Registry of the Rizal Medical Center (RMC) and the Philippine
 Cancer Society, Inc. (PCS) – Manila Cancer Registry.

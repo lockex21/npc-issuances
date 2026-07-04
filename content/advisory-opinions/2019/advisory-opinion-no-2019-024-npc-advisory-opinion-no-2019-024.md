@@ -8,6 +8,11 @@ tags:
   - topic/employment
   - topic/legitimate-interest
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-024"
+  - "npc advisory opinion no. 2019-024"
+  - "Advisory Opinion No. 2019-024"
+  - "advisory opinion no. 2019-024"
 ---
 
 ## Source
@@ -47,7 +52,7 @@ The DPA recognizes that journalists process personal and sensitive personal info
 
 In addition, these publishers, editors, or duly accredited reporters, who are considered as personal information controllers (PICs) or personal information processors (PIPs) within the meaning of the DPA, are still bound to follow the law and related issuances with regard to the processing of personal data, upholding rights of their data subjects and maintaining compliance with other provisions that are not incompatible with the protection provided by Republic Act No. 53.[^7]
 
-As to the posting of cases in the Department of Justice (DOJ) website, such processing is allowed under Section 13(b) and (f) above as part of their mandate pursuant to the Administrative Code of 1987[^8] and other applicable laws and regulations on the matter.
+As to the posting of cases in the Department of Justice (DOJ) website, such processing is allowed under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(b) and (f)]] above as part of their mandate pursuant to the Administrative Code of 1987[^8] and other applicable laws and regulations on the matter.
 
 Please note, however, that the said processing is limited only to the minimum extent necessary to achieve the specific purpose, function, or activity of the DOJ, and the agency is not precluded from adhering to the general data privacy principles as well as the requirements of implementing measures to secure and protect personal data.
 
@@ -75,7 +80,7 @@ To reiterate, the DPA has the twin task of protecting the fundamental human righ
 
 It has been the common practice for companies to publish notices in newspapers and other media that a certain person appearing in the photograph used to be their employee, but is now no longer connected with the company, and a warning that transactions with the said person on behalf of the company will no longer be honored.
 
-The above is still allowed under the DPA. The basis for processing may be Section 12(f) which provides for the processing that is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
+The above is still allowed under the DPA. The basis for processing may be [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f)]] which provides for the processing that is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
 
 Legitimate interest refers to matters that are desired by or important to a PIC, which must not be contrary to law, morals or public policy. This includes business, financial or other reasonable purpose. In order to use legitimate interest as basis for lawful processing, PICs must consider the following:[^14]
 

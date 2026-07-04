@@ -90,7 +90,7 @@ As such, it is incumbent upon Edukasyon.ph to implement these security measures 
 
 Given the Complaint that RPR filed before the Commission, the other participants of the online conference may have similar concerns concerning their respective personal information. Even if the names and email addresses were exposed to the participants of the same online conference, prudence dictates that Edukasyon.ph should still notify its data subjects.
 
-Edukasyon.ph should ensure that the notification to its affected data subjects complies with the requirements under Section 18 (C) of NPC Circular No. 16-03 (Personal Data Breach Management):
+Edukasyon.ph should ensure that the notification to its affected data subjects complies with the requirements under Section 18 (C) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management):
 
 > Section 18. Notification of Data Subjects.
 >
@@ -150,8 +150,8 @@ GENERAL RECORDS UNIT
 [^15]: Id.
 [^16]: Email Reply dated 21 October 2019 of RPR, in RPR v. Edukasyon.ph, NPC 19-438 (NPC 2018) (pending).
 [^17]: Id.
-[^18]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 18 (C) (15 December 2016).
-[^19]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (2012).
+[^18]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 18 (C) (15 December 2016).
+[^19]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 § 20 (2012).
 [^20]: Id.
-[^21]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule VI, § 25 (2016).
-[^22]: NPC Circ. No. 16-03, § 18 (C).
+[^21]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|rule VI, § 25]] (2016).
+[^22]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 18 (C).

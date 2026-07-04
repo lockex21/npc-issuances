@@ -51,7 +51,7 @@ For consideration of the Commission is the Motion filed by the respondents PXXX 
 
 ### Discussion
 
-The DPA provides that it is the policy of the State to protect the fundamental human right of privacy.[^1] This policy taken together with the DPA’s interpretation provision that states “[a]ny doubt in the interpretation of any provision of this Act shall be liberally interpreted in a manner mindful of the rights and interest of the individual about whom personal information is processed,” signifies that the protection of the rights of the data subject is considered public interest as contemplated in [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(c) of the DPA]].
+The [[laws/data-privacy-act-of-2012|DPA]] provides that it is the policy of the State to protect the fundamental human right of privacy.[^1] This policy taken together with the DPA’s interpretation provision that states “[a]ny doubt in the interpretation of any provision of this Act shall be liberally interpreted in a manner mindful of the rights and interest of the individual about whom personal information is processed,” signifies that the protection of the rights of the data subject is considered public interest as contemplated in [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(c) of the DPA]].
 
 xxx
 
@@ -159,25 +159,25 @@ ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 National Privacy Commission
 
-[^1]: Data Privacy Act of 2012, Section 2.
+[^1]: [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Data Privacy Act of 2012, Section 2]].
 [^2]: Motion for Reconsideration, p. 3.
 [^3]: *Ibid.*, p. 5.
 [^4]: *Ibid.*, p. 3.
 [^5]: *Ibid.*, p. 3.
 [^6]: G.R. No. 74930 (1989). Emphasis in the original.
 [^7]: Subido v. Ozaeta (1948), G.R. No. L-1631.
-[^8]: Section 7(c).
-[^9]: SEC. 13. *Sensitive Personal Information and Privileged Information.* – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases: (a) The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing; (b) The processing of the same is provided for by existing laws and regulations: *Provided*, That such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: *Provided, further*, That the consent of the data subjects are not required by law or regulation permitting the processing of the sensitive personal information or the privileged information; (c) The processing is necessary to protect the life and health of the data subject or another person, and the data subject is not legally or physically able to express his or her consent prior to the processing; (d) The processing is necessary to achieve the lawful and noncommercial objectives of public organizations and their associations: *Provided*, That such processing is only confined and related to the *bona fide* members of these organizations or their associations: *Provided, further*, That the sensitive personal information are not transferred to third parties: *Provided, finally*, That consent of the data subject was obtained prior to processing; (e) The processing is necessary for purposes of medical treatment, is carried out by a medical practitioner or a medical treatment institution, and an adequate level of protection of personal information is ensured; or (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
+[^8]: [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(c)]].
+[^9]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|SEC. 13. *Sensitive Personal Information and Privileged Information.*]] – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases: (a) The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing; (b) The processing of the same is provided for by existing laws and regulations: *Provided*, That such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: *Provided, further*, That the consent of the data subjects are not required by law or regulation permitting the processing of the sensitive personal information or the privileged information; (c) The processing is necessary to protect the life and health of the data subject or another person, and the data subject is not legally or physically able to express his or her consent prior to the processing; (d) The processing is necessary to achieve the lawful and noncommercial objectives of public organizations and their associations: *Provided*, That such processing is only confined and related to the *bona fide* members of these organizations or their associations: *Provided, further*, That the sensitive personal information are not transferred to third parties: *Provided, finally*, That consent of the data subject was obtained prior to processing; (e) The processing is necessary for purposes of medical treatment, is carried out by a medical practitioner or a medical treatment institution, and an adequate level of protection of personal information is ensured; or (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 [^10]: Motion for Reconsideration, p. 6.
-[^11]: Section 3(b).
-[^12]: NPC Advisory Opinion 2018-063 dated 23 October 2018.
+[^11]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b)]].
+[^12]: [[advisory-opinions/2018/advisory-opinion-no-2018-063-npc-advisory-opinion-no-2018-063|NPC Advisory Opinion 2018-063]] dated 23 October 2018.
 [^13]: *Id.*
 [^14]: Records, pp. 3&5.
 [^15]: Motion for Reconsideration, p. 6.
 [^16]: *Ibid* at p. 7.
 [^17]: *Id.*
 [^18]: Complaint Affidavit, Annex E. Records, p. 34.
-[^19]: See NPC Circular 16-04, § 19. Dated 15 December 2016.
-[^20]: IRR, § 18(c), emphasis supplied.
+[^19]: See [[issuances/undated/rules-of-procedure|NPC Circular 16-04]], § 19. Dated 15 December 2016.
+[^20]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|IRR, § 18(c)]], emphasis supplied.
 [^21]: Records, pp. 190-191. Emphasis supplied.
 [^22]: *Ibid.*, at p. 62.

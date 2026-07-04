@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2024-006 — Conflict of Interest in Appointing a Data Protection Officer"
 description: "Guidance on autonomy and conflict of interest considerations in appointing a Data Protection Officer."
+aliases:
+  - "NPC Advisory Opinion No. 2024-006"
+  - "npc advisory opinion no. 2024-006"
+  - "Advisory Opinion No. 2024-006"
+  - "advisory opinion no. 2024-006"
 tags:
   - "issuance"
   - "type/advisory-opinion"

@@ -12,6 +12,11 @@ tags:
   - topic/data-sharing
   - topic/government
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-018"
+  - "npc advisory opinion no. 2019-018"
+  - "Advisory Opinion No. 2019-018"
+  - "advisory opinion no. 2019-018"
 ---
 
 ## Source
@@ -50,9 +55,9 @@ Hence, it was agreed during the meeting that the committee will seek qualificati
 
 #### Scope of the DPA; response rate to surveys; criteria for lawful processing of personal information
 
-The DPA applies to the processing of all types of personal information[^5] and to any natural and juridical person involved in personal information processing.[^6] In this case, PSA is considered as a personal information controller (PIC) within the purview of the DPA as it controls the collection, holding, processing or use of personal and sensitive personal information (collectively, personal data) during the conduct of surveys.
+The [[laws/data-privacy-act-of-2012|DPA]] applies to the processing of all types of personal information[^5] and to any natural and juridical person involved in personal information processing.[^6] In this case, PSA is considered as a personal information controller (PIC) within the purview of the DPA as it controls the collection, holding, processing or use of personal and sensitive personal information (collectively, personal data) during the conduct of surveys.
 
-The DPA recognizes several criteria for processing personal and sensitive personal information under Sections 12 and 13 thereof, respectively. In the case of PSA, the processing of personal data of respondents may be based on consent, or to fulfill its functions as a public authority, or when processing is provided for under existing laws and regulations.
+The DPA recognizes several criteria for processing personal and sensitive personal information under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] thereof, respectively. In the case of PSA, the processing of personal data of respondents may be based on consent, or to fulfill its functions as a public authority, or when processing is provided for under existing laws and regulations.
 
 We understand that under the Philippine Statistical Act of 2013, there are instances where the National Statistician shall determine whether a survey to be conducted is with or without an obligation to provide information, to wit:
 
@@ -68,7 +73,7 @@ We wish to emphasize that the DPA, its [[laws/implementing-rules-and-regulations
 
 #### General Data Privacy Principles
 
-While the authority of the PSA to process personal data based on its mandate or based on consent is expressly allowed by the DPA, such processing is regulated and should always adhere to the general data privacy principles of transparency, legitimate purpose and proportionality.[^8]
+While the authority of the PSA to process personal data based on its mandate or based on consent is expressly allowed by the [[laws/data-privacy-act-of-2012|DPA]], such processing is regulated and should always adhere to the general data privacy principles of transparency, legitimate purpose and proportionality.[^8]
 
 The principle of transparency refers to the awareness of the data subjects or the respondents regarding the nature, purpose, and extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of the PIC and other recipients of his or her personal data.[^9] The PSA is bound to inform the data subjects, either through a privacy notice or some other mechanism, using clear and plain language for easy understanding.
 
@@ -103,14 +108,14 @@ Privacy Commissioner and Chairman
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: An Act Reorganizing the Philippine Statistical System, Repealing for the Purpose Executive Order Numbered One Hundred Twenty-One, Entitled "Reorganizing and Strengthening the Philippine Statistical System and for Other Purposes [Philippine Statistical Act of 2013], RA 10625, § 5 (2013).
 [^4]: Philippine Statistics Authority, Resolution No. 5, Series of 2015, Article I (March 20, 2015).
-[^5]: Data Privacy Act of 2012, § 3 (g). *Personal information* refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
-[^6]: *Id.* § 4.
+[^5]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]]. *Personal information* refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^6]: *Id.* [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]].
 [^7]: *See:* National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-035-npc-advisory-opinion-no-2018-035|Advisory Opinion No. 2018-035]] (20 July 2018).
-[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (2016).
-[^9]: *Id.* § 18 (a).
-[^10]: *Id.* § 18 (b).
-[^11]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 29 (2016).
-[^12]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 20 (d).
-[^13]: National Privacy Commission, *Data Sharing Agreements Involving Government Agencies*, Circular No. 16-02 [NPC Circular 16-02] (October 10, 2016).
+[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18]] (2016).
+[^9]: *Id.* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (a)]].
+[^10]: *Id.* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (b)]].
+[^11]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-29-appropriate-level-of-security|§ 29]] (2016).
+[^12]: Rules and Regulations Implementing the Data Privacy Act of 2012, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|§ 20 (d)]].
+[^13]: National Privacy Commission, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|*Data Sharing Agreements Involving Government Agencies*, Circular No. 16-02]] [NPC Circular 16-02] (October 10, 2016).
 [^14]: *See:* National Privacy Commission, NPC Advisory Opinion No. 2017-54 (11 September 2017).
 [^15]: *See:* National Privacy Commission, NPC Advisory Opinion No. 2017-52 (11 September 2017).

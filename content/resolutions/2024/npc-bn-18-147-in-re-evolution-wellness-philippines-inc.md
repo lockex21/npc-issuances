@@ -256,7 +256,7 @@ II. Whether Evolution has sufficiently complied with the Order dated 30 May 2023
 
 ### Discussion
 
-The Commission finds that Evolution has sufficiently complied with the Order dated 30 May 2023. Further, the Commission notes that although the matter falls under Mandatory Breach Notification, the affected data subjects were already sufficiently notified in accordance with NPC Circular 16-03 (Personal Data Breach Management), and that Evolution has implemented reasonable and appropriate security measures to address the breach and prevent a recurrence of the incident. As such, the Commission resolves to close the matter.
+The Commission finds that Evolution has sufficiently complied with the Order dated 30 May 2023. Further, the Commission notes that although the matter falls under Mandatory Breach Notification, the affected data subjects were already sufficiently notified in accordance with [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management), and that Evolution has implemented reasonable and appropriate security measures to address the breach and prevent a recurrence of the incident. As such, the Commission resolves to close the matter.
 
 #### I. The breach falls under Mandatory Breach Notification.
 
@@ -280,7 +280,7 @@ Since all the elements are present, the matter falls under Mandatory Breach Noti
 
 #### II. Evolution sufficiently notified the data subjects who were affected by the breach.
 
-Section 18 of NPC Circular 16-03 provides for the required contents and form of the notification to the affected data subjects.
+Section 18 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides for the required contents and form of the notification to the affected data subjects.
 
 > C. Content of Notification. The notification shall include, but not be limited to:
 >
@@ -386,12 +386,12 @@ National Privacy Commission
 [^35]: Id.
 [^36]: Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc.
 [^37]: Id.
-[^38]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 11 [NPC Circ. 16-03] (2016).
+[^38]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 11 [NPC Circ. 16-03] (2016).
 [^39]: Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc.
 [^40]: Attachments to the Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
 [^41]: NPC Circular 16-03, rule V, § 18.
 [^42]: Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
 [^43]: Affidavit of RKH dated 05 June 2023 of Evolution Wellness Philippines, Inc.
-[^44]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter V, § 20 (2012).
+[^44]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter V, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20]] (2012).
 [^45]: Full Incident Report dated 22 October 2022 of Evolution Wellness Philippines, Inc.
 [^46]: Id.

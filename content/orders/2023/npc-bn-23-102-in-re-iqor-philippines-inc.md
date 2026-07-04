@@ -46,7 +46,7 @@ Thus, IQOR requested that the notification to the affected data subjects be made
 
 On 02 May 2023, the Commission issued a Minute Resolution with the following dispositive portion:
 
-> Pursuant to Section 17(D) of NPC Circular No. 16-03 (Personal Data Breach Management), the Commission may require additional information, if necessary, for the proper resolution of the request for the use of alternative means to notify the affected data subjects.
+> Pursuant to Section 17(D) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]], the Commission may require additional information, if necessary, for the proper resolution of the request for the use of alternative means to notify the affected data subjects.
 >
 > **WHEREFORE**, premises considered, the Commission hereby **ORDERS** IQOR Philippines, Inc to **SUBMIT** within five (5) days upon receipt of this Minute Resolution proof to substantiate the request for alternative means to notify the affected data subjects.
 >
@@ -58,7 +58,7 @@ On 13 May 2023, IQOR submitted its compliance to the Minute Resolution issued by
 
 In its compliance, IQOR reiterated how the breach incident transpired and that they were not made aware of the breach until 08 April 2023.[^10] It stated that "GoAnywhere was patched on 07 February 2023. This patch, per Intellicare, prevents any attempt to successfully exploit their systems."[^11] Moreso, IQOR claimed that GoAnywhere has never been deployed for commercial use and that the information exposed are members' names, birthdates, gender, maximum benefit limits, and the relationship of the dependents with their principals.[^12] It also claimed that there is no health-related information or government-issued numbers involved.[^13]
 
-In the same compliance, IQOR asserted that the breach incident occurred on Intellicare's end and that it is indeed a personal controller information (PIC).[^14] Despite that Intellicare is the PIC in the incident, IQOR manifested that "out of abundance of caution and to comply in good faith with NPC Circular 16-03", it reported the breach to the National Privacy Commission (Commission) through the DBNMS.[^15]
+In the same compliance, IQOR asserted that the breach incident occurred on Intellicare's end and that it is indeed a personal controller information (PIC).[^14] Despite that Intellicare is the PIC in the incident, IQOR manifested that "out of abundance of caution and to comply in good faith with [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]", it reported the breach to the National Privacy Commission (Commission) through the DBNMS.[^15]
 
 Accordingly, IQOR stated that the final number of affected data subjects is twenty-two thousand five hundred twenty-nine (22,529) and that data subject notification was initiated on 11 April 2023.[^16]
 

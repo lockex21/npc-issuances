@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+aliases:
+  - "NPC Advisory Opinion No. 2021-012"
+  - "npc advisory opinion no. 2021-012"
+  - "Advisory Opinion No. 2021-012"
+  - "advisory opinion no. 2021-012"
 draft: false
 ---
 
@@ -55,8 +60,8 @@ ng Pilipinas (BSP).[^5]
 
 #### Scope; Data Privacy Act of 2012; personal information; lawful basis for processing
 
-We wish to clarify that the DPA only applies to the processing of personal information. Section
-3 (g) thereof defines personal information as any information from which the identity of an
+We wish to clarify that the DPA only applies to the processing of personal information. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section
+3 (g)]] thereof defines personal information as any information from which the identity of an
 individual is apparent or can reasonably and directly ascertained by the entity holding the
 information, or when put together with other information would directly and certainly
 identify an individual.
@@ -75,13 +80,13 @@ As to the processing of personal information involving the submission of the CRI
 the summary list and billing reports, the DPA provides for the various criteria for lawful
 processing.
 
-For personal information, processing may be allowed subject to the provisions of Section 12.
+For personal information, processing may be allowed subject to the provisions of [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]].
 Particularly in this case, the following may be applicable: Section 12 (c), where the processing
 is necessary for compliance with a legal obligation or Section 12 (e), where processing is
 necessary to fulfill functions of public authority which necessarily includes the processing of
 personal data for the fulfillment of its mandate.
 
-For processing sensitive personal information in the given scenario, Section 13 (b) recognizes
+For processing sensitive personal information in the given scenario, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b)]] recognizes
 the processing that is provided for by existing laws and regulations, while Section 13 (f)
 provides for the processing for the establishment, exercise, or defense of legal claims, or when
 provided to government or public authority.
@@ -257,5 +262,5 @@ OIC-Director IV, Privacy Policy Office
 [^3]: Public Safety Savings and Loan Associations, Inc. About Us, available at https://www.psslai.com/company-information/ (last accessed 13 April 2021).
 [^4]: *Id.*
 [^5]: Bangko Sentral ng Pilipinas, Financial Stability - Directories and Lists, Directory Of Banks and Non-Bank Financial Institutions, available at https://www.bsp.gov.ph/Sitepages/Financialstability/Dirbanksfilist.Aspx (last accessed 16 April 2021).
-[^9]: National Privacy Commission, NPC Circular No. 18-01, Rules of Procedure on Requests for Advisory Opinions.
+[^9]: National Privacy Commission, [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|NPC Circular No. 18-01, Rules of Procedure on Requests for Advisory Opinions]].
 [^10]: *Id.* § 5 (a).

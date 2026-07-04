@@ -9,6 +9,11 @@ tags:
   - "criminal-cases"
   - "disclosure"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-032"
+  - "npc advisory opinion no. 2021-032"
+  - "Advisory Opinion No. 2021-032"
+  - "advisory opinion no. 2021-032"
 ---
 
 ## Source
@@ -29,7 +34,7 @@ Dear [Redacted],
 
 We write in response to your request for advisory opinion received by the National Privacy
 Commission (NPC) to provide guidance on the legality of obtaining photographs of accused
-individuals taking into consideration the provisions of the Data Privacy Act of 20122 (DPA).
+individuals taking into consideration the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 From your letter, we understand that you are a party-in-interest and the counsel of the family
 of the victim in a murder case in 2018. The accused in the criminal case are allegedly members
@@ -77,7 +82,7 @@ personal information. Either way, these photographs are indeed under the coverag
 DPA.
 
 Nevertheless, the law does not absolutely prohibit the disclosure of personal information or
-sensitive personal information. Sections 12 and 13 of the DPA provide the criteria where
+sensitive personal information. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA provide the criteria where
 processing of personal information and sensitive personal information, respectively, are
 allowed.
 
@@ -91,7 +96,7 @@ and proportionality.[^3] As applied in the instant case, we may consider the pho
 accused as sensitive personal information, the lawful criteria for processing of which is found
 under Section 13 of the law.
 
-Particularly, the case at hand may find legal ground under Section 13 (f) which provides: “The
+Particularly, the case at hand may find legal ground under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] which provides: “The
 processing concerns such personal information as is necessary for the protection of lawful
 rights and interests of natural or legal persons in court proceedings, or the establishment,
 exercise or defense of legal claims, or when provided to government or public authority.”
@@ -119,7 +124,7 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC – Director IV, Privacy Policy Office
 
-[^1]: Data Privacy Act of 2012, § 3 (g).
-[^2]: Id. § 3 (l) Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
-[^3]: Data Privacy Act of 2012, § 11.
+[^1]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (g).
+[^2]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (l) Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
+[^3]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
 [^4]: People v. Alapan, G.R. No. 199527, January 10, 2018, citing Bautista v. Cuneta-Pangilinan 698 Phil. 111 (2012).

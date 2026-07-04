@@ -8,6 +8,11 @@ tags:
   - "topic/government"
   - "topic/security"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2021-031"
+  - "npc advisory opinion no. 2021-031"
+  - "Advisory Opinion No. 2021-031"
+  - "advisory opinion no. 2021-031"
 ---
 
 ## Source
@@ -55,7 +60,7 @@ the following:
 
 #### Scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act]]; criteria for lawful processing of personal data; legal obligation
 
-The Data Privacy Act of 2012[^3] (DPA) applies to the processing of personal information,[^4]
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^3] (DPA) applies to the processing of personal information,[^4]
 sensitive personal information,[^5] and privileged information[^6] (collectively, personal data) of
 natural persons by the government and private entities and individuals, within and outside
 the Philippines.
@@ -68,7 +73,7 @@ and partnerships.[^7] Thus, the DPA does not apply to the processing of informat
 pertains to a license issued to a juridical person.
 
 Nevertheless, the processing of personal data in the MDR should have a lawful basis under
-the DPA. Section 12 and 13 of the DPA provides for criteria in processing personal data.
+the DPA. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA provides for criteria in processing personal data.
 Particularly in your case, the following provision may apply, viz:
 
    “SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing
@@ -139,16 +144,16 @@ OIC – Director IV, Privacy Policy Office
 
 [^2]: An Act Providing For The Modernization, Standardization, And Regulation Of The Procurement Activities Of The Government And For Other Purposes. [Government Procurement Reform Act], Republic Act No. 9184 (2002).
 
-[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], (2012).
+[^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], (2012).
 
-[^4]: Id. § 3 (g): Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^4]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (g): Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 
-[^5]: Id. § 3 (l): Sensitive personal information refers to personal information:
+[^5]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (l): Sensitive personal information refers to personal information:
     (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations;
     (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings;
     (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and
     (4) Specifically established by an executive order or an act of Congress to be kept classified.
 
-[^6]: Id. § 3 (k) Privileged information refers to any and all forms of data which under the Rules of Court and other pertinent laws constitute privileged communication.
+[^6]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (k) Privileged information refers to any and all forms of data which under the Rules of Court and other pertinent laws constitute privileged communication.
 
 [^7]: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-027-access-to-documents-by-san-miguel-aerocity-inc-pursuant-to-its-legislative-franchise|NPC Advisory Opinion No. 2021-027]] (July 2021).

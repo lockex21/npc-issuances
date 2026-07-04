@@ -54,7 +54,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by Dr. ARG against Dr. AMP for alleged violations of Sections 25 (Unauthorized Processing) and 28 (Processing for Unauthorized Purposes) of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a Complaint filed by Dr. ARG against Dr. AMP for alleged violations of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Sections 25 (Unauthorized Processing)]] and [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|28 (Processing for Unauthorized Purposes)]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA)]].
 
 ### Facts
 
@@ -72,7 +72,7 @@ Dr. AMP argued that for the past years he noticed that many consultants in the D
 
 Because of this, Dr. AMP stated that he decided to bring the matter before the Civil Service Commission (CSC).[^28] He explained that the CSC advised him to support his complaint and allegations with evidence.[^29] Relying on the advice of the CSC, Dr. AMP requested JHH, the personnel in charge of collecting DTRs, to provide him with copies of the DTRs of the erring doctors.[^30] He denied the allegations that he used his authority and influence over the administrative assistants.[^31] As proof, he submitted screenshots showing when JHH, on several occasions, voluntarily and without being asked, sent him the DTRs.[^32]
 
-Dr. AMP stressed that JHH voluntarily and willingly gave copies of the DTRs upon his request.[^33] He argued that he would not have continued his request for the copies if JHH informed him that there was a need to secure consent or observe protocols.[^34] Dr. AMP explained that "[his] only purpose in securing these DTRs is to provide proof and basis for the complaint before the CSC."[^35] As a defense, he cited Sections 12(f) and 13(f) of the DPA as his basis for processing.[^36] He argued that there are "no other means to prove [his] claims against the erring doctors other than through their DTRs."[^37]
+Dr. AMP stressed that JHH voluntarily and willingly gave copies of the DTRs upon his request.[^33] He argued that he would not have continued his request for the copies if JHH informed him that there was a need to secure consent or observe protocols.[^34] Dr. AMP explained that "[his] only purpose in securing these DTRs is to provide proof and basis for the complaint before the CSC."[^35] As a defense, he cited [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12(f)]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13(f)]] of the DPA as his basis for processing.[^36] He argued that there are "no other means to prove [his] claims against the erring doctors other than through their DTRs."[^37]
 
 In addition, he stated that JHH, as the administrative assistant of the Department of [ ], is in charge of processing and keeping in his custody the employees' DTRs.[^38] Thus, under the DPA, he is considered the Personal Information Controller (PIC).[^39] He added that "he did not think that DTRs were private or confidential because DTRs are always at the office for anyone to see and that the DTRs are just left in the respective pigeonholes of the consultants."[^40]
 
@@ -122,7 +122,7 @@ The Commission dismisses the case for lack of merit.
 
 #### I. Dr. AMP is not liable under Section 25 of the DPA (Unauthorized Processing)
 
-Section 25 of the DPA provides:
+[[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]] provides:
 
 > Section 25. Unauthorized Processing of Personal Information and Sensitive Personal Information. (a) The unauthorized processing of personal information shall be penalized by imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) shall be imposed on persons who process personal information without the consent of the data subject, or without being authorized under this Act or any existing law.[^91]
 
@@ -156,7 +156,7 @@ In this case, Dr. AMP processed the personal data of Dr. ARG in two instances: (
 
 The second requisite for Unauthorized Processing is that the information processed is personal information or sensitive personal information.[^100] Dr. ARG stated that the DTRs contained her name, position, signature, and that she was on "quarantine leave."[^101] She argued that the information, when put together, becomes sensitive personal information.[^102]
 
-Section 4(a) and (b) of the DPA states:
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4(a) and (b) of the DPA]] states:
 
 > Section 4. Scope.
 >
@@ -204,7 +204,7 @@ In this case, one of Dr. ARG's DTRs contained a notation that she was on "quaran
 
 Given these, the second requisite of Unauthorized Processing is present. Dr. AMP processed Dr. ARG's personal information.
 
-##### C. Dr. AMP processed Dr. ARG's personal information pursuant to Section 13(f) in relation [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(f) of the DPA]].
+##### C. Dr. AMP processed Dr. ARG's personal information pursuant to Section 13(f) in relation Section 12(f) of the DPA.
 
 The third requisite is that the processing was done without the consent of the data subject, or without being authorized under the DPA or any existing law.[^109] Dr. AMP argued that his only purpose in securing the DTRs was to provide proof and basis for his complaint against Dr. ARG and the other department staff before the CSC.[^110] He stated that he had lawful basis to process Dr. ARG's personal data under Sections 12(f) and 13(f) of the DPA.[^111]
 
@@ -305,7 +305,7 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 
-[^1]: Complaint-Affidavit, 24 November 2022, at 1, in ARG v. AMP, [[decisions/2024/npc-22-112-aqm-vs-pit-et-al|NPC 22-112]] (NPC 2022).
+[^1]: Complaint-Affidavit, 24 November 2022, at 1, in ARG v. AMP, NPC 22-112 (NPC 2022).
 [^2]: *Id.*
 [^3]: Memorandum for the Complainant, 22 March 2023, at 1, in ARG v. AMP, NPC 22-112 (NPC 2023).
 [^4]: Complaints-Assisted Form, 24 November 2022, Annex C, in ARG v. AMP, NPC 22-112 (NPC 2022).
@@ -395,51 +395,51 @@ GENERAL RECORDS UNIT
 [^88]: *Id.*
 [^89]: *Id.* at 15.
 [^90]: Memorandum for the Respondent, 27 March 2023, at 15, in ARG v. AMP, NPC 22-112 (NPC 2023).
-[^91]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 25 (2012).
-[^92]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, 16 May 2022, at 31, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-SS-21-006-2022.05.16-In-re-Wefund-Lending-Corporation-Decision-FinalP.pdf (last accessed 30 September 2024).
+[^91]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|§ 25]] (2012).
+[^92]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006]], 16 May 2022, at 31, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-SS-21-006-2022.05.16-In-re-Wefund-Lending-Corporation-Decision-FinalP.pdf (last accessed 30 September 2024).
 [^93]: Memorandum for the Complainant, 22 March 2023, at 12, in ARG v. AMP, NPC 22-112 (NPC 2023).
 [^94]: Memorandum for the Respondent, 27 March 2023, at 10, in ARG v. AMP, NPC 22-112 (NPC 2023).
-[^95]: Data Privacy Act of 2012, § 3 (h).
-[^96]: *Id.* § 3 (i).
-[^97]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule I, § 3 (m) (2015).
+[^95]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (h)]].
+[^96]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (i)]].
+[^97]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, rule I, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|§ 3 (m)]] (2015).
 [^98]: Memorandum for the Respondent, 27 March 2023, at 12, in ARG v. AMP, NPC 22-112 (NPC 2023).
-[^99]: Data Privacy Act of 2012, § 3 (j).
-[^100]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 31.
+[^99]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (j)]].
+[^100]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006]], at 31.
 [^101]: Memorandum for the Complainant, 22 March 2023, at 14-15, in ARG v. AMP, NPC 22-112 (NPC 2023).
 [^102]: *Id.* at 15.
-[^103]: Data Privacy Act of 2012, § 4 (a) & (b).
-[^104]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 20, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-COMELEC-Decision-FinalP.pdf (last accessed 30 September 2024).
-[^105]: Data Privacy Act of 2012, § 3 (l).
-[^106]: *Id.* § 3 (g).
-[^107]: RJC v. DL, NPC 22-012, 10 November 2022, at 7, available at https://privacy.gov.ph/wp-content/uploads/2023/08/NPC-22-012-2022.11.10-RJC-v.-DL-Decision.pdf (last accessed 30 September 2024); NPC BN 18-158, at 13 (unreported).
+[^103]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4 (a) & (b)]].
+[^104]: In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and Other John Does and Jane Does, [[decisions/2022/npc-ss-22-001-and-npc-ss-22-008-in-re-commission-on-elections|NPC SS 22-001 and NPC SS 22-008]], 22 September 2022, at 20, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-COMELEC-Decision-FinalP.pdf (last accessed 30 September 2024).
+[^105]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (l)]].
+[^106]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]].
+[^107]: RJC v. DL, [[decisions/2022/npc-22-012-rjc-v-dl|NPC 22-012]], 10 November 2022, at 7, available at https://privacy.gov.ph/wp-content/uploads/2023/08/NPC-22-012-2022.11.10-RJC-v.-DL-Decision.pdf (last accessed 30 September 2024); NPC BN 18-158, at 13 (unreported).
 [^108]: Memorandum for the Complainant, 22 March 2023, at 14-15, in ARG v. AMP, NPC 22-112 (NPC 2023).
 [^109]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 31.
 [^110]: Comment to the Complaint, 27 January 2023, at 4, in ARG v. AMP, NPC 22-112 (NPC 2023).
 [^111]: *Id.*
-[^112]: Data Privacy Act of 2012, § 13 (f) (l). Emphasis supplied.
-[^113]: KRL v. Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, PB, CID 17-K-003, 19 November 2019, at 6, available at https://privacy.gov.ph/wp-content/uploads/2023/05/CID-17-K-003-KRL-v-Trinity-Decision-PSD-10Aug2020.pdf (last accessed 27 September 2024); See National Privacy Commission, Guidelines on Personal Data Processing Based on Section 13(f) of the Data Privacy Act, Advisory No. 02, Series of 2024 [NPC Adv. No. 24-02], § 3 (12 August 2024).
+[^112]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13 (f) (l)]]. Emphasis supplied.
+[^113]: KRL v. Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, PB, [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|CID 17-K-003]], 19 November 2019, at 6, available at https://privacy.gov.ph/wp-content/uploads/2023/05/CID-17-K-003-KRL-v-Trinity-Decision-PSD-10Aug2020.pdf (last accessed 27 September 2024); See National Privacy Commission, [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|Guidelines on Personal Data Processing Based on Section 13(f) of the Data Privacy Act, Advisory No. 02, Series of 2024]] [NPC Adv. No. 24-02], § 3 (12 August 2024).
 [^114]: Comment to the Complaint, 27 January 2023, at 4, in ARG v. AMP, NPC 22-112 (NPC 2023).
-[^115]: Data Privacy Act of 2012, § 12(f); See NPC Adv. No. 24-02, § 3.
-[^116]: Sps. MCD and [JD v. Victorias Milling Company et al, NPC 19-758 and NPC 19-1846, 30 June 2023, at 122, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-19-758-to-NPC-19-1846-2023.06.30-MCD-_-JD-v-Victorias-Milling-Company-et-al-Decision-FinalP.pdf (last accessed 11 October 2024).
+[^115]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12(f)]]; See [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|NPC Adv. No. 24-02]], § 3.
+[^116]: Sps. MCD and [JD v. Victorias Milling Company et al, [[decisions/2023/npc-19-758-and-npc-19-1846-spouses-mcd-jjd-v-victorias-milling-company-et-al|NPC 19-758 and NPC 19-1846]], 30 June 2023, at 122, available at https://privacy.gov.ph/wp-content/uploads/2024/05/NPC-19-758-to-NPC-19-1846-2023.06.30-MCD-_-JD-v-Victorias-Milling-Company-et-al-Decision-FinalP.pdf (last accessed 11 October 2024).
 [^117]: See Memorandum for the Respondent, 27 March 2023, at 14, in ARG v. AMP, NPC 22-112 (NPC 2023).
-[^118]: See Data Privacy Act of 2012, § 11.
+[^118]: See [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11]].
 [^119]: Memorandum for the Complainant, 22 March 2023, at 18, in ARG v. AMP, NPC 22-112 (NPC 2023).
 [^120]: *Id.* at 20.
-[^121]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (b) (2016).
-[^122]: EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 9, available at https://privacy.gov.ph/wp-content/uploads/2024/06/NPC-17-018-2019.07.15-EA-and-TA-v-EJ-Decision-FinalP.pdf (last accessed 28 September 2024).
+[^121]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (b)]] (2016).
+[^122]: EA and TA v. EJ, EE and HC, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]], 15 July 2019, at 9, available at https://privacy.gov.ph/wp-content/uploads/2024/06/NPC-17-018-2019.07.15-EA-and-TA-v-EJ-Decision-FinalP.pdf (last accessed 28 September 2024).
 [^123]: *Id.*
 [^124]: Memorandum for the Respondent, 27 March 2023, at 14, in ARG v. AMP, NPC 22-112 (NPC 2023).
 [^125]: An Act Establishing a Code of Conduct and Ethical Standards for Public Officials and Employees, to Uphold the Time-Honored Principle of Public Office being a Public Trust, Granting Incentives and Rewards for Exemplary Service, Enumerating Prohibited Acts and Transactions and Providing Penalties for Violations thereof and For Other Purposes. [Code of Conduct and Ethical Standards for Public Officials and Employees], Republic Act No. 6713 § 4 (A)(a) (1989).
 [^126]: Civil Service Commission, Adoption of the Revised 2021 Panunumpa ng Lingkod Bayan, Memorandum Circular No. 15, Series of 2021 [CSC M.C. No. 15-21] (12 November 2021). Emphasis supplied.
-[^127]: Data Privacy Act of 2012, § 11 (c) & (d).
+[^127]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11 (c) & (d)]].
 [^128]: Comment to the Complaint, 27 January 2023, at 2, in ARG v. AMP, NPC 22-112 (NPC 2023).
 [^129]: Memorandum for the Complainant, 22 March 2023, at 20, in ARG v. AMP, NPC 22-112 (NPC 2023).
-[^130]: NPC Adv. No. 24-02, § 5 (A).
+[^130]: [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|NPC Adv. No. 24-02]], § 5 (A).
 [^131]: *Id.* § 5 (B).
-[^132]: RJC v. DL, NPC 22-012, 26 January 2023, at 11, available at https://privacy.gov.ph/wp-content/uploads/2023/07/NPC-22-012-2023.01.26-RJC-v.-DL-Resolution-w-Sgd-Final.pdf (last accessed 11 October 2024); See NPC Adv. No. 24-02, § 7.
-[^133]: See NPC Adv. No. 24-02, § 4.
+[^132]: RJC v. DL, [[resolutions/2023/npc-22-012-rjc-v-dl|NPC 22-012]], 26 January 2023, at 11, available at https://privacy.gov.ph/wp-content/uploads/2023/07/NPC-22-012-2023.01.26-RJC-v.-DL-Resolution-w-Sgd-Final.pdf (last accessed 11 October 2024); See [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|NPC Adv. No. 24-02]], § 7.
+[^133]: See [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|NPC Adv. No. 24-02]], § 4.
 [^134]: *See Id.*
-[^135]: See Data Privacy Act of 2012, § 11 (e).
-[^136]: EA and TA v. EJ, NPC 17-018, at 8.
+[^135]: See [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11 (e)]].
+[^136]: EA and TA v. EJ, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]], at 8.
 [^137]: Complaint-Affidavit, 24 November 2022, at 1, in ARG v. AMP, NPC 22-112 (NPC 2022).
 [^138]: Decision (on the Recommendation for the Dismissal of the Above-Entitled Case), 10 October 2023, in ARG v. AMP, NPC 22-238 (NPC 2023).

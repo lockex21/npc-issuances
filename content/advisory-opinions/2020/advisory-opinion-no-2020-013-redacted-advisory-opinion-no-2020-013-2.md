@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+aliases:
+  - "NPC Advisory Opinion No. 2020-013"
+  - "npc advisory opinion no. 2020-013"
+  - "Advisory Opinion No. 2020-013"
+  - "advisory opinion no. 2020-013"
 draft: false
 ---
 
@@ -59,7 +64,7 @@ As the above items 1, 2 and 3 are related, these will be collectively discussed.
 
 The disclosure or sharing of personal and sensitive personal information (collectively,
 personal data) is considered as processing under the DPA. Hence, the same should be based
-on any of the lawful criteria for processing under Sections 12 and 13 of the law, depending on
+on any of the lawful criteria for processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the law, depending on
 the nature of personal data being disclosed or shared.
 
 In this case, information about any proceeding for any offense committed or alleged to have
@@ -154,13 +159,13 @@ Privacy Commissioner and Chairman
 
 [^2]: Tags: administrative cases, education sector, sensitive personal information.
 
-[^3]: Data Privacy Act of 2012, § 3 (l) (2).
+[^3]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (l) (2).
 
-[^4]: National Privacy Commission, NPC Advisory Opinion No. 2019-011 (14 January 2019).
+[^4]: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-011-npc-advisory-opinion-no-2019-011|NPC Advisory Opinion No. 2019-011]] (14 January 2019).
 
-[^5]: Data Privacy Act of 2012, § 13 (b).
+[^5]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]] (b).
 
-[^6]: Id., § 13 (f).
+[^6]: Id., [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13]] (f).
 
 [^7]: Commission on Higher Education, Manual of Regulations for Private Higher Education (MORPHE), available at https://ched.gov.ph/manual-regulations-private-higher-education-morphe/ (last accessed 7 January 2020).
 

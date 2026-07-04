@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2017-017 — Clarifications on the Data Privacy Act of 2012 and its Implementing Rules and Regulations"
 description: "Consolidated Advisory Opinion addressing queries regarding the effectivity of the IRR, consent formats, data retention, security measures, registration requirements, and data protection officers under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2017-017"
+  - "npc advisory opinion no. 2017-017"
+  - "Advisory Opinion No. 2017-017"
+  - "advisory opinion no. 2017-017"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -67,7 +72,7 @@ To illustrate, a PIC that does not make use of electronic media or computer syst
 
 #### Security Measures Compliance Requirements
 
-Rule VI of the IRR, which relates to “Security Measures for the Protection of Personal Data”, applies to all PICs and PIPs.
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#rule-vi-security-measures-for-the-protection-of-personal-data|Rule VI of the IRR]], which relates to “Security Measures for the Protection of Personal Data”, applies to all PICs and PIPs.
 
 #### Encryption Technology Obligations
 
@@ -122,7 +127,7 @@ A possible scenario wherein automated processing is the sole basis for making a 
 
 #### Registration Format and Template
 
-To date, the Commission does not impose any specific format or template relative to the registration and notification requirements for personal data processing systems and automated processing operations, respectively. For the purpose of determining the compliance by PICs and PIPs with the law and its IRR, adherence to the requirements set out in Sections 47 and 48 of the IRR will be deemed sufficient. As an initial step of the registration of data processing systems, a form requiring information about the data protection officer of the PIC or PIP may be downloaded from the website of the Commission (privacy.gov.ph).
+To date, the Commission does not impose any specific format or template relative to the registration and notification requirements for personal data processing systems and automated processing operations, respectively. For the purpose of determining the compliance by PICs and PIPs with the law and its IRR, adherence to the requirements set out in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Sections 47]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-48-notification-of-automated-processing-operations|48]] of the IRR will be deemed sufficient. As an initial step of the registration of data processing systems, a form requiring information about the data protection officer of the PIC or PIP may be downloaded from the website of the Commission (privacy.gov.ph).
 
 #### Registration Procedure Timeline
 
@@ -138,7 +143,7 @@ The Commission is currently in the process of developing its monitoring and comp
 
 #### Data Protection Officer Information in Breach Notifications
 
-The document in question refers to the then draft circular on Data Breach Notification. Please note that the final circular on this subject is now NPC Circular No. 16-03 (Personal Data Breach Management), which was issued on 10 October 2016.
+The document in question refers to the then draft circular on Data Breach Notification. Please note that the final circular on this subject is now [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] (Personal Data Breach Management), which was issued on 10 October 2016.
 
 As per the specific provision raised, the person referred therein is the Data Protection Officer (DPO), whose identity and contact information must be included in the notification required to be communicated to the Commission.
 
@@ -150,20 +155,20 @@ IVY D. PATDU
 Officer in Charge, Deputy Privacy Commissioner
 Policy and Planning
 
-[^1]: RA 10173, § 3(b).
+[^1]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA 10173, § 3(b)]].
 
-[^2]: IRR of RA 10173, § 19(a)(1).
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|IRR of RA 10173, § 19(a)(1)]].
 
 [^3]: Id., § 19(d)(1).
 
 [^4]: Id., § 19(d)(2).
 
-[^5]: Id., § 29.
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-29-appropriate-level-of-security|Id., § 29]].
 
-[^6]: IRR, § 47.
+[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|IRR, § 47]].
 
 [^7]: Regulation (EU) 2016/679, Whereas Clause (75).
 
-[^8]: RA 10173, § 38.
+[^8]: [[laws/data-privacy-act-of-2012#section-38-interpretation|RA 10173, § 38]].
 
-[^9]: IRR, § 9(d).
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|IRR, § 9(d)]].

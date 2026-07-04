@@ -37,7 +37,7 @@ x----------------------------------------------------x
 
 On 25 July 2019, the Commission issued a Resolution containing the following dispositive portion:
 
-> WHEREFORE, all premises considered, this Commission finds that Sprout Solutions, Inc. and Marie France Group of Companies are required to notify the data subjects affected by this data breach, furnishing them the required information enumerated in Section 18(c) of the Commission's Circular No. 16-03. Sprout Solutions, Inc. and Marie France Group of Companies are ordered to submit proof of their compliance within thirty (30) days from receipt of this Resolution.
+> WHEREFORE, all premises considered, this Commission finds that Sprout Solutions, Inc. and Marie France Group of Companies are required to notify the data subjects affected by this data breach, furnishing them the required information enumerated in Section 18(c) of the Commission's [[issuances/undated/personal-data-breach-management|Circular No. 16-03]]. Sprout Solutions, Inc. and Marie France Group of Companies are ordered to submit proof of their compliance within thirty (30) days from receipt of this Resolution.
 
 On 5 September 2019, the Commission received a Manifestation of Compliance from Sprout Solutions, Inc. It received a Supplemental Manifestation of Compliance on 6 September 2019.
 
@@ -49,7 +49,7 @@ On 27 September 2019, the Enforcement Division issued its findings on the compli
 
 > Upon reviewing the Compliance Reports submitted by Sprout Solutions Phil., Inc. and Marie France Group of Companies on 2 and 6 September 2019, we found that the reports have fully complied with the Order of this Commission.
 >
-> It was found that the notification sent to all affected data subjects complied with the requirement of Section 18 (c) of NPC Circular No. 16-03 on contents of notification. Further, Sprout and Marie France notified the affected data subjects individually through registered mail in compliance with Section 18(d) of the same circular. Affidavits were executed by Sprout's officers attesting to the sending of individual notice by registered mail.
+> It was found that the notification sent to all affected data subjects complied with the requirement of Section 18 (c) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] on contents of notification. Further, Sprout and Marie France notified the affected data subjects individually through registered mail in compliance with Section 18(d) of the same circular. Affidavits were executed by Sprout's officers attesting to the sending of individual notice by registered mail.
 
 **WHEREFORE**, all premises considered, the Commission resolves that the matters of NPC BN 17-046 and 17-047 are considered **CLOSED.**
 

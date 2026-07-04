@@ -7,6 +7,11 @@ tags:
   - "year/2020"
   - "topic/government"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-028"
+  - "npc advisory opinion no. 2020-028"
+  - "Advisory Opinion No. 2020-028"
+  - "advisory opinion no. 2020-028"
 ---
 ## Source
 - Reference: Advisory Opinion No. 2020-028
@@ -35,7 +40,7 @@ following:
          on the number of COVID-19 related deaths starting 27 June 2020.
 
 Specifically, you ask whether accommodating the requests would result in possible
-violation/s of the provisions of the Data Privacy Act of 2012[^2] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^3] (IRR).
+violation/s of the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^3] (IRR).
 
 ### Discussion
 
@@ -86,18 +91,18 @@ Very truly yours,
 Privacy Commissioner
 
 [^1]: Tags: processing; sensitive personal information; COVID-19; public authority; mandate; statistics.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2016).
 [^4]: See: Philippine Statistics Authority, Death Certificate, available at https://psa.gov.ph/civilregistration/requesting-civil-registry-document/death-certificate (last accessed July 16, 2020).
 [^5]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-045-npc-advisory-opinion-no-2019-045|NPC Advisory Opinion No. 2019-045]] (Nov. 6, 2019) citing Law on Registry of Civil Status, Act No. 3753, § 6 (1930).
 [^6]: Id.
-[^7]: Data Privacy Act of 2012, § 13 (b).
+[^7]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13]] (b).
 [^8]: Department of the Interior and Local Government and Department of Health, Suppletory Guidelines on the Management of Human Remains for Patient Under Investigation (PUI) and Confirmed COVID-19 Cases [Joint Memorandum Circular No. 01 Series of 2020] (April 16, 2020).
 [^9]: Department of the Interior and Local Government, Interim Guidelines on the Management of Human Remains for Patient Under Investigation (PUI) and Confirmed COVID-19 Cases [Memorandum Circular No. 2020-063] (March 27, 2020).
 [^10]: Department of Health, Amendment to Department Circular No. 2020-067 re ICD-10 code for COVID-19 (previously known as 2019-nCoV Acute Respiratory Disease).
-[^11]: Data Privacy Act of 2012, § 13 (b).
+[^11]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13]] (b).
 [^12]: Id. § 13 (f).
 [^13]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-035-npc-advisory-opinion-no-2018-035|NPC Advisory Opinion No. 2018-035]] (July 20, 2018).
-[^14]: NPC Circular No. 16-01 dated 10 October 2016, § 4.
-[^15]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (b).
-[^16]: Data Privacy Act of 2012, § 13 (c).
+[^14]: [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] dated 10 October 2016, § 4.
+[^15]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Data Privacy Act of 2012, § 18]] (b).
+[^16]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13]] (c).

@@ -43,7 +43,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a complaint filed by MLF against MyTaxi.PH Corporation, doing business under the name of "Grab Philippines" (Grab Philippines), for an alleged violation of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission is a complaint filed by MLF against MyTaxi.PH Corporation, doing business under the name of "Grab Philippines" (Grab Philippines), for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -358,7 +358,7 @@ Counsel for Respondent
 [^57]: *Id.* Emphasis supplied.
 [^58]: Affidavit Addendum to CID Case No. 19-C-142, 27 August 2019, in MLF v. MyTaxi.Ph Corporation, NPC Case No. 19-142 (NPC 2019). Emphasis supplied.
 [^59]: Compliance to Order dated 13 August 2019, 28 August 2019, Annex B, in MLF v. MyTaxi.Ph Corporation, NPC Case No. 19-142 (NPC 2019). Emphasis supplied.
-[^60]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (2016).
+[^60]: National Privacy Commission, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18]] (2016).
 [^61]: Comment to Complaint dated 2 March 2019 and Affidavit Addendum dated 27 August 2019, 09 September 2019, Annex J, in MLF v. MyTaxi.Ph Corporation, NPC Case No. 19-142 (NPC 2019); *Id.* Annex K.
 [^62]: *Id.* at 1. Emphasis omitted.
 [^63]: Complaints-Assisted Form, 02 March 2019, at 4, in MLF v. MyTaxi.Ph Corporation, NPC Case No. 19-142 (NPC 2019).
@@ -373,9 +373,9 @@ Counsel for Respondent
 [^72]: Compliance to Order dated 13 August 2019, 28 August 2019, at Annex B, in MLF v. MyTaxi.Ph Corporation, NPC Case No. 19-142 (NPC 2019).
 [^73]: Complaints-Assisted Form, 02 March 2019, at 2-4, in MLF v. MyTaxi.Ph Corporation, NPC Case No. 19-142 (NPC 2019); Affidavit Addendum to CID Case No. 19-C-142, 27 August 2019, Annex A, in MLF v. MyTaxi.Ph Corporation, NPC Case No. 19-142 (NPC 2019); Affidavit Addendum to CID Case No. 19-C-142, 27 August 2019, Annex B, in MLF v. MyTaxi.Ph Corporation, NPC Case No. 19-142 (NPC 2019).
 [^74]: Complaints-Assisted Form, 02 March 2019, at 3, in MLF v. MyTaxi.Ph Corporation, NPC Case No. 19-142 (NPC 2019).
-[^75]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 28 (2012). Emphasis supplied.
-[^76]: *Id.* § 3 (g) & (j).
-[^77]: *Id.* § 3 (h). Emphasis supplied.
+[^75]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Republic Act No. 10173, § 28]] (2012). Emphasis supplied.
+[^76]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g) & (j)]].
+[^77]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]]. Emphasis supplied.
 [^78]: Comment to Complaint dated 02 March 2019 and Affidavit Addendum dated 27 August 2019, 09 September 2019, Annex J, in MLF v. MyTaxi.Ph Corporation, NPC Case No. 19-142 (NPC 2019). Emphasis supplied.
 [^79]: *Id.* Annex J.
 [^80]: *Id.* Annex J.

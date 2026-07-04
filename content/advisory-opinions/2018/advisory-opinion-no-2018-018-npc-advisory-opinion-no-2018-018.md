@@ -6,6 +6,11 @@ tags:
   - “type/advisory-opinion”
   - “year/2018”
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-018"
+  - "npc advisory opinion no. 2018-018"
+  - "Advisory Opinion No. 2018-018"
+  - "advisory opinion no. 2018-018"
 ---
 
 ## Source
@@ -25,7 +30,7 @@ Dear [Redacted]:
 
 This is in response to your request for opinion addressed to the Department of Information and Communications Technology (DICT) which was forwarded to and received by the National Privacy Commission (NPC) on 20 March 2018.
 
-You inquired on whether the posting of decisions on the PhilHealth website under the proposed “CAAC Webpage” of administrative cases of health care providers appealed to and decided by the Committee on Appealed and Administrative Cases (CAAC) and the PhilHealth Board of Directors (Board), which may disclose patient and health information, is violative of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 (DPA).[^1]
+You inquired on whether the posting of decisions on the PhilHealth website under the proposed “CAAC Webpage” of administrative cases of health care providers appealed to and decided by the Committee on Appealed and Administrative Cases (CAAC) and the PhilHealth Board of Directors (Board), which may disclose patient and health information, is violative of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012 (DPA).[^1]
 
 ### Discussion
 
@@ -69,7 +74,7 @@ Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes, “Data Privacy Act of 2012” (15 August 2012).
 
-[^2]: See: Republic Act No. 10173, § 4.
+[^2]: See: [[laws/data-privacy-act-of-2012#section-4-scope|Republic Act No. 10173, § 4]].
 
 [^3]: *Id.*, §3(j).
 
@@ -77,4 +82,4 @@ Privacy Commissioner and Chairman
 
 [^5]: *Id.*, §3(y)(2).
 
-[^6]: IRR of the DPA of 2012, § 13(c).
+[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|IRR of the DPA of 2012, § 13(c)]].

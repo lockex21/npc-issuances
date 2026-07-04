@@ -7,6 +7,11 @@ tags:
   - year/2022
   - topic/legitimate-interest
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2022-005"
+  - "npc advisory opinion no. 2022-005"
+  - "Advisory Opinion No. 2022-005"
+  - "advisory opinion no. 2022-005"
 ---
 
 ## Source
@@ -28,7 +33,7 @@ We write in response to your inquiry received by the National Privacy Commission
 
 We understand that you filed an email complaint with the LTO on "nuisance due to noisy vehicles" in your village. Together with the email complaint, you requested for the names and addresses of the owners of the noisy vehicles for the filing "of formal/legal charges of damages due to the pain and sufferings from the emotional distress and mental anguish cause[d] by the noisy vehicles."
 
-We also understand that the LTO responded to your email complaint and stated that they already issued proper notices for the owners of the noisy vehicles "to show cause, as part of due process, their defense." The LTO likewise denied your request, stating that the Data Privacy Act of 2012[^1] (DPA) prohibits disclosure of personal information without consent.
+We also understand that the LTO responded to your email complaint and stated that they already issued proper notices for the owners of the noisy vehicles "to show cause, as part of due process, their defense." The LTO likewise denied your request, stating that the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) prohibits disclosure of personal information without consent.
 
 ### Discussion
 
@@ -51,7 +56,7 @@ The LTO should determine whether the request for the disclosure of the informati
 
 #### Legitimate interests as lawful basis for processing personal information
 
-We understand that the purpose for the request of the names and addresses of the motor vehicle owners is for the filing of a civil action for damages "due to the pain and sufferings from the emotional distress and mental anguish cause[d] by the noisy vehicles." It is worthy to assess whether the purpose of the request falls under Section 12 (f) of the DPA which provides for legitimate interests as a lawful basis for the processing of personal information.
+We understand that the purpose for the request of the names and addresses of the motor vehicle owners is for the filing of a civil action for damages "due to the pain and sufferings from the emotional distress and mental anguish cause[d] by the noisy vehicles." It is worthy to assess whether the purpose of the request falls under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] which provides for legitimate interests as a lawful basis for the processing of personal information.
 
 'Legitimate interests' is different from the other criteria for lawful processing of personal information as it is not centered around a specific purpose, nor is it processing that the individual has specifically agreed to – it can, in principle, apply to any type of processing for any reasonable purpose.[^3]
 
@@ -91,7 +96,7 @@ The principle of proportionality provides that "the processing of information sh
 
 You are requesting LTO for the names and registered addresses of the owners of noisy vehicles you have identified through photographs of their plate numbers. The purpose of which is for the filing of "formal/legal charges of damages." Since your request is only for the said information, LTO cannot provide more than that. The principle of proportionality necessitates that only the information requested and necessary for the purpose indicated should be processed.
 
-While the letter request you sent to LTO is a mass request for information of several individuals, the request for each motor vehicle owners' information should be treated as individual requests. To this effect, LTO must require further information from you, the requesting party, to ensure a comprehensive evaluation of whether to grant each request for information and decide on a case-by-case basis. You, on the other hand, must be able to provide sufficient information to support each of the requests. In Advisory Opinion 2022-003, we opined that additional information may be required by the granting party to ascertain the validity of the purpose for the request:
+While the letter request you sent to LTO is a mass request for information of several individuals, the request for each motor vehicle owners' information should be treated as individual requests. To this effect, LTO must require further information from you, the requesting party, to ensure a comprehensive evaluation of whether to grant each request for information and decide on a case-by-case basis. You, on the other hand, must be able to provide sufficient information to support each of the requests. In [[advisory-opinions/2022/advisory-opinion-no-2022-003-advisory-opinion-no-2022-003-redacted|Advisory Opinion 2022-003]], we opined that additional information may be required by the granting party to ascertain the validity of the purpose for the request:
 
 > To satisfy the DOH on the legitimacy of the purpose of the request, it may opt to require the requestor to provide additional information on the case. But this requirement shall still adhere to the principle of proportionality, and whatever additional information received shall be used solely for the purpose of aiding the DOH in deciding whether to release the requested documents.
 
@@ -123,14 +128,14 @@ OIC – Director IV, Privacy Policy Office
 - ROBERTO A. VALERA, Deputy Director, Law Enforcement Service, Land Transportation Office
 - JO-ANN R. ALCID, Program Director; ATTY. VERNICE C. LIWAG-PRIETO, Detailed Public Attorney, Department of Justice Action Center
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Data Privacy Act of 2012, § 12.
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^2]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12]].
 [^3]: United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 18 January 2022].
 [^4]: *Id.*
-[^5]: See generally, Data Privacy Act of 2012, § 12 (f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 18 January 2022].
+[^5]: See generally, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (f)]]; United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ [last accessed on 18 January 2022].
 [^6]: 1997 Rules of Procedure, as Amended, Rule 1, § 3 (a).
 [^7]: National Privacy Commission, BGM vs. IPP, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020).
-[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016), § 18 (c).
-[^9]: Data Privacy Act of 2012, § 25(a).
-[^10]: *Id.* § 28, par. 1.
-[^11]: *Id.* § 32.
+[^8]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2016), [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]].
+[^9]: [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Data Privacy Act of 2012, § 25(a)]].
+[^10]: *Id.* [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|§ 28]], par. 1.
+[^11]: *Id.* [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|§ 32]].

@@ -1,5 +1,10 @@
 ---
 title: "NPC Advisory Opinion No. 2017-059 — Consent in Customer Service Hotline"
+aliases:
+  - "NPC Advisory Opinion No. 2017-059"
+  - "npc advisory opinion no. 2017-059"
+  - "Advisory Opinion No. 2017-059"
+  - "advisory opinion no. 2017-059"
 description: "Clarifies that consent must be freely given, specific, and informed, evidenced in writing, electronically, or by recorded means; reference to privacy policy alone does not constitute consent."
 tags:
   - issuance
@@ -41,7 +46,7 @@ In line with the foregoing discussion, implied, implicit or negative consent is 
 
 To clarify, a privacy notice is a "statement made to a data subject that describes how the organization collects, uses, retains and discloses personal information. A privacy notice is sometimes referred to as a privacy statement, a fair processing statement or sometimes a privacy policy."[^4] Note that a privacy notice or privacy policy is not equivalent to consent. This would suffice if the processing being done are those where consent is not necessary.
 
-Note that aside from consent, there are other criteria for lawful processing of personal data pursuant to Sections 12 and 13 of the DPA, where processing may be authorized without consent. For example, when processing of personal information is necessary/related to the fulfillment of a contract, necessary for compliance with a legal obligation, processing is provided for by existing laws and regulations, necessary to protect the life and health of the data subject or another person, among others.
+Note that aside from consent, there are other criteria for lawful processing of personal data pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, where processing may be authorized without consent. For example, when processing of personal information is necessary/related to the fulfillment of a contract, necessary for compliance with a legal obligation, processing is provided for by existing laws and regulations, necessary to protect the life and health of the data subject or another person, among others.
 
 Where a customer calls a service hotline to update his information, processing of personal data is limited to said purpose, i.e. for the PIC to update his information. Reference to the privacy notice is allowed, but this will not be equivalent to consent.
 
@@ -54,7 +59,7 @@ Very truly yours,
 **RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
-[^1]: IRR of DPA of 2012, §3(d).
+[^1]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of DPA of 2012, §3(d).
 [^2]: Id.
 [^3]: Id.
 [^4]: IAPP Resource Center; https://iapp.org/resources/glossary/#paperwork-reduction-act-2

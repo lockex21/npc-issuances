@@ -75,7 +75,7 @@ The Commission wishes to emphasize that Complainant’s Affidavit of Desistance 
 
 In this case, however, the Commission is constrained to dismiss the Complaint considering that the allegations cannot be proven without the evidence to be provided by Complainant.
 
-This is consistent with the NPC Rules of Procedure which provides:
+This is consistent with the [[issuances/undated/rules-of-procedure|NPC Rules of Procedure]] which provides:
 
 > **Section 22. Rendition of decision.** – The Decision of the Commission shall adjudicate the issues raised in the complaint on the basis of all the evidence presented and its own consideration of the law.[^6]
 

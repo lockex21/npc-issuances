@@ -47,7 +47,7 @@ WHEREFORE , premises considered, PSC is ordered by
 
 this Commission to SUBMIT a full breach report in
 
-compliance with Section 9 of NPC Circular 1603,
+compliance with Section 9 of [[issuances/undated/personal-data-breach-management|NPC Circular 1603]],
 
 including the updates on the proposed remediation
 

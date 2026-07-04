@@ -7,6 +7,11 @@ tags:
   - year/2022
   - topic/data-sharing
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2022-006"
+  - "npc advisory opinion no. 2022-006"
+  - "Advisory Opinion No. 2022-006"
+  - "advisory opinion no. 2022-006"
 ---
 
 ## Source
@@ -78,13 +83,13 @@ A data sharing agreement (DSA) refers to a contract, joint issuance or any simil
 
 We note that the MOA you executed with PDEA may be considered as a form of DSA as majority of its provisions deal with further processing of personal data in your possession.
 
-Indeed, although the execution of a DSA is not mandatory, it is still considered as a best practice as provided under NPC Circular No. 2020-039, to wit:
+Indeed, although the execution of a DSA is not mandatory, it is still considered as a best practice as provided under [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]], to wit:
 
 > "SECTION 8. Data sharing agreement; key considerations. – Data sharing may be covered by a data sharing agreement (DSA) or a similar document containing the terms and conditions of the sharing agreement, including obligations to protect the personal data shared, the responsibilities of the parties, mechanism through which data subjects may exercise their rights, among others.
 >
 > The execution of a DSA is a sound recourse and demonstrates accountable personal data processing, as well as good faith in complying with the requirements of the DPA, its IRR, and issuances of the NPC. The Commission shall take this into account in case a complaint is filed pertaining to such data sharing and/or in the course of any investigation relating to, as well as in the conduct of compliance checks."
 
-It is also important to note that data sharing may be based on any of the criteria for lawful processing of personal data in Sections 12 and 13 of the DPA and also in pursuant to Section 4 of the law which enumerates the special cases.
+It is also important to note that data sharing may be based on any of the criteria for lawful processing of personal data in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA and also in pursuant to [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the law]] which enumerates the special cases.
 
 As discussed above, although DSAs are not mandatory, the execution of such agreement is encouraged as the same demonstrates accountability of the involved PICs.
 
@@ -110,9 +115,9 @@ Very truly yours,
 OIC – Director IV, Privacy Policy Office
 
 [^1]: An Act Instituting The Comprehensive Dangerous Drugs Act Of 2002, Repealing Republic Act No. 6425, Otherwise Known As The Dangerous Drugs Act Of 1972, As Amended, Providing Funds Therefor, And For Other Purposes [Comprehensive Dangerous Drugs Act of 2002], Republic Act No. 9165 (2002).
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-[^4]: *Id.* § 4 (e) (2012).
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (d) (2016).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2016).
+[^4]: *Id.* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|§ 4 (e)]] (2012).
+[^5]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5 (d)]] (2016).
 [^6]: See: National Privacy Commission, [[advisory-opinions/2021/advisory-opinion-no-2021-018-pnp-request-for-personal-information-from-employers|NPC Advisory Opinion No. 2021-018]] (18 June 2021).
-[^7]: See: National Privacy Commission, NPC Advisory Opinion Nos. 2020-015 (24 Feb 2020) and 2021-028 (16 July 2021).
+[^7]: See: National Privacy Commission, NPC Advisory Opinion Nos. [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|2020-015]] (24 Feb 2020) and [[advisory-opinions/2021/advisory-opinion-no-2021-028-disclosure-of-personal-information-of-tenants-by-a-condominium-corporation-to-the-bureau-of-internal-revenue|2021-028]] (16 July 2021).

@@ -51,7 +51,7 @@ PLDT also claimed that it immediately halted the operations of the Email Dispatc
 
 On 01 July 2022, the Commission, through its Complaints and Investigation Division (CID), issued an Order requiring PLDT to submit a Post-Breach Report detailing the incident that prompted the notification to the Commission:[^11]
 
-> Thus, pursuant to Section 9, Rule IV of the National Privacy Commission Circular No. 16-03 on Personal Data Breach Management, Philippine Long Distance Telephone Company, Inc., is hereby required to submit a Post Breach Report detailing the incident that prompted the notification to the Commission;
+> Thus, pursuant to Section 9, Rule IV of the National Privacy Commission [[issuances/undated/personal-data-breach-management|Circular No. 16-03 on Personal Data Breach Management]], Philippine Long Distance Telephone Company, Inc., is hereby required to submit a Post Breach Report detailing the incident that prompted the notification to the Commission;
 >
 > A. Description of the personal data breach, its root cause and circumstances regarding its discovery;
 >
@@ -83,7 +83,7 @@ Whether PLDT notified its data subjects and sufficiently addressed the breach an
 
 The Commission resolves to close the matter. PLDT's submissions show that it notified its affected data subjects, sufficiently addressed the breach, and implemented measures to prevent its recurrence.
 
-It is the obligation of a Personal Information Controller (PIC), such as PLDT, to notify its affected data subjects of a breach.[^25] Section 18 (C) of NPC Circular 16-03 (Personal Data Breach Management) provides the information required in notifying the affected data subjects:
+It is the obligation of a Personal Information Controller (PIC), such as PLDT, to notify its affected data subjects of a breach.[^25] Section 18 (C) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]] provides the information required in notifying the affected data subjects:
 
 > Section 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -98,7 +98,7 @@ It is the obligation of a Personal Information Controller (PIC), such as PLDT, t
 > 5. representative of the personal information controller, including his or her contact details, from whom the data subject can obtain additional information regarding the breach; and
 > 6. any assistance to be provided to the affected data subjects.[^26]
 
-In this case, a copy of the notification sent by PLDT to its affected data subjects show that it complied with the required contents for the notification under Section 18 (C) of NPC Circular 16-03.[^27]
+In this case, a copy of the notification sent by PLDT to its affected data subjects show that it complied with the required contents for the notification under Section 18 (C) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].[^27]
 
 In its email notification, PLDT informed the data subjects of the incident involving the data subjects' registered email addresses.[^28] PLDT narrated that an external user, who is not in any way authorized by PLDT, sent the emails using the email admin@pldthome.com to the registered email address of its customers.[^29]
 
@@ -175,7 +175,7 @@ GENERAL RECORDS UNIT
 [^22]: *Id.* at 2.
 [^23]: *Id.*
 [^24]: *Id.* Annex A.
-[^25]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
+[^25]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 03, Series of 2016]] [NPC Circ. No. 16-03], § 18 (A) (15 December 2016).
 [^26]: *Id.* § 18 (C).
 [^27]: Post-Breach Report, 21 July 2022, Annex B, in In re: Philippine Long Distance Telephone Company, Inc., NPC BN 18-073 (NPC 2022).
 [^28]: *Id.*

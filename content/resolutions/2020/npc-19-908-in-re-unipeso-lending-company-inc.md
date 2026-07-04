@@ -40,7 +40,7 @@ This refers to the Motion for Reconsideration dated 10 December 2019 filed by NS
 
 ### Facts
 
-On 29 August 2019, a Fact-Finding Report ("Report") was submitted to the Commission containing a brief narration of the material facts and the supporting documentary evidence which showed, among other things, the acts that were allegedly committed by NSO Lending Company, Inc. ("NSO") in operating the Cashlending Online Lending Application that may result in prosecution under the Data Privacy Act of 2012[^1] (DPA).
+On 29 August 2019, a Fact-Finding Report ("Report") was submitted to the Commission containing a brief narration of the material facts and the supporting documentary evidence which showed, among other things, the acts that were allegedly committed by NSO Lending Company, Inc. ("NSO") in operating the Cashlending Online Lending Application that may result in prosecution under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA).
 
 On 30 August 2019, an Order to File an Answer ("Answer") was issued by the Commission to the Respondents. The Commission instructed all the Respondents to file their respective Answers to the allegations in the Fact-Finding Report within ten (10) days from the receipt of said Order.
 
@@ -74,7 +74,7 @@ The power of the Commission to investigate on its own initiative flows from the 
 >
 > (Emphasis supplied)
 
-Furthermore, Section 3 of the Rules in providing definite procedure to the foregoing provision, provides as follows:
+Furthermore, Section 3 of the [[issuances/undated/rules-of-procedure|Rules]] in providing definite procedure to the foregoing provision, provides as follows:
 
 > **SECTION 3. Who may file complaints.** – **The National Privacy Commission, *sua sponte*,** or persons who are the subject of a privacy violation or personal data breach, or who are otherwise personally affected by a violation of the Data Privacy Act, may file complaints for violations of the Act. (Emphasis supplied)
 
@@ -159,7 +159,7 @@ COMPLAINTS AND INVESTIGATION DIVISION
 ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 
-[^1]: Rep. Act 11073(2012)
+[^1]: [[laws/data-privacy-act-of-2012|Rep. Act 11073(2012)]]
 [^2]: Motion to Dismiss dated 16 September 2019
 [^3]: Jesse Yap vs. Court of Appeals, Eliza Chua and Evelyn Te, G.R. No. 186730, June 13, 2012
 [^4]: Villarica Pawnshop, Inc. v. Gernale, G.R. No. 163344, March 20, 2009

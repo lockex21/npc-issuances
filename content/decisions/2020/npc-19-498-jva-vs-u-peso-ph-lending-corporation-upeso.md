@@ -219,18 +219,18 @@ National Privacy Commission
 [^6]: Order to Confer for Discovery dated 23 July 2019.
 [^7]: Order for Resumption of Complaint Proceedings dated 06 November 2019.
 [^8]: Rules of Court, Rule 17, Section 3.
-[^9]: NPC Circular 16-04 ("Rules of Procedure of the National Privacy Commission") dated 15 December 2016, Section 4.
+[^9]: [[issuances/undated/rules-of-procedure#rule-ii-complaints-for-violations-of-the-data-privacy-act|NPC Circular 16-04]] ("Rules of Procedure of the National Privacy Commission") dated 15 December 2016, Section 4.
 [^10]: Comment dated 15 November 2019, p. 6.
 [^11]: *Ibid.*, at pp. 6-11.
 [^12]: *Ibid.*, pp. 8-9. Emphasis supplied.
 [^13]: Complaints-Assisted Form dated 8 July 2019, pp. 9-18.
 [^14]: *Supra* note 3.
-[^15]: See Republic Act No. 10173, Section 3(j).
+[^15]: See [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173, Section 3(j)]].
 [^16]: *Vivares v. STC*, GR No. 202666, 737 SCRA 92, 29 September 2014.
-[^17]: See Republic Act No. 10173, Section 12.
+[^17]: See [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Republic Act No. 10173, Section 12]].
 [^18]: Comment dated 15 November 2019, p. 10. Emphasis supplied.
-[^19]: See Republic Act No. 10173, Section 3(b).
-[^20]: Implementing Rules and Regulations of the Data Privacy Act, Section 18(a).
+[^19]: See [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Republic Act No. 10173, Section 3(b)]].
+[^20]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Implementing Rules and Regulations of the Data Privacy Act, Section 18(a)]].
 [^21]: Comment dated 15 November 2019, p. 8.
 [^22]: *Ibid.*, at p. 9.
 [^23]: See Guidelines on transparency under Regulation 2016/679 of the Article 29 Working Party (2017).
@@ -238,12 +238,12 @@ National Privacy Commission
 [^25]: Comment dated 15 November 2019, Annex "B".
 [^26]: *Ibid.*, at p. 9.
 [^27]: *Bricktown Development Corp. v. CA*, G.R. No. 112182, 12 December 1994.
-[^28]: Republic Act No. 10173, Section 2.
+[^28]: [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Republic Act No. 10173, Section 2]].
 [^29]: CONST. art. II, § 11.
 [^30]: United Nations, *Universal Declaration of Human Rights* (nd) available at https://www.un.org/en/universal-declaration-human-rights/
 [^31]: *Ombudsman v. Fetalvero*, G.R. No. 211450, 23 July 2018.
 [^32]: Complaints-Assisted Form dated 8 July 2019, p. 5.
-[^33]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] dated 15 December 2016 ("NPC Rules of Procedure"), Section 22. Emphasis supplied.
+[^33]: [[issuances/undated/rules-of-procedure#rule-iii-procedure-in-complaints|NPC Circular No. 16-04]] dated 15 December 2016 ("NPC Rules of Procedure"), Section 22. Emphasis supplied.
 [^34]: G.R. No. 165585, 20 November 2013, citing *Real v. Belo*, 542 Phil. 109 (2007).
-[^35]: Republic Act No. 10173, Section 25.
-[^36]: *Id.*, at Section 28.
+[^35]: [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Republic Act No. 10173, Section 25]].
+[^36]: *Id.*, at [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28]].

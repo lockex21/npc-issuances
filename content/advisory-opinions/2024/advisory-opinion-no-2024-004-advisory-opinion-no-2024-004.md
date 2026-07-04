@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2024-004 — Access to Individual User Accounts by Service Provider"
 description: "Guidance on service provider processing of personal and sensitive personal information through automated access to user accounts."
+aliases:
+  - "NPC Advisory Opinion No. 2024-004"
+  - "npc advisory opinion no. 2024-004"
+  - "Advisory Opinion No. 2024-004"
+  - "advisory opinion no. 2024-004"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -24,7 +29,7 @@ draft: false
 
 Re: ACCESS TO INDIVIDUAL USER ACCOUNTS BY SERVICE PROVIDER
 
-We respond to your request for an Advisory Opinion on whether the Data Privacy Act of 2012 (DPA)[^2] permits an arrangement wherein a service provider such as Smile Technology Pte. Ltd. (Smile) may process personal information and sensitive personal information (collectively, personal data) by accessing individual user accounts from government or financial sites through a separate digital platform.
+We respond to your request for an Advisory Opinion on whether the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^2] permits an arrangement wherein a service provider such as Smile Technology Pte. Ltd. (Smile) may process personal information and sensitive personal information (collectively, personal data) by accessing individual user accounts from government or financial sites through a separate digital platform.
 
 You state that your client, Smile, is a foreign company that is building a digital platform which
 provides companies with a unified application programming interface (API) to access the
@@ -127,7 +132,7 @@ this specific service.
 
 Be that as it may, Smile must also comply with the requirements provided by the DPA and other relevant rules and regulations similar to a PIC. In addition, a PIP is also bound to adhere to the terms and conditions agreed upon in its contract with the PIC.[^9]
 
-As a PIP, one of the basic requirements is for Smile to designate a data protection officer (DPO) in the Philippines and register its processing systems with the NPC. Even though Smile is a foreign corporation and its processing activities happen outside of the Philippines, it is still obligated to comply with the DPA since it processes the personal information of Philippine citizens and residents.[^10] Moreover, Smile must also comply with NPC Circular No. 2022-04 on the registration of personal data processing systems, a copy of which is available at https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-2.pdf.
+As a PIP, one of the basic requirements is for Smile to designate a data protection officer (DPO) in the Philippines and register its processing systems with the NPC. Even though Smile is a foreign corporation and its processing activities happen outside of the Philippines, it is still obligated to comply with the DPA since it processes the personal information of Philippine citizens and residents.[^10] Moreover, Smile must also comply with [[issuances/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|NPC Circular No. 2022-04]] on the registration of personal data processing systems, a copy of which is available at https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-2.pdf.
 
 Smile should also perform regular privacy impact assessments (PIA) to identify and evaluate
 potential privacy risks. These assessments should suggest measures to address and reduce the
@@ -202,21 +207,21 @@ FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
 [^1]: Tags: automated access; personal information processor; consent.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012]; Republic Act No. 10173, (2012).
-[^3]: Data Privacy Act of 2012, Section 3 (b).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012]; [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], (2012).
+[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, Section 3 (b)]].
 [^4]: Ibid.
 [^5]: National Privacy Commission, Guidelines on Deceptive Design Patterns, [[issuances/2023/guidelines-on-deceptive-design-patterns|NPC Advisory No. 2023-01]], Section 2 (A) (7 November 2023).
 [^6]: Id. Section 3.
-[^7]: Id. Section 3 (h).
-[^8]: Id. Section 3 (i).
-[^9]: Implementing Rules and Regulations of Republic Act No. 10173, known as the "Data Privacy Act of 2012" [Implementing Rules and Regulations of Data Privacy Act of 2012], Section 45 (2016).
-[^10]: Data Privacy Act of 2012, Section 6 (b).
-[^11]: Id. Section 16 (c).
-[^12]: Id. Section 18.
-[^13]: Implementing Rules and Regulations of the Data Privacy Act of 2012, Section 36.
-[^14]: Id. Section 34 (d).
-[^15]: Data Privacy Act of 2012, Section 11 (a).
-[^16]: Id. Section 11 (c).
-[^17]: Id. Section 11 (d).
-[^18]: Id. Section 11 (e).
-[^19]: Data Privacy Act of 2012, Section 20 (c) (4).
+[^7]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (h)]].
+[^8]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (i)]].
+[^9]: Implementing Rules and Regulations of Republic Act No. 10173, known as the "Data Privacy Act of 2012" [Implementing Rules and Regulations of Data Privacy Act of 2012], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-45-duty-of-personal-information-processor|Section 45]] (2016).
+[^10]: [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|Data Privacy Act of 2012, Section 6 (b)]].
+[^11]: Id. [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (c)]].
+[^12]: Id. [[laws/data-privacy-act-of-2012#section-18-right-to-data-portability|Section 18]].
+[^13]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-36-right-to-data-portability|Implementing Rules and Regulations of the Data Privacy Act of 2012, Section 36]].
+[^14]: Id. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 (d)]].
+[^15]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, Section 11 (a)]].
+[^16]: Id. [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 (c)]].
+[^17]: Id. [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 (d)]].
+[^18]: Id. [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 (e)]].
+[^19]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, Section 20 (c) (4)]].

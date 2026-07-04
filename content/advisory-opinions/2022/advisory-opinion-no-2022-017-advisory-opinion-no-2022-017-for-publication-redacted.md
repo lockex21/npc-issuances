@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2022-017 — Disclosure of Personal Information for Cybersecurity Investigations"
 description: "The NPC addresses whether a corporation may disclose personal information of account holders to a business partner investigating fraudulent transactions without prior data subject consent."
+aliases:
+  - "NPC Advisory Opinion No. 2022-017"
+  - "npc advisory opinion no. 2022-017"
+  - "Advisory Opinion No. 2022-017"
+  - "advisory opinion no. 2022-017"
 tags:
   - issuance
   - type/advisory-opinion
@@ -24,7 +29,7 @@ Re: DISCLOSURE OF PERSONAL INFORMATION FOR CYBERSECURITY INVESTIGATIONS
 
 Dear [Redacted]:
 
-We respond to your request for an Advisory Opinion on the application of Republic Act 10173 (or the Data Privacy Act of 2012 [DPA])[^2] on your client's request for information from a certain corporation for investigation purposes regarding a cybersecurity incident.
+We respond to your request for an Advisory Opinion on the application of [[laws/data-privacy-act-of-2012|Republic Act 10173 (or the Data Privacy Act of 2012 [DPA])]][^2] on your client's request for information from a certain corporation for investigation purposes regarding a cybersecurity incident.
 
 We understand that your client, Corporation A, is the owner, operator, and franchise licensor of Brand B stores in the Philippines. Besides being a seller of consumer products, Brand B stores offer e-services such as bills payment, top up, cash-in, and remittance for its accredited merchant partners. One of Corporation A's largest merchant partner is Corporation C which is an e-Money Issuer.
 
@@ -76,7 +81,7 @@ However, item no. 10 [any other details that could aid Corporation A in the inve
 
 #### Consent or Court Order Not Required for Disclosure; Information Necessary for the Establishment, Exercise or Defense of Legal Claims
 
-It is your contention that all of the Requested Information, including item no. 3 [information regarding the accounts, including details on date of creation, manner of KYC, and other pertinent details], are not covered by the DPA. You also contend that even if items 1, 2, and 4 to 10 are considered as personal data, such information may still be disclosed without the need for the data subject's consent or a court order, citing Sections 12 (f) and 13 (f) of the DPA in conjunction with the National Privacy Commission's (NPC) Decision in *BGM vs. IPP*.[^5]
+It is your contention that all of the Requested Information, including item no. 3 [information regarding the accounts, including details on date of creation, manner of KYC, and other pertinent details], are not covered by the DPA. You also contend that even if items 1, 2, and 4 to 10 are considered as personal data, such information may still be disclosed without the need for the data subject's consent or a court order, citing [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12 (f)]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13 (f) of the DPA]] in conjunction with the National Privacy Commission's (NPC) Decision in *BGM vs. IPP*.[^5]
 
 We find merit in your argument.
 
@@ -98,7 +103,7 @@ In [[advisory-opinions/2021/advisory-opinion-no-2021-036-disclosure-of-loan-docu
 
 > In the interpretation of the phrase "establishment, exercise or defense of legal claims," the Commission reiterated its stand in the case of *BGM vs. IPP*, viz:
 >
-> In the case of NPC 17-018 dated 15 July 2019, this Commission held that "processing as necessary for the establishment of legal claims" does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of "establishment … of legal claims" presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established."
+> In the case of [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]] dated 15 July 2019, this Commission held that "processing as necessary for the establishment of legal claims" does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of "establishment … of legal claims" presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established."
 >
 > …
 >
@@ -129,10 +134,10 @@ FRANKLIN ANTHONY M. TABAQUIN IV
 *Director IV, Privacy Policy Office*
 
 [^1]: Tags: personal data; lawful processing; consent of data subjects; legal claims; Sec. 13 (f), DPA.
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 3 (g).
-[^4]: *Id.* § 3 (l).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (g)]].
+[^4]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]].
 [^5]: National Privacy Commission, *BGM vs. IPP*, [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (17 December 2020), available at https://www.privacy.gov.ph/wpcontent/uploads/2021/02/NPC-19-653-BGM-vs-IPP-Decision-FINAL-Pseudonymized-21Dec2020.pdf (last accessed 03 February 2022).
 [^6]: National Privacy Commission, Advisory Opinion No. 2021-036 (23 September 2021).
 [^7]: *Id.* Citations omitted.
-[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]] (2016).

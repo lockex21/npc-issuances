@@ -8,6 +8,11 @@ tags:
   - "topic/consent"
   - "topic/employment"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-012"
+  - "npc advisory opinion no. 2018-012"
+  - "Advisory Opinion No. 2018-012"
+  - "advisory opinion no. 2018-012"
 ---
 
 ## Source
@@ -29,11 +34,11 @@ This pertains to your request for advisory opinion received by the Privacy Polic
 
 At the outset, it is important to establish that the respondents in the DAMA case are former employees of the NAPOCOR, a government-owned and controlled corporation, created under Commonwealth Act No. 120.[^1]
 
-Section 4 of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^2] also known as the Data Privacy Act of 2012 (DPA), provides that the law does not apply to information about officers or employees of government institutions, particularly relating to the position or function of such individual, including the classification, salary range and responsibilities of the position held by such employee. The exemption is only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned.
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^2] also known as the Data Privacy Act of 2012 (DPA), provides that the law does not apply to information about officers or employees of government institutions, particularly relating to the position or function of such individual, including the classification, salary range and responsibilities of the position held by such employee. The exemption is only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned.
 
 ### Discussion
 
-Furthermore, personal information may be lawfully processed when it is necessary for compliance with a legal obligation to which TransCo is subject.[^3] In this case, we understand that TransCo is required to provide the service records of the respondents in order to fulfill the judgement of the court. Indeed, the judgment in the case will not be fully executed without information pertaining to the years of service of the employees, as well as the corresponding salary of the last position held.
+Furthermore, personal information may be lawfully processed when it is [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|necessary for compliance with a legal obligation]] to which TransCo is subject.[^3] In this case, we understand that TransCo is required to provide the service records of the respondents in order to fulfill the judgement of the court. Indeed, the judgment in the case will not be fully executed without information pertaining to the years of service of the employees, as well as the corresponding salary of the last position held.
 
 Considering that there is a legal obligation to disclose the service records, TransCo can lawfully release the service records, even without the consent of the data subjects or employees, in this case.
 
@@ -57,8 +62,8 @@ Privacy Commissioner and Chairman
 
 [^2]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, “Data Privacy Act of 2012” (15 August 2012).
 
-[^3]: *Id.*, §12(c).
+[^3]: *Id.*, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12(c)]].
 
-[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of RA No. 10173, §18(c).
+[^4]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Implementing Rules and Regulations of RA No. 10173, §18(c)]].
 
 [^5]: Republic of the Philippines, et al., vs. Hon. Luisito G. Cortez, et al, G.R No. 187257 and Rolando G. Andaya vs. Hon. Luisito G. Cortez, et. al., G.R No. 187776 (07 February 2017).

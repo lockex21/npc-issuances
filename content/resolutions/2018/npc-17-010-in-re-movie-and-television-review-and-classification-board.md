@@ -38,7 +38,7 @@ AGUIRRE, D.P.C.
 
 ### Facts
 
-Before the Commission is the Movie and Television Review and Classification Board's (MTRCB) breach notification and management in compliance with NPC Circular 16-03 (Personal Data Breach Management).
+Before the Commission is the Movie and Television Review and Classification Board's (MTRCB) breach notification and management in compliance with [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).
 
 To recall, MTRCB requested for exemption from notification of its data subjects on 07 March 2018.[^1] MTRCB also requested for a sixty-day extension period if the exemption is not feasible.[^2]
 
@@ -134,7 +134,7 @@ On 07 July 2022, the MTRCB responded to the EnD.[^36] MTRCB reported that fifty-
 
 MTRCB also reported that despite continuous efforts, it was unable to obtain confirmation from the remaining twenty (20) recipients.[^39] It submitted an Affidavit of the Head of MTRCB's Information Technology Unit, which states that the Head of the IT Unit personally sent out the Notice of Data Breach to all the affected data subjects, including the remaining twenty (20) individuals.[^40]
 
-MTRCB explained that the delay in the conduct of the independent security audit was due to several factors: constraints in the approved budget for procurement;[^41] subsequent delays in bidding and procurement;[^42] the delayed release of the Notice of Award (NOA) and Notice to Proceed (NTP) dated 30 June 2021 to Next Generation;[^43] and the need to redo the bidding process under Section 38.1 of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of Republic Act No. 9184, or the Government Procurement Act.[^44] Nonetheless, MTRCB stated that the audit was eventually and successfully completed on 27 May 2022.[^45] It reported:
+MTRCB explained that the delay in the conduct of the independent security audit was due to several factors: constraints in the approved budget for procurement;[^41] subsequent delays in bidding and procurement;[^42] the delayed release of the Notice of Award (NOA) and Notice to Proceed (NTP) dated 30 June 2021 to Next Generation;[^43] and the need to redo the bidding process under Section 38.1 of the Implementing Rules and Regulations of Republic Act No. 9184, or the Government Procurement Act.[^44] Nonetheless, MTRCB stated that the audit was eventually and successfully completed on 27 May 2022.[^45] It reported:
 
 In the course of the audit, Next Generation identified the following areas of weakness that require the attention of the Board:
 
@@ -188,7 +188,7 @@ MTRCB stated that "in the interest of limiting the exposure of the sensitive sec
 
 ### Issue
 
-Whether the MTRCB conducted proper breach notification and management in compliance with NPC Circular 16-03.
+Whether the MTRCB conducted proper breach notification and management in compliance with [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
 ### Discussion
 
@@ -196,7 +196,7 @@ MTRCB conducted proper breach management through notification of data subjects t
 
 The notification of data subjects is an essential obligation of a Personal Information Controller (PIC).[^75] The purpose of notification is to provide data subjects with an opportunity to take the necessary precautions to protect their own data against the possible effects of the breach.[^76] As such, PICs are required to "establish all reasonable mechanisms to ensure that all affected data subjects are made aware of the breach."[^77]
 
-Section 18 (C) of NPC Circular 16-03 (Personal Data Breach Management) provides the required contents of proper notification of affected data subjects:
+Section 18 (C) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management) provides the required contents of proper notification of affected data subjects:
 
 Section 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 
@@ -399,13 +399,13 @@ GENERAL RECORDS UNIT
 [^73]: *Id.* Annex E.
 [^74]: *Id.* Annex F.
 [^75]: NPC BN 21-035, 01 June 2021, at 4 (NPC 2021) (unreported).
-[^76]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 18 (D) (15 December 2016).
+[^76]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 18 (D) (15 December 2016).
 [^77]: *Id.*
 [^78]: *Id.* § 18 (C).
 [^79]: NPC BN 18-198, 23 September 2021, at 4 (NPC 2021) (unreported).
 [^80]: Letter Re: Compliance to the National Privacy Commission (NPC) Order No. CID BN 17-010, 18 May 2021, at 1, in In re: Movie and Television Review and Classification Board, NPC BN 17-010 (NPC 2021).
 [^81]: Compliance, 03 November 2022, Annex A, in In re: Movie and Television Review and Classification Board, NPC BN 17-010 (NPC 2022).
-[^82]: NPC Circ. No. 16-03, § 18 (D). Emphasis supplied.
+[^82]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 18 (D). Emphasis supplied.
 [^83]: *Id.*
 [^84]: *Id.*
 [^85]: Letter Re: Compliance to the National Privacy Commission (NPC) Order No. CID BN 17-010, 18 May 2021, at 1, in In re: Movie and Television Review and Classification Board, NPC BN 17-010 (NPC 2021).
@@ -416,7 +416,7 @@ GENERAL RECORDS UNIT
 [^90]: Final Enforcement Assessment Report, 23 November 2022, at 9-12, in In re: Movie and Television Review and Classification Board, NPC BN 17-010 (NPC 2022).
 [^91]: Order, 14 July 2022, at 6, in In re: Movie and Television Review and Classification Board, NPC BN 17-010 (NPC 2022).
 [^92]: *Id.* at 6.
-[^93]: NPC Circ. No. 16-03, § 18 (D). Emphasis supplied.
+[^93]: [[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]], § 18 (D). Emphasis supplied.
 [^94]: Order, 14 July 2022, at 7, in In re: Movie and Television Review and Classification Board, NPC BN 17-010 (NPC 2022).
 [^95]: *Id.*
 [^96]: Letter Re: Compliance with National Privacy Commission (NPC) Order dated 14 July 2022 for NPC BN 17-010, 03 November 2022, Annex B, in In re: Movie and Television Review and Classification Board, NPC BN 17-010 (NPC 2022).

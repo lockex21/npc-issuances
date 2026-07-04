@@ -82,7 +82,7 @@ Section 20 (a) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or th
 
 > **Section 20. Security of Personal Information.** (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^32]
 
-Section 17 (D) of NPC Circular 16-03 (Personal Data Breach Management) provides that a PIC has the obligation to notify the NPC of a personal data breach.[^33] Additionally, it outlines the contents of the notification, which includes the measures taken by the PIC to address the breach:
+Section 17 (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management) provides that a PIC has the obligation to notify the NPC of a personal data breach.[^33] Additionally, it outlines the contents of the notification, which includes the measures taken by the PIC to address the breach:
 
 > **Section 17. Notification of the Commission.** The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 >
@@ -172,8 +172,8 @@ National Privacy Commission
 [^29]: *Id.* Annex B.
 [^30]: *Id.* Annex C.
 [^31]: *Id.* Annex D.
-[^32]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 20 (a) (2012).
-[^33]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 17 (D) (15 December 2016).
+[^32]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Republic Act No. 10173 § 20 (a)]] (2012).
+[^33]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 ([[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]]), § 17 (D) (15 December 2016).
 [^34]: *Id.* § 11.
 [^35]: Email, 2 May 2018, in *In re: Smart Communications, Inc.*, NPC BN 18-063 (NPC 2018).
 [^36]: Letter, 24 March 2022, Annex A, in *In re: Smart Communications, Inc.*, NPC BN 18-063 (NPC 2022).

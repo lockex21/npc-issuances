@@ -7,6 +7,11 @@ tags:
   - "year/2025"
   - "topic/consent"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-006"
+  - "npc advisory opinion no. 2025-006"
+  - "Advisory Opinion No. 2025-006"
+  - "advisory opinion no. 2025-006"
 ---
 
 ## Source
@@ -22,7 +27,7 @@ draft: false
 
 **RE: DISCLOSURE OF PERSONAL DATA OF CONDOMINIUM UNIT OWNERS TO THE BUREAU OF INTERNAL REVENUE**
 
-We respond to your request for an advisory opinion seeking clarifications on whether Verve Residences Condominium Corporation (VRCC) can disclose to the Bureau of Internal Revenue (BIR) Revenue District Office (RDO) personal and sensitive personal information, (collectively personal data) of VRCC unit owners. You also seek guidance on whether the disclosure requires the consent of the unit owners under the Data Privacy Act of 2012 (DPA) and whether the requested personal data are covered by Special Cases under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the Implementing Rules and Regulations]] (IRR) of the DPA.
+We respond to your request for an advisory opinion seeking clarifications on whether Verve Residences Condominium Corporation (VRCC) can disclose to the Bureau of Internal Revenue (BIR) Revenue District Office (RDO) personal and sensitive personal information, (collectively personal data) of VRCC unit owners. You also seek guidance on whether the disclosure requires the consent of the unit owners under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (DPA)]] and whether the requested personal data are covered by Special Cases under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the Implementing Rules and Regulations]] (IRR) of the DPA.
 
 You inform that VRCC received an "Access Letter" from BIR RDO No. 44 requesting to provide them the following information:
 
@@ -40,7 +45,7 @@ You are concerned that a DPA violation may arise if in providing information to 
 
 We wish to clarify that consent is just one criterion for lawful processing of both personal and sensitive personal information. Consent may not always be the most appropriate basis for processing personal data. The lawful basis to be chosen must be one that most closely reflects the true nature of the relationship with the individual and the purpose of the processing.
 
-In the processing of personal data, there must at least be one criterion present set forth under Section 12 (for personal information) and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (for sensitive personal information and privileged information) of the DPA]]. In the case at hand, the disclosure of personal data of the unit owners upon the request of BIR RDO No. 44, may find basis under Section 12 (c) and Section 13 (f) of the DPA, which state that:
+In the processing of personal data, there must at least be one criterion present set forth under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] (for personal information) and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (for sensitive personal information and privileged information) of the DPA]]. In the case at hand, the disclosure of personal data of the unit owners upon the request of BIR RDO No. 44, may find basis under Section 12 (c) and Section 13 (f) of the DPA, which state that:
 
 > **SEC. 12. Criteria for Lawful Processing of Personal Information.** – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
@@ -60,7 +65,7 @@ These provisions provide for the most appropriate lawful criteria for processing
 
 #### Scope of the DPA; Special Cases Under the DPA; BIR Mandate Under the Tax Code, as Amended; Powers of the BIR Commissioner; Regulatory Mandate; Processing of Personal Information by a Public Authority
 
-In relation to the above-cited criteria for lawful processing, the DPA and its IRR recognize certain exceptions in favor of the processing conducted by specific public authorities, to wit:
+In relation to the above-cited criteria for lawful processing, the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] recognize certain exceptions in favor of the processing conducted by specific public authorities, to wit:
 
 > **Section 5. Special Cases.** The Act and these Rules shall not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:
 >
@@ -76,17 +81,17 @@ Likewise, [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-pe
 
 In the above-cited Advisory Opinions, it was mentioned that the BIR is a public authority tasked with the duty to, among others, ensure compliance with the National Internal Revenue Code (NIRC), as amended, and other relevant tax laws and issuances, and that the DPA recognizes the authority of the BIR Commissioner to obtain information in the evaluation of the tax compliance of any person.
 
-Additionally, [[advisory-opinions/2024/advisory-opinion-no-2024-016-npc-advisory-opinion-no-2024-016-disclosure-of-personal-data-pursuant-to-a-mo-by-the-bir-sgd-redacted|NPC Advisory Opinion No. 2024-016]][^4] states that: “xxx information required by a public authority in the exercise of its regulatory function pursuant to its constitutional or statutory mandate falls outside the DPA’s scope. However, as we have previously stated in Advisory Opinion No. 2020-015, this exemption must be interpreted strictly such that:
+Additionally, [[advisory-opinions/2024/advisory-opinion-no-2024-016-npc-advisory-opinion-no-2024-016-disclosure-of-personal-data-pursuant-to-a-mo-by-the-bir-sgd-redacted|NPC Advisory Opinion No. 2024-016]][^4] states that: “xxx information required by a public authority in the exercise of its regulatory function pursuant to its constitutional or statutory mandate falls outside the DPA’s scope. However, as we have previously stated in [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|Advisory Opinion No. 2020-015]], this exemption must be interpreted strictly such that:
 
 1. It applies solely to the minimum necessary collection, access, use, disclosure, or other processing related to the specific purpose, function, or activity. Any processing for regulatory purposes must comply with constitutional or statutory mandates and adhere strictly to all required substantive and procedural processes.
 
 2. Only the specified information is exempt from the DPA’s provisions. The public authority remains obligated as a personal information controller (PIC) under the DPA to implement security measures for personal data protection, respect data subject rights, and follow data privacy principles.”
 
-The BIR, as the primary agency tasked with the enforcement of national internal revenue laws, derives its authority from the NIRC. In furtherance of this mandate, the BIR is vested with the power to obtain information necessary to ensure taxpayer compliance and proper tax administration. Given that the request for personal data through “Access Letter” falls within the scope of BIR’s statutory mandate and that the information being sought is in fulfillment of that mandate, such processing of personal data in this context is deemed lawful under the DPA. In this regard, Section 12 (c) and Section 13(f) of the DPA, in relation to Section 5 of its IRR provide valid bases for such processing. Hence, you may provide the information requested by BIR RDO No. 44 pursuant to the agency’s mandate sans consent from the unit owners. Nevertheless, while you may have a lawful basis for processing, the same should be done with strict adherence to the general data privacy principles.[^5]
+The BIR, as the primary agency tasked with the enforcement of national internal revenue laws, derives its authority from the NIRC. In furtherance of this mandate, the BIR is vested with the power to obtain information necessary to ensure taxpayer compliance and proper tax administration. Given that the request for personal data through “Access Letter” falls within the scope of BIR’s statutory mandate and that the information being sought is in fulfillment of that mandate, such processing of personal data in this context is deemed lawful under the DPA. In this regard, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c)]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f)]] of the DPA, in relation to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of its IRR]] provide valid bases for such processing. Hence, you may provide the information requested by BIR RDO No. 44 pursuant to the agency’s mandate sans consent from the unit owners. Nevertheless, while you may have a lawful basis for processing, the same should be done with strict adherence to the general data privacy principles.[^5]
 
 #### Principle of Proportionality; Privacy Notice
 
-The DPA clarifies that processing, even if pursuant to a legal mandate, must be done lawfully and fairly, with strict adherence to the general data privacy principles of transparency, legitimate purpose, and proportionality.[^6]
+The [[laws/data-privacy-act-of-2012|DPA]] clarifies that processing, even if pursuant to a legal mandate, must be done lawfully and fairly, with strict adherence to the general data privacy principles of transparency, legitimate purpose, and proportionality.[^6]
 
 In particular, the principle of proportionality requires that personal information for processing must be accurate, relevant, adequate, and not excessive in relation to the specified and declared purpose. In addition, personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means. As such, it is crucial to ensure that the information to be disclosed should be limited only to what is necessary to achieve the objectives of the declared purpose.[^7]
 
@@ -112,10 +117,10 @@ ATTY. VIDA ZORA G. BOCAR
 OIC-Director IV, Privacy Policy Office
 
 [^1]: Tags: Disclosure; Personal Data; Condominium Unit Owners; Bureau of Internal Revenue; Tax Compliance; Data Privacy Act.
-[^2]: National Privacy Commission, Re: Collection of Personal Data by the Bureau of Internal Revenue for Tax Compliance Purposes, Advisory Opinion No. 2020-015 (24 February 2020).
-[^3]: National Privacy Commission, Re: Disclosure of Personal Data of Condominium Unit Owners/Tenants to the Bureau of Internal Revenue by Condominium Corporation to the Bureau of Internal Revenue, Advisory Opinion No. 2021-028 (16 July 2021).
-[^4]: National Privacy Commission, NPC Advisory Opinion No. 2024-016 (December 2024).
+[^2]: National Privacy Commission, Re: Collection of Personal Data by the Bureau of Internal Revenue for Tax Compliance Purposes, [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|Advisory Opinion No. 2020-015]] (24 February 2020).
+[^3]: National Privacy Commission, Re: Disclosure of Personal Data of Condominium Unit Owners/Tenants to the Bureau of Internal Revenue by Condominium Corporation to the Bureau of Internal Revenue, [[advisory-opinions/2021/advisory-opinion-no-2021-028-disclosure-of-personal-information-of-tenants-by-a-condominium-corporation-to-the-bureau-of-internal-revenue|Advisory Opinion No. 2021-028]] (16 July 2021).
+[^4]: National Privacy Commission, [[advisory-opinions/2024/advisory-opinion-no-2024-016-npc-advisory-opinion-no-2024-016-disclosure-of-personal-data-pursuant-to-a-mo-by-the-bir-sgd-redacted|NPC Advisory Opinion No. 2024-016]] (December 2024).
 [^5]: National Privacy Commission, Re: Request for Access to Taxpayer Information from a Local Government Unit, [[advisory-opinions/2025/advisory-opinion-no-2025-005-npc-advisory-opinion-no-2025-005-bir-makati-redacted|Advisory Opinion No. 2025-005]] (23 June 2025).
-[^6]: Data Privacy Act of 2012 (DPA), § 11.
+[^6]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (DPA)]], [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11]].
 [^7]: National Privacy Commission, Re: Disclosure of Personal Data Pursuant to a Department of Agriculture's Database for Audit Preparation Purposes, [[advisory-opinions/2025/advisory-opinion-no-2025-001-npc-advisory-opinion-no-2025-001|Advisory Opinion No. 2025-001]] (20 March 2025).
 [^8]: *Ibid.*

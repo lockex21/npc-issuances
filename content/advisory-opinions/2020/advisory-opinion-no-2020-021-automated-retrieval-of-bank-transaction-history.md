@@ -8,6 +8,11 @@ tags:
   - "topic/consent"
   - "topic/data-subject-rights"
   - "topic/online-lending"
+aliases:
+  - "NPC Advisory Opinion No. 2020-021"
+  - "npc advisory opinion no. 2020-021"
+  - "Advisory Opinion No. 2020-021"
+  - "advisory opinion no. 2020-021"
 draft: false
 ---
 ## Source
@@ -222,12 +227,12 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3 (g) (2012).
-[^3]: Id. § 3 (j).
-[^4]: Id. § 16 (c).
-[^5]: Id. § 18.
-[^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 36 (2016).
-[^7]: Data Privacy Act of 2012, § 3 (b).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]] (2012).
+[^3]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (j)]].
+[^4]: Id. [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16 (c)]].
+[^5]: Id. [[laws/data-privacy-act-of-2012#section-18-right-to-data-portability|§ 18]].
+[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-36-right-to-data-portability|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 36]] (2016).
+[^7]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (b)]].
 [^8]: Ibid.
-[^9]: Id. § 16 (a-b).
-[^10]: Data Privacy Act of 2012, § 20.
+[^9]: Id. [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16 (a-b)]].
+[^10]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, § 20]].

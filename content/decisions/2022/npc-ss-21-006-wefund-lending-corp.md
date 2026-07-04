@@ -53,7 +53,7 @@ On 09 June 2021, the CID submitted its FFR against JuanHand following numerous r
 
 initiated a sua sponte investigation against JuanHand[^2] pursuant to
 
-[[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] that mandates the Commission to institute investigations in cases it deems appropriate[^3] and NPC Circular 21-01 (2021 Rules of Procedure) that permits the NPC to initiate sua sponte investigations and file complaints for DPA violations.[^4] The FFR serves as the complaint, with the CID as the Nominal Complainant, in sua sponte investigations.[^5]
+[[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] that mandates the Commission to institute investigations in cases it deems appropriate[^3] and [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 21-01 (2021 Rules of Procedure)]] that permits the NPC to initiate sua sponte investigations and file complaints for DPA violations.[^4] The FFR serves as the complaint, with the CID as the Nominal Complainant, in sua sponte investigations.[^5]
 
 In the CID’s technical investigation, it downloaded JuanHand installer version v.3.7.1 from Google Play Store and simulated JuanHand’s registration and loan application processes.[^6]
 
@@ -435,9 +435,9 @@ Third, the CID assert ed that “Juan[H]and’s requirement of having
 
 access to phone book contacts even before the processing of the loan
 
-clearly violates NPC Circular No. 20 -01” or the Guidelines on the
+clearly violates NPC Circular No. 20 -01” or the [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the
 
-Processing of Personal Data for Loan -Related Transactions (Loan -
+Processing of Personal Data for Loan -Related Transactions]] (Loan -
 
 Related Transactions Circular ). 37  This is because , according to the CID,
 
@@ -1441,9 +1441,9 @@ of data subjects in accordance with Sections 12, 13, and 16 of the
 
 DPA. 148  It also submitted its rectified Security Incident Management
 
-Policy that complies with NPC Circular No. 16 -03 (Personal Data
+Policy that complies with [[issuances/undated/personal-data-breach-management|NPC Circular No. 16 -03 (Personal Data
 
-Breach Management) in order to prevent or minimize the occurrence
+Breach Management)]] in order to prevent or minimize the occurrence
 
 of a personal data breach and assure the timely discover y of a security
 
@@ -1463,7 +1463,7 @@ arguments found in their respective pleadings.
 
 Whether JuanHand and its Corporate Officers and Directors
 
-committed violations of the DPA and the Commission’s issuances that
+committed violations of the [[laws/data-privacy-act-of-2012|DPA]] and the Commission’s issuances that
 
 warrant a recommendation for prosecution.
 
@@ -1471,7 +1471,7 @@ warrant a recommendation for prosecution.
 
 JuanHand ’s position mainly assert ed that it is no longer liable for
 
-violations of the DPA and the Commission’s issuances since it already
+violations of the [[laws/data-privacy-act-of-2012|DPA]] and the Commission’s issuances since it already
 
 incorporated and made changes to the app to align with the results of
 
@@ -1544,7 +1544,7 @@ recommendation for prosecution.
 
 I.  JuanHand’s lapses in its actions result ed in a violation of
 
-Section 25 of the DPA .
+[[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]] .
 
 The root of the CID’s contentions stem med from the alleged
 
@@ -2391,9 +2391,9 @@ subjects in relation to the undisclosed permissions.
 
 Taking all the foregoing into consideration, JuanHand violated Section 25 of the DPA .
 
-II.  Liability of responsible officers based on Section 34 of the DPA.
+II.  Liability of responsible officers based on [[laws/data-privacy-act-of-2012#section-34-extent-of-liability|Section 34 of the DPA]].
 
-The DPA imposes criminal penalties on specific acts , which are
+The [[laws/data-privacy-act-of-2012|DPA]] imposes criminal penalties on specific acts , which are
 
 imposed by courts of law after the conduct of a criminal trial. 208  Upon
 
@@ -3504,7 +3504,7 @@ GENERAL RECORDS UNIT
 
 [^153]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18.
 
-[^154]: See JRG v. CXXX Lending Corporation, NPC Case No. 19-450, 09 June 2020, at 6, available at https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision_NPC-19-450-JRG-v.-CXXX.pdf (last accessed 30 May 2022).
+[^154]: See [[decisions/2020/npc-19-450-jrg-v-cxxx|JRG v. CXXX Lending Corporation, NPC Case No. 19-450]], 09 June 2020, at 6, available at https://www.privacy.gov.ph/wp-content/uploads/2022/01/Decision_NPC-19-450-JRG-v.-CXXX.pdf (last accessed 30 May 2022).
 
 [^155]: Id. Emphasis supplied.
 
@@ -3518,7 +3518,7 @@ GENERAL RECORDS UNIT
 
 [^160]: Id.
 
-[^161]: National Privacy Commission, Guidelines on the Processing of Personal Data for Loan-Related Transactions, Circular No. 01, Series of 2020 [NPC Circ. No. 20-01], § 3 (D)(4) (28 January 2021).
+[^161]: National Privacy Commission, [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions, Circular No. 01, Series of 2020]] [NPC Circ. No. 20-01], § 3 (D)(4) (28 January 2021).
 
 [^162]: Id.
 
@@ -3548,7 +3548,7 @@ GENERAL RECORDS UNIT
 
 [^175]: Resolution, 13 January 2022, at 6, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
 
-[^176]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, Section 3. Rendition of decision. The Decision of the Commission shall resolve the issues on the basis of all the evidence presented and its own consideration of the law. National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], rule VIII, § 3 (28 January 2021). Emphasis supplied.
+[^176]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, Section 3. Rendition of decision. The Decision of the Commission shall resolve the issues on the basis of all the evidence presented and its own consideration of the law. National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-viii-decision|2021 Rules of Procedure of the National Privacy Commission]] [NPC 2021 Rules of Procedure], rule VIII, § 3 (28 January 2021). Emphasis supplied.
 
 [^177]: Memorandum, 16 March 2022, at 9, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022); See Supplementary Fact-Finding Report (with Application for Issuance of Temporary Ban on the Processing of Personal Data), 05 July 2021, at 2-3, In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS Case No. 21-006 (NPC 2022).
 
@@ -3608,7 +3608,7 @@ GENERAL RECORDS UNIT
 
 [^205]: Data Privacy Act of 2012, § 34. Emphasis supplied.
 
-[^206]: In Re: FLI Operating ABC Online Lending Application, NPC 19-910, 17 December 2020, at 35, available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-910-In-re-FLI-Decision-LYA-Final-pseudonymized-17Dec2020-.pdf (last accessed 30 May 2022).
+[^206]: [[decisions/2020/npc-19-910-in-re-fli-operating-abc-online-lending-application|In Re: FLI Operating ABC Online Lending Application, NPC 19-910]], 17 December 2020, at 35, available at https://www.privacy.gov.ph/wp-content/uploads/2021/02/NPC-19-910-In-re-FLI-Decision-LYA-Final-pseudonymized-17Dec2020-.pdf (last accessed 30 May 2022).
 
 [^207]: [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021, at 12 (NPC 2021) (unreported).
 

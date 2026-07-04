@@ -59,7 +59,7 @@ To prevent the recurrence of the incident, Quicklend alleged that its Management
 
 Also, the Data Protection Officer (DPO) and his team were mandated to review and recommend processes to enhance Quicklend's data privacy procedure.[^8] They were allegedly scheduled to report their recommendations to the Management on or before 25 November 2018.[^9]
 
-On 26 October 2020, the CID issued an Order requiring Quicklend to submit its Full Report, to wit:
+On 26 October 2020, the CID issued an Order requiring Quicklend to submit its Full Report pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 on Personal Data Breach Management]], to wit:
 
 > Pursuant to subparagraph C, Section 17, Rule V of the National Privacy Commission Circular No. 16-03 on Personal Data Breach Management, you are hereby required to submit a Full Report detailing the incident containing the following information with emphasis supplied on the lacking information from the initial notification report we received:
 >
@@ -133,7 +133,7 @@ The Commission finds that the incident does not fall under mandatory breach noti
 
 #### I. The matter does not fall under mandatory breach notification.
 
-Section 11, NPC Circular 16-03 provides when notification is required:
+Section 11, [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides when notification is required:
 
 > **SECTION 11. When notification is required.**
 >
@@ -165,7 +165,7 @@ Thus, notwithstanding that the emails contained information that may enable iden
 
 #### II. Quicklend has implemented sufficient, reasonable, and appropriate measures to address the incident.
 
-Section 20 (a) and (b) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) provides:
+[[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 (a) and (b)]] of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) provides:
 
 > **Sec. 20. Security of Personal Information.**
 >
@@ -201,7 +201,7 @@ As proof of notification, Quicklend attached in its compliance a screenshot of t
 
 Quicklend also assured its clients that they would be willing to lend assistance regarding any inconveniences that may have arisen from the personal data breach.[^30]
 
-In line with this, Rule V, Sections 18 (A) and (D) of NPC Circular 16-03 (Personal Data Breach Management) state:
+In line with this, Rule V, Sections 18 (A) and (D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management) state:
 
 > **SECTION 18. Notification of Data Subjects.**
 >
@@ -276,13 +276,13 @@ National Privacy Commission
 [^16]: Id, at p. 3.
 [^17]: Id.
 [^18]: Id, at p. 3.
-[^19]: National Privacy Commission, Personal Data Breach Management, NPC Circular 2016-03, rule V, § 11 (15 December 2016) (NPC Circular 16-03).
+[^19]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 2016-03]], rule V, § 11 (15 December 2016) (NPC Circular 16-03).
 [^20]: NPC BN 17-028 and NPC BN 18-180 (Unreported), Resolution dated 11 May 2023.
 [^21]: Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc., at p. 2.
 [^22]: Id.
 [^23]: Breach Notification dated 05 November 2018 of Quicklend Financing Company, Inc.
 [^24]: Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc.
-[^25]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter V, § 20 (a)(b) (2012).
+[^25]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter V, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (a)(b)]] (2012).
 [^26]: Data Breach Report dated 11 February 2021 of Quicklend Financing Company, Inc., at p. 3.
 [^27]: Notice to Data Subjects dated 07 November 2018 of Quicklend Financing Company, Inc.
 [^28]: Id.

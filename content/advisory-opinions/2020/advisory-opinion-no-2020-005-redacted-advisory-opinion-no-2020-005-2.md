@@ -7,6 +7,11 @@ tags:
   - year/2020
   - topic/consent
   - topic/employment
+aliases:
+  - "NPC Advisory Opinion No. 2020-005"
+  - "npc advisory opinion no. 2020-005"
+  - "Advisory Opinion No. 2020-005"
+  - "advisory opinion no. 2020-005"
 draft: false
 ---
 
@@ -24,7 +29,7 @@ Re: VERIFICATION OF PRE-EMPLOYMENT DOCUMENTS
 
 Dear [Redacted],
 
-We write in response to your inquiry received by the National Privacy Commission (NPC) seeking to clarify the lawfulness of document verification in relation to the requirements under Data Privacy Act of 2012[^2] (DPA).
+We write in response to your inquiry received by the National Privacy Commission (NPC) seeking to clarify the lawfulness of document verification in relation to the requirements under [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 We understand that your company, Dataflow Verification Services Limited (Dataflow), confirms the authenticity of the documents submitted by applicants of government agencies, regulators and organizations as part of their pre-employment or pre-licensing requirements, such as, education and employment certificates, passports, practice licenses. Under your normal operations, you ask the applicants to sign a Letter of Consent/Authorization which you present to the different agencies and entities who issue the documents to be verified.
 
@@ -39,7 +44,7 @@ You now seek clarification on the following issues:
 
 #### Verification documents; personal information; sensitive personal information; lawful criteria for processing
 
-The data privacy principle of legitimate purpose requires that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals or public policy.[^3] The DPA explicitly provides the lawful criteria for processing of personal and sensitive personal information under Sections 12 and 13, respectively.
+The data privacy principle of legitimate purpose requires that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals or public policy.[^3] The DPA explicitly provides the lawful criteria for processing of personal and sensitive personal information under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]], respectively.
 
 In general, processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the conditions under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] are met.[^4] While verification or authentication of personal information submitted by an applicant as part of the pre-employment requirements may fall under Section 12 (b) of the DPA or Section 12 (f), said legal bases only apply to personal information and not sensitive personal information.
 
@@ -83,7 +88,7 @@ Very truly yours,
 Privacy Commissioner and Chairman
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (b) (2016).
-[^4]: Data Privacy Act of 2012, § 12.
-[^5]: Data Privacy Act of 2012, § 3 (b).
+[^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18]] (b) (2016).
+[^4]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§ 12]].
+[^5]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (b).
 [^6]: Id.

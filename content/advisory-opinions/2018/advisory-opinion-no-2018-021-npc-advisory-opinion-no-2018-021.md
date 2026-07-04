@@ -7,6 +7,11 @@ tags:
   - “year/2018”
   - topic/consent
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-021"
+  - "npc advisory opinion no. 2018-021"
+  - "Advisory Opinion No. 2018-021"
+  - "advisory opinion no. 2018-021"
 ---
 
 ## Source
@@ -56,7 +61,7 @@ Since the NTC issued such circular in 2007, telephone operators are expected to 
 
 Consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of his or her personal, sensitive personal, or privileged information.
 
-Indeed, the NTC MC is in consonance with the DPA, whereby the data subjects, or subscribers in this case, has the option to be included or excluded from the list, considering that it involves the publication of personal data of all subscribers in the Philippines.[^7]
+Indeed, the NTC MC is in consonance with the [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|DPA]], whereby the data subjects, or subscribers in this case, has the option to be included or excluded from the list, considering that it involves the publication of personal data of all subscribers in the Philippines.[^7]
 
 The NPC recommends the strict implementation of said NTC MC, specifically the provision concerning the need to obtain the consent of the subscriber.
 

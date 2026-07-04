@@ -82,9 +82,9 @@ NAGA, P.C.;
 
 ### Facts
 
-Before the Commission are the consolidated cases filed by SSS against Respondents RGC, MTD, and FSD (collectively, Respondents), individually, for an alleged violation of Sections 25 (Unauthorized Processing), 26 (Access due to Negligence), 28
+Before the Commission are the consolidated cases filed by SSS against Respondents RGC, MTD, and FSD (collectively, Respondents), individually, for an alleged violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Sections 25]] (Unauthorized Processing), [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|26]] (Access due to Negligence), [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|28]]
 
-(Processing for Unauthorized Purposes), 31 (Malicious Disclosure), and 32 (Unauthorized Disclosure) of Republic Act No. 10173 or the Data Privacy Act of 2012 (“DPA”).
+(Processing for Unauthorized Purposes), [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|31]] (Malicious Disclosure), and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]] (Unauthorized Disclosure) of Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (“DPA”).
 
 On 25 April 2023, the Commission, through its Complaints and Investigation Division (CID), received the individual Complaints Assisted Form (CAF) filed by the Complainant against the Respondents reiterating the same allegations.[^1]
 
@@ -146,15 +146,15 @@ On 26 July 2023, counsel for the Complainant filed his Entry of Appearance throu
 
 ### Issue
 
-Whether or not Respondents RGC, MTD, and FSD are liable for violating Sections 25 (Unauthorized Processing), 26 (Access due to Negligence), 28 (Processing for Unauthorized Purposes), 31 (Malicious Disclosure), and 32 (Unauthorized Disclosure) of the DPA.
+Whether or not Respondents RGC, MTD, and FSD are liable for violating [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Sections 25]] (Unauthorized Processing), [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|26]] (Access due to Negligence), [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|28]] (Processing for Unauthorized Purposes), [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|31]] (Malicious Disclosure), and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]] (Unauthorized Disclosure) of the [[laws/data-privacy-act-of-2012|DPA]].
 
 ### Discussion
 
 The Commission dismisses the complaint for lack of merit.
 
-#### I. Respondents cannot be held liable for the violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].
+#### I. Respondents cannot be held liable for the violation of Section 25 of the DPA.
 
-To determine whether Section 25 of the DPA is violated, the following requisites must be present:
+To determine whether [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25]] of the [[laws/data-privacy-act-of-2012|DPA]] is violated, the following requisites must be present:
 
 1. The accused processed the information of the data subject;
 2. The information processed was personal information or sensitive personal information; and,
@@ -321,18 +321,18 @@ National Privacy Commission
 [^56]: Complaints-Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23-064, NPC Case No. 23-064, and NPC Case No. 23-066), Complaint Affidavit of SSS against RGC, MTD, and FSD, at p. 2.
 [^57]: *Id.*, at p. 2.
 [^58]: *Id.*, at p. 2.
-[^59]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, § 3(j) (2012).
+[^59]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(j)]] (2012).
 [^60]: Complaints-Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23-064, NPC Case No. 23-064, and NPC Case No. 23-066), Complaint Affidavit of SSS against RGC, MTD, and FSD, at p. 2.
 [^61]: *Id.*, at p. 2, See: Annex C.
 [^62]: Complaints-Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23-064, NPC Case No. 23-064, and NPC Case No. 23-066), Complaint Affidavit of SSS against RGC, MTD, and FSD, at p. 2, See: Annex C.
-[^63]: Section 3 (g) of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012.
+[^63]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (g)]] of Republic Act No. 10173, otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
 [^64]: Complaints-Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23-064, NPC Case No. 23-064, and NPC Case No. 23-066), Complaint Affidavit of SSS against RGC, MTD, and FSD, at p. 2.
-[^65]: Section 12 (f) and Section 13 (f) of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012.
-[^66]: *EA and TA v. EJ, EE, and HC*, NPC Case No. 17-018 dated 15 July 2019, at p. 8-10.
+[^65]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f)]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] of Republic Act No. 10173, otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
+[^66]: *EA and TA v. EJ, EE, and HC*, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC Case No. 17-018]] dated 15 July 2019, at p. 8-10.
 [^67]: Verified Comment of RGC dated 05 June 2023, at p. 5.
 [^68]: *Id.*
-[^69]: Section 11 of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012.
-[^70]: *KRL vs. Trinity University of Asia*, AA, MC, NCB, RG, GV, GCT, RR, MR, PB, CID Case no. 17-K-003, dated 19 November 2019.
-[^71]: *JCB vs. FRL*, NPC 21-031, dated 03 March 2022.
+[^69]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11]] of Republic Act No. 10173, otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]].
+[^70]: *KRL vs. Trinity University of Asia*, AA, MC, NCB, RG, GV, GCT, RR, MR, PB, [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|CID Case no. 17-K-003]], dated 19 November 2019.
+[^71]: *JCB vs. FRL*, [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]], dated 03 March 2022.
 [^72]: Verified Comment of MTD and FSD dated 11 July 2023, at p. 7.
 [^73]: Complaints-Assisted Form of SSS dated 25 April 2024 (NPC Case No. 23-064, NPC Case No. 23-064, and NPC Case No. 23-066), Complaint Affidavit of SSS against RGC, MTD, and FSD, at p. 2, See: Annex C.

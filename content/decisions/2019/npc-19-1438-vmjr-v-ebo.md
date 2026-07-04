@@ -43,7 +43,7 @@ x----------------------------------------------------x
 
 **BELARMINO,** *D.P.C.;*
 
-Before this Commission is a Complaint filed by VMJR (Complainant) against EBO (Respondent) for alleged violations of Sections 25 (Unauthorized Processing of Personal Information and Sensitive Personal Information), 31 (Malicious Disclosure), and 32 (Unauthorized Disclosure) of the Data Privacy Act of 2012 or Republic Act No. 10173 ("DPA").
+Before this Commission is a Complaint filed by VMJR (Complainant) against EBO (Respondent) for alleged violations of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Sections 25]] (Unauthorized Processing of Personal Information and Sensitive Personal Information), [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|31]] (Malicious Disclosure), and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]] (Unauthorized Disclosure) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] or Republic Act No. 10173 ("DPA").
 
 ### Facts
 
@@ -125,7 +125,7 @@ Here, the Respondent has no longer any opportunity to provide any plain, speedy 
 
 ##### A. Respondent processed personal and sensitive personal information of Complainant.
 
-Section 3 (j), Chapter I of the DPA defines 'processing' as "any operation or any set of operations performed upon personal information".[^34] This includes posting of photos containing personal data on social media.
+[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (j), Chapter I]] of the DPA defines 'processing' as "any operation or any set of operations performed upon personal information".[^34] This includes posting of photos containing personal data on social media.
 
 Section 3, Chapter I of the DPA defines 'personal information' and 'sensitive personal information' as follows:
 
@@ -147,7 +147,7 @@ Thus, Respondent processed personal and sensitive personal information of Compla
 
 ##### B. The processing of personal and sensitive personal information had lawful basis.
 
-For the processing of personal and sensitive personal information to be lawful, it must have a lawful basis under the DPA.[^38] Section 13 (f), Chapter III of the DPA allows for the processing of sensitive personal information when it is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, to wit:
+For the processing of personal and sensitive personal information to be lawful, it must have a lawful basis under the DPA.[^38] [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f), Chapter III]] of the DPA allows for the processing of sensitive personal information when it is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, to wit:
 
 > **Section 13. Sensitive Personal Information and Privileged Information. –** The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
@@ -167,7 +167,7 @@ Therefore, the processing of personal and sensitive personal information had law
 
 ##### C. The processing of personal and sensitive personal information did not adhere to the general data privacy principle of proportionality.
 
-While the processing of personal and sensitive personal information may be lawful, as it is with a lawful basis under the DPA, such processing must still adhere to the general data privacy principles, such as the principle of proportionality.[^47] The qualifier "necessary" under Section 13 (f), Chapter III of the DPA cited previously pertains to this principle.[^48] Section 11 (c) and (d), Chapter III of the DPA provides:
+While the processing of personal and sensitive personal information may be lawful, as it is with a lawful basis under the DPA, such processing must still adhere to the general data privacy principles, such as the principle of proportionality.[^47] The qualifier "necessary" under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f), Chapter III]] of the DPA cited previously pertains to this principle.[^48] [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 (c) and (d), Chapter III]] of the DPA provides:
 
 > **Section 11. General Data Privacy Principles.** The processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.
 >
@@ -195,7 +195,7 @@ Given the foregoing, the processing of personal and sensitive personal informati
 
 #### III. Respondent is not liable under Section 25 of the DPA.
 
-With respect to the alleged violations under the DPA, Section 25, Chapter VIII of the DPA provides:
+With respect to the alleged violations under the DPA, [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25, Chapter VIII]] of the DPA provides:
 
 > Section 25. Unauthorized Processing of Personal Information and Sensitive Personal Information. – (a) The unauthorized processing of personal information shall be penalized by imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) shall be imposed on persons who process personal information without the consent of the data subject, or without being authorized under this Act or any existing law.
 >
@@ -215,7 +215,7 @@ Thus, Respondent is not liable under Section 25 of the DPA.
 
 #### IV. Respondent is not liable under Section 31 of the DPA.
 
-As to the alleged Malicious Disclosure, Section 31, Chapter VIII of the DPA states:
+As to the alleged Malicious Disclosure, [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31, Chapter VIII]] of the DPA states:
 
 > Section 31. Malicious Disclosure. – Any personal information controller or personal information processor or any of its officials, employees or agents, who, with malice or in bad faith, discloses unwarranted or false information relative to any personal information or personal sensitive information obtained by him or her, shall be subject to imprisonment ranging from one (1) year and six (6) months to five (5) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00).[^56]
 
@@ -242,7 +242,7 @@ Hence, absent the third and fourth requisites, Respondent cannot be deemed to ha
 
 #### V. Respondent is not liable under Section 32 of the DPA.
 
-With regard to the alleged Unauthorized Disclosure, Section 32, Chapter VIII of the DPA provides:
+With regard to the alleged Unauthorized Disclosure, [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32, Chapter VIII]] of the DPA provides:
 
 > Section 32. Unauthorized Disclosure. – (a) Any personal information controller or personal information processor or any of its officials, employees or agents, who discloses to a third party personal information not covered by the immediately preceding section without the consent of the data subject, shall be subject to imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00).
 >
@@ -267,7 +267,7 @@ Thus, absent the fourth and fifth requisites, Respondent cannot be liable for Un
 
 Notwithstanding the foregoing, Respondent's non-adherence to the general data privacy principle of proportionality in the processing of Complainant's personal and sensitive personal information warrants the award of nominal damages to Complainant.
 
-Section 37, Chapter VIII of the DPA provides for restitution for any aggrieved party under the Civil Code.[^69] Article 2221 of the New Civil Code is clear that nominal damages are adjudicated in order that a right of the plaintiff, which has been violated or invaded by the defendant, may be vindicated or recognized.[^70] Further, the Commission has ruled that the award of nominal damages to a complainant was warranted following a finding that the respondent therein failed to observe the general data privacy principle of proportionality.[^71]
+[[laws/data-privacy-act-of-2012#section-37-restitution|Section 37, Chapter VIII]] of the DPA provides for restitution for any aggrieved party under the Civil Code.[^69] Article 2221 of the New Civil Code is clear that nominal damages are adjudicated in order that a right of the plaintiff, which has been violated or invaded by the defendant, may be vindicated or recognized.[^70] Further, the Commission has ruled that the award of nominal damages to a complainant was warranted following a finding that the respondent therein failed to observe the general data privacy principle of proportionality.[^71]
 
 The DPA requires that the processing of personal information adhere to the general data privacy principles of transparency, legitimate purpose, and proportionality.[^72] In this case, Respondent failed to adhere to the principle of proportionality, as his act of posting the Orders on the Union's private Facebook group cannot be considered proportional to his purpose of informing the members of the status of the administrative and criminal cases against Complainant before the Office of the Ombudsman.
 
@@ -339,46 +339,46 @@ National Privacy Commission
 [^27]: *Vivares v. St. Theresa's College*, G.R. No. 202666, (September 29, 2014).
 [^28]: Reply, 02 January 2020, at 2, *in* VMJR v. EBO, NPC 19-1438 (NPC 2025).
 [^29]: Rejoinder-Affidavit, 20 January 2020, *in* VMJR v. EBO, NPC 19-1438 (NPC 2025).
-[^30]: National Privacy Commission, Rules of Procedure of the National Privacy Commission [NPC Rules of Procedure], Section 4, Rule II (Dec. 15, 2016).
+[^30]: National Privacy Commission, [[issuances/undated/rules-of-procedure|Rules of Procedure of the National Privacy Commission]] [NPC Rules of Procedure], Section 4, Rule II (Dec. 15, 2016).
 [^31]: *Id.*
 [^32]: Complaints-Assisted Form, 11 October 2019, at 2-3, *in* VMJR v. EBO, NPC 19-1438 (NPC 2025).
-[^33]: NPC Rules of Procedure, Section 4, Rule II.
-[^34]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 3 (j), Chapter I (2012).
-[^35]: *Id.* Section 3, Chapter I.
+[^33]: [[issuances/undated/rules-of-procedure|NPC Rules of Procedure]], Section 4, Rule II.
+[^34]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 (j), Chapter I]] (2012).
+[^35]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3, Chapter I]].
 [^36]: Complaints-Assisted Form, 11 October 2019, *in* VMJR v. EBO, NPC 19-1438 (NPC 2025).
 [^37]: *Id.*
 [^38]: ARG v. AMP, [[decisions/2024/npc-22-257-arg-v-amp|NPC 22-257]] (NPC 2024).
-[^39]: Data Privacy Act of 2012, Section 13 (f), Chapter III.
+[^39]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f), Chapter III]].
 [^40]: AQM v. PIT, NPT, and CNB, [[decisions/2024/npc-22-112-aqm-vs-pit-et-al|NPC 22-112]] (NPC 2024).
 [^41]: *Id.*
 [^42]: *Id.*
-[^43]: KRL v. Trinity University of Asia, AA, MC, NCB, RG GV, GCT, RR, MR, PB, CID Case No. 17-K-003 (NPC 2019).
-[^44]: AQM v. PIT, NPT, and CNB, NPC 22-112 (NPC 2024).
+[^43]: [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|KRL v. Trinity University of Asia, AA, MC, NCB, RG GV, GCT, RR, MR, PB, CID Case No. 17-K-003]] (NPC 2019).
+[^44]: AQM v. PIT, NPT, and CNB, [[decisions/2024/npc-22-112-aqm-vs-pit-et-al|NPC 22-112]] (NPC 2024).
 [^45]: Counter-Affidavit, 04 December 2019, at 2, *in* VMJR v. EBO, NPC 19-1438 (NPC 2025).
 [^46]: *Id.*
-[^47]: Data Privacy Act of 2012, Section 11, Chapter III.
+[^47]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11, Chapter III]].
 [^48]: JPV v. Souley MD Services, Inc., [[decisions/2024/npc-22-201-jpv-vs-souley-md-services-inc|NPC 22-201]] (NPC 2024).
-[^49]: Data Privacy Act of 2012, Section 11 (c) (d), Chapter III.
-[^50]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, Section 18 (c), Rule IV (2012).
+[^49]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11 (c) (d), Chapter III]].
+[^50]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 (c), Rule IV]] (2012).
 [^51]: Complaints-Assisted Form, 11 October 2019, at 3, *in* VMJR v. EBO, NPC 19-1438 (NPC 2025).
 [^52]: Counter-Affidavit, 04 December 2019, at 2, *in* VMJR v. EBO, NPC 19-1438 (NPC 2025).
-[^53]: Data Privacy Act of 2012, Section 25, Chapter VIII.
-[^54]: ARG v. AMP, NPC 22-257 (NPC 2024).
+[^53]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25, Chapter VIII]].
+[^54]: ARG v. AMP, [[decisions/2024/npc-22-257-arg-v-amp|NPC 22-257]] (NPC 2024).
 [^55]: Complaints-Assisted Form, 11 October 2019, at 3, *in* VMJR v. EBO, NPC 19-1438 (NPC 2025).
-[^56]: Data Privacy Act of 2012, Section 31, Chapter VIII.
+[^56]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Section 31, Chapter VIII]].
 [^57]: JCB v. FRL, [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]] (NPC 2022).
-[^58]: Data Privacy Act of 2012, Section 3, Chapter I.
+[^58]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3, Chapter I]].
 [^59]: Complaints-Assisted Form, 11 October 2019, at 3, *in* VMJR v. EBO, NPC 19-1438 (NPC 2025).
-[^60]: JCB v. FRL, NPC 21-031 (NPC 2022).
+[^60]: JCB v. FRL, [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]] (NPC 2022).
 [^61]: *Id.*
 [^62]: 2019 AMENDMENTS TO THE 1989 REVISED RULES ON EVIDENCE, Section 6, Rule 133.
 [^63]: Counter-Affidavit, 04 December 2019, at 2, *in* VMJR v. EBO, NPC 19-1438 (NPC 2025).
-[^64]: Data Privacy Act of 2012, Section 32, Chapter VIII.
-[^65]: JCB v. FRL, NPC 21-031 (NPC 2022).
+[^64]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|Section 32, Chapter VIII]].
+[^65]: JCB v. FRL, [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031]] (NPC 2022).
 [^66]: MAF v. Shopee Philippines, Inc., [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167]] (NPC 2022).
 [^67]: Complaints-Assisted Form, 11 October 2019, at 3, *in* VMJR v. EBO, NPC 19-1438 (NPC 2025).
 [^68]: Counter-Affidavit, 04 December 2019, at 2, *in* VMJR v. EBO, NPC 19-1438 (NPC 2025).
-[^69]: Data Privacy Act of 2012, Section 37, Chapter VIII.
+[^69]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-37-restitution|Section 37, Chapter VIII]].
 [^70]: An Act To Ordain And Institute The Civil Code Of The Philippines [CIVIL CODE OF THE PHILIPPINES], Republic Act No. 386, Article 2221 (1949).
-[^71]: MNLCI v. PXXX Corporation, et al., NPC 19-528 (NPC 2020).
-[^72]: Data Privacy Act of 2012, Section 11, Chapter III.
+[^71]: MNLCI v. PXXX Corporation, et al., [[decisions/2020/npc-19-528-mnlc-vs-pxxx-corporation|NPC 19-528]] (NPC 2020).
+[^72]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11, Chapter III]].

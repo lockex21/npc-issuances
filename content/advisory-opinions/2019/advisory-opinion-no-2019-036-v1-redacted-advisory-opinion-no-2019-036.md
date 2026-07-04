@@ -7,6 +7,11 @@ tags:
   - "year/2019"
   - "topic/data-sharing"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-036"
+  - "npc advisory opinion no. 2019-036"
+  - "Advisory Opinion No. 2019-036"
+  - "advisory opinion no. 2019-036"
 ---
 
 ## Source
@@ -23,7 +28,7 @@ Re: COLLECTION AND USE OF PATIENT CASE NUMBER AND APPOINTMENT OF COMPLIANCE OFFI
 Dear [Redacted],
 
 We write in response to your inquiry which sought to clarify matters regarding the
-requirements of the Data Privacy Act of 2012 2 (DPA) vis-à-vis the collection and use of
+requirements of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) vis-à-vis the collection and use of
 patients’ case numbers for the Philippine Obstetrical and Gynecological Society (Foundation),
 Inc. (POGS) Nationwide Statistics System (PNSS) and as a requirement for doctors applying
 for eligibility to take diplomate examinations.
@@ -159,7 +164,7 @@ agreement, a PIP has no other purpose or objective for processing the personal d
 that imposed by the instructions of the PIC.[^10]
 
 POGS and LF may enter into an outsourcing or subcontracting agreement as it is commonly
-understood, and not necessarily as described under Sections 43-45 of the IRR of the DPA, if
+understood, and not necessarily as described under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-43-subcontract-of-personal-data|Sections 43]]-[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-45-duty-of-personal-information-processor|45]] of the IRR of the DPA, if
 LF will not be processing any personal data for POGS in the course of the development of the
 applications and provided that LF will not be using the data for its own purpose. It likewise
 follows that there is no need for a data sharing agreement as defined above.
@@ -210,13 +215,13 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^3]: Id. § 4.
-[^4]: Id. § 3 (g).
-[^5]: See: Data Privacy Act of 2012, § 20.
-[^6]: National Privacy Commission, NPC Advisory Opinion No. 2018-016 (April 12, 2018), citing the Data Privacy Act of 2012, Article 29 Data Protection Working Party, Opinion 05/2014 on Anonymisation Techniques, 10 April 2014, and the EU General Data Protection Regulation, Recital 26.
+[^3]: Id. [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]].
+[^4]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (g)]].
+[^5]: See: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20]].
+[^6]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-016-npc-advisory-opinion-no-2018-016|NPC Advisory Opinion No. 2018-016]] (April 12, 2018), citing the Data Privacy Act of 2012, Article 29 Data Protection Working Party, Opinion 05/2014 on Anonymisation Techniques, 10 April 2014, and the EU General Data Protection Regulation, Recital 26.
 [^7]: Id.
-[^8]: National Privacy Commission, NPC Advisory Opinion No. 2017-57 (October 3, 2017).
+[^8]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-057-npc-advisoryopinionno-2017-057|NPC Advisory Opinion No. 2017-57]] (October 3, 2017).
 [^9]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-008-npc-advisoryopinionno-2017-008|NPC Advisory Opinion No. 2017-008]] (January 9, 2017).
 [^10]: Id.
 [^11]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Recital 26 (4 May 2016).
-[^12]: National Privacy Commission, NPC Advisory No. 2017-01.
+[^12]: National Privacy Commission, [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]].

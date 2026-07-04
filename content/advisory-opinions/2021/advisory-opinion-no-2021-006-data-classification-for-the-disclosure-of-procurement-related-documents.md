@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/government"
+aliases:
+  - "NPC Advisory Opinion No. 2021-006"
+  - "npc advisory opinion no. 2021-006"
+  - "Advisory Opinion No. 2021-006"
+  - "advisory opinion no. 2021-006"
 draft: false
 ---
 
@@ -32,7 +37,7 @@ We understand that the BAC of the BSP-SPC would like to establish consistency in
 
 #### [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]; scope; data classification approval
 
-We wish to clarify that the Data Privacy Act of 2012[^4] (DPA) would only apply to the processing of all types of personal information and to any natural and juridical person involved in personal information processing. Personal information is defined as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^5]
+We wish to clarify that the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^4] (DPA) would only apply to the processing of all types of personal information and to any natural and juridical person involved in personal information processing. Personal information is defined as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^5]
 
 Where procurement-related documents would contain personal information, the provisions of the DPA may apply to the processing, which includes disclosure of the same, to the public and requesting parties.
 
@@ -47,7 +52,7 @@ We note that government procurement is governed by certain principles:
 
 With the above in mind, our procurement laws require that procurement opportunities and related documents, i.e., Annual Procurement Plan, Request For Quotation, Invitation to Bid, Supplemental/Bid Bulletin, Notice to Bidders, Contracts Awarded (NTP, NOA, PO, & WO), among others, are made public by the procuring entity though posting in the official agency website, Transparency Seal, the Philippine Government Electronic Procurement System (PhilGEPS), and even physically posting hardcopies of relevant documents in conspicuous places in the office premises of the procuring entity.
 
-Hence, the disclosures above are required by a particular law or regulation and procuring entities must comply. This is read together with the DPA provisions, particularly Section 12 (c) where the processing of personal information is necessary for compliance with a legal obligation to which the PIC is subject, or 12 (e) where personal information is processed for the fulfillment of the functions of a public authority, or Section 13 (b), where processing sensitive personal information is provided for by existing laws and regulations.
+Hence, the disclosures above are required by a particular law or regulation and procuring entities must comply. This is read together with the DPA provisions, particularly [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c)]] where the processing of personal information is necessary for compliance with a legal obligation to which the PIC is subject, or [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|12 (e)]] where personal information is processed for the fulfillment of the functions of a public authority, or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b)]], where processing sensitive personal information is provided for by existing laws and regulations.
 
 #### Assessment; general data privacy principles
 

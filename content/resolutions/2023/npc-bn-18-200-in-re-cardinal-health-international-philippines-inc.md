@@ -64,7 +64,7 @@ Whether the matter requires mandatory breach notification.
 
 The Commission finds that this matter does not fall under mandatory breach notification. Thus, the Commission resolves to close the matter.
 
-Section 11 of NPC Circular 16-03 (Personal Data Breach Management) provides:
+Section 11 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03 (Personal Data Breach Management)]] provides:
 
 > **Section 11. When notification is required.** Notification shall be required upon knowledge of or when there is reasonable belief by the personal information controller or personal information processor that a personal data breach requiring notification has occurred, under the following conditions:
 >
@@ -152,8 +152,8 @@ National Privacy Commission
 [^15]: *Id.*
 [^16]: *Id.* at 3.
 [^17]: *Id.* at 2.
-[^18]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], § 11 (15 December 2016).
+[^18]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]], Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], § 11 (15 December 2016).
 [^19]: *In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does and Jane Does*, NPC SS 22-001 and NPC SS 22-008, 22 September 2022, at 19, available at https://www.privacy.gov.ph/wp-content/uploads/2023/01/NPC-SS-22-001-and-NPC-SS-22-008-2022.09.22-In-re-Commission-on-Elections-Decision-Final.pdf (last accessed 31 January 2023).
 [^20]: Notification to the Commission, 27 October 2018, at 4, *in In re: Cardinal Health International Philippines Inc.*, NPC BN 18-200 (NPC 2018).
 [^21]: *Id.*
-[^22]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 3 (l) (2012).
+[^22]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]] (2012).

@@ -177,7 +177,7 @@ In its Report dated 15 November 2018, Cathay reported the following measures und
 
 ### Discussion
 
-Upon careful examination of the reports and documents submitted by Cathay, the Commission finds the absence of any proof of the said notification to the affected data subjects. NPC Circular No. 16-03[^26] requires that all actions made by a personal information controller should be properly documented. This includes compliance with the notification requirements and assistance to affected data subjects:
+Upon careful examination of the reports and documents submitted by Cathay, the Commission finds the absence of any proof of the said notification to the affected data subjects. [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]][^26] requires that all actions made by a personal information controller should be properly documented. This includes compliance with the notification requirements and assistance to affected data subjects:
 
 > SECTION 9. Documentation. All actions taken by a personal information controller or personal information processor shall be properly documented. Reports should include:
 >
@@ -237,7 +237,7 @@ The Commission notes that Cathay failed to provide proof of notification to affe
 
 The Commission notes that Cathay did not provide proof of its reported notification of sixty-four thousand thirty-five (64,035) data subjects believed to be from the Philippines by email and five thousand twenty-four (5,024) data subjects who have postal addresses in the Philippines by mail. There is also no explanation on the discrepancy between these numbers and Cathay's analysis of a total of one hundred two thousand two hundred nine (102,209) affected data subjects in the Philippines; roughly thirty-five thousand seven hundred (35,700) exposed passport numbers from the Philippines and around one hundred forty-four (144) accessed credit card numbers from the Philippines.[^32]
 
-WHEREFORE, all premises considered and pursuant to the requirements of Section 18(A) and Section (D) of Circular No. 16-03, the Commission **ORDERS** Cathay Pacific Airways Limited to submit evidence of notification to the affected data subjects in or from the Philippines and explain any discrepancy from its abovementioned analysis of affected data subjects, exposed passport numbers, and accessed credit card numbers, within fifteen (15) days from receipt of this Order.
+WHEREFORE, all premises considered and pursuant to the requirements of Section 18(A) and Section (D) of [[issuances/undated/personal-data-breach-management|Circular No. 16-03]], the Commission **ORDERS** Cathay Pacific Airways Limited to submit evidence of notification to the affected data subjects in or from the Philippines and explain any discrepancy from its abovementioned analysis of affected data subjects, exposed passport numbers, and accessed credit card numbers, within fifteen (15) days from receipt of this Order.
 
 **SO ORDERED.**
 
@@ -290,10 +290,10 @@ GENERAL RECORDS UNIT
 [^23]: Administrative and Technical Measures. Attachment 1, CATHAY's Response dated 15 January 2021.
 [^24]: Report on the measures taken to address the breach dated 15 November 2018.
 [^25]: Administrative and Technical Measures. Attachment 1, CATHAY's Response dated 15 January 2021.
-[^26]: National Privacy Commission, Personal Data Breach Management, Circular No. 16-03 (December 15, 2016).
-[^27]: National Privacy Commission, Personal Data Breach Management, Circular No. 16-03 (December 15, 2016). Emphasis supplied.
+[^26]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 16-03]] (December 15, 2016).
+[^27]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, Circular No. 16-03]] (December 15, 2016). Emphasis supplied.
 [^28]: *Id.* Emphasis supplied.
 [^29]: NPC BN 20-161, 17 December 2021.
-[^30]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [*Data Privacy Act*], Republic Act No. 10173 (2012).
+[^30]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [*[[laws/data-privacy-act-of-2012|Data Privacy Act]]*], Republic Act No. 10173 (2012).
 [^31]: E-mail from PRC & KRI, "Re: Notice of Information Security Breach: Cathay Pacific Airways Ltd (Hong Kong) Ref. No. CID BN No. 18-198," dated 15 November 2018.
 [^32]: *Data Breach Notification* dated 25 October 2018, p. 3.

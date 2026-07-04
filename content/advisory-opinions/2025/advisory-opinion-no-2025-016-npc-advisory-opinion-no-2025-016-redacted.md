@@ -10,6 +10,11 @@ tags:
   - "topic/government"
   - "topic/security"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-016"
+  - "npc advisory opinion no. 2025-016"
+  - "Advisory Opinion No. 2025-016"
+  - "advisory opinion no. 2025-016"
 ---
 
 ## Source
@@ -26,7 +31,7 @@ Re: INSTALLATION OF CLOSED-CIRCUIT TELEVISION (CCTV) IN LOCAL GOVERNMENT UNIT OF
 
 Dear [Redacted],
 
-We write in response to your inquiries on the applicability of Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and relevant issuances of the National Privacy Commission (NPC) on the following concerns:
+We write in response to your inquiries on the applicability of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and relevant issuances of the National Privacy Commission (NPC) on the following concerns:
 
 1) Installation and use of CCTV with audio recording inside the Office of the Municipal Treasurer, particularly facing her desk and vault;
 2) An order to transfer the monitoring and control to the Office of the Mayor with access through a personal laptop;
@@ -92,14 +97,14 @@ VIDA ZORA G. BOCAR
 OIC – Director IV, Privacy Policy Office
 
 [^1]: Tags: CCTV footage; lawful processing; government office; mandate; proportionality.
-[^2]: §3(g); RA 10173.
-[^3]: Id., §3(j).
-[^4]: Id., §12(e).
-[^5]: Id., §4(e).
-[^6]: Id., §12(f).
-[^7]: NPC Circular No. 2023-06 (Security of Personal Data in the Government and the Private Sector).
-[^8]: §5(A.6), NPC Circular No. 2024-02 (Closed-Circuit Television {CCTV} Systems).
+[^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(g)]]; RA 10173.
+[^3]: Id., [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(j)]].
+[^4]: Id., [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12(e)]].
+[^5]: Id., [[laws/data-privacy-act-of-2012#section-4-scope|§4(e)]].
+[^6]: Id., [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12(f)]].
+[^7]: [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular No. 2023-06]] (Security of Personal Data in the Government and the Private Sector).
+[^8]: §5(A.6), [[issuances/2024/closed-circuit-television-cctv-systems|NPC Circular No. 2024-02]] (Closed-Circuit Television {CCTV} Systems).
 [^9]: Id., §5(B.3).
 [^10]: Id., §5.
 [^11]: Id., §5(B).
-[^12]: NPC Advisory Opinion No. 2018-031.
+[^12]: [[advisory-opinions/2018/advisory-opinion-no-2018-031-npc-advisory-opinion-no-2018-031|NPC Advisory Opinion No. 2018-031]].

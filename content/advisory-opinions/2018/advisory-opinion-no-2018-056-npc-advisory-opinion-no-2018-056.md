@@ -9,6 +9,11 @@ tags:
   - de-identification
   - healthcare
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-056"
+  - "npc advisory opinion no. 2018-056"
+  - "Advisory Opinion No. 2018-056"
+  - "advisory opinion no. 2018-056"
 ---
 
 ## Source
@@ -29,8 +34,8 @@ Dear [Redacted],
 We write in response to your request for an advisory opinion regarding the Web-based
 Census and Accreditation System (WebCAS) facility, a system that uses personal
 information of patients submitted by institutions for purpose of their accreditation as
-pulmonary fellowship training hospitals. You requested for clarification on how the Data
-Privacy Act of 2012 (DPA)[^1] applies to your arrangement with various hospitals,
+pulmonary fellowship training hospitals. You requested for clarification on how the [[laws/data-privacy-act-of-2012|Data
+Privacy Act of 2012]] (DPA)[^1] applies to your arrangement with various hospitals,
 particularly on the following:
 
 ### Discussion
@@ -152,12 +157,12 @@ for Policies and Planning
 
 [^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
 
-[^2]: Data Privacy Act of 2012, § 3 Definition of terms, (j) Processing refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
+[^2]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 Definition of terms]], (j) Processing refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
 
-[^3]: Id., §13(a)
+[^3]: Id., [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§13(a)]]
 
 [^4]: See National Privacy Commission, Toolkit, available at https://privacy.gov.ph/wpcontent/files/attachments/nwsltr/3rdToolkit_0618.pdf (last accessed Oct. 5, 2018).
 
-[^5]: Id., §11(f)
+[^5]: Id., [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§11(f)]]
 
 [^6]: U.S. Department of Health & Human Services, Guidance Regarding Methods for De-identification of Protected Health Information in Accordance with the Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule, available at https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#rationale (last accessed 30 July 2018).

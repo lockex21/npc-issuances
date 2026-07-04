@@ -1,5 +1,10 @@
 ---
 title: "NPC Advisory Opinion No. 2017-060 — Nature of Professional Information"
+aliases:
+  - "NPC Advisory Opinion No. 2017-060"
+  - "npc advisory opinion no. 2017-060"
+  - "Advisory Opinion No. 2017-060"
+  - "advisory opinion no. 2017-060"
 description: "Addresses whether professional information such as name, position, and contact details are considered personal information under the Data Privacy Act; clarifies that government information of public concern is subject to limited exemptions."
 tags:
   - issuance
@@ -39,11 +44,11 @@ As the DPA applies to the processing of all types of personal information and to
 
 #### Information Available in the Public Domain
 
-We believe that the provisions of the DPA are still applicable even for those personal information which are available in the public domain. Note that the law has specified the information which is outside of its scope but only to the minimum extent necessary to achieve the specific purpose, function, or activity in Section 4 thereof.
+We believe that the provisions of the DPA are still applicable even for those personal information which are available in the public domain. Note that the law has specified the information which is outside of its scope but only to the minimum extent necessary to achieve the specific purpose, function, or activity in [[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] thereof.
 
 There is no express mention that personal data which is available publicly is outside of its scope. Thus, "it is a misconception that publicly accessible personal data can be further used or disclosed for any purpose whatsoever without regulation."[^3]
 
-With this, we believe that PICs which collect and process personal data from the public domain must still observe the requirements under the law, specifically on the criteria for lawful processing of personal, sensitive personal and privileged information found under Sections 12 and 13 thereof.
+With this, we believe that PICs which collect and process personal data from the public domain must still observe the requirements under the law, specifically on the criteria for lawful processing of personal, sensitive personal and privileged information found under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] thereof.
 
 Thus, even if the data subject has provided his or her personal data in a publicly accessible platform, this does not mean he or she has given blanket consent for the use of his/her personal data for whatever purposes.[^4]
 
@@ -60,10 +65,10 @@ Very truly yours,
 **RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
-[^1]: RA No. 10173, §3(g)
-[^2]: R.A. 10173 (2012), §4
+[^1]: [[laws/data-privacy-act-of-2012|RA No. 10173]], §3(g)
+[^2]: [[laws/data-privacy-act-of-2012#section-4-scope|R.A. 10173 (2012), §4]]
 [^3]: Office of the Privacy Commissioner for Personal Data, Hong Kong, Guidance Note - Guidance on Use of Personal Data Obtained from the Public Domain, August 2013, available at https://www.pcpd.org.hk/english/publications/files/GN_public_domain_e.pdf
 [^4]: Id.
-[^5]: RA No. 10173, §4(a)
-[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of RA No. 10173, §5
+[^5]: [[laws/data-privacy-act-of-2012#section-4-scope|RA No. 10173, §4(a)]]
+[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Implementing Rules and Regulations (IRR) of RA No. 10173, §5]]
 [^7]: Id.

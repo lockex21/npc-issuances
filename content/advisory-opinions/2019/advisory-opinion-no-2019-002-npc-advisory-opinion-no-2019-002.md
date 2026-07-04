@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2019
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-002"
+  - "npc advisory opinion no. 2019-002"
+  - "Advisory Opinion No. 2019-002"
+  - "advisory opinion no. 2019-002"
 ---
 
 ## Source
@@ -27,7 +32,7 @@ We write in response to your inquiry on whether the management of your agency vi
 
 ### Discussion
 
-The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^2] provides the criteria for lawful processing of personal information and sensitive personal information in Sections 12 and 13, respectively. Disclosure of personal data may be permitted where one of the criteria provided in said sections is met. In this instance, given the limited information, it is difficult to determine whether such lawful criteria exists.
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^2] provides the criteria for lawful processing of personal information and sensitive personal information in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]], respectively. Disclosure of personal data may be permitted where one of the criteria provided in said sections is met. In this instance, given the limited information, it is difficult to determine whether such lawful criteria exists.
 
 Hence, the determination of the propriety of the disclosure of your identity would have to depend on the circumstances of the particular case, including information on the internal rules and regulations of your agency and that of the Presidential Complaint Center on the handling of corruption accusations. Laws and regulations other than the DPA would also be applicable.
 
@@ -50,4 +55,3 @@ Privacy Commissioner and Chairman
 [^1]: Tags: disclosure; confidential report; criteria for lawful processing; complaint
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: See: National Privacy Commission, Rules of Procedure on Requests for Advisory Opinions, [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|Circular No. 18-01]] [NPC Circular 18-01], § 2 (September 10, 2018).
-Circular 18-01], § 2 (September 10, 2018).

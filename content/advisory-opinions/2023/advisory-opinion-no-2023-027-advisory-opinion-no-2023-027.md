@@ -7,6 +7,11 @@ tags:
   - year/2023
   - topic/data-sharing
   - topic/employment
+aliases:
+  - "NPC Advisory Opinion No. 2023-027"
+  - "npc advisory opinion no. 2023-027"
+  - "Advisory Opinion No. 2023-027"
+  - "advisory opinion no. 2023-027"
 draft: false
 ---
 
@@ -24,7 +29,7 @@ Re: EMPLOYER’S DATA PRIVACY OBLIGATIONS CONCERNING ITS FINANCIAL SERVICES BENE
 
 Dear [Redacted],
 
-We respond to your request for an Advisory Opinion on the obligations of Infosys BPM Philippines’ (IBPM) under the Data Privacy Act of 2012 (DPA)[^2] concerning the financial services benefit it desires to extend to its employees.
+We respond to your request for an Advisory Opinion on the obligations of Infosys BPM Philippines’ (IBPM) under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^2] concerning the financial services benefit it desires to extend to its employees.
 
 ### Discussion
 
@@ -42,11 +47,11 @@ Control over personal data exists when an individual or entity has the authority
 
 Under the proposed scheme, both IBPM and TendoPay will be considered as a PIC. As the employer, IBPM is considered as a PIC responsible for managing the personal data of its employees. On the other hand, Tendopay will necessarily have to process the IBPM employees’ personal data in order for it to determine if the employees are eligible for the financial services it offers. Hence, Tendopay is likewise considered as a PIC with the concomitant responsibilities of such. Moreover, the proposed partnership will also inevitably involve the sharing of the personal data of IBPM employees with TendoPay. NPC Circular No. 2020-03 defines data sharing as the sharing, disclosure, or transfer to a third party of personal data under the custody of a personal information controller to one or more personal information controller/s. In this regard, it is important for both entities to manage the shared personal data in a collaborative and responsible manner. We recommend that the parties execute a Data Sharing Agreement (DSA) containing the terms and conditions of the sharing arrangement. Though the execution of a DSA is no longer mandatory under NPC Circular No. 2020-03, it is still considered as a best practice and a demonstration of accountability by the PICs.
 
-Furthermore, as PICs processing employees’ personal data, both IBPM and TendoPay must adhere to the general data privacy principles of transparency, legitimate purpose, and proportionality. In line with these data privacy principles stated under the DPA, both parties should have a privacy notice informing data subjects of the nature, scope, and purpose of data sharing between the two PICs involved. Furthermore, the PICs should choose the appropriate lawful basis under Sections 12 and 13 of the DPA that is most applicable for the purpose of the intended processing. In this instance, it appears that IBPM and TendoPay have distinct legal bases in processing the employees’ personal data. IBPM’s processing is anchored on its employment contract with covered data subjects, while TendoPay’s lawful basis for processing is for the fulfillment of a loan contract or other financial service to be availed of by the employee. Finally, in adherence to the principle of proportionality, IBPM should only disclose to TendoPay the necessary personal data required to facilitate the utilization of financial services offered by TendoPay.
+Furthermore, as PICs processing employees’ personal data, both IBPM and TendoPay must adhere to the general data privacy principles of transparency, legitimate purpose, and proportionality. In line with these data privacy principles stated under the DPA, both parties should have a privacy notice informing data subjects of the nature, scope, and purpose of data sharing between the two PICs involved. Furthermore, the PICs should choose the appropriate lawful basis under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA that is most applicable for the purpose of the intended processing. In this instance, it appears that IBPM and TendoPay have distinct legal bases in processing the employees’ personal data. IBPM’s processing is anchored on its employment contract with covered data subjects, while TendoPay’s lawful basis for processing is for the fulfillment of a loan contract or other financial service to be availed of by the employee. Finally, in adherence to the principle of proportionality, IBPM should only disclose to TendoPay the necessary personal data required to facilitate the utilization of financial services offered by TendoPay.
 
 #### Obligations of a PIC and PIP
 
-Apart from adherence to the data privacy principles, PICs also have the duty to uphold data subjects’ rights under Sections 16 and 18 of the DPA. The exercise of data subjects’ rights will be different for IBPM and TendoPay, since their processing have different purposes.
+Apart from adherence to the data privacy principles, PICs also have the duty to uphold data subjects’ rights under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Sections 16]] and [[laws/data-privacy-act-of-2012#section-18-right-to-data-portability|18]] of the DPA. The exercise of data subjects’ rights will be different for IBPM and TendoPay, since their processing have different purposes.
 
 In addition, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Section 20 of the DPA]] requires PICs to implement reasonable and appropriate physical, organizational and technical security measures for the protection of the personal data of employees. To determine if the security measures are appropriate with the processing of
 
@@ -62,8 +67,8 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173
-[^3]: Data Privacy Act of 2012, § 3 (h) (2012).
-[^4]: Id. § 3(i).
-[^5]: Data Privacy Act of 2012, § 20 and § 25.
-[^6]: Id. § 21.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173
+[^3]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]] (2012).
+[^4]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(i)]].
+[^5]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20]] and [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|§ 25]].
+[^6]: Id. [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|§ 21]].

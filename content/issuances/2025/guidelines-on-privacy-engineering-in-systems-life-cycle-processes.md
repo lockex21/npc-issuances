@@ -31,11 +31,11 @@ date: '2025-08-27'
 
 **WHEREAS**, Rule VI, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Section 25 of the Implementing Rules and Regulations]] (IRR) of the DPA provides that Personal Information Controllers (PICs) and Personal Information Processors (PIPs) shall implement reasonable and appropriate organizational, physical, and technical security measures for the protection of personal data;
 
-**WHEREAS**, Rule II, Section 8 of the NPC Circular 2023-06 or the Security of Personal Data in the Government and the Private Sector provides that a PIC or a PIP should incorporate data privacy requirements throughout the development and implementation of data processing systems;
+**WHEREAS**, Rule II, Section 8 of the [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular 2023-06 or the Security of Personal Data in the Government and the Private Sector]] provides that a PIC or a PIP should incorporate data privacy requirements throughout the development and implementation of data processing systems;
 
 **WHEREAS**, the NPC recognizes the need to provide clear and practical guidance to PICs and PIPs on how to develop and implement data processing systems that respect and uphold the data privacy rights of data subjects throughout the systems life cycle processes;
 
-**WHEREAS**, integrating privacy engineering principles and practices into the planning, development, deployment, and maintenance of data processing systems can help PICs and PIPs meet their obligations under the DPA and its IRR;
+**WHEREAS**, integrating privacy engineering principles and practices into the planning, development, deployment, and maintenance of data processing systems can help PICs and PIPs meet their obligations under the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]];
 
 **WHEREAS**, the NPC has received numerous inquiries from PICs seeking guidance on developing and implementing privacy-respecting data processing systems;
 
@@ -45,7 +45,7 @@ date: '2025-08-27'
 
 A. Providing clear and practical guidance to PICs and PIPs for incorporating privacy engineering principles and practices into the planning, development, testing, deployment, and maintenance of data processing systems;
 
-B. Establishing the basis and rationale for these guidelines under the provisions of the DPA, its IRR, and relevant NPC issuances;
+B. Establishing the basis and rationale for these guidelines under the provisions of the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and relevant NPC issuances;
 
 C. Promoting a privacy-by-design and privacy-by-default approach in the development and implementation of data processing systems to safeguard data subjects’ rights; and
 
@@ -63,7 +63,7 @@ D. Deployment and integration; and
 
 E. Operation and maintenance.
 
-**SECTION 3.** ***Definition of Terms.*** – For the purpose of this Advisory, the following terms are adopted from the DPA, its IRR, and other relevant issuances of the NPC, and defined as follows:
+**SECTION 3.** ***Definition of Terms.*** – For the purpose of this Advisory, the following terms are adopted from the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and other relevant issuances of the NPC, and defined as follows:
 
 A. “Access Controls” refers to security measures that ensure only properly authorized users can access the minimum necessary personal data;
 
@@ -117,7 +117,7 @@ B. Designing and Development
 
    e. Develop and implement a disaster recovery plan to ensure the immediate restoration of data access in the event of system failures.[^9]
 
-   3. Implement measures within the system for data subjects to exercise their rights under the DPA,[^10] such as but not limited to: data access and download tools to request access to their personal data within the system; correction and rectification interfaces that allow users to rectify incorrect personal data; deletion or erasure options, to allow users to delete data within the system; and provide opt-in and opt-out mechanisms for specific processing of personal data;
+   3. Implement measures within the system for data subjects to exercise their rights under the [[laws/data-privacy-act-of-2012|DPA]],[^10] such as but not limited to: data access and download tools to request access to their personal data within the system; correction and rectification interfaces that allow users to rectify incorrect personal data; deletion or erasure options, to allow users to delete data within the system; and provide opt-in and opt-out mechanisms for specific processing of personal data;
 
    4. Maintain traceability in the data processing system involving access or changes made to personal information;[^11]
 
@@ -141,7 +141,7 @@ C. Testing and Evaluation
 
    3. Conduct code reviews and vulnerability scans to identify and address any security flaws and weaknesses that can lead to unauthorized access and data breaches;[^15]
 
-   4. Conduct a privacy architecture[^16] review to ensure that technologies, architectures, and protocols used in the data processing system support data privacy objectives and requirements of the DPA, IRR, and issuances of the NPC.
+   4. Conduct a privacy architecture[^16] review to ensure that technologies, architectures, and protocols used in the data processing system support data privacy objectives and requirements of the [[laws/data-privacy-act-of-2012|DPA]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances of the NPC.
 
 D. Deployment and Integration
 
@@ -159,7 +159,7 @@ E. Operation and Maintenance
 
    3. Promptly address any vulnerabilities and update the privacy controls of the data processing system based on the latest risks and security standards;
 
-   4. Uphold the requests of data subjects in exercising their rights (e.g., right to access, rectify, object, etc.) in accordance with the DPA, its IRR and the NPC’s issuance on Data Subjects’ Rights;[^22]
+   4. Uphold the requests of data subjects in exercising their rights (e.g., right to access, rectify, object, etc.) in accordance with the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] and the NPC’s issuance on Data Subjects’ Rights;[^22]
 
    5. Train personnel on the secure processing in the application or data processing system,[^23] as well as managing security incidents as stipulated in the NPC’s issuance on Security Incident Management.
 

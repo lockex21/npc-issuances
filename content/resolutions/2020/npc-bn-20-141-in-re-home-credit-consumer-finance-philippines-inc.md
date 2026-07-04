@@ -61,7 +61,7 @@ Additionally, Home Credit outlined the communication process they followed and a
 
 However, upon the evaluation of their system to determine whether they can provide proof of receipt, their data showed a processing error since only around 13,299 messages were sent from the SMS gateway. Home Credit then scheduled a repeat notification to 72,697 data subjects, however, only 72,593 were forwarded by their SMS service provider while the remaining 104 entries cannot be forwarded since it does not meet the required number of characters.
 
-This Commission finds that Home Credit failed to provide sufficient proof of the data subject’s receipt of notification as previously ordered by this Commission. Home Credit only submitted the system log showing that the notification was sent and resent. While Home Credit argues that NPC Circular 16-03 only imposes a general principle when the notification to data subjects is mandatory, the fact still remain that whether written or electronic, Personal Information Controllers (PICs) have the obligation under the said Circular to establish all reasonable mechanisms to ensure that all affected data subjects are made aware of the breach.[^5]
+This Commission finds that Home Credit failed to provide sufficient proof of the data subject’s receipt of notification as previously ordered by this Commission. Home Credit only submitted the system log showing that the notification was sent and resent. While Home Credit argues that [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] only imposes a general principle when the notification to data subjects is mandatory, the fact still remain that whether written or electronic, Personal Information Controllers (PICs) have the obligation under the said Circular to establish all reasonable mechanisms to ensure that all affected data subjects are made aware of the breach.[^5]
 
 Moreover, this Commission stresses that a thorough reading of the NPC Circular 16-03 would reveal that the responsibility of the PICs to notify the affected data subjects is not limited to sending the notification to the affected data subjects alone, but comes hand-in-hand with the responsibility of using secure means of communication and providing all reasonable mechanisms to guarantee that the notification reaches the affected data subjects they intend to notify. Such obligation is regarded by this Commission as crucial and necessary for PICs to establish, especially in cases that falls under the mandatory breach notification requirement.
 
@@ -103,4 +103,4 @@ GENERAL RECORDS UNIT
 [^2]: Resolution dated 22 October 2020
 [^3]: Home Credit Consumer Finance Philippines, Inc. Compliance Letter dated 27 November 2020, p. 2
 [^4]: *Ibid.*
-[^5]: Section 18(D) of NPC Circular 16-03
+[^5]: Section 18(D) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]

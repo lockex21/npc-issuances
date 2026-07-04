@@ -7,6 +7,11 @@ tags:
   - "year/2020"
   - "topic/breach-notification"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-038"
+  - "npc advisory opinion no. 2020-038"
+  - "Advisory Opinion No. 2020-038"
+  - "advisory opinion no. 2020-038"
 ---
 
 ## Source
@@ -23,7 +28,7 @@ Re: MASS EMAIL SENT USING CARBON COPY
 
 Dear [Redacted],
 
-We write in response to your email addressed to the Department of Justice (DOJ) which was subsequently referred to the National Privacy Commission (NPC). Upon evaluation and recommendation by the Complaints and Investigation Division (CID), the Office of the Privacy Commissioner endorsed the matter to the Privacy Policy Office for the issuance of an advisory opinion in accordance with the Rules of Procedure of the NPC, specifically Section 4 of NPC Circular 16-04 – Rules of Procedure, which states that the failure to comply with the requirements of this Section shall cause the matter to be evaluated as a request for an advisory opinion.
+We write in response to your email addressed to the Department of Justice (DOJ) which was subsequently referred to the National Privacy Commission (NPC). Upon evaluation and recommendation by the Complaints and Investigation Division (CID), the Office of the Privacy Commissioner endorsed the matter to the Privacy Policy Office for the issuance of an advisory opinion in accordance with the Rules of Procedure of the NPC, specifically Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular 16-04 – Rules of Procedure]], which states that the failure to comply with the requirements of this Section shall cause the matter to be evaluated as a request for an advisory opinion.
 
 We understand based on your email that a certain company doing business as an online gaming hub for players sent you and others an email advisory for a "clan masters" meeting. However, the advisory was sent using the carbon copy (cc) feature in sending emails. Hence, all the recipients were able to see the email addresses of the other recipients of the email. You are concerned that the company has compromised your personal information.
 
@@ -39,7 +44,7 @@ This would include having the appropriate policies in place to govern the proces
 
 #### Personal Data Breach; Notification Requirements
 
-As the incident happened prior to the effectivity of NPC Circular No. 16-03 on the management of personal data breaches, we refer instead to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-38-data-breach-notification|Section 38 of the Implementing Rules and Regulations]] (IRR) of the [[laws/data-privacy-act-of-2012|DPA]], to wit:
+As the incident happened prior to the effectivity of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] on the management of personal data breaches, we refer instead to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-38-data-breach-notification|Section 38 of the Implementing Rules and Regulations]] (IRR) of the [[laws/data-privacy-act-of-2012|DPA]], to wit:
 
 > Section 38. Data Breach Notification.
 >
@@ -61,5 +66,5 @@ Very truly yours,
 Privacy Commissioner
 
 [^1]: Tags: email address; carbon copy; blind carbon copy; personal data breach; notification; security measures
-[^2]: National Privacy Commission, Rules of Procedure [NPC Circular 16-04] (December 15, 2016)
-[^3]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 25 (2016).
+[^2]: National Privacy Commission, [[issuances/undated/rules-of-procedure|Rules of Procedure]] [NPC Circular 16-04] (December 15, 2016)
+[^3]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Data Privacy Act of 2012]], Republic Act No. 10173, § 25 (2016).

@@ -449,7 +449,7 @@ Therefore, the Respondents cannot be exempt from the provisions of the DPA and i
 
 [[laws/data-privacy-act-of-2012#section-37-restitution|Section 37 of the DPA]] also provides that restitution for any aggrieved party shall be governed by the provisions of the New Civil Code.[^141]
 
-Moreover, Section 6 of NPC Circular 2024-01 grants the Commission the authority to award indemnity in cases related to personal data protection or the rights of the data subject, with the indemnity amount to be determined in accordance with the provisions of the Civil Code.[^142]
+Moreover, Section 6 of [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 2024-01]] grants the Commission the authority to award indemnity in cases related to personal data protection or the rights of the data subject, with the indemnity amount to be determined in accordance with the provisions of the Civil Code.[^142]
 
 In relation to the above provisions, Article 2221 of the New Civil Code provides:
 
@@ -580,11 +580,11 @@ National Privacy Commission
 [^81]: *Id.*
 [^82]: Verified Comment of Respondent Jerome R. Bries dated 13 July 2022, and Verified Comment of Respondent JJS dated 15 July 2022.
 [^83]: National Privacy Commission, 2021 Rules of Procedure of the National Privacy Commission [NPC 2021 Rules of Procedure], Rule II, § 2 (28 January 2021).
-[^84]: CL v. DDZ and DM v. DDZ, NPC 19-030 and NPC 19-132, 10 June 2021, at 5, available at https://www.privacy.gov.ph/wp-content/uploads/2023/01/NPC-19-030-and-19-132_06-10-21_CL-and-DM-vs-DDZ_Decision-Final.pdf
+[^84]: CL v. DDZ and DM v. DDZ, [[decisions/2021/npc-19-030-and-npc-19-132-cl-vs-ddz-and-dm-vs-ddz|NPC 19-030 and NPC 19-132]], 10 June 2021, at 5, available at https://www.privacy.gov.ph/wp-content/uploads/2023/01/NPC-19-030-and-19-132_06-10-21_CL-and-DM-vs-DDZ_Decision-Final.pdf
 [^85]: Complaints-Assisted Form received by the Commission on 23 May 2022.
 [^86]: *Id.*
 [^87]: *Id.*
-[^88]: VVC v. CJB, [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021, at 5, available at NPC-19-134-VVC-v.-CJB-Decision-2021.12.10.pdf
+[^88]: VVC v. CJB, [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134]], 10 December 2021, at 5, available at NPC-19-134-VVC-v.-CJB-Decision-2021.12.10.pdf.
 [^89]: *Id.*
 [^90]: *Id.*
 [^91]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter VIII, § 31 (2012).
@@ -638,6 +638,6 @@ National Privacy Commission
 [^139]: *Philippine General Hospital represented by its Hospital Director Gerardo D. Legaspi, MD and Jayvee S. Guerrero, MD v. Ramon T. Tulfo, Jr., Viola Abando Rosales, John Does, and Jane Does*, NPC 18-166, at 57, (unreported).
 [^140]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter IV, § 16 (f) (2012).
 [^141]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter IV, § 37 (2012).
-[^142]: NPC Circular 2024-01, 26 January 2024, Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission.
+[^142]: [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 2024-01]], 26 January 2024, Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission.
 [^143]: An Act to Ordain and Institute the Civil Code of the Philippines [Civil Code of the Philippines], Republic Act No. 386, book IV, chapter 3, § 3, Art. 2221 (1949).
 [^144]: Seven Brothers Shipping Corporation v. DMC-Construction Resources, Inc., G.R. No. 193914 dated 26 November 2014.

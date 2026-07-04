@@ -26,7 +26,7 @@ date: '2026-05-11'
 
 **SECTION 1.** ***Scope and Purpose.*** — This Advisory prescribes guidelines and clarifications for all Personal Information Controllers (PICs) with respect to personal data breach notification to the National Privacy Commission (NPC).
 
-**SECTION 2.** ***Submission of Request.*** PICs seeking to request postponement, exemption, or the use of alternative means to notify data subjects, including requests for extension in the submission of required documents under NPC Circular No. 16-03 or the Personal Data Breach Management[^1] (NPC Circular No. 16-03), shall be guided by the following clarifications:
+**SECTION 2.** ***Submission of Request.*** PICs seeking to request postponement, exemption, or the use of alternative means to notify data subjects, including requests for extension in the submission of required documents under [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 or the Personal Data Breach Management]][^1] (NPC Circular No. 16-03), shall be guided by the following clarifications:
 
 A. The PIC shall not simultaneously avail of: (1) a request for exemption to notify affected data subjects and a request for postponement of such notification; or (2) a request for exemption to notify affected data subjects and a request to use alternative means of notification, in relation to the same personal data breach incident.
 
@@ -58,7 +58,7 @@ SGD.                                                       SGD.
 ATTY. JOSE AMELITO S. BELARMINO, *MSc*          ATTY. JUAN PAOLO F. FAJARDO
 Deputy Privacy Commissioner                Deputy Privacy Commissioner
 
-[^1]: *See*: NPC Circular No. 16-03 Personal Data Breach Management dated 15 December 2016.
+[^1]: *See*: [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 Personal Data Breach Management]] dated 15 December 2016.
 [^2]: *See*: NPC Circular No. 2022-01 Guidelines on Administrative Fines dated 08 August 2022.
 
 ## Source

@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+aliases:
+  - "NPC Advisory Opinion No. 2021-002"
+  - "npc advisory opinion no. 2021-002"
+  - "Advisory Opinion No. 2021-002"
+  - "advisory opinion no. 2021-002"
 draft: false
 ---
 
@@ -23,7 +28,7 @@ Re: DISCLOSURE OF SUMMARY OF EVALUATION AND RATINGS FORM
 
 Dear [Redacted],
 
-We write in response to the request for clarification by your office addressed to the Civil Service Commission – National Capital Region (CSC-NCR) and referred to the National Privacy Commission (NPC), seeking clarification on the applicability of the Data Privacy Act of 2012[^2] (DPA) relative to the requests of applicants for copies of the Summary of Evaluation and Ratings Form (SERF) prepared by the Department of Public Works and Highways Human Resource Merit Promotion and Selection Board (DPWH-HRMPSB) for purposes of the screening and evaluation of applicants for a particular position.
+We write in response to the request for clarification by your office addressed to the Civil Service Commission – National Capital Region (CSC-NCR) and referred to the National Privacy Commission (NPC), seeking clarification on the applicability of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) relative to the requests of applicants for copies of the Summary of Evaluation and Ratings Form (SERF) prepared by the Department of Public Works and Highways Human Resource Merit Promotion and Selection Board (DPWH-HRMPSB) for purposes of the screening and evaluation of applicants for a particular position.
 
 We understand that the requesting applicants are invoking their rights to due process and information. But the DPWH-HRMPSB is also considering the privacy rights of the other applicants as the SERF contains sensitive personal information as defined under the DPA.
 

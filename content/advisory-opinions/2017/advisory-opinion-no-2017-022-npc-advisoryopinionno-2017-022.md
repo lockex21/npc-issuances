@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2017-022 — Registration of Data Processing Systems"
 description: "Advisory Opinion on registration of data processing systems under the Data Privacy Act."
+aliases:
+  - "NPC Advisory Opinion No. 2017-022"
+  - "npc advisory opinion no. 2017-022"
+  - "Advisory Opinion No. 2017-022"
+  - "advisory opinion no. 2017-022"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -58,7 +63,7 @@ known as the Data Privacy Act of 2012 (DPA), for guidance on this subject.
 #### PIC, PIP, and DPO
 
 The terms, “personal information controller” (PIC) and “personal information processor” (PIP)
-are defined in Sections 3(h) and 3(i) of the DPA, respectively. The PIC refers to the individual or
+are defined in [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Sections 3(h) and 3(i) of the DPA]], respectively. The PIC refers to the individual or
 organization who controls how personal data– which includes health records, and personnel
 files-- are being collected, used, stored, or otherwise processed.[^2] The PIP refers to any individual
 or organization processing personal information for the PIC as part of an outsourcing contract or
@@ -68,7 +73,7 @@ is an example of a PIP.
 
 The DPO is the individual designated by the hospital (PIC) to have the primary function of
 monitoring compliance with the Data Privacy Act, IRR and related issuances. The NPC recently
-issued Advisory No. 17-01,[^4] which lays down guidelines on the designation or hiring of the Data
+issued [[issuances/2017/designation-of-data-protection-officers|Advisory No. 17-01]],[^4] which lays down guidelines on the designation or hiring of the Data
 Protection Officer.
 
 As a summary of the aforementioned advisory, the PIC should consider the following principles
@@ -111,7 +116,7 @@ Officer-in-Charge and
 Deputy Privacy Commissioner,
 Policies and Planning
 
-[^1]: See: IRR of RA 10173, §46 and §47.
-[^2]: See RA 10173, §3(h).
+[^1]: See: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-46-enforcement-of-the-data-privacy-act|IRR of RA 10173, §46]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|§47]].
+[^2]: See [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA 10173, §3(h)]].
 [^3]: See RA 10173, §3(i).
 [^4]: Available at the website of the National Privacy Commission, privacy.gov.ph

@@ -39,7 +39,7 @@ x-----------------------------------------x
 
 AGUIRRE, D.P.C.
 
-This Resolution refers to the notification logs submitted by E-Science Corporation (E-Science)[^1] in response to the Order of this Commission for it to submit the confirmation logs or other proof that the affected data subjects received the required notification under NPC Circular 16-03.[^2]
+This Resolution refers to the notification logs submitted by E-Science Corporation (E-Science)[^1] in response to the Order of this Commission for it to submit the confirmation logs or other proof that the affected data subjects received the required notification under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].[^2]
 
 ### Facts
 
@@ -55,11 +55,11 @@ In response to the said Resolution, E-Science submitted a letter with the subjec
 (b) The user is no longer active; and
 (c) No internet connectivity to access or receive the notification.[^5]
 
-E-Science expressed its hope that such submission satisfies the Commission’s Order[^6] for it to submit the confirmation logs or other proof of receipt in compliance with the requirements for notification of the data subjects under NPC Circular 16-03.
+E-Science expressed its hope that such submission satisfies the Commission’s Order[^6] for it to submit the confirmation logs or other proof of receipt in compliance with the requirements for notification of the data subjects under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]].
 
 ### Discussion
 
-Section 18 (C) of NPC Circular 16-03 provides that:
+Section 18 (C) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] provides that:
 
 > The notification shall include, but not be limited to:
 >
@@ -115,7 +115,7 @@ GENERAL RECORDS UNIT
 National Privacy Commission
 
 [^1]: Letter with the subject "Notification Logs as compliance for NPC BN 20-124 submitted by E-Science Corporation." Dated 14 December 2020.
-[^2]: NPC Circular 16-03. Personal Data Breach Management. Dated 15 December 2016.
+[^2]: [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]]. Personal Data Breach Management. Dated 15 December 2016.
 [^3]: Resolution dated 22 October 2020, *In re: E-Science Corporation*, NPC BN 20-124.
 [^4]: *Supra* note 1.
 [^5]: *Ibid.*

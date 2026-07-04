@@ -7,6 +7,11 @@ tags:
   - year/2018
   - topic/security
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-009"
+  - "npc advisory opinion no. 2018-009"
+  - "Advisory Opinion No. 2018-009"
+  - "advisory opinion no. 2018-009"
 ---
 
 ## Source
@@ -41,7 +46,7 @@ We understand that the above information will be forwarded to higher headquarter
 
 [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), states that the processing of personal information shall be allowed, subject to compliance with the requirements of the DPA and other laws allowing disclosure of information to the public and in adherence to the principles of transparency, legitimate purpose and proportionality.[^2]
 
-Furthermore, Section 12(e) thereof provides for one criterion for lawful processing of personal information, to wit:
+Furthermore, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(e)]] thereof provides for one criterion for lawful processing of personal information, to wit:
 
 > **(e) the processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate;** (underscoring supplied)
 
@@ -75,10 +80,10 @@ Very truly yours,
 Privacy Commissioner and Chairman
 
 [^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, “Data Privacy Act of 2012” (15 August 2012).
-[^2]: *Id.*, §11.
+[^2]: *Id.*, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§11]].
 [^3]: See: 1987 Philippine Constitution, Article II, §3.
 [^4]: Executive Order No. 292, Title VIII, Subtitle II, Chapter 8, §48.
 [^5]: *Id.*, §49.
-[^6]: RA No. 10173, §11(a).
-[^7]: See: IRR of RA No. 10173, §18(c).
-[^8]: See: IRR of RA No. 10173, §34(a).
+[^6]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|RA No. 10173, §11(a)]].
+[^7]: See: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|IRR of RA No. 10173, §18(c)]].
+[^8]: See: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|IRR of RA No. 10173, §34(a)]].

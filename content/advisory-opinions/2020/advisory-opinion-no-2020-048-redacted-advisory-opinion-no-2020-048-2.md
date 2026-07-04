@@ -34,7 +34,7 @@ We understand that the Association is requesting for the said master list for it
 and proper housekeeping purposes, and that such request was denied by the property
 manager, claiming that disclosure of the same is violative of data privacy.
 
-You now seek clarification on the application of the Data Privacy Act of 2012[^2] (DPA) in the given circumstance.
+You now seek clarification on the application of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) in the given circumstance.
 
 ### Discussion
 
@@ -77,13 +77,13 @@ Very truly yours,
 Privacy Commissioner
 
 [^1]: Tags: lawful processing of personal information; data privacy principles; legitimate interests
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: *Supra* note 1., § 4.
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: *Supra* note 1., [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]].
 [^4]: See: [[advisory-opinions/2018/advisory-opinion-no-2018-019-npc-advisory-opinion-no-2018-019|NPC Advisory Opinion No. 2018-019]] citing AN ACT PROVIDING FOR A MAGNA CARTA FOR HOMEOWNERS AND HOMEOWNERS' ASSOCIATIONS, AND FOR OTHER PURPOSES, "Magna Carta for Homeowners and Homeowners' Associations", Republic Act No. 9904 (07 January 2010), § 4.
 [^5]: NPC Advisory Opinion No. 2020-024 (16 June 2020), available at https://www.privacy.gov.ph/wp-content/uploads/2020/10/Redacted-Advisory-Opinion-No.-2020-024.pdf.
 [^6]: *Id.*
-[^7]: See: [[advisory-opinions/2018/advisory-opinion-no-2018-061-npc-advisory-opinion-no-2018-061|NPC Advisory Opinion No. 2018-061]] (06 September 2018) citing Data Privacy Act of 2012, § 12(f); United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulationgdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
-[^8]: See: Data Privacy Act of 2012, § 3 (l): (l) Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
-[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c).
-[^10]: Data Privacy Act of 2012, § 20 (a).
-[^11]: *Id.* § 16.
+[^7]: See: [[advisory-opinions/2018/advisory-opinion-no-2018-061-npc-advisory-opinion-no-2018-061|NPC Advisory Opinion No. 2018-061]] (06 September 2018) citing [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12(f)]]; United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulationgdpr/legitimate-interests/what-is-the-legitimate-interests-basis/.
+[^8]: See: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (l)]]: (l) Sensitive personal information refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or current health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]].
+[^10]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, § 20 (a)]].
+[^11]: *Id.* [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16]].

@@ -37,7 +37,7 @@ Another instance where the specific health condition of the employee will be rep
 
 #### Processing of health information; sensitive personal information; lawful criteria; law or regulations; labor laws; occupational safety and health; mandatory notification of infectious diseases
 
-The employer hotline for sick leave utilization involves the processing of health information. Under Section 13 the Data Privacy Act of 2012[^2] (DPA), an individual’s health information is classified as sensitive personal information and can only be processed if one of the conditions provided in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] is met.
+The employer hotline for sick leave utilization involves the processing of health information. Under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]] the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA), an individual’s health information is classified as sensitive personal information and can only be processed if one of the conditions provided in Section 13 of the DPA is met.
 
 In this scenario, the possible basis for processing is provided for under Section 13(b) which recognizes processing of health information that is necessary based on existing laws and regulations.
 
@@ -86,9 +86,9 @@ Very truly yours,
 Privacy Commissioner
 
 [^1]: Tags: employee data; health information; infectious disease; pregnancy-related illnesses
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: Department of Labor and Employment, Employee Guidebook, available at https://www.dole.gov.ph/wp-content/uploads/2019/04/Employee-Guidebook-as-of-2013-10-07.pdf (last accessed 6 Nov 2020).
 [^4]: An Act Providing Policies and Prescribing Procedures on Surveillance and Response to Notifiable Diseases, Epidemics, and Health Events of Public Health Concern, and Appropriating Funds Therefor, Repealing for the Purpose Act No. 3573, Otherwise Known as the "Law on Reporting of Communicable Diseases [Mandatory Reporting of Notifiable Diseases and Health Events of Public Health Concern Act], Republic Act No. 11332, § 6(c) (2019).
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(c) (2016).
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(c)]] (2016).
 [^6]: *Id.*
 [^7]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-084-npc-advisory-opinion-no-2018-084|NPC Advisory Opinion No. 2018-084]] (Nov. 28, 2018).

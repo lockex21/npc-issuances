@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-076"
+  - "npc advisory opinion no. 2018-076"
+  - "Advisory Opinion No. 2018-076"
+  - "advisory opinion no. 2018-076"
 ---
 
 ## Source
@@ -72,11 +77,11 @@ dishonest seafarers.
 
 At the outset, we clarify that the provisions of the DPA applies to the processing of all types
 of personal information and to any natural and juridical person involved in personal
-information processing.[^5] However, the law provides under Section 4 the particular types of
+information processing.[^5] However, the law provides under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] the particular types of
 information that are considered as special cases excluded from its scope and application.[^6]
 
 We affirm that the requested information by MARINA falls under Section 4 of the DPA, as
-expounded in Section 5 of its IRR, in particular, paragraph (d) which states:
+expounded in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of its IRR]], in particular, paragraph (d) which states:
 
    Section 5. Special Cases. The Act and these Rules shall not apply to the following
              specified information, only to the minimum extent of collection, access, use, disclosure
@@ -281,17 +286,17 @@ Officer-In-Charge
 
 [^4]: An Act Establishing the Maritime Industry Authority (MARINA) as the Single Maritime Administration Responsible for the Implementation and Enforcement of the 1978 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, as Amended, and International Agreements or Covenants Related thereto, Republic Act No. 10635 (2014).
 
-[^5]: Data Privacy Act of 2012, § 4.
+[^5]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
 
 [^6]: Id.
 
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 4 (2016).
+[^7]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|§ 4]] (2016).
 
 [^8]: International Maritime Organization, & International Conference on Training and Certification of Seafarers. STCW 1978: International Convention on Standards of Training, Certification, and Watchkeeping for Seafarers, 1978 : with resolutions adopted by the International Conference on Training and Certification of Seafarers, 1978.
 
 [^9]: UK Information Commissioner's Office, Guide on the General Data Protection Regulation (GDPR): Public task, p. 76, available at https://ico.org.uk/media/for-organisations/guide-to-the-general-data-protection-regulation-gdpr-1-0.pdf (last accessed Oct. 23, 2018).
 
-[^10]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18(c) (2016) - Proportionality. The processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.
+[^10]: Rules and Regulations Implementing the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(c)]] (2016) - Proportionality. The processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.
 
 [^11]: R.A. No. 10635, § 4(c)(5)
 

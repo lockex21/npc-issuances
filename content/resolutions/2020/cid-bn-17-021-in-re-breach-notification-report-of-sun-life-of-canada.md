@@ -37,7 +37,7 @@ AGUIRRE, D.P.C.:
 
 In an Order dated 23 July 2020, the Commission required Sun Life of Canada (Philippines), Inc. ("Sun Life") to show cause why it should not be subject to contempt proceedings and other actions available to the Commission for failing to comply with the Commission's decision, thus:
 
-WHEREFORE, the above premises considered, the Commission resolves to **ORDER** Sun Life of Canada (Philippines), Inc. to show cause in writing, within fifteen (15) calendar days from receipt of this Order, why it should not be liable for Failure to Notify under Section 20 of NPC Circular 16-03 and be subject to contempt proceedings, as permitted by law, before the appropriate court, and such other actions as may be available to the Commission.
+WHEREFORE, the above premises considered, the Commission resolves to **ORDER** Sun Life of Canada (Philippines), Inc. to show cause in writing, within fifteen (15) calendar days from receipt of this Order, why it should not be liable for Failure to Notify under Section 20 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] and be subject to contempt proceedings, as permitted by law, before the appropriate court, and such other actions as may be available to the Commission.
 
 In response to the Show Cause Order, Sun Life sent a letter dated 26 August 2020 explaining that:
 
@@ -65,15 +65,15 @@ In response to this Commission's Show Cause Order, Sun Life explained that the p
 
 #### *i. A second Motion for Reconsideration is not allowed.*
 
-Sun Life asserts that: "there is nothing in NPC Circular 16-03 that prohibits a second motion for reconsideration. Absent such prohibition, the Honorable Commission cannot categorically state that 'a second request or motion for reconsideration is not allowed under NPC Circular 16-03.'"[^5]
+Sun Life asserts that: "there is nothing in [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] that prohibits a second motion for reconsideration. Absent such prohibition, the Honorable Commission cannot categorically state that 'a second request or motion for reconsideration is not allowed under NPC Circular 16-03.'"[^5]
 
-Sun Life correctly states that NPC Circular 16-03 does not contain any prohibition on the filing of a second motion for reconsideration. It also does not contain anything on the process of filing a motion for reconsideration. As Sun Life is undoubtedly aware, NPC Circular 16-03 only provides for the obligation of personal information controllers in relation to breaches, including the obligation to notify the Commission and data subjects in the event of a breach.[^6] The Commission's Rules of Procedure are contained in NPC Circular 16-04, Section 2 of which states:
+Sun Life correctly states that NPC Circular 16-03 does not contain any prohibition on the filing of a second motion for reconsideration. It also does not contain anything on the process of filing a motion for reconsideration. As Sun Life is undoubtedly aware, NPC Circular 16-03 only provides for the obligation of personal information controllers in relation to breaches, including the obligation to notify the Commission and data subjects in the event of a breach.[^6] The Commission's Rules of Procedure are contained in [[issuances/undated/rules-of-procedure#rule-i-preliminary-provisions|NPC Circular 16-04, Section 2]] of which states:
 
 > **SECTION 2. Scope and Coverage.** – These rules shall apply to all complaints filed before the National Privacy Commission or such other grievances, requests for assistance or advisory opinions, and other matters cognizable by the National Privacy Commission.
 
 The proceedings involving personal data breach notifications clearly fall under "other matters cognizable by the National Privacy Commission." Hence, the determination whether a personal information controller such as Sun Life may be exempted from the requirement of notifying its data subjects is a matter falling within the scope of NPC Circular 16-04.
 
-It is a basic rule of statutory construction that statutes must be construed and harmonized with other statutes to form a uniform system of jurisprudence.[^7] Simply because NPC Circular 16-03 does not contain a provision prohibiting the filing of a second motion for reconsideration does not mean that it is allowed, as Sun Life claims, especially since it is expressly prohibited by NPC Circular 16-04:
+It is a basic rule of statutory construction that statutes must be construed and harmonized with other statutes to form a uniform system of jurisprudence.[^7] Simply because NPC Circular 16-03 does not contain a provision prohibiting the filing of a second motion for reconsideration does not mean that it is allowed, as Sun Life claims, especially since it is expressly prohibited by [[issuances/undated/rules-of-procedure#rule-vii-appeals|NPC Circular 16-04]]:
 
 > **SECTION 30. Appeal.** – The decision of the National Privacy Commission shall become final and executory fifteen (15) days after the receipt of a copy thereof by the party adversely affected. **One motion for reconsideration may be filed**, which shall suspend the running of the said period. Any appeal from the Decision shall be to the proper courts, in accordance with law and rules.[^8]
 
@@ -99,7 +99,7 @@ In addition, Sun Life attempts to justify its refusal to comply with this Commis
 
 > Without a doubt, it heightened Sun Life's earlier concern that a notification would cause undue alarm on the part of the data subjects. Considering the foregoing factual antecedents, it was reasonable for Sun Life to be persistent in seeking a reconsideration of the July Resolution and the October Resolution, hence, the submission of the October 2019 Letter and the December 2019 Letter.[^10]
 
-To reiterate, the notification of data subjects is the general rule. In asking for exemption from this general rule, personal information controllers like Sun Life bind themselves to comply with this Commission's Decision on their request. They cannot impose as a condition to such compliance that the Decision must be rendered within a period of time convenient to them. In the absence of a change in circumstances that would render compliance impossible, and Sun Life has not alleged much less submitted any evidence in this regard, it is subject to the requirements of the DPA and NPC Circular 16-03, as clarified by the Commission in its Decision.
+To reiterate, the notification of data subjects is the general rule. In asking for exemption from this general rule, personal information controllers like Sun Life bind themselves to comply with this Commission's Decision on their request. They cannot impose as a condition to such compliance that the Decision must be rendered within a period of time convenient to them. In the absence of a change in circumstances that would render compliance impossible, and Sun Life has not alleged much less submitted any evidence in this regard, it is subject to the requirements of the [[laws/data-privacy-act-of-2012|DPA]] and [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], as clarified by the Commission in its Decision.
 
 Nevertheless, at its core, the notification requirement under NPC Circular 16-03 is for the protection and benefit of data subjects. This Commission acknowledges the efforts Sun Life made to address the breach when it occurred and, although delayed, the efforts it has since undertaken to properly notify and protect its data subjects as shown in its 07 July 2020 and 28 July 2020 letters.
 
@@ -133,12 +133,12 @@ ENFORCEMENT DIVISION
 COMPLIANCE AND MONITORING DIVISION
 GENERAL RECORDS UNIT
 
-[^1]: National Privacy Commission Circular 16-03, Sec. 18(b).
+[^1]: [[issuances/undated/personal-data-breach-management|National Privacy Commission Circular 16-03]], Sec. 18(b).
 [^2]: See, 19 October 2017 letter of Sunlife.
 [^3]: *Id.*
-[^4]: Republic Act No. 10173, Sec. 20 (f).
+[^4]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Republic Act No. 10173, Sec. 20]] (f).
 [^5]: Sun Life's letter dated 26 August 2020, p. 4.
-[^6]: See, NPC Circular 16-03, Sec. 2. Emphasis supplied.
+[^6]: See, [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], Sec. 2. Emphasis supplied.
 [^7]: See, Akbayan-Youth v. Commission on Elections, G.R. No. 147066, 26 March 2011.
 [^8]: Emphasis supplied.
 [^9]: Sun Life's letter dated 26 August 2020, p. 2.

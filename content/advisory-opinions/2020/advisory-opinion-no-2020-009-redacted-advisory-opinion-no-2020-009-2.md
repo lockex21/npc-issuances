@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2020
   - topic/data-subject-rights
+aliases:
+  - "NPC Advisory Opinion No. 2020-009"
+  - "npc advisory opinion no. 2020-009"
+  - "Advisory Opinion No. 2020-009"
+  - "advisory opinion no. 2020-009"
 draft: false
 ---
 
@@ -31,15 +36,15 @@ It is stipulated in Healthway’s contract with such corporate clients that in c
 
 You now request for clarification on the following matters:
 
-1. Is it allowable under the Data Privacy Act of 2012 (DPA) to have the medical records removed/deleted without the consent of the job applicants?
+1. Is it allowable under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) to have the medical records removed/deleted without the consent of the job applicants?
 2. Does the legitimate purpose principle have a period of effectivity, meaning that the purpose of the pre-employment examination has been served, therefore the corporate client has the discretion/right to have the personal data removed/deleted?
-3. Is Section 19(d)(1) of the Implementing Rules and Regulations (IRR) of the DPA applicable in this case?
+3. Is [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19(d)(1) of the Implementing Rules and Regulations]] (IRR) of the DPA applicable in this case?
 
 ### Discussion
 
 #### Scope of the DPA; personal information controller and processor; role of a PIC
 
-The Data Privacy Act of 2012[^1] (DPA) applies to the processing of all types of personal information and to any natural and juridical person involved in the processing of personal information.[^2]
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) applies to the processing of all types of personal information and to any natural and juridical person involved in the processing of personal information.[^2]
 
 A personal information controller (PIC) refers to a person or organization who controls the collection, holding, processing or use of personal information,[^3] while a personal information processor (PIP) refers to any natural or juridical person to whom a PIC may outsource the processing of personal data pertaining to a data subject.[^4] There is control if the natural or juridical person or any other body decides on what information is collected, or the purpose or extent of its processing.[^5]
 
@@ -84,8 +89,8 @@ Very truly yours,
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Data Privacy Act of 2012, § 4.
-[^3]: Id., § 3 (h).
-[^4]: Id., § 3 (i).
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 3 (m) (2016).
+[^2]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]].
+[^3]: Id., [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (h).
+[^4]: Id., [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (i).
+[^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|§ 3]] (m) (2016).
 [^6]: Department of Health, The Revised Disposition Schedule of Medical Records Amending Ministry Circular 77 s. 1981, [Department Circular No. 70 s. 1996] (1996).

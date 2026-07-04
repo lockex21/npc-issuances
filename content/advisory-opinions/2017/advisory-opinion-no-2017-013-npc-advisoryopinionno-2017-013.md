@@ -11,6 +11,11 @@ tags:
   - topic/data-sharing
   - topic/government
   - topic/registration
+aliases:
+  - "NPC Advisory Opinion No. 2017-013"
+  - "npc advisory opinion no. 2017-013"
+  - "Advisory Opinion No. 2017-013"
+  - "advisory opinion no. 2017-013"
 draft: false
 ---
 
@@ -41,7 +46,7 @@ c. *Designation of a Data Protection Officer (DPO).* Whether or not, in the case
 
 #### Data Sharing between Private Entities
 
-Data sharing is allowed when it is expressly authorized by law and adequate safeguards are in place, including adherence by the parties thereto to the general principles of transparency, legitimate purpose, and proportionality.[^1]
+Data sharing is allowed when it is expressly authorized by law and adequate safeguards are in place, including adherence by the parties thereto to the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|general principles of transparency, legitimate purpose, and proportionality]].[^1]
 
 In the private sector, it is permitted if the consent of the data subject is obtained, and certain conditions provided in the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the DPA are complied with.[^2] One such condition requires the execution of a DSA if sharing is carried out for commercial purposes.[^3] The term "commercial purpose" is read in its ordinary meaning and refers to any activity with the ultimate purpose of gain or profit.
 
@@ -53,7 +58,7 @@ Data sharing between private sector entities is generally presumed to be in purs
 
 The Commission stresses, however, that the exemptions provided in the law are not, in any way, absolute or without qualifications. The IRR clarifies this point by stating that the exemption is "only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned."[^4]
 
-As regards data sharing agreements involving government agencies, NPC Circular No. 2016-02 shall govern, in relation to the provisions of the DPA and its IRR. The Circular also covers personal data under the control or custody of a private entity that is being shared with or transferred to a government agency.[^5] Regarding DSAs, it provides that, notwithstanding the DSA requirement, nothing in the issuance "shall be construed as prohibiting or limiting the sharing or transfer of any personal data that is already authorized or required by law".[^6] Thus, if the transfer or sharing of personal data by a private sector entity to a government agency is required by a statute or is pursuant to one, there is no need for a DSA between the parties.
+As regards data sharing agreements involving government agencies, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 2016-02]] shall govern, in relation to the provisions of the DPA and its IRR. The Circular also covers personal data under the control or custody of a private entity that is being shared with or transferred to a government agency.[^5] Regarding DSAs, it provides that, notwithstanding the DSA requirement, nothing in the issuance "shall be construed as prohibiting or limiting the sharing or transfer of any personal data that is already authorized or required by law".[^6] Thus, if the transfer or sharing of personal data by a private sector entity to a government agency is required by a statute or is pursuant to one, there is no need for a DSA between the parties.
 
 #### Data Protection Officer (DPO)
 
@@ -65,9 +70,9 @@ Sincerely,
 
 [Signature block not included in advisory opinion body]
 
-[^1]: IRR, §20(a).
-[^2]: *Id.*, §20(b).
-[^3]: *Id.*, §20(b)(2).
-[^4]: *Id.*, §5.
-[^5]: NPC Circular No. 2016-02, §2.
+[^1]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|IRR, §20(a)]].
+[^2]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|§20(b)]].
+[^3]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|§20(b)(2)]].
+[^4]: *Id.*, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§5]].
+[^5]: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 2016-02]], §2.
 [^6]: *Id.*, §1.

@@ -7,6 +7,11 @@ tags:
   - “year/2018”
   - topic/registration
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-019"
+  - "npc advisory opinion no. 2018-019"
+  - "Advisory Opinion No. 2018-019"
+  - "advisory opinion no. 2018-019"
 ---
 
 ## Source
@@ -24,13 +29,13 @@ RE: APPOINTMENT OF DATA PROTECTION OFFICER AND REGISTRATION OF DATA PROCESSING S
 
 Dear [Redacted]:
 
-This pertains to your request for advisory opinion received by the Privacy Policy Office of the National Privacy Commission (NPC) on 15 March 2018, which sought to clarify whether HOAs are covered by Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR)[^2] and relevant issuances of the NPC. Particularly, whether they are required to appoint its own Data Protection Officer (DPO) and register its data processing system with the NPC.
+This pertains to your request for advisory opinion received by the Privacy Policy Office of the National Privacy Commission (NPC) on 15 March 2018, which sought to clarify whether HOAs are covered by [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR)[^2] and relevant issuances of the NPC. Particularly, whether they are required to appoint its own Data Protection Officer (DPO) and register its data processing system with the NPC.
 
 ### Discussion
 
 #### Scope
 
-It is important to recall that the DPA applies to all the processing of all types of personal information and to any natural and judicial person involved in personal information processing.[^3]
+It is important to recall that the [[laws/data-privacy-act-of-2012#section-4-scope|DPA applies to all the processing of all types of personal information and to any natural and judicial person involved in personal information processing]].[^3]
 
 Processing of personal data pertains to any operation or any set of operations performed upon such data including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction.[^4]
 

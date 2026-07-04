@@ -44,7 +44,7 @@ Specifically, you ask for guidance on the following:
 
 #### Processing of sensitive personal information; lawful criteria; law or regulation; COVID-19 surveillance; proportionality
 
-Under the Data Privacy Act (DPA) of 2012,[^2] information about an individual's age as well as date of birth, which is a variation of age, are considered as sensitive personal information (SPI). The processing for SPI finds basis under any of the lawful criteria for processing under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], one of which is the processing that is provided for by existing laws and regulations.[^3]
+Under the [[laws/data-privacy-act-of-2012|Data Privacy Act (DPA) of 2012]],[^2] information about an individual's age as well as date of birth, which is a variation of age, are considered as sensitive personal information (SPI). The processing for SPI finds basis under any of the lawful criteria for processing under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], one of which is the processing that is provided for by existing laws and regulations.[^3]
 
 We relate the above to the collection of age and date of birth of data subjects pursuant to the relevant Department of Health (DOH) issuances: Department Memorandum (DM) No. 2020-0189 (Updated Guidelines on Contact Tracing of Close Contacts of Confirmed Coronavirus Disease (COVID-19) Cases), DM No. 0436 (Minimum Data Requirements of COVID-19-Related Information Systems), and Department Circular No. 2020-0318 (Mandatory Submission of Accurate, Complete, and Timely COVID-19 Case Data through the COVID Document Repository System (CDRS) and Laboratory Information System API). All these issuances discuss the use of the COVID-19 Case Investigation Forms (CIF).
 
@@ -70,7 +70,7 @@ Note that the proportionality principle should be duly considered. This principl
 
 Personal data must be retained only for as long as necessary for the fulfillment of the purposes for which the data was obtained.[^6]
 
-We refer to the provisions of NPC Advisory No. 2020–03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response, specifically its provisions on storage and retention:
+We refer to the provisions of [[issuances/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|NPC Advisory No. 2020–03]] on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response, specifically its provisions on storage and retention:
 
 > 6. All personal data collected for the purpose of contact tracing shall be retained only for the period allowed by existing government issuances. The DTI-DOLE JMC provides that personal data collected through the health declaration form or the visitor contact tracing form shall be stored only for a limited period and shall be disposed of properly after thirty (30) days from date of accomplishment.
 >
@@ -106,10 +106,10 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^3]: Data Privacy Act of 2012, § 13 (b).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^3]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13 (b)]].
 [^4]: *Dela Cruz vs. Paras*, 208 PHIL 490 (1983).
-[^5]: Id. § 18 (c).
-[^6]: Data Privacy Act of 2012, § 11 (e).
-[^7]: National Privacy Commission, Guidelines for Workplaces and Establishments Processing Personal Data For Covid-19 Response [NPC Advisory No. 2020–03] (23 October 2020).
-[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 34 (e) (1).
+[^5]: Id. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]].
+[^6]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11 (e)]].
+[^7]: National Privacy Commission, Guidelines for Workplaces and Establishments Processing Personal Data For Covid-19 Response [[issuances/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|NPC Advisory No. 2020–03]] (23 October 2020).
+[^8]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|§ 34 (e) (1)]].

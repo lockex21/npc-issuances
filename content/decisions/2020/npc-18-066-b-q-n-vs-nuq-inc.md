@@ -46,7 +46,7 @@ x----------------------------------------------------x
 
 LIBORO, P.C.:
 
-Before this Commission is a case filed by B.Q.N. (Complainant) against NUQ INC., doing the business under the name and style of HQ, N.S., N.U., D.B.L. And S.K.D. (Respondents) for the violation of Data Privacy Act of 2012 (DPA).
+Before this Commission is a case filed by B.Q.N. (Complainant) against NUQ INC., doing the business under the name and style of HQ, N.S., N.U., D.B.L. And S.K.D. (Respondents) for the violation of [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 ### Facts
 
@@ -156,5 +156,5 @@ National Privacy Commission
 [^4]: G.R. No. L-13463, H. C. LIEBENOW vs. THE PHILIPPINE VEGETABLE OIL COMPANY, November 9, 1918.
 [^5]: Respondent HQ's certification, which was submitted to the court, enumerates the following: a. Name of the driver: K.H.Q.; b. Vehicle type and plate number driven by K.H.Q.; c. Date of accreditation of K.H.Q. as HQ driver; d. Name of complainant as operator; and e. Breakdown of the number of rides, fares and incentives earned by K.H.Q. from January 2017 to January 2018.
 [^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 of the Implementing Rules and Regulations]] of the Data Privacy Act of 2012.
-[^7]: Section 18(c) of the Implementing Rules and Regulations of the Data Privacy Act of 2012.
+[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18(c)]] of the Implementing Rules and Regulations of the Data Privacy Act of 2012.
 [^8]: [[decisions/2019/npc-17-047-jv-vs-jr|NPC 17-047]], Decision, National Privacy Commission.

@@ -1,5 +1,10 @@
 ---
 title: "NPC Advisory Opinion No. 2019-048 — Disclosure of Records Under the Custody of the City Civil Registrar"
+aliases:
+  - "NPC Advisory Opinion No. 2019-048"
+  - "npc advisory opinion no. 2019-048"
+  - "Advisory Opinion No. 2019-048"
+  - "advisory opinion no. 2019-048"
 description: "Clarifies whether the City Civil Registry Office of Iloilo may release records containing personal data to government agencies, the Social Security System, Bureau of Internal Revenue, Philippine Veterans Affairs Office, courts, and other agencies upon subpoena, addressing lawful bases for disclosure of sensitive personal information."
 tags:
   - "issuance"
@@ -51,7 +56,7 @@ When processing is based on any of the above criteria, the consent of the docume
 We understand that the Philippine Statistics Authority (PSA) issued Memorandum Circular No. 2019 – 15 on Guidelines on the Issuance of the Civil Registry Documents (CRDs)/Certifications including Authentication addressed to all City/Municipal Civil Registrars, among others.[^9] The issuance lists down persons who may be allowed to request for the copy issuance of Civil Registry Documents/Certifications other than the document owner. Among those listed are as follows:
 
 1. The court or proper public official whenever absolutely necessary in administrative, judicial or other official proceedings to determine the identity of the person; provided, that there must be a duly issued subpoena duces tecum and ad testificandum for the production of the civil registry document;[^10] and
-2. Request from other government agencies pursuant to their mandate; provided, that the requesting government agency executed Data Sharing Agreement with PSA in accordance with NPC Circular 16-02.[^11]
+2. Request from other government agencies pursuant to their mandate; provided, that the requesting government agency executed Data Sharing Agreement with PSA in accordance with [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular 16-02]].[^11]
 
 We reiterate that the DPA is not meant to prevent government institutions from processing personal data when necessary to fulfill their mandates. Rather, it aims to protect the right to information privacy while ensuring free flow of information. What the DPA does is to promote fair, secure, and lawful processing of such information.[^12]
 
@@ -73,17 +78,17 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 4 (2016).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 4]] (2016).
 [^3]: Law on Registry of Civil Status [Civil Registry Law], Act No. 3753, § 1 (1930).
 [^4]: *Id.* § 4.
-[^5]: Data Privacy Act of 2012, § 4.
+[^5]: [[laws/data-privacy-act-of-2012#section-4-scope|Data Privacy Act of 2012, § 4]].
 [^6]: *Id.* § 13.
 [^7]: *Id.* § 13 (b) and (f).
-[^8]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 3(r).
+[^8]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|Rules and Regulations Implementing the Data Privacy Act of 2012, § 3(r)]].
 [^9]: Philippine Statistics Authority, Guidelines on the Issuance of the Civil Registry Documents (CRDs)/Certifications including Authentication, Memorandum Circular No. 2019-15 [PSA MC 2019-015] (June 11, 2019).
 [^10]: *Id.* § II (6).
 [^11]: *Id.* § II (7).
 [^12]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|NPC Advisory Opinion No. 2018-083]] (Nov. 26, 2018).
 [^13]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Circular No. 16-02]] [NPC Circular 16-02] (October 10, 2016).
-[^14]: Data Privacy Act of 2012, § 11.
+[^14]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11]].

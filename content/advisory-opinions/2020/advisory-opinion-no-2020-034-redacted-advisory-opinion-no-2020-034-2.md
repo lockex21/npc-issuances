@@ -8,6 +8,11 @@ tags:
   - "topic/data-sharing"
   - "topic/security"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-034"
+  - "npc advisory opinion no. 2020-034"
+  - "Advisory Opinion No. 2020-034"
+  - "advisory opinion no. 2020-034"
 ---
 
 ## Source
@@ -56,7 +61,7 @@ We understand that the DSWD intends to use the birthdates of the beneficiaries o
 
 Nevertheless, if the DSWD has determined that the birthdates of the beneficiaries are indeed indispensable to achieve the purpose of the processing, and such purpose cannot be fulfilled by any other means, the latter may request for an amendment of the DSA to include birthdate as an additional data element to be shared.
 
-Processing of the dates of birth of the SBWS beneficiaries may be allowed under the DPA considering the same is made in the fulfillment of the mandate of the DSWD, either as a special case under Section 4 or under a lawful criterion for processing sensitive personal information based on an existing law or regulation pursuant to Section 13 (b).
+Processing of the dates of birth of the SBWS beneficiaries may be allowed under the DPA considering the same is made in the fulfillment of the mandate of the DSWD, either as a special case under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] or under a lawful criterion for processing sensitive personal information based on an existing law or regulation pursuant to [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]] (b).
 
 We wish to reiterate that the DPA is not meant to prevent government institutions from processing personal data when necessary to fulfill their respective mandates. Rather, it aims to protect the right to informational privacy while ensuring free flow of information.
 
@@ -70,7 +75,7 @@ Very truly yours,
 Privacy Commissioner
 
 [^1]: Tags: Small Business Wage Subsidy; data sharing; proportionality; SSS; DSWD; public authority; mandate.
-[^2]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 3 (f) (2016).
+[^2]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|Data Privacy Act of 2012]], Republic Act No. 10173, § 3 (f) (2016).
 [^3]: National Privacy Commission, Data Sharing Agreements Involving Government Agencies [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], § 3 (E) (October 10, 2016).
 [^4]: Id. § 1.
-[^5]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 18 (c) (2016).
+[^5]: Rules and Regulations Implementing the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Data Privacy Act of 2012, § 18]] (c) (2016).

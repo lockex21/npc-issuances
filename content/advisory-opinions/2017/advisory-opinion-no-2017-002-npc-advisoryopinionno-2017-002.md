@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+aliases:
+  - "NPC Advisory Opinion No. 2017-002"
+  - "npc advisory opinion no. 2017-002"
+  - "Advisory Opinion No. 2017-002"
+  - "advisory opinion no. 2017-002"
 draft: false
 ---
 
@@ -55,5 +60,5 @@ IVY D. PATDU
 Deputy Privacy Commissioner,
 Policy and Planning
 
-[^1]: Republic Act No. 10173, § 4.
-[^2]: *Id.*, § 3(g) and (l).
+[^1]: [[laws/data-privacy-act-of-2012#section-4-scope|Republic Act No. 10173, § 4]].
+[^2]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(g) and (l)]].

@@ -7,6 +7,11 @@ tags:
   - year/2020
   - topic/employment
   - topic/legitimate-interest
+aliases:
+  - "NPC Advisory Opinion No. 2020-006"
+  - "npc advisory opinion no. 2020-006"
+  - "Advisory Opinion No. 2020-006"
+  - "advisory opinion no. 2020-006"
 draft: false
 ---
 
@@ -30,7 +35,7 @@ We understand that you are an employee of an insurance company. You further disc
 
 After having been forwarded to two other departments, the email was eventually forwarded to the HR department, which then informed you about the same. They further informed you that two cases will be filed against you in court if you fail to communicate with collection agency. The HR department also told you to resolve the issue immediately so as not to jeopardize your employment and further requested for a copy of the settlement made with the collection agency.
 
-You now inquire on how the HR department came to know about the two court cases that will be filed against you, since such details were not included in the email that was sent, and if the corresponding actions of the HR department are in violation of your rights under the Data Privacy Act of 2012[^1] (DPA).
+You now inquire on how the HR department came to know about the two court cases that will be filed against you, since such details were not included in the email that was sent, and if the corresponding actions of the HR department are in violation of your rights under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA).
 
 ### Discussion
 
@@ -72,8 +77,8 @@ Very truly yours,
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission and other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: Data Privacy Act of 2012, § 3 (g).
+[^2]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3]] (g).
 [^3]: Ibid.
-[^4]: National Privacy Commission, NPC Advisory Opinion No. 2018-061 citing United Kingdom Information Commissioner’s Office (ICO), What is the ‘Legitimate Interests’ basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (Anything illegitimate, unethical or unlawful is not a legitimate interest).
+[^4]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-061-npc-advisory-opinion-no-2018-061|NPC Advisory Opinion No. 2018-061]] citing United Kingdom Information Commissioner’s Office (ICO), What is the ‘Legitimate Interests’ basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (Anything illegitimate, unethical or unlawful is not a legitimate interest).
 [^5]: Ibid.
 [^6]: United Kingdom Information Commissioner’s Office (ICO), What is the ‘Legitimate Interests’ basis, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/ (last accessed Aug. 8, 2019).

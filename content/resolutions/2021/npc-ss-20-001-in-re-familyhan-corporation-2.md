@@ -47,7 +47,7 @@ On 15 October 2020, the Commission ordered FCC to cease and desist from the proc
 
 1) File a **COMMENT**, within ten (10) days from receipt of this Order, on the allegations in the attached Fact-Finding Report, pursuant to Section 24 of the NPC Rules of Procedure; and
 
-2) **CEASE AND DESIST** from the processing of personal data on their database until the Commission issues a decision on the submission of the Comment, which shall be made no more than thirty (30) days from the expiration of the period to file a Comment or of the termination of the clarificatory hearing if one is held, pursuant to NPC Circular No. 20-01.
+2) **CEASE AND DESIST** from the processing of personal data on their database until the Commission issues a decision on the submission of the Comment, which shall be made no more than thirty (30) days from the expiration of the period to file a Comment or of the termination of the clarificatory hearing if one is held, pursuant to [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-01]].
 
 **SO ORDERED.**[^1]
 
@@ -69,7 +69,7 @@ On 21 June 2021, FCC filed a Motion to Lift Cease and Desist Order (Motion to Li
 
 Other reliefs just and equitable under the circumstances are likewise prayed for.
 
-FCC maintains that it stopped processing personal information on its database and ordered its loan agents to discontinue from doing the same.[^8] It states that the loan agents' access to its system has also been cut off by its IT Department.[^9] It further alleges that the CDO issued by the Commission on 15 October 2020 is deemed automatically lifted pursuant to Section 12 of the Rules on the Issuance of Cease and Desist Order (NPC Circular No. 20-02), and that the basis for issuing the CDO no longer exists since new security measures were introduced to its system.[^10]
+FCC maintains that it stopped processing personal information on its database and ordered its loan agents to discontinue from doing the same.[^8] It states that the loan agents' access to its system has also been cut off by its IT Department.[^9] It further alleges that the CDO issued by the Commission on 15 October 2020 is deemed automatically lifted pursuant to Section 12 of the [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Rules on the Issuance of Cease and Desist Order (NPC Circular No. 20-02)]], and that the basis for issuing the CDO no longer exists since new security measures were introduced to its system.[^10]
 
 The Commission issued an Order dated 24 June 2021 directing the Complaints and Investigation Division (CID) of the National Privacy Commission (NPC) to Comment on FCC's Motion to Lift CDO.[^11]
 
@@ -81,7 +81,7 @@ Whether FCC's Motion to Lift CDO should be granted.
 
 The Commission denies FCC's Motion to Lift CDO. The Extended CDO remains in force and effect.
 
-FCC hinges its prayer on the following: first, the CDO is automatically lifted pursuant to Section 12 of NPC Circular No. 20-02, and second, the basis for which the CDO was issued no longer exists. Both reasons cited by FCC are untenable.
+FCC hinges its prayer on the following: first, the CDO is automatically lifted pursuant to Section 12 of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]], and second, the basis for which the CDO was issued no longer exists. Both reasons cited by FCC are untenable.
 
 First, contrary to FCC's allegations, the issued CDO is not automatically lifted in line with Section 12 of NPC Circular No. 20-01.[^12]
 
@@ -115,7 +115,7 @@ Considering the foregoing, FCC's contention that the CDO is automatically lifted
 
 On the second ground, the basis for which the CDO was issued continues to exist. FCC failed to sufficiently prove that the risk of unauthorized disclosure is no longer present.
 
-To reiterate, Section 13 of NPC Circular No. 16-03 provides:
+To reiterate, Section 13 of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 16-03]] provides:
 
 > **Section 13. When CDO is Extended.** – xxx
 >
@@ -197,23 +197,23 @@ GENERAL RECORDS UNIT
 [^9]: *Id*.
 [^10]: *Id*, at 2.
 [^11]: Order, 24 June 2021, at 4, in In re: Familyhan Credit Corporation.
-[^12]: National Privacy Commission, NPC Circular No. 21-02, "Rules on the Issuance of Cease and Desist Orders" [NPC Circ. No. 21-02], § 12 (6 October 2020). Emphasis supplied.
+[^12]: National Privacy Commission, [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 21-02]], "Rules on the Issuance of Cease and Desist Orders" [NPC Circ. No. 21-02], § 12 (6 October 2020). Emphasis supplied.
 [^13]: *Id*.
 [^14]: *Id*.
 [^15]: *Id*.
 [^16]: Order, supra note 3, at 4.
-[^17]: NPC Circ. No. 21-02, § 13. Emphasis supplied.
+[^17]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circ. No. 21-02]], § 13. Emphasis supplied.
 [^18]: Order, supra note 1, at 7.
 [^19]: National Power Corporation Board of Directors v. Commission on Audit, G.R. No. 218052, 26 January 2021.
 [^20]: F-Cv. C, A.M. No. RTJ-15-2438, Sept. 15, 2020 (citing Lumiqued v. Exevea, G.R. No. 117565, 18 November 1997). Emphasis supplied.
 [^21]: Order, supra note 3, at 4.
 [^22]: Motion to Lift Cease and Desist Order, supra note 7, at 2.
-[^23]: NPC Circ. No. 21-02, § 12.
+[^23]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circ. No. 21-02]], § 12.
 [^24]: Order, supra note 3, at 5.
-[^25]: NPC Circ. No. 21-02, § 12.
+[^25]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circ. No. 21-02]], § 12.
 [^26]: Order, supra note 1, at 7.
 [^27]: Comment by Familyhan Credit Corporation, 21 January 2021, at 1.
-[^28]: NPC Circ. No. 21-02, § 13. Emphasis supplied.
+[^28]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circ. No. 21-02]], § 13. Emphasis supplied.
 [^29]: Motion to Lift Cease and Desist Order, supra note 7, at 2.
 [^30]: Id, at 1.
 [^31]: *Id*, at 2.

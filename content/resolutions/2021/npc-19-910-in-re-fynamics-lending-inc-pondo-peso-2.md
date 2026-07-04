@@ -37,7 +37,7 @@ IN RE: FYNAMICS LENDING INC. OPERATING PONDOPESO ONLINE LENDING APPLICATION
 
 NPC 19-910
 
-For violation of the Data Privacy Act of 2012
+For violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 
 x-----------------------------------------x
 
@@ -57,7 +57,7 @@ Respondent Fynamics prays for the Decision to be reversed and that the instant c
 
 ### The Facts
 
-On 2 March 2021, Respondent Fynamics filed a Motion for Reconsideration. It argued that the Commission erred in resolving that it was afforded procedural due process and that it violated the provisions of the Data Privacy Act.
+On 2 March 2021, Respondent Fynamics filed a Motion for Reconsideration. It argued that the Commission erred in resolving that it was afforded procedural due process and that it violated the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act]].
 
 Respondent Fynamics argued that it was not afforded procedural due process based on the following grounds:
 
@@ -67,7 +67,7 @@ Respondent Fynamics argued that it was not afforded procedural due process based
 
 3. The conduct of the sua sponte investigation was unnecessary as there are existing pending Complaints against Respondent Fynamics;[^4]
 
-4. It was not afforded its right to mediate under NPC Circular No. 18-03.[^5]
+4. It was not afforded its right to mediate under [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|NPC Circular No. 18-03]].[^5]
 
 On the substantive matters, Respondent Fynamics argued that the Commission erred in finding that it violated the provisions of the Data Privacy Act, based on the following grounds:
 
@@ -103,7 +103,7 @@ Respondent Fynamics contended that it was not afforded due process as it was not
 >
 > 17. Plainly speaking, the unavailability of this mode of discovery will hamper Respondent Fynamics' preparation of its arguments and evidence to rebut the false accusations against it.
 
-The Commission takes this opportunity to explain the difference between a Discovery Conference under Rule III of NPC Circular No. 16-04 and an investigation under Rule IV of the same Circular.
+The Commission takes this opportunity to explain the difference between a Discovery Conference under Rule III of [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] and an investigation under Rule IV of the same Circular.
 
 The procedure for a complaint under Rule III of NPC Circular No. 16-04 is as follows: The complaint is evaluated by an investigating officer. If the investigating officer finds that on its face the complaint involves a violation of the DPA and based on the allegations, there is a reason to believe that there is a privacy violation or personal data breach, an Order to confer for Discovery is issued by the investigating officer to discuss whether discovery of information and of electronically stored information is reasonably likely to be sought in the proceeding.[^10] After the discovery conference, a discovery Conference Report is prepared[^11] and the respondent is ordered to submit a Responsive Comment to the Complaint together with any supporting documents.[^12] The investigating officer, upon his or her discretion, may require the complainant to file a Reply. Such an Order may also require the respondent to file a Rejoinder after receipt of the Reply.[^13] The investigating officer shall then investigate the circumstances surrounding the privacy violation or the personal data breach and determine whether additional information, evidence, or investigation is necessary, including the conduct of on-site investigations.[^14] Upon termination of the investigation, the investigating officer shall produce a Fact-Finding Report, which shall include the results of the investigation, the evidence gathered, and any recommendations.[^15] The report shall be submitted to the Office of the Commissioner.[^16] The Commission shall review the evidence presented, including the Fact-Finding Report and supporting documents.[^17] It may: (1) promulgate a Decision; or (2) order the conduct of a clarificatory hearing, if in its discretion, additional information is needed to make a Decision.[^18] Finally, the Commission shall adjudicate the issues raised in the complaint on the basis of all the evidence presented and its own consideration of the law.[^19]
 
@@ -153,7 +153,7 @@ Thus, in cases of sua sponte investigations, it is futile for the Commission to 
 
 The nature and purpose of sua sponte investigations makes such exhaustion of remedies futile because at the point when the Commission detects a privacy violation or personal data breach with a degree of seriousness, the opportunity for rectification is no longer available. The requirement of exhaustion of remedies is thus inapplicable to sua sponte investigations.
 
-Furthermore, such provision for the exhaustion of remedies is not even an absolute rule that renders all non-conforming complaints invalid. The Commission has previously discussed the purpose for the exhaustion of remedies in the case of NPC 18-038:
+Furthermore, such provision for the exhaustion of remedies is not even an absolute rule that renders all non-conforming complaints invalid. The Commission has previously discussed the purpose for the exhaustion of remedies in the case of [[decisions/2020/npc-18-038-fgp-vs-maersk|NPC 18-038]]:
 
 > This rule was intended to prevent a deluge of vexatious complaints from those who waited for a long period of time to pass before deciding to lodge a complaint with the NPC, unduly clogging its dockets. Notably, however, the same Section provides that the Commission has the discretion to waive such period for filing upon good cause shown, or if the complaint involves a serious violation or breach of the DPA, taking into account the risk of harm to Complainant.
 
@@ -213,7 +213,7 @@ In this case, Respondent Fynamics claimed that the READ_CONTACTS dangerous permi
 
 While the purpose behind the access of the list of contacts was explained, Respondents have not disputed that it retained the contacts of data subjects and kept the data in a form that allowed them to further process even after the loan applications' approval.
 
-The issue is the retention of these contacts. The excerpts from the cited individual complaints in the Fact-Finding Report pertained to the collection practices made possible because of the retained personal information. Such retention is considered processing of personal information and must be justified under the lawful criteria provided under the DPA. As detailed by the Commission in the Decision, no such lawful criteria is present in this case. Respondent Fynamics failed to prove that their retention of data is supported by consent or any other lawful criteria provided under the Data Privacy Act.
+The issue is the retention of these contacts. The excerpts from the cited individual complaints in the Fact-Finding Report pertained to the collection practices made possible because of the retained personal information. Such retention is considered processing of personal information and must be justified under the lawful criteria provided under the [[laws/data-privacy-act-of-2012|DPA]]. As detailed by the Commission in the Decision, no such lawful criteria is present in this case. Respondent Fynamics failed to prove that their retention of data is supported by consent or any other lawful criteria provided under the Data Privacy Act.
 
 On the contention that the Respondent officers did not directly participate in any of the complained acts or through gross negligence, allowed the commission of any crime, the Data Privacy Act is clear that the liability of the responsible officers in cases where the offender is a corporation does not rely on active participation alone. Gross negligence is explicitly stated in the Data Privacy Act as a ground for criminal liability.
 
@@ -271,8 +271,8 @@ National Privacy Commission
 [^5]: *Id.* at par. 32.
 [^6]: *Id.* at par. 45.
 [^7]: *Id.* at par. 49.
-[^8]: NPC Circular 2021-01, 2021 Rules of Procedure of the National Privacy Commission dated 28 January 2021, Section 4 (p).
-[^9]: Section 11, Rule IV, NPC Circular No. 16-04 dated 15 December 2016. Emphasis supplied.
+[^8]: [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 2021-01, 2021 Rules of Procedure of the National Privacy Commission]] dated 28 January 2021, Section 4 (p).
+[^9]: Section 11, Rule IV, [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] dated 15 December 2016. Emphasis supplied.
 [^10]: *Id.* at Section 13.
 [^11]: *Ibid.*
 [^12]: *Id.* at Section 15.
@@ -292,7 +292,7 @@ National Privacy Commission
 [^26]: *Batangas City, et.al. v. Pilipinas Shell Petroleum Corporation*, G.R. No187631, 8 July 2015.
 [^27]: Motion for Reconsideration dated 2 March 2021, par. 16.
 [^28]: Motion for Reconsideration dated 2 March 2021.
-[^29]: NPC Circular No. 16-04 dated 15 December 2016, Rule IV, Section 23. Emphasis supplied.
+[^29]: [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] dated 15 December 2016, Rule IV, Section 23. Emphasis supplied.
 [^30]: Motion for Reconsideration dated 2 March 2021.
 [^31]: Decision dated 17 December 2020.
 [^32]: Resolution dated 7 October 2019.

@@ -109,7 +109,7 @@ Additionally, the Commission could not turn a blind eye on the delay committed b
 
 As previously established, the breach occurred on different dates between September and October of 2016.[^36] Although EP informed DMCI of the alleged breach as early as 24 October 2016, it was only on 21 June 2018, or more than a year and a half, that DMCI notified the Commission of the data breach in its Personal Data Security Breach Report.[^37] DMCI did not immediately report the alleged breach despite learning the possibility of its occurence when EP complained to DMCI about the data privacy issue.[^38]
 
-Under Section 17 of NPC Circular 16-03, viz:
+Under Section 17 of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]], viz:
 
 > SECTION 17. Notification of the Commission. The personal information controller shall notify the Commission of a personal data breach subject to the following procedures:
 >
@@ -129,13 +129,13 @@ Further, in order to mitigate possible harm or negative consequences, as well as
 
 Nevertheless, all these actions taken together could not be held as sufficient excuse to justify the concealment committed by DMCI due to its delay in notifying the Commission of the breach incident.
 
-Section 10, Rule XI of NPC Circular 2024-01 or the Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission provides that:
+Section 10, Rule XI of [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|NPC Circular 2024-01 or the Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission]] provides that:
 
 > SECTION 10. Failure to submit breach notification. – Should the NPC receive information that a possible data breach occurred but the PIC or PIP did not submit any notification to the NPC, the CID may use this information to initiate a sua sponte investigation under Rule X.
 >
 > During the sua sponte investigation, if a breach notification is submitted by the PIC or PIP, the CID shall continue with its sua sponte investigation on violations of the DPA and NPC issuances for possible recommendations for prosecution with the Department of Justice or imposition of administrative fines. The CMD shall, for its part, evaluate the breach matter submitted and recommend the imposition of administrative fines, if warranted.[^42]
 
-In addition to the already established discussion on the instant breach notification, the concealment and belated notification committed by DMCI is tantamount to its failure to submit its breach notification to the Commission. As such, the present breach requires a sua sponte investigation by the CID for possible violation of the DPA, such as concealment of security breaches involving sensitive personal information under Section 30, or malicious disclosure or unauthorized disclosure under Sections 31 and 32, respectively, among others.
+In addition to the already established discussion on the instant breach notification, the concealment and belated notification committed by DMCI is tantamount to its failure to submit its breach notification to the Commission. As such, the present breach requires a sua sponte investigation by the CID for possible violation of the DPA, such as [[laws/data-privacy-act-of-2012#section-30-concealment-of-security-breaches-involving-sensitive-personal-information|concealment of security breaches involving sensitive personal information under Section 30]], or malicious disclosure or unauthorized disclosure under [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Sections 31]] and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32]], respectively, among others.
 
 As the situation stands, DMCI needs to explain further the reason for its concealment and belated notification to the Commission of the personal data breach.
 
@@ -205,7 +205,7 @@ GENERAL RECORDS UNIT
 [^36]: Id.
 [^37]: Personal Data Security Breach Report, Report No. 2018/DPI-01 dated 11 June 2018 of DMCI Project Developers Inc.
 [^38]: Id.
-[^39]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 17 (15 December 2016) (NPC Circular 16-03); emphasis supplied.
+[^39]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 17 (15 December 2016) (NPC Circular 16-03); emphasis supplied.
 [^40]: Id.
 [^41]: Supplemental Post Breach Report dated 26 August 2022 of DMCI Project Developers Inc.
-[^42]: National Privacy Commission, Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission, NPC Circular 2024-01, rule XI, § 10 (26 January 2024); emphasis retained.
+[^42]: National Privacy Commission, [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission, NPC Circular 2024-01]], rule XI, § 10 (26 January 2024); emphasis retained.

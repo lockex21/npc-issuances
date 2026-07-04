@@ -1,6 +1,11 @@
 ---
 title: "NPC Advisory Opinion No. 2019-042 — Tax Declaration"
 description: "Guidance on release of certified tax declarations and whether consent is required from affected owners and data sharing agreements."
+aliases:
+  - "NPC Advisory Opinion No. 2019-042"
+  - "npc advisory opinion no. 2019-042"
+  - "Advisory Opinion No. 2019-042"
+  - "advisory opinion no. 2019-042"
 tags:
   - "issuance"
   - "type/advisory-opinion"
@@ -42,9 +47,9 @@ You now ask the following:
 
 ### Scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]; lawful criteria for processing
 
-The Data Privacy Act of 2012[^2] (DPA) applies to all types of processing of personal information subject to certain qualifications.[^3] The disclosure of documents containing personal or sensitive personal information (collectively, personal data) is considered processing. The law sets certain parameters under which personal data may be processed in a manner that is consistent with the general data privacy principles.
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) applies to all types of processing of personal information subject to certain qualifications.[^3] The disclosure of documents containing personal or sensitive personal information (collectively, personal data) is considered processing. The law sets certain parameters under which personal data may be processed in a manner that is consistent with the general data privacy principles.
 
-The Office of the City Assessor may rely on any of the provisions of Sections 12 and 13 of the DPA which provides the criteria for lawful processing of personal and sensitive personal information, respectively.[^4] These sections clarify that consent of the data subject is just one of the possible basis for processing. For instance, the DPA provides that processing of personal information is permitted if necessary to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.[^5]
+The Office of the City Assessor may rely on any of the provisions of [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA which provides the criteria for lawful processing of personal and sensitive personal information, respectively.[^4] These sections clarify that consent of the data subject is just one of the possible basis for processing. For instance, the DPA provides that processing of personal information is permitted if necessary to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.[^5]
 
 Personal information controllers (PICs), such as the City of Antipolo, should make its own determination of the proper basis for the disclosure, depending on the nature of the personal data being processed.[^6] They should evaluate whether the release of information is necessary for the fulfillment of its duties under existing laws and regulations.
 
@@ -74,9 +79,9 @@ Noted by:
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: Id. § 4.
-[^4]: See: National Privacy Commission, NPC Advisory Opinion No. 2019-39 (Sept. 3, 2019).
+[^4]: See: National Privacy Commission, [[advisory-opinions/2019/advisory-opinion-no-2019-039-v1-redacted-advisory-opinion-no-2019-039|NPC Advisory Opinion No. 2019-39]] (Sept. 3, 2019).
 [^5]: Id. § 12(e); See also § 13(f).
 [^6]: Id.
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 20 (a) (2016).
+[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 20 (a)]] (2016).

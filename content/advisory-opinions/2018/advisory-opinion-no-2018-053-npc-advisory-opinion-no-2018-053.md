@@ -10,6 +10,11 @@ tags:
   - healthcare
   - topic/cctv-surveillance
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-053"
+  - "npc advisory opinion no. 2018-053"
+  - "Advisory Opinion No. 2018-053"
+  - "advisory opinion no. 2018-053"
 ---
 
 ## Source
@@ -27,7 +32,7 @@ draft: false
 
 Dear [Redacted],
 
-We write in response to your query on the applicability of the Data Privacy Act of 2012
+We write in response to your query on the applicability of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 (DPA)[^1] to the following:
 
 ### Discussion
@@ -89,7 +94,7 @@ hospital standards will not apply.
 
 Same as photographs of hospital staff and doctors, CCTV images and footage are
 considered personal information inasmuch as it contains an image of an identifiable
-individual. Hence, the criteria for lawful processing under Section 12 of the DPA would
+individual. Hence, the criteria for lawful processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] of the DPA would
 also apply.
 
 Clinical photographs, on the other hand, are sensitive personal information since they
@@ -168,8 +173,8 @@ Deputy Privacy Commissioner
 for Policies and Planning
 
 [^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [DATA PRIVACY ACT OF 2012] Republic Act No. 10173 (2012).
-[^2]: Data Privacy Act of 2012, § 20 (c).
-[^3]: Data Privacy Act of 2012, § 3 (h) (2).
-[^4]: Id. § 3 (l) (2).
-[^5]: Data Privacy Act of 2012, § 16 (a) and (b).
-[^6]: Id. § 16 (c).
+[^2]: [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|Data Privacy Act of 2012, § 20 (c)]].
+[^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (h) (2)]].
+[^4]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l) (2)]].
+[^5]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, § 16 (a) and (b)]].
+[^6]: Id. [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|§ 16 (c)]].

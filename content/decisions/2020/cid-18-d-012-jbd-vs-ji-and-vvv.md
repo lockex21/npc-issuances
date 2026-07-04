@@ -46,7 +46,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.:
 
-Before this Commission is a Complaint filed by Complainant JBD against the respondents JI and VVV for an alleged violation of Republic Act No. 10173 ("Data Privacy Act of 2012" or "DPA").
+Before this Commission is a Complaint filed by Complainant JBD against the respondents JI and VVV for an alleged violation of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] ("Data Privacy Act of 2012" or "DPA").
 
 ### Facts
 
@@ -62,14 +62,14 @@ During the Discovery Conference, the parties manifested that they were not willi
 
 Hence, an Order was issued by the Commission on 12 July 2018 directing Respondents to file their responsive Comment until 22 July 2018. Complainant was in turn given ten (10) days from the receipt of the Comment to file his Reply.
 
-In the same Order, the Commission directed the Complainant to submit additional evidence pursuant to Section 21 of NPC Circular 16-04 ("NPC Rules of Procedure" or "Rules"),[^3] thus:
+In the same Order, the Commission directed the Complainant to submit additional evidence pursuant to Section 21 of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] ("NPC Rules of Procedure" or "Rules"),[^3] thus:
 
 In the interest of giving due course to Complainant's claims, the Commission resolves to order Complainant to provide the following:
 
 1.) A Certified True Copy of the Position Paper containing the subject SSS documents filed with the PRC; and
 2.) Documents to substantiate the allegations made in Paragraph 10 of the Verified Reply which refers to the findings of the SSS Fraud and Legal Department.
 
-The foregoing is pursuant to NPC Circular 16-04 which provides that the Commission may, on the basis of its review of the evidence, order the conduct of a clarificatory hearing if in its discretion, additional information is needed to make a Decision.
+The foregoing is pursuant to [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] which provides that the Commission may, on the basis of its review of the evidence, order the conduct of a clarificatory hearing if in its discretion, additional information is needed to make a Decision.
 
 **WHEREFORE**, all the above premises considered, the Commission hereby **ORDERS** Complainant JBD to submit the documents enumerated above within fifteen (15) days from receipt of this Order. The failure of Complainant to submit such documents shall cause this case to be submitted for resolution.
 
@@ -123,7 +123,7 @@ Respondent JI was given multiple opportunities to present her position against t
 
 In his Complaint, Complainant argues that his SSS personal information was disclosed by Respondent VVV to PRC without his consent and for unauthorized purposes. He asserts that the contents of his SSS personal data were not authorized and authenticated by the organization since the annexes are pictures only from a personal computer of a certain individual who has access to the SSS data portal. He also alleges that he gave no consent for Respondents to acquire the sensitive personal information they presented as evidence in the PRC case.[^9] He prays for moral damages for the anxiety, sleepless nights, and extreme emotional pain that this caused.[^10]
 
-The Complainant's allegations pertain to the act of Unauthorized Processing under Section 25 of the Data Privacy Act. This Section provides thus:
+The Complainant's allegations pertain to the act of Unauthorized Processing under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the Data Privacy Act]]. This Section provides thus:
 
 > **SEC. 25.** *Unauthorized Processing of Personal Information and Sensitive Personal Information.* – (a) The unauthorized processing of personal information shall be penalized by imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) shall be imposed on persons who process personal information without the consent of the data subject, or without being authorized under this Act or any existing law.
 >
@@ -287,22 +287,22 @@ National Privacy Commission
 
 [^1]: Records, p. 9-10.
 [^2]: *Id.*, p. 59.
-[^3]: NPC Circular 16-04. Rules of Procedure of the National Privacy Commission. Dated 15 December 2016.
+[^3]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04]]. Rules of Procedure of the National Privacy Commission. Dated 15 December 2016.
 [^4]: Manifestation and Motion dated 29 July 2020, p. 2.
 [^5]: Motion for Extension to Comply with NPC Order filed on 4 August 2020, pp. 1-2.
 [^6]: LBC Certification dated 02 February 2021.
 [^7]: *Ibid.*
-[^8]: NPC Circular 16-04, Rules of Procedure of the National Privacy Commission. Dated 15 December 2016.
+[^8]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04]], Rules of Procedure of the National Privacy Commission. Dated 15 December 2016.
 [^9]: *Id.*, p. 5.
 [^10]: Records p. 8.
-[^11]: NPC Case No. 17-018, Decision dated 15 July 2019.
+[^11]: [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC Case No. 17-018]], Decision dated 15 July 2019.
 [^12]: PRC Admin Case No. 48 JBD v. JI Verified Position Paper, pp.44-45.
-[^13]: RA 10173, Section 3 (g)
-[^14]: R.A. 10173, Section 3(i) *Sensitive personal information* refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or cm-rent health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
-[^15]: R.A. 10173, Section 3(j).
+[^13]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA 10173, Section 3 (g)]]
+[^14]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|R.A. 10173, Section 3(i)]] *Sensitive personal information* refers to personal information: (1) About an individual's race, ethnic origin, marital status, age, color, and religious, philosophical or political affiliations; (2) About an individual's health, education, genetic or sexual life of a person, or to any proceeding for any offense committed or alleged to have been committed by such person, the disposal of such proceedings, or the sentence of any court in such proceedings; (3) Issued by government agencies peculiar to an individual which includes, but not limited to, social security numbers, previous or cm-rent health records, licenses or its denials, suspension or revocation, and tax returns; and (4) Specifically established by an executive order or an act of Congress to be kept classified.
+[^15]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|R.A. 10173, Section 3(j)]].
 [^16]: PRC Admin Case No. 48 JBD v. JI Verified Position Paper
 [^17]: Complaints-Assisted Form.
-[^18]: R.A. 10173, Section 3 (b).
+[^18]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|R.A. 10173, Section 3 (b)]].
 [^19]: SEC. 12. *Criteria for Lawful Processing of Personal Information.* – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 (a) The data subject has given his or her consent;
 (b) The processing of personal information is necessary and is related to the fulfillment of a contract with the data subject or in order to take steps at the request of the data subject prior to entering into a contract;
@@ -318,5 +318,5 @@ National Privacy Commission
 (e) The processing is necessary for purposes of medical treatment, is carried out by a medical practitioner or a medical treatment institution, and an adequate level of protection of personal information is ensured; or
 (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 [^21]: Letter dated 07 January 2021. Page 1-2.
-[^22]: Implementing Rules and Regulations of the Data Privacy Act of 2012 (hereinafter, "IRR"), § 18(b).
-[^23]: Resolution, NPC Case No. 17-018. Dated 5 November 2020. Emphasis supplied.
+[^22]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]] (hereinafter, "IRR"), [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(b)]].
+[^23]: Resolution, [[resolutions/2020/npc-17-018-in-re-ea-ta-vs-ej-ee-hc|NPC Case No. 17-018]]. Dated 5 November 2020. Emphasis supplied.

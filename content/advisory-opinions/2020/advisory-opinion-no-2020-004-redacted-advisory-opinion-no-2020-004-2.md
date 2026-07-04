@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2020
+aliases:
+  - "NPC Advisory Opinion No. 2020-004"
+  - "npc advisory opinion no. 2020-004"
+  - "Advisory Opinion No. 2020-004"
+  - "advisory opinion no. 2020-004"
 draft: false
 ---
 
@@ -22,7 +27,7 @@ Re: REQUEST FOR GUIDANCE ON THE DISCLOSURE OF LIST OF THE DECEASED BARANGAY OFFI
 
 Dear [Redacted],
 
-We write in response to your letter received by the National Privacy Commission (NPC) regarding academic research in relation to the Data Privacy Act of 2012[^2] (DPA).
+We write in response to your letter received by the National Privacy Commission (NPC) regarding academic research in relation to the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 This is in relation to the 18 June 2019 letter of a certain researcher requesting for purposes of his dissertation the list of Deceased Barangay Officials (DBOs) from 2002 to 2011 who were able to claim death benefits as provided under Executive Order No. 155, Series of 2002.[^3] We understand from your letter that the Department of Interior and Local Government (DILG) has been administering the payment of the death and burial claims to the beneficiaries of the deceased barangay officials who died during their incumbency pursuant to DILG M.C. 2008-124,[^4] the implementing guidelines of E.O. 115.
 
@@ -75,9 +80,9 @@ Privacy Commissioner and Chairman
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
 [^3]: Authorizing Payment of Death Benefits to Barangay Officials Who Die During Their Term of Office, Executive Order No. 115, [E.O. 115] (2002).
 [^4]: Revised Rules and Regulations Implementing Executive Order No. 115 Entitled "Authorizing Payment of Death Benefits to Barangay Officials Who Die During Their Term of Office, Department of Interior and Local Government Memorandum Circular No. 2008-124 [DILG MC 2008-124] (2008).
-[^5]: Data Privacy Act of 2012, § 4.
-[^6]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-[^7]: Data Privacy Act of 2012, § 4 (a).
-[^8]: Id. § 4 (c).
-[^9]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 5 (2016).
-[^10]: Data Privacy Act of 2012, § 2.
+[^5]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]].
+[^6]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173 (2016).
+[^7]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]] (a).
+[^8]: Id. [[laws/data-privacy-act-of-2012#section-4-scope|§ 4]] (c).
+[^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§ 5]] (2016).
+[^10]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|§ 2]].

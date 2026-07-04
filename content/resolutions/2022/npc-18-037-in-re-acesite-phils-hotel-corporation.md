@@ -58,7 +58,7 @@ Acesite is the entity that operates the Waterfront Manila Pavilion Hotel and Cas
    - Tax Identification Numbers
    - Pag-ibig (HDMF) Numbers[^4]
 
-The Commission, through its Complaints and Investigation Division (CID), ordered Acesite to submit a Full Breach Report (Updated Report) pursuant to NPC Circular No. 16-03.[^5] Particularly, the Order dated 21 January 2021 required Acesite to provide more details on the breach:
+The Commission, through its Complaints and Investigation Division (CID), ordered Acesite to submit a Full Breach Report (Updated Report) pursuant to [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]].[^5] Particularly, the Order dated 21 January 2021 required Acesite to provide more details on the breach:
 
 Pursuant to the National Privacy Commission (NPC) Circular No. 16-03 on Personal Data Breach Management, you are hereby required to submit an Updated Report expounding the details of the incidents with emphasis supplied on the lacking information from the initial notification reports we received and attaching the specified documents to further help with the investigation of the data breach incident:
 
@@ -177,7 +177,7 @@ The PIA also revealed the need to improve physical security measures to protect 
 
 Technical security measures included the creation of data recovery procedures/business continuity plans,[^56] periodic review of event logs,[^57] and implementing an encryption standard of AES-256 when storing or transmitting personal data, and stronger password policies,[^58] among others.
 
-Thus, based on the records and EnD's evaluation, Acesite has been able to conduct an adequate PIA in line with NPC Advisory No. 17-03.
+Thus, based on the records and EnD's evaluation, Acesite has been able to conduct an adequate PIA in line with [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 17-03]].
 
 **WHEREFORE**, premises considered, this Commission resolves that the matter of NPC BN 18-037 "In re Acesite (Phils.) Hotel Corporation" is hereby considered **CLOSED**.
 
@@ -243,7 +243,7 @@ GENERAL RECORDS UNIT
 [^38]: *Id.*, referred to as Annex "D".
 [^39]: *Id.*, referred to as Annex "B".
 [^40]: Compliance dated 19 May 2021 of Acesite (Phils.) Hotel Corporation referred to as Annex "A", at p. 3.
-[^41]: National Privacy Commission, Guidelines on Privacy Impact Assessments, NPC Advisory 2017-03, in Definition of Terms (31 July 2017) (NPC Advisory 2017-03).
+[^41]: National Privacy Commission, Guidelines on Privacy Impact Assessments, [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory 2017-03]], in Definition of Terms (31 July 2017) (NPC Advisory 2017-03).
 [^42]: Privacy Impact Assessment Report dated 01 April 2022 of Acesite (Phils.) Hotel Corporation, at p. 2 and p. 27.
 [^43]: Process Flowcharts and Narratives dated 17 June 2022 of Acesite (Phils.) Hotel Corporation.
 [^44]: Privacy Impact Assessment Report dated 01 April 2022 of Acesite (Phils.) Hotel Corporation, at p. 3.

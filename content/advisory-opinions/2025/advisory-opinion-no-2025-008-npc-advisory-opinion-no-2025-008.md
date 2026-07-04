@@ -9,6 +9,11 @@ tags:
   - "topic/data-sharing"
   - "topic/government"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-008"
+  - "npc advisory opinion no. 2025-008"
+  - "Advisory Opinion No. 2025-008"
+  - "advisory opinion no. 2025-008"
 ---
 
 ## Source
@@ -27,8 +32,8 @@ Dear [Redacted],
 
 We respond to your request seeking guidance and clarification on the request of Intervest
 Projects Inc. (IPI) to your office for copies of death certificates of deceased veteran pensioners
-taking into account the provisions of Republic Act No. 10173, also known as the Data Privacy
-Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and relevant issuances of
+taking into account the provisions of [[laws/data-privacy-act-of-2012|Republic Act No. 10173, also known as the Data Privacy
+Act of 2012 (DPA)]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and relevant issuances of
 the National Privacy Commission (NPC).
 
 ### Discussion
@@ -66,7 +71,7 @@ A death certificate contains both personal information and sensitive personal in
 (collectively, personal data). As such, the processing2 of personal information shall be
 permitted only if not otherwise prohibited by law, and when at least one of the criteria under
 [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] is met. Similarly, the processing of sensitive personal information and
-privileged information shall be prohibited, except in the cases enumerated under Section 13.
+privileged information shall be prohibited, except in the cases enumerated under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]].
 Thus, there is a need to satisfy at least one criterion under Sections 12 and 13, respectively, for
 the processing of personal data to be considered lawful.
 
@@ -93,14 +98,14 @@ As such, the requested documents may be lawfully released to IPI, subject to PVA
 policies and rules as well as compliance with the applicable and relevant provisions of the
 DPA.
 
-As to whether or not to execute a DSA, you may refer to NPC Circular No. 2020-03. Under the
+As to whether or not to execute a DSA, you may refer to [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]]. Under the
 said Circular, PICs may carry out a DSA. Note that the language used is permissive only. This
 
 
 but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation,
 use, consolidation, blocking, erasure or destruction of data.
 
-was clarified under NPC Advisory No. 2025-01.3
+was clarified under [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|NPC Advisory No. 2025-01]].3
 
 We emphasize, however, that although DSAs are no longer strictly required in all personal
 data sharing between or among PICs, it is still considered one of the best practices to execute
@@ -117,7 +122,7 @@ requirements of the DPA must still be complied with to ensure the protection of 
 and uphold the rights of the data subjects. In particular, the same must be in accordance with
 the general data privacy principles of transparency, legitimate purpose, and proportionality.
 
-As discussed in NPC Advisory Opinion No. 2022-05, :
+As discussed in [[advisory-opinions/2022/advisory-opinion-no-2022-005-advisory-opinion-no-2022-005-redacted|NPC Advisory Opinion No. 2022-05]], :
 
    “LTO must establish a system for handling these types of requests for
               information to avoid the possibility of abuse. xxx It must also provide
@@ -169,4 +174,4 @@ VIDA ZORA G. BOCAR
 OIC-Director IV, Privacy Policy Office4
 
 [^2]: §3(j) Processing refers to any operation or any set of operations performed upon personal information including,
-[^3]: Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements.
+[^3]: [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements]].

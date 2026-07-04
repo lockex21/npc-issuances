@@ -6,6 +6,11 @@ tags:
 - type/advisory-opinion
 - year/2023
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2023-004"
+  - "npc advisory opinion no. 2023-004"
+  - "Advisory Opinion No. 2023-004"
+  - "advisory opinion no. 2023-004"
 ---
 
 ## Source
@@ -42,7 +47,7 @@ We note further that the implementation of the BIR EIS would require Globe to pr
 
 While the above information is not explicitly enumerated in RR 09-2020, you have clarified in your 20 August 2022 email that such information is being requested in the BIR's website particularly on the "e-invoice API Guide" page that shows the different e-invoices that will be generated in the EIS.[^4]
 
-You thus seek guidance if the BIR's request for the submission of the information above, specifically the respective email and registered addresses of Globe's subscribers, is in accordance with the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]. It is your position that the inclusion of the email and registered addresses may not be consistent with the principle of proportionality under the DPA given that:
+You thus seek guidance if the BIR's request for the submission of the information above, specifically the respective email and registered addresses of Globe's subscribers, is in accordance with the [[laws/data-privacy-act-of-2012|DPA]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]. It is your position that the inclusion of the email and registered addresses may not be consistent with the principle of proportionality under the DPA given that:
 
 a) the requirement under Section 5 (b) of the National Internal Revenue Code (NIRC) for the disclosure to the BIR of addresses refers to the addresses of juridical persons that have a connection with the taxpayer under audit/investigation, but not the address of natural persons identified as "buyers";[^5] and
 
@@ -68,7 +73,7 @@ These are information essential for the BIR to fulfill the purpose of the EIS, t
 
 Given the foregoing, the submission of the subscriber's registered address and email address is considered permissible under the DPA. We note that submission of said subscriber data are necessary in compliance with the TRAIN law and BIR regulations and does not contravene the data privacy principle of proportionality.
 
-It is worth noting that the DPA itself recognizes the necessity of personal data processing to carry out the functions of public authority. In Advisory Opinion No. 2020-16 where the Commission on Audit's authority to process personal data in light of its constitutional mandate was duly recognized, we emphasized that the DPA shall not be used to hamper, or interfere with, the performance of the duties and functions of duly constituted public authorities.[^7] Thus, we take this opportunity to reiterate that the DPA, its IRR and other relevant issuances of the NPC are not meant to impede the regular functions of government agencies based on their mandates.
+It is worth noting that the DPA itself recognizes the necessity of personal data processing to carry out the functions of public authority. In [[advisory-opinions/2020/advisory-opinion-no-2020-016-audit-procedures-of-the-commission-on-audit|Advisory Opinion No. 2020-16]] where the Commission on Audit's authority to process personal data in light of its constitutional mandate was duly recognized, we emphasized that the DPA shall not be used to hamper, or interfere with, the performance of the duties and functions of duly constituted public authorities.[^7] Thus, we take this opportunity to reiterate that the DPA, its IRR and other relevant issuances of the NPC are not meant to impede the regular functions of government agencies based on their mandates.
 
 Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 

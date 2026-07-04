@@ -48,7 +48,7 @@ x----------------------------------------------------x
 
 AGUIRRE, D.P.C.;
 
-Before this Commission are separate Complaints filed by AQM (Complainant) against PIT, NPT, and CNB (collectively, Respondents) for alleged violations of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA).
+Before this Commission are separate Complaints filed by AQM (Complainant) against PIT, NPT, and CNB (collectively, Respondents) for alleged violations of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA)]].
 
 ### Facts
 
@@ -119,9 +119,9 @@ On 30 August 2022, Complainant submitted her Reply to Comment.[^46] Complainant 
 
 She further argued that the documents were not just lying around in the family house.[^49] She explained that the living quarters of IT, where the documents were kept, is a different and separate structure from the house that NPT occupied.[^50]
 
-She posited that the documents were illegally obtained.[^51] She stressed that Respondents had no authority to go into IT's living quarters as it was locked and not part of the main house.[^52] Thus, she contended that Respondents should be held liable for a violation of Section 29 (Unauthorized Access or Intentional Breach) under the DPA.[^53]
+She posited that the documents were illegally obtained.[^51] She stressed that Respondents had no authority to go into IT's living quarters as it was locked and not part of the main house.[^52] Thus, she contended that Respondents should be held liable for a violation of [[laws/data-privacy-act-of-2012#section-29-unauthorized-access-or-intentional-breach|Section 29 (Unauthorized Access or Intentional Breach)]] under the DPA.[^53]
 
-She further contended that Respondents are liable for violating Sections 31 (Malicious Disclosure) and 32 (Unauthorized Disclosure) of the DPA because their use of her personal and sensitive personal information in the criminal case for concubinage was "purely malicious and unauthorized" because the case has not been heard.[^54]
+She further contended that Respondents are liable for violating [[laws/data-privacy-act-of-2012#section-31-malicious-disclosure|Sections 31 (Malicious Disclosure)]] and [[laws/data-privacy-act-of-2012#section-32-unauthorized-disclosure|32 (Unauthorized Disclosure)]] of the DPA because their use of her personal and sensitive personal information in the criminal case for concubinage was "purely malicious and unauthorized" because the case has not been heard.[^54]
 
 On 31 August 2022, the CID issued an Order noting the Reply to Comment submitted by the Complainant.[^55]
 
@@ -147,7 +147,7 @@ Whether Respondents violated [[laws/data-privacy-act-of-2012#section-25-unauthor
 
 The Commission dismisses the case for lack of merit.
 
-Section 25 of the DPA provides:
+[[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]] provides:
 
 > Section 25. *Unauthorized Processing of Personal Information and Sensitive Personal Information*. (a) The unauthorized processing of personal information shall be penalized by imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) shall be imposed on persons who process personal information without the consent of the data subject, or without being authorized under this Act or any existing law.[^70]
 
@@ -198,7 +198,7 @@ Section 3 of the DPA defines personal and sensitive personal information as:
 
 In this case, Respondents processed Complainant's personal information including her name, address, and contact details.[^77] Respondents likewise processed Complainant's sensitive personal information in her US Visa Application including her age, marital status, and passport number.[^78] Thus, the second requisite of Unauthorized Processing is likewise present.
 
-#### Respondents processed Complainant's personal and sensitive information pursuant to Section 12(f) and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13(f) of the DPA]].
+#### Respondents processed Complainant's personal and sensitive information pursuant to Section 12(f) and Section 13(f) of the DPA.
 
 The third requisite is that the processing was done without the consent of the data subject, or without being authorized under the DPA or any existing law.[^79]
 
@@ -352,27 +352,27 @@ National Privacy Commission
 [^67]: Memorandum for the Respondent, 05 October 2022, in AQM v. PIT, NPT, and CNB, NPC 22-112 (NPC 2022).
 [^68]: Order Denying the Complainant's Manifestation with Motion to Quash Memoranda of Respondents, 19 October 2022, at 3, in AQM v. PIT, NPT, and CNB, NPC 22-112 (NPC 2022).
 [^69]: Id.
-[^70]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 § 25 (2012).
-[^71]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, 16 May 2022, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-21-006-2022.05.16-Wefund-Lending-Corporation-Decision-on-the-Main-Case-Final.pdf (last accessed 06 May 2024).
+[^70]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|§ 25]] (2012).
+[^71]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006]], 16 May 2022, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-21-006-2022.05.16-Wefund-Lending-Corporation-Decision-on-the-Main-Case-Final.pdf (last accessed 06 May 2024).
 [^72]: Complaint-Affidavit of AQM against PIT, 25 April 2022, at 4, in AQM v. PIT, NPT, and CNB, NPC 22-112 (NPC 2022).
-[^73]: Data Privacy Act of 2012, § 3(j).
-[^74]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 31.
+[^73]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3(j)]].
+[^74]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006]], at 31.
 [^75]: Complaint-Affidavit of AQM against PIT, 25 April 2022, at 2, in AQM v. PIT, NPT, and CNB, NPC 22-112 (NPC 2022).
-[^76]: Data Privacy Act of 2012, § 3(g) (l). Emphasis supplied.
+[^76]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3(g) (l)]]. Emphasis supplied.
 [^77]: Complaint-Affidavit of AQM against PIT, 25 April 2022, at 2, in AQM v. PIT, NPT, and CNB, NPC 22-112 (NPC 2022).
 [^78]: Id.
-[^79]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, NPC SS 21-006, at 31.
+[^79]: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006]], at 31.
 [^80]: Complaint-Affidavit of AQM against PIT, 25 April 2022, at 4, in AQM v. PIT, NPT, and CNB, NPC 22-112 (NPC 2022).
 [^81]: Comment of NPT, 20 July 2022, Annex E, in AQM v. PIT, NPT, and CNB, NPC 22-112 (NPC 2022).
 [^82]: Memorandum for the Complainant, 04 October 2022, at 2, in AQM v. PIT, NPT, and CNB, NPC 22-112 (NPC 2022).
 [^83]: Comment of CNB, 20 July 2022, at 2, in AQM v. PIT, NPT, and CNB, NPC 22-112 (NPC 2022).
-[^84]: Data Privacy Act of 2012, § 13(f) (l). Emphasis supplied.
+[^84]: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Data Privacy Act of 2012, § 13(f) (l)]]. Emphasis supplied.
 [^85]: Complaint-Affidavit of AQM against PIT, 25 April 2022, at 4, in AQM v. PIT, NPT, and CNB, NPC 22-112 (NPC 2022).
 [^86]: Id.
-[^87]: EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 8, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf (last accessed 07 May 2024).
-[^88]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18(b) (2016).
-[^89]: EA and TA v. EJ, EE and HC, NPC 17-018, 15 July 2019, at 9.
+[^87]: EA and TA v. EJ, EE and HC, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]], 15 July 2019, at 8, available at https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-17-018-EA-and-TA-v-EJ-Decision-2019.07.15-.pdf (last accessed 07 May 2024).
+[^88]: National Privacy Commission, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18(b)]] (2016).
+[^89]: EA and TA v. EJ, EE and HC, [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]], 15 July 2019, at 9.
 [^90]: Id.
-[^91]: Data Privacy Act of 2012, § 11(c) & (d).
+[^91]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11(c) & (d)]].
 [^92]: Comment of PIT, 20 July 2022, at 4, in AQM v. PIT, NPT, and CNB, NPC 22-112 (NPC 2022).
-[^93]: KRL v. Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, PB, CID 17-K-003, 19 November 2019, available at https://privacy.gov.ph/wp-content/uploads/2023/05/CID-17-K-003-KRL-v-Trinity-Decision-PSD-10Aug2020.pdf (last accessed 09 May 2024).
+[^93]: KRL v. Trinity University of Asia, AA, MC, NCB, RG, GV, GCT, RR, MR, PB, [[decisions/2019/cid-17-k-003-krl-vs-trinity-university-of-asia-aa-mc-ncb-rg-gv-gct-rr-mr-pb|CID 17-K-003]], 19 November 2019, available at https://privacy.gov.ph/wp-content/uploads/2023/05/CID-17-K-003-KRL-v-Trinity-Decision-PSD-10Aug2020.pdf (last accessed 09 May 2024).

@@ -8,6 +8,11 @@ tags:
   - topic/data-sharing
   - topic/government
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2017-054"
+  - "npc advisory opinion no. 2017-054"
+  - "Advisory Opinion No. 2017-054"
+  - "advisory opinion no. 2017-054"
 ---
 
 ## Source
@@ -72,10 +77,10 @@ Very truly yours,
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: IRR of RA No. 10173, §3(r)
-[^2]: IRR of RA No. 10173, §5
-[^3]: IRR of RA No. 10173, §20(a)
-[^4]: See: RA No. 10173, §12 and 13
-[^5]: See: NPC Circular No. 16-02, §4
-[^6]: See: NPC Circular No. 16-02, §1.
-[^7]: See: NPC Circular No. 16-02, §4.
+[^1]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR of RA No. 10173, §3(r)]]
+[^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|IRR of RA No. 10173, §5]]
+[^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|IRR of RA No. 10173, §20(a)]]
+[^4]: See: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|RA No. 10173, §12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]]
+[^5]: See: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], §4
+[^6]: See: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], §1.
+[^7]: See: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], §4.

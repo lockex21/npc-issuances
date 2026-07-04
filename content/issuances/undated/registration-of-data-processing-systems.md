@@ -58,14 +58,14 @@ WHEREAS, [[laws/data-privacy-act-of-2012#section-24-applicability-to-government-
 involve accessing or requiring sensitive personal information from at least one thousand (1,000)
 individuals, a government agency shall require the contractor and its employees to register their
 personal information processing system with the NPC in accordance with the [[laws/data-privacy-act-of-2012|DPA]] and to comply
-with the law’s provisions. Furthermore, Section 14 of the law mandates that personal information
+with the law’s provisions. Furthermore, [[laws/data-privacy-act-of-2012#section-14-subcontract-of-personal-information|Section 14 of the law]] mandates that personal information
 processors (PIPs) shall also comply with all requirements of the [[laws/data-privacy-act-of-2012|DPA]] and other applicable laws;
 
-WHEREAS, in line with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Sections 46 and 47 of the IRR]], a PIC or PIP that employs fewer
+WHEREAS, in line with [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-46-enforcement-of-the-data-privacy-act|Sections 46]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|47]] of the IRR, a PIC or PIP that employs fewer
 than two hundred fifty (250) persons shall not be required to register unless the processing it
 carries out is likely to pose a risk to the rights and freedoms of data subjects, is not occasional, or
 includes sensitive personal information of at least one thousand (1,000) individuals. Moreover,
-Section 48 thereof declares that a PIC carrying out any automated processing operation that is
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-48-notification-of-automated-processing-operations|Section 48 thereof]] declares that a PIC carrying out any automated processing operation that is
 intended to serve a single or several related purposes must notify the NPC when said operation
 becomes the sole basis for making decisions about a data subject, and when such decision would
 significantly affect the data subject;
@@ -106,7 +106,7 @@ electronic communication data, location data, and financial data, among others;
 C. “Commission” or “NPC” refers to the National Privacy Commission;
 
 D. “Compliance Officer for Privacy” or “COP” refers to an individual that performs some
-of the functions of a DPO, as provided in NPC Advisory No. 17-01;
+of the functions of a DPO, as provided in [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 17-01]];
 
 E. “Core Activity” refers to a key operation or process carried out by a PIC or PIP to achieve
 its mandate or function: Provided, that processing of personal data forms an integral and

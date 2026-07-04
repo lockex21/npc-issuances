@@ -12,6 +12,11 @@ tags:
   - "security-measures"
   - "topic/data-sharing"
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2025-001"
+  - "npc advisory opinion no. 2025-001"
+  - "Advisory Opinion No. 2025-001"
+  - "advisory opinion no. 2025-001"
 ---
 
 ## Source
@@ -40,7 +45,7 @@ The DA granted the request lest it face a disallowance from the COA. Nevertheles
 
 1) Whether it is permissible to share the requested documents containing personal data with the Commission on Audit (COA) in the absence of a Data Sharing Agreement (DSA).
 
-2) Whether the principle of proportionality under the Data Privacy Act of 2012 (DPA)[^3] would be violated if the DA provides the COA with access to the database containing the personal data of farmers and fisherfolks.
+2) Whether the principle of proportionality under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (DPA)]][^3] would be violated if the DA provides the COA with access to the database containing the personal data of farmers and fisherfolks.
 
 #### Functions of Public Authority; Constitutional or Statutory Mandate; Data Sharing Agreement
 
@@ -52,11 +57,11 @@ The COA's request for the production of personal data of farmers and access to t
 
 Accordingly, the COA's request for personal data falls squarely within its constitutional mandate and is recognized under Section 4 (e) of the DPA. As such, the DA may lawfully share personal data of the farmers and fisherfolks with the COA.
 
-The sharing of the individual farmer's data with the COA *sans* a Data Sharing Agreement is also permissible as Section 6 of NPC Circular 2020-03 (Data Sharing Agreements) does not prohibit nor limit the sharing, disclosure, or transfer of personal data which are already authorized or required by law. In the instant case, considering that the sharing, disclosure, or transfer of personal data is already authorized or required by law, the law or regulation itself may operate as the governing framework or protocol eliminating the need for a separate agreement. Thus, the execution of a DSA is discretionary, but compliance with the other provisions of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and relevant NPC issuances remains mandatory.
+The sharing of the individual farmer's data with the COA *sans* a Data Sharing Agreement is also permissible as Section 6 of [[issuances/2020/data-sharing-agreements|NPC Circular 2020-03]] (Data Sharing Agreements) does not prohibit nor limit the sharing, disclosure, or transfer of personal data which are already authorized or required by law. In the instant case, considering that the sharing, disclosure, or transfer of personal data is already authorized or required by law, the law or regulation itself may operate as the governing framework or protocol eliminating the need for a separate agreement. Thus, the execution of a DSA is discretionary, but compliance with the other provisions of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and relevant NPC issuances remains mandatory.
 
 #### General Data Privacy Principles; Sensitive Personal Information; Security Measures
 
-It must be stressed, however, that processing based on Section 4(e) of the DPA is not absolute. The IRR of the DPA clarifies that processing, even if pursuant to a legal mandate, must be done lawfully and fairly, with strict adherence to the general data privacy principles of transparency, legitimate purpose, and proportionality.
+It must be stressed, however, that processing based on [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]] is not absolute. The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of the DPA clarifies that processing, even if pursuant to a legal mandate, must be done lawfully and fairly, with strict adherence to the general data privacy principles of transparency, legitimate purpose, and proportionality.
 
 In particular, the principle of proportionality requires that personal information for processing must be accurate, relevant, adequate, and not excessive in relation to the specified and declared purpose. In addition, personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means. As such, it is crucial to ensure that the information to be disclosed for audit purposes should only be limited to what is necessary to achieve the objectives of the audit.
 
@@ -81,4 +86,4 @@ Director IV, Privacy Policy Office
 [^4]: Processing refers to any operation or any set of operations performed upon personal data including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure, or destruction of data.
 [^5]: Zoleta vs. Office of the Ombudsman, G.R. No. 258888, 08 April 2024.
 [^6]: Philippine Stock Exchange v. Secretary of Finance, G.R. No. 213860, 05 July 2022, Concurring Opinion, C.J. Gesmundo.
-[^7]: §4(d), NPC Circular No. 2023-06 (Security of Personal Data in the Government and Private Sector).
+[^7]: §4(d), [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular No. 2023-06]] (Security of Personal Data in the Government and Private Sector).

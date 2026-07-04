@@ -47,7 +47,7 @@ x--------------------------------------------x
 
 AGUIRRE, *D.P.C.:*
 
-Before this Commission is a Complaint filed by Complainant JBD against the respondents JI and VVV for an alleged violation of R.A. 10173 ("Data Privacy Act").
+Before this Commission is a Complaint filed by Complainant JBD against the respondents JI and VVV for an alleged violation of [[laws/data-privacy-act-of-2012|R.A. 10173]] ("Data Privacy Act").
 
 ### Facts
 
@@ -65,11 +65,11 @@ Hence, an Order was issued by the Commission on 12 July 2018 directing Responden
 
 In his Complaint, Complainant argues that his SSS personal information was disclosed by Respondent VVV to PRC without his consent and for unauthorized purposes. He asserts that the contents of his SSS personal data were not authorized and authenticated by the organization since the annexes are pictures only from a personal computer of a certain individual who has access to the SSS data portal. He also alleges that he gave no consent for Respondents to acquire the sensitive personal information they presented as evidence in the PRC case.[^3] He prays for moral damages for the anxiety, sleepless nights, and extreme emotional pain that this caused.[^4]
 
-In their Comment, Respondent VVV asserts that he and his law firm are not covered by the Data Privacy Act, stating thus:
+In their Comment, Respondent VVV asserts that he and his law firm are not covered by the [[laws/data-privacy-act-of-2012|Data Privacy Act]], stating thus:
 
 > Under [Sections 3 and 4] of the Data Privacy Act, it can be deemed that Respondent VVV and Law Firm is not covered nor violated any provisions in [The Data Privacy Act] for the reason that respondents are not considered as personal information controller and processors… It is clear that Respondent VVV and Law Firm are not involved in personal information and even not [sic] considered as personal information controller and processors.[^5]
 
-He asserts that the Complaint must be dismissed outright, following the provisions of NPC Circular 16-04:
+He asserts that the Complaint must be dismissed outright, following the provisions of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]]:
 
 > Section 12. Outright Dismissal – The Commission may dismiss outright any complaint on the following grounds:
 >
@@ -123,7 +123,7 @@ e. Whether Respondents committed unauthorized processing of Complainant's SSS em
 
 Respondent VVV argues that Complainant failed to exhaust remedies available to him as they were not informed of the alleged violation prior to the filing of the instant case. The alleged privacy violation subject of this case supposedly resulted from the access and disclosure to the PRC of Complainant's SSS documents without his knowledge and consent. Contrary to the contention of Respondent VVV, to require Complainant to first exhaust his remedies with the Respondents would be unreasonable. First, Respondents already accessed and submitted the SSS documents of Complainant as evidence in the PRC case. These facts were never disputed. Second, there is nothing in the records or the statements and submissions of the Respondents show either their willingness or capability to provide an adequate remedy to Complainant. The requirement to exhaust available remedies does not contemplate exercises in futility that only delay justice for data subjects whose rights are violated.
 
-In addition, the Commission emphasizes that this requirement in Circular 16-04 also provides that:
+In addition, the Commission emphasizes that this requirement in [[issuances/undated/rules-of-procedure|Circular 16-04]] also provides that:
 
 > The National Privacy Commission may waive any or all of the requirements of this Section, at its discretion, upon good cause shown, or if the complaint involves a serious violation or breach of the Data Privacy Act, taking into account the risk of harm to the complainant.[^17]
 
@@ -131,7 +131,7 @@ Respondent VVV also claims that Complainant violated the best evidence rule, cit
 
 The Commission notes that the fact that Complainant's SSS documents were accessed and used without his consent was never disputed by Respondents.
 
-These documents contained not just his employment history and premiums but his date of birth and SSS Number as well. These fall squarely under the enumeration of what is considered sensitive personal information under the Data Privacy Act:
+These documents contained not just his employment history and premiums but his date of birth and SSS Number as well. These fall squarely under the enumeration of what is considered sensitive personal information under the [[laws/data-privacy-act-of-2012|Data Privacy Act]]:
 
 > (l) *Sensitive personal information* refers to personal information:
 >
@@ -187,7 +187,7 @@ National Privacy Commission
 [^3]: *Id.*, p. 5.
 [^4]: *Ibid.*
 [^5]: *Id.*, p. 48.
-[^6]: Section 12, NPC Circular 16-04. Dated 15 December 2016.
+[^6]: Section 12, [[issuances/undated/rules-of-procedure|NPC Circular 16-04]]. Dated 15 December 2016.
 [^7]: *Id.*, p. 49-50.
 [^8]: *Id.*, p. 50-51.
 [^9]: *Id.*, p. 51.
@@ -200,6 +200,6 @@ National Privacy Commission
 [^16]: *Ibid.*
 [^17]: *Supra* note 6 at Section 4.
 [^18]: Section 3, Rule 130, Rules of Court.
-[^19]: Section 3 (l), R.A. 10173. Emphasis supplied.
+[^19]: Section 3 (l), [[laws/data-privacy-act-of-2012|R.A. 10173]]. Emphasis supplied.
 [^20]: Section 13. *Sensitive Personal Information and Privileged Information.* – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases: (a) The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing; (b) The processing of the same is provided for by existing laws and regulations: *Provided,* That such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: *Provided, further,* That the consent of the data subjects are not required by law or regulation permitting the processing of the sensitive personal information or the privileged information; (c) The processing is necessary to protect the life and health of the data subject or another person, and the data subject is not legally or physically able to express his or her consent prior to the processing; (d) The processing is necessary to achieve the lawful and noncommercial objectives of public organizations and their associations: *Provided,* That such processing is only confined and related to the *bona fide* members of these organizations or their associations: *Provided, further,* That the sensitive personal information are not transferred to third parties: *Provided, finally,* That consent of the data subject was obtained prior to processing; (e) The processing is necessary for purposes of medical treatment, is carried out by a medical practitioner or a medical treatment institution, and an adequate level of protection of personal information is ensured; or (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 [^21]: *Supra* note 6, at Section 21.

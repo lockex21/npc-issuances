@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2017
   - topic/data-subject-rights
+aliases:
+  - "NPC Advisory Opinion No. 2017-030"
+  - "npc advisory opinion no. 2017-030"
+  - "Advisory Opinion No. 2017-030"
+  - "advisory opinion no. 2017-030"
 draft: false
 ---
 
@@ -31,7 +36,7 @@ This is with regard to your queries received by the National Privacy Commission 
 
 We understand that there may be instances where certain databases of personal data, i.e. list of members of business chambers and their personal contact details, may be acquired or purchased by the bank in good faith from another entity, and thereafter, the bank uses these database for marketing purposes. Later on, the bank discovers that the list came from an unlawful activity, i.e. intentional breach, etc. You would like to clarify the extent of liability of the bank in the said case.
 
-The Data Privacy Act of 2012 (DPA) espouses the general data privacy principles[^1] of transparency, legitimate purpose and proportionality. The law likewise provides for the rights of the data subject. All personal information controllers and personal information processors are mandated to adhere to these principles and to uphold the rights of the data subjects in the collection, processing, and retention of personal data.
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) espouses the general data privacy principles[^1] of transparency, legitimate purpose and proportionality. The law likewise provides for the rights of the data subject. All personal information controllers and personal information processors are mandated to adhere to these principles and to uphold the rights of the data subjects in the collection, processing, and retention of personal data.
 
 The law likewise provides for the criteria for lawful processing of personal, sensitive personal and privileged information in Sections 12 and 13 thereof.
 
@@ -84,7 +89,7 @@ Very truly yours,
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: RA No. 10173, §11; Implementing Rules and Regulations (IRR), §18
+[^1]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|RA No. 10173, §11]]; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Implementing Rules and Regulations (IRR), §18]]
 [^2]: Office of the Privacy Commissioner for Personal Data, Hong Kong. *Guidance Note - Guidance on Use of Personal Data Obtained from the Public Domain*, August 2013, available at https://www.pcpd.org.hk/english/publications/files/ON_public_domain_e.pdf
 [^3]: id.
-[^4]: RA No. 10173, §3(b)
+[^4]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(b)]]

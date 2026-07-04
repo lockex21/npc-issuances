@@ -11,6 +11,11 @@ tags:
   - personal-information
   - proportionality
   - topic/employment
+aliases:
+  - "NPC Advisory Opinion No. 2019-050"
+  - "npc advisory opinion no. 2019-050"
+  - "Advisory Opinion No. 2019-050"
+  - "advisory opinion no. 2019-050"
 draft: false
 ---
 
@@ -49,7 +54,7 @@ Per COA's letter to your office, the request for the last known address of your 
 
 From our understanding of the abovementioned provision, the purpose of the request is to be able to serve the corresponding copies of Notice of Disallowance/Charge (ND/NC) and/or Notice of Suspension (NS)[^3] to the person considered liable by the Auditor, either through personal service or his/her registered mail.
 
-The Data Privacy Act of 2012[^4] (DPA) applies to all types of processing of personal data in the country or outside, subject to certain qualifications.[^5] The last known address of a former employee is considered personal information[^6] under the DPA.
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^4] (DPA) applies to all types of processing of personal data in the country or outside, subject to certain qualifications.[^5] The last known address of a former employee is considered personal information[^6] under the DPA.
 
 Pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], processing of personal information may only be allowed if not otherwise prohibited by law and when justified by at least one of the conditions therein, such as the following:
 
@@ -92,12 +97,12 @@ Privacy Commissioner
 
 [^3]: 2009 Revised Rules of Procedures of the Commission on Audit, Rule IV, § 4 — Audit Disallowances/Charges/Suspensions. In the course of the audit, whenever there are differences arising from the settlement of accounts by reason of disallowances or charges, the auditor shall issue Notices of Disallowance/Charge (ND/NC) which shall be considered as audit decisions. Such ND/NC shall be adequately established by evidence and the conclusions, recommendations or dispositions shall be supported by applicable laws, regulations, jurisprudence and the generally accepted accounting and auditing principles. The Auditor may issue Notices of Suspension (NS) for transactions of doubtful legality/validity/propriety to obtain further explanation or documentation.
 
-[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^4]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
 [^5]: *Id.*, § 4.
 
-[^6]: Data Privacy Act of 2012, § 3(g) — Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
+[^6]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3(g)]] — Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 
-[^7]: Data Privacy Act of 2012, § 12. Emphasis supplied.
+[^7]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12]]. Emphasis supplied.
 
 [^8]: *Id.*, § 11.

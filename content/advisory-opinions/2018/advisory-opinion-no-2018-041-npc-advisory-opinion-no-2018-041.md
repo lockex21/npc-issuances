@@ -9,6 +9,11 @@ tags:
   - topic/data-sharing
   - topic/employment
   - topic/government
+aliases:
+  - "NPC Advisory Opinion No. 2018-041"
+  - "npc advisory opinion no. 2018-041"
+  - "Advisory Opinion No. 2018-041"
+  - "advisory opinion no. 2018-041"
 draft: false
 ---
 
@@ -45,7 +50,7 @@ In view of the foregoing requirement, you asked the following:
 
 #### Lawful processing of personal data
 
-Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) applies to the processing of all types of personal information and to any natural and juridical person in the government or private sector.
+[[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA) and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) applies to the processing of all types of personal information and to any natural and juridical person in the government or private sector.
 
 Personal information is defined by the law as “any information, whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.”[^2]
 
@@ -67,15 +72,15 @@ The above may be operationalized through a privacy notice. A privacy notice is a
 
 #### Data sharing agreement
 
-Considering that an existing law, not consent, is the basis for the processing of personal data, the execution of a data sharing agreement with the City Government is not a condition precedent for the submission of the personal data required by the Ordinance. This is pursuant to Section 1 of NPC Circular 16-02 relating to Data Sharing Agreements involving Government Agencies, which states that “nothing in this Circular shall be construed as prohibiting or limiting the sharing or transfer of any personal data that is already authorized or required by law.” Nonetheless, to ensure that there are adequate safeguards for data privacy and protection, the City Government should issue the necessary guidelines to operationalize the transfer of personal data from the covered entities, following the principles, provisions and security measures required under NPC Circular 16-02.
+Considering that an existing law, not consent, is the basis for the processing of personal data, the execution of a data sharing agreement with the City Government is not a condition precedent for the submission of the personal data required by the Ordinance. This is pursuant to Section 1 of [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular 16-02]] relating to Data Sharing Agreements involving Government Agencies, which states that “nothing in this Circular shall be construed as prohibiting or limiting the sharing or transfer of any personal data that is already authorized or required by law.” Nonetheless, to ensure that there are adequate safeguards for data privacy and protection, the City Government should issue the necessary guidelines to operationalize the transfer of personal data from the covered entities, following the principles, provisions and security measures required under NPC Circular 16-02.
 
 We trust also that the City Government, as a personal information controller, is well aware of its obligations under the DPA, its IRR, and issuances of the NPC, specifically [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security of Personal Data in Government Agencies, which requires all government agencies engaged in the processing of personal data to observe the following duties and responsibilities:
 
 - **A.** through its head of agency, designate a Data Protection Officer;
 - **B.** conduct a Privacy Impact Assessment for each program, process or measure within the agency that involves personal data, Provided, that such assessment shall be updated as necessary;
-- **C.** create privacy and data protection policies, taking into account the privacy impact assessments, as well as Sections 25 to 29 of the IRR;
+- **C.** create privacy and data protection policies, taking into account the privacy impact assessments, as well as [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-25-data-privacy-and-security|Sections 25]] to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-29-appropriate-level-of-security|29]] of the IRR;
 - **D.** conduct a mandatory, agency-wide training on privacy and data protection policies once a year: Provided, that a similar training shall be provided during all agency personnel orientations.
-- **E.** register its data processing systems with the Commission in cases where processing involves personal data of at least one thousand (1,000) individuals, taking into account Sections 46 to 49 of the IRR;
+- **E.** register its data processing systems with the Commission in cases where processing involves personal data of at least one thousand (1,000) individuals, taking into account [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-46-enforcement-of-the-data-privacy-act|Sections 46]] to [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-49-review-by-the-commission|49]] of the IRR;
 - **F.** cooperate with the Commission when the agency’s privacy and data protection policies are subjected to review and assessment, in terms of their compliance with the requirements of the Act, its IRR, and all issuances by the Commission.[^8]
 
 This opinion is being rendered based on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of the facts.
@@ -93,10 +98,10 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission and for other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
-[^2]: Data Privacy Act of 2012, §3(i).
-[^3]: *Id.*, §3(l)(3).
-[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §18(a).
-[^5]: Data Privacy Act of 2012, §16(a).
+[^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, §3(i)]].
+[^3]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§3(l)(3)]].
+[^4]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§18(a)]].
+[^5]: [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, §16(a)]].
 [^6]: IAPP, Glossary of Privacy Terms, *available at* https://iapp.org/resources/glossary/#paperwork-reduction-act-2
 [^7]: *Id.*
-[^8]: NPC Circular No. 16-01 dated 10 October 2016, §4.
+[^8]: [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] dated 10 October 2016, §4.

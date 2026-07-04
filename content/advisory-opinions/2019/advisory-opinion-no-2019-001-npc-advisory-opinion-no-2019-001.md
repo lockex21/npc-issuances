@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2019
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2019-001"
+  - "npc advisory opinion no. 2019-001"
+  - "Advisory Opinion No. 2019-001"
+  - "advisory opinion no. 2019-001"
 ---
 
 ## Source
@@ -82,7 +87,7 @@ While private investigation is a duly recognized field, there being the Private 
 Law, the activities and services involved therein, such as records verification on birth, marital
 status and education, would necessarily involve the processing of personal information and
 sensitive personal information, thus subject to the provisions of the DPA. For processing of
-personal information, the Section 12 of the law provides the following conditions for lawful
+personal information, the [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the law]] provides the following conditions for lawful
 processing:
 
    (a) The data subject has given his or her consent;
@@ -104,7 +109,7 @@ processing:
           freedoms of the data subject which require protection under the Philippine
           Constitution.
 
-Meanwhile, under the Section 13 of the law, the processing of sensitive personal information
+Meanwhile, under the [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the law]], the processing of sensitive personal information
 is prohibited unless specific conditions under the law are met:
 
    (a) The data subject has given his or her consent, specific to the purpose prior to the
@@ -218,7 +223,7 @@ through the framework below:
    1) The type of personal data is involved, i.e. personal information and/or sensitive or
        privileged personal information;
     2) The lawful basis to process such personal data given the situation, if any (Eyespy may
-       look into Sections 12 (b) and (f) and/or 13(f) of the DPA); and
+       look into [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12 (b) and (f)]] and/or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13(f)]] of the DPA); and
     3) The means and methods used, taking into consideration proportionality and
        expectation of privacy.
 
@@ -248,10 +253,10 @@ Privacy Commissioner and Chairman
 [^1]: Tags: Private detective services, background investigation, right to privacy.
 [^2]: An Act to Regulate the Organization and Operation of Private Detective, Watchmen or Security Guards Agencies [Private Security Agency Law], Republic Act No. 5487, as amended (1969).
 [^3]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
-[^4]: Id. § 3 (j).
-[^5]: Id. § 3 (g).
-[^6]: Id. § 3 (l).
+[^4]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id. § 3 (j)]].
+[^5]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id. § 3 (g)]].
+[^6]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Id. § 3 (l)]].
 [^7]: An Act to Ordain and Institute the Civil Code of the Philippines [CIVIL CODE OF THE PHILIPPINES], Republic Act No. 386, art. 29 (1949).
 [^8]: Spouses Bill and Victoria Hing v. Alexander Choachuy Sr. and Allan Choachuy, G.R. No. 179736, June 26, 2013. Citations omitted.
-[^9]: National Privacy Commission, NPC Advisory Opinion No. 2018 – 090 (Nov. 28, 2018). Citations omitted.
-[^10]: Data Privacy Act of 2012, § 38.
+[^9]: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-090-npc-advisory-opinion-no-2018-090|NPC Advisory Opinion No. 2018 – 090]] (Nov. 28, 2018). Citations omitted.
+[^10]: [[laws/data-privacy-act-of-2012#section-38-interpretation|Data Privacy Act of 2012, § 38]].

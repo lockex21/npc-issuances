@@ -8,6 +8,11 @@ tags:
   - topic/employment
   - topic/government
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2017-056"
+  - "npc advisory opinion no. 2017-056"
+  - "Advisory Opinion No. 2017-056"
+  - "advisory opinion no. 2017-056"
 ---
 
 ## Source
@@ -33,7 +38,7 @@ We understand that the PNP-RO1 requested for the following information on DSWD e
 
 ### Discussion
 
-The DPA applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing in the Philippines, and even outside of the country in certain instances.[^1]
+The [[laws/data-privacy-act-of-2012|DPA]] applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing in the Philippines, and even outside of the country in certain instances.[^1]
 
 The law likewise provided for certain specified information which is outside of its scope. This includes information about any individual who is or was an officer or employee of a government institution that relates to the position or functions of the individual, including:
 
@@ -69,9 +74,9 @@ Very truly yours,
 RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: Republic Act. No. 10173, AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, §4 and 6
-[^2]: Id., §4(a)
-[^3]: Id., §4(e)
+[^1]: Republic Act. No. 10173, AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, [[laws/data-privacy-act-of-2012#section-4-scope|§4]] and [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|6]]
+[^2]: Id., [[laws/data-privacy-act-of-2012#section-4-scope|§4(a)]]
+[^3]: Id., [[laws/data-privacy-act-of-2012#section-4-scope|§4(e)]]
 [^4]: See [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of RA No. 10173, §5
 [^5]: Directorate for Investigation and Detective Management Philippine National Police, PHILIPPINE NATIONAL POLICE MANUAL - CRIMINAL INVESTIGATION MANUAL (REVISED) 2011, available at http://www.pnp.gov.ph/images/Manuals_and_Guides/DIDM/Criminal-Investigation-Manual.pdf
 [^6]: Id., Chapter 1, §1.2

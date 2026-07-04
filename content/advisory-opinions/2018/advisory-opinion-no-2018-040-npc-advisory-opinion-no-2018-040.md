@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+aliases:
+  - "NPC Advisory Opinion No. 2018-040"
+  - "npc advisory opinion no. 2018-040"
+  - "Advisory Opinion No. 2018-040"
+  - "advisory opinion no. 2018-040"
 draft: false
 ---
 
@@ -25,7 +30,7 @@ Dear [Redacted],
 
 We write in response to your request for an advisory opinion on your practice of publishing the names of sanctioned directors and officers of Bangko Sentral ng Pilipinas (BSP)-supervised financial institutions (BSFIs) for their failure to address BSP requirements and supervisory expectations.
 
-Section 4 of [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) states that the law is applicable to the processing of all types of personal information and to any natural and juridical person involved in personal information processing. However, it provides for certain exemptions – one of which is personal data necessary in order to carry out the functions of public authority, including the processing of personal data for the performance by the independent, central monetary authority of its constitutionally and statutorily mandated functions.[^2]
+[[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] of [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) states that the law is applicable to the processing of all types of personal information and to any natural and juridical person involved in personal information processing. However, it provides for certain exemptions – one of which is personal data necessary in order to carry out the functions of public authority, including the processing of personal data for the performance by the independent, central monetary authority of its constitutionally and statutorily mandated functions.[^2]
 
 As Section 3 of Republic Act No. 7653, or the New Central Bank Act, charged the BSP with supervising operations of banks and exercise such regulatory powers as provided for by the New Central Bank Act and other pertinent laws over the operations of finance companies and non-bank financial institutions performing quasi-banking functions, and institutions performing similar functions, which necessarily includes the issuances of directives and enforcement actions, it satisfies this provision in the DPA.[^3]
 
@@ -65,9 +70,9 @@ Noted by:
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
-[^2]: *Id.* § 4 (e).
+[^2]: *Id.* [[laws/data-privacy-act-of-2012#section-4-scope|§ 4 (e)]].
 [^3]: Bangko Sentral ng Pilipinas, Overview of Functions and Operations, *available at* http://www.bsp.gov.ph/about/functions.asp, (last accessed on 24 May 2018).
-[^4]: *Supra* note 1., § 2.
+[^4]: *Supra* note 1., [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|§ 2]].
 [^5]: Bangko Sentral ng Pilipinas (BSP) Supervisory Enforcement Policy
 [^6]: *See:* Civil Service Commission Must-read Resolutions *available at* http://www.csc.gov.ph/2014-02-21-08-28-23/pdf-files/category/38-must-read-resolutions (last accessed 19 July 2018).
 [^7]: *See:* Commission on Audit Legal Information Archive *available at* https://lia.coa.gov.ph/browse/5 (last accessed 19 July 2018).
@@ -75,5 +80,5 @@ Privacy Commissioner and Chairman
 [^9]: Securities and Exchange Commission Decisions *available at* http://www.sec.gov.ph/public-information-2/sec-issuances/securities-and-exchange-commission-decisions/ (last accessed 19 July 2018).
 [^10]: Asian Development Bank Anticorruption and Integrity Published List *available at* https://lnadbg4.adb.org/oga0009p.nsf/sancALL1P?OpenView&count=999 (last accessed 29 July 2018).
 [^11]: World Bank Listing of Ineligible Firms & Individuals *available at* http://web.worldbank.org/external/default/main?contentMDK=64069844&menuPK=116730&pagePK=64148989&piPK=64148984&querycontentMDK=64069700&theSitePK=84266 (last accessed 29 July 2018).
-[^12]: Data Privacy Act of 2012, § 3 (h).
-[^13]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 18 (c) (2016).
+[^12]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (h)]].
+[^13]: Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|§ 18 (c)]] (2016).

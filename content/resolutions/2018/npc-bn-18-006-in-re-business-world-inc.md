@@ -112,7 +112,7 @@ The Commission resolves to close the case upon finding that Business World suffi
 
 Business World sufficiently notified the affected data subjects and implemented measures to prevent the recurrence of the breach.
 
-The notification letter dated 17 January 2018 that Business World sent to its affected individuals included the information required under NPC Circular 16-03 (Personal Data Breach Management). Section 18 (C) of NPC Circular 16-03 provides:
+The notification letter dated 17 January 2018 that Business World sent to its affected individuals included the information required under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management). Section 18 (C) of NPC Circular 16-03 provides:
 
 > Section 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -202,7 +202,7 @@ GENERAL RECORDS UNIT
 [^20]: *Id.* at 2-3.
 [^21]: *Id.* at 3.
 [^22]: *Id.* Annex.
-[^23]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 [NPC Circ. No. 16-03], §18 (C) (15 December 2016).
+[^23]: National Privacy Commission, Personal Data Breach Management, Circular No. 3, Series of 2016 ([[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]]), §18 (C) (15 December 2016).
 [^24]: Full Breach Report, 15 August 2022, Annex, in In Re: Business World, Inc., NPC BN 18-006 (NPC 2022).
 [^25]: *Id.*
 [^26]: *Id.*

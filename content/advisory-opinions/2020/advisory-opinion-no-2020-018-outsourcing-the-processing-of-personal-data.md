@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+aliases:
+  - "NPC Advisory Opinion No. 2020-018"
+  - "npc advisory opinion no. 2020-018"
+  - "Advisory Opinion No. 2020-018"
+  - "advisory opinion no. 2020-018"
 draft: false
 ---
 
@@ -90,10 +95,10 @@ Very truly yours,
 Privacy Commissioner and Chairman
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173 (2016).
-[^3]: Id. § 3 (f).
+[^3]: Id. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|§ 3 (f)]].
 [^4]: Id.
 [^5]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-015-npc-advisory-opinion-no-2018-015|NPC Advisory Opinion No. 2018-015]] (April 12, 2018).
 [^6]: Ibid.
-[^7]: Rules and Regulations Implementing the Data Privacy Act of 2012, § 50.
-[^8]: Id. § 43.
-[^9]: Id. § 44.
+[^7]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-50-accountability-for-transfer-of-personal-data|Rules and Regulations Implementing the Data Privacy Act of 2012, § 50]].
+[^8]: Id. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-43-subcontract-of-personal-data|§ 43]].
+[^9]: Id. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-44-agreements-for-outsourcing|§ 44]].

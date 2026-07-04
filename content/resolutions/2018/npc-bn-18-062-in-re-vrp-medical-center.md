@@ -66,13 +66,13 @@ To address the breach, VRP stated that it took the following measures:
 
 ### Issue
 
-Whether the incident involves a personal data breach that requires mandatory notification under NPC Circular 16-03 (Personal Data Breach Management).
+Whether the incident involves a personal data breach that requires mandatory notification under [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] (Personal Data Breach Management).
 
 ### Discussion
 
 The Commission resolves to close the matter. The incident does not involve a personal data breach. Thus, it is not subject to mandatory breach notification under NPC Circular 16-03.
 
-Section 3 (F) of NPC Circular 16-03 defines a personal data breach as follows:
+Section 3 (F) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] defines a personal data breach as follows:
 
 > Section 3. *Definition of Terms*. For the purpose of this Circular, the following terms are defined, as follows:
 > 
@@ -140,7 +140,7 @@ National Privacy Commission
 [^13]: *Id*. at 1.
 [^14]: *Id*.
 [^15]: *Id*.
-[^16]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 [NPC Circ. No. 16-03], § 3 (F) (15 December 2016).
+[^16]: National Privacy Commission, Personal Data Breach Management, Circular No. 03, Series of 2016 ([[issuances/undated/personal-data-breach-management|NPC Circ. No. 16-03]]), § 3 (F) (15 December 2016).
 [^17]: *Id*.
 [^18]: Full Report, 25 July 2022, Annex 2, *in* In re: VRP Medical Center, NPC BN 18-062 (NPC 2022).
 [^19]: *Id*. at 1.

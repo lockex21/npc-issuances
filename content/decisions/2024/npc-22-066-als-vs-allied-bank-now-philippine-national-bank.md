@@ -45,7 +45,7 @@ x----------------------------------------------------x
 
 NAGA, P.C.;
 
-Before the Commission is a Complaint dated 18 March 2022 filed by ALS (Complainant) against Allied Bank (now Philippine National Bank) (Respondent) for an alleged violation of the Data Privacy Act of 2012 or Republic Act No. 10173 (DPA).[^1]
+Before the Commission is a Complaint dated 18 March 2022 filed by ALS (Complainant) against Allied Bank (now Philippine National Bank) (Respondent) for an alleged violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 or Republic Act No. 10173 (DPA)]].[^1]
 
 ### Facts
 
@@ -149,7 +149,7 @@ Guided by the aforecited provision, once the Complainant has established his cas
 
 In response to Complainant's allegations, the Respondent Bank, in its Verified Comment, refuted this claim by attaching a Dispatch Control Card as evidence, signifying that Complainant had already received copies of his SOAs.[^49] Respondent Bank claimed that in 2017, Complainant visited the Respondent Bank and requested copies of his SOA.[^50] Respondent Bank alleged that after verifying the accuracy of the entries stated in his SOA, Complainant filled out and signed the said Dispatch Control Card.[^51] Respondent Bank further clarified that, despite having already provided the Complainant with his SOAs in 2017, Complainant could still secure copies by personally visiting the branch during banking hours.[^52]
 
-Under Section 16(c) of the DPA, data subjects can request access to their personal data under the custody of a personal information controller (PIC):
+Under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(c) of the DPA]], data subjects can request access to their personal data under the custody of a personal information controller (PIC):
 
 > Section 16. Rights of the Data Subject. - The data subject is entitled to:
 >
@@ -238,7 +238,7 @@ ENFORCEMENT DIVISION
 GENERAL RECORDS UNIT
 National Privacy Commission
 
-[^1]: National Privacy Commission, Data Privacy Act of 2012, Republic Act No. 10173.
+[^1]: National Privacy Commission, [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012, Republic Act No. 10173]].
 [^2]: Complaints-Assisted Form dated 18 March 2022 of ALS.
 [^3]: *Id.*
 [^4]: *Id.*
@@ -290,16 +290,16 @@ National Privacy Commission
 [^50]: *Id.*
 [^51]: *Id.*
 [^52]: *Id.*
-[^53]: National Privacy Commission, Data Privacy Act of 2012, Republic Act No. 10173, §16(c).
+[^53]: National Privacy Commission, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, Republic Act No. 10173, §16(c)]].
 [^54]: Verified Comment of Allied Bank (now Philippine National Bank) dated 18 November 2022.
-[^55]: National Privacy Commission, Data Privacy Act of 2012, Republic Act No. 10173, §16(c).
+[^55]: National Privacy Commission, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Data Privacy Act of 2012, Republic Act No. 10173, §16(c)]].
 [^56]: Verified Comment of Allied Bank (now Philippine National Bank) dated 18 November 2022.
 [^57]: National Privacy Commission, [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]], §5(b) dated 29 January 2021.
-[^58]: National Privacy Commission, Data Privacy Act of 2012, Republic Act No. 10173.
+[^58]: National Privacy Commission, [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012, Republic Act No. 10173]].
 [^59]: An Act Prohibiting Disclosure of or Inquiry into, Deposits with any Banking Institution and Providing Penalty therefor, R.A. No. 1405, §2.
 [^60]: *Simex International (Manila), Incorporated v. The Honorable Court of Appeals and Traders Royal Bank*, G.R. No. 88013 dated March 19, 1990.
 [^61]: Verified Comment of Allied Bank (now Philippine National Bank), at Annex "1" dated 18 November 2022.
 [^62]: Verified Comment of Allied Bank (now Philippine National Bank) dated 18 November 2022.
 [^63]: Manifestation with Motion of Allan Earl L. Santos dated 03 October 2022.
-[^64]: National Privacy Commission, NPC Circular No. 2021-01, Rule VII, §2.
+[^64]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission#rule-vii-investigation-phase|NPC Circular No. 2021-01, Rule VII, §2]].
 [^65]: Manifestation with Motion of Allan Earl L. Santos dated 03 October 2022.

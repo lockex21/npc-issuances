@@ -8,6 +8,11 @@ tags:
   - topic/employment
   - topic/legitimate-interest
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2022-009"
+  - "npc advisory opinion no. 2022-009"
+  - "Advisory Opinion No. 2022-009"
+  - "advisory opinion no. 2022-009"
 ---
 
 ## Source
@@ -25,7 +30,7 @@ Re: PUBLICATION OF FORMER EMPLOYEES’ NAMES AND SEVERANCE FROM EMPLOYMENT
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC or the Commission) on whether publishing former employees’ names and the fact of severance of their employment would violate the Data Privacy Act of 2012[^1] (DPA).
+We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC or the Commission) on whether publishing former employees’ names and the fact of severance of their employment would violate the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA).
 
 From your letter, we understand that your company, a banking institution, experienced isolated
 cases wherein the bank’s former employees had misrepresented to existing clients (e.g., branch
@@ -56,7 +61,7 @@ adherence of the data privacy principles of transparency, legitimate purpose, an
 
 Under the DPA, the names of the employee and the fact that they are no longer employed are
 classified as personal information, the processing of which may be based on any of the lawful bases
-under Section 12. Specifically in this instance, Section 12 (f) of the DPA provides that the processing
+under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]]. Specifically in this instance, Section 12 (f) of the DPA provides that the processing
 of personal information is allowed if the same is necessary for the purpose of the legitimate
 interests pursued by the personal information controller (PIC) or by a third party:
 
@@ -130,10 +135,10 @@ Very truly yours,
 (Sgd.) IVY GRACE T. VILLASOTO
 OIC-Director IV, Privacy Policy Office
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^2]: Tags: criteria for lawful processing; general data privacy principles; legitimate interest.
-[^3]: Data Privacy Act of 2012, § 11.
-[^4]: See: National Privacy Commission, Advisory Opinion Nos. 2022-002 (Feb. 11, 2022), 2021-10 (March 22, 2021) and 2020-50 (Nov. 26, 2020) citing Data Privacy Act of 2012, § 12 (f) and United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/
-[^5]: See: National Privacy Commission, Advisory Opinion Nos. 2022-002 (Feb. 11, 2022) citing Article 29 Data Protection Working Party, Opinion 06/2014 on the notion of legitimate interests of the data controller under Article 7 of Directive 95/46/EC, Adopted on 9 April 2014, available at https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp217_en.pdf
+[^3]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11]].
+[^4]: See: National Privacy Commission, Advisory Opinion Nos. [[advisory-opinions/2022/advisory-opinion-no-2022-002-advisory-opinion-no-2022-002-redacted|2022-002]] (Feb. 11, 2022), [[advisory-opinions/2021/advisory-opinion-no-2021-010-private-detective-services|2021-10]] (March 22, 2021) and [[advisory-opinions/2020/advisory-opinion-no-2020-050-redacted-advisory-opinion-no-2020-050-2|2020-50]] (Nov. 26, 2020) citing [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Data Privacy Act of 2012, § 12 (f)]] and United Kingdom Information Commissioner's Office (ICO), What is the 'Legitimate Interests' basis?, available at https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/what-is-the-legitimate-interests-basis/
+[^5]: See: National Privacy Commission, Advisory Opinion Nos. [[advisory-opinions/2022/advisory-opinion-no-2022-002-advisory-opinion-no-2022-002-redacted|2022-002]] (Feb. 11, 2022) citing Article 29 Data Protection Working Party, Opinion 06/2014 on the notion of legitimate interests of the data controller under Article 7 of Directive 95/46/EC, Adopted on 9 April 2014, available at https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp217_en.pdf
 [^6]: See: National Privacy Commission, [[advisory-opinions/2020/advisory-opinion-no-2020-050-redacted-advisory-opinion-no-2020-050-2|Advisory Opinion No. 2020-050]] (Nov. 26, 2020) citing Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) Official Journal of the European Union, Vol. L119, Recital 47 (2016).
 [^7]: *Id.*

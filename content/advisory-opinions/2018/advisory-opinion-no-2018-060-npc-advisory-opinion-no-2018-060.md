@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2018-060"
+  - "npc advisory opinion no. 2018-060"
+  - "Advisory Opinion No. 2018-060"
+  - "advisory opinion no. 2018-060"
 ---
 
 ## Source
@@ -23,7 +28,7 @@ RE: DISCLOSURE OF PERSONAL INFORMATION TO THE BANGKO SENTRAL NG PILIPINAS
 
 Dear [Redacted],
 
-We write in response to your inquiry seeking clarification on Section 4 of Republic Act No. 10173,[^1] also known as the Data Privacy Act of 2012 (DPA) in relation to the Bangko Sentral ng Pilipinas' (BSP) examination of financial institutions, pursuant to its supervisory and regulatory powers.
+We write in response to your inquiry seeking clarification on [[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] of Republic Act No. 10173,[^1] also known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) in relation to the Bangko Sentral ng Pilipinas' (BSP) examination of financial institutions, pursuant to its supervisory and regulatory powers.
 
 We understand that the Public Safety Savings and Loan Association, Inc. (PSSLAI) is a non-stock, non-profit corporation engaged in the business of accumulating the savings of its members. PSSLAI's membership is limited to the public safety personnel under the Department of Interior and Local Government (DILG), which includes the members of the Philippine National Police (PNP), Bureau of Fire Protection (BFP), and Bureau of Jail Management and Penology (BJMP), among others.
 
@@ -41,7 +46,7 @@ You likewise ask for clarification on the limitations to BSP's authority and the
 
 Under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]], information necessary in order to carry out the functions of public authority is excluded from the scope of the law. This includes the processing of personal data for the performance by the independent central monetary authority its constitutionally and statutorily mandated functions.
 
-The exclusion above is not absolute. The exclusion of the information specified in Section 4 of the DPA is only to the minimum extent necessary to achieve the specific purpose, function or activity. Given this, the personal and sensitive personal information (collectively, personal data) enumerated in Section 4 may be lawfully processed by a personal information controller (PIC), even without meeting the conditions under Sections 12 and 13 of the DPA, but the processing shall be limited to that necessary to achieve the specific purpose, function or activity. The PIC is still required, however, to implement measures to secure and protect the personal data.
+The exclusion above is not absolute. The exclusion of the information specified in Section 4 of the DPA is only to the minimum extent necessary to achieve the specific purpose, function or activity. Given this, the personal and sensitive personal information (collectively, personal data) enumerated in Section 4 may be lawfully processed by a personal information controller (PIC), even without meeting the conditions under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, but the processing shall be limited to that necessary to achieve the specific purpose, function or activity. The PIC is still required, however, to implement measures to secure and protect the personal data.
 
 We reiterate that the exclusion particularly pertains to information necessary in carrying out the functions of the BSP. This does not mean that all information collected by the BSP is outside the scope of the DPA. Being an exception to the rule, it must be established that the information claimed to be outside the scope of the DPA is:
 
@@ -83,6 +88,6 @@ Noted by:
 (Sgd.) RAYMOND ENRIQUEZ LIBORO
 Privacy Commissioner and Chairman
 
-[^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission And For Other Purposes [DATA PRIVACY ACT OF 2012], Republic Act No. 10173 (2012).
+[^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission And For Other Purposes [DATA PRIVACY ACT OF 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
 [^2]: 1987 Phil. Const. Art. XIII, § 20.
 [^3]: An Act Providing For The Regulation Of The Organization And Operations Of Banks, Quasi-Banks, Trust Entities And For Other Purposes [THE GENERAL BANKING LAW OF 2000], Republic Act No. 8791 (2000), § 4; THE NEW CENTRAL BANK ACT, Republic Act No. 7653 (1993), § 23 and 28

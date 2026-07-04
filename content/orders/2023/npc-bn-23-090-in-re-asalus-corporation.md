@@ -93,7 +93,7 @@ Alongside with the sample letter-notification submitted by Asalus, it also attac
 
 On 03 May 2023, Asalus submitted a letter to the Commission requesting an extension of filing of its Full Breach Report until 15 May 2023.[^33] Subsequently, Asalus submitted its Full Breach Report dated 15 May 2023.[^34]
 
-Rule V, Section 18(B) of NPC Circular No. 16-03 (Personal Data Breach Management) provides:
+Rule V, Section 18(B) of [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03 (Personal Data Breach Management)]] provides:
 
 > SECTION 18. Notification of Data Subjects. The personal information controller shall notify the data subjects affected by a personal data breach, subject to the following procedures:
 >
@@ -202,12 +202,12 @@ GENERAL RECORDS UNIT
 [^32]: Interim Report dated 24 April 2023 of Asalus Corporation, referred to as Annex "I"
 [^33]: Letter Request dated 03 May 2023 of Asalus Corporation.
 [^34]: Full Breach Report dated 15 May 2023 of Asalus Corporation.
-[^35]: National Privacy Commission, Personal Data Breach Management, NPC Circular 16-03, rule V, § 18(B) (15 December 2016) (NPC Circular 16-03).
+[^35]: National Privacy Commission, [[issuances/undated/personal-data-breach-management|Personal Data Breach Management, NPC Circular 16-03]], rule V, § 18(B) (15 December 2016) (NPC Circular 16-03).
 [^36]: In re: Asalus Corporation, NPC BN 23-090, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), Justification for postponement of Asalus Corporation (29 March 2023).
 [^37]: Interim Report dated 24 April 2023 of Asalus Corporation, at p. 4
 [^38]: Id.
 [^39]: Id.
-[^40]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, chapter V, § 20(f) (2012).
+[^40]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for This Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, chapter V, § 20(f) (2012).
 [^41]: In re: Asalus Corporation, NPC BN 23-090, Preliminary Breach Notification Form, Data Breach Notification Management System (DBNMS), 1.b Chronology of Asalus Corporation (29 March 2023).
 [^42]: Id., 1.e Likely Consequences of Asalus Corporation.
 [^43]: Full Breach Report dated 15 May 2023 of Asalus Corporation, referred to as Annex "H"

@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2020
 draft: false
+aliases:
+  - "NPC Advisory Opinion No. 2020-040"
+  - "npc advisory opinion no. 2020-040"
+  - "Advisory Opinion No. 2020-040"
+  - "advisory opinion no. 2020-040"
 ---
 
 ## Source
@@ -22,7 +27,7 @@ Dear [Redacted],
 
 Re: MASTERCARD AUTOMATIC BILLING UPDATE
 
-We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC) which sought to clarify matters regarding Mastercard’s Automatic Billing Updater (ABU) program in relation to the provisions of the Data Privacy Act of 2012[^1] (DPA).
+We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC) which sought to clarify matters regarding Mastercard’s Automatic Billing Updater (ABU) program in relation to the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA).
 
 We understand that through the program, Mastercard will mandate issuing banks to automatically update the credit card information of cardholders through the ABU by submitting account changes to the ABU database.
 
@@ -70,7 +75,7 @@ Very truly yours,
 (Sgd.) RAYMUND ENRIQUEZ LIBORO
 Privacy Commissioner
 
-[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^2]: Mastercard, Automatic Billing Updater, Streamlining account lifecycle management for credential on file and recurring payments (2020).
 [^3]: Mastercard, Mastercard Rules, The Merchant and ATM Owner Agreements, paragraph 5.1 (December 19, 2019).
 [^4]: Mastercard, Mastercard Rules, Required Merchant Agreement Terms, paragraph 5.1.219 (December 19, 2019).

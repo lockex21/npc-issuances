@@ -7,6 +7,11 @@ tags:
   - year/2023
   - topic/data-sharing
   - topic/security
+aliases:
+  - "NPC Advisory Opinion No. 2023-025"
+  - "npc advisory opinion no. 2023-025"
+  - "Advisory Opinion No. 2023-025"
+  - "advisory opinion no. 2023-025"
 draft: false
 ---
 
@@ -34,7 +39,7 @@ You state that CIBI intends to pursue a project to assist and improve the Philip
 
 You further state that as the custodian of information, CIBI undertakes to limit access to only select individuals within the organization. In turn, such individuals shall only release the information to a requesting member following best practices that will protect the data. In addition, only members who contribute data shall be allowed access.
 
-Your letter also provides that CIBI will establish the following safeguards and features in the implementation of the Project to comply with the Data Privacy Act of 2012 (DPA):[^2]
+Your letter also provides that CIBI will establish the following safeguards and features in the implementation of the Project to comply with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA):[^2]
 
 a) Every data point submitted by the members will be owned by them, not by CIBI;
 b) CIBI will only store information in the cloud with all the required security measures following the SOC 2 standards which covers implementation of encryption and data security;
@@ -85,7 +90,7 @@ In BGM v. IPP[^7], we had the occasion to clarify the nature of processing pursu
  >
  > Further, Respondent’s assertion that the information within its custody can only be disclosed upon data subject’s consent or on the basis of a lawful order is misplaced. x x x
  >
- > In the case of NPC 17-018 dated 15 July 2019, this Commission held that “processing as necessary for the establishment of legal claims” does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of “establishment ... of legal claims” presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established.”
+ > In the case of [[decisions/2019/npc-17-018-ea-and-ta-v-ej|NPC 17-018]] dated 15 July 2019, this Commission held that “processing as necessary for the establishment of legal claims” does not require an existing court proceeding. To require a court proceeding for the application of Section 13(f) to this instance would not only be to disregard the distinction provided in the law but the clear letter of the law as well. After all, the very idea of “establishment ... of legal claims” presupposes that there is still no pending case since a case will only be filed once the required legal claims have already been established.”
  >
  > This Commission in the same case went on further and held that: The DPA should not be seen as curtailing the practice of law in litigation. Considering that it is almost impossible for Congress to determine beforehand what specific data is “necessary” or may or may not be collected by lawyers for purposes of building a case, applying the qualifier “necessary” to the second instance in Section 13(f) therefore, serves to limit the potentially broad concept of “establishment of legal claims” consistent with the general principles of legitimate purpose and proportionality. As regards legitimate purpose, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the Data Privacy Act provides that the processing of information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. This means that the processing done for the establishment of a legal claim should not in any manner be outside the limitations provided by law. The DPA is neither a tool to prevent the discovery of a crime nor a means to hinder legitimate proceedings.
  >
@@ -125,15 +130,15 @@ Very truly yours,
 FRANKLIN ANTHONY M. TABAQUIN, IV
 Director IV, Privacy Policy Office
 
-[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, (2012).
-[^3]: Id. § 3(g).
-[^4]: NPC Advisory Opinion No. 2017-063, (09 February 2017).
-[^5]: Data Privacy Act of 2012, § 13(f).
-[^6]: Id. § 3 (b).
+[^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, (2012).
+[^3]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(g)]].
+[^4]: [[advisory-opinions/2017/advisory-opinion-no-2017-063-npc-advisoryopinionno-2017-063|NPC Advisory Opinion No. 2017-063]], (09 February 2017).
+[^5]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|§ 13(f)]].
+[^6]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (b)]].
 [^7]: National Privacy Commission, BGM v. IPP [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]] (Dec. 17, 2020).
-[^8]: Data Privacy Act of 2012, § 11 (a).
+[^8]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|§ 11 (a)]].
 [^9]: Id.
 [^10]: Id.
-[^11]: Implementing Rules and Regulations of Republic Act No. 10173, known as the "Data Privacy Act of 2012" [Implementing Rules and Regulations of Data Privacy Act of 2012] (2016).
-[^12]: Data Privacy Act of 2012, § 20 (c) (4).
-[^13]: Id. § 20 (c).
+[^11]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of Republic Act No. 10173, known as the "Data Privacy Act of 2012"]] [Implementing Rules and Regulations of Data Privacy Act of 2012] (2016).
+[^12]: Data Privacy Act of 2012, [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (c) (4)]].
+[^13]: Id. [[laws/data-privacy-act-of-2012#section-20-security-of-personal-information|§ 20 (c)]].
