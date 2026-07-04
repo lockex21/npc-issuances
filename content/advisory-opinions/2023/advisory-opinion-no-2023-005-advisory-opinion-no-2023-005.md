@@ -6,6 +6,7 @@ tags:
 - type/advisory-opinion
 - year/2023
 - topic/government
+- topic/security
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2023-005"

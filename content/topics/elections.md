@@ -21,7 +21,6 @@ Auto-generated topic cluster for **Elections**, covering the full corpus of laws
 - [[decisions/2019/08-15-2019-in-re-data-breach-involving-the-comelec-data-processing-system-in-wao-lanao-del-sur|NPC CID 17-002: In Re Data Breach Involving the COMELEC Data Processing System in Wao, Lanao del Sur]]
 
 ## Resolutions
-- [[resolutions/2018/npc-bn-18-213-in-re-manufacturers-life-insurance-co|NPC BN 18-213: In re: Manufacturers Life Insurance Co.]]
 - [[resolutions/2021/npc-bn-17-002-in-re-data-breach-involving-the-comelec-data-processing-system-in-wao-lanao-del-sur|NPC BN 17-002: In re: Data Breach Involving the COMELEC Data Processing System in Wao, Lanao Del Sur]]
 - [[resolutions/2020/npc-bn-20-208-in-re-commission-on-elections-comelec|NPC BN 20-208: In re: Commission on Elections (COMELEC)]]
 

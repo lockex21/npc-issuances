@@ -236,19 +236,6 @@
       ],
       "notes": "DPA link and IRR#5 link pre-existed; NPC Circular No. 16-01 and 16-02 links pre-existed. Two footnotes citing 'Id.' left as-is (same section as prior linked footnote); Canadian case citations correctly left unlinked."
     },
-    "advisory-opinions/2017/advisory-opinion-no-2017-021-npc-advisoryopinionno-2017-020.md": {
-      "status": "done",
-      "agent": "advisory-opinions-02",
-      "links_added": 11,
-      "aliases_added": true,
-      "targets_linked": [
-        "laws/data-privacy-act-of-2012 (Sections 3, 4, 6, 20, 25, 35)",
-        "laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012 (Sections 38, 41, 48)",
-        "issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements",
-        "issuances/undated/personal-data-breach-management"
-      ],
-      "notes": "Filename mismatched title (file named ...2017-020.md but is actually AO 2017-021, a distinct document from the true 2017-020 file). Section 21(b)/50(b), Section 47, Section 34, and NPC Advisory No. 2017-01 links pre-existed. CDA charter (RA 6939) and CISA (RA 9510) footnotes correctly left unlinked as other statutes. Second later mention of 'Section 4 of the DPA' and 'NPC Circular 16-03' inline mentions left unlinked per first-mention-per-section rule."
-    },
     "advisory-opinions/2017/advisory-opinion-no-2017-022-npc-advisoryopinionno-2017-022.md": {
       "status": "done",
       "agent": "advisory-opinions-02",
@@ -284,16 +271,6 @@
         "laws/data-privacy-act-of-2012 (Section 11)"
       ],
       "notes": "DPA and IRR links pre-existed."
-    },
-    "advisory-opinions/2017/advisory-opinion-no-2017-025-npc-advisoryopinionno-2017-024.md": {
-      "status": "done",
-      "agent": "advisory-opinions-02",
-      "links_added": 2,
-      "aliases_added": true,
-      "targets_linked": [
-        "laws/data-privacy-act-of-2012 (main + Section 3)"
-      ],
-      "notes": "Filename suffix mismatched (file is actually AO 2017-025, distinct from the true 2017-024 file). Section 13 and Section 12 links pre-existed."
     },
     "advisory-opinions/2017/advisory-opinion-no-2017-026-npc-advisoryopinionno-2017-026.md": {
       "status": "done",
@@ -418,19 +395,6 @@
         "laws/data-privacy-act-of-2012 (Section 3)"
       ],
       "notes": "DPA and IRR already linked in intro/body. Linked footnote 1 (RA No. 10173, sec 3(g)). Footnote 2 (id., sec 4(a)) left as continuation citation."
-    },
-    "advisory-opinions/2017/advisory-opinion-no-2017-037-npc-advisoryopinionno-2017-038.md": {
-      "status": "done",
-      "agent": "advisory-opinions-03",
-      "links_added": 3,
-      "aliases_added": true,
-      "targets_linked": [
-        "laws/data-privacy-act-of-2012 (Section 21)",
-        "laws/data-privacy-act-of-2012 (Section 14)",
-        "laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012 (Section 26)",
-        "laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012 (Section 47)"
-      ],
-      "notes": "Note: filename says 2017-037 but the physical file on disk is named ...2017-038.md (naming collision with the actual 038 file, which is a separate different-content file at the same path 2017-038). DPA in heading already linked; Section 47 of IRR already linked. Added footnote 1 (sec 21(h), 14, IRR sec 26(a)) and footnote 4 (IRR sec 47) links. Footnote 3 already correctly linked to issuances/2017/designation-of-data-protection-officers."
     },
     "advisory-opinions/2017/advisory-opinion-no-2017-038-npc-advisoryopinionno-2017-038.md": {
       "status": "done",
@@ -594,17 +558,6 @@
         "issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements"
       ],
       "notes": "Already had correct wikilinks (NPC Circular No. 16-02 and DPA linked at first mention). Large table of circular requirements is quoted provision content, correctly left unlinked. Only added aliases block."
-    },
-    "advisory-opinions/2017/advisory-opinion-no-2017-053-npc-advisoryopinionno-2017-054.md": {
-      "status": "done",
-      "agent": "advisory-opinions-04",
-      "links_added": 2,
-      "aliases_added": true,
-      "targets_linked": [
-        "laws/data-privacy-act-of-2012",
-        "issuances/undated/rules-of-procedure (NPC Circular No. 16-04)"
-      ],
-      "notes": "FILENAME MISMATCH: file is titled/aliased as Advisory Opinion No. 2017-053 but the filename itself says '...2017-054.md' (likely a source scrape typo duplicating the next file's name). Aliases added for 053 per title/content. Linked body mention and footnote 2 of 'Rules of Procedure'/'NPC Circular 16-04' to issuances/undated/rules-of-procedure. GDPR Recital, Rules of Court, and Rules on Electronic Evidence citations left unlinked (external, not NPC issuances). DPA already linked at first mention in intro."
     },
     "advisory-opinions/2017/advisory-opinion-no-2017-054-npc-advisoryopinionno-2017-054.md": {
       "status": "done",
@@ -5757,17 +5710,18 @@
     },
     "decisions/2022/npc-ss-21-005-in-re-oriente-express-techsystem-corporations-cashalo-and-its-responsible-officers.md": {
       "status": "done",
-      "agent": "decisions-10",
-      "links_added": 22,
+      "agent": "relink-cleaned",
+      "links_added": 28,
       "aliases_added": false,
       "targets_linked": [
-        "laws/data-privacy-act-of-2012 (section 11, 12, 13, 16, 25, 7, 3(h))",
-        "laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012 (section 18)",
-        "issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission (rule VIII, rule X)",
+        "laws/data-privacy-act-of-2012",
+        "laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012",
         "issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions",
-        "resolutions/2019/npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application"
+        "issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission",
+        "resolutions/2019/npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application",
+        "decisions/2020/npc-19-910-in-re-fli-operating-abc-online-lending-application"
       ],
-      "notes": "SURPRISE: this file is severely OCR-corrupted -- footnotes 28 onward are stray plain numbers embedded mid-sentence rather than proper [^N] markdown footnotes, with page-break artifacts ('NPC SS 21-005') and broken paragraph flow throughout roughly lines 89-1750. This is a markdown-cleanup issue outside wikilinking scope, so I did not attempt to restructure it. I linked all DPA/IRR/circular citations I could identify with certainty in both the clean early Facts section and the fragmented footnote-like citation lines later in the document, being conservative around ambiguous OCR fragments to avoid corrupting already-broken text further. Recommend a separate npc-decision-cleanup pass on this file before further wikilinking work."
+      "notes": "753-line decision, only 6 wikilinks survived OCR cleanup (Sections 16/25 DPA in Facts, Section 11/18(IRR) in Discussion, NPC Circular 2021-01 and NPC 19-909 in footnotes). Added first-mention-per-section links in Facts, Issues, and Discussion (### level) for DPA Sections 11/12/13/16/25, DPA generally, IRR generally and Section 18, NPC Circular No. 20-01 (loan-related transactions guidelines), and NPC Circular No. 2021-01 (2021 Rules of Procedure). Linked every footnote citation of DPA/IRR/Circular 20-01/Circular 2021-01/NPC 19-909/NPC 19-910. Left unlinked: repeat in-section mentions of already-linked provisions, the file's own case number (NPC SS 21-005) per rule, and G.R./Supreme Court case citations (non-DPA). NPC BN/case citations to unreported decisions were not links since no corpus file exists for them (none found in this file; all cited cases here do have corpus entries)."
     },
     "decisions/2022/npc-ss-21-006-wefund-lending-corp.md": {
       "status": "done",
@@ -6350,13 +6304,13 @@
     },
     "issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission.md": {
       "status": "done",
-      "agent": "issuances-02",
+      "agent": "relink-cleaned",
       "links_added": 1,
       "aliases_added": false,
       "targets_linked": [
         "laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012"
       ],
-      "notes": "File was already extensively linked (DPA, Circular 16-04, 18-03, 16-03, 18-01, 18-02, videoconferencing advisory). Only gap found: bare 'Implementing Rules and Regulations' in Rule XI Section 1, now linked. NOTE: this source file has severe duplicate-content corruption from OCR/editing (Rule IV Sections 2-6, Rule VII/X/XI sections, and the Source block are each repeated 2-3 times verbatim) -- out of scope for wikilink task but flagging as a structural defect worth separate cleanup."
+      "notes": "This file retained ~18 of its original ~24 links after OCR cleanup (DPA links throughout, IRR/Circular 16-03/16-04/18-01/18-02/18-03/videoconferencing-advisory links in Rule XI-XII all intact). Only one gap found: 'Implementing Rules and Regulations' in Rule XI Section 1 had lost its link to laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012 (confirmed via git diff against pre-cleanup version). Fixed. File has no BEGIN/END MANUAL ANNOTATED TEXT markers, so entire body was in scope. Remaining unlinked 'Section N' mentions are internal self-references to other rules/sections within this same Rules of Procedure document, not external citations, and correctly left unlinked."
     },
     "issuances/2021/data-subject-rights.md": {
       "status": "done",
@@ -7977,11 +7931,16 @@
     },
     "resolutions/2018/npc-bn-18-213-in-re-manufacturers-life-insurance-co.md": {
       "status": "done",
-      "agent": "resolutions-03",
-      "links_added": 0,
+      "agent": "relink-cleaned",
+      "links_added": 13,
       "aliases_added": false,
-      "targets_linked": [],
-      "notes": "Already extensively linked (DPA Section 20(f), circular 16-03 with subsection anchors, decisions cross-ref, unreported cases correctly unlinked). File has significant OCR line-break corruption in the middle discussion section (double-spaced broken lines around footnotes 55-84) but existing wikilinks within that corrupted text are intact and correct; OCR cleanup is out of scope for this wikilinking pass."
+      "targets_linked": [
+        "issuances/undated/personal-data-breach-management",
+        "laws/data-privacy-act-of-2012",
+        "decisions/2022/npc-ss-22-001-and-npc-ss-22-008-in-re-commission-on-elections",
+        "resolutions/2023/npc-17-028-and-npc-bn-18-180-in-re-easytrip-services-corporation"
+      ],
+      "notes": "413-line resolution, only 1 wikilink survived (RA 10173 in Discussion). Linked NPC Circular 16-03 (Personal Data Breach Management) first mention and every footnote citation; DPA Section 20(f) citation (subsection uses parent anchor #section-20-security-of-personal-information); footnote citations to NPC SS 22-001/22-008 (Comelec sua sponte decision) and NPC BN 17-028 and NPC BN 18-180 (EasyTrip resolution). NPC BN 20-158 (footnote 65) is cited as '(unreported)' and has no corpus file, so left unlinked -- correctly, per 'never guess paths' rule."
     },
     "resolutions/2018/npc-bn-18-217-in-re-infosys-bpm-philippines.md": {
       "status": "done",
@@ -9164,6 +9123,53 @@
         "laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012"
       ],
       "notes": "Large recent (2025) resolution; linked NPC Circular No. 20-02 (Rules on Issuance of CDOs) and multiple DPA/IRR section references across body and footnotes."
+    },
+    "advisory-opinions/2017/advisory-opinion-no-2017-021-npc-advisoryopinionno-2017-021.md": {
+      "status": "done",
+      "agent": "advisory-opinions-02",
+      "links_added": 11,
+      "aliases_added": true,
+      "targets_linked": [
+        "laws/data-privacy-act-of-2012 (Sections 3, 4, 6, 20, 25, 35)",
+        "laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012 (Sections 38, 41, 48)",
+        "issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements",
+        "issuances/undated/personal-data-breach-management"
+      ],
+      "notes": "Filename mismatched title (file named ...2017-020.md but is actually AO 2017-021, a distinct document from the true 2017-020 file). Section 21(b)/50(b), Section 47, Section 34, and NPC Advisory No. 2017-01 links pre-existed. CDA charter (RA 6939) and CISA (RA 9510) footnotes correctly left unlinked as other statutes. Second later mention of 'Section 4 of the DPA' and 'NPC Circular 16-03' inline mentions left unlinked per first-mention-per-section rule. Renamed from advisory-opinion-no-2017-021-npc-advisoryopinionno-2017-021.md (filename suffix did not match true AO number)."
+    },
+    "advisory-opinions/2017/advisory-opinion-no-2017-025-npc-advisoryopinionno-2017-025.md": {
+      "status": "done",
+      "agent": "advisory-opinions-02",
+      "links_added": 2,
+      "aliases_added": true,
+      "targets_linked": [
+        "laws/data-privacy-act-of-2012 (main + Section 3)"
+      ],
+      "notes": "Filename suffix mismatched (file is actually AO 2017-025, distinct from the true 2017-024 file). Section 13 and Section 12 links pre-existed. Renamed from advisory-opinion-no-2017-025-npc-advisoryopinionno-2017-025.md (filename suffix did not match true AO number)."
+    },
+    "advisory-opinions/2017/advisory-opinion-no-2017-037-npc-advisoryopinionno-2017-037.md": {
+      "status": "done",
+      "agent": "advisory-opinions-03",
+      "links_added": 3,
+      "aliases_added": true,
+      "targets_linked": [
+        "laws/data-privacy-act-of-2012 (Section 21)",
+        "laws/data-privacy-act-of-2012 (Section 14)",
+        "laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012 (Section 26)",
+        "laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012 (Section 47)"
+      ],
+      "notes": "Note: filename says 2017-037 but the physical file on disk is named ...2017-038.md (naming collision with the actual 038 file, which is a separate different-content file at the same path 2017-038). DPA in heading already linked; Section 47 of IRR already linked. Added footnote 1 (sec 21(h), 14, IRR sec 26(a)) and footnote 4 (IRR sec 47) links. Footnote 3 already correctly linked to issuances/2017/designation-of-data-protection-officers. Renamed from advisory-opinion-no-2017-037-npc-advisoryopinionno-2017-037.md (filename suffix did not match true AO number)."
+    },
+    "advisory-opinions/2017/advisory-opinion-no-2017-053-npc-advisoryopinionno-2017-053.md": {
+      "status": "done",
+      "agent": "advisory-opinions-04",
+      "links_added": 2,
+      "aliases_added": true,
+      "targets_linked": [
+        "laws/data-privacy-act-of-2012",
+        "issuances/undated/rules-of-procedure (NPC Circular No. 16-04)"
+      ],
+      "notes": "FILENAME MISMATCH: file is titled/aliased as Advisory Opinion No. 2017-053 but the filename itself says '...2017-054.md' (likely a source scrape typo duplicating the next file's name). Aliases added for 053 per title/content. Linked body mention and footnote 2 of 'Rules of Procedure'/'NPC Circular 16-04' to issuances/undated/rules-of-procedure. GDPR Recital, Rules of Court, and Rules on Electronic Evidence citations left unlinked (external, not NPC issuances). DPA already linked at first mention in intro. Renamed from advisory-opinion-no-2017-053-npc-advisoryopinionno-2017-053.md (filename suffix did not match true AO number)."
     }
   }
 }

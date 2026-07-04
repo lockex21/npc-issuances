@@ -13,6 +13,7 @@ tags:
   - "npc-case"
   - "topic/breach-notification"
   - "topic/data-subject-rights"
+  - "topic/security"
 date: "2020-10-15"
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2017-053 — Consent Evidenced by Written, Electronic, or Recorded Means”
-description: “Advisory opinion clarifying that consent under the Data Privacy Act may be evidenced by written form, electronic form, or recorded means, with reference to GDPR principles and Philippine rules of evidence.”
+title: "NPC Advisory Opinion No. 2017-053 — Consent Evidenced by Written, Electronic, or Recorded Means"
+description: "Advisory opinion clarifying that consent under the Data Privacy Act may be evidenced by written form, electronic form, or recorded means, with reference to GDPR principles and Philippine rules of evidence."
 tags:
   - issuance
   - type/advisory-opinion

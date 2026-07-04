@@ -15,15 +15,15 @@ Topic pages are generated from lightweight keyword tagging across the full corpu
 - [[topics/cross-border-transfers|Cross Border Transfers]] (12 documents: 2 laws, 3 issuances, 5 advisory opinions, 1 decisions, 1 resolutions)
 - [[topics/data-sharing|Data Sharing]] (75 documents: 1 laws, 7 issuances, 64 advisory opinions, 1 decisions, 2 resolutions)
 - [[topics/data-subject-rights|Data Subject Rights]] (87 documents: 2 laws, 13 issuances, 47 advisory opinions, 11 decisions, 8 resolutions, 6 orders)
-- [[topics/elections|Elections]] (11 documents: 1 issuances, 5 advisory opinions, 2 decisions, 3 resolutions)
+- [[topics/elections|Elections]] (10 documents: 1 issuances, 5 advisory opinions, 2 decisions, 2 resolutions)
 - [[topics/employment|Employment]] (129 documents: 2 laws, 5 issuances, 61 advisory opinions, 26 decisions, 29 resolutions, 6 orders)
 - [[topics/fees-and-payments|Fees And Payments]] (11 documents: 5 issuances, 4 advisory opinions, 1 resolutions, 1 orders)
-- [[topics/government|Government]] (81 documents: 2 laws, 15 issuances, 56 advisory opinions, 4 decisions, 2 resolutions, 2 orders)
+- [[topics/government|Government]] (82 documents: 2 laws, 15 issuances, 57 advisory opinions, 4 decisions, 2 resolutions, 2 orders)
 - [[topics/legitimate-interest|Legitimate Interest]] (87 documents: 7 issuances, 52 advisory opinions, 23 decisions, 4 resolutions, 1 orders)
 - [[topics/online-lending|Online Lending]] (38 documents: 3 issuances, 4 advisory opinions, 12 decisions, 12 resolutions, 7 orders)
 - [[topics/privacy-engineering|Privacy Engineering]] (1 documents: 1 issuances)
 - [[topics/registration|Registration]] (41 documents: 1 laws, 10 issuances, 22 advisory opinions, 6 resolutions, 2 orders)
-- [[topics/security|Security]] (131 documents: 2 laws, 16 issuances, 26 advisory opinions, 19 decisions, 51 resolutions, 17 orders)
+- [[topics/security|Security]] (137 documents: 2 laws, 16 issuances, 31 advisory opinions, 19 decisions, 51 resolutions, 18 orders)
 - [[topics/training-certification|Training Certification]] (7 documents: 5 issuances, 1 resolutions, 1 orders)
 
 ## Manual Notes

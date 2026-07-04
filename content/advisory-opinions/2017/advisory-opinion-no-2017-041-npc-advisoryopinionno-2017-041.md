@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2017-041 — Profiling of Individuals and Collection of Personal Information Based on Publicly Available Data”
-description: “NPC Advisory Opinion No. 2017-041 addresses the applicability of the Data Privacy Act to publicly available personal data and the rules governing profiling individuals based on such data.”
+title: "NPC Advisory Opinion No. 2017-041 — Profiling of Individuals and Collection of Personal Information Based on Publicly Available Data"
+description: "NPC Advisory Opinion No. 2017-041 addresses the applicability of the Data Privacy Act to publicly available personal data and the rules governing profiling individuals based on such data."
 tags:
   - issuance
   - type/advisory-opinion

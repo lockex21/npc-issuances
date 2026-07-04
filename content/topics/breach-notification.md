@@ -27,7 +27,7 @@ Auto-generated topic cluster for **Breach Notification**, covering the full corp
 - [[advisory-opinions/2017/advisory-opinion-no-2017-064-npc-advisoryopinionno-2017-064|NPC Advisory Opinion No. 2017-064 — Registration of Data Processing Systems]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-058-npc-advisoryopinionno-2017-058|NPC Advisory Opinion No. 2017-058 — Offenses Under the Data Privacy Act of 2012]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-023-npc-advisoryopinionno-2017-023|NPC Advisory Opinion No. 2017-023 — Clarifications on Data Privacy Act Provisions for Banks]]
-- [[advisory-opinions/2017/advisory-opinion-no-2017-021-npc-advisoryopinionno-2017-020|NPC Advisory Opinion No. 2017-021 — Scope of the Data Privacy Act of 2012]]
+- [[advisory-opinions/2017/advisory-opinion-no-2017-021-npc-advisoryopinionno-2017-021|NPC Advisory Opinion No. 2017-021 — Scope of the Data Privacy Act of 2012]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-018-npc-advisoryopinionno-2017-018|NPC Advisory Opinion No. 2017-018 — Queries Regarding the Implementing Rules and Regulations of the Data Privacy Act]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-017-npc-advisoryopinionno-2017-017|NPC Advisory Opinion No. 2017-017 — Clarifications on the Data Privacy Act of 2012 and its Implementing Rules and Regulations]]
 

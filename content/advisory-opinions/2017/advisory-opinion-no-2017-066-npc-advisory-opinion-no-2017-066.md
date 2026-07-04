@@ -1,11 +1,11 @@
 ---
-title: “NPC Advisory Opinion No. 2017-066 — Inquiry on Information in Company ID”
+title: "NPC Advisory Opinion No. 2017-066 — Inquiry on Information in Company ID"
 aliases:
   - "NPC Advisory Opinion No. 2017-066"
   - "npc advisory opinion no. 2017-066"
   - "Advisory Opinion No. 2017-066"
   - "advisory opinion no. 2017-066"
-description: “Advisory opinion on the collection of personal data on company IDs, addressing the principles of transparency, legitimate purpose, and proportionality under the Data Privacy Act, with emphasis on proper handling of sensitive personal information.”
+description: "Advisory opinion on the collection of personal data on company IDs, addressing the principles of transparency, legitimate purpose, and proportionality under the Data Privacy Act, with emphasis on proper handling of sensitive personal information."
 tags:
   - issuance
   - type/advisory-opinion

@@ -1,11 +1,11 @@
 ---
-title: “NPC Advisory Opinion No. 2017-026 — Collection of Data - Professional License”
-description: “Guidance on whether educational academies can collect professional license numbers and expiry dates from course participants for verification purposes.”
+title: "NPC Advisory Opinion No. 2017-026 — Collection of Data - Professional License"
 aliases:
   - "NPC Advisory Opinion No. 2017-026"
   - "npc advisory opinion no. 2017-026"
   - "Advisory Opinion No. 2017-026"
   - "advisory opinion no. 2017-026"
+description: "Guidance on whether educational academies can collect professional license numbers and expiry dates from course participants for verification purposes."
 tags:
   - issuance
   - type/advisory-opinion

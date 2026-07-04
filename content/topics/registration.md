@@ -36,7 +36,7 @@ Auto-generated topic cluster for **Registration**, covering the full corpus of l
 - [[advisory-opinions/2017/advisory-opinion-no-2017-064-npc-advisoryopinionno-2017-064|NPC Advisory Opinion No. 2017-064 — Registration of Data Processing Systems]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-062-npc-advisoryopinionno-2017-062|NPC Advisory Opinion No. 2017-062 — NPC Circular 17-01 Registration of Data Processing Systems]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-044-npc-advisoryopinionno-2017-044|NPC Advisory Opinion No. 2017-044 — Exemption from the Registration Requirement with the National Privacy Commission]]
-- [[advisory-opinions/2017/advisory-opinion-no-2017-037-npc-advisoryopinionno-2017-038|NPC Advisory Opinion No. 2017-037 — Queries on Data Privacy Act of 2012]]
+- [[advisory-opinions/2017/advisory-opinion-no-2017-037-npc-advisoryopinionno-2017-037|NPC Advisory Opinion No. 2017-037 — Queries on Data Privacy Act of 2012]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-034-npc-advisoryopinionno-2017-034|NPC Advisory Opinion No. 2017-034 — Registration of Data Processing Systems]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-023-npc-advisoryopinionno-2017-023|NPC Advisory Opinion No. 2017-023 — Clarifications on Data Privacy Act Provisions for Banks]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-022-npc-advisoryopinionno-2017-022|NPC Advisory Opinion No. 2017-022 — Registration of Data Processing Systems]]

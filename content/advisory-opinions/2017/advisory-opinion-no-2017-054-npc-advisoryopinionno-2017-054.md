@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2017-054 — Data Sharing Agreement Between Government Agencies”
-description: “Advisory opinion on the interpretation of law enforcement and regulatory functions for public authorities and requirements for data sharing agreements between government agencies under the Data Privacy Act.”
+title: "NPC Advisory Opinion No. 2017-054 — Data Sharing Agreement Between Government Agencies"
+description: "Advisory opinion on the interpretation of law enforcement and regulatory functions for public authorities and requirements for data sharing agreements between government agencies under the Data Privacy Act."
 tags:
   - issuance
   - type/advisory-opinion

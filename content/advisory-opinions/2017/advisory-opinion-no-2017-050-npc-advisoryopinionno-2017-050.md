@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2017-050 — Consent in an Employment Contract”
-description: “Advisory opinion on the validity and scope of consent given by employees regarding personal data processing in employment contracts under the Data Privacy Act.”
+title: "NPC Advisory Opinion No. 2017-050 — Consent in an Employment Contract"
+description: "Advisory opinion on the validity and scope of consent given by employees regarding personal data processing in employment contracts under the Data Privacy Act."
 tags:
   - issuance
   - type/advisory-opinion

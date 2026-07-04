@@ -7,6 +7,7 @@ tags:
   - year/2018
   - data-collection
   - regulatory-authority
+  - topic/security
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-052"
