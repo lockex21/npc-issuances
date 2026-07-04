@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2018"
   - "npc-case"
+  - "topic/consent"
+  - "topic/employment"
 date: "2020-05-21"
 draft: false
 ---

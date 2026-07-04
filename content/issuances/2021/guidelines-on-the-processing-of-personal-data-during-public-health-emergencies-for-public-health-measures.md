@@ -12,6 +12,12 @@ tags:
 - issuance
 - type/circular
 - year/2021
+- topic/breach-notification
+- topic/data-subject-rights
+- topic/employment
+- topic/government
+- topic/registration
+- topic/security
 title: "Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures (Circular No. 2021-02)"
 ---
 

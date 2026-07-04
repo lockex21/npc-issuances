@@ -11,6 +11,12 @@ tags:
   - "type/decision"
   - "year/2017"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/cctv-surveillance"
+  - "topic/data-sharing"
+  - "topic/elections"
+  - "topic/employment"
+  - "topic/security"
 date: "2019-08-15"
 draft: false
 ---

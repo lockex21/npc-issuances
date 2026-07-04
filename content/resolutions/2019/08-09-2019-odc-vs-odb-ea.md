@@ -11,6 +11,9 @@ tags:
   - "type/resolution"
   - "npc-case"
   - "year/2019"
+  - "topic/children"
+  - "topic/consent"
+  - "topic/data-sharing"
 date: "2019-08-09"
 draft: false
 ---

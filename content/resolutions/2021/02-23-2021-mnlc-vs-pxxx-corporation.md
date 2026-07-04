@@ -11,6 +11,9 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/breach-notification
+  - topic/consent
+  - topic/legitimate-interest
 date: "2021-02-23"
 draft: false
 ---

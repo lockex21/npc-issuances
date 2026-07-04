@@ -12,6 +12,8 @@ tags:
 - issuance
 - type/advisory
 - year/2020
+- topic/employment
+- topic/government
 date: '2020-11-26'
 draft: false
 ---

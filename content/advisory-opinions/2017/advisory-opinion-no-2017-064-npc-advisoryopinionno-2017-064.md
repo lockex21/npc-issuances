@@ -5,6 +5,9 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/ai
+  - topic/breach-notification
+  - topic/registration
 draft: false
 ---
 

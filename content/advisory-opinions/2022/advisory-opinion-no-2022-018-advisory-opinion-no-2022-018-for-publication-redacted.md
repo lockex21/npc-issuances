@@ -5,6 +5,8 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+  - topic/consent
+  - topic/data-subject-rights
 draft: false
 ---
 

@@ -8,6 +8,7 @@ tags:
   - local-government
   - ordinance
   - data-privacy-principles
+  - topic/data-subject-rights
 draft: false
 ---
 

@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/cctv-surveillance
 date: "2021-11-11"
 draft: false
 ---

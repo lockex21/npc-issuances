@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2020"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/training-certification"
 date: "2020-09-21"
 draft: false
 ---

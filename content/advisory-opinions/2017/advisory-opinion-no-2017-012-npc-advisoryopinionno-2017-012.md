@@ -7,6 +7,7 @@ tags:
   - year/2017
   - cross-border-processing
   - data-privacy-act
+  - topic/cross-border-transfers
 draft: false
 ---
 

@@ -6,6 +6,8 @@ tags:
   - type/resolution
   - year/2018
   - npc-case
+  - topic/breach-notification
+  - topic/security
 draft: false
 aliases:
   - "NPC BN 18-038"

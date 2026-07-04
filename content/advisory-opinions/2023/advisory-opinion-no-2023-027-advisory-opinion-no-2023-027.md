@@ -5,6 +5,8 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2023
+  - topic/data-sharing
+  - topic/employment
 draft: false
 ---
 

@@ -11,6 +11,8 @@ tags:
   - topic/privacy-engineering
   - type/advisory
   - year/2025
+  - topic/data-subject-rights
+  - topic/security
 draft: false
 date: '2025-08-27'
 ---

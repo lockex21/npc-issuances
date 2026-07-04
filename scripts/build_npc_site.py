@@ -81,15 +81,35 @@ URL_PATTERN = re.compile(r"https?://[^\s<>)\]}]+")
 
 TOPIC_RULES: dict[str, tuple[str, ...]] = {
     "ai": ("artificial intelligence", r"\bai\b"),
+    "breach-notification": ("breach notification", "personal data breach", "data breach", r"\bnpc bn\b"),
     "children": ("child-oriented", "children", "minor"),
     "consent": (r"\bconsent\b",),
     "cross-border-transfers": ("cross-border", "cross border", "transfer"),
     "cctv-surveillance": ("cctv", "closed-circuit television", "body-worn camera", "surveillance"),
     "data-sharing": ("data sharing", "sharing agreement"),
+    "data-subject-rights": (
+        "data subject rights",
+        "rights of data subjects",
+        "rights of the data subject",
+        "right to access",
+        "right to erasure",
+        "right to object",
+        "right to rectification",
+        "right to data portability",
+        "right to damages",
+    ),
     "elections": ("election", "political"),
+    "employment": (r"\bemployment\b", r"\bemployees?\b", r"\bemployers?\b", "workplace"),
     "fees-and-payments": ("fees", "charges", "payment"),
     "government": ("government", "public sector"),
     "legitimate-interest": ("legitimate interest",),
+    "online-lending": (
+        "online lending",
+        "lending app",
+        "loan app",
+        "lending platform",
+        "loan-related transaction",
+    ),
     "privacy-engineering": ("privacy engineering", "systems life cycle"),
     "registration": ("registration", "seal of registration", "data protection officer"),
     "security": ("security", "breach", "cyber"),
@@ -1116,6 +1136,18 @@ def render_index_page(
     write_markdown(path, content)
 
 
+def count_section_notes(section: str) -> int:
+    """Count published notes under a content section, excluding indexes and hidden files."""
+    base = CONTENT_DIR / section
+    if not base.is_dir():
+        return 0
+    return sum(
+        1
+        for path in base.rglob("*.md")
+        if path.name != "index.md" and not path.name.startswith((".", "_"))
+    )
+
+
 def build_content_tree(records: list[Issuance], *, write_record_pages: bool = True) -> None:
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     SOURCE_NOTES_DIR.mkdir(parents=True, exist_ok=True)
@@ -1132,44 +1164,70 @@ def build_content_tree(records: list[Issuance], *, write_record_pages: bool = Tr
 
     year_groups: dict[str, list[Issuance]] = defaultdict(list)
     type_groups: dict[str, list[Issuance]] = defaultdict(list)
-    topic_groups: dict[str, list[Issuance]] = defaultdict(list)
 
     for record in records:
         year_groups[record.year].append(record)
         type_groups[record.kind].append(record)
-        for tag in record.tags:
-            if tag.startswith("topic/"):
-                topic_groups[tag.removeprefix("topic/")].append(record)
 
     issuance_count = len(records)
-    reference_rich = sorted(records, key=lambda item: (len(item.incoming_refs), item.title), reverse=True)[:10]
+    reference_rich = sorted(records, key=lambda item: (len(item.incoming_refs), item.title), reverse=True)[:5]
+    recently_issued = sorted(
+        (record for record in records if record.issue_date_iso),
+        key=lambda item: (item.issue_date_iso or "", item.title),
+        reverse=True,
+    )[:5]
+    section_counts = {
+        section: count_section_notes(section)
+        for section in ("advisory-opinions", "decisions", "resolutions", "orders", "laws")
+    }
     home_lines = [
-        "A cross-referenced collection of issuances, advisory opinions, decisions, resolutions, and orders of the National Privacy Commission (Philippines).",
+        "An unofficial, cross-referenced library of the issuances, advisory opinions, decisions,"
+        " resolutions, and orders of the National Privacy Commission (Philippines). Full texts are"
+        " cleaned extractions of the official PDFs, linked to one another so citations can be"
+        " followed across documents. See [[about|About this wiki]] for sources and caveats.",
         "",
-        f"- Primary issuances: **{issuance_count}** (plus advisory opinions, decisions, resolutions, and orders)",
-        f"- Official source index: {SOURCE_URL}",
+        "## Start here",
+        "Cornerstone documents that most other material builds on:",
+        "",
+        "- [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] — the statute everything else interprets",
+        "- [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the DPA]] — the first layer of operational detail",
+        "- [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure, as amended (2024)]] — how complaints and cases move through the Commission",
+        "- [[issuances/2023/guidelines-on-consent|Guidelines on Consent]] — when consent is (and is not) the right lawful basis",
+        "- [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|AI Guidelines (2024)]] — applying the DPA to artificial intelligence systems processing personal data",
         "",
         "## Browse",
-        "- [[issuances/index|Issuances by year]]",
-        "- [[advisory-opinions/index|Advisory opinions]]",
-        "- [[decisions/index|Decisions]]",
-        "- [[resolutions/index|Resolutions]]",
-        "- [[orders/index|Orders]]",
-        "- [[laws/index|Laws]]",
-        "- [[types/index|Issuances by type]]",
-        "- [[topics/index|Topics]]",
-        "- [[relationships/index|Reference map]]",
+        f"- [[issuances/index|Issuances]] — {issuance_count} circulars, advisories, guidelines, and rules, by year",
+        f"- [[advisory-opinions/index|Advisory opinions]] — {section_counts['advisory-opinions']} responses to written requests for guidance",
+        f"- [[decisions/index|Decisions]] — {section_counts['decisions']} rulings in complaints and other cases",
+        f"- [[resolutions/index|Resolutions]] — {section_counts['resolutions']} dispositions of motions and interlocutory matters",
+        f"- [[orders/index|Orders]] — {section_counts['orders']} directives, including breach-related and cease-and-desist orders",
+        f"- [[laws/index|Laws]] — {section_counts['laws']} statutory foundations (the DPA and its IRR)",
+        "- [[types/index|Issuances by type]] — the same issuances grouped by document type",
         "",
-        "## Most Referenced Issuances",
+        "## Recently issued",
         *[
-            f"- {wiki_link(record)} ({len(record.incoming_refs)} backlinks)"
+            f"- {wiki_link(record)} ({record.issue_date_iso})"
+            for record in recently_issued
+        ],
+        "",
+        "## Most referenced",
+        "The documents other pages in this wiki cite most often:",
+        "",
+        *[
+            f"- {wiki_link(record)} ({len(record.incoming_refs)} backlink{'s' if len(record.incoming_refs) != 1 else ''})"
             for record in reference_rich
         ],
+        "",
+        "## Explore",
+        "- [[topics/index|Topics]] — thematic groupings across all document types",
+        "- [[relationships/index|Reference map]] — which documents cite which, and how often",
+        "",
+        f"Official source index: {SOURCE_URL}",
     ]
     render_index_page(
         CONTENT_DIR / "index.md",
         "NPC Issuance Wiki",
-        "A cross-referenced reference library of NPC issuances, advisory opinions, decisions, resolutions, and orders.",
+        "An unofficial, cross-referenced library of National Privacy Commission issuances, advisory opinions, decisions, resolutions, and orders, with reading paths for first-time visitors.",
         home_lines,
         default_manual="Use this space for a curated homepage blurb or reading guide.",
     )
@@ -1244,37 +1302,13 @@ def build_content_tree(records: list[Issuance], *, write_record_pages: bool = Tr
             default_manual=f"Add your own criteria for reading {kind.lower()} issuances here.",
         )
 
-    topic_index_lines = [
-        "Topic pages are generated from lightweight keyword tagging. Treat them as starting points and extend them manually.",
-        "",
-        "## Topics",
-        *[
-            f"- [[topics/{topic}|{display_topic_name(topic)}]] ({len(items)} issuances)"
-            for topic, items in sorted(topic_groups.items())
-        ],
-    ]
-    render_index_page(
-        CONTENT_DIR / "topics" / "index.md",
-        "Topics",
-        "Auto-generated topic landing pages for the NPC corpus.",
-        topic_index_lines,
-        default_manual="Add new handcrafted topic notes in this folder whenever the generated set is not enough.",
-    )
+    # Topic pages cover the full corpus (laws, issuances, advisory opinions,
+    # decisions, resolutions, orders), so they are generated by
+    # build_topic_indexes.py rather than from the primary issuances alone.
+    # Imported lazily because build_topic_indexes imports this module.
+    import build_topic_indexes
 
-    for topic, items in sorted(topic_groups.items()):
-        lines = [
-            f"Auto-generated topic cluster for **{display_topic_name(topic)}**.",
-            "",
-            "## Related Issuances",
-            *[f"- {wiki_link(record)}" for record in sorted(items, key=lambda item: (item.year, item.title), reverse=True)],
-        ]
-        render_index_page(
-            CONTENT_DIR / "topics" / f"{topic}.md",
-            display_topic_name(topic),
-            f"NPC issuances related to {display_topic_name(topic)}.",
-            lines,
-            default_manual="Add your own synthesis, definitions, and extra wikilinks here.",
-        )
+    build_topic_indexes.run()
 
     citation_counts = Counter()
     for record in records:

@@ -5,6 +5,8 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/employment
+  - topic/government
 draft: false
 ---
 

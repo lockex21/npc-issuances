@@ -11,6 +11,11 @@ tags:
   - type/resolution
   - year/2024
   - npc-case
+  - topic/cctv-surveillance
+  - topic/consent
+  - topic/cross-border-transfers
+  - topic/data-subject-rights
+  - topic/security
 date: "2024-09-17"
 draft: false
 ---

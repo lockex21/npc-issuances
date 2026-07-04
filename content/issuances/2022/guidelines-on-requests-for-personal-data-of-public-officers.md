@@ -11,6 +11,8 @@ tags:
 - issuance
 - type/advisory
 - year/2022
+- topic/consent
+- topic/government
 title: "Guidelines on Requests for Personal Data of Public Officers (Advisory No. 2022-01)"
 ---
 

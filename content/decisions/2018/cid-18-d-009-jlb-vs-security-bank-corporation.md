@@ -11,6 +11,7 @@ tags:
   - "type/decision"
   - "year/2018"
   - "npc-case"
+  - "topic/security"
 date: "2021-03-18"
 draft: false
 ---

@@ -9,6 +9,7 @@ tags:
   - consent
   - health-information
   - healthcare
+  - topic/consent
 draft: false
 ---
 

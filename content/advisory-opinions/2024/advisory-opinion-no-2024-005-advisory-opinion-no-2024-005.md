@@ -5,6 +5,10 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+  - "topic/ai"
+  - "topic/data-subject-rights"
+  - "topic/employment"
+  - "topic/legitimate-interest"
 draft: false
 ---
 

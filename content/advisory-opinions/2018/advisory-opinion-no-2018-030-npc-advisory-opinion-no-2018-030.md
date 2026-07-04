@@ -9,6 +9,7 @@ tags:
   - sogie
   - gender-data
   - sensitive-information
+  - topic/elections
 draft: false
 ---
 

@@ -8,6 +8,8 @@ tags:
   - employee-data
   - data-subject-rights
   - access-rights
+  - topic/data-subject-rights
+  - topic/employment
 draft: false
 ---
 

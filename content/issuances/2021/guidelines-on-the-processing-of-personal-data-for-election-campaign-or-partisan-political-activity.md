@@ -13,6 +13,10 @@ tags:
 - topic/elections
 - type/advisory
 - year/2021
+- topic/breach-notification
+- topic/consent
+- topic/data-subject-rights
+- topic/legitimate-interest
 title: "Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021)"
 ---
 

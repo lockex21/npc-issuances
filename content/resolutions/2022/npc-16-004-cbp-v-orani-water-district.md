@@ -13,6 +13,9 @@ tags:
 - type/resolution
 - year/2022
 - npc-case
+- topic/data-sharing
+- topic/employment
+- topic/registration
 title: 'NPC 16-004: CBP v. Orani Water District'
 ---
 

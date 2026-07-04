@@ -11,6 +11,8 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/employment"
 date: "2023-01-26"
 draft: false
 ---

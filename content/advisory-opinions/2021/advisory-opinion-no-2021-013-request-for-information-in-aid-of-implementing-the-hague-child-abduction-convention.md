@@ -5,6 +5,10 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/children"
+  - "topic/data-sharing"
+  - "topic/data-subject-rights"
+  - "topic/government"
 draft: false
 ---
 

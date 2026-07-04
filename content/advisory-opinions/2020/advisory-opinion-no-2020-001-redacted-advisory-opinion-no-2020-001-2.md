@@ -5,6 +5,7 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2020
+  - topic/cctv-surveillance
 draft: false
 ---
 

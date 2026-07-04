@@ -8,6 +8,7 @@ tags:
   - photographs
   - cctv
   - healthcare
+  - topic/cctv-surveillance
 draft: false
 ---
 

@@ -7,6 +7,11 @@ tags:
 - type/resolution
 - year/2024
 - npc-case
+- topic/breach-notification
+- topic/employment
+- topic/registration
+- topic/security
+- topic/training-certification
 draft: false
 aliases:
 - '"NPC 18-151"'

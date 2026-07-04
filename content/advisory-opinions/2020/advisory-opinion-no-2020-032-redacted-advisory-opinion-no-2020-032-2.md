@@ -5,6 +5,8 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/data-subject-rights"
+  - "topic/security"
 draft: false
 ---
 

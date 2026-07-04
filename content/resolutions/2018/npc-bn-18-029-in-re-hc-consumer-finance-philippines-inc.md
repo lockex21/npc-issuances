@@ -6,6 +6,8 @@ tags:
   - type/resolution
   - year/2024
   - npc-case
+  - topic/breach-notification
+  - topic/security
 aliases:
   - "NPC BN 18-029"
   - "npc bn 18-029"

@@ -11,6 +11,7 @@ tags:
   - topic/security
   - type/advisory
   - year/2026
+  - topic/breach-notification
 draft: false
 date: '2026-05-11'
 ---

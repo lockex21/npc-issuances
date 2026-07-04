@@ -11,6 +11,9 @@ tags:
 - topic/consent
 - type/circular
 - year/2023
+- topic/data-sharing
+- topic/data-subject-rights
+- topic/legitimate-interest
 draft: false
 date: '2023-11-07'
 ---

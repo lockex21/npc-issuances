@@ -5,6 +5,9 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+  - topic/data-subject-rights
+  - topic/employment
+  - topic/government
 draft: false
 ---
 

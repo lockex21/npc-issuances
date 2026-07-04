@@ -11,6 +11,10 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/employment"
+  - "topic/online-lending"
+  - "topic/security"
 date: "2024-09-17"
 draft: false
 ---

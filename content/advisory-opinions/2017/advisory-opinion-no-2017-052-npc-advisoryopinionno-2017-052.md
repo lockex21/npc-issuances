@@ -5,6 +5,9 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/cross-border-transfers
+  - topic/data-sharing
+  - topic/government
 draft: false
 ---
 

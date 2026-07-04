@@ -9,6 +9,9 @@ tags:
 - type/resolution
 - year/2022
 - npc-case
+- topic/breach-notification
+- topic/employment
+- topic/security
 draft: false
 aliases:
 - '"NPC BN 18-006"'

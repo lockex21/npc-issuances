@@ -8,6 +8,7 @@ tags:
   - patient-registry
   - research
   - healthcare
+  - topic/data-sharing
 draft: false
 ---
 

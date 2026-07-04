@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2017"
   - "npc-case"
+  - "topic/employment"
+  - "topic/security"
 date: "2019-08-13"
 draft: false
 ---

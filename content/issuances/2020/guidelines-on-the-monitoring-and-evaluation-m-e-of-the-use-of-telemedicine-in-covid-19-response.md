@@ -12,6 +12,10 @@ tags:
 - issuance
 - type/memorandum-circular
 - year/2020
+- topic/breach-notification
+- topic/consent
+- topic/employment
+- topic/security
 draft: false
 date: '2020-04-14'
 ---

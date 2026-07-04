@@ -11,6 +11,7 @@ tags:
 - issuance
 - type/circular
 - year/2020
+- topic/online-lending
 draft: false
 date: '2020-09-14'
 ---

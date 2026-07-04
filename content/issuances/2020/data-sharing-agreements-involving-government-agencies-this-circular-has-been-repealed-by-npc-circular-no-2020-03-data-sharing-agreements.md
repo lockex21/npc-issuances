@@ -14,6 +14,9 @@ tags:
 - topic/government
 - type/circular
 - year/2020
+- topic/cross-border-transfers
+- topic/data-subject-rights
+- topic/registration
 draft: false
 date: '2016-10-10'
 ---

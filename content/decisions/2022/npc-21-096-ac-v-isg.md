@@ -11,6 +11,7 @@ tags:
   - "type/decision"
   - "year/2021"
   - "npc-case"
+  - "topic/cctv-surveillance"
 date: "2022-05-16"
 draft: false
 ---

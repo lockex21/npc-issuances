@@ -11,6 +11,12 @@ tags:
   - type/decision
   - year/2021
   - npc-case
+  - topic/breach-notification
+  - topic/consent
+  - topic/data-subject-rights
+  - topic/legitimate-interest
+  - topic/online-lending
+  - topic/security
 date: "2022-05-16"
 draft: false
 ---

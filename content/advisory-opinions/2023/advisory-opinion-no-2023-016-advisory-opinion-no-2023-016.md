@@ -5,6 +5,8 @@ tags:
   - “issuance”
   - “type/advisory-opinion”
   - “year/2023”
+  - topic/consent
+  - topic/legitimate-interest
 draft: false
 ---
 

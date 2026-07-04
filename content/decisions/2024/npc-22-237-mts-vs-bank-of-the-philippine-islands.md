@@ -22,6 +22,7 @@ tags:
   - "Multi-factor-authentication"
   - "Burden-of-proof-substantial-evidence"
   - "Cybersecurity-financial-sector"
+  - "topic/security"
 date: "2024-08-01"
 draft: false
 ---

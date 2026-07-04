@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/data-subject-rights
 date: "2021-02-23"
 draft: false
 ---

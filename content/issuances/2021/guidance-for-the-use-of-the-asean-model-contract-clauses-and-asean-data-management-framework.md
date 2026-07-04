@@ -10,6 +10,7 @@ tags:
   - issuance
   - type/advisory
   - year/2021
+  - topic/cross-border-transfers
 date: "2021-06-28"
 draft: false
 ---

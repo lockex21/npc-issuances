@@ -6,6 +6,8 @@ tags:
   - type/resolution
   - year/2023
   - npc-case
+  - topic/breach-notification
+  - topic/elections
 aliases:
   - "NPC BN 18-213"
   - "npc bn 18-213"

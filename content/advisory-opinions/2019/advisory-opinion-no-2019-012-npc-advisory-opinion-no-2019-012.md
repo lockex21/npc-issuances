@@ -7,6 +7,8 @@ tags:
   - year/2019
   - government-database
   - data-protection
+  - topic/government
+  - topic/security
 draft: false
 ---
 

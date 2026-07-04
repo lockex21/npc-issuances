@@ -12,6 +12,8 @@ tags:
 - issuance
 - type/circular
 - year/2021
+- topic/breach-notification
+- topic/fees-and-payments
 title: "2021 Rules of Procedure of the National Privacy Commission (Original 2021 Version)"
 ---
 

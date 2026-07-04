@@ -13,6 +13,9 @@ tags:
   - "npc-case"
   - "Defense of Legal Claims (Section 13(f))"
   - "Legitimate Interest (Section 12(f))"
+  - "topic/employment"
+  - "topic/government"
+  - "topic/legitimate-interest"
 date: "2024-09-04"
 draft: false
 ---

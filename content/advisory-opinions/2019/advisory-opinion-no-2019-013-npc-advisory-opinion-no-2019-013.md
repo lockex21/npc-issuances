@@ -8,6 +8,7 @@ tags:
   - sensitive-personal-information
   - disclosure
   - consent
+  - topic/consent
 draft: false
 ---
 

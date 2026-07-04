@@ -11,6 +11,7 @@ tags:
 - topic/registration
 - type/circular
 - year/2017
+- topic/ai
 draft: false
 date: '2017-07-31'
 ---

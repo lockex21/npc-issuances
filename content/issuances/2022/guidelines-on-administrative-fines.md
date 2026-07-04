@@ -11,6 +11,7 @@ tags:
 - issuance
 - type/circular
 - year/2022
+- topic/data-subject-rights
 title: "Guidelines on Administrative Fines (Circular No. 2022-01)"
 ---
 

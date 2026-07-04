@@ -15,6 +15,7 @@ tags:
   - "type/decision"
   - "year/2020"
   - "npc-case"
+  - "topic/legitimate-interest"
 date: "2022-10-13"
 draft: false
 ---

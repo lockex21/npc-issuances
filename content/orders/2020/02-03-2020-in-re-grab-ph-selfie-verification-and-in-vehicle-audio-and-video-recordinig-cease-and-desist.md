@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2020"
   - "npc-case"
+  - "topic/data-subject-rights"
 date: "2020-02-03"
 draft: false
 ---

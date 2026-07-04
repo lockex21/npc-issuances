@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2017"
   - "npc-case"
+  - "topic/data-subject-rights"
+  - "topic/security"
 date: "2017-09-01"
 draft: false
 ---

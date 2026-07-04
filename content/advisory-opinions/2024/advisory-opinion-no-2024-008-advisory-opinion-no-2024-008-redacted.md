@@ -5,6 +5,8 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+  - "topic/government"
+  - "topic/legitimate-interest"
 draft: false
 ---
 

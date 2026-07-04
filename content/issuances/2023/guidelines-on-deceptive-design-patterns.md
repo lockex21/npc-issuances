@@ -11,6 +11,7 @@ tags:
   - "type/advisory"
   - "year/2023"
   - "topic/consent"
+  - "topic/data-subject-rights"
 draft: false
 date: '2023-11-07'
 ---

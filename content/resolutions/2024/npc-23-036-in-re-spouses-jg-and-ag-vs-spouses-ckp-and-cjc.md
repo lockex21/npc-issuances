@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "year/2024"
   - "npc-case"
+  - "topic/consent"
 date: "2024-03-04"
 draft: false
 ---

@@ -11,6 +11,9 @@ tags:
   - "type/decision"
   - "year/2019"
   - "npc-case"
+  - "topic/consent"
+  - "topic/employment"
+  - "topic/online-lending"
 date: "2020-12-17"
 draft: false
 ---

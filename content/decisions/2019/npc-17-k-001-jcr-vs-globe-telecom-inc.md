@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2017"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/security"
 date: "2019-12-05"
 draft: false
 ---

@@ -6,6 +6,8 @@ tags:
   - type/decision
   - year/2019
   - npc-case
+  - topic/cctv-surveillance
+  - topic/legitimate-interest
 aliases:
   - "NPC 19-1429"
   - "npc 19-1429"

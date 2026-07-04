@@ -5,6 +5,8 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/cctv-surveillance
+  - topic/legitimate-interest
 draft: false
 ---
 

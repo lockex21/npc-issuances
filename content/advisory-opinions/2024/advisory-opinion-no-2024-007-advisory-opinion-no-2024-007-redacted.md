@@ -5,6 +5,7 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+  - "topic/data-subject-rights"
 draft: false
 ---
 

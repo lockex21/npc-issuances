@@ -5,6 +5,7 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2019"
+  - "topic/legitimate-interest"
 draft: false
 ---
 

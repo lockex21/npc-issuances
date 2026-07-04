@@ -12,6 +12,8 @@ tags:
   - year/2023
   - npc-case
   - breach-notification
+  - topic/breach-notification
+  - topic/security
 date: "2023-11-13"
 draft: false
 ---

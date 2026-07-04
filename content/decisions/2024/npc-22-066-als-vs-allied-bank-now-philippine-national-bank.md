@@ -11,6 +11,7 @@ tags:
   - "type/decision"
   - "year/2022"
   - "npc-case"
+  - "topic/data-subject-rights"
 date: "2024-12-12"
 draft: false
 ---

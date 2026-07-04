@@ -11,6 +11,9 @@ tags:
   - "type/decision"
   - "year/2021"
   - "npc-case"
+  - "topic/cctv-surveillance"
+  - "topic/consent"
+  - "topic/legitimate-interest"
 date: "2022-09-22"
 draft: false
 ---

@@ -6,6 +6,9 @@ tags:
   - type/resolution
   - year/2018
   - npc-case
+  - topic/breach-notification
+  - topic/cctv-surveillance
+  - topic/security
 aliases:
   - "NPC BN 18-220"
   - "npc bn 18-220"

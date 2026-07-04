@@ -10,6 +10,7 @@ tags:
   - "issuance"
   - "topic/training-certification"
   - "type/faq"
+  - "topic/fees-and-payments"
 date: "2023-09-01"
 draft: false
 ---

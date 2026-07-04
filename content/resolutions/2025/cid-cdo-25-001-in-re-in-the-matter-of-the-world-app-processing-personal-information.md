@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2025
   - npc-case
+  - topic/data-subject-rights
 date: "2025-10-30"
 draft: false
 ---

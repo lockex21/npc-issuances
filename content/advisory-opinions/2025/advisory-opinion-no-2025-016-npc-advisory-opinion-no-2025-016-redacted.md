@@ -5,6 +5,10 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2025"
+  - "topic/cctv-surveillance"
+  - "topic/data-subject-rights"
+  - "topic/government"
+  - "topic/security"
 draft: false
 ---
 

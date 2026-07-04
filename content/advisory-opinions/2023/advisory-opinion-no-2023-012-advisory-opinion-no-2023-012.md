@@ -5,6 +5,9 @@ tags:
 - issuance
 - type/advisory-opinion
 - year/2023
+- topic/data-sharing
+- topic/legitimate-interest
+- topic/online-lending
 draft: false
 ---
 

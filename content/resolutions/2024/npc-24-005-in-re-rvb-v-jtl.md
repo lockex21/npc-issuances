@@ -11,6 +11,9 @@ tags:
   - type/resolution
   - year/2024
   - npc-case
+  - topic/breach-notification
+  - topic/employment
+  - topic/legitimate-interest
 date: "2024-08-01"
 draft: false
 ---

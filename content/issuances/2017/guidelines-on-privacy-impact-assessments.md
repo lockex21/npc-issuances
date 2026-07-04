@@ -10,6 +10,8 @@ tags:
 - issuance
 - type/advisory
 - year/2017
+- topic/data-subject-rights
+- topic/security
 draft: false
 date: '2017-07-31'
 ---

@@ -5,6 +5,8 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+  - topic/consent
+  - topic/data-sharing
 draft: false
 ---
 

@@ -11,6 +11,10 @@ tags:
   - "type/order"
   - "year/2025"
   - "npc-case"
+  - "topic/consent"
+  - "topic/data-subject-rights"
+  - "topic/government"
+  - "topic/security"
 date: "2025-09-23"
 draft: false
 ---

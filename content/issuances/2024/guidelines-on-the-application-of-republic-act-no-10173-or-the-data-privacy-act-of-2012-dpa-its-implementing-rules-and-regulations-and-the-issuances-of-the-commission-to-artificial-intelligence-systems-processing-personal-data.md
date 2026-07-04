@@ -11,6 +11,7 @@ tags:
   - topic/ai
   - type/advisory
   - year/2024
+  - topic/data-subject-rights
 date: '2024-12-19'
 draft: false
 ---

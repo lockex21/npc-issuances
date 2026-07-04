@@ -11,6 +11,8 @@ tags:
   - type/decision
   - year/2020
   - npc-case
+  - topic/breach-notification
+  - topic/consent
 date: "2024-03-21"
 draft: false
 ---

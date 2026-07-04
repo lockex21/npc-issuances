@@ -10,6 +10,7 @@ tags:
   - issuance
   - type/advisory
   - year/2024
+  - topic/legitimate-interest
 draft: false
 date: '2024-08-12'
 ---

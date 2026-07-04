@@ -5,6 +5,9 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2017"
+  - "topic/data-sharing"
+  - "topic/employment"
+  - "topic/registration"
 draft: false
 ---
 

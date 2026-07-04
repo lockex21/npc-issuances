@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2023
   - npc-case
+  - topic/consent
 date: "2023-01-26"
 draft: false
 ---

@@ -11,6 +11,7 @@ tags:
   - "type/order"
   - "year/2024"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2024-02-08"
 draft: false
 ---

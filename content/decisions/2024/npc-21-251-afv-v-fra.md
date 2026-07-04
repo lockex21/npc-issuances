@@ -6,6 +6,7 @@ tags:
   - type/decision
   - year/2021
   - npc-case
+  - topic/legitimate-interest
 aliases:
   - "NPC 21-251"
   - "npc 21-251"

@@ -6,6 +6,7 @@ tags:
   - type/decision
   - year/2021
   - npc-case
+  - topic/cctv-surveillance
 aliases:
   - "NPC 21-085"
   - "npc 21-085"

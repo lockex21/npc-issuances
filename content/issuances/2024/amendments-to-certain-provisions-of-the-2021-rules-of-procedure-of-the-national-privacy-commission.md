@@ -10,6 +10,8 @@ tags:
   - issuance
   - type/rules-of-procedure
   - year/2024
+  - topic/breach-notification
+  - topic/government
 draft: false
 date: '2024-01-26'
 ---

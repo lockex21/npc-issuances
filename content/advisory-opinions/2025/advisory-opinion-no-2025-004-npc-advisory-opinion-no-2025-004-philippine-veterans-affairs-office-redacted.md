@@ -5,6 +5,8 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2025"
+  - "topic/data-sharing"
+  - "topic/government"
 draft: false
 ---
 

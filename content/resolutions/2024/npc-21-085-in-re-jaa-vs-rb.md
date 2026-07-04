@@ -11,6 +11,8 @@ tags:
   - type/resolution
   - year/2024
   - npc-case
+  - topic/fees-and-payments
+  - topic/government
 date: "2024-09-04"
 draft: false
 ---

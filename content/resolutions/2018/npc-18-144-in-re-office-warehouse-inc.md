@@ -6,6 +6,7 @@ tags:
   - type/resolution
   - year/2018
   - npc-case
+  - topic/breach-notification
 draft: false
 aliases:
   - "NPC 18-144"

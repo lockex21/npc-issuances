@@ -13,6 +13,8 @@ tags:
 - topic/registration
 - type/circular
 - year/2017
+- topic/ai
+- topic/government
 draft: false
 date: '2017-08-09'
 ---

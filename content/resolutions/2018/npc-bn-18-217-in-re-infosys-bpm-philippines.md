@@ -6,6 +6,8 @@ tags:
   - type/resolution
   - year/2018
   - npc-case
+  - topic/breach-notification
+  - topic/employment
 aliases:
   - "NPC BN 18-217"
   - "npc bn 18-217"

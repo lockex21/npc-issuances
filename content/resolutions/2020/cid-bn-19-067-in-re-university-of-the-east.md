@@ -11,6 +11,8 @@ tags:
   - type/resolution
   - npc-case
   - year/2020
+  - topic/breach-notification
+  - topic/security
 date: "2020-10-22"
 draft: false
 ---

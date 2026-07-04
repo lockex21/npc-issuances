@@ -11,6 +11,7 @@ tags:
   - type/decision
   - year/2019
   - npc-case
+  - topic/security
 date: "2023-01-19"
 draft: false
 ---

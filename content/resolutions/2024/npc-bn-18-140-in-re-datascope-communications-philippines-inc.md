@@ -11,6 +11,10 @@ tags:
   - type/resolution
   - year/2024
   - npc-case
+  - topic/breach-notification
+  - topic/cctv-surveillance
+  - topic/employment
+  - topic/security
 date: "2024-04-18"
 draft: false
 ---

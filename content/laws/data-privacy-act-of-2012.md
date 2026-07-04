@@ -9,6 +9,12 @@ tags:
   - "law"
   - "philippines"
   - "data-privacy"
+  - "topic/consent"
+  - "topic/cross-border-transfers"
+  - "topic/data-subject-rights"
+  - "topic/employment"
+  - "topic/government"
+  - "topic/security"
 draft: false
 ---
 

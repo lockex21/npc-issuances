@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/security
 date: "2021-07-23"
 draft: false
 ---

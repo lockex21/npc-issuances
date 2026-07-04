@@ -11,6 +11,9 @@ tags:
 - issuance
 - type/advisory
 - year/2021
+- topic/consent
+- topic/data-subject-rights
+- topic/legitimate-interest
 title: "Data Subject Rights (Advisory No. 2021-01)"
 ---
 

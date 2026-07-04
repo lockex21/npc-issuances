@@ -5,6 +5,9 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/data-sharing"
+  - "topic/data-subject-rights"
+  - "topic/legitimate-interest"
 draft: false
 ---
 

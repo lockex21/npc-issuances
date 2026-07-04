@@ -5,6 +5,8 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2017
+  - topic/children
+  - topic/government
 draft: false
 ---
 

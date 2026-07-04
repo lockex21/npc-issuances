@@ -5,6 +5,10 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+  - "topic/consent"
+  - "topic/data-subject-rights"
+  - "topic/employment"
+  - "topic/security"
 draft: false
 ---
 

@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2021
   - npc-case
+  - topic/employment
 date: "2021-03-11"
 draft: false
 ---

@@ -11,6 +11,8 @@ tags:
   - type/decision
   - year/2019
   - npc-case
+  - topic/consent
+  - topic/employment
 date: "2021-12-10"
 draft: false
 ---

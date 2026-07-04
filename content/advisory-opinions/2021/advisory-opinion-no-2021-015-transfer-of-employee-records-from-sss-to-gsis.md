@@ -5,6 +5,9 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/consent"
+  - "topic/employment"
+  - "topic/government"
 draft: false
 ---
 

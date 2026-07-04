@@ -18,6 +18,10 @@ tags:
   - "Online Lending Application"
   - "Legitimate Purpose"
   - "General Privacy Principles"
+  - "topic/consent"
+  - "topic/data-subject-rights"
+  - "topic/employment"
+  - "topic/online-lending"
 date: "2023-09-26"
 draft: false
 ---

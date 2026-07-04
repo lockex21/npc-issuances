@@ -11,6 +11,10 @@ tags:
   - type/decision
   - year/2019
   - npc-case
+  - topic/consent
+  - topic/government
+  - topic/legitimate-interest
+  - topic/security
 date: "2020-10-29"
 draft: false
 ---

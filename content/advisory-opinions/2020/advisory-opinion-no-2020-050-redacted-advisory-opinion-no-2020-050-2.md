@@ -9,6 +9,7 @@ tags:
   - legitimate-interest
   - fintech
   - credit-card
+  - topic/legitimate-interest
 draft: false
 ---
 

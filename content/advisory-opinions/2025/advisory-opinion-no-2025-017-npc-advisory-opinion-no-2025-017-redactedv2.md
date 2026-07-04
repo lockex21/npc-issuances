@@ -5,6 +5,8 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2025"
+  - "topic/children"
+  - "topic/data-subject-rights"
 draft: false
 ---
 

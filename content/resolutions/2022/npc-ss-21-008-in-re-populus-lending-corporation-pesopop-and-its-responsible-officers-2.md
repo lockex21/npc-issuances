@@ -11,6 +11,8 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/data-subject-rights"
+  - "topic/online-lending"
 date: "2022-01-27"
 draft: false
 ---

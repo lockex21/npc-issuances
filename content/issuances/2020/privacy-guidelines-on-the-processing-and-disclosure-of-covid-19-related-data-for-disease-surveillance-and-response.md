@@ -12,6 +12,9 @@ tags:
 - topic/cctv-surveillance
 - type/memorandum-circular
 - year/2020
+- topic/consent
+- topic/data-sharing
+- topic/security
 draft: false
 date: '2020-04-14'
 ---

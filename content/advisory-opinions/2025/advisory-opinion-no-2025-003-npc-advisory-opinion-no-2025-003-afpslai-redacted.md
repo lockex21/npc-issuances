@@ -5,6 +5,9 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2025"
+  - "topic/consent"
+  - "topic/data-subject-rights"
+  - "topic/legitimate-interest"
 draft: false
 ---
 

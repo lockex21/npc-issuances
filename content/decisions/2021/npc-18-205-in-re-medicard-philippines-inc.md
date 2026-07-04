@@ -11,6 +11,7 @@ tags:
   - "type/decision"
   - "year/2018"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2022-07-14"
 draft: false
 ---

@@ -5,6 +5,9 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+  - topic/cctv-surveillance
+  - topic/legitimate-interest
+  - topic/security
 draft: false
 ---
 

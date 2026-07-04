@@ -5,6 +5,7 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+  - "topic/data-subject-rights"
 draft: false
 ---
 

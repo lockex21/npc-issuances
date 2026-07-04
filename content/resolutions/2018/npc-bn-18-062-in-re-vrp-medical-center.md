@@ -11,6 +11,7 @@ tags:
   - type/resolution
   - year/2024
   - npc-case
+  - topic/breach-notification
 date: "2024-06-05"
 draft: false
 ---

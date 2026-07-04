@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "npc-case"
   - "year/2019"
+  - "topic/breach-notification"
 date: "2019-07-31"
 draft: false
 ---

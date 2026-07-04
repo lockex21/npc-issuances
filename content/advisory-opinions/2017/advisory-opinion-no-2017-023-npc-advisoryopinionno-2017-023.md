@@ -5,6 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2017"
+  - "topic/breach-notification"
+  - "topic/consent"
+  - "topic/data-sharing"
+  - "topic/data-subject-rights"
+  - "topic/employment"
+  - "topic/registration"
+  - "topic/security"
 draft: false
 ---
 

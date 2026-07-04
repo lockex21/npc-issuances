@@ -15,6 +15,7 @@ tags:
 - topic/security
 - type/circular
 - year/2016
+- topic/registration
 draft: false
 date: '2016-07-22'
 ---

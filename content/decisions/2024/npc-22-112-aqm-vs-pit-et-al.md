@@ -11,6 +11,7 @@ tags:
   - "type/decision"
   - "year/2022"
   - "npc-case"
+  - "topic/legitimate-interest"
 date: "2024-04-18"
 draft: false
 ---

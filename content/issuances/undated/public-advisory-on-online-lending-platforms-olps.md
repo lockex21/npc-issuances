@@ -8,6 +8,7 @@ tags:
   - "topic/government"
   - "type/advisory"
   - "year/undated"
+  - "topic/online-lending"
 draft: false
 ---
 

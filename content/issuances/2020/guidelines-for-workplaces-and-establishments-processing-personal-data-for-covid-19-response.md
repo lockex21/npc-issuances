@@ -12,6 +12,9 @@ tags:
 - issuance
 - type/advisory
 - year/2020
+- topic/cctv-surveillance
+- topic/data-subject-rights
+- topic/employment
 draft: false
 date: '2020-10-23'
 ---

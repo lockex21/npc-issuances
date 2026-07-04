@@ -11,6 +11,9 @@ tags:
   - "type/decision"
   - "year/2018"
   - "npc-case"
+  - "topic/cctv-surveillance"
+  - "topic/data-subject-rights"
+  - "topic/security"
 date: "2023-11-13"
 draft: false
 ---

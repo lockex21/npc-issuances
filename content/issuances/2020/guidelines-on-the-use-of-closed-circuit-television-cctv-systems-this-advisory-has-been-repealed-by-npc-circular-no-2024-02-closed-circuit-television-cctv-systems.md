@@ -13,6 +13,9 @@ tags:
 - topic/cctv-surveillance
 - type/advisory
 - year/2020
+- topic/employment
+- topic/legitimate-interest
+- topic/security
 date: '2020-11-16'
 draft: false
 ---

@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
 date: "2022-08-19"
 draft: false
 ---

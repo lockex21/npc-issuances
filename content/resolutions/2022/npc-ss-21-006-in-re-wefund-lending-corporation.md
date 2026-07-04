@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "year/2022"
   - "npc-case"
+  - "topic/online-lending"
 date: "2022-01-13"
 draft: false
 ---

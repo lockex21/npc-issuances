@@ -8,6 +8,7 @@ tags:
   - type/decision
   - year/2022
   - npc-case
+  - topic/legitimate-interest
 aliases:
   - "NPC 22-179"
   - "npc 22-179"

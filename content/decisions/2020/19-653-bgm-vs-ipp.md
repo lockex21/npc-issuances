@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2019"
   - "npc-case"
+  - "topic/data-subject-rights"
+  - "topic/legitimate-interest"
 date: "2020-12-17"
 draft: false
 ---

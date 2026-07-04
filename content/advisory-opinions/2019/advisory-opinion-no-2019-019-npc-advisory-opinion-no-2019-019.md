@@ -8,6 +8,7 @@ tags:
   - data-protection-officer
   - data-processing-systems
   - registration
+  - topic/registration
 draft: false
 ---
 

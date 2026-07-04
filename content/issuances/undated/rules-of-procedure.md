@@ -11,6 +11,8 @@ tags:
 - topic/government
 - type/circular
 - year/2016
+- topic/breach-notification
+- topic/fees-and-payments
 draft: false
 date: '2016-09-16'
 ---

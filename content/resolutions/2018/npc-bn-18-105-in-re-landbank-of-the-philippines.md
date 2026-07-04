@@ -6,6 +6,7 @@ tags:
   - type/resolution
   - year/2020
   - npc-case
+  - topic/breach-notification
 aliases:
   - "CID BN 18-105"
   - "cid bn 18-105"

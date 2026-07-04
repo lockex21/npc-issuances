@@ -8,6 +8,7 @@ tags:
   - outsourcing
   - data-processor
   - cross-border
+  - topic/cross-border-transfers
 draft: false
 ---
 

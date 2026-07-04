@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/online-lending"
 date: "2023-11-13"
 draft: false
 ---

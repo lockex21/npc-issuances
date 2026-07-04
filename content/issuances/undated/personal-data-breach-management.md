@@ -11,6 +11,8 @@ tags:
 - topic/security
 - type/circular
 - year/2016
+- topic/breach-notification
+- topic/registration
 draft: false
 date: '2016-10-18'
 ---

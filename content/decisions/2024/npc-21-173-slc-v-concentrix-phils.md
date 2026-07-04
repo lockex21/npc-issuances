@@ -6,6 +6,8 @@ tags:
   - type/decision
   - year/2021
   - npc-case
+  - topic/employment
+  - topic/security
 aliases:
   - "NPC 21-173"
   - "npc 21-173"

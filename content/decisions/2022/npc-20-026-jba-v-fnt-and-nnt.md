@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2020"
   - "npc-case"
+  - "topic/consent"
+  - "topic/data-subject-rights"
 date: "2022-09-22"
 draft: false
 ---

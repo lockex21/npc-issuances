@@ -5,6 +5,9 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/data-subject-rights
+  - topic/legitimate-interest
+  - topic/online-lending
 draft: false
 ---
 

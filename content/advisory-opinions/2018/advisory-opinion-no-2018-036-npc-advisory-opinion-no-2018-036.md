@@ -5,6 +5,9 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+  - topic/consent
+  - topic/data-sharing
+  - topic/fees-and-payments
 draft: false
 ---
 

@@ -5,6 +5,8 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+  - topic/cross-border-transfers
+  - topic/data-sharing
 draft: false
 ---
 

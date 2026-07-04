@@ -9,6 +9,8 @@ tags:
   - surveillance
   - residential-condominium
   - legitimate-interest
+  - topic/cctv-surveillance
+  - topic/security
 draft: false
 ---
 

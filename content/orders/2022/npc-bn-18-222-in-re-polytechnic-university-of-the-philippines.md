@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2022"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/security"
 date: "2022-11-10"
 draft: false
 ---

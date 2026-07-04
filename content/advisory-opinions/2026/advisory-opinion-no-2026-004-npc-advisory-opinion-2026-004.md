@@ -5,6 +5,10 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2026"
+  - "topic/breach-notification"
+  - "topic/fees-and-payments"
+  - "topic/registration"
+  - "topic/security"
 draft: false
 ---
 

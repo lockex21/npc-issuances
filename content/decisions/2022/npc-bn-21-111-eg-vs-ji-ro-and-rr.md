@@ -11,6 +11,11 @@ tags:
   - "type/decision"
   - "year/2021"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/cctv-surveillance"
+  - "topic/consent"
+  - "topic/legitimate-interest"
+  - "topic/security"
 date: "2022-09-22"
 draft: false
 ---

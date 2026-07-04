@@ -11,6 +11,11 @@ tags:
   - "type/order"
   - "year/2021"
   - "npc-case"
+  - "topic/consent"
+  - "topic/data-subject-rights"
+  - "topic/fees-and-payments"
+  - "topic/legitimate-interest"
+  - "topic/online-lending"
 date: "2021-08-12"
 draft: false
 ---

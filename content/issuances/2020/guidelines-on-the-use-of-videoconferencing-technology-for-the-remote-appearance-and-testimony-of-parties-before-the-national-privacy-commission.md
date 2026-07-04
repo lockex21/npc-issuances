@@ -11,6 +11,7 @@ tags:
 - issuance
 - type/advisory
 - year/2020
+- topic/consent
 draft: false
 date: '2020-04-14'
 ---

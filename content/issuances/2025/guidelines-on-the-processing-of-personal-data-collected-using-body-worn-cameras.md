@@ -11,6 +11,8 @@ tags:
   - topic/cctv-surveillance
   - type/circular
   - year/2025
+  - topic/data-subject-rights
+  - topic/security
 draft: false
 date: '2025-05-26'
 ---

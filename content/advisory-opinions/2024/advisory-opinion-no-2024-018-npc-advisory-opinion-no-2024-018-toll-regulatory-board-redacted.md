@@ -9,6 +9,8 @@ tags:
   - "special-case"
   - "public-authority"
   - "statutory-mandate"
+  - "topic/cctv-surveillance"
+  - "topic/data-subject-rights"
 draft: false
 ---
 

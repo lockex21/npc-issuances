@@ -5,6 +5,10 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2026"
+  - "topic/data-sharing"
+  - "topic/employment"
+  - "topic/government"
+  - "topic/security"
 draft: false
 ---
 

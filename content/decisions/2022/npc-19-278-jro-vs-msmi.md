@@ -11,6 +11,9 @@ tags:
   - "type/decision"
   - "year/2019"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/employment"
+  - "topic/legitimate-interest"
 date: "2022-03-31"
 draft: false
 ---

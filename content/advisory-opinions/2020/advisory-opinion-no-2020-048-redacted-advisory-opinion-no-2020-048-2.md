@@ -8,6 +8,7 @@ tags:
   - homeowners-association
   - legitimate-interest
   - data-privacy-principles
+  - topic/legitimate-interest
 draft: false
 ---
 

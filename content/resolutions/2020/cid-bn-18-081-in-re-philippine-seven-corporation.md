@@ -11,6 +11,7 @@ tags:
 - type/resolution
 - npc-case
 - year/2020
+- topic/breach-notification
 title: 'CID BN 18-081: In re: Philippine Seven Corporation'
 ---
 

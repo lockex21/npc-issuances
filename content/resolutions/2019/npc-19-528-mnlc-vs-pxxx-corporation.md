@@ -11,6 +11,7 @@ tags:
   - "type/resolution"
   - "year/2019"
   - "npc-case"
+  - "topic/consent"
 date: "2019-11-18"
 draft: false
 ---

@@ -14,6 +14,12 @@ tags:
 - Unauthorized Processing (Section 25)
 - Unauthorized Disclosure (Section 32)
 - Fairness
+- topic/cctv-surveillance
+- topic/consent
+- topic/cross-border-transfers
+- topic/employment
+- topic/legitimate-interest
+- topic/security
 draft: false
 aliases:
 - NPC 19-1411

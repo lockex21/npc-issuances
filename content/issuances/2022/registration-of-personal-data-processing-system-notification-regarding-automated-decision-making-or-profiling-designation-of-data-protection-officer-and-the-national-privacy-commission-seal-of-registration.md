@@ -14,6 +14,7 @@ tags:
 - topic/registration
 - type/circular
 - year/2022
+- topic/ai
 title: "Registration of Personal Data Processing System, Notification Regarding Automated Decision-making or Profiling, Designation of Data Protection Officer, and the National Privacy Commission Seal of Registration (Circular No. 2022-04)"
 ---
 

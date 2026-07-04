@@ -11,6 +11,9 @@ tags:
   - type/decision
   - year/2021
   - npc-case
+  - topic/breach-notification
+  - topic/online-lending
+  - topic/security
 date: "2024-06-05"
 draft: false
 ---

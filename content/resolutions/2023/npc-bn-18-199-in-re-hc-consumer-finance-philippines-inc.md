@@ -11,6 +11,8 @@ tags:
   - type/resolution
   - year/2023
   - npc-case
+  - topic/breach-notification
+  - topic/online-lending
 date: "2023-08-17"
 draft: false
 ---

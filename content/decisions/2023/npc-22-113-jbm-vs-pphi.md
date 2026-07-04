@@ -11,6 +11,8 @@ tags:
   - "type/decision"
   - "year/2022"
   - "npc-case"
+  - "topic/consent"
+  - "topic/employment"
 date: "2023-09-26"
 draft: false
 ---

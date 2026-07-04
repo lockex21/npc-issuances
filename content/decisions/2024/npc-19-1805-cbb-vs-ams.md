@@ -11,6 +11,9 @@ tags:
   - type/decision
   - year/2019
   - npc-case
+  - topic/breach-notification
+  - topic/cctv-surveillance
+  - topic/legitimate-interest
 date: "2019-12-05"
 draft: false
 ---

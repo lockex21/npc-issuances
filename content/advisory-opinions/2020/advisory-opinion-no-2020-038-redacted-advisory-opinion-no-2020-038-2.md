@@ -5,6 +5,7 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/breach-notification"
 draft: false
 ---
 

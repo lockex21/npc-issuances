@@ -12,6 +12,7 @@ tags:
 - issuance
 - type/circular
 - year/2022
+- topic/online-lending
 title: "Amending Certain Provisions of Npc Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-related Transactions (Circular No. 2022)"
 ---
 

@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2020"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/data-subject-rights"
 date: "2020-10-15"
 draft: false
 ---

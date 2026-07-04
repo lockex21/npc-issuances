@@ -8,6 +8,8 @@ tags:
   - direct-marketing
   - cold-calls
   - legitimate-interest
+  - topic/data-subject-rights
+  - topic/legitimate-interest
 draft: false
 ---
 

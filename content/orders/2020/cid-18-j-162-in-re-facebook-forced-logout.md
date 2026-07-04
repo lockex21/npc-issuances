@@ -11,6 +11,8 @@ tags:
   - "type/order"
   - "year/2020"
   - "npc-case"
+  - "topic/breach-notification"
+  - "topic/security"
 date: "2020-11-19"
 draft: false
 ---

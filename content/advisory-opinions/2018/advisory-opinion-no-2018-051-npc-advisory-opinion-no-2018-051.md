@@ -8,6 +8,11 @@ tags:
   - data-protection-officer
   - personal-information
   - sensitive-information
+  - topic/cctv-surveillance
+  - topic/data-sharing
+  - topic/data-subject-rights
+  - topic/employment
+  - topic/registration
 draft: false
 ---
 

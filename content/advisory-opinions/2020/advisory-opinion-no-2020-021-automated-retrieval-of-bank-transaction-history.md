@@ -5,6 +5,9 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+  - "topic/consent"
+  - "topic/data-subject-rights"
+  - "topic/online-lending"
 draft: false
 ---
 ## Source
