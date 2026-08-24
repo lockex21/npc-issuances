@@ -21,11 +21,11 @@ draft: false
 
 ## Text
 
-**03 September 2019**
+03 September 2019
 
-Re: REQUEST FOR TAX DECLARATION
+**Re: REQUEST FOR TAX DECLARATION**
 
-Dear [Redacted],
+**Dear [Redacted],**
 
 We write in response to your letter which sought clarification regarding your request to secure copies of tax declarations, certificates of title, and tax clearances of real properties from the Assessor’s Office and the Treasurer’s Office of the City of Antipolo vis-à-vis the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
@@ -33,9 +33,7 @@ We understand that you are the counsel for Manila Water Company, Inc. (MWCI). Pu
 
 We understand that the Assessor’s Office and the Treasurer’s Office of the City of Antipolo claim that the names and addresses of the property owners are personal information that are protected under the DPA.
 
-### Discussion
-
-#### Scope of the Data Privacy Act of 2012; regulatory function; public authority
+*Scope of the Data Privacy Act of 2012; regulatory function; public authority*
 
 The [[laws/data-privacy-act-of-2012|DPA]] applies to all types of processing of personal information subject to certain qualifications.[^3] The disclosure of documents containing personal or sensitive personal information (collectively, personal data) is considered processing. Under the DPA, processing of personal data shall be allowed, subject to compliance with the law and adherence to the
 
@@ -52,17 +50,17 @@ The above is interpreted to the effect that a government agency having a constit
 
 In this case, the personal data needed by MWCI, acting as an agent of MWSS, which is a regulatory agency pursuant to RA No. 6234,[^8] may be outside of the scope of the DPA, but subject to the above requisites as well as the provisions of their Concession Agreement.
 
-#### Lawful criteria for processing of personal and sensitive personal information; general data privacy principles
+*Lawful criteria for processing of personal and sensitive personal information; general data privacy principles*
 
 MWCI may rely on the other provisions of the DPA, specifically Sections 12 and 13 which provides the criteria for lawful processing of personal and sensitive personal information, respectively. These sections clarify that consent of the data subject is just one of the possible bases for processing. Personal information controllers (PICs), such as the City of Antipolo and MWCI, should make their own determination of the proper basis for the disclosure, depending on the nature of the personal data being processed.
 
-#### Property laws vis-à-vis the DPA
+*Property laws vis-à-vis the DPA*
 
 The provisions of Presidential Decree No. 1529,[^9] Act No. 496,[^10] and other applicable laws and regulations on the matter should be read together and harmonized with the DPA. For instance, in order to quiet title to real property or remove clouds therefrom, processing is recognized under the DPA for purpose of the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims.[^11]
 
 In [[advisory-opinions/2018/advisory-opinion-no-2018-083-npc-advisory-opinion-no-2018-083|Advisory Opinion No. 2018-083]],[^12] it was emphasized that “the DPA is not meant to prevent government institutions from processing personal data when necessary to fulfill their mandates. Rather, it aims to protect the right to information privacy while ensuring free flow of information. What the DPA does is to promote fair, secure, and lawful processing of such information.”
 
-#### Public documents; publicly available information
+*Public documents; publicly available information*
 
 The belief that tax declarations and tax clearances are not protected by the DPA is misguided. A public document, or even publicly available information, by such fact alone, does not lose the protection afforded by the DPA in so far as the processing involves the personal data contained in such documents.
 
@@ -86,12 +84,12 @@ For your reference.
 
 Very truly yours,
 
-(Sgd.) IVY GRACE T. VILLASOTO
+**(Sgd.) IVY GRACE T. VILLASOTO**
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-(Sgd.) RAYMUND ENRIQUEZ LIBORO
+**(Sgd.) RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).

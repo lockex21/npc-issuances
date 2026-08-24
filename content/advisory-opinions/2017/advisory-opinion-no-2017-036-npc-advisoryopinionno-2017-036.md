@@ -23,15 +23,13 @@ draft: false
 
 27 July 2017
 
-Re: WORK-RELATED PERSONAL DATA
+**Re: WORK-RELATED PERSONAL DATA**
 
-Dear [Redacted],
+Dear **[Redacted]**,
 
 This is with regard to your query received by the National Privacy Commission (NPC) on 6 February 2017. You inquired on whether work-related personal data is within the scope of Republic No. 10173, otherwise known as [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
 Likewise, you asked how the DPA will apply to a situation where a single proprietor (vendor/supplier) used his or her home address and personal mobile number as work address and work contact number respectively.
-
-### Discussion
 
 The DPA defines personal information as "any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual."[^1]
 
@@ -45,8 +43,8 @@ For your reference.
 
 Sincerely,
 
-RAYMUND ENRIQUEZ LIBORO
+**RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(g)]]
-[^2]: *Id.*, §4(a)
+[^2]: Id., §4(a)

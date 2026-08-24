@@ -25,17 +25,15 @@ draft: false
 
 18 December 2019
 
-Re: RIGHT TO DELETE ACCOUNT THROUGH E-MAIL
+**Re: RIGHT TO DELETE ACCOUNT THROUGH E-MAIL**
 
-Dear [Redacted],
+Dear **[Redacted],**
 
 We write in response to your request for advisory opinion received by the National Privacy Commission (NPC) where you seek clarification on the data subject’s exercise of the right to withdraw his or her consent and/or have his or her data deleted from the system of a personal information controller (PIC)[^1] in a reasonable manner such as through e-mail, which is allegedly not allowed by Cashalo unless accompanied by a signed letter of request through snail mail with two copies of valid IDs.
 
 We understand that you sent Cashalo a request via email for deletion of your account, following the instruction provided under the Privacy Policy statement in their website. However, your request was denied until fulfillment of the requirement to submit the request to their office and provide identification, as indicated above. You claim that it is unreasonable for them to ask you to send snail mail when e-mail can be used. You further claim that you already had several cases of successful account deletion with other service providers through e-mail.
 
-### Discussion
-
-#### Data subjects’ rights; withdrawal of consent; procedure for the exercise of rights
+*Data subjects’ rights; withdrawal of consent; procedure for the exercise of rights*
 
 [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the Data Privacy Act of 2012]][^2] (DPA) and Section 34 of its Implementing Rules and Regulations (IRR), provide for the rights of the data subjects. In particular, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 (e) of the IRR]] states:
 
@@ -57,7 +55,7 @@ The law and the rules are silent on the procedure of the exercise the right to e
 
 We note that Cashalo included in its Privacy Policy posted in its website, the following procedure for the exercise of the abovementioned right of a data subject, to wit:
 
-> If you wish to exercise your right to access, correction, cancellation, portability and objection rights as described below, or for complaints and other inquiries, please send a registered letter with return receipt to 16F World Plaza Building, 5th Avenue, Bonifacio Global City, Taguig City 1634, Philippines or email hello@cashalo.com to the attention of Data Privacy Officer:
+> If you wish to exercise your right to access, correction, cancellation, portability and objection rights as described below, or for complaints and other inquiries, **please send a registered letter with return receipt to 16F World Plaza Building, 5th Avenue, Bonifacio Global City, Taguig City 1634, Philippines or email hello@cashalo.com** to the attention of Data Privacy Officer:
 >
 > [...]
 >
@@ -77,18 +75,18 @@ For your reference.
 
 Very truly yours,
 
-(Sgd.) IVY GRACE T. VILLASOTO
+**(Sgd.) IVY GRACE T. VILLASOTO**
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-(Sgd.) RAYMUND ENRIQUEZ LIBORO
+**(Sgd.) RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
-[^1]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, §3(h)]] - Personal information controller refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf. The term excludes: (1) A person or organization who performs such functions as instructed by another person or organization; and (2) An individual who collects, holds, processes or uses personal information in connection with the individual’s personal, family or household affairs.
+[^1]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, §3(h)]] - *Personal information controller* refers to a person or organization who controls the collection, holding, processing or use of personal information, including a person or organization who instructs another person or organization to collect, hold, process, use, transfer or disclose personal information on his or her behalf. The term excludes: (1) A person or organization who performs such functions as instructed by another person or organization; and (2) An individual who collects, holds, processes or uses personal information in connection with the individual’s personal, family or household affairs.
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 
 [^3]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, § 34(e)]] (2016).
 
-[^4]: Cashalo, Privacy Policy, available at https://www.cashalo.com/privacy-policy/ (last accessed Dec. 18, 2019). Emphasis supplied.
+[^4]: Cashalo, Privacy Policy, *available at* https://www.cashalo.com/privacy-policy/ (last accessed Dec. 18, 2019). Emphasis supplied.

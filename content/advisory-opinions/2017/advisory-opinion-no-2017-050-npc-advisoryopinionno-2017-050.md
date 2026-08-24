@@ -25,19 +25,17 @@ aliases:
 
 29 August 2017
 
-Re: CONSENT IN AN EMPLOYMENT CONTRACT
+**Re: CONSENT IN AN EMPLOYMENT CONTRACT**
 
 Dear [Redacted],
 
 This pertains to your query received by the National Privacy Commission (NPC) on 02 August 2017 regarding consent of the data subject. Specifically, you are asking on consent given by an employee in relation to contract for employment.
 
-### Discussion
-
 At the outset, please note that the giving of consent does not amount to waiver of your rights under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA). It only means that you agree to the collection and processing of your personal information.
 
 Under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the DPA]], and Section 3(d) of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. As such, when you give your consent to the processing it will not necessarily bar you from exercising your rights as a data subject under the DPA.
 
-With regard to the phrase “but not limited to,” its inclusion in the employment contract does not mean that such stipulations amount to blanket consent. An elementary rule in statutory construction provides that when general words accompany an enumeration of particular cases, such words only apply to cases of the same kind as those expressly mentioned.[^1] For instance, “work-related requirements” in the employment contract should refer to those having the same purposes as those enumerated, i.e., it should be work-related. It does not amount to you consenting to the use of your personal information for any and all purposes.
+With regard to the phrase “*but not limited to,*” its inclusion in the employment contract does not mean that such stipulations amount to blanket consent. An elementary rule in statutory construction provides that when general words accompany an enumeration of particular cases, such words only apply to cases of the same kind as those expressly mentioned.[^1] For instance, “work-related requirements” in the employment contract should refer to those having the same purposes as those enumerated, i.e., it should be work-related. It does not amount to you consenting to the use of your personal information for any and all purposes.
 
 The employment contract that is the subject of your inquiry is reasonable and acceptable under the DPA. The law provides for instances when processing of personal and sensitive personal information, which may include collection, use, disclosure, and outsourcing thereof, is permitted under the law.[^2] Consent of the data subject to the processing is only one of the instances.
 
@@ -53,10 +51,10 @@ For your reference.
 
 Very truly yours,
 
-RAYMUND ENRIQUEZ LIBORO
+**RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
-[^1]: City of Manila v. Entote, G.R. No. L-24776, June 28, 1974
+[^1]: *City of Manila v. Entote*, G.R. No. L-24776, June 28, 1974
 [^2]: See: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|RA No. 10173, §12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]]
 [^3]: [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|RA No. 10173, §12(b)]]
 [^4]: Id., [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12(c)]]

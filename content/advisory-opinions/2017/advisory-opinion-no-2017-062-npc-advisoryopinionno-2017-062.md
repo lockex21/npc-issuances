@@ -22,19 +22,17 @@ draft: false
 
 ## Text
 
-**09 October 2017**
+09 October 2017
 
-Re: NPC Circular 17-01: Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making
+**Re: NPC CIRCULAR 17-01: REGISTRATION OF DATA PROCESSING SYSTEMS AND NOTIFICATIONS REGARDING AUTOMATED DECISION-MAKING**
 
 Dear [Redacted],
 
 This pertains to your request for advisory opinion received by the National Privacy Commission (NPC) on 26 September 2017, which sought to clarify matters regarding [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations (IRR)]][^2] and relevant issuances, and particularly respond to the following questions on [[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-01]]:
 
-1. Section 1 in relation to Section 5 of [[issuances/undated/registration-of-data-processing-systems|NPC Circular 17-01]] provides that registration of processing systems is required for "any natural or juridical person in the government or private sector processing personal data and operating in the Philippines". Could you define the phrase "processing personal data and operating in the Philippines"?; and
+1. Section 1 in relation to Section 5 of [[issuances/undated/registration-of-data-processing-systems|NPC Circular 17-01]] provides that registration of processing systems is required for *"any natural or juridical person in the government or private sector processing personal data and operating in the Philippines"*. Could you define the phrase "processing personal data and operating in the Philippines"?; and
 
 2. Is registration required for international affiliates or subsidiaries of Philippine corporations that process personal information even if said international affiliates or subsidiaries do not directly process personal data in the Philippines (i.e, they engage the services of Philippine entities for processing), and they do not do business nor are registered/organized in the Philippines?
-
-### Discussion
 
 [[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-01]] must be read together with the law and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3 of the DPA]] clearly provides for the definition of processing of personal data which refers to any operation or any set of operations performed upon personal information, including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data.
 
@@ -55,7 +53,7 @@ For your reference.
 Very truly yours,
 
 **RAYMUND ENRIQUEZ LIBORO**
-Privacy Commissioner and Chairman
+*Privacy Commissioner and Chairman*
 
 [^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, "[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]" (15 August 2012).
 [^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act]] (24 August 2016).

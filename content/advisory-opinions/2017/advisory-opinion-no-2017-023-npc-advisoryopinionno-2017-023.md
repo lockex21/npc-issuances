@@ -28,24 +28,21 @@ draft: false
 
 ## Text
 
-   21 June 2017
+21 June 2017
 
-   Re:      ASSOCIATION OF BANK COMPLIANCE OFFICERS, INC.
-                       REQUEST FOR CLARIFICATION AND COMMENTS
+**Re: ASSOCIATION OF BANK COMPLIANCE OFFICERS, INC.<br>REQUEST FOR CLARIFICATION AND COMMENTS**
 
-Dear [Redacted],
+Dear **[Redacted]**,
 
 This pertains to the summary of queries you forwarded to the National Privacy Commission
 (NPC), by email, relating to [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the Data Privacy Act of
 2012 (DPA), and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR).
 
-### Discussion
-
 Relative thereto, please find below our responses:[^1]
 
-#### Section 3(b), DPA; Section 19, IRR
+Section 3(b), DPA; Section 19, IRR
 
-Can the consent of a data subject be in the form of a deemed, implied, passive or negative consent (e.g. notice with a period for objecting, the lapse of which will be deemed consent)? How specific must the time-bound characteristic of the consent be? Please provide suggested wording for such notice or consent.
+*Can the consent of a data subject be in the form of a deemed, implied, passive or negative consent (e.g. notice with a period for objecting, the lapse of which will be deemed consent)? How specific must the time-bound characteristic of the consent be? Please provide suggested wording for such notice or consent.*
 
 [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the DPA]] provides:
 
@@ -69,14 +66,14 @@ consent cannot be overly broad and perpetual, for this would undermine the very 
 consent, as defined in the law. At any rate, the validity of the period declared, when
 challenged, will have to be assessed on a case-to-case basis.
 
-#### Section 3(h) and (i) and Section 4, DPA; Section 3(m) and (n), IRR
+Section 3(h) and (i) and Section 4, DPA; Section 3(m) and (n), IRR
 
-Please confirm if the provisions of the DPA and its IRR
+*Please confirm if the provisions of the DPA and its IRR
 apply to banks with corporate clients only, to the extent
 that we process personal data of (a) the authorized
 signatories, officers, directors, stockholders of our clients,
 (b) our employees, and (c) our candidates/applicants for
-employment.
+employment.*
 
 The DPA and its IRR apply to the processing of personal data by any natural and juridical
 person in the government or private sector.[^2] Personal data refers to all types of personal
@@ -91,13 +88,13 @@ personal data of its corporate clients’ authorized signatories, officers, dire
 stockholders, and that of its own, including job applicants and other natural persons it may
 have transactions and/or dealings with.
 
-Please confirm that for purposes of processing the personal
+*Please confirm that for purposes of processing the personal
 data of its client’s relevant authorized signatories, officers,
 directors, and/or stockholders, since the personal data are
 collected by the client, the bank will not be considered a
 PIC or personal information processor (PIP) but will only
 need to comply with the data sharing requirements under
-[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20 of the IRR]].
+[[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20 of the IRR]].*
 
 A PIC is defined under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(h) of the DPA]] as a person or organization that controls the
 collection, holding, processing or use of personal information, including a person or
@@ -116,13 +113,13 @@ As a PIC (and in some cases, even as a PIP), a bank is expected to comply with a
 requirements laid out in the DPA, its IRR, and all other relevant issuances of the NPC. Those
 pertaining to data sharing is but one of them.
 
-#### Section 4 and 6 DPA; Section 4 and 5, IRR
+Section 4 and 6 DPA; Section 4 and 5, IRR
 
-Please give guidance on the extent of DPA and IRR
+*Please give guidance on the extent of DPA and IRR
 compliance needed where a foreign company has a
 Philippine branch. Please confirm that compliance with
 the DPA and IRR is limited to the Philippine branch, and
-not the foreign bank in its entirety.
+not the foreign bank in its entirety.*
 
 The DPA applies to the processing of personal data, even if those engaged in it only maintain
 an office, branch, or agency in the Philippines.[^6] This extra-territorial application of the law is
@@ -138,14 +135,14 @@ That said, note that a branch office of a foreign company has been defined as an
 As such, it has no separate and independent personality from the head office. The latter
 merely obtains a license to do business in the host country prior to establishing a branch.[^8]
 
-If the foreign head office and/or other branches process the
+*If the foreign head office and/or other branches process the
 personal data of the Philippine branch’s clients’ authorized
 signatories, officers, directors, stockholders who are
 Philippine residents or citizens, to what extent does it need
 to comply with the DPA and IRR? Please confirm if such
 foreign head office or other branches only need to comply
 if the processing involves the personal data of Philippine
-residents or citizens.
+residents or citizens.*
 
 As discussed above, the DPA has extraterritorial application and covers personal data
 processing performed outside the Philippines, subject to the conditions set out in the law (i.e.,
@@ -154,10 +151,10 @@ other branch) located outside of the Philippines that is still within the scope 
 adhere to provisions of the law, except those (i.e., registration of data processing systems)
 that apply only to entities operating inside the country.
 
-Are personal data which are procured from publicly
+*Are personal data which are procured from publicly
 available sources (for instance, in the GIS, AAFS, PSE or
 in other public documents/instruments) exempt from
-DPA and IRR requirements?
+DPA and IRR requirements?*
 
 The law provides for special cases where it does not apply. They include those information
 that are matters of public concern, or those necessary for public authorities to carry out their
@@ -170,17 +167,17 @@ necessary to achieve the specific purpose, function, or activity of the processi
 
 As regards personal data secured from “publicly available sources”, that fact alone does not
 automatically bring them outside the scope of the DPA. Public disclosure of personal data
-does not equate to a carte blanche grant of authorization to use said data for whatever end.
+does not equate to a *carte blanche* grant of authorization to use said data for whatever end.
 Such data, after all, may still be abused or used for purposes other than that for which they
 were made available. To hold otherwise would undermine the very concept of consent, as
 defined in the DPA.
 
-Will the compliance of banks with BSP requirements be
+*Will the compliance of banks with BSP requirements be
 considered compliance with the DPA and IRR? Some
 requirements overlap. Will NPC defer to the BSP on this
 matter? We understand that there is a possibility of a
 memorandum of agreement between NPC and BSP to
-align their requirements; is there any update on this?
+align their requirements; is there any update on this?*
 
 The BSP is the primary regulator of banks and, as such, it enforces certain laws and
 regulations that apply directly to the banking sector. The case is different for the DPA, which
@@ -195,13 +192,13 @@ functions with a view to harmonizing them for a more efficient regulatory framew
 are in the initial stage of forming a technical working group that will address the issues and
 other concerns of banks in this matter.
 
-#### Section 21, DPA; [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]]
+Section 21, DPA; [[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]]
 
-Most of the functions of a data privacy officer are carried
+*Most of the functions of a data privacy officer are carried
 out by various officers within a bank (i.e. compliance
 officer, consumer protection officer, IT security officer,
 security officer). Will this suffice to comply with the
-requirement of a data privacy officer?
+requirement of a data privacy officer?*
 
 Under [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21(a)(b) of the DPA]], the PIC shall designate an individual or individuals who
 are accountable for its compliance with the DPA. More recently, the NPC recently issued
@@ -214,13 +211,13 @@ As per the guidelines, existing officers of a bank may be designated as the DPOs
 PIPs must see to their qualifications and ensure that they are aware of the full range of their
 duties and responsibilities.
 
-#### Section 3(f), IRR
+Section 3(f), IRR
 
-When personal data is accessible to the head office or other
+*When personal data is accessible to the head office or other
 branches of a bank, is there a need for a data sharing
 agreement and other requirements notwithstanding that
 the Philippine branch is not a separate entity from such other head office or other branches? If yes, will internal
-policies on confidentiality or data protection suffice?
+policies on confidentiality or data protection suffice?*
 
 Data sharing is the disclosure or transfer to a third party (one or more PICs) of personal data
 under the custody of one PIC or PIP.[^14] In the case of the latter, data sharing is only possible if
@@ -235,42 +232,29 @@ of providing access to the head office and other branches, must adhere to data p
 principles, be adequately secured, and should remain subject to the exercise of data subjects
 of their rights.
 
-#### Section 3(m) and (n), IRR
+Section 3(m) and (n), IRR
 
-Please confirm: With respect to individual customers,
+*Please confirm: With respect to individual customers,
 a bank that collects data directly from customers acts
 as a PIC. On the other hand, a bank that collects data
 from a corporate client, which provides the personal
 data of its officers who are authorized to open and/or
 operate the client’s account, is considered a PIP. In the
 latter case, the corporate client, which instructs the
-bank to process personal data, is considered the PIC.
+bank to process personal data, is considered the PIC.*
 
 A PIC refers to a natural or juridical person, or any other body who controls the processing of
 personal data, or instructs another to process personal data on its behalf. There is control if
 the natural or juridical person or any other body decides on what information is collected, or
 the purpose or extent of its processing.[^15] Thus, in the two (2) scenarios provided:
 
-   a. Where a bank collects personal data directly from its individual clients or customers,
-        the bank is considered the PIC vis-à-vis such data.
+&emsp;a. Where a bank collects personal data directly from its individual clients or customers, the bank is considered the PIC vis-à-vis such data.
 
-   b. Where a bank processes the personal data of its (corporate) client’s officers who are
-        authorized to open and/or operate the client’s account, the bank remains to be a PIC.
-        A bank is considered a PIC relative to all personal data it processes, regardless of the
-        source of data. The bank presumably received these personal data for purposes of
-        processing activities necessary for the bank to perform its primary functions. It is the
-        bank that retains control over how the personal data of the client’s officers will be
-        processed within the bank, and for what purpose. The bank may be considered a PIP
-        if it processes the personal data in behalf of the client or under the client’s instructions,
-        where the processing could have been performed by the client for its own purposes
-        had it not been outsourced to the bank. Even in these cases, where the bank merely
-        functions as a PIP, it does not preclude a situation wherein the bank shall be deemed
+&emsp;b. Where a bank processes the personal data of its (corporate) client’s officers who are authorized to open and/or operate the client’s account, the bank remains to be a PIC. A bank is considered a PIC relative to all personal data it processes, regardless of the source of data. The bank presumably received these personal data for purposes of processing activities necessary for the bank to perform its primary functions. It is the bank that retains control over how the personal data of the client’s officers will be processed within the bank, and for what purpose. The bank may be considered a PIP if it processes the personal data in behalf of the client or under the client’s instructions, where the processing could have been performed by the client for its own purposes had it not been outsourced to the bank. Even in these cases, where the bank merely functions as a PIP, it does not preclude a situation wherein the bank shall be deemed a PIC relative to such data. If, for instance, it uses such data for its own purposes (e.g., marketing activities), then it ceases to be a mere PIP, having exercised control over the processing of the data.
 
-   a PIC relative to such data. If, for instance, it uses such data for its own purposes (e.g., marketing activities), then it ceases to be a mere PIP, having exercised control over the processing of the data.
+Section 19(a)(1), IRR
 
-#### Section 19(a)(1), IRR
-
-The requirement that consent be time-bound needs to
+*The requirement that consent be time-bound needs to
 be reconsidered given that it is highly impractical for
 business operations. The time lapse for each relevant
 client will differ and will require suspension of business
@@ -280,7 +264,7 @@ is arduous for business continuity. Adjustment is
 necessary to align the intention behind this requirement
 with standard business practices. Also, it is not necessary
 to make consent time bound as everyone can withdraw
-consent anytime.
+consent anytime.*
 
 Section 19(a)(1) of the IRR provides that:
 
@@ -289,7 +273,7 @@ Section 19(a)(1) of the IRR provides that:
 As stated earlier, the time-bound nature of consent does not necessarily mean a specific date
 or period of time has to be declared relative thereto. The language of the provision is broad
 enough to accommodate scenarios wherein the duration or term of the consent is determined,
-inter alia, by law, contract, the type of processing involved, or the purpose thereof. This view
+*inter alia*, by law, contract, the type of processing involved, or the purpose thereof. This view
 is adopted for all sectors including that of banking and commercial institutions.
 
 That consent may be withdrawn by the data subject has no bearing on the time-bound
@@ -300,11 +284,11 @@ processing of his or her personal data through an overt or explicit act. The oth
 resulting in the same outcome, need not be prompted, triggered or initiated by the data
 subject.
 
-The purging of data from bank processing systems will
+*The purging of data from bank processing systems will
 require significant resources. In lieu of disposing of
 data, can banks instead mask personal data in such a
 way that unmasked data, whether singly or
-collectively, will not lead to identification of clients?
+collectively, will not lead to identification of clients?*
 
 Among the DPA’s general principles on the processing of personal information, are provisions that take up data retention and disposal. In particular, Sections 11(e) and (f) of the law provides that personal data shall be:
 
@@ -312,7 +296,7 @@ Among the DPA’s general principles on the processing of personal information, 
 >
 > f. Kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the data were collected and processed: Provided, That personal information collected for other purposes may be processed for historical, statistical or scientific purposes, and in cases laid down in law may be stored for longer periods: Provided, further, That adequate safeguards are guaranteed by said laws authorizing their processing.
 
-These are complemented by Sections 19(d)(3), (e)(2) and (e)(3) of the IRR, to wit:
+These are complemented by Sections 19(d)(3), (e)(2) and (e)(3) of the IRR, *to wit*:
 
 > 3. Personal data shall be disposed or discarded in a secure manner that would prevent further processing, unauthorized access, or disclosure to any other party or the public, or prejudice the interests of the data subjects.
 >
@@ -333,7 +317,7 @@ pseudonymized).
 Data masking is a type of security measure common in data protection regimes. It is
 sometimes referred to as “the act of replacing sensitive data with their non-sensitive, ‘masked’
 equivalent while maintaining the quality and consistency needed to ensure that the masked
-data is still valuable to operational analysts or software developers.”16 It forms part of the
+data is still valuable to operational analysts or software developers.”[^16] It forms part of the
 broader concept of “pseudonymisation,” which is defined as “the processing of personal data
 in a manner that the personal data can no longer be attributed to a specific data subject without
 the use of additional information, provided that such additional information is kept
@@ -345,13 +329,13 @@ From these, it is clear that data masking is but a tool to protect and secure pe
 certain occasions. It does not provide legal cover for keeping personal data in perpetuity (i.e.,
 even when the purpose of its collection has long been accomplished).
 
-The enumeration of conditions for lawful processing is
+*The enumeration of conditions for lawful processing is
 stated in the alternative; hence, any one of the
 conditions will support processing by banks of
 personal data. This said, please confirm if, in a case
 where processing relates to, or results from, services
 requested by a client from a bank, the consent of the
-data subject is not required.
+data subject is not required.*
 
 Any one of the conditions for lawful processing may support processing by banks of personal
 data. Where only personal information, as opposed to sensitive personal or privileged
@@ -374,15 +358,15 @@ outsourced to the bank, the arrangement will be covered by Rule X of the IRR on 
 and Subcontracting Agreements.” In this case, the responsibility for obtaining consent or
 establishing lawful criteria for processing falls on the corporate client as PIC.
 
-#### Section 34(a), IRR
+Section 34(a), IRR
 
-Clarification is required to inform PICs/PIPs as to the
+*Clarification is required to inform PICs/PIPs as to the
 application of requirements vis-à-vis existing clients
 whose personal information are already held by the
 PICs/PIPs. It may be necessary to provide a
 “grandfathering” clause, which would expressly
 provide that data collected before the enactment date of
-the law is exempt if it is used for the same purposes.
+the law is exempt if it is used for the same purposes.*
 
 [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(a) and (b) of the DPA]], as implemented by [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34(a) of the IRR]], relates to the
 right of a data subject to be informed of the processing of his or her personal data, and the
@@ -393,19 +377,19 @@ practical opportunity.
 Where the personal data of data subjects have already been processed or are being processed
 by a PIC or PIP prior to the enactment of the DPA, the duty to notify the affected data subjects
 arose only when the DPA itself became effective. A “grandfathering clause” is not necessary
-since the law itself allows for notification to be conducted a posteriori or even when data
+since the law itself allows for notification to be conducted *a posteriori* or even when data
 processing is already underway (i.e., at the next practical opportunity).
 
-#### Section 34(c), IRR
+Section 34(c), IRR
 
-The parameters of or limitations to the right to access have
+*The parameters of or limitations to the right to access have
 to be made clear. For instance, in the case of banks, does
 the right apply only in cases of clients with accounts that
 are open and operational (should not apply to closed
-accounts)?
+accounts)?*
 
 A data subject has the right to access specific information relative to the processing of his or
-her personal data. This, inter alia, allows the data subject to determine or verify the lawfulness
+her personal data. This, *inter alia*, allows the data subject to determine or verify the lawfulness
 of the processing being carried out as regards his or her personal data.[^19]
 
 Except for the conditions set out in the DPA and its IRR, there are currently no other
@@ -414,8 +398,8 @@ reasonable access to his or her personal data that are being kept or retained by
 others, this allows the data subject to challenge the reason or basis of the data retention,
 notwithstanding the closure of his or her account.
 
-For consistency, the period for which data is requested
-should be limited to record retention period.
+*For consistency, the period for which data is requested
+should be limited to record retention period.*
 
 Consistent with the view above, the right to access a data subject is entitled to under the DPA
 and its IRR remains while personal data or records relating to him or her are still being
@@ -424,23 +408,23 @@ retention period would defeat the objective of giving the data subject the oppor
 challenge the reason or basis for the processing of his or her personal data should it be kept
 and processed beyond the said retention period.
 
-How often can the data subject access information relative
-to his or her personal data?
+*How often can the data subject access information relative
+to his or her personal data?*
 
 As yet, there are no rules governing the frequency with which a data subject may request
 access to information relating to the processing of his or her personal data. In some jurisdictions, at least, such request may be made at reasonable intervals.[^20] What is considered “reasonable” is reckoned on a case to case basis. Barring any further guidance from the NPC on this matter, PICs or PIPs are accorded the discretion to determine what would constitute a reasonable interval, given the attendant facts of a particular case or request.
 
-Can banks collect a reasonable processing fee should
+*Can banks collect a reasonable processing fee should
 clients require access to information for more than an
 agreed frequency (e.g., once a year), considering the cost
-that may be required to retrieve data?
+that may be required to retrieve data?*
 
 While the DPA is silent as to whether PICs may charge a fee for an access request by a data subject, experience from other jurisdictions[^21] suggests that a reasonable processing fee may be collected to defray the administrative cost of addressing or responding to such a request. This is particularly true, if it will entail the reproduction and release of a significant amount of records or documents, and/or the data subject has made multiple requests involving the same data set.
 
-Regarding a data subject’s right to order the removal or
+*Regarding a data subject’s right to order the removal or
 destruction of his or her personal data, it should be made
 clear how this requirement will be reconciled with the
-legal or regulatory requirements on data retention.
+legal or regulatory requirements on data retention.*
 
 [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(e) of the DPA]], as implemented by Section 34(e) of the IRR, provides for the data
 subject’s right to erasure or blocking upon discovery and substantial proof that his or her
@@ -455,13 +439,13 @@ for the law. Accordingly, a data subject may not be able to insist on the remova
 of his or her personal data in the custody of a PIC, while the latter is obliged to keep or retain
 the same by law or some other legal authority.
 
-#### Section 40, IRR
+Section 40, IRR
 
-The Rule implies that notification of the Commission and
+*The Rule implies that notification of the Commission and
 the data subject need not be simultaneously made; it
 seems that delay in notification vis-a-vis affected data
 subjects may be allowed in certain instances. Please
-confirm for proper guidance.
+confirm for proper guidance.*
 
 Where a personal data breach warrants notification, a PIC or PIP need not simultaneously
 notify the NPC and the affected data subjects. This much is evident in the language of [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-40-delay-of-notification|IRR,
@@ -471,10 +455,10 @@ ongoing criminal investigation involving the breach. Meanwhile, under subsection
 NPC may even authorize the PIC or PIP to dispense altogether with the obligation to notify the affected data subjects, if, in its view, such notification will not be in the interest of the
 public or that of the data subjects themselves.
 
-How will this determination (whether to delay
+*How will this determination (whether to delay
 notification) be made? Will a PIC verbally consult the
 Commission on the need to delay (formal) notice to both
-the Commission and data subject?
+the Commission and data subject?*
 
 It is recommended that the PIC notify NPC within seventy-two (72) hours upon knowledge
 of or reasonable belief that a personal data breach has occurred based on available
@@ -485,7 +469,7 @@ or an exemption from the notification of data subjects.
 
 Section 17(b) of [[issuances/undated/personal-data-breach-management|NPC Circular 16-03]] on breach management contemplates a scenario wherein a PIC has been remiss in its duty to promptly notify the NPC regarding a personal data breach incident. On such occasion, once the PIC belatedly notifies the Commission, the latter will make a determination whether the delay was warranted and/or may be excused. The section provides:
 
-> (b) Delay in Notification. Notification may only be delayed to the extent necessary to determine the scope of the breach, to prevent further disclosures, or to restore reasonable integrity to the information and communications system.
+> *(b) Delay in Notification.* Notification may only be delayed to the extent necessary to determine the scope of the breach, to prevent further disclosures, or to restore reasonable integrity to the information and communications system.
 >
 > The personal information controller need not be absolutely certain of the scope of the breach prior to notification. Its inability to immediately secure or restore integrity to the information and communications system shall not be a ground for any delay in notification, if such delay would be prejudicial to the rights of the data subjects.
 >
@@ -497,16 +481,16 @@ adversely affect the data subject
 
 For additional guidance, Section 20 of NPC Circular 16-03 provides:
 
-> SECTION 20. Failure to Notify. In case the personal information controller fails to notify the Commission or data subjects, or there is unreasonable delay to the notification, the Commission shall determine if such failure or delay is justified. Failure to notify shall be presumed if the Commission does not receive notification from the personal information controller within five (5) days from knowledge of or upon a reasonable belief that a personal data breach occurred.
+> **SECTION 20.** ***Failure to Notify.*** In case the personal information controller fails to notify the Commission or data subjects, or there is unreasonable delay to the notification, the Commission shall determine if such failure or delay is justified. Failure to notify shall be presumed if the Commission does not receive notification from the personal information controller within five (5) days from knowledge of or upon a reasonable belief that a personal data breach occurred.
 
-#### Section 41(b), IRR
+Section 41(b), IRR
 
-Security incidents that should be reported to the
+*Security incidents that should be reported to the
 Commission should be limited to those involving
 personal data. Incidents not involving personal data
 are beyond the scope of the DPA. For Banks, this will
 fall under the jurisdiction of the BSP. Please provide a
-format for the incident and annual report of breaches.
+format for the incident and annual report of breaches.*
 
 [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-41-breach-report|Section 41(b) of the IRR]] provides:
 
@@ -521,13 +505,13 @@ particular industry or sector. As may be gleaned from the foregoing, a security 
 that does not involve personal data must still be properly documented by the concerned
 PIC or PIP through a report containing aggregated data. This report need not be
 submitted to the NPC, unless specifically requested by the latter. What must be
-submitted to the NPC on an annual basis is a general summary of all reports prepared by
+submitted to the NPC on an annual basis is a *general summary* of all reports prepared by
 the PIC or PIP regarding the data breaches and security incidents that occur on any given
 year.
 
-#### Section 46, IRR
+Section 46, IRR
 
-The registration requirement is very onerous. It should be removed as it is not included in the DPA. In this jurisdiction, it is a fundamental legal tenet that in case of a discrepancy between a basic law and a rule or regulation issued to implement it, the basic law prevails.[^22] Rules that go beyond the basic law it seeks to implement are declared null and void.
+*The registration requirement is very onerous. It should be removed as it is not included in the DPA. In this jurisdiction, it is a fundamental legal tenet that in case of a discrepancy between a basic law and a rule or regulation issued to implement it, the basic law prevails.[^22] Rules that go beyond the basic law it seeks to implement are declared null and void.*
 
 [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-46-enforcement-of-the-data-privacy-act|Sections 46]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|47]] of the IRR provide for the requirement to register with the NPC the data processing systems of PICs and PIPs that meet the preset criteria. This mechanism is akin to the “notification of personal data processing systems” requirement currently found in other
 jurisdictions with similar data protection regimes. As in most other cases, the purpose thereof
@@ -538,14 +522,14 @@ processing activities.
 
 As the statutory authority charged with administering and implementing the provisions of the DPA,[^23] the Commission firmly believes that it is well within its mandate to impose a registration system for data processing systems, in line with its critical function of monitoring and ensuring the compliance by PICs and PIPs with the DPA.[^24]
 
-#### Section 47, IRR
+Section 47, IRR
 
-Please confirm that, where a foreign bank has a branch in
+*Please confirm that, where a foreign bank has a branch in
 the Philippines, the registration of data processing systems
 requirement is limited only to the processing systems of
 the Philippine branch, and that only the employees of the
 Philippine branch will be counted in determining whether
-the 250-employee threshold has been reached.
+the 250-employee threshold has been reached.*
 
 As per [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Section 47 of the IRR]], when reconciled with the next preceding provision, only data
 processing systems operating in the Philippines are required to be registered with the NPC,
@@ -567,9 +551,9 @@ or two separate legal entities. In the case of the latter, only the branch’s e
 counted in order determine if the 250-person threshold has been reached. Note the discussion
 above regarding the relationship between a foreign head office and its local branch.
 
-Please confirm if processing by a bank of its employees’ and/or applicants’ personal data is occasional and is not
+*Please confirm if processing by a bank of its employees’ and/or applicants’ personal data is occasional and is not
 likely to pose a risk to the rights and freedoms of data
-subjects.
+subjects.*
 
 For the purpose of data processing system registration, the processing by a bank of its
 employees’ and/or applicants’ personal data is not considered an occasional processing
@@ -581,10 +565,10 @@ personal information, and other information that could be used for identity frau
 processing may likewise pose a risk to the rights and freedoms of data subjects. These are
 general principles, subject to further evaluation, on a case to case basis.
 
-#### Section 68, IRR
+Section 68, IRR
 
-Are covered entities given a 1-year grace period to be fully
-compliant with the Rules?
+*Are covered entities given a 1-year grace period to be fully
+compliant with the Rules?*
 
 The one-year period provided in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-67-period-for-compliance|Section 67 of the IRR]] refers only to the registration of data processing systems, and automated processing operations that are subject to the notification requirement[^25]. The other provisions and/or requirements of the Rules must be complied with as soon as the Rules became effective on 9 September 2016.
 
@@ -592,7 +576,7 @@ For your reference.
 
 Very truly yours,
 
-IVY D. PATDU
+**IVY D. PATDU**
 Officer in Charge
 Deputy Privacy Commissioner
 for Policies and Planning
@@ -603,7 +587,7 @@ for Policies and Planning
 
 [^3]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA 10173, §3(j)]].
 
-[^4]: Id., §3(g).
+[^4]: *Id.*, §3(g).
 
 [^5]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR of RA 10173, §3(m)]].
 
@@ -611,15 +595,15 @@ for Policies and Planning
 
 [^7]: IRR of RA No. 7042 – Foreign Investment Act of 1991, §1(c).
 
-[^8]: PDIC vs. CITIBANK, N.A. and BANK OF AMERICA, S.T. & N.A, G.R. No. 170290, April 11, 2012.
+[^8]: *PDIC vs. CITIBANK, N.A. and BANK OF AMERICA, S.T. & N.A*, G.R. No. 170290, April 11, 2012.
 
 [^9]: [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|RA No. 10173, §6(a)]].
 
 [^10]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|IRR, §5(a) and (d)]].
 
-[^11]: Id., §5, last paragraph.
+[^11]: *Id.*, §5, last paragraph.
 
-[^12]: Id.
+[^12]: *Id.*
 
 [^13]: See: [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|RA 10173, §7]].
 
@@ -627,19 +611,19 @@ for Policies and Planning
 
 [^15]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR, §3(m)]].
 
-[^16]: Kevin Lonergan, Why companies need pseudonymisation and data masking for GDPR compliance, 17 June 2016, http://www.information-age.com/why-companies-need-pseudonymisation-and-data-masking-gdpr-compliance-123461628/
+[^16]: Kevin Lonergan, *Why companies need pseudonymisation and data masking for GDPR compliance*, 17 June 2016, http://www.information-age.com/why-companies-need-pseudonymisation-and-data-masking-gdpr-compliance-123461628/
 
 [^17]: Regulation (EU) 2016/679, §4(5).
 
-[^18]: Id.
+[^18]: *Id.*
 
-[^19]: See: REGULATION (EU) 2016/679, Whereas Clause (63).
+[^19]: *See:* REGULATION (EU) 2016/679, Whereas Clause (63).
 
-[^20]: See: DIRECTIVE 95/46/EC, Article 12(a).
+[^20]: *See:* DIRECTIVE 95/46/EC, Article 12(a).
 
-[^21]: REGULATION (EU) 2016/679, Article 15(3).
+[^21]: *REGULATION (EU) 2016/679*, Article 15(3).
 
-[^22]: See: Commissioner of Internal Revenue v. Bicolandia Drug Corporation (Formerly known as Elmas Drug Co.), G.R. No. 148083, 21 July 2006.
+[^22]: *See: Commissioner of Internal Revenue v. Bicolandia Drug Corporation (Formerly known as Elmas Drug Co.)*, G.R. No. 148083, 21 July 2006.
 
 [^23]: [[laws/data-privacy-act-of-2012#section-4-scope|RA 10173, §4]].
 

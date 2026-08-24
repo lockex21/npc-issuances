@@ -24,11 +24,11 @@ draft: false
 
 ## Text
 
-**5 January 2017**
+5 January 2017
 
-Re: REGISTRATION OF PROCESSING SYSTEM FOR ONLINE BUSINESSES; DELETION OF DATA PROVIDED UNDER [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|SECTION 34(E) OF THE IMPLEMENTING RULES AND REGULATIONS]] (IRR) OF THE DATA PRIVACY ACT (DPA); AND CLARIFICATION ON SECTION 19(E)(2) OF THE IRR IN RELATION TO DELETION OF PERSONAL INFORMATION
+**Re: REGISTRATION OF PROCESSING SYSTEM FOR ONLINE BUSINESSES; DELETION OF DATA PROVIDED UNDER [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|SECTION 34(E) OF THE IMPLEMENTING RULES AND REGULATIONS]] (IRR) OF THE DATA PRIVACY ACT (DPA); AND CLARIFICATION ON SECTION 19(E)(2) OF THE IRR IN RELATION TO DELETION OF PERSONAL INFORMATION**
 
-Dear [Redacted],
+Dear **[Redacted],**
 
 This pertains to your queries received by the National Privacy Commission (NPC) on 7 November 2016, via email. Specifically, your questions pertain to the following:
 
@@ -36,9 +36,7 @@ This pertains to your queries received by the National Privacy Commission (NPC) 
 - any regulations issued by the NPC regarding the retention and deletion of personal data. In particular, you asked "whether the deletion of data as stated in Section 34.e of the Data Privacy Act (sic) pertains to deletion from online site/platform only or should the deletion extend to the systems backup as well"; and
 - "clarification or further explanation on the application of Section 19.e.2 of the Data Privacy Act (sic)" in relation to the deletion of personal information.
 
-### Discussion
-
-#### Requirements, Process and Possible Timeline for Processing of Online Businesses
+*Requirements, Process and Possible Timeline for Processing of Online Businesses*
 
 The DPA and its IRR require the registration of the personal data processing systems of personal information controllers (PICs) or personal information processors (PIPs).[^1] However, PICs or PIPs that employ fewer than two hundred fifty (250) persons are not required to register, unless the following conditions are present:
 
@@ -56,7 +54,7 @@ As regards the period for compliance, [[laws/implementing-rules-and-regulations-
 >
 > For a period of one (1) year from the effectivity of these Rules, a personal information controller or personal information processor may apply for an extension of the period within which to comply with the issuances of the Commission. The Commission may grant such request for good cause shown. (underscoring supplied)
 
-#### Regulations Regarding the Retention and Deletion of Personal Data
+*Regulations Regarding the Retention and Deletion of Personal Data*
 
 As per [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Section 11(e) of the DPA]], personal information shall be "retained only for as long as necessary for the fulfillment of the purposes for which the data was obtained or for the establishment, exercise or defense of legal claims, or for legitimate business purposes, or as provided by law". [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19(d) of the IRR]] echoes this policy and provides:
 
@@ -90,7 +88,7 @@ Based on the foregoing provisions of the law and its IRR, it is apparent that no
 
 The claim forwarded that "portion of the backup cannot be deleted without jeopardizing the system backup" is unsubstantiated, and requires proof. As per the basic legal maxim, he who alleges must prove his case.[^3] In this regard, it has to be adequately proven that deletion of a portion of a backup system will negatively impact such system. Only then can the Commission entertain alternative proposals for compliance with the provisions of the law.
 
-#### Clarification re: application of Section 19(e)(2) of the IRR in relation to the deletion of personal information
+*Clarification re: application of Section 19(e)(2) of the IRR in relation to the deletion of personal information*
 
 [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19(e)(2) of the IRR]] provides:
 
@@ -110,13 +108,13 @@ For your reference.
 
 Sincerely,
 
-JAMAEL A. JACOB
+**JAMAEL A. JACOB**<br>
 Director, Privacy Policy Office
 
 Approved:
 
-IVY D. PATDU
-Deputy Privacy Commissioner,
+**IVY D. PATDU**<br>
+Deputy Privacy Commissioner,<br>
 Policy and Planning
 
 [^1]: *See* [[laws/data-privacy-act-of-2012#section-24-applicability-to-government-contractors|Republic Act No. 10173, § 24]], and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|IRR of RA 10173, § 47]].

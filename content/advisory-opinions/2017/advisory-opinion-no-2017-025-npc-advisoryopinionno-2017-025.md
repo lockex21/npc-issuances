@@ -24,11 +24,9 @@ draft: false
 
 22 June 2017
 
-Re: EMPLOYER’S ACCESS TO EMPLOYEE’S HEALTHCARE SERVICE USAGE
+**Re: EMPLOYER’S ACCESS TO EMPLOYEE’S HEALTHCARE SERVICE USAGE**
 
-Dear [Redacted],
-
-### Discussion
+Dear **[Redacted]**,
 
 This refers to your query which was received by the National Privacy Commission (NPC) on
 13 June 2017. Specifically, your concern is if your company can be provided a detailed
@@ -38,14 +36,14 @@ could put at risk other employees.
 
 Under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), an individual’s health information is classified as sensitive personal information.[^1] This means that as a general rule, health information can only be processed if the data subject or patient consents, or if one of the conditions provided in the DPA is met. [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] provides:
 
-> **Section 13. Sensitive Personal Information and Privileged Information.** – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
+> **Section 13.** *Sensitive Personal Information and Privileged Information.* – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
 > (a) The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing;
 >
 > (b) The processing of the same is provided for by existing laws and regulations: *Provided,* that such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: *Provided, further,* That the consent of the data subjects are not required by law or regulation permitting the processing of the sensitive personal information or the privileged information;
 >
 > (c) The processing is necessary to protect the life and health of the data subject or another person, and the data subject is not legally or physically able to express his or her consent prior to the processing;
-
+>
 > (d) The processing is necessary to achieve the lawful and noncommercial objectives of public organizations and their associations: *Provided,* that such processing is only confined and related to the *bona fide* members of these organizations or their associations: *Provided, further,* That the sensitive personal information are not transferred to third parties: *Provided, finally,* That consent of the data subject was obtained prior to processing;
 >
 > (e) The processing is necessary for purposes of medical treatment, is carried out by a medical practitioner or a medical treatment institution, and an adequate level of protection of personal information is ensured; or
@@ -100,9 +98,9 @@ For your reference.
 
 Sincerely,
 
-IVY D. PATDU
+**IVY D. PATDU**
 Officer-in-Charge and
 Deputy Privacy Commissioner
 Policies and Planning
 
-[^1]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA 10173 §3(l)]]
+[^1]: *[[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA 10173 §3(l)]]*

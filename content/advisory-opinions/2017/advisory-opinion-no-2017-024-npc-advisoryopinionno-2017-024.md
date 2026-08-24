@@ -21,24 +21,22 @@ draft: false
 
 ## Text
 
- 21 June 2017
+21 June 2017
 
-   Re:         RETENTION PERIOD
+**Re: RETENTION PERIOD**
 
-Dear [Redacted],
+Dear **[Redacted]**,
 
 This is with regard to your query received by the National Privacy Commission (NPC) on 6
 June 2017 regarding retention of personal data under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and
 its Implementing Rules and Regulation ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]).
 
-### Discussion
-
 Specifically, you seek to inquire on the duration for which your company can keep the
 following files/information:
 
    a. Job applicant’s personal data after unsuccessful application;
-     b. Employee’s personal data after employee ceased employment; and
-     c. Benefits enrollment information after employee ceased employment.
+   b. Employee’s personal data after employee ceased employment; and
+   c. Benefits enrollment information after employee ceased employment.
 
 The DPA provides that personal data shall only be retained for as long as necessary for the
 fulfillment of the purposes for which the data was obtained or for the establishment, exercise
@@ -46,24 +44,19 @@ or defense of legal claims, or for legitimate business purposes, or as provided 
 
 Further, the IRR expounds on such requirement under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19(d)]], to wit:
 
-   Section 19. General principles in collection, processing and retention. The
-           processing of personal data shall adhere to the following general principles in
-           the collection, processing, and retention of personal data: xxx  xxx     xxx
-
-   d. Personal Data shall not be retained longer than necessary.
-
-1. Retention of personal data shall only for as long as necessary:
-
-   (a) for the fulfillment of the declared, specified, and legitimate purpose, or
-              when the processing relevant to the purpose has been terminated;
-
-   (b) for the establishment, exercise or defense of legal claims; or
-
-   (c) for legitimate business purposes, which must be consistent with standards
-              followed by the applicable industry or approved by appropriate
-              government agency.
-
-2. Retention of personal data shall be allowed in cases provided by law.”
+> Section 19. General principles in collection, processing and retention. The processing of personal data shall adhere to the following general principles in the collection, processing, and retention of personal data: xxx xxx xxx
+>
+> d. Personal Data shall not be retained longer than necessary.
+>
+> 1. Retention of personal data shall only for as long as necessary:
+>
+>    (a) for the fulfillment of the declared, specified, and legitimate purpose, or when the processing relevant to the purpose has been terminated;
+>
+>    (b) for the establishment, exercise or defense of legal claims; or
+>
+>    (c) for legitimate business purposes, which must be consistent with standards followed by the applicable industry or approved by appropriate government agency.
+>
+> 2. Retention of personal data shall be allowed in cases provided by law.”
 
 The IRR further provides that personal data shall not be retained in perpetuity in
 contemplation of a possible future use yet to be determined.[^2]
@@ -90,11 +83,11 @@ policy which provide for retention periods and procedures for disposal of record
 personal data. Factors that may be considered by a company in determining retention periods
 of employment records would include:
 
-   1.   Legal requirements to which the company may be subject to;
-   2.   Applicable prescription periods in existing law (i.e. money claims);
-   3.   Department of Labor and Employment Rules;
-   4.   Bureau of internal revenue regulations for bookkeeping requirements; and
-   5.   Industry standards, and other laws and regulations that apply to the sector.
+1. Legal requirements to which the company may be subject to;
+2. Applicable prescription periods in existing law (i.e. money claims);
+3. Department of Labor and Employment Rules;
+4. Bureau of internal revenue regulations for bookkeeping requirements; and
+5. Industry standards, and other laws and regulations that apply to the sector.
 
 Thus, for as long as your company can determine a legitimate business purpose for the
 retention of the abovementioned personal data, which is consistent with standards followed
@@ -107,7 +100,7 @@ For your reference.[^3]
 
 Sincerely,
 
-IVY D. PATDU
+**IVY D. PATDU**
 Officer in Charge
 Deputy Privacy Commissioner
 for Policies and Planning

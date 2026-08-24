@@ -23,11 +23,11 @@ draft: false
 
 ## Text
 
-**5 January 2017**
+5 January 2017
 
-Re: APPLICABILITY OF THE DATA PRIVACY ACT OF 2012 AND CIRCULARS OF THE NATIONAL PRIVACY COMMISSION TO THE LANDBANK OF THE PHILIPPINES
+**Re: APPLICABILITY OF THE DATA PRIVACY ACT OF 2012 AND CIRCULARS OF THE NATIONAL PRIVACY COMMISSION TO THE LANDBANK OF THE PHILIPPINES**
 
-Dear [Redacted],
+Dear **[Redacted]**,
 
 This pertains to your query received by the National Privacy Commission (NPC) on 2 November 2016, via email, regarding the applicability of Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations (IRR), and administrative circulars issued by the NPC, to the Landbank of the Philippines (LBP), in light of [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5(e) of the IRR]] of the DPA, which states:
 
@@ -36,8 +36,6 @@ This pertains to your query received by the National Privacy Commission (NPC) on
 > xxx
 >
 > e. Information necessary for banks, other financial institutions under the jurisdiction of the independent, central monetary authority or Bangko Sentral ng Pilipinas, and other bodies authorized by law, to the extent necessary to comply with Republic Act No. 9510 (CISA), Republic Act No. 9160, as amended, otherwise known as the Anti-Money Laundering Act, and other applicable laws;" (underscoring supplied)
-
-### Discussion
 
 We confirm that banks and other financial institutions are covered by the DPA, its IRR, and all issuances by the NPC. [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] provides that the law applies to the processing of all types of personal data and to any natural and juridical person involved in personal data processing. No distinction is made between those who form part of the government sector or the private sector. This policy is further reiterated in the law's IRR.[^1]
 
@@ -49,13 +47,13 @@ For your reference.
 
 Sincerely,
 
-JAMAEL A. JACOB
+**JAMAEL A. JACOB**<br>
 Director, Privacy Policy Office
 
 Approved:
 
-IVY D. PATDU
-Deputy Privacy Commissioner,
+**IVY D. PATDU**<br>
+Deputy Privacy Commissioner,<br>
 Policy and Planning
 
 [^1]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|IRR of RA 10173, § 4]].

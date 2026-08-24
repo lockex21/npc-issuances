@@ -22,17 +22,15 @@ draft: false
 
 ## Text
 
-**03 October 2017**
+03 October 2017
 
-Re: Consent in Customer Service Hotline
+**Re: CONSENT IN CUSTOMER SERVICE HOTLINE**
 
 Dear [Redacted],
 
-This pertains to your query received by the National Privacy Commission (NPC) on 11 August 2017 regarding consent of the data subject. Specifically, you are asking on consent given by a customer calling a service hotline, where it is proposed that a service hotline provider will state the following: "by calling us and having us update your information, this means that you are agreeing to our privacy policy which can be found in <>."
+This pertains to your query received by the National Privacy Commission (NPC) on 11 August 2017 regarding consent of the data subject. Specifically, you are asking on consent given by a customer calling a service hotline, where it is proposed that a service hotline provider will state the following: *"by calling us and having us update your information, this means that you are agreeing to our privacy policy which can be found in <>."*
 
-### Discussion
-
-#### Consent
+*Consent*
 
 Under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the Data Privacy Act of 2012]] (DPA), and Section 3(d) of its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), consent is defined as follows:
 
@@ -42,7 +40,7 @@ From the definition provided above, it is clear that consent must be evidenced b
 
 In line with the foregoing discussion, implied, implicit or negative consent is not recognized under the law.
 
-#### Privacy Policy/Privacy Notice
+*Privacy Policy/Privacy Notice*
 
 To clarify, a privacy notice is a "statement made to a data subject that describes how the organization collects, uses, retains and discloses personal information. A privacy notice is sometimes referred to as a privacy statement, a fair processing statement or sometimes a privacy policy."[^4] Note that a privacy notice or privacy policy is not equivalent to consent. This would suffice if the processing being done are those where consent is not necessary.
 
@@ -60,6 +58,6 @@ Very truly yours,
 Privacy Commissioner and Chairman
 
 [^1]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of DPA of 2012, §3(d).
-[^2]: Id.
-[^3]: Id.
+[^2]: *Id.*
+[^3]: *Id.*
 [^4]: IAPP Resource Center; https://iapp.org/resources/glossary/#paperwork-reduction-act-2

@@ -23,17 +23,15 @@ draft: false
 
 14 August 2017
 
-Re: FREEDOM OF INFORMATION (FOI) REQUEST
+**Re: FREEDOM OF INFORMATION (FOI) REQUEST**
 
-Dear [Redacted],
+Dear **[Redacted]**,
 
 This is with regard to your request for opinion received by the National Privacy Commission (NPC) on 28 July 2017 regarding a Freedom of Information (FOI) request filed with the Philippine Contractors Accreditation Board (PCAB).
 
 We understand that the FOI request was filed requesting for information submitted by Guangxi Hydro Electric Bureau to the PCAB. Said request was denied by the PCAB as the information falls under the FOI list of exceptions, and that the denial is currently under appeal.
 
-### Discussion
-
-To clarify, the NPC is mandated to implement the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA). The DPA's scope is limited to the processing of all types of personal information and to any natural and juridical person involved in personal information processing in the Philippines, and even outside the country in certain instances.[^1]
+To clarify, the NPC is mandated to implement the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA). The DPA's scope is limited to the processing of all types of **personal information** and to any natural and juridical person involved in personal information processing in the Philippines, and even outside the country in certain instances.[^1]
 
 Hence, corporate data or information of juridical entities, is outside of the scope of the DPA. The subject of the FOI request pertains to documents submitted by certain corporations to the PCAB, namely:
 
@@ -46,9 +44,9 @@ Hence, corporate data or information of juridical entities, is outside of the sc
 
 Furthermore, to the extent that personal data may be included in the FOI request, the Data Privacy Act considers particular information outside its scope. This includes:
 
-(b) Information about an individual who is or was performing service under contract for a government institution that relates to the services performed, including the terms of the contract, and the name of the individual given in the course of the performance of those services;
+> (b) Information about an individual who is or was performing service under contract for a government institution that relates to the services performed, including the terms of the contract, and the name of the individual given in the course of the performance of those services;
 
-(c) Information relating to any discretionary benefit of a financial nature such as the granting of a license or permit given by the government to an individual, including the name of the individual and the exact nature of the benefit;
+> (c) Information relating to any discretionary benefit of a financial nature such as the granting of a license or permit given by the government to an individual, including the name of the individual and the exact nature of the benefit;
 
 To the extent that any personal data included in the FOI request pertains to information provided in the preceding paragraphs, the Data Privacy Act will not apply.
 
@@ -60,7 +58,7 @@ For your reference.
 
 Very truly yours,
 
-RAYMUND ENRIQUEZ LIBORO
+**RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: See: [[laws/data-privacy-act-of-2012#section-4-scope|RA No. 10173, §4]] and [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|6]]

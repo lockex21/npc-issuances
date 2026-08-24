@@ -22,11 +22,11 @@ aliases:
 
 ## Text
 
-**20 November 2018**
+20 November 2018
 
-Re: PROCESSING OF ANONYMIZED PERSONAL DATA BY ELECTRONIC MEDICAL RECORDS PROVIDER
+**Re: PROCESSING OF ANONYMIZED PERSONAL DATA BY ELECTRONIC MEDICAL RECORDS PROVIDER**
 
-Dear [Redacted],
+**Dear [Redacted],**
 
 We write in response to your request for an advisory opinion which sought clarification on whether consent is required for processing of anonymized data through an electronic medical records system for research purposes.
 
@@ -34,9 +34,7 @@ You mentioned in your inquiry that a certain Electronic Medical Records (EMR) pr
 
 The privacy notice of the EMR provider posted on their website likewise states that it will collect medical information derived from the practice including the symptoms, test results, diagnoses, prescriptions and treatments. Moreover, the EMR provider intends to anonymize the personal data stored in their system and use it for research purposes.
 
-### Discussion
-
-#### Scope of the Data Privacy Act of 2012
+*Scope of the Data Privacy Act of 2012*
 
 The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) applies to the processing of any type of personal data by any natural and juridical person involved in the processing of personal data.
 
@@ -44,7 +42,7 @@ Processing involves a wide set of operations performed upon personal data, inclu
 
 The subject of the processing activities performed by the EMR provider covers both personal information and most importantly, sensitive personal information[^3] since it includes the health information of the patient. With this, a higher degree of protection and security is required from personal information controllers (PIC) and personal information processors (PIP). They need to satisfy any of the conditions provided for in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] to be able to lawfully process sensitive personal information.
 
-#### Anonymization of Personal Data
+*Anonymization of personal data*
 
 Information is anonymous when such information “does not relate to an identified or identifiable natural person or to personal data rendered anonymous in such a manner that the data subject is not or no longer identifiable.”[^4]
 
@@ -54,7 +52,7 @@ Any information is considered anonymized if there is no possible means to identi
 
 However, removing some identifiers, such as patient and physician names, contact information, and location, may not be enough to ensure that the PIC and/or any other person can no longer identify the data subject. Anonymization may necessitate additional measures to guarantee that the anonymity of the information is irreversible.
 
-#### Electronic Medical Records Systems Provider; Legitimate Purpose; Anonymization Process; Use of Information for Medical Research Purpose
+*Electronic Medical Records Systems Provider; Legitimate Purpose; Anonymization Process; Use of Information for Medical Research Purpose*
 
 We understand that healthcare providers, as PICs, may subcontract the processing of their medical records to EMR providers. Generally, the EMR provider processes personal data, including medical information of patients and retains it in the system. As PIPs, the EMR providers’ role is to process personal data based only on the instructions and purposes of the healthcare providers.
 
@@ -76,18 +74,18 @@ For your reference.
 
 Very truly yours,
 
-(Sgd.) IVY GRACE T. VILLASOTO
+**(Sgd.) IVY GRACE T. VILLASOTO**
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-(Sgd.) RAYMUND ENRIQUEZ LIBORO
+**(Sgd.) RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information In Information And Communications Systems In The Government And The Private Sector, Creating For This Purpose A National Privacy Commission, And For Other Purposes [Data Privacy Act of 2012] [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
-[^2]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (j)]].
+[^2]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (j)]].
 [^3]: Data Privacy Act, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (l)]].
 [^4]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) 2016 O.J. (L 119), Recital 26.
 [^5]: ISO/IEC 29100:2011(en), Information technology — Security techniques — Privacy framework, available at https://www.iso.org/obp/ui/#iso:std:iso-iec:29100:ed-1:v1:en
 [^6]: Article 29 Data Protection Working Party, Opinion 05/2014 on Anonymisation Techniques, 10 April 2014, §2.1 – Definition in the EU legal context
-[^7]: Id.
+[^7]: *Id.*

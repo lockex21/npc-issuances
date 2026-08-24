@@ -24,9 +24,9 @@ draft: false
 
 ## Text
 
-**16 November 2017**
+16 November 2017
 
-Re: COMPLIANCE OBLIGATIONS OF BROKERS AND DEALERS UNDER THE [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT OF 2012]]
+**Re: COMPLIANCE OBLIGATIONS OF BROKERS AND DEALERS UNDER THE [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT OF 2012]]**
 
 Dear [Redacted],
 
@@ -36,9 +36,7 @@ You have enumerated several provisions of the 2015 Securities Regulation Code (S
 
 You likewise stated that in view of the said requirements, the most prudent course of action is securing your clients' consent, and you seek advise on how specific the statement of the purpose should be when obtaining consent.
 
-### Discussion
-
-#### Scope of the DPA
+*Scope of the DPA*
 
 The [[laws/data-privacy-act-of-2012|DPA]] has the twin task of protecting the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth.[^1] There is no absolute prohibition in the processing of personal and sensitive personal information as the law provides for certain criteria for lawful processing. The general rule is that processing should adhere to the principles of transparency, legitimate purpose and proportionality.[^2]
 
@@ -52,7 +50,7 @@ But while the said information is included in the exceptions to the law, the sam
 
 Thus, when brokers submit the personal and sensitive personal information to the SEC in compliance with the SRC IRR, the SEC, as the personal information controller, is mandated to comply with the provisions of the DPA, its IRR, and related issuances of the Commission.
 
-#### Lawful Processing of Personal and Sensitive Personal Information Vis-à-vis Consent
+*Lawful Processing of Personal and Sensitive Personal Information Vis-à-vis Consent*
 
 Under the [[laws/data-privacy-act-of-2012|DPA]], the processing of personal information is only allowed when it complies with the requirements of the Act and other laws that allow the disclosure of information to the public, and when it adheres to the principles of transparency, legitimate purpose and proportionality.[^7]
 
@@ -60,21 +58,21 @@ Under the [[laws/data-privacy-act-of-2012|DPA]], the processing of personal info
 
 > SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
-> (a) The data subject has given his or her consent;
-> (b) The processing of personal information is necessary and is related to the fulfillment of a contract with the data subject or in order to take steps at the request of the data subject prior to entering into a contract;
-> (c) The processing is necessary for compliance with a legal obligation to which the personal information controller is subject;
-> (d) The processing is necessary to protect vitally important interests of the data subject, including life and health;
-> (e) The processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate; or
-> (f) The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
+> &emsp;(a) The data subject has given his or her consent;<br>
+> &emsp;(b) The processing of personal information is necessary and is related to the fulfillment of a contract with the data subject or in order to take steps at the request of the data subject prior to entering into a contract;<br>
+> &emsp;(c) The processing is necessary for compliance with a legal obligation to which the personal information controller is subject;<br>
+> &emsp;(d) The processing is necessary to protect vitally important interests of the data subject, including life and health;<br>
+> &emsp;(e) The processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate; or<br>
+> &emsp;(f) The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
 >
-> SECTION 13. Sensitive Personal Information and Privileged Information. — The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
+> SECTION 13. *Sensitive Personal Information and Privileged Information.* — The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
-> (a) The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing;
-> (b) The processing of the same is provided for by existing laws and regulations: *Provided*, That such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: *Provided, further*, That the consent of the data subjects are not required by law or regulation permitting the processing of the sensitive personal information or the privileged information;
-> (c) The processing is necessary to protect the life and health of the data subject or another person, and the data subject is not legally or physically able to express his or her consent prior to the processing;
-> (d) The processing is necessary to achieve the lawful and noncommercial objectives of public organizations and their associations: *Provided*, That such processing is only confined and related to the *bona fide* members of these organizations or their associations: *Provided, further*, That the sensitive personal information are not transferred to third parties: *Provided, finally*, That consent of the data subject was obtained prior to processing;
-> (e) The processing is necessary for purposes of medical treatment, is carried out by a medical practitioner or a medical treatment institution, and an adequate level of protection of personal information is ensured; or
-> (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
+> &emsp;(a) The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing;<br>
+> &emsp;(b) The processing of the same is provided for by existing laws and regulations: *Provided*, That such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: *Provided, further*, That the consent of the data subjects are not required by law or regulation permitting the processing of the sensitive personal information or the privileged information;<br>
+> &emsp;(c) The processing is necessary to protect the life and health of the data subject or another person, and the data subject is not legally or physically able to express his or her consent prior to the processing;<br>
+> &emsp;(d) The processing is necessary to achieve the lawful and noncommercial objectives of public organizations and their associations: *Provided*, That such processing is only confined and related to the *bona fide* members of these organizations or their associations: *Provided, further*, That the sensitive personal information are not transferred to third parties: *Provided, finally*, That consent of the data subject was obtained prior to processing;<br>
+> &emsp;(e) The processing is necessary for purposes of medical treatment, is carried out by a medical practitioner or a medical treatment institution, and an adequate level of protection of personal information is ensured; or<br>
+> &emsp;(f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 > (Underscoring supplied)
 
 From the foregoing, lawful processing is not always anchored on the presence of consent as there are other criteria which may be invoked by the personal information controller.
@@ -91,7 +89,7 @@ For your reference.
 
 Very truly yours,
 
-(Sgd). RAYMUND ENRIQUEZ LIBORO
+**(Sgd). RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|RA No. 10173, §2]]

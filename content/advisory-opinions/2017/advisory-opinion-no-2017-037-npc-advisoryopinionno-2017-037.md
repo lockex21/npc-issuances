@@ -26,13 +26,11 @@ draft: false
 
 27 July 2017
 
-Re: QUERIES ON [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT OF 2012]]
+**Re: QUERIES ON [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT OF 2012]]**
 
-Dear [Redacted],
+Dear **[Redacted]**,
 
 This pertains to your query received by the National Privacy Commission (NPC) on 05 April 2017, via email, regarding Republic Act No. 10173, otherwise known as the Data Privacy Act of 2012 (DPA), particularly on the designation of a data protection officer (DPO) and the registration of data processing systems.
-
-### Discussion
 
 We confirm that as a general rule, the designation of a DPO is mandatory for all personal information controllers (PICs) and personal information processors (PIPs).[^1] In certain instances[^2], the PIC or PIP may designate a Compliance Officer for Privacy (COP).[^3]
 
@@ -50,7 +48,7 @@ The form you have on hand is part of the Phase One of the Registration of Data P
 
 The appointment or designation of the DPO or COP of those PICs or PIPs who are not required to register their data processing system/s need not formally file any designation document with the NPC. The DPA and its IRR did not specify the need to formally inform or register with the NPC of the designation or appointment of DPO/COP of each PIC or PIP.
 
-#### Scenario 1
+*Scenario 1*
 
 Company A (which employs less than 250 employees and does not process sensitive personal information of at least 1,000 individuals) has organic employees with access to Company B's system like Company B's system application and products and data processing (SAP), which contains sensitive personal information of more than 1,000 individuals. Is Company A required to register?
 
@@ -60,7 +58,7 @@ Where Company A's employees have access to the data processing system of Company
 
 Similarly, if Company A's employees' access to the data processing system of Company B is pursuant to instructions of Company B, in order for the former to use the said system and process the personal data as instructed by the latter, we believe that Company A is also required to register as it processes sensitive personal information of more than 1,000 individuals. In this case, there is an outsourcing or subcontracting agreement between Company B as the PIC and Company A as the PIP.
 
-#### Scenario 2
+*Scenario 2*
 
 Company C (which employs less than 250 employees and does not process sensitive personal information of at least 1,000 individuals) contracted Company D to perform all of Company C's finance and accounting functions. Company D (which processes sensitive personal information of at least 1,000 individuals) uses SAP system. Meaning, Company C's Finance and Accounting function is shared with Company D, although said shared personnel uses Company C's SAP system for Company C transactions and Company D SAP system for Company D transactions. Is company C required to register its data processing systems?
 
@@ -76,8 +74,8 @@ For your reference.
 
 Sincerely,
 
-RAYMUND E. LIBRO
-Privacy Commissioner and Chairman
+**RAYMUND E. LIBRO**
+*Privacy Commissioner and Chairman*
 
 [^1]: See [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|RA No. 10173, §21(h)]] and [[laws/data-privacy-act-of-2012#section-14-subcontract-of-personal-information|14]]; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-26-organizational-security-measures|Implementing Rules and Regulations (IRR) of RA No. 10173, §26(a)]]
 [^2]: In certain cases, a PIC or PIP is allowed to designate a compliance officer for privacy (COP):

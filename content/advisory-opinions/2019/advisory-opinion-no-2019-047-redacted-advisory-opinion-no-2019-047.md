@@ -26,9 +26,9 @@ draft: false
 
 25 November 2019
 
-Re: REQUEST FOR DOCUMENTS FROM PHILHEALTH IN RELATION TO A PENDING COMPLAINT AGAINST A PRIVATE CORPORATION
+**Re: REQUEST FOR DOCUMENTS FROM PHILHEALTH IN RELATION TO A PENDING COMPLAINT AGAINST A PRIVATE CORPORATION**
 
-Dear [Redacted],
+Dear **[Redacted],**
 
 We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC) in relation to the request for copies of documents received by the Philippine Health Insurance Corporation (Philhealth) from a private lawyer pertaining to a complaint filed by his clients against the owners of WellMed Dialysis and Laboratory Center (WellMed) for allegedly filing benefit claims of deceased patients. The private lawyer is representing the former employees of WellMed who acted as whistleblowers against the said company.
 
@@ -36,9 +36,7 @@ You further disclosed in your letter that the requested documents consist of dis
 
 You now seek clarification on whether Philhealth may grant the lawyer's request to provide copies of the documents containing sensitive personal information.
 
-### Discussion
-
-#### Processing of Sensitive Personal Information; Exercise or Defense of Legal Claims
+*Processing of sensitive personal information; exercise or defense of legal claims*
 
 The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) considers information about an individual's health as sensitive personal information.[^2] The processing thereof is prohibited, except if the processing is in accordance with any of the criteria provided under Section 13 of the law. In particular, the processing of sensitive personal information is allowed if it is necessary for the protection of lawful rights and interest of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.[^3]
 
@@ -48,7 +46,7 @@ In the current matter, the filing of the complaint against WellMed by its former
 
 In view of the foregoing and considering that a complaint was already filed against WellMed, Philhealth may grant the private lawyer's request for the documents containing sensitive personal information. We note, however, that the disclosure of the requested information by Philhealth to the private lawyer must still adhere to the general data privacy principles of transparency, legitimate purpose and proportionality.
 
-#### Adherence to the Data Privacy Principles; Rights of the Data Subjects
+*Adherence to the data privacy principles; rights of the data subjects*
 
 It is worth noting that, although there is lawful basis for the processing of sensitive personal information, the processing is not exempted from the other data protection requirements of the DPA. Sensitive personal information must be processed for a specified and legitimate purpose. In addition, the processing should be limited only to what is necessary in achieving the said purpose. To be considered as necessary, the personal data processed should not be excessive as to the purpose thereof.
 
@@ -64,12 +62,12 @@ For your reference.
 
 Very truly yours,
 
-(Sgd.) IVY GRACE T. VILLASOTO
+**(Sgd.) IVY GRACE T. VILLASOTO**
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-(Sgd.) RAYMUND ENRIQUEZ LIBORO
+**(Sgd.) RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission and other Purposes [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012]], Republic Act No. 10173, § 3 (l)(2) (2012).

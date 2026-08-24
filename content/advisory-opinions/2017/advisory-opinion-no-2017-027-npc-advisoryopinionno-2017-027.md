@@ -23,11 +23,9 @@ draft: false
 
 23 June 2017
 
-Re: ANONYMIZED DATA FOR MARKETING ANALYTICS
+**Re: ANONYMIZED DATA FOR MARKETING ANALYTICS**
 
-Dear [Redacted],
-
-### Discussion
+Dear **[Redacted]**,
 
 This pertains to your query received by the National Privacy Commission (NPC) on 12 May 2017, via AskPriva. You inquired if anonymized statistical data collected through a software for marketing analytics will fall within the scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA) of 2012.
 
@@ -69,7 +67,7 @@ For your reference.[^8]
 
 Very truly yours,
 
-IVY D. PATDU
+**IVY D. PATDU**
 Officer-in-Charge
 Deputy Privacy Commissioner for Policies
 

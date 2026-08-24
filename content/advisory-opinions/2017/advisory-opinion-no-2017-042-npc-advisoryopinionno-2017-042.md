@@ -24,13 +24,11 @@ draft: false
 
 14 August 2017
 
-Re: REQUEST FOR ADVISORY OPINION ON THE VALIDITY OF AN IMPLIED FORM OF CONSENT
+**Re: REQUEST FOR ADVISORY OPINION ON THE VALIDITY OF<br>AN IMPLIED FORM OF CONSENT**
 
-Dear [Redacted],
+Dear **[Redacted]**,
 
 This pertains to your request for advisory opinion dated 20 July 2017, which sought to clarify whether an implied consent is considered valid under [[laws/data-privacy-act-of-2012|Republic Act No. 10173]][^1], also known as the Data Privacy Act of 2012 (DPA).
-
-### Discussion
 
 Both the DPA (Section 3(b)) and the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] of the DPA (Section 3(c)) define consent of the data subject as:
 
@@ -38,7 +36,7 @@ Both the DPA (Section 3(b)) and the [[laws/implementing-rules-and-regulations-of
 
 Based on the provision above, it is evident that the consent contemplated by the law is an express consent wherein the data subject voluntarily assents to the collection and processing of personal information, rather than an implied or inferred consent resulting from the data subject's inaction or continued use or availment of services offered by a particular entity. In your letter-request, you mentioned and cited a privacy policy/notice which states:
 
-> "By continuing to avail of XXX XXX XXX products and services:
+> **"By continuing to avail of XXX XXX XXX products and services:**
 >
 > - You explicitly authorize XXX XXX XXX, its employees, duly authorized representatives, related companies and third-party service providers, to use, process and share Personal Data needed in the administration of your XXX XXX XXX;
 > - You consent to XXX XXX XXX using your contact details, demographic information and accounting details to contact you with marketing or promotional information regarding financial products and studies/surveys to be conducted by XXX XXX XXX via phone calls, mail, email, SMS or any type of electronic facility; and,
@@ -66,7 +64,7 @@ Considering that the approval of the data subject is implied, there lacks any ev
 
 We likewise refer to Recital 32 of the REGULATION (EU) 2016/679 or the General Data Protection Regulation (GDPR) for additional guidance on consent:
 
-> "Consent should be given by a clear affirmative act establishing a freely given, specific, informed and unambiguous indication of the data subject's agreement to the processing of personal data relating to him or her, such as by a written statement, including by electronic means, or an oral statement. This could include ticking a box when visiting an internet website, choosing technical settings for information society services or another statement or conduct which clearly indicates in this context the data subject's acceptance of the proposed processing of his or her personal data. **Silence, pre-ticked boxes or inactivity should not therefore constitute consent.** Consent should cover all processing activities carried out for the same purpose or purposes. When the processing has multiple purposes, consent should be given for all of them. If the data subject's consent is to be given following a request by electronic means, the request must be clear, concise and not unnecessarily disruptive to the use of the service for which it is provided."
+> "Consent should be given by a clear affirmative act establishing a freely given, specific, informed and unambiguous indication of the data subject's agreement to the processing of personal data relating to him or her, such as by a written statement, including by electronic means, or an oral statement. This could include ticking a box when visiting an internet website, choosing technical settings for information society services or another statement or conduct which clearly indicates in this context the data subject's acceptance of the proposed processing of his or her personal data. **Silence, pre-ticked boxes or inactivity should not therefore constitute consent. Consent should cover all processing activities carried out for the same purpose or purposes. When the processing has multiple purposes, consent should be given for all of them.** If the data subject's consent is to be given following a request by electronic means, the request must be clear, concise and not unnecessarily disruptive to the use of the service for which it is provided."
 
 As to your proposed approach in securing consent from your existing and future/new subscribers, the NPC deems the proposed time or period when consent will be secured for both the PostPaid and Prepaid subscribers to be in line with the principles laid down by the law and the IRR – prior to the collection or as soon as practicable and reasonable.[^2]
 
@@ -80,8 +78,8 @@ For your reference.
 
 Very truly yours,
 
-RAYMUND ENRIQUEZ LIBORO
-Privacy Commissioner and Chairman
+**RAYMUND ENRIQUEZ LIBORO**
+*Privacy Commissioner and Chairman*
 
 [^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, "Data Privacy Act of 2012" (15 August 2012).
 [^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-21-criteria-for-lawful-processing-of-personal-information|Implementing Rules and Regulations of the Data Privacy Act, §21(a)]].

@@ -24,15 +24,13 @@ draft: false
 
 28 June 2017
 
-Re: CLARIFICATIONS ON THE INTERPRETATION OF THE DATA PRIVACY ACT OF 2012
+**Re: CLARIFICATIONS ON THE INTERPRETATION OF THE<br>DATA PRIVACY ACT OF 2012**
 
-Dear [Redacted],
-
-### Discussion
+Dear **[Redacted]**,
 
 This is with regard to your queries received by the National Privacy Commission (NPC) on 4 May 2017 with regard to clarifications of certain issues raised during the Data Privacy Act awareness session conducted on 3 May 2017.
 
-#### Use of a Database of Personal Data
+*Use of a Database of Personal Data*
 
 We understand that there may be instances where certain databases of personal data, i.e. list of members of business chambers and their personal contact details, may be acquired or purchased by the bank in good faith from another entity, and thereafter, the bank uses these database for marketing purposes. Later on, the bank discovers that the list came from an unlawful activity, i.e. intentional breach, etc. You would like to clarify the extent of liability of the bank in the said case.
 
@@ -44,7 +42,7 @@ In the scenario given, we believe that the bank should always ensure that the pr
 
 Thus, where a bank has reasonable knowledge that a database of personal data it uses for marketing is the fruit of an unlawful activity, we believe that the bank should discontinue from processing such personal data as the same may be construed as unauthorized processing which is punishable under [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 of the DPA]].
 
-#### Information Available in the Public Domain
+*Information Available in the Public Domain*
 
 You request for guidance on whether consent is required from the data subject to use his or her personal data for marketing purposes when such personal data is available in the public domain, i.e. telephone directory, Facebook, etc.
 
@@ -60,7 +58,7 @@ We believe that consent may still be required from the data subject where his or
 
 We reiterate the definition of consent as "any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so."[^4]
 
-#### Automated Processing/Decision-Making and the Notification Requirement
+*Automated Processing/Decision-Making and the Notification Requirement*
 
 [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-48-notification-of-automated-processing-operations|Section 48 of the IRR]] provides for the notification requirement where a personal information controller is engaged wholly or partly in automated processing, and such processing becomes the sole basis for making decisions which would significantly affect a data subject.
 
@@ -86,7 +84,7 @@ For your reference.
 
 Very truly yours,
 
-RAYMUND ENRIQUEZ LIBORO
+**RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|RA No. 10173, §11]]; [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Implementing Rules and Regulations (IRR), §18]]

@@ -22,9 +22,9 @@ draft: false
 
 ## Text
 
-**03 October 2017**
+03 October 2017
 
-Re: Compliance with the National Privacy Commission Requirements
+**Re: COMPLIANCE WITH THE NATIONAL PRIVACY COMMISSION REQUIREMENTS**
 
 Dear [Redacted],
 
@@ -36,19 +36,17 @@ This refers to your query which was received by the National Privacy Commission 
 
 3. Can the Legal Department provide alternative means instead of a) providing personal information collection statements to employees and clients, and b) drafting data sharing agreements and non-disclosure agreements?
 
-### Discussion
-
-#### Registration of Data Processing Systems
+*Registration of Data Processing Systems*
 
 [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-47-registration-of-personal-data-processing-systems|Section 47 of the Implementing Rules and Regulations]] (IRR) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) in relation to Section 5 of [[issuances/undated/registration-of-data-processing-systems|NPC Circular No. 17-01]] requires the registration of the data processing systems of personal information controllers (PICs) and personal information processors (PIPs) under the following conditions:
 
-A. the PIC or PIP employs at least two hundred fifty (250) employees;
+&emsp;&emsp;A. the PIC or PIP employs at least two hundred fifty (250) employees;
 
-B. the processing includes sensitive personal information of at least one thousand (1,000) individuals;
+&emsp;&emsp;B. the processing includes sensitive personal information of at least one thousand (1,000) individuals;
 
-C. the processing is likely to pose a risk to the rights and freedoms of data subjects.
+&emsp;&emsp;C. the processing is likely to pose a risk to the rights and freedoms of data subjects.
 
-D. the processing is not occasional: Provided, that processing shall be considered occasional if it is only incidental to the mandate or function of the PIC or PIP, or, it only occurs under specific circumstances and is not regularly performed. Processing that constitutes a core activity of a PIC or PIP, or is integral thereto, will not be considered occasional
+&emsp;&emsp;D. the processing is not occasional: *Provided*, that processing shall be considered occasional if it is only incidental to the mandate or function of the PIC or PIP, or, it only occurs under specific circumstances and is not regularly performed. Processing that constitutes a core activity of a PIC or PIP, or is integral thereto, will not be considered occasional
 
 The registration process is in two (2) phases. Phase 1 requires the information on the designation of the PIC's Data Protection Officer (DPO) through an application form and supporting documents:
 
@@ -61,15 +59,18 @@ B. For private entities:
 
   1. duly-notarized Secretary's Certificate authorizing the appointment or designation of DPO, or any other document that demonstrates the validity of the appointment or designation.
   2. certified true copy of the following documents, where applicable:
-     - **A.** General Information Sheet or any similar document;
-     - **B.** Certificate of Registration (SEC Certificate, DTI Certification of Business Name or Sole Proprietorship) or any similar document; and/or
-     - **C.** Franchise, license to operate, or any similar document.
+
+     a. General Information Sheet or any similar document;
+
+     b. Certificate of Registration (SEC Certificate, DTI Certification of Business Name or Sole Proprietorship) or any similar document; and/or
+
+     c. Franchise, license to operate, or any similar document.
 
 Currently, registration requires manual submission of the hard copy application form to NPC at Core G, 3/F GSIS Headquarters, Financial Center, Pasay City. The deadline is on 9 September 2017.
 
 Phase 2 shall be through an online registration platform, whereby the details of the data processing system or systems shall be required, among others. The deadline for Phase 2 is on 8 March 2018.
 
-#### Lawful Processing of Personal Data - Disclosure
+*Lawful Processing of Personal Data - Disclosure*
 
 According to the [[laws/data-privacy-act-of-2012|DPA]], the term "processing" refers any operation performed upon the personal data including, but not limited to, collection, access, disclosure of data.[^1]
 
@@ -79,18 +80,18 @@ The processing of health data, which is sensitive personal information, of a for
 - The processing, use is done as mandated by existing laws and regulations;
 - The processing is necessary to protect the life and health of the patient or another, and the owner of the cellular phone is not legally or physical able to express his or her consent prior to the processing;
 - The processing is necessary to achieve lawful and noncommercial objectives of public organizations and associations;
-- The processing is necessary for the purpose of medical treatment: Provided, that it is carried out by a medical practitioner or a medical treatment institution, and an adequate level of protection of personal data is ensured; and
+- The processing is necessary for the purpose of medical treatment: *Provided*, that it is carried out by a medical practitioner or a medical treatment institution, and an adequate level of protection of personal data is ensured; and
 - The processing concerns sensitive personal information or privileged information necessary for the protection of lawful rights and interest of natural or legal personal in court proceedings, or the establishment, exercise, or defense of legal claims, or when provided to government or public authority pursuant to a constitutional or statutory mandate.
 
 Thus, the HRD should consider the foregoing prior to disclosing any health information of the former employee.
 
 Further, in consideration of the rights of the data subject under the [[laws/data-privacy-act-of-2012|DPA]], the former employee should be informed of the extent of disclosure of his or her health information.[^3] The disclosure of any information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.[^4]
 
-#### Mandate of Tourism Information Enterprise Zone Authority (TIEZA)
+*Mandate of Tourism Information Enterprise Zone Authority (TIEZA)*
 
 Based on the limited information, any alternatives to privacy notices, data sharing agreements and non-disclosure agreements, would have to be evaluated based on the nature of processing concerned, what data is involved and the purpose of processing. The PIC may forego obtaining consent in the processing of personal data, only if there is a constitutional or statutory basis for the processing where consent is not required. This may require documenting the basis of the processing in relation to the mandate of the agency and any other existing law or regulation.
 
-#### Data Sharing Agreement and Non-Disclosure Agreement
+*Data Sharing Agreement and Non-Disclosure Agreement*
 
 With regard to the data sharing agreements (DSAs) and non-disclosure agreements (NDAs), DSAs are required when there is sharing of personal data between government agencies for the purpose of a public function or provision of a public service.[^5]
 

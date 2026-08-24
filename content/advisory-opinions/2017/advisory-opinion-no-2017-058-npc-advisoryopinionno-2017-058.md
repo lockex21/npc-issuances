@@ -22,23 +22,21 @@ draft: false
 
 ## Text
 
-**03 October 2017**
+03 October 2017
 
-Re: Offenses Under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
+**Re: OFFENSES UNDER THE [[laws/data-privacy-act-of-2012|DATA PRIVACY ACT OF 2012]]**
 
 Dear [Redacted],
 
 This is with reference to your query received by the National Privacy Commission (NPC) on 11 August 2017 regarding offenses under the Data Privacy Act of 2012 (DPA). Specifically, you asked the following questions:
 
-### Discussion
+&emsp;&emsp;a. Does the exception on personal information originally collected from residents of foreign jurisdiction[^1] bar Business Process Outsourcing (BPO) companies based in the Philippines from filing cases against its employees or agents who commit violations of the Act involving personal information of foreign citizens?
 
-a. Does the exception on personal information originally collected from residents of foreign jurisdiction[^1] bar Business Process Outsourcing (BPO) companies based in the Philippines from filing cases against its employees or agents who commit violations of the Act involving personal information of foreign citizens?
+&emsp;&emsp;b. If the personal information of foreign citizens was processed illegally by an agent of the BPO, what is the remedy?
 
-b. If the personal information of foreign citizens was processed illegally by an agent of the BPO, what is the remedy?
+&emsp;&emsp;c. Will the BPO be able to institute a complaint for and in behalf of the account holders/owners of the information against said employee for violations of the Act? If not, what is the remedy?
 
-c. Will the BPO be able to institute a complaint for and in behalf of the account holders/owners of the information against said employee for violations of the Act? If not, what is the remedy?
-
-d. If yes, may the complaint be instituted directly with the courts or will Rule II, Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] on exhaustion of remedies apply?
+&emsp;&emsp;d. If yes, may the complaint be instituted directly with the courts or will Rule II, Section 4 of [[issuances/undated/rules-of-procedure|NPC Circular 16-04]] on exhaustion of remedies apply?
 
 The exception on personal information originally collected from residents of foreign jurisdictions would not be a bar for prosecution of violations of the DPA.
 
@@ -52,11 +50,11 @@ If the personal information of foreign citizens were processed illegally by an a
 
 However, no complaint shall be entertained by NPC unless:
 
-a. the complainant has informed, in writing, the personal information controller or concerned entity of the privacy violation or personal data breach to allow for appropriate action on the same;
+&emsp;&emsp;a. the complainant has informed, in writing, the personal information controller or concerned entity of the privacy violation or personal data breach to allow for appropriate action on the same;
 
-b. the personal information controller or concerned entity did not take timely or appropriate action on the claimed privacy violation or personal data breach, or there is no response from the personal information controller within fifteen (15) days from receipt of information from the complaint; and
+&emsp;&emsp;b. the personal information controller or concerned entity did not take timely or appropriate action on the claimed privacy violation or personal data breach, or there is no response from the personal information controller within fifteen (15) days from receipt of information from the complaint; and
 
-c. the complaint is filed within six (6) months from the occurrence of the claimed privacy violation or personal data breach, or thirty (30) days from the last communiqué with the personal information controller or concerned entity, whichever is earlier.
+&emsp;&emsp;c. the complaint is filed within six (6) months from the occurrence of the claimed privacy violation or personal data breach, or thirty (30) days from the last communiqué with the personal information controller or concerned entity, whichever is earlier.
 
 Nevertheless, the NPC may waive any or all of the abovementioned requirements, at its discretion, upon good cause shown, or if the complaint involves a serious violation or breach of the DPA, taking into account the risk of harm to the affected data subject.[^3]
 
@@ -75,6 +73,6 @@ Very truly yours,
 **RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
-[^1]: See: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA No. 10173, Rule II, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§5(3)(f)]].
-[^2]: See: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§5]].
+[^1]: *See:* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA No. 10173, Rule II, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§5(3)(f)]].
+[^2]: *See:* [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|§5]].
 [^3]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04]], §4.

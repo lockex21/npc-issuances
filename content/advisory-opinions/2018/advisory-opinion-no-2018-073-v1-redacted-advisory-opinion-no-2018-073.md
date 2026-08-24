@@ -22,11 +22,11 @@ aliases:
 
 ## Text
 
-**22 November 2018**
+22 November 2018
 
-Re: TREATMENT OF INSURANCE AGENTS UNDER THE [[laws/data-privacy-act-of-2012|DPA]]
+**Re: TREATMENT OF INSURANCE AGENTS UNDER THE [[laws/data-privacy-act-of-2012|DPA]]**
 
-Dear [Redacted],
+Dear **[Redacted]**,
 
 We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC) via email. You seek clarification on the nature of insurance agents in relation to the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA), and their relationship with the insurance companies they may represent, be connected to, or affiliated with.
 
@@ -38,9 +38,7 @@ In particular, you inquire on the following:
 
 - Considering that they are in control of the processing of personal data of the clients and they do not have one PIC as they can represent up to seven insurance companies, can the NPC or the company classify these non-exclusive licensed agents as their own personal information controller.
 
-### Discussion
-
-#### Insurance Agent; Personal Information Controller; Personal Information Processor; Control
+*Insurance agent; personal information controller; personal information processor; control*
 
 To answer these two related questions, it is imperative to first analyze the nature of an insurance agent. Under the Insurance Code, as amended,[^2] an insurance agent is one “who for compensation solicits or obtains insurance on behalf of any insurance company or transmits for a person other than himself an application for a policy or contract of insurance to or from such company or offers or assumes to act in the negotiating of such insurance.”[^3] They are independent contractors and not employees of the company they represent.[^4] While the Insurance Code, as amended, dictates that licensed agents are independent contractors of the insurance company they may carry or represent, this does not necessarily go into their role and responsibility under the DPA.
 
@@ -54,7 +52,7 @@ These non-exclusive agents may then be considered as individual PICs as they act
 
 As PICs, agents need to comply with the requirements set under the DPA, such as adherence to the principles of transparency, legitimate purpose and proportionality, upholding data subjects’ rights, and establishment of organizational, physical, and technical security measures for the protection of personal data.
 
-#### Data Sharing; Data Sharing Agreement; Outsourcing Agreement
+*Data sharing; data sharing agreement; outsourcing agreement*
 
 As to your third question on what is the more appropriate document to be executed between the insurance company and the non-exclusive agent - an outsourcing agreement or a data sharing agreement, we understand that insurance agents and insurance companies already have a contractual relationship between them pursuant to or as may be provided for under existing insurance laws and regulations. Hence, a separate data sharing agreement may no longer be necessary.
 
@@ -76,17 +74,17 @@ For your reference.
 
 Very truly yours,
 
-(Sgd.) IVY GRACE T. VILLASOTO
+**(Sgd.) IVY GRACE T. VILLASOTO**
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-(Sgd.) RAYMUND ENRIQUEZ LIBORO
+**(Sgd.) RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] (2012).
 [^2]: An Act Strengthening the Insurance Industry, Further Amending Presidential Decree No. 612, Otherwise Known as The Insurance Code, As Amended by Presidential Decree Nos. 1141, 1280, 1455, 1460, 1814 And 1981, and Batas Pambansa Blg. 874, and For Other Purposes [Insurance Code, as amended], Republic Act No. 10607 (2012).
 [^3]: Insurance Code, as amended, § 309.
-[^4]: Ibid.
+[^4]: *Ibid.*
 [^5]: [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (h)]].
-[^6]: Id. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (i)]].
+[^6]: *Id.* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3 (i)]].

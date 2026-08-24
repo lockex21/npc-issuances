@@ -24,20 +24,18 @@ draft: false
 
 ## Text
 
-**5 January 2017**
+5 January 2017
 
-Re: RIGHT TO ACCESS, RIGHT TO DATA PORTABILITY AND USE OF DATA COLLECTED FOR THE IMPROVEMENT OF THE ORGANIZATION
+**Re: RIGHT TO ACCESS, RIGHT TO DATA PORTABILITY AND USE OF DATA COLLECTED FOR THE IMPROVEMENT OF THE ORGANIZATION**
 
-Dear [Redacted],
+Dear **[Redacted]**,
 
 This pertains to your query received by the National Privacy Commission (NPC) on 7 November 2016 via email. In particular, you inquired regarding the following topics:
 
 1. whether the Right to Access is related to the Right to Data Portability
 2. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-37-limitation-on-rights|Sec. 37 of the IRR]], vis-à-vis the practice of industrial engineers practicing the Lean Sigma approach in an organization.
 
-### Discussion
-
-#### Right to Access vis-à-vis Right to Data Portability
+*Right to Access vis-à-vis Right to Data Portability*
 
 The right of a data subject to access his or her personal data is related to the right to data portability. The right to access is enshrined in [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16(c)]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012 (DPA), which states that a data subject, if he or she so demands, is entitled to reasonable access to the following:
 
@@ -58,7 +56,7 @@ Based on the foregoing discussion, a person is entitled to have reasonable acces
 
 In the example you have provided, if you accomplish bank forms requiring the disclosure of personal and sensitive personal information and you would like to obtain a copy thereof, the right being invoked is the Right to Access. If the bank refuses to grant the same, you may file a complaint with the NPC. One of its functions is to enforce and effectively implement the provisions of the DPA, including those pertaining to the rights of data subjects.
 
-#### Sec. 37 of the IRR, vis-à-vis the Lean Sigma approach
+*Sec. 37 of the IRR, vis-à-vis the Lean Sigma approach*
 
 With regard to your second inquiry, we need additional information (i.e., facts and circumstances relative to your operations using the Lean Sigma approach), in order for us to provide you with an appropriate and accurate response.
 
@@ -66,15 +64,15 @@ For your reference.
 
 Sincerely,
 
-JAMAEL A. JACOB
+**JAMAEL A. JACOB**<br>
 Director, Privacy Policy Office
 
 Approved:
 
-IVY D. PATDU
-Deputy Privacy Commissioner,
+**IVY D. PATDU**<br>
+Deputy Privacy Commissioner,<br>
 Policy and Planning
 
 [^1]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-36-right-to-data-portability|IRR of RA 10173, § 36]].
-[^2]: Available at https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/individuals-rights/the-right-to-data-portability/ (last accessed Dec. 1, 2016).
-[^3]: *Ibid*.
+[^2]: *Available at https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/individuals-rights/the-right-to-data-portability/ (last accessed Dec. 1, 2016).*
+[^3]: *Ibid.*

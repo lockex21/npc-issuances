@@ -25,7 +25,7 @@ aliases:
 
 29 August 2017
 
-Re: TEACHERS’ RIGHT TO SEARCH A MINOR STUDENT’S CELLULAR PHONE
+**Re: TEACHERS’ RIGHT TO SEARCH A MINOR STUDENT’S CELLULAR PHONE**
 
 Dear Sir/Madame,
 
@@ -33,9 +33,7 @@ This refers to your query which was received by the National Privacy Commission 
 
 Having considered limited information provided in your query, this Commission deems it necessary to take up the following key points.
 
-### Discussion
-
-#### Bill of Rights
+*Bill of Rights*
 
 As enshrined in our bill of rights, the right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures of whatever nature and for any purpose shall be inviolable.[^1] Likewise, the privacy of communication and correspondence shall be inviolable except upon lawful order of the court, or when public safety or order requires otherwise, as prescribed by law.[^2]
 
@@ -43,17 +41,17 @@ In House Bill No. 2870 and Senate Bill No. 911 on the Magna Carta for Students, 
 
 > *Right Against Unreasonable Searches and Seizures.* – Every student shall be free from any form of unreasonable search and seizure. Except for the following instances, no search or seizure shall be deemed valid:
 >
-> a. Searches made at the point of ingress and egress by authorized personnel of the school;
+> &emsp; a. Searches made at the point of ingress and egress by authorized personnel of the school;
 >
-> b. Searches and seizures of illegal article or articles falling in the plain view of duly authorized personnel;
+> &emsp; b. Searches and seizures of illegal article or articles falling in the plain view of duly authorized personnel;
 >
-> c. Searches and seizures of articles that are illegal, discovered inadvertently by duly authorized personnel;
+> &emsp; c. Searches and seizures of articles that are illegal, discovered inadvertently by duly authorized personnel;
 >
-> d. Searches made when the student is about to commit, is committing or has just committed a crime or a serious infraction of the school’s rules and regulations; and
+> &emsp; d. Searches made when the student is about to commit, is committing or has just committed a crime or a serious infraction of the school’s rules and regulations; and
 >
-> e. Searches made with a valid search warrant.
+> &emsp; e. Searches made with a valid search warrant.
 
-#### Prohibition on the Use of Cellular Phones During Class Hours
+*Prohibition on the Use of Cellular Phones During Class Hours*
 
 We understand that the Department of Education (DepEd) has issued Department Order (DO) No. 83, s. 2003 - Reiteration to DECS Orders Nos. 70, s. 1999 and 26, s. 2000 - Prohibiting Students of Elementary and Secondary Schools from Using Cellular Phones and Pagers During Class Hours.
 
@@ -63,7 +61,7 @@ The latest DO did not specify what will happen if a student is caught using a ce
 
 If the scenario contemplated in your inquiry pertains to this, we believe that the teacher may have the right to seize the cellphone as this is a violation of DepEd rules pursuant to the mandate to immediately stop or at the very least, closely monitor and regulate the use of cellphones. But this does not automatically provide the teacher with the authority to search through the contents of the cellphone.
 
-#### Lawful Processing of Personal Data
+*Lawful Processing of Personal Data*
 
 Note that under the Data Privacy Act of 2012, lawful processing of personal information is permitted under the following instances:
 
@@ -91,7 +89,7 @@ For your reference.
 
 Very truly yours,
 
-RAYMUND ENRIQUEZ LIBORO
+**RAYMUND ENRIQUEZ LIBORO**
 Privacy Commission and Chairman
 
 [^1]: 1987 Constitution, Article III, §2

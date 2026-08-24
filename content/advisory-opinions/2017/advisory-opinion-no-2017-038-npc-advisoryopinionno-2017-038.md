@@ -25,29 +25,27 @@ draft: false
 
 14 August 2017
 
-Re: DATA SHARING AGREEMENT BETWEEN GOVERNMENT AGENCIES
+**Re: DATA SHARING AGREEMENT BETWEEN GOVERNMENT<br>AGENCIES**
 
-Dear [Redacted],
+Dear **[Redacted]**,
 
 This pertains to your query received by the National Privacy Commission (NPC) on 24 July 2017 with regard to the Memorandum issued by the Civil Service Commission (CSC) on the Inventory of Government Human Resource System (IGHRS). Specifically, you are asking whether the rules on data sharing agreement applies to such directive.
 
-### Discussion
-
 [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the Data Privacy Act of 2012]] (DPA) provides for information excluded from its scope, to wit:
 
-"SECTION 4. Scope – xxx xxx xxx
-
-This Act does not apply to the following:
-
-(a) Information about any individual who is or was an officer or employee of a government institution that relates to the position or functions of the individual, including:
-
-   (1) The fact that the individual is or was an officer or employee of the government institution;
-
-   (2) The title, business address and office telephone number of the individual;
-
-   (3) The classification, salary range and responsibilities of the position held by the individual; and
-
-   (4) The name of the individual on a document prepared by the individual in the course of employment with the government; xxx xxx xxx."
+> "SECTION 4. Scope – xxx xxx xxx
+>
+> This Act does not apply to the following:
+>
+> (a) Information about any individual who is or was an officer or employee of a government institution that relates to the position or functions of the individual, including:
+>
+>    (1) The fact that the individual is or was an officer or employee of the government institution;
+>
+>    (2) The title, business address and office telephone number of the individual;
+>
+>    (3) The classification, salary range and responsibilities of the position held by the individual; and
+>
+>    (4) The name of the individual on a document prepared by the individual in the course of employment with the government; xxx xxx xxx."
 
 If the information required to be uploaded to the CSC IGHRS database are limited to those enumerated above, the DPA will not apply, i.e. a data sharing agreement is not required between the COMELEC and CSC. But the exception will only apply to the minimum extent necessary to achieve the specific purpose, function or activity and non-applicability of the DPA does not extend to the COMELEC and CSC, who remain subject to the requirements of implementing security measures for personal data protection.
 
@@ -59,7 +57,7 @@ For your reference.
 
 Very truly yours,
 
-RAYMUND ENRIQUEZ LIBORO
-Privacy Commissioner and Chairman
+**RAYMUND ENRIQUEZ LIBORO**
+*Privacy Commissioner and Chairman*
 
 [^1]: 1987 Constitution, §3, Article IX

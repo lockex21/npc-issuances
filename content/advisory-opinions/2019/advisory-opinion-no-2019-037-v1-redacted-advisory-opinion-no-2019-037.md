@@ -25,17 +25,15 @@ aliases:
 
 8 August 2019
 
-Re: Request For A Certified Copy Of The Personal Data Sheet Of A Former Job Order Personnel
+**Re: REQUEST FOR A CERTIFIED COPY OF THE PERSONAL DATA SHEET OF A FORMER JOB ORDER PERSONNEL**
 
-Dear [Redacted],
+Dear **[Redacted],**
 
 We write in response to your inquiry received by the National Privacy Commission (NPC) which sought to clarify whether or not the purpose indicated in the letter request of a certain law firm for a certified copy of the Personal Data Sheet (PDS) of a former Job Order (JO) personnel is sufficient to warrant the granting of the request.
 
 We understand that the law firm will use the document in a case filed against the former JO, specifically for Falsification of Public Document which is pending before the Office of the City Prosecutor of Quezon City (QC).
 
-### Discussion
-
-#### Scope of the Data Privacy Act of 2012; special cases; JO personnel; information of public concern
+*Scope of the Data Privacy Act of 2012; special cases; JO personnel; information of public concern*
 
 [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the Data Privacy Act of 2012]][^1] (DPA) provides that the law applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.
 
@@ -49,7 +47,7 @@ While the above non-applicability may apply in this case with respect to the inf
 
 Further, the non-applicability of the law is only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned, and does not extend to personal information controllers (PICs) or personal information processors (PIPs), who remain subject to the requirements of implementing security measures for personal data protection.[^4]
 
-#### Personal Data Sheet; Lawful criteria for processing sensitive personal information; Executive Order No. 2; NPC Advisory No. 2017-02; right to privacy; right to information
+*Personal Data Sheet; Lawful criteria for processing sensitive personal information; Executive Order No. 2; NPC Advisory No. 2017-02; right to privacy; right to information*
 
 A PDS is a repository of information pertaining to that employee or official, including his or her personal background, qualifications, and eligibility.[^5] It contains sensitive personal information such as civil status, blood type and other health information, GSIS, Pag-Ibig and Philhealth No., information about the employee's family which may include information about minor children, among others.[^6]
 
@@ -82,12 +80,12 @@ For your reference.
 
 Very truly yours,
 
-(Sgd.) IVY GRACE T. VILLASOTO
+**(Sgd.) IVY GRACE T. VILLASOTO**
 OIC – Director IV, Privacy Policy Office
 
 Noted by:
 
-(Sgd.) RAYMUND ENRIQUEZ LIBORO
+**(Sgd.) RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
@@ -96,11 +94,11 @@ Privacy Commissioner and Chairman
 
 [^3]: *Id.*, § 6.3.2.
 
-[^4]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-056-npc-advisoryopinionno-2017-056|NPC Advisory Opinion No. 2017-056]] (Sept. 20, 2017) citing Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §5 (2016).
+[^4]: National Privacy Commission, [[advisory-opinions/2017/advisory-opinion-no-2017-056-npc-advisoryopinionno-2017-056|NPC Advisory Opinion No. 2017-056]] (Sept. 20, 2017) *citing* Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, §5 (2016).
 
-[^5]: *Advincula v. Dicen*, G.R. No. 162403 (2005).
+[^5]: Advincula v. Dicen, G.R. No. 162403 (2005).
 
-[^6]: *See*: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-088-npc-advisory-opinion-no-2018-088|NPC Advisory Opinion No. 2018-088]] (Dec. 5, 2018).
+[^6]: See: National Privacy Commission, [[advisory-opinions/2018/advisory-opinion-no-2018-088-npc-advisory-opinion-no-2018-088|NPC Advisory Opinion No. 2018-088]] (Dec. 5, 2018).
 
 [^7]: Office of the President, Operationalizing In The Executive Branch The People's Constitutional Right To Information And The State Policies To Full Public Disclosure And Transparency In The Public Service And Providing Guidelines Therefor, Executive Order No. 2 [EO No. 2] (July 23, 2016).
 
@@ -108,4 +106,4 @@ Privacy Commissioner and Chairman
 
 [^9]: *Id.*, § 7 (a).
 
-[^10]: *Palad v. Solis*, G.R. No. 206691 (2016) citing *Legaspi v. Civil Service Commission*, 234 Phil. 521 (1987).
+[^10]: Palad v. Solis, G.R. No. 206691 (2016) *citing* Legaspi v. Civil Service Commission, 234 Phil. 521 (1987).

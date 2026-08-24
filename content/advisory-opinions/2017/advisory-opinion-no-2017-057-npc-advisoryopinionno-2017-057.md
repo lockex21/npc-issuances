@@ -23,15 +23,13 @@ draft: false
 
 ## Text
 
-**03 October 2017**
+03 October 2017
 
-Re: Consent for Data Sharing and Outsourcing Agreements
+**Re: CONSENT FOR DATA SHARING AND OUTSOURCING AGREEMENTS**
 
 Dear [Redacted],
 
 This pertains to your request for advisory opinion received by the National Privacy Commission (NPC) on 16 August 2017, which sought to clarify matters regarding [[laws/data-privacy-act-of-2012|Republic Act No. 10173]][^1], also known as the Data Privacy Act of 2012 (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations (IRR)]][^2] and relevant issuances, and particularly respond to the following questions:
-
-### Discussion
 
 1. Whether the personal information controller (PIC) is required to obtain the data subject's consent before entering into an outsourcing agreement with a personal information processor (PIP); and
 2. Whether outsourcing agreements should also comply with the conditions outlined in Rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20(b)]] for data sharing.
@@ -66,10 +64,10 @@ Privacy Commissioner and Chairman
 
 [^1]: AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, "[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]" (15 August 2012).
 [^2]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act]] (24 August 2016).
-[^3]: Id., §3(f).
+[^3]: *Id.*, §3(f).
 [^4]: [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular 16-02]]: Data Sharing Agreements Involving Government Agencies (10 October 2016), §3(e).
-[^5]: Supra note 3.
-[^6]: Supra note 4, §6(a).
-[^7]: Supra note 3, §20(b).
-[^8]: Supra note 4, §6(b)&(c).
+[^5]: *Supra note 3.*
+[^6]: *Supra note 4*, §6(a).
+[^7]: *Supra note 3*, §20(b).
+[^8]: *Supra note 4*, §6(b)&(c).
 [^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]] of RA No. 10173, §3(o) "Processing" refers to any operation or any set of operations performed upon personal data including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or destruction of data. Processing may be performed through automated means, or manual processing, if the personal data are contained or are intended to be contained in a filing system.

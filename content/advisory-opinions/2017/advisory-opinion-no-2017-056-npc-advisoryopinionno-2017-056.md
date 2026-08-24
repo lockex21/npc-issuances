@@ -25,8 +25,6 @@ aliases:
 
 20 September 2017
 
-Re: DISCLOSURE OF DSWD EMPLOYEES' PERSONAL DATA TO PHILIPPINE NATIONAL POLICE
-
 Dear [Redacted],
 
 This has reference to your letter dated 7 August 2017 and received by the National Privacy Commission (the Commission) on 22 August 2017, on the request for advise on the legal implications of granting the request of the Philippine National Police – Regional Office I (PNP-RO1) for certain information of DSWD employees in relation to the PNP's conduct of social investigation in all government agencies pertinent to its program of "Enhancing Operational Effectiveness in its Campaign Against Illegal Drugs."
@@ -36,16 +34,19 @@ We understand that the PNP-RO1 requested for the following information on DSWD e
 | Name of Agency Employees | Address of Employees | Sex/Age | Civil Status | Position/Designation in the Agency |
 |---|---|---|---|---|
 
-### Discussion
+*Discussion*
 
 The [[laws/data-privacy-act-of-2012|DPA]] applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing in the Philippines, and even outside of the country in certain instances.[^1]
 
 The law likewise provided for certain specified information which is outside of its scope. This includes information about any individual who is or was an officer or employee of a government institution that relates to the position or functions of the individual, including:
 
-1. The fact that the individual is or was an officer or employee of the government institution;
-2. The title, business address and office telephone number of the individual;
-3. The classification, salary range and responsibilities of the position held by the individual; and
-4. The name of the individual on a document prepared by the individual in the course of employment with the government.[^2]
+&emsp;&emsp;(1)&emsp; The fact that the individual is or was an officer or employee of the government institution;
+
+&emsp;&emsp;(2)&emsp; The title, business address and office telephone number of the individual;
+
+&emsp;&emsp;(3)&emsp; The classification, salary range and responsibilities of the position held by the individual; and
+
+&emsp;&emsp;(4)&emsp; The name of the individual on a document prepared by the individual in the course of employment with the government.[^2]
 
 Another specified information is information necessary in order to carry out the functions of public authority which includes the processing of personal data for the performance by the independent central monetary authority and law enforcement and regulatory agencies of their constitutionally and statutorily mandated functions.[^3]
 
@@ -57,7 +58,7 @@ Further, there are protocol set for investigations, which presupposes that there
 
 In the letter request for information on DSWD employees, it is stated that the PNP shall be conducting a "social investigation" pertinent to its program of "Enhancing Operational Effectiveness in its Campaign Against Illegal Drugs." There was no mention of a crime report or any criminal incident to be investigated. As such, we believe that there is actually no criminal incident to be investigated.
 
-#### Recommendation
+*Recommendation*
 
 But considering that the personal data being requested is information of public concern, i.e. information of government employees, we believe that the DSWD may accede to the PNP-RO1's request and provide the following items only as these are the data which relates to the position or function of the employee:
 
@@ -71,7 +72,7 @@ For your reference.
 
 Very truly yours,
 
-RAYMUND ENRIQUEZ LIBORO
+**RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: Republic Act. No. 10173, AN ACT PROTECTING INDIVIDUAL PERSONAL INFORMATION IN INFORMATION AND COMMUNICATIONS SYSTEMS IN THE GOVERNMENT AND THE PRIVATE SECTOR, CREATING FOR THIS PURPOSE A NATIONAL PRIVACY COMMISSION, AND FOR OTHER PURPOSES, [[laws/data-privacy-act-of-2012#section-4-scope|§4]] and [[laws/data-privacy-act-of-2012#section-6-extraterritorial-application|6]]

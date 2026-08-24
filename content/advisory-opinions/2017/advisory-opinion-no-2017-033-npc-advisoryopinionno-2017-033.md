@@ -23,17 +23,15 @@ draft: false
 
 25 July 2017
 
-Re: LAWFUL PROCESSING OF PERSONAL INFORMATION
+**Re: LAWFUL PROCESSING OF PERSONAL INFORMATION**
 
-Dear [Redacted],
+Dear **[Redacted]**,
 
 This is with regard to your query received by the National Privacy Commission (NPC) regarding lawful processing of personal information under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and its Implementing Rules and Regulation ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]).
 
 Specifically, you are asking guidance on whether it is common practice for personal information controllers (PIC) to rely on [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12(b) of the Data Privacy Act of 2012]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-21-criteria-for-lawful-processing-of-personal-information|Section 21(b) of its IRR]] on instances of lawful processing of personal information in relation to a fulfillment of a contract and if there are any particular considerations a PIC should keep in mind to be able to rely on such provision.
 
 This particular provision states that processing of personal information is allowed when the processing is necessary and is related to the fulfillment of a contract with the data subject or in order to take steps at the request of the data subject prior to entering into a contract.
-
-### Discussion
 
 At the outset, please note that the Commission may not be able to say or determine if it is common practice for PICs to invoke or rely on the said provision to justify their processing of personal information since the Act and its IRR do not require PICs to furnish the Commission with a justification or explanation of whether or not they are lawfully processing personal information and on what grounds. Nevertheless, since such criteria is specifically provided for in the law, it can be invoked and relied on by PICs as basis for lawfully processing personal information. It should be noted that each of the criteria stated in the DPA provides an equally valid basis for processing personal information.
 
@@ -45,7 +43,7 @@ For your reference.
 
 Very truly yours,
 
-RAYMUND ENRIQUEZ LIBORO
+**RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: See: [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|RA No. 10173, §13]].

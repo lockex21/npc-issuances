@@ -24,15 +24,13 @@ draft: false
 
 ## Text
 
-**16 January 2017**
+16 January 2017
 
-Re: RULES GOVERNING CERTAIN INFORMATION RELATING TO CORPORATIONS
+**Re: RULES GOVERNING CERTAIN INFORMATION RELATING TO CORPORATIONS**
 
-Dear [Redacted],
+Dear **[Redacted],**
 
 This pertains to your query received by the National Privacy Commission (NPC) last 17 October 2017, regarding the rules that govern the transfer of certain information (e.g., electricity and water consumption), from corporations to third-party entities for processing.
-
-### Discussion
 
 The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and issuances of the NPC govern the processing of personal information,[^1] sensitive personal information,[^2] and privileged communication.[^3] In the IRR, they are collectively referred to as “personal data”.[^4]
 
@@ -42,12 +40,12 @@ For your reference.
 
 Sincerely,
 
-JAMAEL A. JACOB
+**JAMAEL A. JACOB**
 Director, Privacy Policy Office
 
 Approved:
 
-IVY D. PATDU
+**IVY D. PATDU**
 Deputy Privacy Commissioner, Policy and Planning
 
 [^1]: *See:* [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA 10173, §3(g)]]

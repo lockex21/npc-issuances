@@ -23,17 +23,15 @@ draft: false
 
 ## Text
 
-**5 January 2017**
+5 January 2017
 
-Re: REGISTRATION OF PROCESSING SYSTEM LIMITED ONLY TO ACTIVITIES OF THE HUMAN RESOURCES DEPARTMENT
+**Re: REGISTRATION OF PROCESSING SYSTEM LIMITED ONLY TO ACTIVITIES OF THE HUMAN RESOURCES DEPARTMENT**
 
-Dear [Redacted],
+Dear **[Redacted],**
 
 This pertains to your query received by the National Privacy Commission on 8 November 2016 via email.
 
-As per your representation, Ecozone Logistics Services Enterprise (ECOZONE, for brevity) is a PEZA-registered company engaged in the processing of its employees' personal information. It wishes to clarify if it is required to register with the Commission given that its processing of personal information is "limited only to the usual processing activities of the Human Resources Department" (e.g., job application, social security, insurance, etc.).
-
-### Discussion
+As per your representation, *Ecozone Logistics Services Enterprise* (ECOZONE, for brevity) is a PEZA-registered company engaged in the processing of its employees' personal information. It wishes to clarify if it is required to register with the Commission given that its processing of personal information is "limited only to the usual processing activities of the Human Resources Department" (e.g., job application, social security, insurance, etc.).
 
 [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], otherwise known as the Data Privacy Act of 2012 (DPA), applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing, unless the entity is able to sufficiently establish that the information being processed is exempt from the Act's coverage.[^1]
 
@@ -51,14 +49,14 @@ For your reference.
 
 Sincerely,
 
-JAMAEL A. JACOB
+**JAMAEL A. JACOB**<br>
 Director, Privacy Policy Office
 
 Approved:
 
-IVY D. PATDU
-Deputy Privacy Commissioner,
+**IVY D. PATDU**<br>
+Deputy Privacy Commissioner,<br>
 Policy and Planning
 
-[^1]: [[laws/data-privacy-act-of-2012#section-4-scope|Republic Act No. 10173, § 4]].
+[^1]: *[[laws/data-privacy-act-of-2012#section-4-scope|Republic Act No. 10173]]*, § 4.
 [^2]: *Id.*, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|§ 3(g) and (l)]].

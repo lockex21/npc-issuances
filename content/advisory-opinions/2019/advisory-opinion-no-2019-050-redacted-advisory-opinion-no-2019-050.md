@@ -29,11 +29,11 @@ draft: false
 
 ## Text
 
-**12 December 2019**
+12 December 2019
 
-Re: REQUEST FOR THE LAST KNOWN ADDRESS OF A FORMER EMPLOYEE
+**Re: REQUEST FOR THE LAST KNOWN ADDRESS OF A FORMER EMPLOYEE**
 
-Dear [Redacted],
+Dear **[Redacted],**
 
 We write in response to your request for advisory opinion received by the National Privacy Commission (NPC) where you seek clarification on whether the Metropolitan Waterworks & Sewerage System (MWSS) may provide the last known address of its former employee at the request of the Commission on Audit (COA), pursuant to Section 7, Rule IV of its 2009 Revised Rules of Procedures.
 
@@ -62,20 +62,18 @@ Pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-proce
 >
 > (a) The data subject has given his or her consent;
 > (b) The processing of personal information is necessary and is related to the fulfillment of a contract with the data subject or in order to take steps at the request of the data subject prior to entering into a contract;
-> (c) The processing is necessary for compliance with a legal obligation to which the personal information controller is subject;
+> **(c) The processing is necessary for compliance with a legal obligation to which the personal information controller is subject;**
 > (d) The processing is necessary to protect vitally important interests of the data subject, including life and health;
 > (e) The processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate; or
 > (f) The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.[^7]
 
 In this regard, we note COA's mandate as provided for under Section 2, Article IX-D of the 1987 Philippine Constitution, which states that:
 
-> Section 2. (1) **The Commission on Audit shall have the power, authority, and duty to examine, audit and settle all accounts pertaining to the revenues and receipts of, and expenditures or uses of funds and property, owned or held in trust by, or pertaining to the Government, or any of its subdivisions, agencies, or instrumentalities, including government-owned and controlled corporations with original charters, and on a post-audit basis:** (a) constitutional bodies, commissions and offices that have been granted fiscal autonomy under the Constitution; (b) autonomous state colleges and universities; (c) other government-owned or controlled corporations and their subsidiaries; and (d) such non-governmental entities receiving subsidy or equity directly or indirectly, from or through the government, which are required by law or the granting institution to submit to such audit as a condition of subsidy or equity. However, where the internal control system of the audited agencies is inadequate, the Commission may adopt such measures, including temporary or special pre-audit, as are necessary and appropriate to correct the deficiencies. It shall keep the general accounts of the Government, and for such period as may be provided by law, preserve the vouchers and other supporting papers pertaining thereto.
+> Section 2. (1) **The Commission on Audit shall have the power, authority, and duty to examine, audit and settle all accounts pertaining to the revenues and receipts of, and expenditures or uses of funds and property, owned or held in trust by, or pertaining to the Government, or any of its subdivisions, agencies, or instrumentalities**, including government-owned and controlled corporations with original charters, and on a post-audit basis: (a) constitutional bodies, commissions and offices that have been granted fiscal autonomy under the Constitution; (b) autonomous state colleges and universities; (c) other government-owned or controlled corporations and their subsidiaries; and (d) such non-governmental entities receiving subsidy or equity directly or indirectly, from or through the government, which are required by law or the granting institution to submit to such audit as a condition of subsidy or equity. However, where the internal control system of the audited agencies is inadequate, the Commission may adopt such measures, including temporary or special pre-audit, as are necessary and appropriate to correct the deficiencies. It shall keep the general accounts of the Government, and for such period as may be provided by law, preserve the vouchers and other supporting papers pertaining thereto.
 >
-> **(2) The Commission shall have exclusive authority subject to the limitations in this Article, to define the scope of its audit and examination, establish the techniques and methods required therefor, and promulgate accounting and auditing rules and regulations including those for the prevention and disallowance of irregular, unnecessary, excessive, extravagant, or unconscionable expenditures, or uses of government funds and properties.**
+> (2) The Commission shall have exclusive authority subject to the limitations in this Article, to define the scope of its audit and examination, establish the techniques and methods required therefor, and **promulgate accounting and auditing rules and regulations including those for the prevention and disallowance of irregular, unnecessary, excessive, extravagant, or unconscionable expenditures, or uses of government funds and properties.**
 
 Considering the mandate of the COA, the Auditor may rely on Section 12(c) of the DPA as the appropriate basis for the lawful processing of personal information.
-
-### Discussion
 
 We note however that any processing of personal information shall also adhere to the principles of transparency, legitimate purpose, and proportionality.[^8] Thus, the disclosure shall be only limited to the last known address of the former COA employee for the purpose as stated by COA.
 

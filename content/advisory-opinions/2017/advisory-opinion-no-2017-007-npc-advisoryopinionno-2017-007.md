@@ -26,11 +26,11 @@ draft: false
 
 ## Text
 
-**9 January 2017**
+9 January 2017
 
-Re: CONSENT, COLLECTION OF FEES RELATIVE TO THE RIGHT TO ACCESS AND INCIDENTAL COLLECTION OF PERSONAL DATA
+**Re: CONSENT, COLLECTION OF FEES RELATIVE TO THE RIGHT TO ACCESS AND INCIDENTAL COLLECTION OF PERSONAL DATA**
 
-Dear [Redacted],
+Dear **[Redacted],**
 
 This pertains to your queries received by the National Privacy Commission (NPC) on 20 and 27 December 2016 by email. Specifically, you raised the following questions:
 
@@ -40,9 +40,7 @@ c. Whether or not the NPC will honor or recognize as lawful a policy statement b
 d. Whether or not a PIP can charge a reasonable/minimal fee for the data subject's access to his or her personal data?
 e. If a service provider (which is not a Business Process Outsourcing [BPO]) collection or processing personal data or information is merely incidental to the nature of its services, is it still covered by Republic Act No. 10173, also known as the Data Privacy Act of 2012 (DPA)?
 
-### Discussion
-
-#### Consent
+*Consent*
 
 Under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(b) of the DPA]], and Section 3(d) of its Implementing Rules and Regulations (IRR), consent is defined as follows:
 
@@ -60,7 +58,7 @@ There are also the Rules on Electronic Evidence which apply to electronic docume
 
 Audio, photographic and video evidence of events, acts or transactions are likewise admissible provided that they are shown, presented, or displayed to the court, and identified, explained or authenticated by the person who made the recording or by some other person competent to testify on the accuracy thereof.[^8] Subject to the same conditions, a recording of a telephone conversation or ephemeral electronic communication may also be admitted in court.[^9]
 
-#### Charging of Fees
+*Charging of Fees*
 
 The DPA recognizes the data subjects' right to reasonable access, upon demand, to the following:
 
@@ -81,11 +79,11 @@ However, Regulation (EU) 2016/679—which repeals the 1995 EU Directive which th
 
 Based on the foregoing, we believe that a PIC may charge reasonable fees to defray the costs of reproduction of the personal data being processed by the PIC.
 
-#### Processing of Personal Data That is Merely Incidental to the Nature of Services Offered by a Company Vis-à-vis Scope of the DPA
+*Processing of Personal Data That is Merely Incidental to the Nature of Services Offered by a Company Vis-à-vis Scope of the DPA*
 
 [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]] provides, as follows:
 
-> "SEC. 4. Scope. – This Act applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing including those personal information controllers and processors who, although not found or established in the Philippines, use equipment that are located in the Philippines, or those who maintain an office, branch or agency in the Philippines subject to the immediately succeeding paragraph.. xxx"
+> "SEC. 4. *Scope.* – This Act applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing including those personal information controllers and processors who, although not found or established in the Philippines, use equipment that are located in the Philippines, or those who maintain an office, branch or agency in the Philippines subject to the immediately succeeding paragraph.. xxx"
 
 In addition, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-4-scope|Section 4 of the IRR]] states:
 
@@ -97,17 +95,17 @@ For your reference.
 
 Sincerely,
 
-JAMAEL A. JACOB
+**JAMAEL A. JACOB**<br>
 Director, Privacy Policy Office
 
 Approved:
 
-IVY D. PATDU
-Deputy Privacy Commissioner,
+**IVY D. PATDU**<br>
+Deputy Privacy Commissioner,<br>
 Policy and Planning
 
 [^1]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|IRR of DPA of 2012, § 3(d)]].
-[^2]: *Id*.
+[^2]: *Id.*
 [^3]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04 – Rules of Procedure]] dated December 15, 2016, § 32.
 [^4]: Rules of Court, Rule 130, § 1.
 [^5]: *Id.*, § 2.

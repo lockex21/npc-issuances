@@ -23,17 +23,15 @@ draft: false
 
 23 June 2017
 
-Re: COLLECTION OF DATA - PROFESSIONAL LICENSE
+**Re: COLLECTION OF DATA - PROFESSIONAL LICENSE**
 
-Dear [Redacted],
-
-### Discussion
+Dear **[Redacted]**,
 
 This pertains to your query received by the National Privacy Commission (NPC) on 05 April 2017, via email. You seek clarification if your company is allowed to obtain details of the professional licenses, i.e. license numbers and expiry dates, of medical practitioners, hospital personnel and hospital management who avail of seminars and workshops of the Academy.
 
 The purpose for such collection is to ensure that the course participants have a valid professional license in the Philippines.
 
-#### Lawful Processing of Personal and Sensitive Personal Information
+*Lawful Processing of Personal and Sensitive Personal Information*
 
 A professional identification card issued by the Professional Regulation Commission (PRC) contains the following information:
 
@@ -50,14 +48,14 @@ A PRC identification card contains both personal[^1] and sensitive personal info
 
 We believe that the Academy, as a personal information controller, may lawfully process personal data contained in the professional licenses pursuant to the following provisions of the DPA:
 
-> **SECTION 12. Criteria for Lawful Processing of Personal Information.** — The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
+> SECTION 12. Criteria for Lawful Processing of Personal Information. — The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 >
 > a) The data subject has given his or her consent;
 > b) The processing of personal information is necessary and is related to the fulfillment of a contract with the data subject or in order to take steps at the request of the data subject prior to entering into a contract;
 >
 > xxx xxx xxx
 >
-> **SECTION 13. Sensitive Personal Information and Privileged Information.** — The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
+> SECTION 13. Sensitive Personal Information and Privileged Information. — The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 >
 > a) The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing; xxx.
 
@@ -67,7 +65,7 @@ For your reference.
 
 Sincerely,
 
-IVY D. PATDU
+**IVY D. PATDU**
 Officer-in-Charge and
 Deputy Privacy Commissioner
 Policies and Planning

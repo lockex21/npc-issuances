@@ -24,13 +24,11 @@ aliases:
 
 22 August 2017
 
-Re: DATA PROCESSING SYSTEM REGISTRATION
+**Re: DATA PROCESSING SYSTEM REGISTRATION**
 
 Dear [Redacted],
 
 This is with regard to your query received by the National Privacy Commission (NPC) on 18 April 2017 on the coverage of data processing system registration provided in the Implementing Rules and Regulation ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]) of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
-
-### Discussion
 
 Specifically, you ask for clarification on processing which is "not occasional" for purpose of registration of data processing systems. You seek an interpretation of the phrase in the instance where, for example, a company having only twenty-five employees, maintains a database of those employees, and processes such employees' information in a standard way. You ask if the company would be considered as continually processing data and thus be required to register its data processing system.
 
@@ -46,7 +44,7 @@ For your reference.
 
 Sincerely,
 
-RAYMUND ENRIQUEZ LIBORO
+**RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: RA No. 10173, §3(J)

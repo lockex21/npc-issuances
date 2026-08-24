@@ -29,7 +29,9 @@ draft: false
 
 19 December 2019
 
-Dear [Redacted],
+**RE: TEENAGE PREGNANCY REGISTRY**
+
+**Dear [Redacted],**
 
 We write in response to your request for advisory opinion regarding the data sharing of teenage pregnancy registry between your institution, Southern Isabela General Hospital (SIGH) and the City Population Office (CPO) of Santiago City.
 
@@ -44,25 +46,23 @@ We understand that the CPO of Santiago City is requesting for the following pers
 
 The abovementioned information being requested by the CPO are health information. Health information, under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA),[^2] is considered as sensitive personal information and processing of such information is prohibited, except if the following cases:
 
-a. The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing;
+   a. The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing;
 
-b. The processing of the same is provided for by existing laws and regulations: Provided, that such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: Provided, further, That the consent of the data subjects are not required by law or regulation permitting the processing of the sensitive personal information or the privileged information;
+   b. The processing of the same is provided for by existing laws and regulations: Provided, that such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: Provided, further, That the consent of the data subjects are not required by law or regulation permitting the processing of the sensitive personal information or the privileged information;
 
-c. The processing is necessary to protect the life and health of the data subject or another person, and the data subject is not legally or physically able to express his or her consent prior to the processing;
+   c. The processing is necessary to protect the life and health of the data subject or another person, and the data subject is not legally or physically able to express his or her consent prior to the processing;
 
-d. The processing is necessary to achieve the lawful and noncommercial objectives of public organizations and their associations: Provided, That such processing is only confined and related to the bona fide members of these organizations or their associations: Provided, further, That the sensitive personal information are not transferred to third parties: Provided, finally, That consent of the data subject was obtained prior to processing;
+   d. The processing is necessary to achieve the lawful and noncommercial objectives of public organizations and their associations: Provided, That such processing is only confined and related to the bona fide members of these organizations or their associations: Provided, further, That the sensitive personal information are not transferred to third parties: Provided, finally, That consent of the data subject was obtained prior to processing;
 
-e. The processing is necessary for purposes of medical treatment, is carried out by a medical practitioner or a medical treatment institution, and an adequate level of protection of personal information is ensured; or
+   e. The processing is necessary for purposes of medical treatment, is carried out by a medical practitioner or a medical treatment institution, and an adequate level of protection of personal information is ensured; or
 
-f. The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.[^3]
+   f. The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.[^3]
 
 Note that we cannot confirm the basis of the proposed data sharing agreement from the information provided. It is not clearly indicated whether a law or city ordinance was issued that mandates the CPO to collect sensitive personal information for teenage pregnancy registry and the specific program or project that needs the said personal data for implementation.
 
 The purpose of the collection, "to create plans and activities or any possible interventions in the campaign to decrease the incidence of teenage pregnancy in the city" is general in nature, which may be attainable even without the disclosure of personal information.
 
 On its face, without the specific purpose and statutory basis of the CPO, the planning and execution of activities and campaigns on teenage pregnancy may be administered and implemented with the use of aggregate or statistical data.
-
-### Discussion
 
 Should the data sharing push forward, SIGH must ensure that the proposed data sharing agreement with the CPO has complied with the requirements of the DPA, must conform with the [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]], and has met any of the abovementioned criteria for lawful processing before sharing such information with the CPO of Santiago City. Likewise, the data sharing must adhere to the principles of transparency, legitimate purpose and proportionality.
 
@@ -72,12 +72,12 @@ For your reference.
 
 Very truly yours,
 
-(Sgd.) IVY GRACE T. VILLASOTO
+**(Sgd.) IVY GRACE T. VILLASOTO**
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-(Sgd.) RAYMUND ENRIQUEZ LIBORO
+**(Sgd.) RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner
 
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).

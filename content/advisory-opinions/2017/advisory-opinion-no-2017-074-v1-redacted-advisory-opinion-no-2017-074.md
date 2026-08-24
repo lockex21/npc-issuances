@@ -25,10 +25,10 @@ draft: false
 
 ## Text
 
-**27 December 2017**
+27 December 2017
 
-RE: REQUEST FOR ADVISORY OPINION
-     NEW CROSS GATE PHILIPPINES, INC.
+**RE: &emsp; REQUEST FOR ADVISORY OPINION**<br>
+**&emsp;&emsp;&emsp; NEW CROSS GATE PHILIPPINES, INC.**
 
 Dear [Redacted],
 
@@ -42,9 +42,7 @@ As to the loan process, we understand that Uploan platform works by requiring th
 
 The personal information gathered includes personal identification information such as SSS and UMID ID as well as the Tax Identification Number (TIN), among others. In view of the foregoing, you seek NPC's opinion with regards to the method of data collection being used by New Cross about the Borrowers, whereby these are collected from the Borrower's employers rather than from the Borrower himself.
 
-### Discussion
-
-#### Processing of Sensitive Personal Information
+*Processing of sensitive personal information*
 
 The SSS number, as well as the UMID ID number and the TIN of the Borrower are considered as sensitive personal information (SPI) as these are government-issued identification numbers peculiar to an individual.[^3] Due to their nature as SPI, stricter security measures must be implemented by the personal information controller (PIC) in order to ensure the protection of such information.
 
@@ -102,7 +100,7 @@ For your reference.
 
 Very truly yours,
 
-(Sgd.) RAYMUND ENRIQUEZ LIBORO
+**(Sgd.) RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: Uploan, https://www.uploan.ph/investors. (last visited 29 November 2017)

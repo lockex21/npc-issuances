@@ -22,11 +22,11 @@ draft: false
 
 ## Text
 
-**11 December 2019**
+11 December 2019
 
-Re: FACIAL RECOGNITION FOR ID SYSTEM
+**Re: FACIAL RECOGNITION FOR ID SYSTEM**
 
-Dear [Redacted],
+Dear **[Redacted]**,
 
 We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC) via email. You inquire on whether the NPC has recommended or approved any procedure on written, electronic and recorded means in obtaining the express consent of the individual prior to conducting facial recognition for the entry of individual to a private building in lieu of presenting identification cards. If in the negative, you request guidance on the use of facial recognition for identification.
 
@@ -34,11 +34,7 @@ Section 3(d) of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^1] ot
 
 The NPC has yet to issue official guidelines on the use of facial recognition in lieu of identification cards, including the process obtaining consent from the data subject. However, the general data privacy principles of transparency, legitimate purpose and proportionality should prevail, and the provisions of the DPA should be upheld, including the rights of the data subjects.
 
-### Discussion
-
-Using facial recognition as a means to identify an individual entering buildings and premises must be grounded on any of the lawful criteria for processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] of the law. In this situation, the identification of the individual is linked to ensuring the safety and security of the premises and its occupants, which may fall under “legitimate interests pursued by the
-
-personal information controller” under Section 12 (f)[^2] under the DPA. To comply with transparency and the right of the data subject to be informed, employees or occupants of buildings must first be apprised of the use of facial recognition as the chosen identification system, and any information related to the processing of their information in connection such system.
+Using facial recognition as a means to identify an individual entering buildings and premises must be grounded on any of the lawful criteria for processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] of the law. In this situation, the identification of the individual is linked to ensuring the safety and security of the premises and its occupants, which may fall under “legitimate interests pursued by the personal information controller” under Section 12 (f)[^2] under the DPA. To comply with transparency and the right of the data subject to be informed, employees or occupants of buildings must first be apprised of the use of facial recognition as the chosen identification system, and any information related to the processing of their information in connection such system.
 
 This opinion is based solely on the information you have provided. Additional information may change the context of the inquiry and the appreciation of the facts.
 
@@ -46,12 +42,12 @@ For your reference.
 
 Very truly yours,
 
-(Sgd.) IVY GRACE T. VILLASOTO
+**(Sgd.) IVY GRACE T. VILLASOTO**
 OIC-Director IV, Privacy Policy Office
 
 Noted by:
 
-(Sgd.) RAYMUND ENRIQUEZ LIBORO
+**(Sgd.) RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner
 
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173, (2012).

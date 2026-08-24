@@ -24,13 +24,11 @@ aliases:
 
 11 September 2017
 
-Re: CONSENT
+**Re: CONSENT**
 
 Dear [Redacted],
 
 This pertains to your query received by the National Privacy Commission (NPC) on 24 August 2017 seeking clarification on the interpretation of consent in relation to as defined under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
-
-### Discussion
 
 Specifically, you sought to clarify whether the law requires consent to be written, as evidenced through electronic or recorded means, or consent can be in written form, electronic form, or recorded means.
 
@@ -54,14 +52,14 @@ For your information.
 
 Very truly yours,
 
-RAYMUND ENRIQUEZ LIBORO
+**RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: General Data Protection Regulation, Recital 32
 [^2]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04 – Rules of Procedure]] dated December 15, 2016, §32
 [^3]: Rules of Court, Rule 130, §1
-[^4]: Id., §2
+[^4]: *Id.*, §2
 [^5]: A.M. No. 01-7-01-SC - Rules on Electronic Evidence dated July 17, 2001, Rule 1, §1
-[^6]: Id., Rule 2, §1(h)
-[^7]: Id., Rule 11, §1
-[^8]: Id., Rule 11, §2
+[^6]: *Id.*, Rule 2, §1(h)
+[^7]: *Id.*, Rule 11, §1
+[^8]: *Id.*, Rule 11, §2

@@ -24,7 +24,7 @@ aliases:
 
 29 August 2017
 
-Re: SUBMISSION OF CREDIT INFORMATION BY COOPERATIVES TO THE CREDIT INFORMATION CORPORATION (CIC)
+**Re: SUBMISSION OF CREDIT INFORMATION BY COOPERATIVES TO THE CREDIT INFORMATION CORPORATION (CIC)**
 
 Dear [Redacted],
 
@@ -32,9 +32,7 @@ This pertains to your letter request for advisory opinion received by the Nation
 
 You cited CIC Circular No. 2015-01, 2015-02, and 2016-04 requiring such submission, setting the deadline for the same, and the extension thereof, respectively. We understand that the CEDC has already complied with the CIC requirement.
 
-### Discussion
-
-#### Submission of Credit Data to the Credit Information Corporation (CIC)
+*Submission of Credit Data to the Credit Information Corporation (CIC)*
 
 Republic Act (RA) No. 9510[^1], otherwise known as the Credit Information System Act (CISA), was enacted to establish a comprehensive and centralized credit information system, particularly for the improved efficiency of financial institutions.[^2]
 
@@ -46,19 +44,19 @@ On 15 May 2015, the CIC issued Circular No. 2015-01 enforcing the CISA and its I
 
 On 28 September 2015, the CIC issued Circular No. 2015-02 requiring the submission of credit data and technical requirements for several entities, including large and medium cooperatives. Large cooperatives as defined by the Cooperative Development Authority (CDA) were given until 30 October 2016 to submit. This deadline was extended to 30 June 2017.[^7]
 
-#### Scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
+*Scope of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]*
 
 The DPA provides for a list of specified information that are not covered by the law. [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of the IRR]][^8] provides for the special cases wherein the law and the rules are not applicable, specifically Section 5(d) and (e):
 
-> "**Section 5. Special Cases.** *The Act and these Rules shall not apply to the following specified information*, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned:
+> "Section 5. *Special Cases.* The Act and these Rules shall <u>not apply to the following specified information, only to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned</u>:
 >
 > xxx xxx xxx
 >
-> d. *Information necessary in order to carry out the functions of public authority, in accordance with a constitutionally or statutorily mandated function pertaining to law enforcement or regulatory function*, including the performance of the functions of the independent, central monetary authority, subject to restrictions provided by law. Nothing in this Act shall be construed as having amended or repealed Republic Act No. 1405, otherwise known as the Secrecy of Bank Deposits Act; Republic Act No. 6426, otherwise known as the Foreign Currency Deposit Act; and Republic Act No. 9510, otherwise known as the Credit Information System Act (CISA);
+> <u>d. Information necessary in order to carry out the functions of public authority, in accordance with a constitutionally or statutorily mandated function pertaining to law enforcement or regulatory function</u>, including the performance of the functions of the independent, central monetary authority, subject to restrictions provided by law. Nothing in this Act shall be construed as having amended or repealed Republic Act No. 1405, otherwise known as the Secrecy of Bank Deposits Act; Republic Act No. 6426, otherwise known as the Foreign Currency Deposit Act; and <u>Republic Act No. 9510, otherwise known as the Credit Information System Act (CISA)</u>;
 >
-> e. *Information necessary for banks, other financial institutions under the jurisdiction of the independent, central monetary authority or Bangko Sentral ng Pilipinas, and other bodies authorized by law, to the extent necessary to comply with Republic Act No. 9510 (CISA)*, Republic Act No. 9160, as amended, otherwise known as the Anti-Money Laundering Act, and other applicable laws;
+> <u>e. Information necessary</u> for banks, other financial institutions under the jurisdiction of the independent, central monetary authority or Bangko Sentral ng Pilipinas, <u>and other bodies authorized by law, to the extent necessary to comply with Republic Act No. 9510 (CISA)</u>, Republic Act No. 9160, as amended, otherwise known as the Anti-Money Laundering Act, and other applicable laws;
 >
-> *Provided*, that the **non-applicability of the Act or these Rules do not extend to personal information controllers or personal information processors, who remain subject to the requirements of implementing security measures for personal data protection**: *Provided further*, that the processing of the information provided in the preceding paragraphs shall be **exempted from the requirements of the Act only to the minimum extent necessary to achieve the specific purpose, function, or activity**." (Underscoring supplied).
+> *Provided*, that the <u>non-applicability of the Act or these Rules do not extend to personal information controllers or personal information processors, who remain subject to the requirements of implementing security measures for personal data protection</u>: Provided further, that the processing of the information provided in the preceding paragraphs shall be exempted from the requirements of the Act <u>only to the minimum extent necessary to achieve the specific purpose, function, or activity</u>." (Underscoring supplied).
 
 From the provisions above, it is apparent that the exemptions from the coverage of the law, the IRR and NPC issuances are those information being collected pursuant to the laws enumerated, including the CISA.
 
@@ -68,7 +66,7 @@ The exemption particularly pertains to information necessary in carrying out the
 
 The CIC, as a personal information controller, is covered by the DPA's requirement for implementing security measures for personal data protection. It is required to implement the appropriate and reasonable organizational, physical and technical security measures to protect the data it has collected from the submitting entities.
 
-#### Data Sharing
+*Data Sharing*
 
 [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-20-general-principles-for-data-sharing|Section 20(a) of the IRR]] of the DPA provides that data sharing shall be allowed when it is expressly authorized by law and that there are adequate safeguards for data privacy and security, and processing adheres to principle of transparency, legitimate purpose and proportionality.
 
@@ -82,15 +80,15 @@ For your reference.
 
 Very truly yours,
 
-RAYMUND ENRIQUEZ LIBORO
+**RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
-cc: MR. JAIME CASTO JOSE P. GARCHITORENA
-    President
-    Credit Information System
-    6F Exchange Corner Building
-    107 VA Rufino corner Esteban St.,
-    Legaspi Village, Makati City 1229
+cc: &emsp; **MR. JAIME CASTO JOSE P. GARCHITORENA**<br>
+&emsp;&emsp; *President*<br>
+&emsp;&emsp; Credit Information System<br>
+&emsp;&emsp; 6F Exchange Corner Building<br>
+&emsp;&emsp; 107 VA Rufino corner Esteban St.,<br>
+&emsp;&emsp; Legaspi Village, Makati City 1229
 
 [^1]: AN ACT ESTABLISHING THE CREDIT INFORMATION SYSTEM AND FOR OTHER PURPOSES, "Credit Information System Act" (31 October 2008)
 [^2]: *Id.*, §2

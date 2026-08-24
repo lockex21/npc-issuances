@@ -23,15 +23,13 @@ draft: false
 
 14 August 2017
 
-Re: PROFILING OF INDIVIDUALS AND COLLECTION OF PERSONAL INFORMATION BASED ON PUBLICLY AVAILABLE DATA
+**Re: PROFILING OF INDIVIDUALS AND COLLECTION OF<br>PERSONAL INFORMATION BASED ON PUBLICLY<br>AVAILABLE DATA**
 
-Dear [Redacted],
+Dear **[Redacted]**,
 
 This pertains to your query received by the National Privacy Commission (NPC) on via email. You sought clarification on two points. *First*, whether or not publicly available personal data specifically those posted on social media sites and published in news articles, magazines and other reading materials available to the public, are covered by the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (“DPA”). *Second*, whether or not companies are allowed to profile individuals and keep a record of personal information based on publicly available data about them.
 
-### Discussion
-
-#### Social Media and Privacy in the Philippines
+*Social media and privacy in the Philippines*
 
 Philippine jurisprudence concerning social media is relatively new. In 2014, the Supreme Court ruled on the case of *Vivares v. St. Theresa’s College*[^1]. The case elucidated that “[to] address concerns about privacy,…Facebook was armed with different privacy tools designed to regulate the accessibility of a user’s profile as well as information uploaded by the user.”[^2] Thus, it basically sets the protection of the individual’s privacy in the hands of the Facebook user himself.
 
@@ -39,7 +37,7 @@ In the recent case of *Belo v. Guevarra*[^3], the Supreme Court reiterated that 
 
 Again, data privacy and security rest on the choices made by the individual in Facebook. The passage of the DPA, however, establishes new standards wherein personal data may be secured.
 
-#### Information Available in the Public Domain
+*Information available in the public domain*
 
 We believe that the provisions of the DPA are still applicable even for those personal data which are available in the public domain. Note that the law has specified the information which is outside of its scope but only to the minimum extent necessary to achieve the specific purpose, function, or activity in Section 4 thereof.
 
@@ -53,7 +51,7 @@ We believe that consent may still be required from the data subject where his or
 
 We reiterate the definition of consent as “any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of personal information about and/or relating to him or her. Consent shall be evidenced by written, electronic or recorded means. It may also be given on behalf of the data subject by an agent specifically authorized by the data subject to do so.”[^7]
 
-#### Profiling Based on Publicly Available Information
+*Profiling based on publicly available information*
 
 Profiling is defined under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-3-definitions|Section 3(p) of the Implementing Rules and Regulations]] (IRR) of the DPA as “any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyze or predict aspects concerning that natural person’s performance at work, economic situation, health, personal preferences, interests, reliability, behavior, location or movements.”
 
@@ -69,17 +67,17 @@ For your reference.
 
 Very truly yours,
 
-RAYMUND ENRIQUEZ LIBORO
+**RAYMUND ENRIQUEZ LIBORO**
 Privacy Commissioner and Chairman
 
 [^1]: G.R. No. 202666, 24 September 2014.
-[^2]: *Ibid.*
+[^2]: Ibid.
 [^3]: A.C. No. 11394, 01 December 2016.
-[^4]: *Ibid.*
+[^4]: Ibid.
 [^5]: Office of the Privacy Commissioner for Personal Data, Hong Kong, *Guidance Note - Guidance on Use of Personal Data Obtained from the Public Domain*, August 2013, available at https://www.pcpd.org.hk/english/publications/files/GN_public_domain_e.pdf
-[^6]: *Id.*
+[^6]: Id.
 [^7]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(b)]]
 [^8]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|RA No. 10173, §3(h)]].
 [^9]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|IRR of RA No. 10173, §34(a)(1)]]
-[^10]: *Id.*, §34(b)
-[^11]: *Id.*, §6(a)
+[^10]: Id., §34(b)
+[^11]: Id., §6(a)
