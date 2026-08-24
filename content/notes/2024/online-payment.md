@@ -27,7 +27,7 @@ Write a concise summary and legal significance notes here.
 - Reference: None detected
 - Type: Advisory
 - Year: 2024
-- Issued: Unknown
+- Issued: March 15, 2024
 - Pages: 2
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/03/Fees_Advisory_Final_15-March-2024.pdf
 - OCR used during extraction: no

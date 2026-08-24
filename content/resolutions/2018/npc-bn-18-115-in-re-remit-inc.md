@@ -22,7 +22,7 @@ date: "2023-01-26"
 - Reference: NPC BN 18-115
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/09/NPC-BN-18-115-2023.01.25-I-Remit-Resolution.pdf
 - Source page: http://privacy.gov.ph/resolutions/
-- Issue date: June 21, 2018
+- Issue date: January 26, 2023
 - Published on NPC site: Wed, 06 Sep 2023 01:46:57 GMT
 - Pages: 8
 

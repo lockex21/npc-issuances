@@ -5,7 +5,7 @@ aliases:
   - "Rules of procedure on requests for Advisory Opinions Raw Source Text"
 tags:
   - "source-text"
-  - "year/undated"
+  - "year/2018"
 draft: false
 ---
 

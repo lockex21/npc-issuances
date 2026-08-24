@@ -51,6 +51,7 @@ MIRROR_PREFIX = "https://r.jina.ai/http://"
 MIRROR_URL = f"{MIRROR_PREFIX}{ORDERS_URL.removeprefix('http://')}"
 INDEX_CACHE = CACHE_DIR / "index.md"
 DATA_PATH = DATA_DIR / "orders.json"
+ORDER_OVERRIDES_PATH = DATA_DIR / "order_overrides.json"
 USER_AGENT = "Mozilla/5.0 (compatible; NPC-Issuance-Wiki/1.0)"
 
 # Section heading as it appears in the Jina markdown mirror.
@@ -119,6 +120,70 @@ class OrderRecord:
 
     def as_dict(self) -> dict[str, Any]:
         return self.__dict__.copy()
+
+
+ORDER_OVERRIDE_META_KEYS = {"preserve_existing_markdown"}
+
+
+def load_order_overrides() -> dict[str, dict[str, Any]]:
+    if not ORDER_OVERRIDES_PATH.exists():
+        return {}
+
+    payload = json.loads(ORDER_OVERRIDES_PATH.read_text(encoding="utf-8"))
+    if not isinstance(payload, dict):
+        raise ValueError(f"{ORDER_OVERRIDES_PATH} must contain a JSON object")
+
+    allowed_keys = set(OrderRecord.__dataclass_fields__) | ORDER_OVERRIDE_META_KEYS
+    normalized: dict[str, dict[str, Any]] = {}
+    for slug, override in payload.items():
+        if not isinstance(override, dict):
+            raise ValueError(f"Override for order/{slug} must be a JSON object")
+        unknown_keys = sorted(set(override) - allowed_keys)
+        if unknown_keys:
+            raise ValueError(
+                f"Unknown override key(s) for order/{slug}: {', '.join(unknown_keys)}"
+            )
+        normalized[str(slug)] = override
+    return normalized
+
+
+def apply_order_override(record: OrderRecord, override: dict[str, Any]) -> bool:
+    for key, value in override.items():
+        if key in ORDER_OVERRIDE_META_KEYS:
+            continue
+        setattr(record, key, value)
+    return bool(override.get("preserve_existing_markdown"))
+
+
+def load_records_from_json(
+    overrides: dict[str, dict[str, Any]] | None = None,
+) -> list[OrderRecord]:
+    payload = json.loads(DATA_PATH.read_text(encoding="utf-8"))
+    raw_records = payload.get("records") if isinstance(payload, dict) else None
+    if not isinstance(raw_records, list):
+        raise ValueError(f"{DATA_PATH} must contain a records list")
+
+    fields = set(OrderRecord.__dataclass_fields__)
+    overrides = overrides or {}
+    records: list[OrderRecord] = []
+    for index, raw_record in enumerate(raw_records):
+        if not isinstance(raw_record, dict):
+            raise ValueError(f"{DATA_PATH} record {index} must be a JSON object")
+        missing = sorted(fields - set(raw_record))
+        if missing:
+            raise ValueError(
+                f"{DATA_PATH} record {index} is missing key(s): {', '.join(missing)}"
+            )
+        record = OrderRecord(**{key: raw_record[key] for key in fields})
+        override = overrides.get(record.slug)
+        if override:
+            apply_order_override(record, override)
+        records.append(record)
+    return sorted(
+        records,
+        key=lambda r: (r.issue_date_iso or "", r.reference_label or "", r.title),
+        reverse=True,
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -411,7 +476,10 @@ def build_markdown(record: OrderRecord, cleaned_text: str) -> str:
 # Pipeline
 # ---------------------------------------------------------------------------
 
-def build_records(refresh: bool) -> list[OrderRecord]:
+def build_records(
+    refresh: bool,
+    overrides: dict[str, dict[str, Any]] | None = None,
+) -> list[OrderRecord]:
     """Full pipeline: fetch index → download PDFs → extract text → write markdown."""
     raw_index = load_or_fetch(INDEX_CACHE, MIRROR_URL, refresh=refresh)
     index_markdown = split_mirror_response(raw_index)
@@ -424,6 +492,7 @@ def build_records(refresh: bool) -> list[OrderRecord]:
     for d in (pdf_dir, raw_dir, text_dir):
         d.mkdir(parents=True, exist_ok=True)
 
+    overrides = overrides or {}
     records: list[OrderRecord] = []
     seen_slugs: set[str] = set()
 
@@ -483,8 +552,15 @@ def build_records(refresh: bool) -> list[OrderRecord]:
             excerpt=excerpt,
             ocr_used=ocr_used,
         )
-        markdown_path.parent.mkdir(parents=True, exist_ok=True)
-        markdown_path.write_text(build_markdown(record, cleaned_text), encoding="utf-8")
+        preserve_existing_markdown = False
+        override = overrides.get(record.slug)
+        if override:
+            preserve_existing_markdown = apply_order_override(record, override)
+
+        markdown_path = ROOT / record.markdown_path
+        if not (preserve_existing_markdown and markdown_path.exists()):
+            markdown_path.parent.mkdir(parents=True, exist_ok=True)
+            markdown_path.write_text(build_markdown(record, cleaned_text), encoding="utf-8")
         records.append(record)
 
     return sorted(
@@ -518,7 +594,7 @@ def download_only(refresh: bool) -> None:
     print(f"PDFs cached: {pdfs_found} in {pdf_dir}")
 
 
-def text_only() -> None:
+def text_only(overrides: dict[str, dict[str, Any]] | None = None) -> None:
     """Rebuild text extraction and markdown from already-cached PDFs."""
     pdf_dir = CACHE_DIR / "pdfs"
     raw_dir = CACHE_DIR / "text_raw"
@@ -530,6 +606,7 @@ def text_only() -> None:
     index_markdown = split_mirror_response(raw_index)
     entries = parse_index_entries(index_markdown)
 
+    overrides = overrides or {}
     seen_slugs: set[str] = set()
     records: list[OrderRecord] = []
 
@@ -576,8 +653,15 @@ def text_only() -> None:
             excerpt=excerpt,
             ocr_used=ocr_used,
         )
-        markdown_path.parent.mkdir(parents=True, exist_ok=True)
-        markdown_path.write_text(build_markdown(record, cleaned_text), encoding="utf-8")
+        preserve_existing_markdown = False
+        override = overrides.get(record.slug)
+        if override:
+            preserve_existing_markdown = apply_order_override(record, override)
+
+        markdown_path = ROOT / record.markdown_path
+        if not (preserve_existing_markdown and markdown_path.exists()):
+            markdown_path.parent.mkdir(parents=True, exist_ok=True)
+            markdown_path.write_text(build_markdown(record, cleaned_text), encoding="utf-8")
         records.append(record)
 
     records = sorted(
@@ -672,17 +756,30 @@ def main() -> int:
         action="store_true",
         help="Rebuild text extraction and markdown from already-cached PDFs.",
     )
+    parser.add_argument(
+        "--indexes-only",
+        action="store_true",
+        help="Apply overrides and rebuild JSON/index pages without rewriting order text.",
+    )
     args = parser.parse_args()
+    overrides = load_order_overrides()
 
     if args.download_only:
         download_only(refresh=args.refresh)
         return 0
 
     if args.text_only:
-        text_only()
+        text_only(overrides=overrides)
         return 0
 
-    records = build_records(refresh=args.refresh)
+    if args.indexes_only:
+        records = load_records_from_json(overrides=overrides)
+        write_json(records)
+        build_index_pages(records)
+        print(f"Rebuilt indexes for {len(records)} orders under {CONTENT_DIR}")
+        return 0
+
+    records = build_records(refresh=args.refresh, overrides=overrides)
     write_json(records)
     build_index_pages(records)
     print(f"Generated {len(records)} orders under {CONTENT_DIR}")

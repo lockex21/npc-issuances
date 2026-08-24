@@ -76,9 +76,9 @@
       "excerpt": "NPC BN 18-057: In Re: Taguig City University"
     },
     {
-      "title": "NPC BN 18-036: In re: Smart Communications, Inc.",
+      "title": "NPC BN 18-063: In re: Smart Communications, Inc.",
       "short_title": "In re: Smart Communications, Inc.",
-      "reference_label": "NPC BN 18-036",
+      "reference_label": "NPC BN 18-063",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2025/02/NPC-BN-18-063-2024.10.17-In-re-Smart-Communications-Inc.-Resolution.pdf",
       "source_tags_raw": "Tags: Mandatory Breach Notification",
       "source_tags": [
@@ -95,6 +95,29 @@
       "text_path": "cache/resolutions/text/npc-bn-18-063-2024-10-17-in-re-smart-communications-inc-resolution-315017a0b4.txt",
       "markdown_path": "content/resolutions/2018/npc-bn-18-036-in-re-smart-communications-inc.md",
       "excerpt": "NPC BN 18-036: In re: Smart Communications, Inc."
+    },
+    {
+      "title": "NPC BN 18-054: In Re: Department of Education – Calamba",
+      "short_title": "In Re: Department of Education – Calamba",
+      "reference_label": "NPC BN 18-054",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2025/12/NPC-BN-18-054-09.17.24-In-re-Department-of-Education-Calamba_Resolution.pdf",
+      "source_tags_raw": "Sec 18. Notification of Data Subjects; Sec18(c). Content of Notification; Sec 20. Security of Personal Information",
+      "source_tags": [
+        "Sec 18. Notification of Data Subjects",
+        "Sec18(c). Content of Notification",
+        "Sec 20. Security of Personal Information"
+      ],
+      "issue_date": "September 17, 2024",
+      "issue_date_iso": "2024-09-17",
+      "published_time": "Fri, 12 Dec 2025 02:58:57 GMT",
+      "published_time_iso": "2025-12-12T02:58:57+00:00",
+      "page_count": 12,
+      "year": "2024",
+      "slug": "npc-bn-18-054-in-re-department-of-education-calamba",
+      "raw_text_path": "cache/resolutions/text_raw/npc-bn-18-054-09-17-24-in-re-department-of-education-calamba-resolution-c622f1a19a.md",
+      "text_path": "cache/resolutions/text/npc-bn-18-054-09-17-24-in-re-department-of-education-calamba-resolution-c622f1a19a.txt",
+      "markdown_path": "content/resolutions/2022/npc-bn-18-054-in-re-department-of-education-calamba.md",
+      "excerpt": "NPC BN 18-054: In Re: Department of Education – Calamba"
     },
     {
       "title": "NPC CC 20-001: In Re: Grab Philippines",
@@ -261,9 +284,9 @@
       "excerpt": "NPC BN 18-208: In Re: Quicklend Financing Company, Inc."
     },
     {
-      "title": "NPC 18-151: In re: Western Union Services (Philippines), Inc.",
+      "title": "NPC BN 18-151: In re: Western Union Services (Philippines), Inc.",
       "short_title": "In re: Western Union Services (Philippines), Inc.",
-      "reference_label": "NPC 18-151",
+      "reference_label": "NPC BN 18-151",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/10/NPC-BN-18-151-In-re-Western-Union-Resolution-Final.pdf",
       "source_tags_raw": "Tags: Notification of Data Subjects; Securityu of Personal Information; Technical Security Measures; Mandatory Breach Notification",
       "source_tags": [
@@ -328,9 +351,9 @@
       "excerpt": "In re: Commission on Elections, Smartmatic Group of Companies, RVA, WS, and other John Does"
     },
     {
-      "title": "NPC 19-002: In Re: PJ Lhuillier Incorporated",
-      "short_title": "In Re: PJ Lhuillier Incorporated",
-      "reference_label": "NPC 19-002",
+      "title": "NPC BN 19-002: In re: PJ Lhuillier Incorporated",
+      "short_title": "In re: PJ Lhuillier Incorporated",
+      "reference_label": "NPC BN 19-002",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-19-002-2024.05.16-In-re-PJ-Lhuillier-Incorporated-Resolution.pdf",
       "source_tags_raw": "Tags: Notification of Data Subjects; Technical Security Measures",
       "source_tags": [
@@ -350,8 +373,8 @@
       "excerpt": "Compliance, 18 June 2021, Proof of Implementation - Organizational , in In re: PJ Lhuillier, Inc. , NPC"
     },
     {
-      "title": "NPC BN 18-140: In Re: Datascope Communications (Philippines), Inc.",
-      "short_title": "In Re: Datascope Communications (Philippines), Inc.",
+      "title": "NPC BN 18-140: In re: Datascope Communications (Philippines), Inc.",
+      "short_title": "In re: Datascope Communications (Philippines), Inc.",
       "reference_label": "NPC BN 18-140",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2025/10/NPC-BN-18-140-04.18.2024-In-re-Datascope-Communications-Philippines-Inc._Order.pdf",
       "source_tags_raw": "Tags: Sec 17(d). Content Notification; Sec 11. When Notification is required; Sec 20. Security of Personal Information.",
@@ -440,9 +463,9 @@
       "excerpt": "NPC BN 18-242: In Re: Convergys Philippines, INc. (Now Known as Concentrix CVG Philippines, Inc.)"
     },
     {
-      "title": "NPC 18-144: In Re: Office Warehouse, Inc.",
-      "short_title": "In Re: Office Warehouse, Inc.",
-      "reference_label": "NPC 18-144",
+      "title": "NPC BN 18-144: In re: Office Warehouse, Inc.",
+      "short_title": "In re: Office Warehouse, Inc.",
+      "reference_label": "NPC BN 18-144",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-18-144-2024.03.21-In-re-Office-Warehouse-Inc.-Resolution.pdf",
       "source_tags_raw": "Tags: Mandatory Breach Notification; Security of Personal Information",
       "source_tags": [
@@ -552,8 +575,8 @@
       "excerpt": "NPC BN 20-167: In re: Travelservices, Inc."
     },
     {
-      "title": "NPC BN 18-021: In Re: Asian Hospital Medical Center",
-      "short_title": "In Re: Asian Hospital Medical Center",
+      "title": "NPC BN 18-021: In re: Asian Hospital and Medical Center",
+      "short_title": "In re: Asian Hospital and Medical Center",
       "reference_label": "NPC BN 18-021",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-18-021-2023.11.13-R.pdf",
       "source_tags_raw": "Tags: Notification of Data Subjects and Technical Security Measures",
@@ -636,8 +659,8 @@
       "excerpt": "NPC BN 18-138: In Re: Pacific Plaza Resolution"
     },
     {
-      "title": "NPC BN 18-202: In re: COCA-COLA Femsa Philippines, Inc.",
-      "short_title": "In re: COCA-COLA Femsa Philippines, Inc.",
+      "title": "NPC BN 18-202: In re: Coca-Cola Femsa Philippines, Inc. (now Coca-Cola Beverages Philippines, Inc.)",
+      "short_title": "In re: Coca-Cola Femsa Philippines, Inc. (now Coca-Cola Beverages Philippines, Inc.)",
       "reference_label": "NPC BN 18-202",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-18-202-10.19.2023-In-re-Coca-Cola-Femsa-Philippines-Inc._Resolution.pdf",
       "source_tags_raw": "Tags: When Notification is Required",
@@ -702,9 +725,9 @@
       "excerpt": "Letter dated 23 October 2018 “Identity Theft dated May 01, 2018 of Data Breach Notification"
     },
     {
-      "title": "NPC 18-046: In re: City Government of Iloilo-Internal Audit Services",
-      "short_title": "In re: City Government of Iloilo-Internal Audit Services",
-      "reference_label": "NPC 18-046",
+      "title": "NPC BN 18-046: In re: City Government of Iloilo – Internal Audit Services",
+      "short_title": "In re: City Government of Iloilo – Internal Audit Services",
+      "reference_label": "NPC BN 18-046",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-18-046-2023.08.17-In-re-City-Government-of-Iloilo-Resolution-FinalP.pdf",
       "source_tags_raw": "Tags: Technical Security Measures and Personal Data Breach",
       "source_tags": [
@@ -723,9 +746,9 @@
       "excerpt": "Notification to the Commission, 11 April 2018, at 1, in In re: City Government of Iloilo – Internal"
     },
     {
-      "title": "NPC 18-120: In re: Dyna Drug Corporation",
+      "title": "NPC BN 18-120: In re: Dyna Drug Corporation",
       "short_title": "In re: Dyna Drug Corporation",
-      "reference_label": "NPC 18-120",
+      "reference_label": "NPC BN 18-120",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-18-120-2023.08.17-In-re-Dyna-Drug-Corporation-Resolution-Final.pdf",
       "source_tags_raw": "Tags: Notification of Data Subjects and Personal Information Controller",
       "source_tags": [
@@ -744,9 +767,9 @@
       "excerpt": "Order, 18 April 2022, at 1, in In re: Dyna Drug Corporation, NPC BN 18 -120 (NPC 2022) ."
     },
     {
-      "title": "NPC 23-015: In re: Metro Pacific Tollways Corporation",
+      "title": "NPC BN 23-015: In re: Metro Pacific Tollways Corporation",
       "short_title": "In re: Metro Pacific Tollways Corporation",
-      "reference_label": "NPC 23-015",
+      "reference_label": "NPC BN 23-015",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-23-015-2023.08.17-In-re-Metro-Pacific-Tollways-Corporation-Resolution-Final.pdf",
       "source_tags_raw": "Tags: Mandatory Breach Notification",
       "source_tags": [
@@ -790,9 +813,9 @@
       "excerpt": "Personal Data Breach Notification from AIG Shared Services Corporation - Management Services"
     },
     {
-      "title": "NPC 17-010: In re: Movie and Television Review and Classification Board",
+      "title": "NPC BN 17-010: In re: Movie and Television Review and Classification Board",
       "short_title": "In re: Movie and Television Review and Classification Board",
-      "reference_label": "NPC 17-010",
+      "reference_label": "NPC BN 17-010",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-17-010-2023.07.13-In-re-MTRCB-Resolution-Final.pdf",
       "source_tags_raw": "Tags: Notification of Data Subjects and Alternative Means of Notification",
       "source_tags": [
@@ -811,8 +834,8 @@
       "excerpt": "Before the Commission is the Movie and Television Review and Classification Board’s (MTRCB) breach notification and management in compliance with NPC Circular 16-03 (Personal Data Breach Management)."
     },
     {
-      "title": "NPC BN 18-220 and NPC BN 18-231: In Re: Department of Trade and Industry",
-      "short_title": "In Re: Department of Trade and Industry",
+      "title": "NPC BN 18-220 and NPC BN 18-231: In re: Department of Trade and Industry and Department of Trade and Industry – Rizal Provincial Office",
+      "short_title": "In re: Department of Trade and Industry and Department of Trade and Industry – Rizal Provincial Office",
       "reference_label": "NPC BN 18-220 and NPC BN 18-231",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/08/NPC-BN-18-220-and-NPC-BN-18-231-2023.06.30-In-Re-Department-of-Trade-and-Industry-Resolution-Final.pdf",
       "source_tags_raw": "Tags: Technical Security Measures and Personal Information Controller",
@@ -856,9 +879,9 @@
       "excerpt": "Full Report, 21 October 2020, at 1, in In re: Manufacturers Life Insurance Co., NPC BN 18 -213"
     },
     {
-      "title": "NPC 17-028 and NPC BN 18-180: In re: EasyTrip Services Corporation",
+      "title": "NPC BN 17-028 and NPC BN 18-180: In re: EasyTrip Services Corporation",
       "short_title": "In re: EasyTrip Services Corporation",
-      "reference_label": "NPC 17-028 and NPC BN 18-180",
+      "reference_label": "NPC BN 17-028 and NPC BN 18-180",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/06/NPC-BN-17-028-_-18-180-2023.05.11-Resolution-FinalP.pdf",
       "source_tags_raw": "Tags: Mandatory Breach Notification and Technical Security Measures",
       "source_tags": [
@@ -877,16 +900,16 @@
       "excerpt": "Full Report, 19 September 2018, at 1, in In Re: Easytrip Services Corporation, NPC BN 17 -028"
     },
     {
-      "title": "NPC 18-019: In re: Ateneo de Zamboanga University",
+      "title": "NPC BN 18-019: In re: Ateneo de Zamboanga University",
       "short_title": "In re: Ateneo de Zamboanga University",
-      "reference_label": "NPC 18-019",
+      "reference_label": "NPC BN 18-019",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-18-019-2023.05.09-Ateneo-de-Zamboanga-Resolution-Final.pdf",
       "source_tags_raw": "Tags: Technical Security Measures",
       "source_tags": [
         "Technical Security Measures"
       ],
-      "issue_date": "May 9, 2023",
-      "issue_date_iso": "2023-05-09",
+      "issue_date": "May 11, 2023",
+      "issue_date_iso": "2023-05-11",
       "published_time": "Thu, 02 May 2024 07:42:27 GMT",
       "published_time_iso": "2024-05-02T07:42:27+00:00",
       "page_count": 9,
@@ -898,9 +921,9 @@
       "excerpt": "Post Breach Report - Report of the Fact -Finding Committee on the case of the Payroll Breach dated"
     },
     {
-      "title": "NPC 18-142: In re: Smart Communications, Inc",
-      "short_title": "In re: Smart Communications, Inc",
-      "reference_label": "NPC 18-142",
+      "title": "NPC BN 18-142: In re: Smart Communications, Inc.",
+      "short_title": "In re: Smart Communications, Inc.",
+      "reference_label": "NPC BN 18-142",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-18-142-2023.03.30-Smart-Communications-Inc-Resolution-Final.pdf",
       "source_tags_raw": "Tags: Technical Security Measures and Organizational Measures",
       "source_tags": [
@@ -919,9 +942,9 @@
       "excerpt": "Data Breach Notification – SMART LTE Tourist SIM Registration Matter, 01 August 2018, at 1, in"
     },
     {
-      "title": "NPC 18-073: In re: Philippine Long Distance Telephone Company, Inc.",
+      "title": "NPC BN 18-073: In re: Philippine Long Distance Telephone Company, Inc.",
       "short_title": "In re: Philippine Long Distance Telephone Company, Inc.",
-      "reference_label": "NPC 18-073",
+      "reference_label": "NPC BN 18-073",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-18-073-2023.03.16-In-re-Philippine-Long-Distance-Telephone-Inc-Resolution-Final.pdf",
       "source_tags_raw": "Tags: Notification of Data Subjects",
       "source_tags": [
@@ -962,9 +985,9 @@
       "excerpt": "NPC 18-G-077: In re: TGM vs EDM, EAS, and MCN"
     },
     {
-      "title": "NPC 18-075: In re: Cebu Air, Inc.",
+      "title": "NPC BN 18-075: In re: Cebu Air, Inc.",
       "short_title": "In re: Cebu Air, Inc.",
-      "reference_label": "NPC 18-075",
+      "reference_label": "NPC BN 18-075",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-18-075-2023.02.22-In-re-Cebu-Air-Inc-Resolution-FinalP.pdf",
       "source_tags_raw": "Tags: Notification of Data Subjects; Mandatory Breach Notification; and Procedures in Security Incident or Personal Data Breach",
       "source_tags": [
@@ -985,9 +1008,30 @@
       "excerpt": "Breach Notification Report – 18 May 2018 Event, 21 May 2018, in In re: Cebu Pacific, NPC BN 18 -"
     },
     {
-      "title": "NPC 18-222: In re: Polytechnic University of the Philippines",
+      "title": "NPC 20-026: JBA v. FNT and NNT",
+      "short_title": "JBA v. FNT and NNT",
+      "reference_label": "NPC 20-026",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/08/NPC_20_026_2023_02_22_JBA_v_FNT_and_NNT_Resolution.pdf",
+      "source_tags_raw": "Tags: Unauthorized Processing (Section 25), Right to Erasure",
+      "source_tags": [
+        "Unauthorized Processing (Section 25), Right to Erasure"
+      ],
+      "issue_date": "February 22, 2023",
+      "issue_date_iso": "2023-02-22",
+      "published_time": "Wed, 09 Aug 2023 09:44:53 GMT",
+      "published_time_iso": "2023-08-09T09:44:53+00:00",
+      "page_count": 16,
+      "year": "2023",
+      "slug": "npc-20-026-jba-v-fnt-and-nnt",
+      "raw_text_path": "cache/resolutions/text_raw/npc-20-026-2023-02-22-jba-v-fnt-and-nnt-resolution-cd25f7e1bd.md",
+      "text_path": "cache/resolutions/text/npc-20-026-2023-02-22-jba-v-fnt-and-nnt-resolution-cd25f7e1bd.txt",
+      "markdown_path": "content/resolutions/2022/npc-20-026-jba-v-fnt-and-nnt.md",
+      "excerpt": "Decision, 22 Septembe r 2022 , at 22, in JBA v. FNT and NNT , NP C 20-02 6 (NPC 202 2)."
+    },
+    {
+      "title": "NPC BN 18-222: In re: Polytechnic University of the Philippines",
       "short_title": "In re: Polytechnic University of the Philippines",
-      "reference_label": "NPC 18-222",
+      "reference_label": "NPC BN 18-222",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-18-222-2023.02.03-In-re-PUP-Resolution-FinalP.pdf",
       "source_tags_raw": "Tags: Notification of Data Subjects and Security Incident Management Policy",
       "source_tags": [
@@ -1004,6 +1048,52 @@
       "text_path": "cache/resolutions/text/npc-bn-18-222-2023-02-03-in-re-pup-resolution-finalp-b33e196c93.txt",
       "markdown_path": "content/resolutions/2023/npc-18-222-in-re-polytechnic-university-of-the-philippines.md",
       "excerpt": "NPC 18-222: In re: Polytechnic University of the Philippines"
+    },
+    {
+      "title": "NPC 21-214: In re: Teletech Customer Care Management Philippines, Inc.",
+      "short_title": "In re: Teletech Customer Care Management Philippines, Inc.",
+      "reference_label": "NPC 21-214",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-21-214-01.26.2023_In-re-Teletech-Customer-Care-Management-Philippines-Inc_Resolution.pdf",
+      "source_tags_raw": "Tags: Notification of Data Subject; Personal Data Breach Management; Documentation",
+      "source_tags": [
+        "Notification of Data Subject",
+        "Personal Data Breach Management",
+        "Documentation"
+      ],
+      "issue_date": "January 26, 2023",
+      "issue_date_iso": "2023-01-26",
+      "published_time": "Sun, 01 Dec 2024 14:26:54 GMT",
+      "published_time_iso": "2024-12-01T14:26:54+00:00",
+      "page_count": 12,
+      "year": "2023",
+      "slug": "npc-21-214-in-re-teletech-customer-care-management-philippines-inc",
+      "raw_text_path": "cache/resolutions/text_raw/npc-bn-21-214-01-26-2023-in-re-teletech-customer-care-management-philippines-inc-resolution-7e9ea747b5.md",
+      "text_path": "cache/resolutions/text/npc-bn-21-214-01-26-2023-in-re-teletech-customer-care-management-philippines-inc-resolution-7e9ea747b5.txt",
+      "markdown_path": "content/resolutions/2022/npc-21-214-in-re-teletech-customer-care-management-philippines-inc.md",
+      "excerpt": "In re: Teletech Customer Care Management Philippines, Inc., NPC BN 18 -205, Order dated"
+    },
+    {
+      "title": "NPC BN 18-115: In Re: REMIT, Inc.",
+      "short_title": "In Re: REMIT, Inc.",
+      "reference_label": "NPC BN 18-115",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/09/NPC-BN-18-115-2023.01.25-I-Remit-Resolution.pdf",
+      "source_tags_raw": "Tags: Technical Security Measures; Physical Measures; Organizational Measures",
+      "source_tags": [
+        "Technical Security Measures",
+        "Physical Measures",
+        "Organizational Measures"
+      ],
+      "issue_date": "January 26, 2023",
+      "issue_date_iso": "2023-01-26",
+      "published_time": "Wed, 06 Sep 2023 01:46:57 GMT",
+      "published_time_iso": "2023-09-06T01:46:57+00:00",
+      "page_count": 8,
+      "year": "2023",
+      "slug": "npc-bn-18-115-in-re-remit-inc",
+      "raw_text_path": "cache/resolutions/text_raw/npc-bn-18-115-2023-01-25-i-remit-resolution-ee9afdc0e9.md",
+      "text_path": "cache/resolutions/text/npc-bn-18-115-2023-01-25-i-remit-resolution-ee9afdc0e9.txt",
+      "markdown_path": "content/resolutions/2018/npc-bn-18-115-in-re-remit-inc.md",
+      "excerpt": "Noti fication to the C ommission , 04 J uly 2018 , at 2, in In re: I-Remit , Inc ., NPC B N 18 -11 5 (NPC"
     },
     {
       "title": "NPC 22-012: RJC v. DL",
@@ -1025,29 +1115,6 @@
       "text_path": "cache/resolutions/text/npc-22-012-2023-01-26-rjc-v-dl-resolution-w-sgd-final-0bb11fe4e0.txt",
       "markdown_path": "content/resolutions/2023/npc-22-012-rjc-v-dl.md",
       "excerpt": "NPC 22-012: RJC v. DL"
-    },
-    {
-      "title": "NPC BN 18-115: In Re: REMIT, Inc.",
-      "short_title": "In Re: REMIT, Inc.",
-      "reference_label": "NPC BN 18-115",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/09/NPC-BN-18-115-2023.01.25-I-Remit-Resolution.pdf",
-      "source_tags_raw": "Tags: Technical Security Measures; Physical Measures; Organizational Measures",
-      "source_tags": [
-        "Technical Security Measures",
-        "Physical Measures",
-        "Organizational Measures"
-      ],
-      "issue_date": "January 25, 2023",
-      "issue_date_iso": "2023-01-25",
-      "published_time": "Wed, 06 Sep 2023 01:46:57 GMT",
-      "published_time_iso": "2023-09-06T01:46:57+00:00",
-      "page_count": 8,
-      "year": "2023",
-      "slug": "npc-bn-18-115-in-re-remit-inc",
-      "raw_text_path": "cache/resolutions/text_raw/npc-bn-18-115-2023-01-25-i-remit-resolution-ee9afdc0e9.md",
-      "text_path": "cache/resolutions/text/npc-bn-18-115-2023-01-25-i-remit-resolution-ee9afdc0e9.txt",
-      "markdown_path": "content/resolutions/2018/npc-bn-18-115-in-re-remit-inc.md",
-      "excerpt": "Noti fication to the C ommission , 04 J uly 2018 , at 2, in In re: I-Remit , Inc ., NPC B N 18 -11 5 (NPC"
     },
     {
       "title": "NPC 21-095: In re: Spouses LTG and CIG vs LSR",
@@ -1181,9 +1248,9 @@
       "excerpt": "NPC BN 18-006: In re: Business World Inc."
     },
     {
-      "title": "NPC 22-180 and 22-181: DVL v. Alamat Crewsers Motorcycle Club and LAE v. Alamat Crewsers Motorcycle Club",
+      "title": "NPC 22-180 and NPC 22-181: DVL v. Alamat Crewsers Motorcycle Club and LAE v. Alamat Crewsers Motorcycle Club",
       "short_title": "DVL v. Alamat Crewsers Motorcycle Club and LAE v. Alamat Crewsers Motorcycle Club",
-      "reference_label": "NPC 22-180 and 22-181",
+      "reference_label": "NPC 22-180 and NPC 22-181",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/04/NPC-22-180-and-22-181-2022.11.10-DVL-v.-Alamat-Crewsers-Motorcycle-Club-and-LAE-v.-Alamat-Crewsers-Motorcycle-Club-Resolution-Final.pdf",
       "source_tags_raw": "Tags: Consent, Legitimate Interest (Section 12(f)), Personal Information Controller",
       "source_tags": [
@@ -1223,8 +1290,8 @@
       "excerpt": "5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 130 7"
     },
     {
-      "title": "NPC 21-010 to NPC 21-015: MVC, et al. v. DSL",
-      "short_title": "MVC, et al. v. DSL",
+      "title": "NPC 21-010 to NPC 21-015: MCV, et al. v. DSL",
+      "short_title": "MCV, et al. v. DSL",
       "reference_label": "NPC 21-010 to NPC 21-015",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-010-to-NPC-21-015-2022.10.13-MVC-et.-al.-v.-DSL-Resolution-FinalP.pdf",
       "source_tags_raw": "Tags: Compliance with a Legal Obligation (Section 12 (c)), Jurisdiction, Motion for Reconsideration, Unauthorized Disclosure (Section 32)",
@@ -1307,27 +1374,6 @@
       "excerpt": "NPC 19-438: RPR v. Edukasyon.ph"
     },
     {
-      "title": "NPC 20-026: JBA v. FNT and NNT",
-      "short_title": "JBA v. FNT and NNT",
-      "reference_label": "NPC 20-026",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/08/NPC_20_026_2023_02_22_JBA_v_FNT_and_NNT_Resolution.pdf",
-      "source_tags_raw": "Tags: Unauthorized Processing (Section 25), Right to Erasure",
-      "source_tags": [
-        "Unauthorized Processing (Section 25), Right to Erasure"
-      ],
-      "issue_date": "September 22, 2022",
-      "issue_date_iso": "2022-09-22",
-      "published_time": "Wed, 09 Aug 2023 09:44:53 GMT",
-      "published_time_iso": "2023-08-09T09:44:53+00:00",
-      "page_count": 16,
-      "year": "2022",
-      "slug": "npc-20-026-jba-v-fnt-and-nnt",
-      "raw_text_path": "cache/resolutions/text_raw/npc-20-026-2023-02-22-jba-v-fnt-and-nnt-resolution-cd25f7e1bd.md",
-      "text_path": "cache/resolutions/text/npc-20-026-2023-02-22-jba-v-fnt-and-nnt-resolution-cd25f7e1bd.txt",
-      "markdown_path": "content/resolutions/2022/npc-20-026-jba-v-fnt-and-nnt.md",
-      "excerpt": "Decision, 22 Septembe r 2022 , at 22, in JBA v. FNT and NNT , NP C 20-02 6 (NPC 202 2)."
-    },
-    {
       "title": "NPC BN 18-085: In re: La Salle Greenhills School",
       "short_title": "In re: La Salle Greenhills School",
       "reference_label": "NPC BN 18-085",
@@ -1349,9 +1395,9 @@
       "excerpt": "Compliance dated 18 June 2022 from La Salle Green Hills in Data Privacy Policy , at p. 5 ."
     },
     {
-      "title": "NPC 18-037: In re: Acesite (Phils) Hotel Corporation",
-      "short_title": "In re: Acesite (Phils) Hotel Corporation",
-      "reference_label": "NPC 18-037",
+      "title": "NPC BN 18-037: In re: Acesite (Phils.) Hotel Corporation",
+      "short_title": "In re: Acesite (Phils.) Hotel Corporation",
+      "reference_label": "NPC BN 18-037",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-BN-18-037-09.22.2022-In-re-Acesite_Resolution.pdf",
       "source_tags_raw": "Tags: Privacy Impact Assessment",
       "source_tags": [
@@ -1370,9 +1416,9 @@
       "excerpt": "Compliance dated 19 May 2021 of Acesite (Phils.) Hotel Corporation, referred to as Annex “D”."
     },
     {
-      "title": "CID BN 17-020 & CID BN 17-029: In re: Breach Notification Report of Sun Life of Canada",
-      "short_title": "In re: Breach Notification Report of Sun Life of Canada",
-      "reference_label": "CID BN 17-020 & CID BN 17-029",
+      "title": "NPC BN 17-020 and BN 17-029: In re: Breach Notification Report of Sun Life of Canada (Philippines)",
+      "short_title": "In re: Breach Notification Report of Sun Life of Canada (Philippines)",
+      "reference_label": "NPC BN 17-020 and BN 17-029",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-BN-17-020-_-029-09.22.2022-In-Re-Sun-Life-of-Canada_Resolution.pdf",
       "source_tags_raw": "Tags: Personal Data Breach Management (NPC Circular 16-03)",
       "source_tags": [
@@ -1391,9 +1437,32 @@
       "excerpt": "See In re: Breach Notification Report of Sun Life of Canada (Philippines) , NPC BN 17 -020 and 17 -029,"
     },
     {
-      "title": "NPC BN 21-218: In Re: JRC vs. Bank of the Philippine Islands",
-      "short_title": "In Re: JRC vs. Bank of the Philippine Islands",
-      "reference_label": "NPC BN 21-218",
+      "title": "CID CDO 22-001: CID vs. PH-Check.com",
+      "short_title": "CID vs. PH-Check.com",
+      "reference_label": "CID CDO 22-001",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/CID-CDO-22-001-09.22.2022_CID-vs-PH-check_Order-Final.pdf",
+      "source_tags_raw": "Tags: Issuance of Cease and Desist Orders (NPC Circular No. 20-02) ; General Data Privacy Principles (Section 11) ; Rights of the Data Subject (Section 16)",
+      "source_tags": [
+        "Issuance of Cease and Desist Orders (NPC Circular No. 20-02)",
+        "General Data Privacy Principles (Section 11)",
+        "Rights of the Data Subject (Section 16)"
+      ],
+      "issue_date": "September 22, 2022",
+      "issue_date_iso": "2022-09-22",
+      "published_time": "Fri, 19 May 2023 17:31:44 GMT",
+      "published_time_iso": "2023-05-19T17:31:44+00:00",
+      "page_count": 20,
+      "year": "2022",
+      "slug": "npc-cdo-22-001-cid-vs-ph-check-com",
+      "raw_text_path": "cache/resolutions/text_raw/cid-cdo-22-001-09-22-2022-cid-vs-ph-check-order-final-278605250c.md",
+      "text_path": "cache/resolutions/text/cid-cdo-22-001-09-22-2022-cid-vs-ph-check-order-final-278605250c.txt",
+      "markdown_path": "content/resolutions/2022/npc-cdo-22-001-cid-vs-ph-check-com.md",
+      "excerpt": "Department of Trade and Industry (DTI) Endorsement Letter dated 19 January 2022 ; Initial Report"
+    },
+    {
+      "title": "NPC 21-218: In re: JRC v. Bank of the Philippine Islands",
+      "short_title": "In re: JRC v. Bank of the Philippine Islands",
+      "reference_label": "NPC 21-218",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/07/NPC-21-218-08.192022-Jennet-R-Cruz-vs-Bank-of-the-Philippine-Island.pdf",
       "source_tags_raw": "Tags: Sec (E) (3) Implementing Rules and Regulations of the Data Privacy Act 2012",
       "source_tags": [
@@ -1410,52 +1479,6 @@
       "text_path": "cache/resolutions/text/npc-21-218-08-192022-jennet-r-cruz-vs-bank-of-the-philippine-island-08db099c74.txt",
       "markdown_path": "content/resolutions/2022/npc-bn-21-218-in-re-jrc-vs-bank-of-the-philippine-islands.md",
       "excerpt": "Rule III, Section (e)(3) of the Implementing Rules and Regulations of the Data Privacy Act of"
-    },
-    {
-      "title": "NPC CDO 22-001: CID vs. PH-Check.com",
-      "short_title": "CID vs. PH-Check.com",
-      "reference_label": "NPC CDO 22-001",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/CID-CDO-22-001-09.22.2022_CID-vs-PH-check_Order-Final.pdf",
-      "source_tags_raw": "Tags: Issuance of Cease and Desist Orders (NPC Circular No. 20-02) ; General Data Privacy Principles (Section 11) ; Rights of the Data Subject (Section 16)",
-      "source_tags": [
-        "Issuance of Cease and Desist Orders (NPC Circular No. 20-02)",
-        "General Data Privacy Principles (Section 11)",
-        "Rights of the Data Subject (Section 16)"
-      ],
-      "issue_date": "August 16, 2022",
-      "issue_date_iso": "2022-08-16",
-      "published_time": "Fri, 19 May 2023 17:31:44 GMT",
-      "published_time_iso": "2023-05-19T17:31:44+00:00",
-      "page_count": 20,
-      "year": "2022",
-      "slug": "npc-cdo-22-001-cid-vs-ph-check-com",
-      "raw_text_path": "cache/resolutions/text_raw/cid-cdo-22-001-09-22-2022-cid-vs-ph-check-order-final-278605250c.md",
-      "text_path": "cache/resolutions/text/cid-cdo-22-001-09-22-2022-cid-vs-ph-check-order-final-278605250c.txt",
-      "markdown_path": "content/resolutions/2022/npc-cdo-22-001-cid-vs-ph-check-com.md",
-      "excerpt": "Department of Trade and Industry (DTI) Endorsement Letter dated 19 January 2022 ; Initial Report"
-    },
-    {
-      "title": "NPC BN 18-054: In Re: Department of Education – Calamba",
-      "short_title": "In Re: Department of Education – Calamba",
-      "reference_label": "NPC BN 18-054",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2025/12/NPC-BN-18-054-09.17.24-In-re-Department-of-Education-Calamba_Resolution.pdf",
-      "source_tags_raw": "Sec 18. Notification of Data Subjects; Sec18(c). Content of Notification; Sec 20. Security of Personal Information",
-      "source_tags": [
-        "Sec 18. Notification of Data Subjects",
-        "Sec18(c). Content of Notification",
-        "Sec 20. Security of Personal Information"
-      ],
-      "issue_date": "July 28, 2022",
-      "issue_date_iso": "2022-07-28",
-      "published_time": "Fri, 12 Dec 2025 02:58:57 GMT",
-      "published_time_iso": "2025-12-12T02:58:57+00:00",
-      "page_count": 12,
-      "year": "2022",
-      "slug": "npc-bn-18-054-in-re-department-of-education-calamba",
-      "raw_text_path": "cache/resolutions/text_raw/npc-bn-18-054-09-17-24-in-re-department-of-education-calamba-resolution-c622f1a19a.md",
-      "text_path": "cache/resolutions/text/npc-bn-18-054-09-17-24-in-re-department-of-education-calamba-resolution-c622f1a19a.txt",
-      "markdown_path": "content/resolutions/2022/npc-bn-18-054-in-re-department-of-education-calamba.md",
-      "excerpt": "NPC BN 18-054: In Re: Department of Education – Calamba"
     },
     {
       "title": "NPC 21-086: RTV v. East West Banking Corporation",
@@ -1545,27 +1568,25 @@
       "excerpt": "See Electronic mail dated 29 April 2022 to JO and MSM , Inc. ; Electronic Mail Delivery Receipts."
     },
     {
-      "title": "NPC 21-214: In re: Teletech Customer Care Management Philippines, Inc.",
-      "short_title": "In re: Teletech Customer Care Management Philippines, Inc.",
-      "reference_label": "NPC 21-214",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-21-214-01.26.2023_In-re-Teletech-Customer-Care-Management-Philippines-Inc_Resolution.pdf",
-      "source_tags_raw": "Tags: Notification of Data Subject; Personal Data Breach Management; Documentation",
+      "title": "NPC 19-909: In Re: FCASH Global Lending, Inc., Operating Fastcash Lending Application",
+      "short_title": "In Re: FCASH Global Lending, Inc., Operating Fastcash Lending Application",
+      "reference_label": "NPC 19-909",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-19-909-In-re-FCash-Global-Lending-Inc_Resolution-dated-28-April-2022.pdf",
+      "source_tags_raw": "Tags: NPC Rules of Procedure, Exhaustion of Administrative Remedies, Litis Pendentia, Amicable Settlement and Alternative modes of dispute resolution, Liability of Corporate officers",
       "source_tags": [
-        "Notification of Data Subject",
-        "Personal Data Breach Management",
-        "Documentation"
+        "NPC Rules of Procedure, Exhaustion of Administrative Remedies, Litis Pendentia, Amicable Settlement and Alternative modes of dispute resolution, Liability of Corporate officers"
       ],
-      "issue_date": "May 17, 2022",
-      "issue_date_iso": "2022-05-17",
-      "published_time": "Sun, 01 Dec 2024 14:26:54 GMT",
-      "published_time_iso": "2024-12-01T14:26:54+00:00",
-      "page_count": 12,
+      "issue_date": "April 28, 2022",
+      "issue_date_iso": "2022-04-28",
+      "published_time": "Fri, 19 May 2023 17:32:24 GMT",
+      "published_time_iso": "2023-05-19T17:32:24+00:00",
+      "page_count": 14,
       "year": "2022",
-      "slug": "npc-21-214-in-re-teletech-customer-care-management-philippines-inc",
-      "raw_text_path": "cache/resolutions/text_raw/npc-bn-21-214-01-26-2023-in-re-teletech-customer-care-management-philippines-inc-resolution-7e9ea747b5.md",
-      "text_path": "cache/resolutions/text/npc-bn-21-214-01-26-2023-in-re-teletech-customer-care-management-philippines-inc-resolution-7e9ea747b5.txt",
-      "markdown_path": "content/resolutions/2022/npc-21-214-in-re-teletech-customer-care-management-philippines-inc.md",
-      "excerpt": "In re: Teletech Customer Care Management Philippines, Inc., NPC BN 18 -205, Order dated"
+      "slug": "npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application",
+      "raw_text_path": "cache/resolutions/text_raw/npc-19-909-in-re-fcash-global-lending-inc-resolution-dated-28-april-2022-98188da216.md",
+      "text_path": "cache/resolutions/text/npc-19-909-in-re-fcash-global-lending-inc-resolution-dated-28-april-2022-98188da216.txt",
+      "markdown_path": "content/resolutions/2019/npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application.md",
+      "excerpt": "An Act Protecting Individual Personal Information in Information and Communications Systems"
     },
     {
       "title": "NPC SS 21-008: In Re: Populus Lending Corporation (PESOPOP) and its Responsible Officers",
@@ -1610,8 +1631,8 @@
       "excerpt": "NPC 16-004: CBP v. Orani Water District"
     },
     {
-      "title": "NPC SS 21-006: In re: Wefund Lending Corporation",
-      "short_title": "In re: Wefund Lending Corporation",
+      "title": "NPC SS 21-006: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers",
+      "short_title": "In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers",
       "reference_label": "NPC SS 21-006",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2025/03/NPC-SS-21-006-2022.01.13-In-re-Wefund-Lending-Corporation-Resolution.pdf",
       "source_tags_raw": "Tags: Unauthorized Processing (Section 25), Legitimate interest (Section 12 f), Extent of Liability (Section 34), Substantial Evidence, Gross Negligence, Sua Sponte Investigation, Temporary Ban, Legitimate Purpose, Proportionality Transparency.",
@@ -1762,9 +1783,9 @@
       "excerpt": "NPC BN 17-002: In re: Data Breach Involving the COMELEC Data Processing System in Wao, Lanao Del Sur"
     },
     {
-      "title": "NPC BN 20- 049: In re: Health Delivery System, Inc.",
+      "title": "NPC BN 20-049: In re: Health Delivery System, Inc.",
       "short_title": "In re: Health Delivery System, Inc.",
-      "reference_label": "NPC BN 20- 049",
+      "reference_label": "NPC BN 20-049",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-BN-20-049-In-re-Health-Delivery-System-Inc.-Resolution-2021.07.01.pdf",
       "source_tags_raw": "Tags: Notification of the data subjects, Exemption from the notification requirement",
       "source_tags": [
@@ -1804,8 +1825,8 @@
       "excerpt": "dated April 2021 which indicates that it is directed to submit the NPC SS 20 -001"
     },
     {
-      "title": "NPC BN 21-078: In re: Bombardier Transportation Philippines, Inc.",
-      "short_title": "In re: Bombardier Transportation Philippines, Inc.",
+      "title": "NPC BN 21-078: In re: Bombardier Transportation (Shared Services) Philippines, Inc.",
+      "short_title": "In re: Bombardier Transportation (Shared Services) Philippines, Inc.",
       "reference_label": "NPC BN 21-078",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution-NPC-BN-21-078-Bombardier-Transportation.pdf",
       "source_tags_raw": "Tags: BBreach Notification, Principle of Accountability, Procedures in Security Incident or Personal Data Breach, Notification of the Commission, Notification of Data Subjects",
@@ -1846,9 +1867,9 @@
       "excerpt": "might have been preempted by the card owner herself who went back NPC BN 18 -22 3"
     },
     {
-      "title": "NPC BN 18-105: In Re: Landbank of the Philippines",
-      "short_title": "In Re: Landbank of the Philippines",
-      "reference_label": "NPC BN 18-105",
+      "title": "CID BN 18-105: In re: Landbank of the Philippines",
+      "short_title": "In re: Landbank of the Philippines",
+      "reference_label": "CID BN 18-105",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-18-105-2021.04.29-In-re-LBP-Resolution.pdf",
       "source_tags_raw": "Tags: Notification of the Commission/div>",
       "source_tags": [
@@ -1930,9 +1951,9 @@
       "excerpt": "isolated in a different location. Acesite also committed to conduct NPC BN: 18 -037"
     },
     {
-      "title": "03-25-2021: CID v. PNP",
+      "title": "CID CDO 21-002: CID v. PNP",
       "short_title": "CID v. PNP",
-      "reference_label": "03-25-2021",
+      "reference_label": "CID CDO 21-002",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution-CID-CDO-21-002-CID-v.-PNP.pdf",
       "source_tags_raw": "Tags: Cease and Desist Order",
       "source_tags": [
@@ -1951,9 +1972,9 @@
       "excerpt": "CONST . art. VIII, § 6. The Supreme Court shall have administrative supervision over all courts"
     },
     {
-      "title": "NPC BN 18-183: In re: Sun Life Canada (Phil.) Inc",
-      "short_title": "In re: Sun Life Canada (Phil.) Inc",
-      "reference_label": "NPC BN 18-183",
+      "title": "CID BN 18-183: In re: Sun Life of Canada (Philippines), Inc.",
+      "short_title": "In re: Sun Life of Canada (Philippines), Inc.",
+      "reference_label": "CID BN 18-183",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/CID-BN-18-183-In-re-Sun-Life-Resolution-2021.03.25.pdf",
       "source_tags_raw": "Tags: Personal Data Breach Management",
       "source_tags": [
@@ -2038,9 +2059,30 @@
       "excerpt": "NPC 19-910: In Re: Fynamics Lending Inc. (Pondo Peso)"
     },
     {
-      "title": "02-23-2021: MNLC vs PXXX Corporation",
-      "short_title": "MNLC vs PXXX Corporation",
-      "reference_label": "02-23-2021",
+      "title": "NPC 19-605: GMT vs Fcash Global Lending, Inc (Fast Cash)",
+      "short_title": "GMT vs Fcash Global Lending, Inc (Fast Cash)",
+      "reference_label": "NPC 19-605",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-19-605-GMT-vc-FCash-Global-Lending-Inc_Resolution_11-March-2021.pdf",
+      "source_tags_raw": "Tags: General Data Privacy Principles, Legitimate Interest, Processing of Personal Information for Unauthorized Purpose, Substantial Evidence, Extent of Liability, Nominal Damages, Exhaustion of Remedies",
+      "source_tags": [
+        "General Data Privacy Principles, Legitimate Interest, Processing of Personal Information for Unauthorized Purpose, Substantial Evidence, Extent of Liability, Nominal Damages, Exhaustion of Remedies"
+      ],
+      "issue_date": "March 11, 2021",
+      "issue_date_iso": "2021-03-11",
+      "published_time": "Fri, 19 May 2023 17:32:18 GMT",
+      "published_time_iso": "2023-05-19T17:32:18+00:00",
+      "page_count": 15,
+      "year": "2021",
+      "slug": "npc-19-605-gmt-vs-fcash-global-lending-inc-fast-cash",
+      "raw_text_path": "cache/resolutions/text_raw/npc-19-605-gmt-vc-fcash-global-lending-inc-resolution-11-march-2021-33cf54a8ec.md",
+      "text_path": "cache/resolutions/text/npc-19-605-gmt-vc-fcash-global-lending-inc-resolution-11-march-2021-33cf54a8ec.txt",
+      "markdown_path": "content/resolutions/2021/npc-19-605-gmt-vs-fcash-global-lending-inc-fast-cash.md",
+      "excerpt": "SEC. 7. Functions of the National Privacy Commission. – To administer and implement the provisions"
+    },
+    {
+      "title": "NPC Case No. 19-528: MNLC v. PXXX Corporation",
+      "short_title": "MNLC v. PXXX Corporation",
+      "reference_label": "NPC Case No. 19-528",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution-02.23.2021-NPC-19-528-MNLC-vs-PXXX-Corporation.pdf",
       "source_tags_raw": "Tags: Temporary Ban on Processing, Public Interest",
       "source_tags": [
@@ -2059,27 +2101,6 @@
       "excerpt": "02-23-2021: MNLC vs PXXX Corporation"
     },
     {
-      "title": "NPC 19-605: GMT vs Fcash Global Lending, Inc (Fast Cash)",
-      "short_title": "GMT vs Fcash Global Lending, Inc (Fast Cash)",
-      "reference_label": "NPC 19-605",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-19-605-GMT-vc-FCash-Global-Lending-Inc_Resolution_11-March-2021.pdf",
-      "source_tags_raw": "Tags: General Data Privacy Principles, Legitimate Interest, Processing of Personal Information for Unauthorized Purpose, Substantial Evidence, Extent of Liability, Nominal Damages, Exhaustion of Remedies",
-      "source_tags": [
-        "General Data Privacy Principles, Legitimate Interest, Processing of Personal Information for Unauthorized Purpose, Substantial Evidence, Extent of Liability, Nominal Damages, Exhaustion of Remedies"
-      ],
-      "issue_date": "February 9, 2021",
-      "issue_date_iso": "2021-02-09",
-      "published_time": "Fri, 19 May 2023 17:32:18 GMT",
-      "published_time_iso": "2023-05-19T17:32:18+00:00",
-      "page_count": 15,
-      "year": "2021",
-      "slug": "npc-19-605-gmt-vs-fcash-global-lending-inc-fast-cash",
-      "raw_text_path": "cache/resolutions/text_raw/npc-19-605-gmt-vc-fcash-global-lending-inc-resolution-11-march-2021-33cf54a8ec.md",
-      "text_path": "cache/resolutions/text/npc-19-605-gmt-vc-fcash-global-lending-inc-resolution-11-march-2021-33cf54a8ec.txt",
-      "markdown_path": "content/resolutions/2021/npc-19-605-gmt-vs-fcash-global-lending-inc-fast-cash.md",
-      "excerpt": "SEC. 7. Functions of the National Privacy Commission. – To administer and implement the provisions"
-    },
-    {
       "title": "NPC 18-038: FGP vs. Maersk Global Center Philippines, Ltd.",
       "short_title": "FGP vs. Maersk Global Center Philippines, Ltd.",
       "reference_label": "NPC 18-038",
@@ -2088,8 +2109,8 @@
       "source_tags": [
         "Right to access, Nominal damages"
       ],
-      "issue_date": "February 1, 2021",
-      "issue_date_iso": "2021-02-01",
+      "issue_date": "February 23, 2021",
+      "issue_date_iso": "2021-02-23",
       "published_time": "Fri, 19 May 2023 17:32:06 GMT",
       "published_time_iso": "2023-05-19T17:32:06+00:00",
       "page_count": 4,
@@ -2099,6 +2120,27 @@
       "text_path": "cache/resolutions/text/npc-18-038-fgp-v-maersk-resolution-23-february-2021-00d32ecd2e.txt",
       "markdown_path": "content/resolutions/2021/npc-18-038-fgp-vs-maersk-global-center-philippines-ltd.md",
       "excerpt": "NPC 18-038: FGP vs. Maersk Global Center Philippines, Ltd."
+    },
+    {
+      "title": "NPC BN 17-048: In re: Social Security System",
+      "short_title": "In re: Social Security System",
+      "reference_label": "NPC BN 17-048",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-BN-17-048_In-Re-Social-Security-System_Resolution_21-January-2021.pdf",
+      "source_tags_raw": "Tags: Compliance with the NPC Circular 16-03 (Personal Data Breach Management)",
+      "source_tags": [
+        "Compliance with the NPC Circular 16-03 (Personal Data Breach Management)"
+      ],
+      "issue_date": "January 21, 2021",
+      "issue_date_iso": "2021-01-21",
+      "published_time": "Fri, 19 May 2023 17:32:36 GMT",
+      "published_time_iso": "2023-05-19T17:32:36+00:00",
+      "page_count": 4,
+      "year": "2021",
+      "slug": "npc-bn-17-048-in-re-social-security-system",
+      "raw_text_path": "cache/resolutions/text_raw/npc-bn-17-048-in-re-social-security-system-resolution-21-january-2021-b46257724e.md",
+      "text_path": "cache/resolutions/text/npc-bn-17-048-in-re-social-security-system-resolution-21-january-2021-b46257724e.txt",
+      "markdown_path": "content/resolutions/2017/npc-bn-17-048-in-re-social-security-system.md",
+      "excerpt": "NPC BN 17-048: In re: Social Security System"
     },
     {
       "title": "NPC BN 17-032: In Re: Social Security System",
@@ -2120,6 +2162,48 @@
       "text_path": "cache/resolutions/text/npc-bn-17-032-in-re-social-security-system-resolution-2021-01-21-52dc8b11a1.txt",
       "markdown_path": "content/resolutions/2021/npc-bn-17-032-in-re-social-security-system.md",
       "excerpt": "NPC BN 17-032: In Re: Social Security System"
+    },
+    {
+      "title": "NPC BN 20-157: In re: Batangas Bay Carriers, Inc.",
+      "short_title": "In re: Batangas Bay Carriers, Inc.",
+      "reference_label": "NPC BN 20-157",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution-NPC-BN-20-157-In-re-Batangas-Bay_Dec-17.pdf",
+      "source_tags_raw": "Tags: Breach Notification, Notification of Data Subjects, Substantial Evidence, Mandatory Breach Notification",
+      "source_tags": [
+        "Breach Notification, Notification of Data Subjects, Substantial Evidence, Mandatory Breach Notification"
+      ],
+      "issue_date": "December 17, 2020",
+      "issue_date_iso": "2020-12-17",
+      "published_time": "Fri, 19 May 2023 17:33:13 GMT",
+      "published_time_iso": "2023-05-19T17:33:13+00:00",
+      "page_count": 5,
+      "year": "2020",
+      "slug": "npc-bn-20-157-in-re-batangas-bay-carriers-inc",
+      "raw_text_path": "cache/resolutions/text_raw/resolution-npc-bn-20-157-in-re-batangas-bay-dec-17-90b5cf1a8a.md",
+      "text_path": "cache/resolutions/text/resolution-npc-bn-20-157-in-re-batangas-bay-dec-17-90b5cf1a8a.txt",
+      "markdown_path": "content/resolutions/2020/npc-bn-20-157-in-re-batangas-bay-carriers-inc.md",
+      "excerpt": "NPC BN 20-157: In re: Batangas Bay Carriers, Inc."
+    },
+    {
+      "title": "NPC BN 20-124: In re: E-Science Corporation",
+      "short_title": "In re: E-Science Corporation",
+      "reference_label": "NPC BN 20-124",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution_NPC-BN-20-124-In-re-E-Science-Corporation.pdf",
+      "source_tags_raw": "Tags: Breach Notification, Notification of Data Subjects",
+      "source_tags": [
+        "Breach Notification, Notification of Data Subjects"
+      ],
+      "issue_date": "December 17, 2020",
+      "issue_date_iso": "2020-12-17",
+      "published_time": "Fri, 19 May 2023 17:33:08 GMT",
+      "published_time_iso": "2023-05-19T17:33:08+00:00",
+      "page_count": 4,
+      "year": "2020",
+      "slug": "npc-bn-20-124-in-re-e-science-corporation-2",
+      "raw_text_path": "cache/resolutions/text_raw/resolution-npc-bn-20-124-in-re-e-science-corporation-47be7f38a8.md",
+      "text_path": "cache/resolutions/text/resolution-npc-bn-20-124-in-re-e-science-corporation-47be7f38a8.txt",
+      "markdown_path": "content/resolutions/2020/npc-bn-20-124-in-re-e-science-corporation-2.md",
+      "excerpt": "NPC BN 20-124: In re: E-Science Corporation"
     },
     {
       "title": "NPC BN 20-141: In re: Home Credit Consumer Finance Philippines, Inc.",
@@ -2227,27 +2311,6 @@
       "excerpt": "5th Floor, Philippine International Convention Center, Vicente Sotto Avenue, Pasay City, Metro Manila 1307"
     },
     {
-      "title": "NPC BN 20-124: In re: E-Science Corporation",
-      "short_title": "In re: E-Science Corporation",
-      "reference_label": "NPC BN 20-124",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution_NPC-BN-20-124-In-re-E-Science-Corporation.pdf",
-      "source_tags_raw": "Tags: Breach Notification, Notification of Data Subjects",
-      "source_tags": [
-        "Breach Notification, Notification of Data Subjects"
-      ],
-      "issue_date": "December 14, 2020",
-      "issue_date_iso": "2020-12-14",
-      "published_time": "Fri, 19 May 2023 17:33:08 GMT",
-      "published_time_iso": "2023-05-19T17:33:08+00:00",
-      "page_count": 4,
-      "year": "2020",
-      "slug": "npc-bn-20-124-in-re-e-science-corporation-2",
-      "raw_text_path": "cache/resolutions/text_raw/resolution-npc-bn-20-124-in-re-e-science-corporation-47be7f38a8.md",
-      "text_path": "cache/resolutions/text/resolution-npc-bn-20-124-in-re-e-science-corporation-47be7f38a8.txt",
-      "markdown_path": "content/resolutions/2020/npc-bn-20-124-in-re-e-science-corporation-2.md",
-      "excerpt": "NPC BN 20-124: In re: E-Science Corporation"
-    },
-    {
       "title": "NPC BN 19-115: In re: Sun Life of Grepa Financial, Inc",
       "short_title": "In re: Sun Life of Grepa Financial, Inc",
       "reference_label": "NPC BN 19-115",
@@ -2269,9 +2332,30 @@
       "excerpt": "NPC BN 19-115: In re: Sun Life of Grepa Financial, Inc"
     },
     {
-      "title": "NPC SS 19-910: In Re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
-      "short_title": "In Re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
-      "reference_label": "NPC SS 19-910",
+      "title": "NPC BN 20-208: In Re: Commission on Elections (COMELEC)",
+      "short_title": "In Re: Commission on Elections (COMELEC)",
+      "reference_label": "NPC BN 20-208",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2022/01/Resolution_NPC-BN-20-208-In-re-COMELEC.pdf",
+      "source_tags_raw": "Tags: Breach Notification, Notification of Data Subjects, Notification of the Commission",
+      "source_tags": [
+        "Breach Notification, Notification of Data Subjects, Notification of the Commission"
+      ],
+      "issue_date": "November 26, 2020",
+      "issue_date_iso": "2020-11-26",
+      "published_time": "Mon, 01 Aug 2022 06:43:38 GMT",
+      "published_time_iso": "2022-08-01T06:43:38+00:00",
+      "page_count": 7,
+      "year": "2020",
+      "slug": "npc-bn-20-208-in-re-commission-on-elections-comelec",
+      "raw_text_path": "cache/resolutions/text_raw/resolution-npc-bn-20-208-in-re-comelec-590b3f5b68.md",
+      "text_path": "cache/resolutions/text/resolution-npc-bn-20-208-in-re-comelec-590b3f5b68.txt",
+      "markdown_path": "content/resolutions/2020/npc-bn-20-208-in-re-commission-on-elections-comelec.md",
+      "excerpt": "NPC BN 20-208: In Re: Commission on Elections (COMELEC)"
+    },
+    {
+      "title": "NPC No. 19-910: In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
+      "short_title": "In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
+      "reference_label": "NPC No. 19-910",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-19-910-2020.11.19-In-re-Fynamics-Lending-Inc.-Operating-PondoPeso-Online-Lending-Application-Resolution.pdf",
       "source_tags_raw": "Tags: Extension for Submission of Documents; Motion for Extension",
       "source_tags": [
@@ -2289,27 +2373,6 @@
       "text_path": "cache/resolutions/text/npc-19-910-2020-11-19-in-re-fynamics-lending-inc-operating-pondopeso-online-lending-application-resolution-f0522464e2.txt",
       "markdown_path": "content/resolutions/2020/npc-ss-19-910-in-re-fynamics-lending-inc-operating-pondopeso-online-lending-application.md",
       "excerpt": "NPC SS 19-910: In Re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application"
-    },
-    {
-      "title": "NPC BN 20-208: In Re: Commission on Elections (COMELEC)",
-      "short_title": "In Re: Commission on Elections (COMELEC)",
-      "reference_label": "NPC BN 20-208",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2022/01/Resolution_NPC-BN-20-208-In-re-COMELEC.pdf",
-      "source_tags_raw": "Tags: Breach Notification, Notification of Data Subjects, Notification of the Commission",
-      "source_tags": [
-        "Breach Notification, Notification of Data Subjects, Notification of the Commission"
-      ],
-      "issue_date": "November 10, 2020",
-      "issue_date_iso": "2020-11-10",
-      "published_time": "Mon, 01 Aug 2022 06:43:38 GMT",
-      "published_time_iso": "2022-08-01T06:43:38+00:00",
-      "page_count": 7,
-      "year": "2020",
-      "slug": "npc-bn-20-208-in-re-commission-on-elections-comelec",
-      "raw_text_path": "cache/resolutions/text_raw/resolution-npc-bn-20-208-in-re-comelec-590b3f5b68.md",
-      "text_path": "cache/resolutions/text/resolution-npc-bn-20-208-in-re-comelec-590b3f5b68.txt",
-      "markdown_path": "content/resolutions/2020/npc-bn-20-208-in-re-commission-on-elections-comelec.md",
-      "excerpt": "NPC BN 20-208: In Re: Commission on Elections (COMELEC)"
     },
     {
       "title": "NPC 19-910: In Re: Fynamics Lending Inc. (Pondo Peso)",
@@ -2402,22 +2465,22 @@
       "title": "NPC BN 20-157: In re: Batangas Bay Carriers, Inc.",
       "short_title": "In re: Batangas Bay Carriers, Inc.",
       "reference_label": "NPC BN 20-157",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution-NPC-BN-20-157-In-re-Batangas-Bay_Dec-17.pdf",
-      "source_tags_raw": "Tags: Breach Notification, Notification of Data Subjects, Substantial Evidence, Mandatory Breach Notification",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution-NPC-BN-20-157-In-re-Batangas-Bay_Sep-21.pdf",
+      "source_tags_raw": "Tags: Breach Notification, Notification of Data Subjects, Notification of the Commission",
       "source_tags": [
-        "Breach Notification, Notification of Data Subjects, Substantial Evidence, Mandatory Breach Notification"
+        "Breach Notification, Notification of Data Subjects, Notification of the Commission"
       ],
       "issue_date": "September 21, 2020",
       "issue_date_iso": "2020-09-21",
-      "published_time": "Fri, 19 May 2023 17:33:13 GMT",
-      "published_time_iso": "2023-05-19T17:33:13+00:00",
-      "page_count": 5,
+      "published_time": "Fri, 19 May 2023 17:33:14 GMT",
+      "published_time_iso": "2023-05-19T17:33:14+00:00",
+      "page_count": 8,
       "year": "2020",
-      "slug": "npc-bn-20-157-in-re-batangas-bay-carriers-inc",
-      "raw_text_path": "cache/resolutions/text_raw/resolution-npc-bn-20-157-in-re-batangas-bay-dec-17-90b5cf1a8a.md",
-      "text_path": "cache/resolutions/text/resolution-npc-bn-20-157-in-re-batangas-bay-dec-17-90b5cf1a8a.txt",
-      "markdown_path": "content/resolutions/2020/npc-bn-20-157-in-re-batangas-bay-carriers-inc.md",
-      "excerpt": "NPC BN 20-157: In re: Batangas Bay Carriers, Inc."
+      "slug": "npc-bn-20-157-in-re-batangas-bay-carriers-inc-2",
+      "raw_text_path": "cache/resolutions/text_raw/resolution-npc-bn-20-157-in-re-batangas-bay-sep-21-a9bd867dfd.md",
+      "text_path": "cache/resolutions/text/resolution-npc-bn-20-157-in-re-batangas-bay-sep-21-a9bd867dfd.txt",
+      "markdown_path": "content/resolutions/2020/npc-bn-20-157-in-re-batangas-bay-carriers-inc-2.md",
+      "excerpt": "certainty of acquisition by an unauthorized person is not required NPC BN 20 -157"
     },
     {
       "title": "NPC BN 20-170: In re: Travelpeople Ltd., Inc.",
@@ -2462,9 +2525,9 @@
       "excerpt": "have been acquired by an unauthorized per son.” An indicatio n of NPC BN 20 -167"
     },
     {
-      "title": "NPC 20-124: In Re: E-Science Corporation",
-      "short_title": "In Re: E-Science Corporation",
-      "reference_label": "NPC 20-124",
+      "title": "NPC BN 20-124: In re: E-Science Corporation",
+      "short_title": "In re: E-Science Corporation",
+      "reference_label": "NPC BN 20-124",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-20-124-2020.09.10-In-re-E-Science-Corporation-Resolution.pdf",
       "source_tags_raw": "Tags: Identity Theft; Identity Fraud; Notification of the Commission; Mandatory Breach Notification",
       "source_tags": [
@@ -2570,27 +2633,6 @@
       "excerpt": "CID BN 18-081: In re: Philippine Seven Corporation"
     },
     {
-      "title": "NPC BN 20-157: In re: Batangas Bay Carriers, Inc.",
-      "short_title": "In re: Batangas Bay Carriers, Inc.",
-      "reference_label": "NPC BN 20-157",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution-NPC-BN-20-157-In-re-Batangas-Bay_Sep-21.pdf",
-      "source_tags_raw": "Tags: Breach Notification, Notification of Data Subjects, Notification of the Commission",
-      "source_tags": [
-        "Breach Notification, Notification of Data Subjects, Notification of the Commission"
-      ],
-      "issue_date": "September 1, 2020",
-      "issue_date_iso": "2020-09-01",
-      "published_time": "Fri, 19 May 2023 17:33:14 GMT",
-      "published_time_iso": "2023-05-19T17:33:14+00:00",
-      "page_count": 8,
-      "year": "2020",
-      "slug": "npc-bn-20-157-in-re-batangas-bay-carriers-inc-2",
-      "raw_text_path": "cache/resolutions/text_raw/resolution-npc-bn-20-157-in-re-batangas-bay-sep-21-a9bd867dfd.md",
-      "text_path": "cache/resolutions/text/resolution-npc-bn-20-157-in-re-batangas-bay-sep-21-a9bd867dfd.txt",
-      "markdown_path": "content/resolutions/2020/npc-bn-20-157-in-re-batangas-bay-carriers-inc-2.md",
-      "excerpt": "certainty of acquisition by an unauthorized person is not required NPC BN 20 -157"
-    },
-    {
       "title": "CID BN 17-019: In Re: Sun Life Canada (Philippines) Inc.",
       "short_title": "In Re: Sun Life Canada (Philippines) Inc.",
       "reference_label": "CID BN 17-019",
@@ -2621,8 +2663,8 @@
       "source_tags": [
         "Breach Notification, Notification of Data Subjects, Mandatory Breach Notification, Exemption from Notification Requirements"
       ],
-      "issue_date": "August 7, 2020",
-      "issue_date_iso": "2020-08-07",
+      "issue_date": "August 20, 2020",
+      "issue_date_iso": "2020-08-20",
       "published_time": "Fri, 19 May 2023 17:33:12 GMT",
       "published_time_iso": "2023-05-19T17:33:12+00:00",
       "page_count": 7,
@@ -2677,8 +2719,8 @@
       "excerpt": "NPC BN 20-124: In Re: E-Science Corporation"
     },
     {
-      "title": "NPC BN 18-069: In re: Professional Regulations Commission (PRC)",
-      "short_title": "In re: Professional Regulations Commission (PRC)",
+      "title": "NPC BN 18-069: In re: Professional Regulation Commission (PRC)",
+      "short_title": "In re: Professional Regulation Commission (PRC)",
       "reference_label": "NPC BN 18-069",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-BN-18-069_In-re-Professional-Regulation-Commission_Resolution_23-July-2020.pdf",
       "source_tags_raw": "Tags: Personal data breach; Logbook policy of government agencies",
@@ -2783,9 +2825,9 @@
       "excerpt": "Lazada are the proper PIC s that should h ave reported this breach to the CID BN no. 18 -086"
     },
     {
-      "title": "NPC BN 18-105: In Re: Landbank of the Philippines",
-      "short_title": "In Re: Landbank of the Philippines",
-      "reference_label": "NPC BN 18-105",
+      "title": "CID BN 18-105: In re: Land Bank of the Philippines",
+      "short_title": "In re: Land Bank of the Philippines",
+      "reference_label": "CID BN 18-105",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-18-105-2020.05.12-In-re-LBP-Resolution.pdf",
       "source_tags_raw": "Tags: Full Breach Report",
       "source_tags": [
@@ -2804,9 +2846,9 @@
       "excerpt": "NPC BN 18-105: In Re: Landbank of the Philippines"
     },
     {
-      "title": "NPC SS 19-910: In Re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
-      "short_title": "In Re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
-      "reference_label": "NPC SS 19-910",
+      "title": "NPC No. 19-910: In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
+      "short_title": "In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
+      "reference_label": "NPC No. 19-910",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-19-910-2020.02.20-In-re-Fynamics-Lending-Inc.-Operating-PondoPeso-Online-Lending-Application-Resolution.pdf",
       "source_tags_raw": "Tags: Order to Submit Documents; Motion for Extension",
       "source_tags": [
@@ -2824,6 +2866,27 @@
       "text_path": "cache/resolutions/text/npc-19-910-2020-02-20-in-re-fynamics-lending-inc-operating-pondopeso-online-lending-application-resolution-0596f32b70.txt",
       "markdown_path": "content/resolutions/2020/npc-ss-19-910-in-re-fynamics-lending-inc-operating-pondopeso-online-lending-application-2.md",
       "excerpt": "NPC SS 19-910: In Re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application"
+    },
+    {
+      "title": "NPC BN 17-034: In re: Philippine National Bank",
+      "short_title": "In re: Philippine National Bank",
+      "reference_label": "NPC BN 17-034",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/CID-BN-17-034_PNB_Resolution_23-January-2020.pdf",
+      "source_tags_raw": "Tags: Compliance with the NPC Circular 16-03 (Personal Data Breach Management)",
+      "source_tags": [
+        "Compliance with the NPC Circular 16-03 (Personal Data Breach Management)"
+      ],
+      "issue_date": "January 23, 2020",
+      "issue_date_iso": "2020-01-23",
+      "published_time": "Fri, 19 May 2023 17:31:27 GMT",
+      "published_time_iso": "2023-05-19T17:31:27+00:00",
+      "page_count": 4,
+      "year": "2020",
+      "slug": "cid-bn-17-034-in-re-breach-notification-report-of-philippine-national-bank-pnb",
+      "raw_text_path": "cache/resolutions/text_raw/cid-bn-17-034-pnb-resolution-23-january-2020-d0f58c6b05.md",
+      "text_path": "cache/resolutions/text/cid-bn-17-034-pnb-resolution-23-january-2020-d0f58c6b05.txt",
+      "markdown_path": "content/resolutions/2017/cid-bn-17-034-in-re-breach-notification-report-of-philippine-national-bank-pnb.md",
+      "excerpt": "CID BN 17-034: In re: Breach Notification Report of Philippine National Bank (PNB)"
     },
     {
       "title": "NPC 19-908: In re: Unipeso Lending Company, Inc.",
@@ -2847,6 +2910,27 @@
       "excerpt": "the Fa ct -Finding Report dated 30 August 2019 no later than ten (10) NPC 19 -908"
     },
     {
+      "title": "NPC 19-528: MNLC vs PXXX Corporation",
+      "short_title": "MNLC vs PXXX Corporation",
+      "reference_label": "NPC 19-528",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution_NPC-19-528-MNLC-v.-PXXX-Corporation.pdf",
+      "source_tags_raw": "Tags: Proportionality, Temporary Ban, Consent",
+      "source_tags": [
+        "Proportionality, Temporary Ban, Consent"
+      ],
+      "issue_date": "November 18, 2019",
+      "issue_date_iso": "2019-11-18",
+      "published_time": "Fri, 19 May 2023 17:33:07 GMT",
+      "published_time_iso": "2023-05-19T17:33:07+00:00",
+      "page_count": 8,
+      "year": "2019",
+      "slug": "npc-19-528-mnlc-vs-pxxx-corporation",
+      "raw_text_path": "cache/resolutions/text_raw/resolution-npc-19-528-mnlc-v-pxxx-corporation-b1a4027e71.md",
+      "text_path": "cache/resolutions/text/resolution-npc-19-528-mnlc-v-pxxx-corporation-b1a4027e71.txt",
+      "markdown_path": "content/resolutions/2019/npc-19-528-mnlc-vs-pxxx-corporation.md",
+      "excerpt": "SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive"
+    },
+    {
       "title": "NPC 19-258: CPM vs. CASHWAGON",
       "short_title": "CPM vs. CASHWAGON",
       "reference_label": "NPC 19-258",
@@ -2868,9 +2952,9 @@
       "excerpt": "NPC 19-258: CPM vs. CASHWAGON"
     },
     {
-      "title": "NPC SS 21-008: In Re: Populus Lending Corporation (PESOPOP) and its Responsible Officers",
-      "short_title": "In Re: Populus Lending Corporation (PESOPOP) and its Responsible Officers",
-      "reference_label": "NPC SS 21-008",
+      "title": "NPC No. 19-910: In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
+      "short_title": "In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
+      "reference_label": "NPC No. 19-910",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-19-910-2019.10.07-In-re-Fynamics-Lending-Inc.-Operating-PondoPeso-Online-Lending-Application-Resolution.pdf",
       "source_tags_raw": "Tags: Temporary Ban and Sua Sponte Investigation",
       "source_tags": [
@@ -2889,51 +2973,9 @@
       "excerpt": "NPC SS 21-008: In Re: Populus Lending Corporation (PESOPOP) and its Responsible Officers"
     },
     {
-      "title": "NPC 19-528: MNLC vs PXXX Corporation",
-      "short_title": "MNLC vs PXXX Corporation",
-      "reference_label": "NPC 19-528",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution_NPC-19-528-MNLC-v.-PXXX-Corporation.pdf",
-      "source_tags_raw": "Tags: Proportionality, Temporary Ban, Consent",
-      "source_tags": [
-        "Proportionality, Temporary Ban, Consent"
-      ],
-      "issue_date": "September 11, 2019",
-      "issue_date_iso": "2019-09-11",
-      "published_time": "Fri, 19 May 2023 17:33:07 GMT",
-      "published_time_iso": "2023-05-19T17:33:07+00:00",
-      "page_count": 8,
-      "year": "2019",
-      "slug": "npc-19-528-mnlc-vs-pxxx-corporation",
-      "raw_text_path": "cache/resolutions/text_raw/resolution-npc-19-528-mnlc-v-pxxx-corporation-b1a4027e71.md",
-      "text_path": "cache/resolutions/text/resolution-npc-19-528-mnlc-v-pxxx-corporation-b1a4027e71.txt",
-      "markdown_path": "content/resolutions/2019/npc-19-528-mnlc-vs-pxxx-corporation.md",
-      "excerpt": "SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of sensitive"
-    },
-    {
-      "title": "NPC 19-909: In Re: FCASH Global Lending, Inc., Operating Fastcash Lending Application",
-      "short_title": "In Re: FCASH Global Lending, Inc., Operating Fastcash Lending Application",
-      "reference_label": "NPC 19-909",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-19-909-In-re-FCash-Global-Lending-Inc_Resolution-dated-28-April-2022.pdf",
-      "source_tags_raw": "Tags: NPC Rules of Procedure, Exhaustion of Administrative Remedies, Litis Pendentia, Amicable Settlement and Alternative modes of dispute resolution, Liability of Corporate officers",
-      "source_tags": [
-        "NPC Rules of Procedure, Exhaustion of Administrative Remedies, Litis Pendentia, Amicable Settlement and Alternative modes of dispute resolution, Liability of Corporate officers"
-      ],
-      "issue_date": "August 29, 2019",
-      "issue_date_iso": "2019-08-29",
-      "published_time": "Fri, 19 May 2023 17:32:24 GMT",
-      "published_time_iso": "2023-05-19T17:32:24+00:00",
-      "page_count": 14,
-      "year": "2019",
-      "slug": "npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application",
-      "raw_text_path": "cache/resolutions/text_raw/npc-19-909-in-re-fcash-global-lending-inc-resolution-dated-28-april-2022-98188da216.md",
-      "text_path": "cache/resolutions/text/npc-19-909-in-re-fcash-global-lending-inc-resolution-dated-28-april-2022-98188da216.txt",
-      "markdown_path": "content/resolutions/2019/npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application.md",
-      "excerpt": "An Act Protecting Individual Personal Information in Information and Communications Systems"
-    },
-    {
-      "title": "08-09-2019: ODC vs. ODB & EA",
-      "short_title": "ODC vs. ODB & EA",
-      "reference_label": "08-09-2019",
+      "title": "NPC Case No. 17-001: ODC v. ODB & AE",
+      "short_title": "ODC v. ODB & AE",
+      "reference_label": "NPC Case No. 17-001",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-17-001-ODC-v-ODB-Resolution-PSD-10Sept2020-ABJ3.pdf",
       "source_tags_raw": "Tags: Substantial Evidence, Transparency, Updating Terms & Conditions",
       "source_tags": [
@@ -2952,9 +2994,9 @@
       "excerpt": "wields considerable power over a patient and even in schools where NPC Case no. 17 -001"
     },
     {
-      "title": "CID BN 17-036 previously CID BN 18-0174: In Re: 2016 Uber Data Breach",
-      "short_title": "In Re: 2016 Uber Data Breach",
-      "reference_label": "CID BN 17-036 previously CID BN 18-0174",
+      "title": "CID BN No. 17-036: In re: 2016 Uber Data Breach",
+      "short_title": "In re: 2016 Uber Data Breach",
+      "reference_label": "CID BN No. 17-036",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-17-036-2019.07.31-In-Re-Uber-Data-Breach-2016-Resolution.pdf",
       "source_tags_raw": "Tags: Notification of Data Subjects",
       "source_tags": [
@@ -2973,9 +3015,9 @@
       "excerpt": "CID BN 17-036 previously CID BN 18-0174: In Re: 2016 Uber Data Breach"
     },
     {
-      "title": "07-25-2019: MFS vs. RJJ AND SJJ",
-      "short_title": "MFS vs. RJJ AND SJJ",
-      "reference_label": "07-25-2019",
+      "title": "NPC Case No. 17-003: MFS v. RJJ and SJJ",
+      "short_title": "MFS v. RJJ and SJJ",
+      "reference_label": "NPC Case No. 17-003",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-17-003-MFS-v-JRR-JSS-Resolution-Pseudonymized-7Aug2020-ABJ1.pdf",
       "source_tags_raw": "Tags: Motion for Reconsideration, On-site Examination",
       "source_tags": [
@@ -2992,48 +3034,6 @@
       "text_path": "cache/resolutions/text/npc-17-003-mfs-v-jrr-jss-resolution-pseudonymized-7aug2020-abj1-47d3fae222.txt",
       "markdown_path": "content/resolutions/2019/07-25-2019-mfs-vs-rjj-and-sjj.md",
       "excerpt": "07-25-2019: MFS vs. RJJ AND SJJ"
-    },
-    {
-      "title": "CID BN 17-034: In re: Breach Notification Report of Philippine National Bank (PNB)",
-      "short_title": "In re: Breach Notification Report of Philippine National Bank (PNB)",
-      "reference_label": "CID BN 17-034",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/CID-BN-17-034_PNB_Resolution_23-January-2020.pdf",
-      "source_tags_raw": "Tags: Compliance with the NPC Circular 16-03 (Personal Data Breach Management)",
-      "source_tags": [
-        "Compliance with the NPC Circular 16-03 (Personal Data Breach Management)"
-      ],
-      "issue_date": "November 17, 2017",
-      "issue_date_iso": "2017-11-17",
-      "published_time": "Fri, 19 May 2023 17:31:27 GMT",
-      "published_time_iso": "2023-05-19T17:31:27+00:00",
-      "page_count": 4,
-      "year": "2017",
-      "slug": "cid-bn-17-034-in-re-breach-notification-report-of-philippine-national-bank-pnb",
-      "raw_text_path": "cache/resolutions/text_raw/cid-bn-17-034-pnb-resolution-23-january-2020-d0f58c6b05.md",
-      "text_path": "cache/resolutions/text/cid-bn-17-034-pnb-resolution-23-january-2020-d0f58c6b05.txt",
-      "markdown_path": "content/resolutions/2017/cid-bn-17-034-in-re-breach-notification-report-of-philippine-national-bank-pnb.md",
-      "excerpt": "CID BN 17-034: In re: Breach Notification Report of Philippine National Bank (PNB)"
-    },
-    {
-      "title": "NPC BN 17-048: In re: Social Security System",
-      "short_title": "In re: Social Security System",
-      "reference_label": "NPC BN 17-048",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-BN-17-048_In-Re-Social-Security-System_Resolution_21-January-2021.pdf",
-      "source_tags_raw": "Tags: Compliance with the NPC Circular 16-03 (Personal Data Breach Management)",
-      "source_tags": [
-        "Compliance with the NPC Circular 16-03 (Personal Data Breach Management)"
-      ],
-      "issue_date": "January 28, 2017",
-      "issue_date_iso": "2017-01-28",
-      "published_time": "Fri, 19 May 2023 17:32:36 GMT",
-      "published_time_iso": "2023-05-19T17:32:36+00:00",
-      "page_count": 4,
-      "year": "2017",
-      "slug": "npc-bn-17-048-in-re-social-security-system",
-      "raw_text_path": "cache/resolutions/text_raw/npc-bn-17-048-in-re-social-security-system-resolution-21-january-2021-b46257724e.md",
-      "text_path": "cache/resolutions/text/npc-bn-17-048-in-re-social-security-system-resolution-21-january-2021-b46257724e.txt",
-      "markdown_path": "content/resolutions/2017/npc-bn-17-048-in-re-social-security-system.md",
-      "excerpt": "NPC BN 17-048: In re: Social Security System"
     }
   ]
 }

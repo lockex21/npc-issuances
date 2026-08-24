@@ -1,9 +1,9 @@
 ---
-title: "NPC CID 17-K-003: KRL v. Trinity University of Asia"
+title: "CID 17-K-003: KRL v. Trinity University of Asia"
 description: "KRL complained that Trinity University of Asia faculty members violated the Data Privacy Act by accessing daily time records and pay slips; the NPC found no actionable violation warranting prosecution."
 aliases:
-  - "NPC CID 17-K-003"
-  - "npc cid 17-k-003"
+  - "CID 17-K-003"
+  - "cid 17-k-003"
   - "KRL v. Trinity University of Asia"
   - "krl v. trinity university of asia"
 tags:

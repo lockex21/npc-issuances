@@ -27,15 +27,15 @@ Write a concise summary and legal significance notes here.
 - Reference: Advisory No. 2020-02
 - Type: Advisory
 - Year: 2020
-- Issued: Unknown
+- Issued: August 3, 2020
 - Pages: 8
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/FINAL-VERSION-Guidelines-on-the-Use-of-Videoconferencing-Technology-for-Remote-Appearance-before-the-NPC-OPC.pdf
 - OCR used during extraction: no
 - Topic pages: None yet
 
 ### Automatic References Out
-- [[issuances/undated/rules-of-procedure|Rules of Procedure]]
+- [[issuances/undated/rules-of-procedure|Rules of Procedure of the National Privacy Commission]]
 
 ### Automatic Backlinks
-- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]
+- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission (Original 2021 Version)]]
 <!-- END GENERATED RECORD -->

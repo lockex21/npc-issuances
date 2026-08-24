@@ -1,13 +1,13 @@
 ---
-title: "FAQs Notes"
-description: "Companion summary and references for FAQs."
+title: "Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO) Notes"
+description: "Companion summary and references for the Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO)."
 tags:
   - "companion-note"
-  - "year/1988"
+  - "year/2020"
 draft: false
 ---
 
-> Companion note for [[issuances/1988/faqs|FAQs]].
+> Companion note for [[issuances/2020/faqs|Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO)]].
 
 ## Summary
 <!-- BEGIN MANUAL SUMMARY -->
@@ -22,11 +22,11 @@ Write a concise summary and legal significance notes here.
 
 ## Generated Record
 <!-- BEGIN GENERATED RECORD -->
-- Issuance page: [[issuances/1988/faqs|FAQs]]
-- Raw source note: [[sources/1988/faqs|Raw source text]]
-- Reference: Circular No. 20-02
+- Issuance page: [[issuances/2020/faqs|Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO)]]
+- Raw source note: [[sources/2020/faqs|Raw source text]]
+- Reference: None detected
 - Type: FAQ
-- Year: 1988
+- Year: 2020
 - Issued: Unknown
 - Pages: 7
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.pdf

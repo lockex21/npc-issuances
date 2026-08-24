@@ -24,17 +24,17 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response]]
 - Raw source note: [[sources/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Raw source text]]
-- Reference: Advisory No. 2020-03
+- Reference: Advisory No. 2020-03-A
 - Type: Advisory
 - Year: 2020
-- Issued: Unknown
+- Issued: November 26, 2020
 - Pages: 1
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/11/Advisory-2020-03-A-FINAL.pdf
 - OCR used during extraction: no
 - Topic pages: None yet
 
 ### Automatic References Out
-- None detected automatically.
+- [[issuances/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response]]
 
 ### Automatic Backlinks
 - No backlinks detected yet.

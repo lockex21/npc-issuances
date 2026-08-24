@@ -1,11 +1,11 @@
 ---
-title: "NPC 21-010 to NPC 21-015: MVC, et al. v. DSL"
+title: "NPC 21-010 to NPC 21-015: MCV, et al. v. DSL"
 description: "Resolutions denying motions for reconsideration and affirming a decision finding DSL liable for unauthorized disclosure of personal information of condominium unit owners."
 aliases:
   - "NPC 21-010 to NPC 21-015"
   - "npc 21-010 to npc 21-015"
-  - "MVC, et al. v. DSL"
-  - "mvc, et al. v. dsl"
+  - "MCV, et al. v. DSL"
+  - "mcv, et al. v. dsl"
 tags:
   - "resolution"
   - "type/resolution"
@@ -20,7 +20,7 @@ draft: false
 
 ## Source
 
-- Reference: [[decisions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl|NPC 21-010]] to NPC 21-015
+- Reference: NPC 21-010 to NPC 21-015
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-21-010-to-NPC-21-015-2022.10.13-MVC-et.-al.-v.-DSL-Resolution-FinalP.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: October 13, 2022

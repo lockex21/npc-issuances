@@ -31,9 +31,10 @@ Write a concise summary and legal significance notes here.
 - Pages: 3
 - Official source: https://privacy.gov.ph/wp-content/uploads/2026/03/DICT-NPC-SEC-Public-Advisory-on-Online-Lending-Platforms.pdf
 - OCR used during extraction: no
-- Topic pages: [[topics/government|Government]]
+- Topic pages: [[topics/government|Government]], [[topics/online-lending|Online Lending]]
 
 ### Automatic References Out
+- [[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions]]
 - [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions]]
 
 ### Automatic Backlinks

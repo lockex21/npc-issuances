@@ -1,5 +1,5 @@
 ---
-title: 'NPC 18-019: In re: Ateneo de Zamboanga University'
+title: "NPC BN 18-019: In re: Ateneo de Zamboanga University"
 description: Resolution on a payroll breach at Ateneo de Zamboanga University's School
   of Medicine where unauthorized bank account changes delayed salary payments, finding
   the university's breach management and security measures were appropriate.
@@ -17,14 +17,14 @@ aliases:
 - '"npc 18-019"'
 - '"In re: Ateneo de Zamboanga University"'
 - '"in re: ateneo de zamboanga university"'
-date: '2023-05-11'
+date: "2023-05-11"
 ---
 
 ## Source
-- Reference: NPC 18-019
+- Reference: NPC BN 18-019
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-18-019-2023.05.09-Ateneo-de-Zamboanga-Resolution-Final.pdf
 - Source page: http://privacy.gov.ph/resolutions/
-- Issue date: February 5, 2018
+- Issue date: May 11, 2023
 - Published on NPC site: Thu, 02 May 2024 07:42:27 GMT
 - Pages: 9
 

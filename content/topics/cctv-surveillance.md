@@ -11,7 +11,7 @@ Auto-generated topic cluster for **CCTV Surveillance**, covering the full corpus
 - [[issuances/2024/closed-circuit-television-cctv-systems|Closed-Circuit Television (CCTV) Systems (Circular No. 2024-02)]]
 - [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Guidelines on the Use of Closed-Circuit Television (CCTV) Systems (Advisory No. 2020-04)]]
 - [[issuances/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Guidelines for Workplaces and Establishments Processing Personal Data for COVID-19 Response (Advisory No. 2020-03)]]
-- [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response (Memorandum Circular No. 2020-0002)]]
+- [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response (Joint Memorandum Circular No. 2020-0002)]]
 
 ## Advisory Opinions
 - [[advisory-opinions/2025/advisory-opinion-no-2025-016-npc-advisory-opinion-no-2025-016-redacted|NPC Advisory Opinion No. 2025-016 — Installation of Closed-Circuit Television (CCTV) in Local Government Unit Offices]]

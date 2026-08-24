@@ -17,14 +17,14 @@ aliases:
 - '"npc bn 18-008"'
 - '"In Re: Rosewood Hotel Group"'
 - '"in re: rosewood hotel group"'
-date: '2018-01-19'
+date: "2024-04-18"
 ---
 
 ## Source
 - Reference: NPC BN 18-008
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/08/NPC-BN-18-008-2024.04.18-In-re-Rosewood-Hotel-Group-Resolution.pdf
 - Source page: http://privacy.gov.ph/resolutions/
-- Issue date: January 19, 2018
+- Issue date: April 18, 2024
 - Published on NPC site: Wed, 07 Aug 2024 07:05:16 GMT
 - Pages: 8
 

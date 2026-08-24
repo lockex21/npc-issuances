@@ -24,7 +24,7 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry|Considerations on the Use of Privacy Enhancing Technologies (PETs) in the Insurance Industry]]
 - Raw source note: [[sources/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry|Raw source text]]
-- Reference: None detected
+- Reference: Joint Advisory No. 2025-001
 - Type: Joint Advisory
 - Year: 2025
 - Issued: March 11, 2025

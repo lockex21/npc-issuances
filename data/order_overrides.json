@@ -1,0 +1,237 @@
+{
+  "npc-bn-20-001-in-re-grab-philippines": {
+    "reference_label": "NPC CC 20-001",
+    "title": "NPC CC 20-001: In re: Grab Philippines",
+    "markdown_path": "content/orders/2023/npc-bn-20-001-in-re-grab-philippines.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-19-001-in-re-department-of-foreign-affairs-dfa-passport-breach": {
+    "reference_label": "NPC SS 19-001",
+    "title": "NPC SS 19-001: In re: Department of Foreign Affairs (Passport Breach Resolution)",
+    "markdown_path": "content/orders/2022/npc-19-001-in-re-department-of-foreign-affairs-dfa-passport-breach.md",
+    "preserve_existing_markdown": true
+  },
+  "06-16-2021-in-re-pilipinas2022-ph-initiated-as-a-sua-sponte-npc-investigation-into-the-possible-data-privacy-violations-committed-by-pilipinas2022-ph": {
+    "reference_label": "CID-CDO-21-003",
+    "title": "CID-CDO-21-003: In re: PiliPinas2022.ph",
+    "markdown_path": "content/orders/2021/06-16-2021-in-re-pilipinas2022-ph-initiated-as-a-sua-sponte-npc-investigation-into-the-possible-data-privacy-violations-committed-by-pilipinas2022-ph.md",
+    "preserve_existing_markdown": true,
+    "issue_date": "June 16, 2021",
+    "issue_date_iso": "2021-06-16",
+    "year": "2021"
+  },
+  "npc-bn-17-010-in-re-movie-and-television-review-and-classification-board-2": {
+    "reference_label": "CID BN NO. 17-010",
+    "title": "CID BN NO. 17-010: In re: Movie and Television Review and Classification Board",
+    "markdown_path": "content/orders/2021/npc-bn-17-010-in-re-movie-and-television-review-and-classification-board-2.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-no-21-054-in-re-bpi-philam-life-assurance-corporation": {
+    "reference_label": "NPC BN NO. 21-054",
+    "title": "NPC BN NO. 21-054: In re: BPI Philam Life Assurance Corporation",
+    "markdown_path": "content/orders/2021/npc-bn-no-21-054-in-re-bpi-philam-life-assurance-corporation.md",
+    "preserve_existing_markdown": true,
+    "issue_date": "April 15, 2021",
+    "issue_date_iso": "2021-04-15",
+    "year": "2021"
+  },
+  "npc-bn-18-198-in-re-cathay-pacific-airways-limited": {
+    "reference_label": "NPC BN NO. 18-198",
+    "title": "NPC BN NO. 18-198: In re: Cathay Pacific Airways Limited",
+    "markdown_path": "content/orders/2021/npc-bn-18-198-in-re-cathay-pacific-airways-limited.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-18-179-in-re-abs-cbn-corporation": {
+    "reference_label": "NPC BN NO. 18-179",
+    "title": "NPC BN NO. 18-179: In re: ABS-CBN Corporation",
+    "markdown_path": "content/orders/2021/npc-bn-18-179-in-re-abs-cbn-corporation.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-16-004-cbp-v-orani-water-district": {
+    "reference_label": "NPC Case No. 16-004",
+    "title": "NPC Case No. 16-004: CBP v. Orani Water District",
+    "markdown_path": "content/orders/2020/npc-16-004-cbp-v-orani-water-district.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-18-130-boa-v-hxxx": {
+    "reference_label": "NPC Case No. 18-130",
+    "title": "NPC Case No. 18-130: BOA v. HSBC Philippines",
+    "markdown_path": "content/orders/2020/npc-18-130-boa-v-hxxx.md",
+    "preserve_existing_markdown": true
+  },
+  "cid-bn-19-034-in-re-rokko-associates-inc": {
+    "reference_label": "CID BN 19-034",
+    "title": "CID BN 19-034: In re: Rokko and Associates, Inc.",
+    "markdown_path": "content/orders/2020/cid-bn-19-034-in-re-rokko-associates-inc.md",
+    "preserve_existing_markdown": true,
+    "issue_date": "September 21, 2020",
+    "issue_date_iso": "2020-09-21",
+    "year": "2020"
+  },
+  "cid-bn-17-005-in-re-breach-notification-report-of-rosewood-hotel-group": {
+    "reference_label": "CID BN No. 17-005",
+    "title": "CID BN No. 17-005: In re: Breach Notification Report of Rosewood Hotel Group",
+    "markdown_path": "content/orders/2020/cid-bn-17-005-in-re-breach-notification-report-of-rosewood-hotel-group.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-19-097-in-re-manufacturer-s-life-insurance-co-phils-inc": {
+    "reference_label": "CID BN 19-097",
+    "title": "CID BN 19-097: In re: The Manufacturers Life Insurance Co. (Phils), Inc.",
+    "markdown_path": "content/orders/2020/npc-bn-19-097-in-re-manufacturer-s-life-insurance-co-phils-inc.md",
+    "preserve_existing_markdown": true
+  },
+  "cid-bn-17-043-in-re-jollibeedelivery-vulnerability-assessment": {
+    "reference_label": "CID BN No. 17-043",
+    "title": "CID BN No. 17-043: In re: Vulnerability Assessment of Jollibeedelivery.com (Closure Order)",
+    "markdown_path": "content/orders/2020/cid-bn-17-043-in-re-jollibeedelivery-vulnerability-assessment.md",
+    "preserve_existing_markdown": true
+  },
+  "02-03-2020-in-re-grab-ph-selfie-verification-and-in-vehicle-audio-and-video-recordinig-cease-and-desist": {
+    "reference_label": "NPC CC 20-001",
+    "title": "NPC CC 20-001: In re: Grab Philippines' Roll-Out of Passenger Selfie Verification; Pilot Test of In-Vehicle Audio Recording; and Pilot Test of In-Vehicle Video Recording",
+    "markdown_path": "content/orders/2020/02-03-2020-in-re-grab-ph-selfie-verification-and-in-vehicle-audio-and-video-recordinig-cease-and-desist.md",
+    "preserve_existing_markdown": true,
+    "issue_date": "February 3, 2020",
+    "issue_date_iso": "2020-02-03",
+    "year": "2020"
+  },
+  "npc-ss-19-910-in-re-fynamics-lending-inc-operating-pondopeso-online-lending-application": {
+    "reference_label": "NPC No. 19-910",
+    "title": "NPC No. 19-910: In re: Fynamics Lending, Inc. Operating PondoPeso",
+    "markdown_path": "content/orders/2020/npc-ss-19-910-in-re-fynamics-lending-inc-operating-pondopeso-online-lending-application.md",
+    "preserve_existing_markdown": true
+  },
+  "cid-bn-17-046-and-17-047-in-re-breach-notification-report-of-sprout-solutions-inc-affecting-marie-france-group-of-companies": {
+    "reference_label": "CID BN No. 17-46 and 17-47",
+    "title": "CID BN No. 17-46 and 17-47: In re: Breach Notification Report of Sprout Solutions, Inc. Affecting Marie France Group of Companies",
+    "markdown_path": "content/orders/2019/cid-bn-17-046-and-17-047-in-re-breach-notification-report-of-sprout-solutions-inc-affecting-marie-france-group-of-companies.md",
+    "preserve_existing_markdown": true
+  },
+  "cid-bn-17-041-in-re-breach-notification-report-of-axa-philippines-involving-juice-and-wrapped-ideas-inc": {
+    "reference_label": "CID BN No. 17-041",
+    "title": "CID BN No. 17-041: In re: Breach Notification Report of AXA Philippines Involving Juice and Wrapped Ideas, Inc. (Closure Order)",
+    "markdown_path": "content/orders/2019/cid-bn-17-041-in-re-breach-notification-report-of-axa-philippines-involving-juice-and-wrapped-ideas-inc.md",
+    "preserve_existing_markdown": true
+  },
+  "cid-bn-17-041-in-re-axa-life-juice-wrapped-ideas-inc": {
+    "reference_label": "CID BN No. 17-041",
+    "title": "CID BN No. 17-041: In re: Breach Notification Report of AXA Philippines Involving Juice and Wrapped Ideas, Inc.",
+    "markdown_path": "content/orders/2019/cid-bn-17-041-in-re-axa-life-juice-wrapped-ideas-inc.md",
+    "preserve_existing_markdown": true
+  },
+  "cid-bn-17-043-in-re-vulnerability-assessment-of-jollibeedelivery-com": {
+    "reference_label": "CID BN No. 17-043",
+    "title": "CID BN No. 17-043: In re: Vulnerability Assessment of Jollibeedelivery.com",
+    "markdown_path": "content/orders/2019/cid-bn-17-043-in-re-vulnerability-assessment-of-jollibeedelivery-com.md",
+    "preserve_existing_markdown": true
+  },
+  "cid-18-d-012-jbd-vs-ji-and-vvv": {
+    "reference_label": "CID Case No. 18-D-012",
+    "title": "CID Case No. 18-D-012: JBD v. JI and VVV",
+    "markdown_path": "content/orders/2018/cid-18-d-012-jbd-vs-ji-and-vvv.md",
+    "preserve_existing_markdown": true,
+    "issue_date": "May 21, 2020",
+    "issue_date_iso": "2020-05-21",
+    "year": "2020"
+  },
+  "12-17-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info": {
+    "reference_label": "2020-12-17",
+    "title": "2020-12-17: In re: Lisensya.Info (CDO Extension)",
+    "issue_date": "December 17, 2020",
+    "issue_date_iso": "2020-12-17",
+    "markdown_path": "content/orders/2020/12-17-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info.md",
+    "preserve_existing_markdown": true
+  },
+  "11-12-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info": {
+    "reference_label": "2020-11-12",
+    "title": "2020-11-12: In re: Lisensya.Info (Cease and Desist Order)",
+    "issue_date": "November 12, 2020",
+    "issue_date_iso": "2020-11-12",
+    "markdown_path": "content/orders/2020/11-12-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-18-061-in-re-bureau-of-research-and-standards-department-of-public-works-and-highways-dpwh": {
+    "issue_date": "May 11, 2023",
+    "issue_date_iso": "2023-05-11",
+    "year": "2023",
+    "markdown_path": "content/orders/2023/npc-bn-18-061-in-re-bureau-of-research-and-standards-department-of-public-works-and-highways-dpwh.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-23-239-in-re-philippine-statistics-authority": {
+    "issue_date": "November 13, 2023",
+    "issue_date_iso": "2023-11-13",
+    "year": "2023",
+    "markdown_path": "content/orders/2023/npc-bn-23-239-in-re-philippine-statistics-authority.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-23-110-in-re-philippine-national-police": {
+    "issue_date": "August 16, 2023",
+    "issue_date_iso": "2023-08-16",
+    "year": "2023",
+    "markdown_path": "content/orders/2023/npc-bn-23-110-in-re-philippine-national-police.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-23-102-in-re-iqor-philippines-inc": {
+    "issue_date": "July 4, 2023",
+    "issue_date_iso": "2023-07-04",
+    "year": "2023",
+    "markdown_path": "content/orders/2023/npc-bn-23-102-in-re-iqor-philippines-inc.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-23-082-in-re-department-of-science-and-technology-regional-office-v": {
+    "issue_date": "July 4, 2023",
+    "issue_date_iso": "2023-07-04",
+    "year": "2023",
+    "markdown_path": "content/orders/2023/npc-bn-23-082-in-re-department-of-science-and-technology-regional-office-v.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-18-239-in-re-fintechnology-inc-fundko": {
+    "issue_date": "November 13, 2023",
+    "issue_date_iso": "2023-11-13",
+    "year": "2023",
+    "markdown_path": "content/orders/2022/npc-bn-18-239-in-re-fintechnology-inc-fundko.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-18-203-in-re-the-hongkong-and-shanghai-banking-corporation-limited-hsbc": {
+    "issue_date": "February 8, 2024",
+    "issue_date_iso": "2024-02-08",
+    "year": "2024",
+    "markdown_path": "content/orders/2022/npc-bn-18-203-in-re-the-hongkong-and-shanghai-banking-corporation-limited-hsbc.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-18-152-in-re-lazada-e-services-philippines-inc": {
+    "issue_date": "August 2, 2023",
+    "issue_date_iso": "2023-08-02",
+    "year": "2023",
+    "markdown_path": "content/orders/2022/npc-bn-18-152-in-re-lazada-e-services-philippines-inc.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-21-192-in-re-medicard-philippines-inc": {
+    "issue_date": "January 13, 2022",
+    "issue_date_iso": "2022-01-13",
+    "year": "2022",
+    "markdown_path": "content/orders/2021/npc-bn-21-192-in-re-medicard-philippines-inc.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-20-044-in-re-ritm": {
+    "issue_date": "September 21, 2020",
+    "issue_date_iso": "2020-09-21",
+    "year": "2020",
+    "markdown_path": "content/orders/2020/npc-bn-20-044-in-re-ritm.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-ss-20-001-in-re-familyhan-credit-corporation-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-familyhan-credit-corporation": {
+    "issue_date": "October 15, 2020",
+    "issue_date_iso": "2020-10-15",
+    "year": "2020",
+    "markdown_path": "content/orders/2020/npc-ss-20-001-in-re-familyhan-credit-corporation-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-familyhan-credit-corporation.md",
+    "preserve_existing_markdown": true
+  },
+  "npc-bn-18-002-in-re-smart-communications-inc-sm-moa-branch": {
+    "issue_date": "March 16, 2023",
+    "issue_date_iso": "2023-03-16",
+    "year": "2023",
+    "markdown_path": "content/orders/2018/npc-bn-18-002-in-re-smart-communications-inc-sm-moa-branch.md",
+    "preserve_existing_markdown": true
+  }
+}

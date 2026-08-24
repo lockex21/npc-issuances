@@ -16,7 +16,11 @@ draft: false
 
 ## Issuance Text
 
-**Circular No. 18-02**
+**NPC Circular No. 18-02**
+
+**DATE:** 20 September 2018
+
+**SUBJECT:** GUIDELINES ON COMPLIANCE CHECKS
 
 WHEREAS, the right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution values the dignity of every human person and guarantees full respect for human rights;
 

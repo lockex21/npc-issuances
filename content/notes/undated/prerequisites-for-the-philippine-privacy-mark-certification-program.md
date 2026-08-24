@@ -3,7 +3,7 @@ title: "Prerequisites for the Philippine Privacy Mark Certification Program Note
 description: "Companion summary and references for Prerequisites for the Philippine Privacy Mark Certification Program."
 tags:
   - "companion-note"
-  - "year/undated"
+  - "year/2023"
 draft: false
 ---
 
@@ -24,10 +24,10 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Prerequisites for the Philippine Privacy Mark Certification Program]]
 - Raw source note: [[sources/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Raw source text]]
-- Reference: None detected
+- Reference: Circular No. 2023-05
 - Type: Circular
-- Year: undated
-- Issued: Unknown
+- Year: 2023
+- Issued: October 25, 2023
 - Pages: 3
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/03/Prerequisites-for-the-Philippine-Privacy-Mark-Signed.pdf
 - OCR used during extraction: no
@@ -37,5 +37,5 @@ Write a concise summary and legal significance notes here.
 - None detected automatically.
 
 ### Automatic Backlinks
-- No backlinks detected yet.
+- [[issuances/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program|FAQ Prerequisites for the Philippine Privacy Mark Certification Program]]
 <!-- END GENERATED RECORD -->

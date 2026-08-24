@@ -17,28 +17,28 @@ Cornerstone documents that most other material builds on:
 
 ## Browse
 - [[issuances/index|Issuances]] — 65 circulars, advisories, guidelines, and rules, by year
-- [[advisory-opinions/index|Advisory opinions]] — 388 responses to written requests for guidance
+- [[advisory-opinions/index|Advisory opinions]] — 396 responses to written requests for guidance
 - [[decisions/index|Decisions]] — 99 rulings in complaints and other cases
 - [[resolutions/index|Resolutions]] — 140 dispositions of motions and interlocutory matters
-- [[orders/index|Orders]] — 73 directives, including breach-related and cease-and-desist orders
+- [[orders/index|Orders]] — 74 directives, including breach-related and cease-and-desist orders
 - [[laws/index|Laws]] — 2 statutory foundations (the DPA and its IRR)
 - [[types/index|Issuances by type]] — the same issuances grouped by document type
 
 ## Recently issued
-- [[issuances/2025/considerations-on-the-use-of-privacy-enhancing-technologies-pets-in-the-insurance-industry|Considerations on the Use of Privacy Enhancing Technologies (PETs) in the Insurance Industry]] (2025-03-11)
-- [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data]] (2024-12-19)
-- [[issuances/2024/guidelines-on-child-oriented-transparency|Guidelines on Child-Oriented Transparency]] (2024-12-17)
-- [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure of the NPC, as Amended (Current Version)]] (2024-03-04)
-- [[issuances/2023/faq-guidelines-on-legitimate-interest|FAQ Guidelines on Legitimate Interest]] (2023-12-28)
+- [[issuances/2026/clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system|Clarification on the Submission of Personal Data Breach Notification through Data Breach Notification Management System]] (2026-05-11)
+- [[issuances/2026/guidelines-on-data-scraping-of-publicly-available-personal-data|Guidelines on Data Scraping of Publicly Available Personal Data]] (2026-04-13)
+- [[issuances/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Guidelines On Privacy Engineering In Systems Life Cycle Processes]] (2025-08-27)
+- [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements]] (2025-06-26)
+- [[issuances/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras]] (2025-05-26)
 
 ## Most referenced
 The documents other pages in this wiki cite most often:
 
-- [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data]] (3 backlinks)
-- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines On The Processing Of Personal Data For Election Campaign Or Partisan Political Activity]] (3 backlinks)
-- [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Rules on the Issuance of Cease and Desist Orders]] (2 backlinks)
-- [[issuances/undated/rules-of-procedure|Rules of Procedure]] (2 backlinks)
-- [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions]] (2 backlinks)
+- [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making]] (3 backlinks)
+- [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]] (3 backlinks)
+- [[issuances/2023/guidelines-on-consent|Guidelines on Consent]] (3 backlinks)
+- [[issuances/2021/data-subject-rights|Data Subject Rights]] (3 backlinks)
+- [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]] (2 backlinks)
 
 ## Explore
 - [[topics/index|Topics]] — thematic groupings across all document types

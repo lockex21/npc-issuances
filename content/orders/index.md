@@ -11,13 +11,12 @@ Generated notes for the NPC orders corpus from the official website.
 
 ## Years
 - [[orders/2025/index|2025]] (1 orders)
-- [[orders/2024/index|2024]] (6 orders)
-- [[orders/2023/index|2023]] (15 orders)
-- [[orders/2022/index|2022]] (14 orders)
-- [[orders/2021/index|2021]] (13 orders)
-- [[orders/2020/index|2020]] (18 orders)
+- [[orders/2024/index|2024]] (7 orders)
+- [[orders/2023/index|2023]] (18 orders)
+- [[orders/2022/index|2022]] (12 orders)
+- [[orders/2021/index|2021]] (12 orders)
+- [[orders/2020/index|2020]] (19 orders)
 - [[orders/2019/index|2019]] (4 orders)
-- [[orders/2018/index|2018]] (2 orders)
 
 ## Manual Notes
 <!-- BEGIN MANUAL INDEX NOTES -->

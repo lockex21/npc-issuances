@@ -8,10 +8,11 @@ Generated notes for **2021** NPC decisions.
 
 ## Notes
 - [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134: VVC v. CJB]]
-- [[decisions/2021/npc-18-205-in-re-medicard-philippines-inc|NPC 18-205: In Re: Medicard Philippines, Inc]]
-- [[decisions/2021/npc-19-0048-gj-s-vmj-mtp|NPC 19-0048: GJ s. VMJ & MTP]]
+- [[decisions/2021/npc-19-0048-gj-s-vmj-mtp|NPC 19-0048: GJ v. VMJ and MTP]]
 - [[decisions/2021/npc-19-030-and-npc-19-132-cl-vs-ddz-and-dm-vs-ddz|NPC 19-030 and NPC 19-132: CL vs. DDZ and DM vs. DDZ]]
 - [[decisions/2021/npc-18-109-acn-v-dt|NPC 18-109: ACN v DT]]
+- [[decisions/2018/cid-18-d-009-jlb-vs-security-bank-corporation|CID 18-D-009: JLB vs. Security Bank Corporation]]
+- [[decisions/2020/cid-18-d-012-jbd-vs-ji-and-vvv|CID 18-D-012: JBD vs. JI and VVV]]
 
 ## Manual Notes
 <!-- BEGIN MANUAL INDEX NOTES -->

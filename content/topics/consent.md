@@ -13,13 +13,14 @@ Auto-generated topic cluster for **Consent**, covering the full corpus of laws, 
 ## Issuances
 - [[issuances/2023/guidelines-on-deceptive-design-patterns|Guidelines on Deceptive Design Patterns (Advisory No. 2023-01)]]
 - [[issuances/2023/guidelines-on-consent|Guidelines on Consent (Circular No. 2023-04)]]
+- [[issuances/2023/faq-guidelines-on-legitimate-interest|Circular on Guidelines for Legitimate Interest: Questions Raised During the Public Consultation on 07 December 2023]]
 - [[issuances/2022/guidelines-on-requests-for-personal-data-of-public-officers|Guidelines on Requests for Personal Data of Public Officers (Advisory No. 2022-01)]]
-- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021)]]
+- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021-03)]]
 - [[issuances/2021/data-subject-rights|Data Subject Rights (Advisory No. 2021-01)]]
-- [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response (Memorandum Circular No. 2020-0002)]]
 - [[issuances/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission (Advisory No. 2020-02)]]
-- [[issuances/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Use of Telemedicine in COVID-19 Response (Advisory Circular No. 2020-0001)]]
-- [[issuances/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response (Memorandum Circular No. 2020-0003)]]
+- [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response (Joint Memorandum Circular No. 2020-0002)]]
+- [[issuances/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response (Joint Memorandum Circular No. 2020-0003)]]
+- [[issuances/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Use of Telemedicine in COVID-19 Response (Joint Memorandum Circular No. 2020-0001)]]
 
 ## Advisory Opinions
 - [[advisory-opinions/2025/advisory-opinion-no-2025-013-npc-advisory-opinion-no-2025-013|NPC Advisory Opinion No. 2025-013 — Verification of Information Submitted for Visa Application]]
@@ -75,6 +76,8 @@ Auto-generated topic cluster for **Consent**, covering the full corpus of laws, 
 - [[advisory-opinions/2018/advisory-opinion-no-2018-013-npc-advisory-opinion-no-2018-013|NPC Advisory Opinion No. 2018-013 — Privacy Policy and Consent of Data Subjects]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-012-npc-advisory-opinion-no-2018-012|NPC Advisory Opinion No. 2018-012 — Release of Service Record]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-003-npc-advisory-opinion-no-2018-003|NPC Advisory Opinion No. 2018-003 — Visitor Logbook]]
+- [[advisory-opinions/2017/advisory-opinion-no-2017-050-npc-advisoryopinionno-2017-050 2|“NPC Advisory Opinion No. 2017-050 — Consent in an Employment Contract”]]
+- [[advisory-opinions/2017/advisory-opinion-no-2017-049-npc-advisoryopinionno-2017-049 2|“NPC Advisory Opinion No. 2017-049 — Teachers’ Right to Search a Minor Student’s Cellular Phone”]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-071-v1-redacted-advisory-opinion-no-2017-071|NPC Advisory Opinion No. 2017-071 — Compliance Obligations of Brokers and Dealers Under the Data Privacy Act of 2012]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-070-npc-advisory-opinion-no-2017-070|NPC Advisory Opinion No. 2017-070 — PLDT’s Privacy Policy]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-068-npc-advisory-opinion-no-2017-068|NPC Advisory Opinion No. 2017-068 — Data Privacy Act and Its Implementing Rules and Regulations]]

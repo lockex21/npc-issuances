@@ -27,7 +27,7 @@ Write a concise summary and legal significance notes here.
 - Reference: Circular No. 2023-03
 - Type: Circular
 - Year: 2023
-- Issued: Unknown
+- Issued: November 7, 2023
 - Pages: 3
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/11/Published-NPC-Circular-No.-2023-03_Guidelines-on-Identification-Cards_07Nov2023.pdf
 - OCR used during extraction: no

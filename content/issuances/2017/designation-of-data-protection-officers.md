@@ -20,7 +20,9 @@ date: '2017-03-14'
 
 ## Issuance Text
 
-**Advisory No. 2017-01**
+**NPC Advisory No. 2017-01**
+
+**DATE:** 14 MARCH 2017
 
 **SUBJECT:** DESIGNATION OF DATA PROTECTION OFFICERS
 

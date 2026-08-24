@@ -1,9 +1,9 @@
 ---
-title: "NPC 18-130: BOA v. HSBC Philippines"
+title: "NPC Case No. 18-130: BOA v. HSBC Philippines"
 description: "Order directing HSBC Philippines to submit the documents requested by the Complainant in the Discovery Conference Report and to show cause why it should not be held in contempt for failing to comply with the CID's April 2019 discovery order."
 aliases:
-  - "NPC 18-130"
-  - "npc 18-130"
+  - "NPC Case No. 18-130"
+  - "npc case no. 18-130"
   - "BOA v. HSBC Philippines"
   - "boa v. hsbc philippines"
 tags:
@@ -16,7 +16,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC 18-130
+- Reference: NPC Case No. 18-130
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/06/NPC-18-130-2020.11.05-BOA-v.-HSBC-Order-FinalP.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: November 5, 2020

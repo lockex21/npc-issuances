@@ -1,5 +1,5 @@
 ---
-title: 'NPC 17-010: In re: Movie and Television Review and Classification Board'
+title: "NPC BN 17-010: In re: Movie and Television Review and Classification Board"
 description: Resolution on MTRCB's personal data breach notification and management
   in compliance with NPC Circular 16-03, addressing exemption requests and requiring
   proper notification to affected data subjects.
@@ -20,7 +20,7 @@ date: '2023-07-13'
 ---
 
 ## Source
-- Reference: NPC 17-010
+- Reference: NPC BN 17-010
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-17-010-2023.07.13-In-re-MTRCB-Resolution-Final.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: March 7, 2018

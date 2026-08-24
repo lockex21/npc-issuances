@@ -5,7 +5,7 @@ aliases:
   - "Rules on Mediation before the National Privacy Commission Raw Source Text"
 tags:
   - "source-text"
-  - "year/undated"
+  - "year/2018"
 draft: false
 ---
 

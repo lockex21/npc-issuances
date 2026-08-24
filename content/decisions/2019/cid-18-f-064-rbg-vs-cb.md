@@ -1,9 +1,9 @@
 ---
-title: "NPC CID 18-F-064: RBG v. CB"
+title: "CID 18-F-064: RBG v. CB"
 description: "Complaint alleging falsification of signature in a letter requesting marriage certificates dismissed for lack of substantial evidence of a Data Privacy Act violation."
 aliases:
-  - "NPC CID 18-F-064"
-  - "npc cid 18-f-064"
+  - "CID 18-F-064"
+  - "cid 18-f-064"
   - "RBG v. CB"
   - "rbg v. cb"
 tags:

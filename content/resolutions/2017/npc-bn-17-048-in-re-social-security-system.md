@@ -23,7 +23,7 @@ draft: false
 - Reference: NPC BN 17-048
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-BN-17-048_In-Re-Social-Security-System_Resolution_21-January-2021.pdf
 - Source page: http://privacy.gov.ph/resolutions/
-- Issue date: January 28, 2017
+- Issue date: January 21, 2021
 - Published on NPC site: Fri, 19 May 2023 17:32:36 GMT
 - Pages: 4
 

@@ -27,7 +27,7 @@ Write a concise summary and legal significance notes here.
 - Reference: Advisory No. 2017-03
 - Type: Advisory
 - Year: 2017
-- Issued: Unknown
+- Issued: July 31, 2017
 - Pages: 11
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC_AdvisoryNo.2017-03.pdf
 - OCR used during extraction: no

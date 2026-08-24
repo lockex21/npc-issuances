@@ -37,5 +37,6 @@ Write a concise summary and legal significance notes here.
 - [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Rules on the Issuance of Cease and Desist Orders]]
 
 ### Automatic Backlinks
-- No backlinks detected yet.
+- [[issuances/2026/clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system|Clarification on the Submission of Personal Data Breach Notification through Data Breach Notification Management System]]
+- [[issuances/undated/faqs-on-the-guidelines-on-administrative-fines|FAQs on the Guidelines on Administrative Fines]]
 <!-- END GENERATED RECORD -->

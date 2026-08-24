@@ -22,7 +22,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC CID Case No. 17-002
+- Reference: NPC CID 17-002
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-17-002-In-re-COMELEC-Decision-Pseudonymized-7Aug2020-ABJ1.pdf
 - Source page: http://privacy.gov.ph/decisions-2/
 - Issue date: August 15, 2019

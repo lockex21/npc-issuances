@@ -1,9 +1,9 @@
 ---
-title: "CID BN 17-034: In re: Philippine National Bank"
+title: "NPC BN 17-034: In re: Philippine National Bank"
 description: "Resolution closing the breach notification case of Philippine National Bank after finding it in substantial compliance with security remediation measures following a ransomware attack on its inControl Portal."
 aliases:
-  - "CID BN 17-034"
-  - "cid bn 17-034"
+  - "NPC BN 17-034"
+  - "npc bn 17-034"
   - "In re: Philippine National Bank"
   - "in re: philippine national bank"
 tags:
@@ -18,10 +18,10 @@ draft: false
 ---
 
 ## Source
-- Reference: CID BN 17-034
+- Reference: NPC BN 17-034
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/CID-BN-17-034_PNB_Resolution_23-January-2020.pdf
 - Source page: http://privacy.gov.ph/resolutions/
-- Issue date: November 17, 2017
+- Issue date: January 23, 2020
 - Published on NPC site: Fri, 19 May 2023 17:31:27 GMT
 - Pages: 4
 

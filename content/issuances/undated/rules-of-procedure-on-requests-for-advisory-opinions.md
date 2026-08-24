@@ -11,7 +11,7 @@ tags:
 - type/circular
 - year/2018
 draft: false
-date: '2018-06-22'
+date: '2018-09-10'
 ---
 
 ## Issuance Text

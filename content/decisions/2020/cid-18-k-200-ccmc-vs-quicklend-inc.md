@@ -1,9 +1,9 @@
 ---
-title: "CID 18-K-200: CCMC v. Quicklend, Inc."
+title: "NPC 18-K-200: CCMC v. Quicklend, Inc."
 description: "Complaint alleging unauthorized disclosure of personal data (email addresses and names) to 136 other clients in a mass email sent to the wrong recipients; complainant found to have suffered a personal data breach and respondent ordered to submit compliant security incident management policy."
 aliases:
-  - "CID 18-K-200"
-  - "cid 18-k-200"
+  - "NPC 18-K-200"
+  - "npc 18-k-200"
   - "CCMC v. Quicklend, Inc."
   - "ccmc v. quicklend, inc."
 tags:
@@ -19,7 +19,7 @@ draft: false
 ---
 
 ## Source
-- Reference: CID 18-K-200
+- Reference: NPC 18-K-200
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/CID-18-K-200-2020.01.17-CCMC-v.-Quicklend-Decision.pdf
 - Source page: http://privacy.gov.ph/decisions-2/
 - Issue date: January 17, 2020

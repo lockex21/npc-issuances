@@ -7,11 +7,12 @@ draft: false
 Each page below groups issuances by issuance type.
 
 ## Types
-- [[types/advisory|Advisory]] (22 issuances)
-- [[types/circular|Circular]] (32 issuances)
+- [[types/advisory|Advisory]] (24 issuances)
+- [[types/annex|Annex]] (1 issuances)
+- [[types/circular|Circular]] (29 issuances)
 - [[types/faq|FAQ]] (7 issuances)
 - [[types/joint-advisory|Joint Advisory]] (1 issuances)
-- [[types/memorandum-circular|Memorandum Circular]] (3 issuances)
+- [[types/joint-memorandum-circular|Joint Memorandum Circular]] (3 issuances)
 
 ## Manual Notes
 <!-- BEGIN MANUAL INDEX NOTES -->

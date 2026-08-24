@@ -34,7 +34,7 @@ Write a concise summary and legal significance notes here.
 - Topic pages: [[topics/training-certification|Training Certification]]
 
 ### Automatic References Out
-- None detected automatically.
+- [[issuances/2023/data-privacy-competency-program|Data Privacy Competency Program]]
 
 ### Automatic Backlinks
 - No backlinks detected yet.

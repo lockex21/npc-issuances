@@ -1,9 +1,9 @@
 ---
-title: "NPC BN 18-179: In re: ABS-CBN Corporation"
+title: "NPC BN NO. 18-179: In re: ABS-CBN Corporation"
 description: "Order directing ABS-CBN Corporation to submit proof of notification to the 208 data subjects affected by a 2018 Magecart payment-skimmer attack on its online store, after the Commission found no such proof in the breach notification reports submitted."
 aliases:
-  - "NPC BN 18-179"
-  - "npc bn 18-179"
+  - "NPC BN NO. 18-179"
+  - "npc bn no. 18-179"
   - "In re: ABS-CBN Corporation"
   - "in re: abs-cbn corporation"
 tags:
@@ -18,7 +18,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC BN 18-179
+- Reference: NPC BN NO. 18-179
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-18-179-2021.03.11-In-re-ABS-CBN-Order-FinalP.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: March 11, 2021

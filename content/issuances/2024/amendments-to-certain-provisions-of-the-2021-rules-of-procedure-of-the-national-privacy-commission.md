@@ -18,9 +18,11 @@ date: '2024-01-26'
 
 ## Issuance Text
 
-**Circular No. 2024-01**
+**NPC Circular 2024-01**
 
-### Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission
+**DATE:** 26 January 2024
+
+**SUBJECT:** AMENDMENTS TO CERTAIN PROVISIONS OF THE 2021 RULES OF PROCEDURE OF THE NATIONAL PRIVACY COMMISSION
 
 Pursuant to the authority vested in the National Privacy Commission (NPC) through [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]” (DPA), to receive complaints and institute investigations, the following amendments repeal and renumber several provisions of the 2021 Rules of Procedure dated 28 January 2021.
 

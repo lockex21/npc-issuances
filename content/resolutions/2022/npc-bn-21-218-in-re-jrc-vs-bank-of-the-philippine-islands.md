@@ -1,9 +1,9 @@
 ---
-title: "NPC BN 21-218: In re: JRC v. Bank of the Philippine Islands"
+title: "NPC 21-218: In re: JRC v. Bank of the Philippine Islands"
 description: "Mediated settlement resolution in a complaint alleging data breach resulting from phishing scam, confirming compliance agreement between complainant and Bank of the Philippine Islands."
 aliases:
-  - "NPC BN 21-218"
-  - "npc bn 21-218"
+  - "NPC 21-218"
+  - "npc 21-218"
   - "In re: JRC v. Bank of the Philippine Islands"
   - "in re: jrc v. bank of the philippine islands"
 tags:
@@ -16,7 +16,7 @@ date: "2022-08-19"
 draft: false
 ---
 ## Source
-- Reference: NPC BN 21-218
+- Reference: NPC 21-218
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/07/NPC-21-218-08.192022-Jennet-R-Cruz-vs-Bank-of-the-Philippine-Island.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: August 19, 2022

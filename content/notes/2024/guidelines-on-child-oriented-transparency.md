@@ -24,7 +24,7 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2024/guidelines-on-child-oriented-transparency|Guidelines on Child-Oriented Transparency]]
 - Raw source note: [[sources/2024/guidelines-on-child-oriented-transparency|Raw source text]]
-- Reference: Advisory No. 2024
+- Reference: Advisory No. 2024-03
 - Type: Advisory
 - Year: 2024
 - Issued: December 17, 2024
@@ -34,8 +34,8 @@ Write a concise summary and legal significance notes here.
 - Topic pages: [[topics/children|Children]]
 
 ### Automatic References Out
-- [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data]]
+- None detected automatically.
 
 ### Automatic Backlinks
-- No backlinks detected yet.
+- [[issuances/undated/faq-guidelines-on-child-oriented-transparency|FAQ Guidelines on Child-Oriented Transparency]]
 <!-- END GENERATED RECORD -->

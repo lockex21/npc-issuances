@@ -21,7 +21,7 @@ draft: false
                                                   Republic of the Philippines  
                                    NATIONAL PRIVACY COMMISSION
 
-[[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 2022]] – 03
+NPC Circular No. 2022-03
 
  DATE                      :       05 December 2022
 

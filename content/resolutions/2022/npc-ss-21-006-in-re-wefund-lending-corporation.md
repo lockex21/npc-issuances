@@ -1,11 +1,11 @@
 ---
-title: "NPC SS 21-006: In re: Wefund Lending Corporation"
+title: "NPC SS 21-006: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers"
 description: "Resolution lifting the temporary ban on Wefund Lending Corporation's data processing after the company addressed undisclosed permissions in its JuanHand online lending application."
 aliases:
   - "NPC SS 21-006"
   - "npc ss 21-006"
-  - "In re: Wefund Lending Corporation"
-  - "in re: wefund lending corporation"
+  - "In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers"
+  - "in re: wefund lending corporation (juanhand) and its responsible officers"
 tags:
   - "resolution"
   - "type/resolution"

@@ -15,13 +15,16 @@ Auto-generated topic cluster for **Data Subject Rights**, covering the full corp
 - [[issuances/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras (Circular No. 2025-01)]]
 - [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Guidelines on the Application of the DPA to Artificial Intelligence Systems Processing Personal Data (Advisory No. 2024-04)]]
 - [[issuances/2024/closed-circuit-television-cctv-systems|Closed-Circuit Television (CCTV) Systems (Circular No. 2024-02)]]
+- [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure of the NPC, as Amended (Current Version)]]
 - [[issuances/2023/guidelines-on-deceptive-design-patterns|Guidelines on Deceptive Design Patterns (Advisory No. 2023-01)]]
 - [[issuances/2023/guidelines-on-consent|Guidelines on Consent (Circular No. 2023-04)]]
+- [[issuances/2023/faq-guidelines-on-legitimate-interest|Circular on Guidelines for Legitimate Interest: Questions Raised During the Public Consultation on 07 December 2023]]
 - [[issuances/2022/guidelines-on-administrative-fines|Guidelines on Administrative Fines (Circular No. 2022-01)]]
 - [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures (Circular No. 2021-02)]]
-- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021)]]
+- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021-03)]]
 - [[issuances/2021/data-subject-rights|Data Subject Rights (Advisory No. 2021-01)]]
 - [[issuances/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Guidelines for Workplaces and Establishments Processing Personal Data for COVID-19 Response (Advisory No. 2020-03)]]
+- [[issuances/2020/faqs|Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO)]]
 - [[issuances/2017/guidelines-on-privacy-impact-assessments|Guidelines on Privacy Impact Assessments (Advisory No. 2017-03)]]
 - [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies (Circular No. 16-02)]]
 
@@ -73,6 +76,7 @@ Auto-generated topic cluster for **Data Subject Rights**, covering the full corp
 - [[advisory-opinions/2017/advisory-opinion-no-2017-007-npc-advisoryopinionno-2017-007|NPC Advisory Opinion No. 2017-007 — Consent, Collection of Fees for Right to Access, and Incidental Collection of Personal Data]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-004-npc-advisoryopinionno-2017-004|NPC Advisory Opinion No. 2017-004 — Right to Access, Right to Data Portability and Use of Data Collected for Organizational Improvement]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-001-npc-advisoryopinionno-2017-001|NPC Advisory Opinion No. 2017-001 — Registration of Processing System for Online Businesses; Deletion of Data and Clarification on Section 19(E)(2) of the IRR]]
+- [[advisory-opinions/2017/index 2|Advisory Opinions 2017]]
 
 ## Decisions
 - [[decisions/2024/npc-22-066-als-vs-allied-bank-now-philippine-national-bank|NPC 22-066: ALS v. Allied Bank (Now Philippine National Bank)]]

@@ -1,11 +1,11 @@
 ---
-title: "NPC CDO 22-001: CID vs. PH-Check.com"
+title: "CID CDO 22-001: CID vs. PH-Check.com"
 description: "Cease and desist order against PH-Check.com for unauthorized processing of personal data scraped from the DTI Business Name Registration System."
 aliases:
-  - "NPC CDO 22-001"
-  - "npc cdo 22-001"
-  - "CID v. PH-Check.com"
-  - "cid v. ph-check.com"
+  - "CID CDO 22-001"
+  - "cid cdo 22-001"
+  - "CID vs. PH-Check.com"
+  - "cid vs. ph-check.com"
 tags:
   - "resolution"
   - "type/resolution"
@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC CDO 22-001
+- Reference: CID CDO 22-001
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/CID-CDO-22-001-09.22.2022_CID-vs-PH-check_Order-Final.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: September 22, 2022

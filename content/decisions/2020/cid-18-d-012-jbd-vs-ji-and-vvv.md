@@ -21,7 +21,7 @@ draft: false
 - Reference: CID 18-D-012
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/Decision_CID-18-D-012-JBD-v.-JI-and-VVV-Jan-21-2021.pdf
 - Source page: http://privacy.gov.ph/decisions-2/
-- Issue date: 21 January 2021
+- Issue date: January 21, 2021
 - Published on NPC site: Wed, 24 May 2023 04:36:06 GMT
 - Pages: 15
 

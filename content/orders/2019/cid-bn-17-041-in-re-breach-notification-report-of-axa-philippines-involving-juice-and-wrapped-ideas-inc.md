@@ -1,9 +1,9 @@
 ---
-title: "CID BN 17-041: In re: Breach Notification Report of AXA Philippines Involving Juice and Wrapped Ideas, Inc. (Closure Order)"
+title: "CID BN No. 17-041: In re: Breach Notification Report of AXA Philippines Involving Juice and Wrapped Ideas, Inc. (Closure Order)"
 description: "Order closing NPC BN 17-041 after AXA Philippines timely submitted its comprehensive compliance report following the data breach involving Juice and Wrapped Ideas, Inc., with the Commission finding substantial compliance with Section 9 of NPC Circular 16-03."
 aliases:
-  - "CID BN 17-041 Closure"
-  - "cid bn 17-041 closure"
+  - "CID BN No. 17-041"
+  - "cid bn no. 17-041"
   - "In re: Breach Notification Report of AXA Philippines Involving Juice and Wrapped Ideas, Inc. (Closure)"
   - "in re: breach notification report of axa philippines involving juice and wrapped ideas, inc. (closure)"
 tags:
@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## Source
-- Reference: [[orders/2019/cid-bn-17-041-in-re-axa-life-juice-wrapped-ideas-inc|CID BN 17-041]]
+- Reference: [[orders/2019/cid-bn-17-041-in-re-axa-life-juice-wrapped-ideas-inc|CID BN No. 17-041]]
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/CID-BN-17-041-2019.10.24-In-re-Breach-Notification-Report-of-AXA-Philippines-involving-Juice-and-Wrapped-Ideas-Inc.-Order.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: October 24, 2019

@@ -1,9 +1,9 @@
 ---
-title: "CID 18-D-012: JBD v. JI and VVV"
+title: "CID Case No. 18-D-012: JBD v. JI and VVV"
 description: "Order directing complainant JBD to submit a certified true copy of the Position Paper containing his SSS records and supporting evidence of the SSS Fraud Department's findings, arising from a complaint that respondents JI and VVV obtained and used his sensitive personal information without consent as evidence before the PRC."
 aliases:
-  - "CID 18-D-012"
-  - "cid 18-d-012"
+  - "CID Case No. 18-D-012"
+  - "cid case no. 18-d-012"
   - "JBD v. JI and VVV"
   - "jbd v. ji and vvv"
 tags:
@@ -18,7 +18,7 @@ draft: false
 ---
 
 ## Source
-- Reference: CID 18-D-012
+- Reference: CID Case No. 18-D-012
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/CID-18-D-012-JBD-v.-JI-and-VVV-Pseudonymized-16Dec2020-ADJ1-.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: May 21, 2020

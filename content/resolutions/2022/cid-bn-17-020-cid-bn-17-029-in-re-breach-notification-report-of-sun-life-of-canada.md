@@ -1,11 +1,11 @@
 ---
-title: "CID BN 17-020 and CID BN 17-029: In re: Breach Notification Report of Sun Life of Canada (Philippines)"
+title: "NPC BN 17-020 and BN 17-029: In re: Breach Notification Report of Sun Life of Canada (Philippines)"
 description: "Resolution closing CID BN 17-020 and CID BN 17-029 after Sun Life of Canada (Philippines), Inc. submitted a full breach management report satisfying the Commission's July 2019 compliance order."
 aliases:
-  - "CID BN 17-020 and CID BN 17-029"
-  - "cid bn 17-020 and cid bn 17-029"
-  - "In re: Sun Life of Canada (Philippines), Inc."
-  - "in re: sun life of canada (philippines), inc."
+  - "NPC BN 17-020 and BN 17-029"
+  - "npc bn 17-020 and bn 17-029"
+  - "In re: Breach Notification Report of Sun Life of Canada (Philippines)"
+  - "in re: breach notification report of sun life of canada (philippines)"
 tags:
   - resolution
   - type/resolution
@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## Source
-- Reference: CID BN 17-020 & CID BN 17-029
+- Reference: NPC BN 17-020 and BN 17-029
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-BN-17-020-_-029-09.22.2022-In-Re-Sun-Life-of-Canada_Resolution.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: September 22, 2022

@@ -16,7 +16,11 @@ date: "2023-11-07"
 
 ## Issuance Text
 
-**Circular No. 2023-03**
+**NPC Circular No. 2023 – 03**
+
+**DATE:** 07 November 2023
+
+**SUBJECT:** GUIDELINES ON IDENTIFICATION CARDS
 
 WHEREAS, personal information controllers (PICs) issue physical or digital identification  
 cards (ID cards) to their respective data subjects for identity verification in relation to the  
@@ -52,7 +56,7 @@ Circular that prescribes the guidelines for PICs on the issuance of ID cards.
 
 **SECTION 1.** ***Scope.*** This Circular shall apply to all PICs that issue ID cards to their respective data subjects: provided, that ID cards issued by government agencies pursuant to their respective regulatory mandate, such as but not limited to, driver’s license, passport, Professional ID card of a Registered Professional (including for this purpose the Integrated Bar of the Philippines (IBP) Lawyers ID), and Tax Identification Number (TIN) card, shall be excluded from the scope of this Circular.
 
-For purposes of this Circular, ID cards are understood to be any physical or digital ID card that identifies a data subject. ID cards include, but are not limited to, company IDs, school IDs, insurance cards, membership cards, and rewards or loyalty cards.
+For purposes of this Circular, ID cards are understood to be any physical or digital ID[^1] card that identifies a data subject. ID cards include, but are not limited to, company IDs, school IDs, insurance cards, membership cards, and rewards or loyalty cards.
 
 **SECTION 2.** ***Definition of Terms.*** Terms used herein shall have the respective meanings provided in the [[laws/data-privacy-act-of-2012|DPA]], its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], as amended, and other issuances of the NPC.
 
@@ -87,6 +91,8 @@ Approved:
    SGD.                                                SGD.  
      LEANDRO ANGELO Y. AGUIRRE                               NERISSA N. DE JESUS  
        Deputy Privacy Commissioner                         Deputy Privacy Commissioner
+
+## Footnotes
 
 [^1]: International Telecommunication Union, Recommendation ITU-T X.1251, A framework for user control of digital identity, "3.2.3 digital identity: The digital representation of the information known about a specific individual, group or organization", available at https://www.itu.int/itu-t/recommendations/rec.aspx?rec=9619 (last accessed 5 July 2023) and United Nations Conference on Trade and Development, Policy Brief No. 96, March 2022, Digital identity refers to the set of electronically captured and stored attributes and credentials used to uniquely identify a person, which can include biographic data (e.g. name and date of birth), biometric data (e.g. fingerprints and facial features) and/or government-issued identification, available at: https://unctad.org/system/files/official-document/presspb2022d4_en.pdf (last accessed 5 July 2023).
 

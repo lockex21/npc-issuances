@@ -34,7 +34,6 @@ Write a concise summary and legal significance notes here.
 - Topic pages: None yet
 
 ### Automatic References Out
-- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]
 - [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission]]
 
 ### Automatic Backlinks

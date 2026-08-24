@@ -7,7 +7,7 @@ draft: false
 Auto-generated topic cluster for **Elections**, covering the full corpus of laws, issuances, advisory opinions, decisions, resolutions, and orders.
 
 ## Issuances
-- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021)]]
+- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021-03)]]
 
 ## Advisory Opinions
 - [[advisory-opinions/2024/advisory-opinion-no-2024-009-advisory-opinion-no-2024-009|NPC Advisory Opinion No. 2024-009 — Use of Personal Information in Election Proceedings]]

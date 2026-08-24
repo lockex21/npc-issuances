@@ -27,14 +27,14 @@ Write a concise summary and legal significance notes here.
 - Reference: Circular No. 2025-01
 - Type: Circular
 - Year: 2025
-- Issued: Unknown
+- Issued: May 26, 2025
 - Pages: 9
 - Official source: https://privacy.gov.ph/wp-content/uploads/2025/05/SGD-NPC-Circular-No.-2025-01-Body-Worn-Cameras.pdf
 - OCR used during extraction: no
 - Topic pages: [[topics/cctv-surveillance|CCTV Surveillance]]
 
 ### Automatic References Out
-- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines On The Processing Of Personal Data For Election Campaign Or Partisan Political Activity]]
+- [[issuances/2021/data-subject-rights|Data Subject Rights]]
 
 ### Automatic Backlinks
 - No backlinks detected yet.

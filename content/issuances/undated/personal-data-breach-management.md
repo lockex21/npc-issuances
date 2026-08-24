@@ -14,7 +14,7 @@ tags:
 - topic/breach-notification
 - topic/registration
 draft: false
-date: '2016-10-18'
+date: '2016-12-15'
 ---
 
 ## Issuance Text
@@ -327,7 +327,7 @@ The investigation under this Section shall be governed by the Rules of Procedure
 
 Any or all reports shall be made available when requested by the Commission: *Provided, that* a summary of all reports shall be submitted to the Commission annually, comprised of general information including the number of incidents and breach encountered, classified according to their impact on the availability, integrity, or confidentiality of personal data.
 
-**Section 23.** ***Notification and Reporting to the National Privacy Commission.*** The requirements pertaining to notification and the submission of reports shall be complied with through the appropriate submissions to the office of the National Privacy Commission or by electronic mail (`complaints@privacy.gov.ph`). The foregoing details may be amended, subject to a public announcement made through the Commission’s website or other comparable means.
+**Section 23.** ***Notification and Reporting to the National Privacy Commission.*** The requirements pertaining to notification and the submission of reports shall be complied with through the appropriate submissions to the office of the National Privacy Commission or by electronic mail (complaints@privacy.gov.ph). The foregoing details may be amended, subject to a public announcement made through the Commission’s website or other comparable means.
 
 **SECTION 24.** ***Separability Clause.*** If any portion or provision of this Circular is declared null and void or unconstitutional, the other provisions not affected thereby shall continue to be in force and effect.
 

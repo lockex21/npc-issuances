@@ -24,7 +24,7 @@ draft: false
 - Reference: NPC BN 20-124
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution_NPC-BN-20-124-In-re-E-Science-Corporation.pdf
 - Source page: http://privacy.gov.ph/resolutions/
-- Issue date: December 14, 2020
+- Issue date: December 17, 2020
 - Published on NPC site: Fri, 19 May 2023 17:33:08 GMT
 - Pages: 4
 

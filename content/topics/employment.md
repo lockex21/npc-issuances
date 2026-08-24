@@ -15,7 +15,7 @@ Auto-generated topic cluster for **Employment**, covering the full corpus of law
 - [[issuances/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for COVID-19 Response (Advisory No. 2020-03-A)]]
 - [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Guidelines on the Use of Closed-Circuit Television (CCTV) Systems (Advisory No. 2020-04)]]
 - [[issuances/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Guidelines for Workplaces and Establishments Processing Personal Data for COVID-19 Response (Advisory No. 2020-03)]]
-- [[issuances/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response (Memorandum Circular No. 2020-0003)]]
+- [[issuances/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response (Joint Memorandum Circular No. 2020-0003)]]
 
 ## Advisory Opinions
 - [[advisory-opinions/2026/advisory-opinion-no-2026-001-npc-advisory-opinion-no-2026-001|NPC Advisory Opinion No. 2026-001 — Collection of Government Employee Data by PAGCOR for Enforcement of Casino Entry Prohibition]]
@@ -70,6 +70,7 @@ Auto-generated topic cluster for **Employment**, covering the full corpus of law
 - [[advisory-opinions/2018/advisory-opinion-no-2018-008-npc-advisory-opinion-no-2018-008|NPC Advisory Opinion No. 2018-008 — Submission of Employee Names and Salary for Community Tax Certificate]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-004-npc-advisory-opinion-no-2018-004|NPC Advisory Opinion No. 2018-004 — Employee Non-Disclosure Undertaking]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-002-npc-advisory-opinion-no-2018-002|NPC Advisory Opinion No. 2018-002 — Commission on Audit Request for Access to Bangko Sentral ng Pilipinas Employees’ Directory]]
+- [[advisory-opinions/2017/advisory-opinion-no-2017-050-npc-advisoryopinionno-2017-050 2|“NPC Advisory Opinion No. 2017-050 — Consent in an Employment Contract”]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-074-v1-redacted-advisory-opinion-no-2017-074|NPC Advisory Opinion No. 2017-074 — Data Privacy Obligations of Online Salary Loan Platform Regarding Sensitive Personal Information Processing]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-056-npc-advisoryopinionno-2017-056|NPC Advisory Opinion No. 2017-056 — Disclosure of Government Employee Data to Law Enforcement Agencies]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-051-npc-advisoryopinionno-2017-051|NPC Advisory Opinion No. 2017-051 — Consent of Old Employees]]

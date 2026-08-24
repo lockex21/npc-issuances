@@ -27,7 +27,7 @@ Write a concise summary and legal significance notes here.
 - Reference: Circular No. 2024-02
 - Type: Circular
 - Year: 2024
-- Issued: Unknown
+- Issued: August 9, 2024
 - Pages: 11
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/08/NPC-Circular-No.-2024-02-CCTV-Systems.pdf
 - OCR used during extraction: no

@@ -18,9 +18,11 @@ date: '2017-07-31'
 
 ## Issuance Text
 
-**Advisory No. 2017-03**
+**NPC Advisory No. 2017-03**
 
-SUBJECT: GUIDELINES ON PRIVACY IMPACT ASSESSMENTS
+**DATE:** 31 July 2017
+
+**SUBJECT:** GUIDELINES ON PRIVACY IMPACT ASSESSMENTS
 
 ### Preamble
 

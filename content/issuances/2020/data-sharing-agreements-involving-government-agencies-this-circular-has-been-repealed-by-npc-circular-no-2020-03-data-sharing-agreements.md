@@ -13,7 +13,7 @@ tags:
 - topic/data-sharing
 - topic/government
 - type/circular
-- year/2020
+- year/2016
 - topic/cross-border-transfers
 - topic/data-subject-rights
 - topic/registration
@@ -23,11 +23,13 @@ date: '2016-10-10'
 
 ## Issuance Text
 
-**Circular No. 16-02**
+**NPC Circular 16-02**
+
+**DATE:** 10 October 2016
 
 TO: ALL HEADS OF GOVERNMENT BRANCHES, BODIES OR ENTITIES, INCLUDING NATIONAL GOVERNMENT AGENCIES, BUREAUS OR OFFICES, CONSTITUTIONAL COMMISSIONS, LOCAL GOVERNMENT UNITS, GOVERNMENT-OWNED AND –CONTROLLED CORPORATIONS, STATE COLLEGE AND UNIVERSITIES; HEADS OF PRIVATE ENTITIES
 
-SUBJECT: DATA SHARING AGREEMENTS INVOLVING GOVERNMENT AGENCIES
+**SUBJECT:** DATA SHARING AGREEMENTS INVOLVING GOVERNMENT AGENCIES
 
 WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State recognizes the vital role of communication and information in nation-building. At the same time, Article II, Section 11 thereof emphasizes that the State values the dignity of every human person and guarantees full respect for human rights;
 

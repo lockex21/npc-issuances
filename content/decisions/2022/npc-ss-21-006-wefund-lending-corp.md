@@ -1,5 +1,5 @@
 ---
-title: "NPC SS 21-006: Wefund Lending Corporation and its Responsible Officers"
+title: "NPC SS 21-006: In Re: Wefund Lending Corporation (JuanHand) and its Responsible Officers"
 description: "Sua sponte investigation determining that Wefund Lending Corporation violated Section 25 of the DPA through unauthorized processing of personal information; case dismissed as to responsible officers for lack of substantial evidence."
 aliases:
   - "NPC SS 21-006"

@@ -1,11 +1,11 @@
 ---
-title: "NPC SS 19-910: In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application"
+title: "NPC No. 19-910: In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application"
 description: "Sua sponte resolution granting Fynamics Lending, Inc. a final ten-day extension to submit required documents in a data privacy investigation."
 aliases:
-  - "NPC SS 19-910"
-  - "npc ss 19-910"
-  - "In re: Fynamics Lending Inc."
-  - "in re: fynamics lending inc."
+  - "NPC No. 19-910"
+  - "npc no. 19-910"
+  - "In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application"
+  - "in re: fynamics lending inc. operating pondopeso online lending application"
 tags:
   - "resolution"
   - "type/resolution"
@@ -21,7 +21,7 @@ draft: false
 
 
 ## Source
-- Reference: NPC SS 19-910
+- Reference: NPC No. 19-910
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-19-910-2020.11.19-In-re-Fynamics-Lending-Inc.-Operating-PondoPeso-Online-Lending-Application-Resolution.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: November 19, 2020

@@ -1,9 +1,9 @@
 ---
-title: "CID CDO 21-003: In re: PiliPinas2022.ph"
+title: "CID-CDO-21-003: In re: PiliPinas2022.ph"
 description: "Cease and Desist Order directing PiliPinas2022.ph to file a comment and cease processing personal data, after the CID found that the online political survey platform failed to comply with the general data privacy principles of transparency, legitimate purpose, and proportionality, and that its continued operation posed a grave risk of irreparable injury to data subjects."
 aliases:
-  - "CID CDO 21-003"
-  - "cid cdo 21-003"
+  - "CID-CDO-21-003"
+  - "cid-cdo-21-003"
   - "In re: PiliPinas2022.ph"
   - "in re: pilipinas2022.ph"
 tags:
@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## Source
-- Reference: CID CDO 21-003
+- Reference: CID-CDO-21-003
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/CID-CDO-21-003-In-re-PiliPinas2022.ph-Pseudo-28June2021.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: June 16, 2021

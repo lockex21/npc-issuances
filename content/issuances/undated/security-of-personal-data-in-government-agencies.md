@@ -16,8 +16,9 @@ tags:
 - type/circular
 - year/2016
 - topic/registration
+- topic/data-sharing
 draft: false
-date: '2016-07-22'
+date: '2016-10-10'
 ---
 
 ## Issuance Text

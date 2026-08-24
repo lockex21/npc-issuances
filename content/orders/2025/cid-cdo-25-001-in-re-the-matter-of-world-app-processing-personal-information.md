@@ -35,6 +35,8 @@ draft: false
 
 **IN THE MATTER OF WORLD APP PROCESSING OF PERSONAL INFORMATION**                    **CID CDO 25-001**
 
+For: Violation of the Data Privacy Act of 2012
+
 x----------------------------------------------------x
 
 **CEASE AND DESIST ORDER**
@@ -107,9 +109,7 @@ Additionally, TFH asserted that data collected is not used for AI training:
 
 > (i.e., Mini Apps) being made by thousands of developers around the world, and made available through the World App, which millions of people around the world are using every day. A list of the Mini Apps is available on the website or directly through the App Store in the World App. People can use Worldcoin through these Mini Apps for a variety of useful purposes.
 
-> Additionally, data collected is not used for AI training. As discussed with the NPC during an in person meeting with the Complaints and Investigations Division on 13 May 2025, today no data is collected or used for AI training. In the future, TFH expects to launch a feature much like the feature made available by Apple when an application crashes and needs to be debugged, to allow a user to report issues for debugging and in
-
-> so doing share data for debugging, testing and improvement. The registration was made with this future feature in mind. This feature does not exist today, and therefore, no data is being used for AI training.[^36]
+> Additionally, data collected is not used for AI training. As discussed with the NPC during an in person meeting with the Complaints and Investigations Division on 13 May 2025, today no data is collected or used for AI training. In the future, TFH expects to launch a feature much like the feature made available by Apple when an application crashes and needs to be debugged, to allow a user to report issues for debugging and in so doing share data for debugging, testing and improvement. The registration was made with this future feature in mind. This feature does not exist today, and therefore, no data is being used for AI training.[^36]
 
 TFH indicated that contrary to CID’s assertion, the collection of biometric data by World App is not detrimental to national security or public interest given that the World App clearly states the purpose of collection before the data is collected thereby it is clear that the purpose of processing is made clear.[^37]
 
@@ -205,9 +205,9 @@ The Rules of Court likewise require that pleadings be signed by the party or the
 
 Both the verification and authorization are absent. As such, the letter submitted by TFH on 19 May 2025[^63] is procedurally defective and cannot take the place of a Comment as required by the Commission.
 
-Second, on 30 June 2025, TFH, through electronic mail[^64], requested an additional 30-day extension to supplement its earlier submission. In its
+Second, on 30 June 2025, TFH, through electronic mail[^64], requested an additional 30-day extension to supplement its earlier submission. In its 03 July 2025 Minute Resolution,[^65] while the Commission partially granted this request in view of the nature and implications of the application for a CDO, the Commission noted that the filing made by TFH is not a proper manifestation or motion, but merely a request.
 
-July 2025 to “further update” its initial response with a pleading-like attachment labeled as a Supplemental Comment/Opposition and marked as Annexure 1.[^66]
+Third, on 18 July 2025, instead of submitting additional documents in relation to the foregoing, TFH submitted a Letter Response dated 18 July 2025 to “further update” its initial response with a pleading-like attachment labeled as a Supplemental Comment/Opposition and marked as Annexure 1.[^66]
 
 It is worthy to note that the Commission granted the request to submit additional documents **on the premise that TFH has ongoing updates regarding its Privacy Policy and new engagements with certain universities**.[^67] The said grant cannot be interpreted and treated as a blanket approval that allows TFH to submit any document or pleading. Clearly, the submission of a pleading is not within the purview of the said grant. Otherwise, the Commission would have stated that TFH may submit any documents or pleading it deems necessary.
 
@@ -531,9 +531,7 @@ Both Privacy Notices made use of highly technical terms, including but not limit
 
 The excerpts provided above not only illustrate the use of highly technical terminology that contributes to ambiguity and confusion, but also contain vague and non-committal language such as “we may obtain,” “we may analyze,” and “we cannot guarantee.” Such phrasings introduce significant uncertainty for data subjects regarding the manner, extent, and timing of the processing of their personal data, thereby undermining the principles of transparency required under the DPA.
 
-Moreover, in accordance with the [[issuances/2023/guidelines-on-consent|NPC Circular 2023-04]] and Section
-
-information, technical jargon, confusing terminologies, double negatives, and deliberately providing information in a circuitous manner.
+Moreover, in accordance with the [[issuances/2023/guidelines-on-consent|NPC Circular 2023-04]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 (a) of the IRR of the DPA]] on transparency, it is again emphasized that the processing of personal data should be easy to access and understand, using clear and plain language. The information should be provided in the simplest manner possible and avoid using complex sentences or language structures. The use of layman’s terms is encouraged to ensure that the data subject understands the processing. A PIC must not use vague or blanket wording, convoluted information, technical jargon, confusing terminologies, double negatives, and deliberately providing information in a circuitous manner.
 
 World and TFH’s Privacy Notices fail to provide a highly readable and accessible explanation for data subjects, especially given the novelty of the technology, the nature of the data collected, and the complexity of the processing involved.
 
@@ -577,9 +575,7 @@ During the same hearing, TFH informed the Commission that the DPIA previously su
 
 > DPC JSB : So, DK, sorry to stop you. So, are you saying that with this, with the app now, the one that you have provided is a DPIA for a previous setup for your previous system?
 
-> DK : No. So, it is accurate as to the system. The difference is that there is a controller who was removed from the system, right? And so that is what this reflects. And we are happy to provide an updated one to reflect that removal that happened in
-
-> December, that was also flagged for, I believe, when we met with Commissioner Naga before Christmas. I explained to him what was being done at the time, and I explained the changes that were underway with the controllers, and I explained that was why TFH would register with the NPC, which we did, and that is why TFH is the listed controller.
+> DK : No. So, it is accurate as to the system. The difference is that there is a controller who was removed from the system, right? And so that is what this reflects. And we are happy to provide an updated one to reflect that removal that happened in December, that was also flagged for, I believe, when we met with Commissioner Naga before Christmas. I explained to him what was being done at the time, and I explained the changes that were underway with the controllers, and I explained that was why TFH would register with the NPC, which we did, and that is why TFH is the listed controller.
 
 > DPC JSB : So, do TFH Corp. and TFH GMBH still exist?
 
@@ -799,9 +795,7 @@ Aside from the data subjects’ photos and iris scans, data subjects should also
 
 TFH’s Privacy Notice[^239], World’s Privacy Notice[^240], and Biometric Consent Form[^241] provide for the right to demand deletion:
 
-> Right to demand that we delete the personal data concerning you. There prerequisites provide in particular for a right to
-
-> erasure if the personal data are no longer necessary for the purposes for which they were collected or otherwise processed, provided the requirements for deletion under the applicable laws are given (e.g. several jurisdiction’s laws oblige us to retain transaction information for a certain period of time. (Emphasis supplied)
+> Right to demand that we delete the personal data concerning you. There prerequisites provide in particular for a right to erasure if the personal data are no longer necessary for the purposes for which they were collected or otherwise processed, provided the requirements for deletion under the applicable laws are given (e.g. several jurisdiction’s laws oblige us to retain transaction information for a certain period of time. (Emphasis supplied)
 
 Based on the above, the right to deletion or erasure afforded to the data subjects is dependent on whether the personal data is no longer necessary for the purposes for which they were collected. This is incorrect. The basis of TFH in processing its data subjects’ personal data is consent. Therefore, the right to erasure should be absolute – once consent is withdrawn, there remains no legal basis for the PIC to process the data. If TFH has any other legal basis to retain the data, such basis should have been declared to the data subjects. Thus, TFH has clearly violated data subjects’ rights to withdraw consent and their right to erasure.
 
@@ -987,7 +981,7 @@ Copy furnished:
 [^50]: Minute Resolution dated 04 August 2025, CID CDO No. 25-001.
 [^51]: CID Comment, 18 August 2025.
 [^52]: Id.
-[^53]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section
+[^53]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 7 (c), Chapter II (2012).
 [^54]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 (f)(3)]], Rule III (2012).
 [^55]: [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02, Rules on the issuance of Cease and Desist Orders]], dated 06 October 2020.
 [^56]: Minute Resolution issued by the Commission dated 08 May 2025.
@@ -1013,14 +1007,14 @@ Copy furnished:
 [^76]: TFH Letter Response dated 19 May 2025, at p. 2, in CID CDO 25-001 (NPC 2025).
 [^77]: Id. at p. 3.
 [^78]: Id.
-[^79]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section
+[^79]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 3 (b), Chapter I (2012).
 [^80]: See TFH Privacy Notice and World Privacy Notice, Exhibit E, Compliance to the Minute Resolution dated 23 May 2025.
 [^81]: Form ng pahintulot ng biometric data ng World Foundation, Exhibit F, Compliance of TFH the NPC Minute Resolution dated 23 May 2025.
 [^82]: [[issuances/2023/guidelines-on-consent|NPC Circular No. 2023-04, Guidelines on Consent]] dated 07 November 2023, Section 3.
 [^83]: Id. at Section 3 (D.4).
 [^84]: Id.
 [^85]: Id.
-[^86]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section
+[^86]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 3 (b), Chapter I (2012).
 [^87]: [[issuances/2023/guidelines-on-consent|NPC Circular 2023-04, Guidelines on Consent]] dated 07 November 2023, Section 8.
 [^88]: Id. at Section 3 (D)(3)(4).
 [^89]: Id.
@@ -1086,14 +1080,14 @@ Copy furnished:
 [^149]: Id.
 [^150]: TFH Privacy Notice, Exhibit E, Compliance to the Minute Resolution dated 23 May 2025.
 [^151]: Annex E-1 of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated 04 August 2025.
-[^152]:  An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section
+[^152]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 11 (a) Chapter III (2012).
 [^153]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 (a)]].
 [^154]: Id.
 [^155]: Id.
 [^156]: Id.
 [^157]: In Re: Wefund Lending Corporation (JuanHand) and its Responsible Officers, [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006]], dated     16    May     2022,    at    p.   34,   available  at    https://privacy.gov.ph/wp- content/uploads/2024/05/NPC-SS-21-006-2022.05.16-In-re-Wefund-Lending-Corporation- Decision-FinalP.pdf (last accessed 06 September 2025).
 [^158]: TFH Privacy Notice marked as Exhibit E, Compliance of TFH to the Minute Resolution dated 23 May 2025.
-[^159]: World Privacy Notice marked as Exhibit E, Compliance of TFH to the Minute Resolution dated
+[^159]: World Privacy Notice marked as Exhibit E, Compliance of TFH to the Minute Resolution dated 23 May 2025.
 [^160]: TFH Privacy Notice marked as Exhibit E, Item 5.2, Compliance of TFH to the Minute Resolution dated 23 May 2025.
 [^161]: World Privacy Notice marked as Exhibit E, p. 9/27, Compliance of TFH to the Minute Resolution dated 23 May 2025.
 [^162]: Form ng pahintulot ng biometric data ng World Foundation, Exhibit F, Compliance of TFH the NPC Minute Resolution dated 23 May 2025.
@@ -1123,10 +1117,10 @@ Copy furnished:
 [^186]: Id.
 [^187]: WorldCoin Private by Design, Annex M of TFH Letter Response dated 08 June 2025 to Minute Resolution dated 23 May 2025.
 [^188]: Id at p. 8.
-[^189]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section
-[^190]:  An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section
+[^189]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 21 (h), Chapter VI (2012).
+[^190]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 3 (h), Chapter I (2012).
 [^191]: Id at Section 3 (i).
-[^192]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section
+[^192]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173, Section 11 (c) (d) Chapter III (2012).
 [^193]: [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Rules and Regulations Implementing the Data Privacy Act of 2012]], Rule IV, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 (b) (c)]].
 [^194]: DPIA of TFH on the “Orb Processing” in the Context of the verification of a Proof of Personhood, Exhibit A, Compliance to the Minute Resolution dated 23 May 2025.
 [^195]: Id.
@@ -1143,7 +1137,7 @@ Copy furnished:
 [^206]: DPIA of TFH on the “Orb Processing” in the Context of the verification of a Proof of Personhood, Exhibit A, at Item G.1, Compliance to the Minute Resolution dated 23 May 2025.
 [^207]: Technical Report, Annex E-3, Compliance to the Minute Resolution dated 04 August 2025.
 [^208]: Id.
-[^209]: See Annex C-5(3), Annex D(6), Annex D-2(24), Annex E-3) of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated
+[^209]: See Annex C-5(3), Annex D(6), Annex D-2(24), Annex E-3) of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated 04 August 2025.
 [^210]: Clarificatory Hearing Transcript dated 23 May 2025, page 56.
 [^211]: TFH Privacy Notice marked as Exhibit E, Item 4, Compliance of TFH to the Minute Resolution dated 23 May 2025.
 [^212]: Annex A of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated 04 August 2025.
@@ -1159,11 +1153,11 @@ Copy furnished:
 [^222]: TFH Privacy Notice, Annex E in the Compliance to Minute Resolution dated 23 May 2025.
 [^223]: Form ng pahintulot ng biometric data ng World Foundation, Annex F in the Compliance to Minute Resolution dated 23 May 2025.
 [^224]: CID Comment (To the 19 May 2020, 8 June 2025, and 18 July 2025 Submissions and all the declarations made by Tools for Humanity during the clarificatory Hearing and Onsite Visit Conferences) dated 18 August 2025, Annex C Series.
-[^225]: See Annex C-1, par. 5; Annex C-2, par. 7; Annex C-3, par. 6; Annex C-4 par. 10; Annex C-5, par.
+[^225]: See Annex C-1, par. 5; Annex C-2, par. 7; Annex C-3, par. 6; Annex C-4 par. 10; Annex C-5, par. 7 and 9; Annex C-6, par. 8; Annex C-8, par. 9 of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated 04 August 2025.
 [^226]: See Annex C-4, par. 11 of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated 04 August 2025.
-[^227]: See Annex 1, par. 7; Annex C-2 par. 6; Annex C-3, par. 8; Annex C-4, par. 7 and 8; Annex C-5, par. 6; Annex C-6, par. 7; Annex C-7, par. 8; Annex C-8, par. 6 of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated
+[^227]: See Annex 1, par. 7; Annex C-2 par. 6; Annex C-3, par. 8; Annex C-4, par. 7 and 8; Annex C-5, par. 6; Annex C-6, par. 7; Annex C-7, par. 8; Annex C-8, par. 6 of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated 04 August 2025.
 [^228]: See Annex C-2, par. 10 and 11; Annex C-5, par. 10 and 11; Annex C-6, par.9; Annex C-7, par. 13; Annex C-8, par. 7 and 10 of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated 04 August 2025.
-[^229]: See Annex C-1, par. 7; Annex C-2, par. 8; Annex C-3, par. 9; Annex C-4, par. 9; Annex C-5, par. 4; Annex C-7, par. 6; Annex C-7, par. 9; Annex C-8, par. 7 of the Comment submitted by CID dated
+[^229]: See Annex C-1, par. 7; Annex C-2, par. 8; Annex C-3, par. 9; Annex C-4, par. 9; Annex C-5, par. 4; Annex C-7, par. 6; Annex C-7, par. 9; Annex C-8, par. 7 of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated 04 August 2025.
 [^230]: TFH Letter Response dated 08 June 2025 to Minute Resolution dated 23 May 2025, p. 4.
 [^231]: Joint Affidavit of Investigation by L, V, and P.; Affidavit of Investigation by R; and Affidavit of Investigation by H; Annex D of the Comment submitted by CID dated 18 August 2025 in compliance with the Minute Resolution issued by the Commission dated 04 August 2025.
 [^232]: TFH Privacy Notice, par. 14, Annex E in the Compliance to Minute Resolution dated 23 May 2025.
@@ -1171,7 +1165,7 @@ Copy furnished:
 [^234]: TFH Biometric Consent form, at p. 18.
 [^235]: Clarificatory Hearing dated 23 May 2025 Transcript, p. 67.
 [^236]: TFH Biometric Consent form, at p. 16.
-[^237]: 2025 Worldcoin Orb Security Audit, Exhibit M of the Compliance to the Minute Resolution dated
+[^237]: 2025 Worldcoin Orb Security Audit, Exhibit M of the Compliance to the Minute Resolution dated 23 May 2025.
 [^238]: Id.
 [^239]: TFH Privacy Notice, Exhibit E, Compliance to the Minute Resolution dated 23 May 2025.
 [^240]: Id.

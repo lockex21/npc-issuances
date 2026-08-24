@@ -1,9 +1,9 @@
 ---
-title: "NPC BN 18-036: In re: Smart Communications, Inc."
+title: "NPC BN 18-063: In re: Smart Communications, Inc."
 description: "Resolution closing NPC BN 18-063 after Smart Communications, Inc. demonstrated sufficient remediation and implementation of security measures to prevent recurrence of a data breach affecting one subscriber's personal data."
 aliases:
-  - "NPC BN 18-036"
-  - "npc bn 18-036"
+  - "NPC BN 18-063"
+  - "npc bn 18-063"
   - "In re: Smart Communications, Inc."
   - "in re: smart communications, inc."
 tags:

@@ -27,15 +27,15 @@ Write a concise summary and legal significance notes here.
 - Reference: Circular No. 2020-03
 - Type: Circular
 - Year: 2020
-- Issued: December 21, 2020
+- Issued: December 23, 2020
 - Pages: 9
 - Official source: https://privacy.gov.ph/wp-content/uploads/2021/01/Circular-Data-Sharing-Agreement-amending-16-02-21-Dec-2020-clean-copy-FINAL-LYA-and-JDN-signed-minor-edit.pdf
 - OCR used during extraction: no
 - Topic pages: [[topics/data-sharing|Data Sharing]]
 
 ### Automatic References Out
-- [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements]]
+- [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.)]]
 
 ### Automatic Backlinks
-- No backlinks detected yet.
+- [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements]]
 <!-- END GENERATED RECORD -->

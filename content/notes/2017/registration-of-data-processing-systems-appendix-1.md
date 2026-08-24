@@ -34,15 +34,15 @@ Write a concise summary and legal significance notes here.
 - Reference: Circular No. 2017-01
 - Type: Circular
 - Year: 2017
-- Issued: Unknown
+- Issued: July 31, 2017
 - Pages: 2
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/NPC17-01_Appendix-1.pdf
 - OCR used during extraction: no
 - Topic pages: [[topics/registration|Registration]]
 
 ### Automatic References Out
-- None detected automatically.
+- [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making]]
 
 ### Automatic Backlinks
-- [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems]]
+- No backlinks detected yet.
 <!-- END GENERATED RECORD -->

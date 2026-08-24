@@ -1,33 +1,88 @@
 ---
-title: "Advisory on Online Payment (NPC Fees Advisory, 15 March 2024)"
-description: "Announces migration of online payment services for NPC fees and charges from direct bank transfer to LANDBANK Link.Biz.Portal starting 25 March 2024."
+title: "Advisory"
+description: "Advisory on the migration of online payments for fees and charges imposed by the National Privacy Commission."
 aliases:
-  - "NPC Fees Advisory, 15 March 2024"
-  - "npc fees advisory 15 march 2024"
-  - "advisory on online payment"
-  - "online payment advisory"
+  - "Advisory on Online Payment"
+  - "Online Payment Advisory"
 tags:
   - issuance
   - topic/fees-and-payments
   - type/advisory
   - year/2024
 draft: false
-date: '2024-12-17'
+date: '2024-03-15'
 ---
 
 ## Issuance Text
 
-**SECTION 1.** ***Online payment transition.*** The NPC Landbank account `1516114963` may only be used through 25 March 2024; after that date, all fees and charges must be paid via LANDBANK’s Link.Biz.Portal, which the NPC recognizes as the official merchant for its transactions.[^1]
+<div align="center">
 
-**SECTION 2.** ***Complaints, investigation, and mediation payments.*** 1) Send a completed Service Request and Assessment Form (SRAF) with the notarized Complaint Form to `complaints@privacy.gov.ph` with email subject `CAF-SRAF-<name of complainant>`. 2) Wait for the SRAF that lists the assessed amount. 3) Pay online through the Link.Biz.Portal using “National Privacy Commission” as the merchant. 4) Email the payment proof to `complaints@privacy.gov.ph`, `asd.cashier@privacy.gov.ph`, and `fpmd@privacy.gov.ph`.
+**ADVISORY**
 
-**SECTION 3.** ***Advisory opinion and legal research payments.*** 1) Submit a filled-out Service Request Assessment Form to `policy@privacy.gov.ph` with email subject `Request for Advisory Opinion`. 2) Pay via the Link.Biz.Portal with “National Privacy Commission” as the merchant. 3) Send the payment confirmation to `policy@privacy.gov.ph`, `asd.cashier@privacy.gov.ph`, and `fpmd@privacy.gov.ph`.
+</div>
 
-**SECTION 4.** ***Enforcement payments.*** 1) Email a completed Service Request Assessment Form to `enforcement@privacy.gov.ph`. 2) Pay through the Link.Biz.Portal using “National Privacy Commission” as the merchant. 3) Forward the proof of payment to `enforcement@privacy.gov.ph`, `asd.cashier@privacy.gov.ph`, and `fpmd@privacy.gov.ph`.
+In view of the forthcoming migration of the online payments for fees and charges imposed by the National Privacy Commission, the NPC Landbank Account: 1516114963 can only be used until <u>**25 March 2024.**</u>
 
-**SECTION 5.** ***Inquiries and approvals.*** Direct general questions to `info@privacy.gov.ph`. The circular was signed by ATTY. MARIA THERESITA E. PATULA, Chairperson of the NPC Fees Committee, on 15 March 2024.
+Starting from **25 March 2024**, you can conveniently make online payments for the fees and charges using LANDBANK Link.Biz.Portal:
 
-[^1]: LANDBANK Link.Biz.Portal, available at https://www.lbp-eservices.com/egps/portal/index.jsp (last accessed March 25, 2024).
+<div align="center">
+
+[https://www.lbp-eservices.com/egps/portal/index.jsp](https://www.lbp-eservices.com/egps/portal/index.jsp)
+
+</div>
+
+For the following Services, please send your request to:
+
+1. Complaints and Investigation and Mediation
+
+   <div style="margin-left: 2rem;">
+
+   <p>a. Filled out Service Request and Assessment Form (SRAF) with attached notarized Complaint Form shall be sent to <a href="mailto:complaints@privacy.gov.ph">complaints@privacy.gov.ph</a> with email subject, “CAF-SRAF-&lt;name of complainant&gt;&quot;.</p>
+
+   b. Wait for the SRAF indicating the assessed amount to be paid to be sent via email.
+
+   c. Pay through the Link.Biz.Portal by indicating National Privacy Commission as the merchant name.
+
+   d. Upon completion of payment, the proof thereof shall be sent to [complaints@privacy.gov.ph](mailto:complaints@privacy.gov.ph), [asd.cashier@privacy.gov.ph](mailto:asd.cashier@privacy.gov.ph) and [fpmd@privacy.gov.ph](mailto:fpmd@privacy.gov.ph)
+
+   </div>
+
+2. Advisory Opinion and Legal Research
+
+   <div style="margin-left: 2rem;">
+
+   a. Filled out Service Request Assessment Form shall be sent to <span>policy</span><span>@privacy.gov.ph</span>, with email subject: “Request for Advisory Opinion”.
+
+   b. Pay through the Link.Biz.Portal by indicating National Privacy Commission as the merchant name.
+
+   c. Upon completion of payment, the proof thereof shall be sent to <span>policy</span><span>@privacy.gov.ph</span>, <span>asd.cashier</span><span>@privacy.gov.ph</span> and [fpmd@privacy.gov.ph](mailto:fpmd@privacy.gov.ph)
+
+   </div>
+
+3. Enforcement
+
+   <div style="margin-left: 2rem;">
+
+   a. Filled out Service Request Assessment Form shall be sent to [enforcement@privacy.gov.ph](mailto:enforcement@privacy.gov.ph)
+
+   b. Pay through the Link.Biz.Portal by indicating National Privacy Commission as the merchant name.
+
+   c. Upon completion of payment, the proof thereof shall be sent to [enforcement@privacy.gov.ph](mailto:enforcement@privacy.gov.ph), [asd.cashier@privacy.gov.ph](mailto:asd.cashier@privacy.gov.ph) and [fpmd@privacy.gov.ph](mailto:fpmd@privacy.gov.ph).
+
+   </div>
+
+For any questions, please send them to [info@privacy.gov.ph](mailto:info@privacy.gov.ph)
+
+<div align="center">
+
+Approved by:
+
+**ATTY. MARIA THERESITA E. PATULA**<br>
+*Chairperson, NPC Fees Committee*
+
+15 March 2024
+
+</div>
 
 ## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/03/Fees_Advisory_Final_15-March-2024.pdf

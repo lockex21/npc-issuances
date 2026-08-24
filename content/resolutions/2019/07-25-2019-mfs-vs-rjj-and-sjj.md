@@ -1,9 +1,9 @@
 ---
-title: "NPC 17-003: MFS v. RJJ and SJJ"
+title: "NPC Case No. 17-003: MFS v. RJJ and SJJ"
 description: "Resolution denying MFS's motion for reconsideration in NPC 17-003, upholding the Commission's finding that RJJ and SJJ did not violate the Data Privacy Act by processing personal information without authorization."
 aliases:
-  - "NPC 17-003"
-  - "npc 17-003"
+  - "NPC Case No. 17-003"
+  - "npc case no. 17-003"
   - "MFS v. RJJ and SJJ"
   - "mfs v. rjj and sjj"
 tags:
@@ -20,7 +20,7 @@ draft: false
 
 
 ## Source
-- Reference: NPC 17-003
+- Reference: NPC Case No. 17-003
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-17-003-MFS-v-JRR-JSS-Resolution-Pseudonymized-7Aug2020-ABJ1.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: July 25, 2019

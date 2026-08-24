@@ -20,7 +20,11 @@ draft: false
 
 ## Issuance Text
 
-**Circular No. 2020-03**
+**NPC Circular No. 2020-03**
+
+**DATE:** 23 December 2020
+
+**SUBJECT:** DATA SHARING AGREEMENTS
 
 WHEREAS, Article II, Section 24, of the 1987 Constitution provides that the State recognizes the vital role of communication and information in nation-building. At the same time, Article II, Section 11 thereof emphasizes that the State values the dignity of every human person and guarantees full respect for human rights;
 

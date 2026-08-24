@@ -2,7 +2,7 @@
 aliases:
 - CID 17-K-004
 - cid 17-k-004
-date: '2024-01-01'
+date: "2020-12-17"
 description: Resolution of case
 draft: false
 reference: CID 17-K-004
@@ -14,20 +14,16 @@ tags:
 title: 'CID 17-K-004: CBI vs. XXX'
 ---
 
-
-
-
-
 ## Source
 - Reference: CID 17-K-004
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/CID-No.-17-K-004-CBI-vs.-XXX-Resolution-2020.12.17.pdf
-- Sourcepage: http://privacy.gov.ph/resolutions/
-- Issuedate: December 17, 2020
-- Publishedon NPCsite: Fri, 19 May 2023 17:31:46 GMT
+- Source page: http://privacy.gov.ph/resolutions/
+- Issue date: December 17, 2020
+- Published on NPC site: Fri, 19 May 2023 17:31:46 GMT
 - Pages: 3
 
 ## Source Tags
-- Substantialcompliance, Burdenofproofandburdenofevidence, Compliancetothe [[laws/data-privacy-act-of-2012|Data Privacy Act]], Reasonablesecuritymeasures
+- Substantial compliance, Burden of proof and burden of evidence, Compliance to the [[laws/data-privacy-act-of-2012|Data Privacy Act]], Reasonable security measures
 
 ## Resolution Text
 CBI ,

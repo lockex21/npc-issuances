@@ -1,9 +1,9 @@
 ---
-title: "NPC BN 21-214: In re: Teletech Customer Care Management Philippines, Inc."
+title: "NPC 21-214: In re: Teletech Customer Care Management Philippines, Inc."
 description: "Resolution finding Teletech Customer Care Management Philippines, Inc. compliant with a March 2022 order requiring notification of affected employees and submission of a full breach report following a 2021 data breach."
 aliases:
-  - "NPC BN 21-214"
-  - "npc bn 21-214"
+  - "NPC 21-214"
+  - "npc 21-214"
   - "In re: Teletech Customer Care Management Philippines, Inc."
   - "in re: teletech customer care management philippines, inc."
 tags:
@@ -21,7 +21,7 @@ draft: false
 
 
 ## Source
-- Reference: NPC BN 21-214
+- Reference: NPC 21-214
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-21-214-01.26.2023_In-re-Teletech-Customer-Care-Management-Philippines-Inc_Resolution.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: January 26, 2023

@@ -1,9 +1,9 @@
 ---
-title: "CID BN 17-005: In re: Breach Notification Report of Rosewood Hotel Group"
+title: "CID BN No. 17-005: In re: Breach Notification Report of Rosewood Hotel Group"
 description: "Order closing CID BN 17-005 after Rosewood Hotel Group's comprehensive post-breach compliance report was found to satisfy the requirements of the Data Privacy Act and NPC Circular 16-03 on Personal Data Breach Management, including timely notification to affected data subjects and implementation of a revised Data Security Incident Response Plan."
 aliases:
-  - "CID BN 17-005"
-  - "cid bn 17-005"
+  - "CID BN No. 17-005"
+  - "cid bn no. 17-005"
   - "In re: Breach Notification Report of Rosewood Hotel Group"
   - "in re: breach notification report of rosewood hotel group"
 tags:
@@ -18,7 +18,7 @@ draft: false
 ---
 
 ## Source
-- Reference: CID BN 17-005
+- Reference: CID BN No. 17-005
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-17-005-2020.07.02-In-Re-BN-Report-of-Rosewood-Hotel-Group-Order.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: July 2, 2020

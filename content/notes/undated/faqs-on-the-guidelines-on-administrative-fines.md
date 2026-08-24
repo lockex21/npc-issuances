@@ -34,6 +34,7 @@ Write a concise summary and legal significance notes here.
 - Topic pages: None yet
 
 ### Automatic References Out
+- [[issuances/2022/guidelines-on-administrative-fines|GUIDELINES ON ADMINISTRATIVE FINES]]
 - [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|Rules on the Issuance of Cease and Desist Orders]]
 
 ### Automatic Backlinks

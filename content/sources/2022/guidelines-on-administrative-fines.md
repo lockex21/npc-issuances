@@ -243,7 +243,7 @@ fine under this Circular, the PIC or PIP may be subject to a Cease and Desist Or
 other processes or reliefs as the Commission may be authorized to initiate pursuant to Section  
 7 of the DPA, and appropriate contempt proceedings under the Rules of Court.
 
-       Notwithstanding the provisions of [[issuances/1988/faqs|NPC Circular No. 20-02]] or the Rules on the  
+       Notwithstanding the provisions of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]] or the Rules on the<br>
 Issuance of Cease and Desist Orders, the failure to comply with the Order, Resolution, or  
 Decision of the Commission may, after notice and hearing, result in the issuance of a CDO.
 

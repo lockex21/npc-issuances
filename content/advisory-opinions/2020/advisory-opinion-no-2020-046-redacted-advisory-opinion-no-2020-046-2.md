@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/consent"
+  - "topic/legitimate-interest"
 draft: false
 ---
 

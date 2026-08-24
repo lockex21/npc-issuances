@@ -21,7 +21,7 @@ draft: false
 - Reference: NPC 21-173
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2025/03/NPC-21-173-2024.08.08-SLC-v.-Concentrix-Phils-Decision.pdf
 - Source page: http://privacy.gov.ph/decisions-2/
-- Issue date: August 8, 2024
+- Issue date: August 12, 2024
 - Published on NPC site: Wed, 19 Mar 2025 00:29:07 GMT
 - Pages: 19
 

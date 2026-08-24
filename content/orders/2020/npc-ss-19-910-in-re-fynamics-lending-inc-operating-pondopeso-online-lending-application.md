@@ -1,9 +1,9 @@
 ---
-title: "NPC SS 19-910: In re: Fynamics Lending, Inc. Operating PondoPeso"
+title: "NPC No. 19-910: In re: Fynamics Lending, Inc. Operating PondoPeso"
 description: "Order directing Fynamics Lending, Inc. and individual respondents to submit within ten days the supporting documents for allegations made in their Answer regarding the role of company directors in overseeing third-party collection agents."
 aliases:
-  - "NPC SS 19-910"
-  - "npc ss 19-910"
+  - "NPC No. 19-910"
+  - "npc no. 19-910"
   - "In re: Fynamics Lending, Inc."
   - "in re: fynamics lending, inc."
 tags:
@@ -16,7 +16,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC SS 19-910
+- Reference: NPC No. 19-910
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-19-910-2020.01.08-In-re-Fynamics-Lending-Inc.-Operating-PondoPeso-Online-Lending-Application-Order.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: January 8, 2020

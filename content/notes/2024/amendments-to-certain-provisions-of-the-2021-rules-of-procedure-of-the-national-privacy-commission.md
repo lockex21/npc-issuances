@@ -27,7 +27,7 @@ Write a concise summary and legal significance notes here.
 - Reference: Circular No. 2024-01
 - Type: Circular
 - Year: 2024
-- Issued: Unknown
+- Issued: January 26, 2024
 - Pages: 24
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-2024-01-Amendments-to-the-2021-Rules-of-Procedure-of-the-NPC-FOR-PUBLICATION.pdf
 - OCR used during extraction: no
@@ -37,5 +37,5 @@ Write a concise summary and legal significance notes here.
 - None detected automatically.
 
 ### Automatic Backlinks
-- [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure of the NPC, as Amended]]
+- [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure of the NPC, as Amended (Current Version)]]
 <!-- END GENERATED RECORD -->

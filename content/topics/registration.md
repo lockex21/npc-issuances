@@ -11,15 +11,14 @@ Auto-generated topic cluster for **Registration**, covering the full corpus of l
 
 ## Issuances
 - [[issuances/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|Registration of Personal Data Processing System, Notification Regarding Automated Decision-making or Profiling, Designation of Data Protection Officer, and the National Privacy Commission Seal of Registration (Circular No. 2022-04)]]
-- [[issuances/2022/annex-1|Annex 1 (Circular No. 2022-04)]]
+- [[issuances/2022/annex-1|Annex 1]]
 - [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures (Circular No. 2021-02)]]
 - [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making (Circular No. 17-01)]]
-- [[issuances/undated/registration-of-data-processing-systems-appendix-1|Registration of Data Processing Systems Appendix 1]]
 - [[issuances/2017/registration-of-data-processing-systems-appendix-1|Registration of Data Processing Systems Appendix 1 (Circular No. 2017-01)]]
 - [[issuances/2017/designation-of-data-protection-officers|Designation of Data Protection Officers (Advisory No. 2017-01)]]
 - [[issuances/undated/personal-data-breach-management|Personal Data Breach Management (Circular No. 16-03)]]
-- [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies (Circular No. 16-02)]]
 - [[issuances/undated/security-of-personal-data-in-government-agencies|Security of Personal Data in Government Agencies (Circular No. 16-01)]]
+- [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies (Circular No. 16-02)]]
 
 ## Advisory Opinions
 - [[advisory-opinions/2026/advisory-opinion-no-2026-004-npc-advisory-opinion-2026-004|NPC Advisory Opinion No. 2026-004 — Scope of Accountability and Registration in Security Incident and Personal Data Breach Reporting]]
@@ -44,6 +43,7 @@ Auto-generated topic cluster for **Registration**, covering the full corpus of l
 - [[advisory-opinions/2017/advisory-opinion-no-2017-018-npc-advisoryopinionno-2017-018|NPC Advisory Opinion No. 2017-018 — Queries Regarding the Implementing Rules and Regulations of the Data Privacy Act]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-017-npc-advisoryopinionno-2017-017|NPC Advisory Opinion No. 2017-017 — Clarifications on the Data Privacy Act of 2012 and its Implementing Rules and Regulations]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-013-npc-advisoryopinionno-2017-013|NPC Advisory Opinion No. 2017-013 — Data Sharing; Definition of Commercial Purposes; Data Protection Officer]]
+- [[advisory-opinions/2017/index 2|Advisory Opinions 2017]]
 
 ## Resolutions
 - [[resolutions/2018/npc-18-151-in-re-western-union-services-philippines-inc|NPC 18-151: In re: Western Union Services (Philippines), Inc.]]

@@ -3,7 +3,7 @@ title: "Security of Personal Data in Government Agencies Notes"
 description: "Companion summary and references for Security of Personal Data in Government Agencies."
 tags:
   - "companion-note"
-  - "year/undated"
+  - "year/2016"
 draft: false
 ---
 
@@ -26,8 +26,8 @@ Write a concise summary and legal significance notes here.
 - Raw source note: [[sources/undated/security-of-personal-data-in-government-agencies|Raw source text]]
 - Reference: Circular No. 16-01
 - Type: Circular
-- Year: undated
-- Issued: Unknown
+- Year: 2016
+- Issued: October 10, 2016
 - Pages: 8
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-01-Security-of-Personal-Data-in-Government-Agencies.pdf
 - OCR used during extraction: no
@@ -38,4 +38,5 @@ Write a concise summary and legal significance notes here.
 
 ### Automatic Backlinks
 - [[issuances/2022/guidelines-on-requests-for-personal-data-of-public-officers|Guidelines On Requests For Personal Data Of Public Officers]]
+- [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
 <!-- END GENERATED RECORD -->

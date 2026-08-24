@@ -1,5 +1,5 @@
 ---
-title: "NPC BN 18-069: In re: Professional Regulations Commission (PRC)"
+title: "NPC BN 18-069: In re: Professional Regulation Commission (PRC)"
 description: "Resolution closing breach notification NPC BN 18-069 after finding no unauthorized personal data disclosure occurred in the social media post that triggered the investigation."
 tags:
   - resolution
@@ -11,8 +11,8 @@ draft: false
 aliases:
   - "NPC BN 18-069"
   - "npc bn 18-069"
-  - "In re: Professional Regulations Commission (PRC)"
-  - "in re: professional regulations commission (prc)"
+  - "In re: Professional Regulation Commission (PRC)"
+  - "in re: professional regulation commission (prc)"
 date: "2020-07-23"
 ---
 

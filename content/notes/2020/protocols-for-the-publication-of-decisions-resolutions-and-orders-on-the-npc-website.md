@@ -27,7 +27,7 @@ Write a concise summary and legal significance notes here.
 - Reference: Advisory No. 2020-01
 - Type: Advisory
 - Year: 2020
-- Issued: Unknown
+- Issued: June 18, 2020
 - Pages: 3
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-2020-01-FINAL.pdf
 - OCR used during extraction: no
@@ -37,5 +37,5 @@ Write a concise summary and legal significance notes here.
 - None detected automatically.
 
 ### Automatic Backlinks
-- No backlinks detected yet.
+- [[issuances/2020/amending-certain-provisions-of-npc-advisory-no-2020-01-protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Amending Certain Provisions of NPC Advisory No. 2020-01: Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website]]
 <!-- END GENERATED RECORD -->

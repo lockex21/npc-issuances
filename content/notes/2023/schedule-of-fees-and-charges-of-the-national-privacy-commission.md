@@ -27,7 +27,7 @@ Write a concise summary and legal significance notes here.
 - Reference: Circular No. 2023-01
 - Type: Circular
 - Year: 2023
-- Issued: Unknown
+- Issued: May 17, 2023
 - Pages: 6
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/Schedule-of-Fees-and-Charges-of-the-National-Privacy-Commission.pdf
 - OCR used during extraction: no

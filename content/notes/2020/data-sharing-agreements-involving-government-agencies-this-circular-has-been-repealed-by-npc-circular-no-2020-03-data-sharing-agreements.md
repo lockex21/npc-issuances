@@ -3,7 +3,7 @@ title: "Data Sharing Agreements Involving Government Agencies (This Circular has
 description: "Companion summary and references for Data Sharing Agreements Involving Government Agencies (This Circular has been repealed by NPC Circular No. 2020-03 - Data Sharing Agreements.)."
 tags:
   - "companion-note"
-  - "year/2020"
+  - "year/2016"
 draft: false
 ---
 
@@ -26,8 +26,8 @@ Write a concise summary and legal significance notes here.
 - Raw source note: [[sources/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Raw source text]]
 - Reference: Circular No. 16-02
 - Type: Circular
-- Year: 2020
-- Issued: Unknown
+- Year: 2016
+- Issued: October 10, 2016
 - Pages: 8
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/Sgd-NPC-Circular-16-02-Data-Sharing-Agreements-Involving-Government-Agencies.pdf
 - OCR used during extraction: no
@@ -37,5 +37,5 @@ Write a concise summary and legal significance notes here.
 - None detected automatically.
 
 ### Automatic Backlinks
-- No backlinks detected yet.
+- [[issuances/2020/data-sharing-agreements|Data Sharing Agreements]]
 <!-- END GENERATED RECORD -->

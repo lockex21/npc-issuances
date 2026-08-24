@@ -18,7 +18,11 @@ date: '2024-08-09'
 
 ## Issuance Text
 
-**Circular No. 2024-02**
+**NPC Circular No. 2024-02**
+
+**DATE:** 9 August 2024
+
+**SUBJECT:** CLOSED-CIRCUIT TELEVISION (CCTV) SYSTEMS
 
 WHEREAS, the National Privacy Commission (NPC) previously issued [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|NPC Advisory No. 2020-04]], or the Guidelines on the Use of Closed-Circuit Television (CCTV) Systems, which provides guidance to all personal information controllers (PICs) and personal information processors (PIPs) on the use of CCTV systems operating in public and semi-public areas. CCTV systems process personal and sensitive personal information (collectively, personal data), and there is a need to provide an updated policy framework because the technology is continuously evolving and its use has become accepted and even mandated in certain instances. These guidelines are therefore necessary to address emerging privacy risks and enable PICs and PIPs to properly manage data processing through CCTV systems. PICs and PIPs must ensure that the use of CCTV systems adheres to the general principles of privacy and upholds data subjects’ rights and freedoms, and with these premises considered the NPC hereby issues this Circular on CCTV systems.
 

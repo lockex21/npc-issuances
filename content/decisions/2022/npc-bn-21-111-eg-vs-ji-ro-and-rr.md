@@ -1,9 +1,9 @@
 ---
-title: "NPC BN 21-111: EG v. JI, RO, and RR"
+title: "NPC 21-111: EG v. JI, RO, and RR"
 description: "Ban order complaint alleging unauthorized disclosure of CCTV footage containing personal information; dismissed for lack of substantial evidence of privacy violation."
 aliases:
-  - "NPC BN 21-111"
-  - "npc bn 21-111"
+  - "NPC 21-111"
+  - "npc 21-111"
   - "EG v. JI, RO, and RR"
   - "eg v. ji, ro, and rr"
 tags:
@@ -22,7 +22,7 @@ draft: false
 
 ## Source
 
-- Reference: NPC BN 21-111
+- Reference: NPC 21-111
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/08/NPC-21-111-09.22.2022_EG-vs-JI-RO-and-RR_-et-al_Decision.pdf
 - Source page: http://privacy.gov.ph/decisions-2/
 - Issue date: September 22, 2022

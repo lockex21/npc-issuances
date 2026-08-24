@@ -24,7 +24,7 @@ draft: false
 - Reference: NPC 19-528
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution_NPC-19-528-MNLC-v.-PXXX-Corporation.pdf
 - Source page: http://privacy.gov.ph/resolutions/
-- Issue date: September 11, 2019
+- Issue date: November 18, 2019
 - Published on NPC site: Fri, 19 May 2023 17:33:07 GMT
 - Pages: 8
 

@@ -24,10 +24,10 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Use of Telemedicine in COVID-19 Response]]
 - Raw source note: [[sources/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Raw source text]]
-- Reference: Memorandum Circular No. 2020-
-- Type: Memorandum Circular
+- Reference: Joint Memorandum Circular No. 2020-0001
+- Type: Joint Memorandum Circular
 - Year: 2020
-- Issued: Unknown
+- Issued: March 28, 2020
 - Pages: 6
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/DOH-mc2020-0016.pdf
 - OCR used during extraction: no

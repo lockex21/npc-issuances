@@ -22,7 +22,7 @@ draft: false
 - Reference: NPC 18-018, 18-019, 18-020, and 18-027
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-18-018-18-019-18-020-and-18-027_02-22-2023_JVT-vs-VMA-LAR-vs-VMA-CCW-vs-VMA-MLS-vs-VMA_Decision.pdf
 - Source page: http://privacy.gov.ph/decisions-2/
-- Issue date: April 18, 2018
+- Issue date: February 22, 2023
 - Published on NPC site: Sun, 01 Dec 2024 14:39:31 GMT
 - Pages: 16
 

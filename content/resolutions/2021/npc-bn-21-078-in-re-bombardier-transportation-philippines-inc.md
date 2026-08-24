@@ -1,11 +1,11 @@
 ---
-title: "NPC BN 21-078: In re: Bombardier Transportation Philippines, Inc."
+title: "NPC BN 21-078: In re: Bombardier Transportation (Shared Services) Philippines, Inc."
 description: "Breach notification resolution denying Bombardier's request for Commission assistance and ordering notification of affected employees and submission of full breach report within 15 days."
 aliases:
   - "NPC BN 21-078"
   - "npc bn 21-078"
-  - "In re: Bombardier Transportation Philippines, Inc."
-  - "in re: bombardier transportation philippines, inc."
+  - "In re: Bombardier Transportation (Shared Services) Philippines, Inc."
+  - "in re: bombardier transportation (shared services) philippines, inc."
 tags:
   - resolution
   - type/resolution

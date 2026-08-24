@@ -50,31 +50,50 @@ INDEX_MANUAL_START = "<!-- BEGIN MANUAL INDEX NOTES -->"
 INDEX_MANUAL_END = "<!-- END MANUAL INDEX NOTES -->"
 ANNOTATED_SEED_PREFIX = "<!-- SEEDED ANNOTATED HASH: "
 
+REFERENCE_KIND_PATTERN = (
+    r"Advisory Opinion|Commission Resolution|Joint Memorandum Circular|"
+    r"Memorandum Circular|Joint Circular|Joint Advisory|Advisory|Circular"
+)
+REFERENCE_NUMBER_PATTERN = (
+    r"(?:"
+    r"(?:19|20)\d{2}\s*[-–—/]\s*\d{1,4}(?:\s*[-–—]\s*[A-Za-z])?"
+    r"|\d{2}\s*[-–—/]\s*\d{1,4}(?:\s*[-–—]\s*[A-Za-z])?"
+    r"|\d{1,4}(?!\d|\s*[-–—/])"
+    r")"
+)
 REFERENCE_PATTERN = re.compile(
     r"\b(?:(?:National\s+Privacy\s+Commission|NPC)\s+)?"
-    r"(?P<kind>Advisory|Circular|Memorandum Circular|Joint Circular|Joint Advisory|Advisory Opinion|Commission Resolution)"
-    r"\s+No\.?\s*(?P<number>[A-Za-z0-9][A-Za-z0-9./-]*)",
+    rf"(?P<kind>{REFERENCE_KIND_PATTERN})"
+    rf"\s+No\.?\s*:?\s*(?P<number>{REFERENCE_NUMBER_PATTERN})",
     re.IGNORECASE,
 )
 NUMBERED_TITLE_PATTERN = re.compile(
-    r"\b(?P<label>Advisory|Circular|Memorandum Circular|Joint Circular|Joint Advisory|Advisory Opinion|Commission Resolution)"
-    r"(?:\s+No\.?\s*|\s+Number\s+)(?P<number>[A-Za-z0-9][A-Za-z0-9./-]*)",
+    rf"\b(?P<label>{REFERENCE_KIND_PATTERN})"
+    rf"(?:\s+No\.?\s*:?\s*|\s+Number\s+)(?P<number>{REFERENCE_NUMBER_PATTERN})",
     re.IGNORECASE,
 )
 FILENAME_REFERENCE_PATTERN = re.compile(
-    r"(?P<label>Advisory|Circular|Memorandum[-_ ]Circular|Joint[-_ ]Circular|Joint[-_ ]Advisory|Advisory[-_ ]Opinion|Commission[-_ ]Resolution)"
-    r"(?:[-_ ]*No\.?[-_ ]*|[-_ ]*)(?P<number>(?:19|20)\d{2}(?:[-_.]\d{1,2})?|\d{2}[-_.]\d{2})(?![._-]\d{2}\b)(?=$|[^A-Za-z0-9])",
+    r"(?P<label>Advisory[-_ ]Opinion|Commission[-_ ]Resolution|Joint[-_ ]Memorandum[-_ ]Circular|"
+    r"Memorandum[-_ ]Circular|Joint[-_ ]Circular|Joint[-_ ]Advisory|Advisory|Circular)"
+    r"(?:[-_ ]*No\.?[-_ ]*|[-_ ]*)(?P<number>(?:19|20)\d{2}(?:[-_.]\d{1,2}(?:[-_.][A-Za-z])?)?|\d{2}[-_.]\d{2}(?:[-_.][A-Za-z])?)(?![._-]\d{2}\b)(?=$|[^A-Za-z0-9])",
     re.IGNORECASE,
 )
 LOOSE_REFERENCE_PATTERN = re.compile(
     r"\b(?:(?:National\s+Privacy\s+Commission|NPC)\s+)?"
-    r"(?P<label>Advisory|Circular|Memorandum Circular|Joint Circular|Joint Advisory|Advisory Opinion|Commission Resolution)"
-    r"(?:\s+No\.?)?\s*(?P<number>(?:19|20)\d{2}\s*[-–—./]\s*\d{1,2}|\d{2}\s*[-–—./]\s*\d{2})\b",
+    rf"(?P<label>{REFERENCE_KIND_PATTERN})"
+    r"(?:\s+No\.?)?\s*:?\s*(?P<number>(?:19|20)\d{2}\s*[-–—./]\s*\d{1,4}(?:\s*[-–—]\s*[A-Za-z])?|\d{2}\s*[-–—./]\s*\d{2}(?:\s*[-–—]\s*[A-Za-z])?)\b",
     re.IGNORECASE,
 )
 DATE_PATTERN = re.compile(
     r"\b(?P<month>January|February|March|April|May|June|July|August|September|October|November|December)"
     r"\s+(?P<day>\d{1,2}),\s+(?P<year>20\d{2}|19\d{2})\b"
+)
+TEXT_DATE_PATTERN = re.compile(
+    r"(?im)^\s*DATE\s*:?[ \t]*(?P<date>"
+    r"(?:\d{1,2}\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+(?:19|20)\d{2})"
+    r"|(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+(?:19|20)\d{2})"
+    r")\b",
+    re.IGNORECASE,
 )
 WS_RE = re.compile(r"\s+")
 URL_PATTERN = re.compile(r"https?://[^\s<>)\]}]+")
@@ -203,7 +222,7 @@ def extract_reference(source: str, *, filename_mode: bool = False) -> str | None
         return None
     match = max(matches, key=lambda item: len(item.group("number")))
     label = normalize_space(match.group("label").replace("-", " ").replace("_", " "))
-    number = match.group("number").replace("_", "-").replace(".", "-")
+    number = normalize_reference_number(match.group("number").replace("_", "-").replace(".", "-"))
     return normalize_reference(label, number)
 
 
@@ -291,6 +310,7 @@ def content_reference_hint(content_path: str, expected_kind: str | None = None) 
         matching = [candidate for candidate in candidates if kind_matches_reference(expected_kind, candidate)]
         if matching:
             return max(matching, key=reference_specificity)
+        return None
     return candidates[0] if candidates else None
 
 
@@ -563,7 +583,12 @@ def extract_pdf_metadata(pdf_path: Path) -> dict[str, str]:
 
 
 def infer_canonical_reference(title: str, text: str, url: str) -> str | None:
-    return extract_reference(url_basename(url), filename_mode=True) or extract_reference(text[:1200])
+    candidates = [
+        extract_reference(url_basename(url), filename_mode=True),
+        extract_reference(text[:1200]),
+        extract_loose_reference(text[:1200]),
+    ]
+    return max((candidate for candidate in candidates if candidate), key=reference_specificity, default=None)
 
 
 def infer_kind(title: str, text: str, url: str, canonical_reference: str | None) -> str:
@@ -586,7 +611,7 @@ def infer_kind(title: str, text: str, url: str, canonical_reference: str | None)
     return "Issuance"
 
 
-def infer_issue_date(title: str, url: str) -> tuple[str | None, str | None]:
+def infer_issue_date(title: str, url: str, text: str = "") -> tuple[str | None, str | None]:
     month_names = [
         "January",
         "February",
@@ -639,6 +664,15 @@ def infer_issue_date(title: str, url: str) -> tuple[str | None, str | None]:
             month_name = month_abbr[month.lower()]
             dt = datetime.strptime(f"{month_name} {day} {year}", "%B %d %Y")
             return f"{month_name} {int(day)}, {year}", dt.strftime("%Y-%m-%d")
+    text_match = TEXT_DATE_PATTERN.search(text[:2400])
+    if text_match:
+        raw_date = normalize_space(text_match.group("date"))
+        for date_format in ("%d %B %Y", "%B %d, %Y", "%B %d %Y"):
+            try:
+                dt = datetime.strptime(raw_date.title(), date_format)
+            except ValueError:
+                continue
+            return f"{dt.strftime('%B')} {dt.day}, {dt.year}", dt.strftime("%Y-%m-%d")
     return None, None
 
 
@@ -656,7 +690,9 @@ def infer_year(title: str, text: str, canonical_reference: str | None, url: str,
     match = re.search(r"\b(19|20)\d{2}\b", title)
     if match:
         return match.group(0)
-    date_match = DATE_PATTERN.search(text[:4000]) or DATE_PATTERN.search(title)
+    # Do not infer an issuance year from arbitrary dates in the body. Those are
+    # commonly case citations (and once misfiled a 2020 FAQ under 1988).
+    date_match = DATE_PATTERN.search(title)
     if date_match:
         return date_match.group("year")
     return "undated"
@@ -712,7 +748,9 @@ def display_topic_name(topic: str) -> str:
 def detect_citations(text: str) -> list[str]:
     citations: set[str] = set()
     for match in REFERENCE_PATTERN.finditer(text):
-        citations.add(normalize_reference(match.group("kind"), match.group("number")))
+        citations.add(
+            normalize_reference(match.group("kind"), normalize_reference_number(match.group("number")))
+        )
     return sorted(citations)
 
 
@@ -761,6 +799,16 @@ def type_page_label(record: Issuance) -> str:
     return f"{reference_label}: {display_title_without_reference(record)}"
 
 
+def pluralize_kind(kind: str) -> str:
+    if kind.endswith("y"):
+        return f"{kind[:-1]}ies"
+    if kind == "FAQ":
+        return "FAQs"
+    if kind == "Annex":
+        return "Annexes"
+    return f"{kind}s"
+
+
 def note_link(path: str, label: str | None = None) -> str:
     target = markdown_link_path(path)
     return f"[[{target}{'|' + label if label else ''}]]"
@@ -785,7 +833,7 @@ def build_records(index_entries: list[dict[str, str]], refresh: bool) -> list[Is
         raw_text, cleaned_text, ocr_used = extract_text(pdf_path, raw_text_path, cleaned_text_path)
         meta = extract_pdf_metadata(pdf_path)
         canonical_reference = infer_canonical_reference(title, cleaned_text, url)
-        issue_date, issue_date_iso = infer_issue_date(title, url)
+        issue_date, issue_date_iso = infer_issue_date(title, url, cleaned_text)
         year = infer_year(title, cleaned_text, canonical_reference, url, issue_date_iso)
         base_slug = slugify(title)
         slug = base_slug
@@ -1301,6 +1349,73 @@ def build_content_tree(records: list[Issuance], *, write_record_pages: bool = Tr
             lines,
             default_manual=f"Add your own criteria for reading {kind.lower()} issuances here.",
         )
+
+    # These pages are fully generated. Clear only this narrow generated tree so
+    # obsolete kinds/years cannot retain stale links after metadata corrections.
+    relationship_type_root = CONTENT_DIR / "relationships" / "by-type"
+    if relationship_type_root.exists():
+        for generated_path in relationship_type_root.rglob("*.md"):
+            generated_path.unlink()
+        for generated_dir in sorted(
+            (path for path in relationship_type_root.rglob("*") if path.is_dir()),
+            key=lambda path: len(path.parts),
+            reverse=True,
+        ):
+            generated_dir.rmdir()
+
+    relationship_type_root.mkdir(parents=True, exist_ok=True)
+    relationship_type_lines = [
+        "---",
+        'title: "Reference Map by Type"',
+        'description: "Browse NPC issuances grouped by issuance type, then by year."',
+        "draft: false",
+        "---",
+        "",
+        "## Types",
+        *[
+            f"- [[relationships/by-type/{slugify(kind)}|{pluralize_kind(kind)}]] ({len(items)})"
+            for kind, items in sorted(type_groups.items())
+        ],
+    ]
+    write_markdown(relationship_type_root / "index.md", "\n".join(relationship_type_lines))
+
+    for kind, items in sorted(type_groups.items()):
+        kind_slug = slugify(kind)
+        kind_root = relationship_type_root / kind_slug
+        year_items: dict[str, list[Issuance]] = defaultdict(list)
+        for record in items:
+            year_items[record.year].append(record)
+        years = sorted(year_items, key=lambda year: (year.isdigit(), year), reverse=True)
+        plural_kind = pluralize_kind(kind)
+        kind_lines = [
+            "---",
+            f"title: {markdown_quote(plural_kind)}",
+            f"description: {markdown_quote(f'NPC issuances of type {kind}.')}",
+            "draft: false",
+            "---",
+            "",
+            "## Years",
+        ]
+        for index, year in enumerate(years, start=1):
+            year_slug = f"y{index:02d}-{slugify(year)}"
+            kind_lines.append(
+                f"- [[relationships/by-type/{kind_slug}/{year_slug}|{year}]] ({len(year_items[year])})"
+            )
+            year_lines = [
+                "---",
+                f"title: {markdown_quote(year)}",
+                f"description: {markdown_quote(f'{plural_kind} issued in {year}.')}",
+                "draft: false",
+                "---",
+                "",
+                f"## {plural_kind} in {year}",
+                *[
+                    f"- {wiki_link(record, type_page_label(record))}"
+                    for record in sorted(year_items[year], key=lambda item: item.title)
+                ],
+            ]
+            write_markdown(kind_root / f"{year_slug}.md", "\n".join(year_lines))
+        write_markdown(kind_root / "index.md", "\n".join(kind_lines))
 
     # Topic pages cover the full corpus (laws, issuances, advisory opinions,
     # decisions, resolutions, orders), so they are generated by

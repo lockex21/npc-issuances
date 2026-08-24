@@ -1,5 +1,5 @@
 ---
-title: "NPC 18-144: In re: Office Warehouse, Inc."
+title: "NPC BN 18-144: In re: Office Warehouse, Inc."
 description: "Resolution finding that inadvertent disclosure of customer email addresses did not constitute mandatory reportable breach under NPC Circular 16-03, but approving Office Warehouse's remedial measures."
 tags:
   - resolution
@@ -9,18 +9,18 @@ tags:
   - topic/breach-notification
 draft: false
 aliases:
-  - "NPC 18-144"
-  - "npc 18-144"
+  - "NPC BN 18-144"
+  - "npc bn 18-144"
   - "In re: Office Warehouse, Inc."
   - "in re: office warehouse, inc."
-date: "2018-08-02"
+date: "2024-03-21"
 ---
 
 ## Source
-- Reference: NPC 18-144
+- Reference: NPC BN 18-144
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-18-144-2024.03.21-In-re-Office-Warehouse-Inc.-Resolution.pdf
 - Source page: http://privacy.gov.ph/resolutions/
-- Issue date: August 2, 2018
+- Issue date: March 21, 2024
 - Published on NPC site: Thu, 26 Sep 2024 03:54:32 GMT
 - Pages: 12
 

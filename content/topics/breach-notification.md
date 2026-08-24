@@ -11,14 +11,17 @@ Auto-generated topic cluster for **Breach Notification**, covering the full corp
 
 ## Issuances
 - [[issuances/2026/clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system|Clarification on the Submission of Personal Data Breach Notification through Data Breach Notification Management System (Advisory No. 2026-02)]]
+- [[issuances/2024/guidelines-on-child-oriented-transparency|Guidelines on Child-Oriented Transparency (Advisory No. 2024-03)]]
+- [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure of the NPC, as Amended (Current Version)]]
 - [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission (Circular No. 2024-01)]]
 - [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures (Circular No. 2021-02)]]
-- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021)]]
+- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021-03)]]
 - [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission (Original 2021 Version)]]
-- [[issuances/1988/faqs|FAQs (Circular No. 20-02)]]
-- [[issuances/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response (Memorandum Circular No. 2020-0003)]]
+- [[issuances/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response (Joint Memorandum Circular No. 2020-0003)]]
+- [[issuances/2020/faqs|Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO)]]
+- [[issuances/undated/rules-of-procedure|Rules of Procedure of the National Privacy Commission (Circular No. 16-04)]]
 - [[issuances/undated/personal-data-breach-management|Personal Data Breach Management (Circular No. 16-03)]]
-- [[issuances/undated/rules-of-procedure|Rules of Procedure (Circular No. 16-04)]]
+- [[issuances/undated/faq-guidelines-on-child-oriented-transparency|Advisory on Guidelines on Child-Oriented Transparency]]
 
 ## Advisory Opinions
 - [[advisory-opinions/2026/advisory-opinion-no-2026-004-npc-advisory-opinion-2026-004|NPC Advisory Opinion No. 2026-004 — Scope of Accountability and Registration in Security Incident and Personal Data Breach Reporting]]
@@ -168,6 +171,7 @@ Auto-generated topic cluster for **Breach Notification**, covering the full corp
 - [[orders/2024/npc-bn-22-208-in-re-university-of-perpetual-help-dalta-medical-center-inc|NPC BN 22-208: In re: University of Perpetual Help Dalta Medical Center, Inc.]]
 - [[orders/2022/npc-bn-18-203-in-re-the-hongkong-and-shanghai-banking-corporation-limited-hsbc|NPC BN 18-203: In re: The Hongkong and Shanghai Banking Corporation Limited (HSBC)]]
 - [[orders/2023/npc-bn-23-239-in-re-philippine-statistics-authority|NPC BN 23-239: In re: Philippine Statistics Authority]]
+- [[orders/2023/npc-bn-23-179-in-re-philippine-national-police 2|NPC BN 23-179: In re: Philippine National Police]]
 - [[orders/2023/npc-bn-23-179-in-re-philippine-national-police|NPC BN 23-179: In re: Philippine National Police]]
 - [[orders/2022/npc-bn-18-239-in-re-fintechnology-inc-fundko|NPC BN 18-239: In re: Fintechnology, Inc. (FundKo)]]
 - [[orders/2023/npc-bn-18-014-in-re-baguio-general-hospital-and-medical-center|NPC BN 18-014: In re: Baguio General Hospital and Medical Center]]

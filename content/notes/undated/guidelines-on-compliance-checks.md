@@ -3,7 +3,7 @@ title: "Guidelines on Compliance Checks Notes"
 description: "Companion summary and references for Guidelines on Compliance Checks."
 tags:
   - "companion-note"
-  - "year/undated"
+  - "year/2018"
 draft: false
 ---
 
@@ -26,8 +26,8 @@ Write a concise summary and legal significance notes here.
 - Raw source note: [[sources/undated/guidelines-on-compliance-checks|Raw source text]]
 - Reference: Circular No. 18-02
 - Type: Circular
-- Year: undated
-- Issued: Unknown
+- Year: 2018
+- Issued: September 20, 2018
 - Pages: 8
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-02_ComplianceCheck.pdf
 - OCR used during extraction: no
@@ -37,5 +37,5 @@ Write a concise summary and legal significance notes here.
 - None detected automatically.
 
 ### Automatic Backlinks
-- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]
+- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission (Original 2021 Version)]]
 <!-- END GENERATED RECORD -->

@@ -24,19 +24,18 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions]]
 - Raw source note: [[sources/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Raw source text]]
-- Reference: Circular No. 2022
+- Reference: Circular No. 2022-02
 - Type: Circular
 - Year: 2022
-- Issued: Unknown
+- Issued: December 1, 2022
 - Pages: 6
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-02-Amending-20-01-Loan-Related-Transactions.pdf
 - OCR used during extraction: no
-- Topic pages: None yet
+- Topic pages: [[topics/online-lending|Online Lending]]
 
 ### Automatic References Out
-- [[issuances/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information]]
 - [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions]]
 
 ### Automatic Backlinks
-- No backlinks detected yet.
+- [[issuances/undated/public-advisory-on-online-lending-platforms-olps|Public Advisory on Online Lending Platforms (OLPs)]]
 <!-- END GENERATED RECORD -->

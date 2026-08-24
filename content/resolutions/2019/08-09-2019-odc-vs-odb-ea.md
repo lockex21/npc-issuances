@@ -1,9 +1,9 @@
 ---
-title: "NPC 17-001: ODC v. ODB & AE"
+title: "NPC Case No. 17-001: ODC v. ODB & AE"
 description: "Resolution denying ODB's motion for reconsideration in a data privacy case regarding transparency of credit card terms and conditions involving account setoff provisions."
 aliases:
-  - "NPC 17-001"
-  - "npc 17-001"
+  - "NPC Case No. 17-001"
+  - "npc case no. 17-001"
   - "ODC v. ODB & AE"
   - "odc v. odb & ae"
 tags:
@@ -23,7 +23,7 @@ draft: false
 
 
 ## Source
-- Reference: NPC 17-
+- Reference: NPC Case No. 17-001
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-17-001-ODC-v-ODB-Resolution-PSD-10Sept2020-ABJ3.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: August 9, 

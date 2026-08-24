@@ -5,7 +5,7 @@ aliases:
   - "Guidelines on Compliance Checks Raw Source Text"
 tags:
   - "source-text"
-  - "year/undated"
+  - "year/2018"
 draft: false
 ---
 

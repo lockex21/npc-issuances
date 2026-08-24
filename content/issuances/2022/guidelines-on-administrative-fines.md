@@ -18,7 +18,11 @@ title: "Guidelines on Administrative Fines (Circular No. 2022-01)"
 
 ## Issuance Text
 
-**Circular No. 2022-01**
+**NPC Circular No. 2022-01**
+
+**DATE:** 08 August 2022
+
+**SUBJECT:** GUIDELINES ON ADMINISTRATIVE FINES
 
 **SECTION 0.** ***Preamble.*** The Commission notes the policy of the State to protect the fundamental human right of privacy of communication while ensuring the free flow of information to promote innovation and growth, and affirms that it was created under Republic Act No. (R.A.) 10173, otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), to discharge the duty of the State to protect personal information in both government and private-sector information and communications systems.
 

@@ -24,10 +24,10 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response]]
 - Raw source note: [[sources/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Raw source text]]
-- Reference: Memorandum Circular No. 2020-0002
-- Type: Memorandum Circular
+- Reference: Joint Memorandum Circular No. 2020-0002
+- Type: Joint Memorandum Circular
 - Year: 2020
-- Issued: Unknown
+- Issued: April 24, 2020
 - Pages: 8
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/jmc2020-0002v1.pdf
 - OCR used during extraction: no
@@ -37,5 +37,6 @@ Write a concise summary and legal significance notes here.
 - None detected automatically.
 
 ### Automatic Backlinks
-- No backlinks detected yet.
+- [[issuances/2020/guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response]]
+- [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Guidelines On The Processing Of Personal Data During Public Health Emergencies For Public Health Measures]]
 <!-- END GENERATED RECORD -->

@@ -5,7 +5,7 @@ aliases:
   - "Rules on the Issuance of Cease and Desist Orders Raw Source Text"
 tags:
   - "source-text"
-  - "year/undated"
+  - "year/2020"
 draft: false
 ---
 
@@ -21,7 +21,7 @@ draft: false
                                   Republic of the Philippines  
                          NATIONAL PRIVACY COMMISSION
 
-[[issuances/1988/faqs|NPC Circular No. 20-02]]
+[[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]]
 
                             RULES ON THE ISSUANCE OF  
                             CEASE AND DESIST ORDERS

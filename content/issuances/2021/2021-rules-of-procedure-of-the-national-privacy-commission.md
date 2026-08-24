@@ -27,7 +27,11 @@ This page preserves the original 2021 text of NPC Circular No. 2021-01. For the 
 
 ## Issuance Text
 
-**Circular No. 2021-01**
+**NPC Circular No. 2021-01**
+
+**DATE:** 28 January 2021
+
+**SUBJECT:** 2021 RULES OF PROCEDURE OF THE NATIONAL PRIVACY COMMISSION
 
 Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],” to receive complaints and institute investigations on matters affecting any personal information, the following 2021 Rules of Procedure of the National Privacy Commission are hereby prescribed and promulgated, repealing for this purpose [[issuances/undated/rules-of-procedure|NPC Circular No. 16-04]] (Rules of Procedure) dated 15 December 2016 and [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|NPC Circular No. 18-03]] (Rules on Mediation before the National Privacy Commission) dated 18 December 2018.
 

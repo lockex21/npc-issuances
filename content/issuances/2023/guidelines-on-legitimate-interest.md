@@ -17,7 +17,11 @@ date: "2023-12-13"
 
 ## Issuance Text
 
-**Circular No. 2023-07**
+**NPC Circular No. 2023 - 07**
+
+**DATE:** 13 December 2023
+
+**SUBJECT:** GUIDELINES ON LEGITIMATE INTEREST
 
 WHEREAS, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]])
 provides that the National Privacy Commission (NPC) is charged with the administration  

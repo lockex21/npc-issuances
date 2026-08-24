@@ -20,7 +20,7 @@ draft: false
 - Reference: NPC BN 20-149
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution-NPC-BN-20-149-In-re-NPC.pdf
 - Source page: http://privacy.gov.ph/resolutions/
-- Issue date: August 7, 2020
+- Issue date: August 20, 2020
 - Published on NPC site: Fri, 19 May 2023 17:33:12 GMT
 - Pages: 7
 

@@ -3,7 +3,7 @@ title: "Guidelines on the Processing of Personal Data for Loan-Related Transacti
 description: "Companion summary and references for Guidelines on the Processing of Personal Data for Loan-Related Transactions."
 tags:
   - "companion-note"
-  - "year/undated"
+  - "year/2020"
 draft: false
 ---
 
@@ -26,8 +26,8 @@ Write a concise summary and legal significance notes here.
 - Raw source note: [[sources/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Raw source text]]
 - Reference: Circular No. 20-01
 - Type: Circular
-- Year: undated
-- Issued: Unknown
+- Year: 2020
+- Issued: September 14, 2020
 - Pages: 6
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/NPC-Circular-No.-20-01.pdf
 - OCR used during extraction: no
@@ -38,4 +38,5 @@ Write a concise summary and legal significance notes here.
 
 ### Automatic Backlinks
 - [[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions]]
+- [[issuances/undated/public-advisory-on-online-lending-platforms-olps|Public Advisory on Online Lending Platforms (OLPs)]]
 <!-- END GENERATED RECORD -->

@@ -1,11 +1,11 @@
 ---
-title: "NPC BN 18-021: In Re: Asian Hospital Medical Center"
+title: "NPC BN 18-021: In re: Asian Hospital and Medical Center"
 description: "Resolution closing NPC BN 18-021 finding that Asian Hospital and Medical Center properly managed a patient data breach involving unauthorized access to medical records and implemented appropriate security measures."
 aliases:
   - "NPC BN 18-021"
   - "npc bn 18-021"
-  - "In Re: Asian Hospital Medical Center"
-  - "in re: asian hospital medical center"
+  - "In re: Asian Hospital and Medical Center"
+  - "in re: asian hospital and medical center"
 tags:
   - resolution
   - type/resolution

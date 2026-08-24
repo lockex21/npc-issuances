@@ -1,11 +1,11 @@
 ---
-title: "NPC BN 18-202: In re: Coca-Cola Femsa Philippines, Inc."
+title: "NPC BN 18-202: In re: Coca-Cola Femsa Philippines, Inc. (now Coca-Cola Beverages Philippines, Inc.)"
 description: "Breach notification resolution finding that Coca-Cola Femsa Philippines, Inc. (now Coca-Cola Beverages Philippines, Inc.) sufficiently complied with the NPC's October 2020 order requiring a full report on a data breach involving 39 employees' medical examination results."
 aliases:
   - "NPC BN 18-202"
   - "npc bn 18-202"
-  - "In re: Coca-Cola Femsa Philippines, Inc."
-  - "in re: coca-cola femsa philippines, inc."
+  - "In re: Coca-Cola Femsa Philippines, Inc. (now Coca-Cola Beverages Philippines, Inc.)"
+  - "in re: coca-cola femsa philippines, inc. (now coca-cola beverages philippines, inc.)"
 tags:
   - resolution
   - type/resolution

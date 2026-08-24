@@ -5,8 +5,9 @@ draft: false
 ---
 
 ## Types
-- [[relationships/by-type/circular|Circulars]] (32)
-- [[relationships/by-type/advisory|Advisories]] (20)
-- [[relationships/by-type/memorandum-circular|Memorandum Circulars]] (3)
-- [[relationships/by-type/joint-advisory|Joint Advisories]] (1)
+- [[relationships/by-type/advisory|Advisories]] (24)
+- [[relationships/by-type/annex|Annexes]] (1)
+- [[relationships/by-type/circular|Circulars]] (29)
 - [[relationships/by-type/faq|FAQs]] (7)
+- [[relationships/by-type/joint-advisory|Joint Advisories]] (1)
+- [[relationships/by-type/joint-memorandum-circular|Joint Memorandum Circulars]] (3)

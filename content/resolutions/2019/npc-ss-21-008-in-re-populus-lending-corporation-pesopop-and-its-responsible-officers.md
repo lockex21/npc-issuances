@@ -1,11 +1,11 @@
 ---
-title: "NPC SS 21-008: In re: Fynamics Lending Inc."
+title: "NPC No. 19-910: In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application"
 description: "Resolution granting respondents additional time to file answers to a Fact-Finding Report in a sua sponte investigation into the PondoPeso online lending application for violations of the Data Privacy Act."
 aliases:
-  - "NPC SS 21-008"
-  - "npc ss 21-008"
-  - "In re: Fynamics Lending Inc."
-  - "in re: fynamics lending inc."
+  - "NPC No. 19-910"
+  - "npc no. 19-910"
+  - "In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application"
+  - "in re: fynamics lending inc. operating pondopeso online lending application"
 tags:
   - "resolution"
   - "type/resolution"
@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC SS 21-008
+- Reference: NPC No. 19-910
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-19-910-2019.10.07-In-re-Fynamics-Lending-Inc.-Operating-PondoPeso-Online-Lending-Application-Resolution.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: October 7, 2019

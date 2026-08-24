@@ -27,7 +27,7 @@ Write a concise summary and legal significance notes here.
 - Reference: Advisory No. 2023-01
 - Type: Advisory
 - Year: 2023
-- Issued: Unknown
+- Issued: November 7, 2023
 - Pages: 4
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Advisory-No.-2023-01-Guidelines-on-Deceptive-Design-Patterns_7Nov23.pdf
 - OCR used during extraction: no

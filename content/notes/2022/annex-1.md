@@ -24,18 +24,18 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2022/annex-1|Annex 1]]
 - Raw source note: [[sources/2022/annex-1|Raw source text]]
-- Reference: Circular No. 2022-04
-- Type: Circular
+- Reference: None detected
+- Type: Annex
 - Year: 2022
-- Issued: Unknown
+- Issued: December 5, 2022
 - Pages: 2
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-Annex-1-1.pdf
 - OCR used during extraction: no
 - Topic pages: [[topics/registration|Registration]]
 
 ### Automatic References Out
-- None detected automatically.
+- [[issuances/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|REGISTRATION OF PERSONAL DATA PROCESSING SYSTEM, NOTIFICATION REGARDING AUTOMATED DECISION-MAKING OR PROFILING, DESIGNATION OF DATA PROTECTION OFFICER, AND THE NATIONAL PRIVACY COMMISSION SEAL OF REGISTRATION]]
 
 ### Automatic Backlinks
-- [[issuances/2022/registration-of-personal-data-processing-system-notification-regarding-automated-decision-making-or-profiling-designation-of-data-protection-officer-and-the-national-privacy-commission-seal-of-registration|REGISTRATION OF PERSONAL DATA PROCESSING SYSTEM, NOTIFICATION REGARDING AUTOMATED DECISION-MAKING OR PROFILING, DESIGNATION OF DATA PROTECTION OFFICER, AND THE NATIONAL PRIVACY COMMISSION SEAL OF REGISTRATION]]
+- No backlinks detected yet.
 <!-- END GENERATED RECORD -->

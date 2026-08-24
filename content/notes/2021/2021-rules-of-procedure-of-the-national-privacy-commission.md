@@ -27,7 +27,7 @@ Write a concise summary and legal significance notes here.
 - Reference: Circular No. 2021-01
 - Type: Circular
 - Year: 2021
-- Issued: Unknown
+- Issued: January 28, 2021
 - Pages: 30
 - Official source: https://privacy.gov.ph/wp-content/uploads/2021/01/2021RULESOFPROCEDURE_VER8-Final-Sgd-1-1-1.pdf
 - OCR used during extraction: no
@@ -37,7 +37,7 @@ Write a concise summary and legal significance notes here.
 - [[issuances/undated/guidelines-on-compliance-checks|Guidelines on Compliance Checks]]
 - [[issuances/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission]]
 - [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]]
-- [[issuances/undated/rules-of-procedure|Rules of Procedure]]
+- [[issuances/undated/rules-of-procedure|Rules of Procedure of the National Privacy Commission]]
 - [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|Rules of procedure on requests for Advisory Opinions]]
 - [[issuances/undated/rules-on-mediation-before-the-national-privacy-commission|Rules on Mediation before the National Privacy Commission]]
 

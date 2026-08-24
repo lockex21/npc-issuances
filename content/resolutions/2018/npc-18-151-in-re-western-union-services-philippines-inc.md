@@ -1,5 +1,5 @@
 ---
-title: 'NPC 18-151: In re: Western Union Services (Philippines), Inc.'
+title: "NPC BN 18-151: In re: Western Union Services (Philippines), Inc."
 description: Resolution concerning Western Union Services (Philippines), Inc.'s compliance
   with data breach notification and management requirements under NPC Circular 16-03.
 tags:
@@ -22,7 +22,7 @@ date: '2024-06-05'
 ---
 
 ## Source
-- Reference: NPC 18-151
+- Reference: NPC BN 18-151
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/10/NPC-BN-18-151-In-re-Western-Union-Resolution-Final.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: August 8, 2018

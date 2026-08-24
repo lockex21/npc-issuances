@@ -8,10 +8,10 @@ Auto-generated topic cluster for **Legitimate Interest**, covering the full corp
 
 ## Issuances
 - [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012 (Advisory No. 2024-02)]]
-- [[issuances/2023/faq-guidelines-on-legitimate-interest|Circular on Guidelines for Legitimate Interest (Circular No. 2023-07)]]
 - [[issuances/2023/guidelines-on-legitimate-interest|Guidelines on Legitimate Interest (Circular No. 2023-07)]]
 - [[issuances/2023/guidelines-on-consent|Guidelines on Consent (Circular No. 2023-04)]]
-- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021)]]
+- [[issuances/2023/faq-guidelines-on-legitimate-interest|Circular on Guidelines for Legitimate Interest: Questions Raised During the Public Consultation on 07 December 2023]]
+- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021-03)]]
 - [[issuances/2021/data-subject-rights|Data Subject Rights (Advisory No. 2021-01)]]
 - [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Guidelines on the Use of Closed-Circuit Television (CCTV) Systems (Advisory No. 2020-04)]]
 
@@ -51,6 +51,7 @@ Auto-generated topic cluster for **Legitimate Interest**, covering the full corp
 - [[advisory-opinions/2020/advisory-opinion-no-2020-006-redacted-advisory-opinion-no-2020-006-2|“NPC Advisory Opinion No. 2020-006 — Collection Agency Communicating with Human Resource Department”]]
 - [[advisory-opinions/2020/advisory-opinion-no-2020-050-redacted-advisory-opinion-no-2020-050-2|NPC Advisory Opinion No. 2020-050 — Disclosure by Fintech, Digital Payment Platforms, and Telecommunications Entities of Personal Data for Fraud Investigation]]
 - [[advisory-opinions/2020/advisory-opinion-no-2020-048-redacted-advisory-opinion-no-2020-048-2|NPC Advisory Opinion No. 2020-048 — Disclosure of Master List of Homeowners for Record and Housekeeping Purposes]]
+- [[advisory-opinions/2020/advisory-opinion-no-2020-046-redacted-advisory-opinion-no-2020-046-2|NPC Advisory Opinion No. 2020-046 — Common Practices of Schools in Processing Personal Data of Students]]
 - [[advisory-opinions/2020/advisory-opinion-no-2020-045-redacted-advisory-opinion-no-2020-045-2|NPC Advisory Opinion No. 2020-045 — Disclosure of Unit Owners Details for Securing Proxies]]
 - [[advisory-opinions/2020/advisory-opinion-no-2020-039-redacted-advisory-opinion-no-2020-039-2|NPC Advisory Opinion No. 2020-039 — Disclosure or Sharing of Bank Transaction Information for Fraud Investigations]]
 - [[advisory-opinions/2020/advisory-opinion-no-2020-024-disclosure-of-lot-buyers-homeowners-contact-information-for-collection-of-monthly-association-dues|NPC Advisory Opinion No. 2020-024 — Disclosure of Lot Buyers’/Homeowners’ Contact Information for Collection of Monthly Association Dues]]

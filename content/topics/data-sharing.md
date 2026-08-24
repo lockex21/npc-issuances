@@ -13,9 +13,11 @@ Auto-generated topic cluster for **Data Sharing**, covering the full corpus of l
 - [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements (Advisory No. 2025-01)]]
 - [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector (NPC Circular No. 2023-06)]]
 - [[issuances/2023/guidelines-on-consent|Guidelines on Consent (Circular No. 2023-04)]]
+- [[issuances/2023/faq-guidelines-on-legitimate-interest|Circular on Guidelines for Legitimate Interest: Questions Raised During the Public Consultation on 07 December 2023]]
 - [[issuances/2020/data-sharing-agreements|Data Sharing Agreements (Circular No. 2020-03)]]
-- [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response (Memorandum Circular No. 2020-0002)]]
+- [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response (Joint Memorandum Circular No. 2020-0002)]]
 - [[issuances/2017/designation-of-data-protection-officers|Designation of Data Protection Officers (Advisory No. 2017-01)]]
+- [[issuances/undated/security-of-personal-data-in-government-agencies|Security of Personal Data in Government Agencies (Circular No. 16-01)]]
 - [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies (Circular No. 16-02)]]
 
 ## Advisory Opinions
@@ -64,6 +66,7 @@ Auto-generated topic cluster for **Data Sharing**, covering the full corpus of l
 - [[advisory-opinions/2018/advisory-opinion-no-2018-036-npc-advisory-opinion-no-2018-036|NPC Advisory Opinion No. 2018-036 — Data Sharing with the Manila International Airport Authority (MIAA)]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-033-npc-advisory-opinion-no-2018-033|NPC Advisory Opinion No. 2018-033 — Data Sharing, Consent, and Compliance with the Data Privacy Act of 2012]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-007-npc-advisory-opinion-no-2018-007|NPC Advisory Opinion No. 2018-007 — Disclosure of Master List of Dengvaxia-Vaccinated Individuals]]
+- [[advisory-opinions/2017/advisory-opinion-no-2017-054-npc-advisoryopinionno-2017-054 2|“NPC Advisory Opinion No. 2017-054 — Data Sharing Agreement Between Government Agencies”]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-070-npc-advisory-opinion-no-2017-070|NPC Advisory Opinion No. 2017-070 — PLDT’s Privacy Policy]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-061-npc-advisoryopinionno-2017-061|NPC Advisory Opinion No. 2017-061 — Compliance with National Privacy Commission Requirements]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-057-npc-advisoryopinionno-2017-057|NPC Advisory Opinion No. 2017-057 — Consent for Data Sharing and Outsourcing Agreements]]
@@ -83,6 +86,7 @@ Auto-generated topic cluster for **Data Sharing**, covering the full corpus of l
 - [[advisory-opinions/2017/advisory-opinion-no-2017-013-npc-advisoryopinionno-2017-013|NPC Advisory Opinion No. 2017-013 — Data Sharing; Definition of Commercial Purposes; Data Protection Officer]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-009-npc-advisoryopinionno-2017-009|NPC Advisory Opinion No. 2017-009 — Data Sharing Agreements in the Private Sector]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-008-npc-advisoryopinionno-2017-008|NPC Advisory Opinion No. 2017-008 — Clarifications on the Data Privacy Act and Its Implementing Rules and Regulations]]
+- [[advisory-opinions/2017/index 2|Advisory Opinions 2017]]
 
 ## Decisions
 - [[decisions/2019/08-15-2019-in-re-data-breach-involving-the-comelec-data-processing-system-in-wao-lanao-del-sur|NPC CID 17-002: In Re Data Breach Involving the COMELEC Data Processing System in Wao, Lanao del Sur]]

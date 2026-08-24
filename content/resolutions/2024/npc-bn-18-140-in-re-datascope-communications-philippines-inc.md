@@ -1,11 +1,11 @@
 ---
-title: "NPC BN 18-140: In re: Datascope Communications Philippines, Inc."
+title: "NPC BN 18-140: In re: Datascope Communications (Philippines), Inc."
 description: "Resolution closing breach notification matter NPC BN 18-140 after finding Datascope sufficiently complied with orders regarding its data breach notification and privacy impact assessment."
 aliases:
   - "NPC BN 18-140"
   - "npc bn 18-140"
-  - "In re: Datascope Communications Philippines, Inc."
-  - "in re: datascope communications philippines, inc."
+  - "In re: Datascope Communications (Philippines), Inc."
+  - "in re: datascope communications (philippines), inc."
 tags:
   - resolution
   - type/resolution

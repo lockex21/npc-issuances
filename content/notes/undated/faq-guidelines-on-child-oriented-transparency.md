@@ -34,7 +34,7 @@ Write a concise summary and legal significance notes here.
 - Topic pages: [[topics/children|Children]]
 
 ### Automatic References Out
-- None detected automatically.
+- [[issuances/2024/guidelines-on-child-oriented-transparency|Guidelines on Child-Oriented Transparency]]
 
 ### Automatic Backlinks
 - No backlinks detected yet.

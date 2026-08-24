@@ -1,9 +1,9 @@
 ---
-title: "NPC 22-180 and 22-181: DVL v. Alamat Crewsers Motorcycle Club and LAE v. Alamat Crewsers Motorcycle Club"
+title: "NPC 22-180 and NPC 22-181: DVL v. Alamat Crewsers Motorcycle Club and LAE v. Alamat Crewsers Motorcycle Club"
 description: "Resolution denying motions for reconsideration and affirming decisions dismissing complaints by DVL and LAE against Alamat Crewsers Motorcycle Club for alleged unauthorized publication of their personal information."
 aliases:
-  - "NPC 22-180 and 22-181"
-  - "npc 22-180 and 22-181"
+  - "NPC 22-180 and NPC 22-181"
+  - "npc 22-180 and npc 22-181"
   - "DVL v. Alamat Crewsers Motorcycle Club and LAE v. Alamat Crewsers Motorcycle Club"
   - "dvl v. alamat crewsers motorcycle club and lae v. alamat crewsers motorcycle club"
 tags:
@@ -18,7 +18,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC 22-180 and 22-181
+- Reference: NPC 22-180 and NPC 22-181
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/04/NPC-22-180-and-22-181-2022.11.10-DVL-v.-Alamat-Crewsers-Motorcycle-Club-and-LAE-v.-Alamat-Crewsers-Motorcycle-Club-Resolution-Final.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: November 10, 2022

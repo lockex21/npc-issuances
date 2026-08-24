@@ -1,9 +1,9 @@
 ---
-title: "NPC 16-004: CBP v. Orani Water District"
+title: "NPC Case No. 16-004: CBP v. Orani Water District"
 description: "Order directing Orani Water District to submit the final draft of its Privacy Manual and Notices within thirty days, after finding that OWD had failed to fully comply with the Commission's December 2017 Decision despite a change in management and repeated follow-up letters."
 aliases:
-  - "NPC 16-004"
-  - "npc 16-004"
+  - "NPC Case No. 16-004"
+  - "npc case no. 16-004"
   - "CBP v. Orani Water District"
   - "cbp v. orani water district"
 tags:
@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC 16-004
+- Reference: NPC Case No. 16-004
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-16-004-2020.11.19-CBP-v.-Orani-Water-District-Order-FinalP.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: November 19, 2020

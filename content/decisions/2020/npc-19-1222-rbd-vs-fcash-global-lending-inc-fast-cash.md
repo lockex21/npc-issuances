@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC 19-1222
+- Reference: NPC 19-1221
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-19-1221-RBD-v.-Fcash-Global-Lending-Decision-ADJ1.pdf
 - Source page: http://privacy.gov.ph/decisions-2/
 - Issue date: June 25, 2020

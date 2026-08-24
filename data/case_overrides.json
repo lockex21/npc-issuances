@@ -7,16 +7,283 @@
     "npc-17-015-id-y-s-v-ds-bank": {
       "markdown_path": "content/decisions/2016/npc-17-015-id-y-s-v-ds-bank.md",
       "preserve_existing_markdown": true
+    },
+    "npc-bn-21-111-eg-vs-ji-ro-and-rr": {
+      "reference_label": "NPC 21-111",
+      "title": "NPC 21-111: EG v. JI, RO, and RR",
+      "short_title": "EG v. JI, RO, and RR",
+      "markdown_path": "content/decisions/2022/npc-bn-21-111-eg-vs-ji-ro-and-rr.md",
+      "preserve_existing_markdown": true
+    },
+    "19-653-bgm-vs-ipp": {
+      "reference_label": "NPC 19-653",
+      "title": "NPC 19-653: BGM v. IPP",
+      "short_title": "BGM v. IPP",
+      "markdown_path": "content/decisions/2020/19-653-bgm-vs-ipp.md",
+      "preserve_existing_markdown": true
+    },
+    "12-17-2020-fat-vs-xxx": {
+      "reference_label": "NPC 19-043",
+      "title": "NPC 19-043: FAT v. XXX",
+      "short_title": "FAT v. XXX",
+      "markdown_path": "content/decisions/2020/12-17-2020-fat-vs-xxx.md",
+      "preserve_existing_markdown": true
+    },
+    "11-19-2020-scm-vs-xxx": {
+      "reference_label": "NPC 19-382",
+      "title": "NPC 19-382: SCM v. XXXX",
+      "short_title": "SCM v. XXXX",
+      "markdown_path": "content/decisions/2020/11-19-2020-scm-vs-xxx.md",
+      "preserve_existing_markdown": true
+    },
+    "09-21-2020-cbi-vs-xxx": {
+      "reference_label": "CID 17-K-004",
+      "title": "CID 17-K-004: CBI v. XXX",
+      "short_title": "CBI v. XXX",
+      "markdown_path": "content/decisions/2020/09-21-2020-cbi-vs-xxx.md",
+      "preserve_existing_markdown": true
+    },
+    "07-23-2020-eca-vs-xxx": {
+      "reference_label": "NPC 18-103",
+      "title": "NPC 18-103: ECA v. XXX",
+      "short_title": "ECA v. XXX",
+      "markdown_path": "content/decisions/2020/07-23-2020-eca-vs-xxx.md",
+      "preserve_existing_markdown": true
+    },
+    "06-09-2020-bem-vs-gfc": {
+      "reference_label": "NPC 18-046",
+      "title": "NPC 18-046: BEM v. GFC",
+      "short_title": "BEM v. GFC",
+      "markdown_path": "content/decisions/2020/06-09-2020-bem-vs-gfc.md",
+      "preserve_existing_markdown": true
+    },
+    "08-15-2019-in-re-data-breach-involving-the-comelec-data-processing-system-in-wao-lanao-del-sur": {
+      "reference_label": "NPC CID 17-002",
+      "title": "NPC CID 17-002: In Re Data Breach Involving the COMELEC Data Processing System in Wao, Lanao del Sur",
+      "short_title": "In Re Data Breach Involving the COMELEC Data Processing System in Wao, Lanao del Sur",
+      "markdown_path": "content/decisions/2019/08-15-2019-in-re-data-breach-involving-the-comelec-data-processing-system-in-wao-lanao-del-sur.md",
+      "preserve_existing_markdown": true
+    },
+    "cid-17-005a-ecb-vs-ssmsm": {
+      "reference_label": "NPC 17-005a",
+      "title": "NPC 17-005a: ECB v. SSMSM",
+      "short_title": "ECB v. SSMSM",
+      "markdown_path": "content/decisions/2020/cid-17-005a-ecb-vs-ssmsm.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-cn-19-501-mec-vs-robocash-finance-corporation": {
+      "reference_label": "NPC 19-501",
+      "title": "NPC 19-501: MEC v. Robocash Finance Corporation",
+      "short_title": "MEC v. Robocash Finance Corporation",
+      "markdown_path": "content/decisions/2020/npc-cn-19-501-mec-vs-robocash-finance-corporation.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-19-1222-rbd-vs-fcash-global-lending-inc-fast-cash": {
+      "reference_label": "NPC 19-1221",
+      "title": "NPC 19-1221: RBD v. FCash Global Lending, Inc. (Fast Cash)",
+      "short_title": "RBD v. FCash Global Lending, Inc. (Fast Cash)",
+      "markdown_path": "content/decisions/2020/npc-19-1222-rbd-vs-fcash-global-lending-inc-fast-cash.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-cn-19-187-jgo-vs-fynamics-lending-inc-pondo-peso": {
+      "reference_label": "NPC 19-187",
+      "title": "NPC 19-187: JGO v. Fynamics Lending, Inc. (Pondo Peso)",
+      "short_title": "JGO v. Fynamics Lending, Inc. (Pondo Peso)",
+      "markdown_path": "content/decisions/2020/npc-cn-19-187-jgo-vs-fynamics-lending-inc-pondo-peso.md",
+      "preserve_existing_markdown": true
+    },
+    "cid-18-k-200-ccmc-vs-quicklend-inc": {
+      "reference_label": "NPC 18-K-200",
+      "title": "NPC 18-K-200: CCMC v. Quicklend, Inc.",
+      "short_title": "CCMC v. Quicklend, Inc.",
+      "markdown_path": "content/decisions/2020/cid-18-k-200-ccmc-vs-quicklend-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "ibc-vs-pbi": {
+      "reference_label": "CID 17-K-004",
+      "title": "CID 17-K-004: IBC v. PBI",
+      "short_title": "IBC v. PBI",
+      "markdown_path": "content/decisions/2017/ibc-vs-pbi.md",
+      "preserve_existing_markdown": true,
+      "issue_date": "July 9, 2017",
+      "issue_date_iso": "2017-07-09",
+      "year": "2017"
+    },
+    "npc-21-032-jdb-v-jme": {
+      "reference_label": "NPC 21-032",
+      "title": "NPC 21-032: JCB v. JME",
+      "short_title": "JCB v. JME",
+      "markdown_path": "content/decisions/2022/npc-21-032-jdb-v-jme.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-ss-21-006-wefund-lending-corp": {
+      "reference_label": "NPC SS 21-006",
+      "title": "NPC SS 21-006: In Re: Wefund Lending Corporation (JuanHand) and its Responsible Officers",
+      "short_title": "In Re: Wefund Lending Corporation (JuanHand) and its Responsible Officers",
+      "markdown_path": "content/decisions/2022/npc-ss-21-006-wefund-lending-corp.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-19-0048-gj-s-vmj-mtp": {
+      "reference_label": "NPC 19-0048",
+      "title": "NPC 19-0048: GJ v. VMJ and MTP",
+      "short_title": "GJ v. VMJ and MTP",
+      "markdown_path": "content/decisions/2021/npc-19-0048-gj-s-vmj-mtp.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-19-1221-rabd-v-fxxx": {
+      "reference_label": "NPC 19-1221",
+      "title": "NPC 19-1221: RBD v. FCash Global Lending, Inc. (Fast Cash)",
+      "short_title": "RBD v. FCash Global Lending, Inc. (Fast Cash)",
+      "markdown_path": "content/decisions/2020/npc-19-1221-rabd-v-fxxx.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-19-450-jrg-v-cxxx": {
+      "reference_label": "NPC 19-450",
+      "title": "NPC 19-450: JRG v. Creditable Lending Corporation (Easy Peso)",
+      "short_title": "JRG v. Creditable Lending Corporation (Easy Peso)",
+      "markdown_path": "content/decisions/2020/npc-19-450-jrg-v-cxxx.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-23-064-23-065-23-066-sss-vs-rgc-sss-vs-mtd-sss-vs-fsd": {
+      "reference_label": "NPC 23-064, NPC 23-065, NPC 23-066",
+      "title": "NPC 23-064: SSS v. RGC, SSS v. MTD, SSS v. FSD",
+      "short_title": "SSS v. RGC, SSS v. MTD, SSS v. FSD",
+      "markdown_path": "content/decisions/2023/npc-23-064-23-065-23-066-sss-vs-rgc-sss-vs-mtd-sss-vs-fsd.md",
+      "preserve_existing_markdown": true,
+      "issue_date": "April 18, 2024",
+      "issue_date_iso": "2024-04-18",
+      "year": "2024"
+    },
+    "06-18-2020-jgo-vs-xxx": {
+      "reference_label": "NPC 19-187",
+      "title": "NPC 19-187: JGO v. XXX",
+      "short_title": "JGO v. XXX",
+      "markdown_path": "content/decisions/2020/06-18-2020-jgo-vs-xxx.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-018-18-019-18-020-18-027-jvt-vs-vma-lar-vs-vma-ccw-vs-vma-mls-vs-vma": {
+      "reference_label": "NPC 18-018, 18-019, 18-020, and 18-027",
+      "title": "NPC 18-018, 18-019, 18-020, and 18-027: JVT v. VMA, LAR v. VMA, CCW v. VMA, MLS v. VMA",
+      "short_title": "JVT v. VMA, LAR v. VMA, CCW v. VMA, MLS v. VMA",
+      "markdown_path": "content/decisions/2018/npc-18-018-18-019-18-020-18-027-jvt-vs-vma-lar-vs-vma-ccw-vs-vma-mls-vs-vma.md",
+      "preserve_existing_markdown": true,
+      "issue_date": "February 22, 2023",
+      "issue_date_iso": "2023-02-22",
+      "year": "2023"
+    },
+    "npc-19-1805-cbb-vs-ams": {
+      "issue_date": "September 4, 2024",
+      "issue_date_iso": "2024-09-04",
+      "year": "2024",
+      "markdown_path": "content/decisions/2024/npc-19-1805-cbb-vs-ams.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-21-173-slc-v-concentrix-phils": {
+      "issue_date": "August 12, 2024",
+      "issue_date_iso": "2024-08-12",
+      "year": "2024",
+      "markdown_path": "content/decisions/2024/npc-21-173-slc-v-concentrix-phils.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-22-175-mea-vs-mu": {
+      "issue_date": "February 8, 2024",
+      "issue_date_iso": "2024-02-08",
+      "year": "2024",
+      "markdown_path": "content/decisions/2022/npc-22-175-mea-vs-mu.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-22-064-and-npc-22-065-als-vs-planters-bank-and-als-vs-china-bank-savings": {
+      "issue_date": "September 17, 2024",
+      "issue_date_iso": "2024-09-17",
+      "year": "2024",
+      "markdown_path": "content/decisions/2022/npc-22-064-and-npc-22-065-als-vs-planters-bank-and-als-vs-china-bank-savings.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-22-006-mdt-vs-bdo-unibank-inc": {
+      "issue_date": "January 19, 2023",
+      "issue_date_iso": "2023-01-19",
+      "year": "2023",
+      "markdown_path": "content/decisions/2022/npc-22-006-mdt-vs-bdo-unibank-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-205-in-re-medicard-philippines-inc": {
+      "issue_date": "July 14, 2022",
+      "issue_date_iso": "2022-07-14",
+      "year": "2022",
+      "markdown_path": "content/decisions/2021/npc-18-205-in-re-medicard-philippines-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-142-msh-vs-rsf-tcc": {
+      "issue_date": "February 3, 2022",
+      "issue_date_iso": "2022-02-03",
+      "year": "2022",
+      "markdown_path": "content/decisions/2020/npc-18-142-msh-vs-rsf-tcc.md",
+      "preserve_existing_markdown": true
+    },
+    "cid-18-d-012-jbd-vs-ji-and-vvv": {
+      "issue_date": "January 21, 2021",
+      "issue_date_iso": "2021-01-21",
+      "year": "2021",
+      "markdown_path": "content/decisions/2020/cid-18-d-012-jbd-vs-ji-and-vvv.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-19-1438-vmjr-v-ebo": {
+      "issue_date": "May 8, 2025",
+      "issue_date_iso": "2025-05-08",
+      "year": "2025",
+      "markdown_path": "content/decisions/2019/npc-19-1438-vmjr-v-ebo.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-074-ecv-vs-cvf": {
+      "issue_date": "March 17, 2022",
+      "issue_date_iso": "2022-03-17",
+      "year": "2022",
+      "markdown_path": "content/decisions/2018/npc-18-074-ecv-vs-cvf.md",
+      "preserve_existing_markdown": true
+    },
+    "cid-18-d-009-jlb-vs-security-bank-corporation": {
+      "issue_date": "March 18, 2021",
+      "issue_date_iso": "2021-03-18",
+      "year": "2021",
+      "markdown_path": "content/decisions/2018/cid-18-d-009-jlb-vs-security-bank-corporation.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-141-mhh-v-vcf-spfs": {
+      "issue_date": "June 9, 2020",
+      "issue_date_iso": "2020-06-09",
+      "year": "2020",
+      "markdown_path": "content/decisions/2017/npc-18-141-mhh-v-vcf-spfs.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-20-307-spouses-jgy-and-nty-v-bpi-family-savings-bank-inc": {
+      "issue_date": "August 17, 2023",
+      "issue_date_iso": "2023-08-17",
+      "year": "2023",
+      "markdown_path": "content/decisions/2017/npc-20-307-spouses-jgy-and-nty-v-bpi-family-savings-bank-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-22-117-cjj-vs-jjs-and-jb": {
+      "issue_date": "September 17, 2024",
+      "issue_date_iso": "2024-09-17",
+      "year": "2024",
+      "markdown_path": "content/decisions/2014/npc-22-117-cjj-vs-jjs-and-jb.md",
+      "preserve_existing_markdown": true
     }
   },
   "resolutions": {
     "npc-bn-18-036-in-re-smart-communications-inc": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-036-in-re-smart-communications-inc.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "reference_label": "NPC BN 18-063",
+      "title": "NPC BN 18-063: In re: Smart Communications, Inc.",
+      "short_title": "In re: Smart Communications, Inc."
     },
     "npc-bn-18-038-in-re-social-security-system": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-038-in-re-social-security-system.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "issue_date": "September 17, 2024",
+      "issue_date_iso": "2024-09-17",
+      "year": "2024"
     },
     "npc-bn-18-029-in-re-hc-consumer-finance-philippines-inc": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-029-in-re-hc-consumer-finance-philippines-inc.md",
@@ -28,7 +295,10 @@
     },
     "npc-18-151-in-re-western-union-services-philippines-inc": {
       "markdown_path": "content/resolutions/2018/npc-18-151-in-re-western-union-services-philippines-inc.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "reference_label": "NPC BN 18-151",
+      "title": "NPC BN 18-151: In re: Western Union Services (Philippines), Inc.",
+      "short_title": "In re: Western Union Services (Philippines), Inc."
     },
     "npc-bn-18-062-in-re-vrp-medical-center": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-062-in-re-vrp-medical-center.md",
@@ -40,11 +310,20 @@
     },
     "npc-bn-18-008-in-re-rosewood-hotel-group": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-008-in-re-rosewood-hotel-group.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "issue_date": "April 18, 2024",
+      "issue_date_iso": "2024-04-18",
+      "year": "2024"
     },
     "npc-18-144-in-re-office-warehouse-inc": {
       "markdown_path": "content/resolutions/2018/npc-18-144-in-re-office-warehouse-inc.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "reference_label": "NPC BN 18-144",
+      "title": "NPC BN 18-144: In re: Office Warehouse, Inc.",
+      "short_title": "In re: Office Warehouse, Inc.",
+      "issue_date": "March 21, 2024",
+      "issue_date_iso": "2024-03-21",
+      "year": "2024"
     },
     "npc-bn-18-035-in-re-active-network-llc": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-035-in-re-active-network-llc.md",
@@ -60,19 +339,31 @@
     },
     "npc-18-046-in-re-city-government-of-iloilo-internal-audit-services": {
       "markdown_path": "content/resolutions/2018/npc-18-046-in-re-city-government-of-iloilo-internal-audit-services.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "reference_label": "NPC BN 18-046",
+      "title": "NPC BN 18-046: In re: City Government of Iloilo – Internal Audit Services",
+      "short_title": "In re: City Government of Iloilo – Internal Audit Services"
     },
     "npc-bn-18-033-and-npc-bn-18-076-in-re-aig-shared-services-business-processing-inc-and-aig-shared-services-corporation-management-services-rohq-and-in-re-medicard-philippines-inc-festival-alabang-clinic": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-033-and-npc-bn-18-076-in-re-aig-shared-services-business-processing-inc-and-aig-shared-services-corporation-management-services-rohq-and-in-re-medicard-philippines-inc-festival-alabang-clinic.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "issue_date": "August 2, 2023",
+      "issue_date_iso": "2023-08-02",
+      "year": "2023"
     },
     "npc-17-010-in-re-movie-and-television-review-and-classification-board": {
       "markdown_path": "content/resolutions/2018/npc-17-010-in-re-movie-and-television-review-and-classification-board.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "reference_label": "NPC BN 17-010",
+      "title": "NPC BN 17-010: In re: Movie and Television Review and Classification Board",
+      "short_title": "In re: Movie and Television Review and Classification Board"
     },
     "npc-bn-18-220-and-npc-bn-18-231-in-re-department-of-trade-and-industry": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-220-and-npc-bn-18-231-in-re-department-of-trade-and-industry.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "reference_label": "NPC BN 18-220 and NPC BN 18-231",
+      "title": "NPC BN 18-220 and NPC BN 18-231: In re: Department of Trade and Industry and Department of Trade and Industry – Rizal Provincial Office",
+      "short_title": "In re: Department of Trade and Industry and Department of Trade and Industry – Rizal Provincial Office"
     },
     "npc-bn-18-213-in-re-manufacturers-life-insurance-co": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-213-in-re-manufacturers-life-insurance-co.md",
@@ -80,15 +371,27 @@
     },
     "npc-18-019-in-re-ateneo-de-zamboanga-university": {
       "markdown_path": "content/resolutions/2018/npc-18-019-in-re-ateneo-de-zamboanga-university.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "reference_label": "NPC BN 18-019",
+      "title": "NPC BN 18-019: In re: Ateneo de Zamboanga University",
+      "short_title": "In re: Ateneo de Zamboanga University",
+      "issue_date": "May 11, 2023",
+      "issue_date_iso": "2023-05-11",
+      "year": "2023"
     },
     "npc-18-142-in-re-smart-communications-inc": {
       "markdown_path": "content/resolutions/2018/npc-18-142-in-re-smart-communications-inc.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "reference_label": "NPC BN 18-142",
+      "title": "NPC BN 18-142: In re: Smart Communications, Inc.",
+      "short_title": "In re: Smart Communications, Inc."
     },
     "npc-bn-18-115-in-re-remit-inc": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-115-in-re-remit-inc.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "issue_date": "January 26, 2023",
+      "issue_date_iso": "2023-01-26",
+      "year": "2023"
     },
     "npc-bn-18-006-in-re-business-world-inc": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-006-in-re-business-world-inc.md",
@@ -96,7 +399,10 @@
     },
     "npc-bn-18-105-in-re-landbank-of-the-philippines-2": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-105-in-re-landbank-of-the-philippines-2.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "reference_label": "CID BN 18-105",
+      "title": "CID BN 18-105: In re: Landbank of the Philippines",
+      "short_title": "In re: Landbank of the Philippines"
     },
     "npc-bn-18-186-in-re-manila-shared-services-employees-credit-and-savings-cooperative": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-186-in-re-manila-shared-services-employees-credit-and-savings-cooperative.md",
@@ -120,7 +426,10 @@
     },
     "npc-bn-18-069-in-re-professional-regulations-commission-prc": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-069-in-re-professional-regulations-commission-prc.md",
-      "preserve_existing_markdown": true
+      "preserve_existing_markdown": true,
+      "reference_label": "NPC BN 18-069",
+      "title": "NPC BN 18-069: In re: Professional Regulation Commission (PRC)",
+      "short_title": "In re: Professional Regulation Commission (PRC)"
     },
     "cid-bn-18-086-in-re-tulay-sa-pag-unlad-inc": {
       "markdown_path": "content/resolutions/2018/cid-bn-18-086-in-re-tulay-sa-pag-unlad-inc.md",
@@ -128,6 +437,340 @@
     },
     "npc-bn-18-105-in-re-landbank-of-the-philippines": {
       "markdown_path": "content/resolutions/2018/npc-bn-18-105-in-re-landbank-of-the-philippines.md",
+      "preserve_existing_markdown": true,
+      "reference_label": "CID BN 18-105",
+      "title": "CID BN 18-105: In re: Land Bank of the Philippines",
+      "short_title": "In re: Land Bank of the Philippines"
+    },
+    "npc-19-002-in-re-pj-lhuillier-incorporated": {
+      "reference_label": "NPC BN 19-002",
+      "title": "NPC BN 19-002: In re: PJ Lhuillier Incorporated",
+      "short_title": "In re: PJ Lhuillier Incorporated",
+      "markdown_path": "content/resolutions/2024/npc-19-002-in-re-pj-lhuillier-incorporated.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-120-in-re-dyna-drug-corporation": {
+      "reference_label": "NPC BN 18-120",
+      "title": "NPC BN 18-120: In re: Dyna Drug Corporation",
+      "short_title": "In re: Dyna Drug Corporation",
+      "markdown_path": "content/resolutions/2023/npc-18-120-in-re-dyna-drug-corporation.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-23-015-in-re-metro-pacific-tollways-corporation": {
+      "reference_label": "NPC BN 23-015",
+      "title": "NPC BN 23-015: In re: Metro Pacific Tollways Corporation",
+      "short_title": "In re: Metro Pacific Tollways Corporation",
+      "markdown_path": "content/resolutions/2023/npc-23-015-in-re-metro-pacific-tollways-corporation.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-17-028-and-npc-bn-18-180-in-re-easytrip-services-corporation": {
+      "reference_label": "NPC BN 17-028 and NPC BN 18-180",
+      "title": "NPC BN 17-028 and NPC BN 18-180: In re: EasyTrip Services Corporation",
+      "short_title": "In re: EasyTrip Services Corporation",
+      "markdown_path": "content/resolutions/2023/npc-17-028-and-npc-bn-18-180-in-re-easytrip-services-corporation.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-073-in-re-philippine-long-distance-telephone-company-inc": {
+      "reference_label": "NPC BN 18-073",
+      "title": "NPC BN 18-073: In re: Philippine Long Distance Telephone Company, Inc.",
+      "short_title": "In re: Philippine Long Distance Telephone Company, Inc.",
+      "markdown_path": "content/resolutions/2023/npc-18-073-in-re-philippine-long-distance-telephone-company-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-075-in-re-cebu-air-inc": {
+      "reference_label": "NPC BN 18-075",
+      "title": "NPC BN 18-075: In re: Cebu Air, Inc.",
+      "short_title": "In re: Cebu Air, Inc.",
+      "markdown_path": "content/resolutions/2023/npc-18-075-in-re-cebu-air-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-222-in-re-polytechnic-university-of-the-philippines": {
+      "reference_label": "NPC BN 18-222",
+      "title": "NPC BN 18-222: In re: Polytechnic University of the Philippines",
+      "short_title": "In re: Polytechnic University of the Philippines",
+      "markdown_path": "content/resolutions/2023/npc-18-222-in-re-polytechnic-university-of-the-philippines.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-22-180-and-22-181-dvl-v-alamat-crewsers-motorcycle-club-and-lae-v-alamat-crewsers-motorcycle-club": {
+      "reference_label": "NPC 22-180 and NPC 22-181",
+      "title": "NPC 22-180 and NPC 22-181: DVL v. Alamat Crewsers Motorcycle Club and LAE v. Alamat Crewsers Motorcycle Club",
+      "short_title": "DVL v. Alamat Crewsers Motorcycle Club and LAE v. Alamat Crewsers Motorcycle Club",
+      "markdown_path": "content/resolutions/2022/npc-22-180-and-22-181-dvl-v-alamat-crewsers-motorcycle-club-and-lae-v-alamat-crewsers-motorcycle-club.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-037-in-re-acesite-phils-hotel-corporation": {
+      "reference_label": "NPC BN 18-037",
+      "title": "NPC BN 18-037: In re: Acesite (Phils.) Hotel Corporation",
+      "short_title": "In re: Acesite (Phils.) Hotel Corporation",
+      "markdown_path": "content/resolutions/2022/npc-18-037-in-re-acesite-phils-hotel-corporation.md",
+      "preserve_existing_markdown": true
+    },
+    "cid-bn-17-020-cid-bn-17-029-in-re-breach-notification-report-of-sun-life-of-canada": {
+      "reference_label": "NPC BN 17-020 and BN 17-029",
+      "title": "NPC BN 17-020 and BN 17-029: In re: Breach Notification Report of Sun Life of Canada (Philippines)",
+      "short_title": "In re: Breach Notification Report of Sun Life of Canada (Philippines)",
+      "markdown_path": "content/resolutions/2022/cid-bn-17-020-cid-bn-17-029-in-re-breach-notification-report-of-sun-life-of-canada.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-21-218-in-re-jrc-vs-bank-of-the-philippine-islands": {
+      "reference_label": "NPC 21-218",
+      "title": "NPC 21-218: In re: JRC v. Bank of the Philippine Islands",
+      "short_title": "In re: JRC v. Bank of the Philippine Islands",
+      "markdown_path": "content/resolutions/2022/npc-bn-21-218-in-re-jrc-vs-bank-of-the-philippine-islands.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-cdo-22-001-cid-vs-ph-check-com": {
+      "reference_label": "CID CDO 22-001",
+      "title": "CID CDO 22-001: CID vs. PH-Check.com",
+      "short_title": "CID vs. PH-Check.com",
+      "markdown_path": "content/resolutions/2022/npc-cdo-22-001-cid-vs-ph-check-com.md",
+      "preserve_existing_markdown": true,
+      "issue_date": "September 22, 2022",
+      "issue_date_iso": "2022-09-22",
+      "year": "2022"
+    },
+    "npc-21-214-in-re-teletech-customer-care-management-philippines-inc": {
+      "reference_label": "NPC 21-214",
+      "title": "NPC 21-214: In re: Teletech Customer Care Management Philippines, Inc.",
+      "short_title": "In re: Teletech Customer Care Management Philippines, Inc.",
+      "markdown_path": "content/resolutions/2022/npc-21-214-in-re-teletech-customer-care-management-philippines-inc.md",
+      "preserve_existing_markdown": true,
+      "issue_date": "January 26, 2023",
+      "issue_date_iso": "2023-01-26",
+      "year": "2023"
+    },
+    "npc-bn-20-049-in-re-health-delivery-system-inc": {
+      "reference_label": "NPC BN 20-049",
+      "title": "NPC BN 20-049: In re: Health Delivery System, Inc.",
+      "short_title": "In re: Health Delivery System, Inc.",
+      "markdown_path": "content/resolutions/2021/npc-bn-20-049-in-re-health-delivery-system-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "03-25-2021-cid-v-pnp": {
+      "reference_label": "CID CDO 21-002",
+      "title": "CID CDO 21-002: CID v. PNP",
+      "short_title": "CID v. PNP",
+      "markdown_path": "content/resolutions/2021/03-25-2021-cid-v-pnp.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-183-in-re-sun-life-canada-phil-inc": {
+      "reference_label": "CID BN 18-183",
+      "title": "CID BN 18-183: In re: Sun Life of Canada (Philippines), Inc.",
+      "short_title": "In re: Sun Life of Canada (Philippines), Inc.",
+      "markdown_path": "content/resolutions/2021/npc-bn-18-183-in-re-sun-life-canada-phil-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "02-23-2021-mnlc-vs-pxxx-corporation": {
+      "reference_label": "NPC Case No. 19-528",
+      "title": "NPC Case No. 19-528: MNLC v. PXXX Corporation",
+      "short_title": "MNLC v. PXXX Corporation",
+      "markdown_path": "content/resolutions/2021/02-23-2021-mnlc-vs-pxxx-corporation.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-ss-19-910-in-re-fynamics-lending-inc-operating-pondopeso-online-lending-application": {
+      "reference_label": "NPC No. 19-910",
+      "title": "NPC No. 19-910: In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
+      "short_title": "In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
+      "markdown_path": "content/resolutions/2020/npc-ss-19-910-in-re-fynamics-lending-inc-operating-pondopeso-online-lending-application.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-20-124-in-re-e-science-corporation": {
+      "reference_label": "NPC BN 20-124",
+      "title": "NPC BN 20-124: In re: E-Science Corporation",
+      "short_title": "In re: E-Science Corporation",
+      "markdown_path": "content/resolutions/2020/npc-20-124-in-re-e-science-corporation.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-ss-19-910-in-re-fynamics-lending-inc-operating-pondopeso-online-lending-application-2": {
+      "reference_label": "NPC No. 19-910",
+      "title": "NPC No. 19-910: In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
+      "short_title": "In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
+      "markdown_path": "content/resolutions/2020/npc-ss-19-910-in-re-fynamics-lending-inc-operating-pondopeso-online-lending-application-2.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-ss-21-008-in-re-populus-lending-corporation-pesopop-and-its-responsible-officers": {
+      "reference_label": "NPC No. 19-910",
+      "title": "NPC No. 19-910: In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
+      "short_title": "In re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
+      "markdown_path": "content/resolutions/2019/npc-ss-21-008-in-re-populus-lending-corporation-pesopop-and-its-responsible-officers.md",
+      "preserve_existing_markdown": true
+    },
+    "08-09-2019-odc-vs-odb-ea": {
+      "reference_label": "NPC Case No. 17-001",
+      "title": "NPC Case No. 17-001: ODC v. ODB & AE",
+      "short_title": "ODC v. ODB & AE",
+      "markdown_path": "content/resolutions/2019/08-09-2019-odc-vs-odb-ea.md",
+      "preserve_existing_markdown": true
+    },
+    "cid-bn-17-036-previously-cid-bn-18-0174-in-re-2016-uber-data-breach": {
+      "reference_label": "CID BN No. 17-036",
+      "title": "CID BN No. 17-036: In re: 2016 Uber Data Breach",
+      "short_title": "In re: 2016 Uber Data Breach",
+      "markdown_path": "content/resolutions/2019/cid-bn-17-036-previously-cid-bn-18-0174-in-re-2016-uber-data-breach.md",
+      "preserve_existing_markdown": true
+    },
+    "07-25-2019-mfs-vs-rjj-and-sjj": {
+      "reference_label": "NPC Case No. 17-003",
+      "title": "NPC Case No. 17-003: MFS v. RJJ and SJJ",
+      "short_title": "MFS v. RJJ and SJJ",
+      "markdown_path": "content/resolutions/2019/07-25-2019-mfs-vs-rjj-and-sjj.md",
+      "preserve_existing_markdown": true
+    },
+    "cid-bn-17-034-in-re-breach-notification-report-of-philippine-national-bank-pnb": {
+      "reference_label": "NPC BN 17-034",
+      "title": "NPC BN 17-034: In re: Philippine National Bank",
+      "short_title": "In re: Philippine National Bank",
+      "markdown_path": "content/resolutions/2017/cid-bn-17-034-in-re-breach-notification-report-of-philippine-national-bank-pnb.md",
+      "preserve_existing_markdown": true,
+      "issue_date": "January 23, 2020",
+      "issue_date_iso": "2020-01-23",
+      "year": "2020"
+    },
+    "npc-bn-18-140-in-re-datascope-communications-philippines-inc": {
+      "reference_label": "NPC BN 18-140",
+      "title": "NPC BN 18-140: In re: Datascope Communications (Philippines), Inc.",
+      "short_title": "In re: Datascope Communications (Philippines), Inc.",
+      "markdown_path": "content/resolutions/2024/npc-bn-18-140-in-re-datascope-communications-philippines-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-021-in-re-asian-hospital-medical-center": {
+      "reference_label": "NPC BN 18-021",
+      "title": "NPC BN 18-021: In re: Asian Hospital and Medical Center",
+      "short_title": "In re: Asian Hospital and Medical Center",
+      "markdown_path": "content/resolutions/2023/npc-bn-18-021-in-re-asian-hospital-medical-center.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-202-in-re-coca-cola-femsa-philippines-inc": {
+      "reference_label": "NPC BN 18-202",
+      "title": "NPC BN 18-202: In re: Coca-Cola Femsa Philippines, Inc. (now Coca-Cola Beverages Philippines, Inc.)",
+      "short_title": "In re: Coca-Cola Femsa Philippines, Inc. (now Coca-Cola Beverages Philippines, Inc.)",
+      "markdown_path": "content/resolutions/2023/npc-bn-18-202-in-re-coca-cola-femsa-philippines-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-21-010-to-npc-21-015-mvc-et-al-v-dsl": {
+      "reference_label": "NPC 21-010 to NPC 21-015",
+      "title": "NPC 21-010 to NPC 21-015: MCV, et al. v. DSL",
+      "short_title": "MCV, et al. v. DSL",
+      "markdown_path": "content/resolutions/2022/npc-21-010-to-npc-21-015-mvc-et-al-v-dsl.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-ss-21-006-in-re-wefund-lending-corporation": {
+      "reference_label": "NPC SS 21-006",
+      "title": "NPC SS 21-006: In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers",
+      "short_title": "In re: Wefund Lending Corporation (JuanHand) and its Responsible Officers",
+      "markdown_path": "content/resolutions/2022/npc-ss-21-006-in-re-wefund-lending-corporation.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-21-078-in-re-bombardier-transportation-philippines-inc": {
+      "reference_label": "NPC BN 21-078",
+      "title": "NPC BN 21-078: In re: Bombardier Transportation (Shared Services) Philippines, Inc.",
+      "short_title": "In re: Bombardier Transportation (Shared Services) Philippines, Inc.",
+      "markdown_path": "content/resolutions/2021/npc-bn-21-078-in-re-bombardier-transportation-philippines-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-23-036-in-re-spouses-jg-and-ag-vs-spouses-ckp-and-cjc": {
+      "issue_date": "March 21, 2024",
+      "issue_date_iso": "2024-03-21",
+      "year": "2024",
+      "markdown_path": "content/resolutions/2024/npc-23-036-in-re-spouses-jg-and-ag-vs-spouses-ckp-and-cjc.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-20-026-jba-v-fnt-and-nnt": {
+      "issue_date": "February 22, 2023",
+      "issue_date_iso": "2023-02-22",
+      "year": "2023",
+      "markdown_path": "content/resolutions/2022/npc-20-026-jba-v-fnt-and-nnt.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-054-in-re-department-of-education-calamba": {
+      "issue_date": "September 17, 2024",
+      "issue_date_iso": "2024-09-17",
+      "year": "2024",
+      "markdown_path": "content/resolutions/2022/npc-bn-18-054-in-re-department-of-education-calamba.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-19-605-gmt-vs-fcash-global-lending-inc-fast-cash": {
+      "issue_date": "March 11, 2021",
+      "issue_date_iso": "2021-03-11",
+      "year": "2021",
+      "markdown_path": "content/resolutions/2021/npc-19-605-gmt-vs-fcash-global-lending-inc-fast-cash.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-18-038-fgp-vs-maersk-global-center-philippines-ltd": {
+      "issue_date": "February 23, 2021",
+      "issue_date_iso": "2021-02-23",
+      "year": "2021",
+      "markdown_path": "content/resolutions/2021/npc-18-038-fgp-vs-maersk-global-center-philippines-ltd.md",
+      "preserve_existing_markdown": true
+    },
+    "cid-17-k-004-cbi-vs-xxx": {
+      "issue_date": "December 17, 2020",
+      "issue_date_iso": "2020-12-17",
+      "year": "2020",
+      "markdown_path": "content/resolutions/2020/cid-17-k-004-cbi-vs-xxx.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-20-124-in-re-e-science-corporation-2": {
+      "issue_date": "December 17, 2020",
+      "issue_date_iso": "2020-12-17",
+      "year": "2020",
+      "markdown_path": "content/resolutions/2020/npc-bn-20-124-in-re-e-science-corporation-2.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-20-208-in-re-commission-on-elections-comelec": {
+      "issue_date": "November 26, 2020",
+      "issue_date_iso": "2020-11-26",
+      "year": "2020",
+      "markdown_path": "content/resolutions/2020/npc-bn-20-208-in-re-commission-on-elections-comelec.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-20-157-in-re-batangas-bay-carriers-inc": {
+      "issue_date": "December 17, 2020",
+      "issue_date_iso": "2020-12-17",
+      "year": "2020",
+      "markdown_path": "content/resolutions/2020/npc-bn-20-157-in-re-batangas-bay-carriers-inc.md",
+      "preserve_existing_markdown": true
+    },
+    "cid-bn-18-081-in-re-philippine-seven-corporation": {
+      "issue_date": "September 10, 2020",
+      "issue_date_iso": "2020-09-10",
+      "year": "2020",
+      "markdown_path": "content/resolutions/2020/cid-bn-18-081-in-re-philippine-seven-corporation.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-20-157-in-re-batangas-bay-carriers-inc-2": {
+      "issue_date": "September 21, 2020",
+      "issue_date_iso": "2020-09-21",
+      "year": "2020",
+      "markdown_path": "content/resolutions/2020/npc-bn-20-157-in-re-batangas-bay-carriers-inc-2.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-20-149-in-re-national-privacy-commission": {
+      "issue_date": "August 20, 2020",
+      "issue_date_iso": "2020-08-20",
+      "year": "2020",
+      "markdown_path": "content/resolutions/2020/npc-bn-20-149-in-re-national-privacy-commission.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-19-528-mnlc-vs-pxxx-corporation": {
+      "issue_date": "November 18, 2019",
+      "issue_date_iso": "2019-11-18",
+      "year": "2019",
+      "markdown_path": "content/resolutions/2019/npc-19-528-mnlc-vs-pxxx-corporation.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application": {
+      "issue_date": "April 28, 2022",
+      "issue_date_iso": "2022-04-28",
+      "year": "2022",
+      "markdown_path": "content/resolutions/2019/npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application.md",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-17-048-in-re-social-security-system": {
+      "issue_date": "January 21, 2021",
+      "issue_date_iso": "2021-01-21",
+      "year": "2021",
+      "markdown_path": "content/resolutions/2017/npc-bn-17-048-in-re-social-security-system.md",
       "preserve_existing_markdown": true
     }
   }

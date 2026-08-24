@@ -13,7 +13,7 @@ tags:
 - year/2020
 - topic/consent
 draft: false
-date: '2020-04-14'
+date: '2020-08-03'
 ---
 
 ## Issuance Text

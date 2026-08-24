@@ -1,35 +1,31 @@
 ---
-title: "Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response (Memorandum Circular No. 2020-0002)"
+title: "Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response (Joint Memorandum Circular No. 2020-0002)"
 description: "DOH-NPC joint memorandum circular setting privacy rules for the collection, processing, and disclosure of COVID-19-related data for disease surveillance and response, covering healthcare providers, national and local public health authorities, and DOH partner agencies. It limits processing to specified surveillance purposes, requires data sharing agreements and minimum security measures, and prohibits public disclosure of patients' personal health information without written consent."
 aliases:
-- Memorandum Circular No. 2020-0002
-- memorandum circular no. 2020-0002
-- npc memorandum circular no. 2020-0002
+- Joint Memorandum Circular No. 2020-0002
+- joint memorandum circular no. 2020-0002
+- DOH-NPC Joint Memorandum Circular No. 2020-0002
 - privacy guidelines on the processing and disclosure of covid-19 related data for
   disease surveillance and response
 tags:
 - issuance
 - topic/cctv-surveillance
-- type/memorandum-circular
+- type/joint-memorandum-circular
 - year/2020
 - topic/consent
 - topic/data-sharing
 - topic/security
 draft: false
-date: '2020-04-14'
+date: '2020-04-24'
 ---
 
 ## Issuance Text
 
-**Memorandum Circular No. 2020-0002**
+**JOINT MEMORANDUM CIRCULAR No. 2020-0002**
 
-DEPARTMENT OF HEALTH
+**DATE:** April 24, 2020
 
-April 24, 2020
-
-JOINT MEMORANDUM CIRCULAR No. 2020-0002
-
-SUBJECT: Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response
+**SUBJECT:** Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response
 
 I. BACKGROUND
 

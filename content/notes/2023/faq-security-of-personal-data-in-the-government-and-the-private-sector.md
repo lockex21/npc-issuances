@@ -24,7 +24,7 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|FAQ Security of Personal Data in the Government and the Private Sector]]
 - Raw source note: [[sources/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|Raw source text]]
-- Reference: Circular No. 2023-06
+- Reference: None detected
 - Type: FAQ
 - Year: 2023
 - Issued: Unknown
@@ -34,7 +34,7 @@ Write a concise summary and legal significance notes here.
 - Topic pages: [[topics/government|Government]], [[topics/security|Security]]
 
 ### Automatic References Out
-- None detected automatically.
+- [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
 
 ### Automatic Backlinks
 - No backlinks detected yet.

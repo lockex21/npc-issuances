@@ -18,7 +18,11 @@ date: '2023-11-07'
 
 ## Issuance Text
 
-**Advisory No. 2023-01**
+**NPC Advisory No. 2023 - 01**
+
+**DATE:** 07 November 2023
+
+**SUBJECT:** GUIDELINES ON DECEPTIVE DESIGN PATTERNS
 
 WHEREAS, [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 (g) of the Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]) provides that the National Privacy Commission (NPC) is empowered to publish, on a regular basis, a guide to all laws relating to data protection;
 

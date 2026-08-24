@@ -1,9 +1,9 @@
 ---
-title: "NPC BN 17-010: In re: Movie and Television Review and Classification Board"
+title: "CID BN NO. 17-010: In re: Movie and Television Review and Classification Board"
 description: "Order directing the Movie and Television Review and Classification Board to notify the 573 data subjects affected by a 2017 ransomware attack within fifteen days and submit proof of notification, after finding that MTRCB failed to comply with that directive from the Commission's January 2018 Compliance Order despite repeated requests."
 aliases:
-  - "NPC BN 17-010"
-  - "npc bn 17-010"
+  - "CID BN NO. 17-010"
+  - "cid bn no. 17-010"
   - "In re: Movie and Television Review and Classification Board"
   - "in re: movie and television review and classification board"
 tags:
@@ -18,7 +18,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC BN 17-010
+- Reference: CID BN NO. 17-010
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-17-010-2021.04.15-O.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: April 15, 2021

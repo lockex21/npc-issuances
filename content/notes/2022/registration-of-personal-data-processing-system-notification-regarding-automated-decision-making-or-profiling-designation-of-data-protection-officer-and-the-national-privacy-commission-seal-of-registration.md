@@ -27,15 +27,15 @@ Write a concise summary and legal significance notes here.
 - Reference: Circular No. 2022-04
 - Type: Circular
 - Year: 2022
-- Issued: Unknown
+- Issued: December 5, 2022
 - Pages: 16
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/Circular-2022-04-2.pdf
 - OCR used during extraction: no
 - Topic pages: [[topics/registration|Registration]]
 
 ### Automatic References Out
-- [[issuances/2022/annex-1|Annex 1]]
+- [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making]]
 
 ### Automatic Backlinks
-- No backlinks detected yet.
+- [[issuances/2022/annex-1|Annex 1]]
 <!-- END GENERATED RECORD -->

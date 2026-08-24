@@ -1,10 +1,10 @@
 ---
 aliases:
-- Advisory No. 2021
-- advisory no. 2021
+- Advisory No. 2021-03
+- advisory no. 2021-03
 - guidelines on the processing of personal data for election campaign or partisan
   political activity
-- npc advisory no. 2021
+- npc advisory no. 2021-03
 date: '2021-11-05'
 description: "Provides guidelines for the processing of personal data for election campaign or partisan political activity."
 draft: false
@@ -17,7 +17,7 @@ tags:
 - topic/consent
 - topic/data-subject-rights
 - topic/legitimate-interest
-title: "Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021)"
+title: "Guidelines on the Processing of Personal Data for Election Campaign or Partisan Political Activity (Advisory No. 2021-03)"
 ---
 
 

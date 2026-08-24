@@ -19,6 +19,10 @@ draft: false
 
 **NPC Circular 2023-02**
 
+**DATE:** 26 September 2023
+
+**SUBJECT:** Data Privacy Competency Program
+
 WHEREAS, [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA) mandates the National Privacy Commission (NPC) to administer and implement the provisions of the law, and implement plans and policies that strengthen the protection of personal data formulate in the country;
 
 WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] of the DPA (IRR) provides that the NPC shall develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;

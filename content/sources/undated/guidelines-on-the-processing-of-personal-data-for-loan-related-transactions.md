@@ -5,7 +5,7 @@ aliases:
   - "Guidelines on the Processing of Personal Data for Loan-Related Transactions Raw Source Text"
 tags:
   - "source-text"
-  - "year/undated"
+  - "year/2020"
 draft: false
 ---
 

@@ -24,7 +24,7 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program|FAQ Prerequisites for the Philippine Privacy Mark Certification Program]]
 - Raw source note: [[sources/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program|Raw source text]]
-- Reference: Circular No. 2023-05
+- Reference: None detected
 - Type: FAQ
 - Year: 2023
 - Issued: Unknown
@@ -34,7 +34,7 @@ Write a concise summary and legal significance notes here.
 - Topic pages: [[topics/training-certification|Training Certification]]
 
 ### Automatic References Out
-- None detected automatically.
+- [[issuances/undated/prerequisites-for-the-philippine-privacy-mark-certification-program|Prerequisites for the Philippine Privacy Mark Certification Program]]
 
 ### Automatic Backlinks
 - No backlinks detected yet.

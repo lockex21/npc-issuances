@@ -24,7 +24,7 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2021/data-subject-rights|Data Subject Rights]]
 - Raw source note: [[sources/2021/data-subject-rights|Raw source text]]
-- Reference: Advisory No. 2021
+- Reference: Advisory No. 2021-01
 - Type: Advisory
 - Year: 2021
 - Issued: January 29, 2021
@@ -34,8 +34,10 @@ Write a concise summary and legal significance notes here.
 - Topic pages: None yet
 
 ### Automatic References Out
-- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines On The Processing Of Personal Data For Election Campaign Or Partisan Political Activity]]
+- None detected automatically.
 
 ### Automatic Backlinks
-- No backlinks detected yet.
+- [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data]]
+- [[issuances/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras]]
+- [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines On The Processing Of Personal Data For Election Campaign Or Partisan Political Activity]]
 <!-- END GENERATED RECORD -->

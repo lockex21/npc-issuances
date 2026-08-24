@@ -27,14 +27,14 @@ Write a concise summary and legal significance notes here.
 - Reference: None detected
 - Type: FAQ
 - Year: 2023
-- Issued: December 28, 2023
+- Issued: Unknown
 - Pages: 15
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/01/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.pdf
 - OCR used during extraction: no
 - Topic pages: [[topics/legitimate-interest|Legitimate Interest]]
 
 ### Automatic References Out
-- None detected automatically.
+- [[issuances/2023/guidelines-on-legitimate-interest|Guidelines on Legitimate Interest]]
 
 ### Automatic Backlinks
 - No backlinks detected yet.

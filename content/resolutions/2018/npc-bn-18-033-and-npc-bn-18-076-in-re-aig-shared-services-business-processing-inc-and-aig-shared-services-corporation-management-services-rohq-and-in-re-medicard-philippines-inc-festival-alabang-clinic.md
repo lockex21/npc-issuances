@@ -22,14 +22,14 @@ aliases:
 - '"in re: aig shared services-business processing inc. and aig shared services corporation
   – management services (rohq), and in re: medicard philippines, inc. - festival alabang
   clinic"'
-date: '2018-08-07'
+date: "2023-08-02"
 ---
 
 ## Source
 - Reference: NPC BN 18-033 and NPC BN 18-076
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/02/NPC-BN-18-033-_-NPC-BN-18-076_2023.08.02_AIGSS-MS-ROHQ-_-Medicard_Resolution.pdf
 - Source page: http://privacy.gov.ph/resolutions/
-- Issue date: March 12, 2018
+- Issue date: August 2, 2023
 - Published on NPC site: Fri, 02 Feb 2024 06:06:40 GMT
 - Pages: 23
 

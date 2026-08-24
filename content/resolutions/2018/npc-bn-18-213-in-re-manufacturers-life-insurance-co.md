@@ -7,6 +7,7 @@ tags:
   - year/2023
   - npc-case
   - topic/breach-notification
+  - topic/security
 aliases:
   - "NPC BN 18-213"
   - "npc bn 18-213"

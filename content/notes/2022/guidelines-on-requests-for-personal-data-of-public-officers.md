@@ -27,7 +27,7 @@ Write a concise summary and legal significance notes here.
 - Reference: Advisory No. 2022-01
 - Type: Advisory
 - Year: 2022
-- Issued: Unknown
+- Issued: February 4, 2022
 - Pages: 8
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/08/NPC-Advisory-No.-2022-01-Request-for-Personal-Data-of-Public-Officers.pdf
 - OCR used during extraction: no

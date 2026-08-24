@@ -27,15 +27,15 @@ Write a concise summary and legal significance notes here.
 - Reference: Advisory No. 2020-03
 - Type: Advisory
 - Year: 2020
-- Issued: Unknown
+- Issued: October 23, 2020
 - Pages: 9
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/11/NPC-Advisory-No.-2020-03-FINAL.pdf
 - OCR used during extraction: no
 - Topic pages: None yet
 
 ### Automatic References Out
-- None detected automatically.
+- [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response]]
 
 ### Automatic Backlinks
-- No backlinks detected yet.
+- [[issuances/2020/amending-npc-advisory-no-2020-03-on-the-guidelines-for-workplaces-and-establishments-processing-personal-data-for-covid-19-response|Amending NPC Advisory No. 2020-03 on the Guidelines for Workplaces and Establishments Processing Personal Data for Covid-19 Response]]
 <!-- END GENERATED RECORD -->

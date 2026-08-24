@@ -115,6 +115,26 @@
       "ocr_used": false
     },
     {
+      "title": "NPC BN 18-203: In Re: The Hongkong and Shanghai Banking Corporation Limited (HSBC)",
+      "reference_label": "NPC BN 18-203",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2025/10/NPC-BN-18-203_02.08.2024_In-re-The-Hongkong-and-Shanghai-Bank-Corporation-Limited_Order-1.pdf",
+      "source_tags": [
+        "Sec 11. When Notification is required",
+        "Sec 18. Notification of Data Subjects",
+        "Sec 18(c). Content of Notification"
+      ],
+      "issue_date": "February 8, 2024",
+      "issue_date_iso": "2024-02-08",
+      "year": "2024",
+      "slug": "npc-bn-18-203-in-re-the-hongkong-and-shanghai-banking-corporation-limited-hsbc",
+      "pdf_path": "cache/orders/pdfs/npc-bn-18-203-02-08-2024-in-re-the-hongkong-and-shanghai-bank-corporation-limited-order-1-5ec2e27364.pdf",
+      "raw_text_path": "cache/orders/text_raw/npc-bn-18-203-02-08-2024-in-re-the-hongkong-and-shanghai-bank-corporation-limited-order-1-5ec2e27364.txt",
+      "text_path": "cache/orders/text/npc-bn-18-203-02-08-2024-in-re-the-hongkong-and-shanghai-bank-corporation-limited-order-1-5ec2e27364.txt",
+      "markdown_path": "content/orders/2022/npc-bn-18-203-in-re-the-hongkong-and-shanghai-banking-corporation-limited-hsbc.md",
+      "excerpt": "IN RE: THE HONGKONG AND NPC BN 18-203 SHANGHAI BANKING CORPORATION LIMITED (HSBC) x----------------------------------------------------x",
+      "ocr_used": false
+    },
+    {
       "title": "NPC CC 20-001: In Re: GRAB Philippines",
       "reference_label": "NPC CC 20-001",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2025/10/NPC-CC-20-001-01.08.2024-In-re-Grab-Philippines-Order-1.pdf",
@@ -130,6 +150,25 @@
       "text_path": "cache/orders/text/npc-cc-20-001-01-08-2024-in-re-grab-philippines-order-1-e2182f9f8e.txt",
       "markdown_path": "content/orders/2024/npc-cc-20-001-in-re-grab-philippines.md",
       "excerpt": "Before the Commission is Grab Philippines’ (Grab PH) Motion for Reconsideration (Motion) dated 18 December 20231 to the Order of the Commission dated 17 August 2023.2",
+      "ocr_used": false
+    },
+    {
+      "title": "NPC BN 23-239: In Re: Philippine Statistics Authority",
+      "reference_label": "NPC BN 23-239",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-23-239-11.13.2023_In-re-Philippine-Statistics-Authority_Order.pdf",
+      "source_tags": [
+        "Personal data breach management",
+        "Sec 18 (b) exemption of postponement of notification"
+      ],
+      "issue_date": "November 13, 2023",
+      "issue_date_iso": "2023-11-13",
+      "year": "2023",
+      "slug": "npc-bn-23-239-in-re-philippine-statistics-authority",
+      "pdf_path": "cache/orders/pdfs/npc-bn-23-239-11-13-2023-in-re-philippine-statistics-authority-order-38ffacf935.pdf",
+      "raw_text_path": "cache/orders/text_raw/npc-bn-23-239-11-13-2023-in-re-philippine-statistics-authority-order-38ffacf935.txt",
+      "text_path": "cache/orders/text/npc-bn-23-239-11-13-2023-in-re-philippine-statistics-authority-order-38ffacf935.txt",
+      "markdown_path": "content/orders/2023/npc-bn-23-239-in-re-philippine-statistics-authority.md",
+      "excerpt": "Before the Commission is the request for postponement and use of alternative means of notification filed by the Philippine Statistics Authority (PSA) through the Data Breach Notification Management System (DBNMS) dated 10 October 2023.1",
       "ocr_used": false
     },
     {
@@ -149,6 +188,24 @@
       "text_path": "cache/orders/text/npc-bn-23-179-11-13-2023-in-re-philippine-national-police-order-1-86a6c77fe3.txt",
       "markdown_path": "content/orders/2023/npc-bn-23-179-in-re-philippine-national-police.md",
       "excerpt": "Before the Commission is the Compliance of the Philippine National Police (PNP) dated 22 August 2023 in accordance with the Minute Resolution dated 14 August 2023.",
+      "ocr_used": false
+    },
+    {
+      "title": "NPC BN 18-239: In Re: Fintechnology, Inc. (FUNDKO)",
+      "reference_label": "NPC BN 18-239",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-18-239-2023.11.13_Order_NPC-BN-18-239_In-re-Fintechnology-Inc-FundKo.pdf",
+      "source_tags": [
+        "Personal Data Breach Management"
+      ],
+      "issue_date": "November 13, 2023",
+      "issue_date_iso": "2023-11-13",
+      "year": "2023",
+      "slug": "npc-bn-18-239-in-re-fintechnology-inc-fundko",
+      "pdf_path": "cache/orders/pdfs/npc-bn-18-239-2023-11-13-order-npc-bn-18-239-in-re-fintechnology-inc-fundko-d7fab6e29d.pdf",
+      "raw_text_path": "cache/orders/text_raw/npc-bn-18-239-2023-11-13-order-npc-bn-18-239-in-re-fintechnology-inc-fundko-d7fab6e29d.txt",
+      "text_path": "cache/orders/text/npc-bn-18-239-2023-11-13-order-npc-bn-18-239-in-re-fintechnology-inc-fundko-d7fab6e29d.txt",
+      "markdown_path": "content/orders/2022/npc-bn-18-239-in-re-fintechnology-inc-fundko.md",
+      "excerpt": "Before the Commission is the Post-Breach Report dated 13 July 2022 (Post-Breach Report) submitted by Fintechnology, Inc. (FundKo) in compliance with the Order dated 27 May 2022 (Order) of the Commission, through its Complaints and Investigation Division (CID).1",
       "ocr_used": false
     },
     {
@@ -176,41 +233,24 @@
       "ocr_used": false
     },
     {
-      "title": "NPC BN 18-061: In Re: Bureau Of Research and Standards – Department of Public Works and Highways (DPWH)",
-      "reference_label": "NPC BN 18-061",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-18-061-11.05.2023-In-re-DPWH_Order.pdf",
+      "title": "NPC BN 23-110: In Re: Philippine National Police",
+      "reference_label": "NPC BN 23-110",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-23-110_08.16.2023_In-re-Philippine-National-Police_Order.pdf",
       "source_tags": [
-        "Sec 18. Notification of data subjects",
-        "Sec 13. Determination of the need to notify"
+        "Sec 18 Notification of data subjects",
+        "Sec 11 When notification is require",
+        "Sec 3 (I) Sensitive personal information refers to personal information",
+        "Sec 13 Determination of the need to notify"
       ],
-      "issue_date": "November 5, 2023",
-      "issue_date_iso": "2023-11-05",
+      "issue_date": "August 16, 2023",
+      "issue_date_iso": "2023-08-16",
       "year": "2023",
-      "slug": "npc-bn-18-061-in-re-bureau-of-research-and-standards-department-of-public-works-and-highways-dpwh",
-      "pdf_path": "cache/orders/pdfs/npc-bn-18-061-11-05-2023-in-re-dpwh-order-29309fed92.pdf",
-      "raw_text_path": "cache/orders/text_raw/npc-bn-18-061-11-05-2023-in-re-dpwh-order-29309fed92.txt",
-      "text_path": "cache/orders/text/npc-bn-18-061-11-05-2023-in-re-dpwh-order-29309fed92.txt",
-      "markdown_path": "content/orders/2023/npc-bn-18-061-in-re-bureau-of-research-and-standards-department-of-public-works-and-highways-dpwh.md",
-      "excerpt": "IN RE: BUREAU OF RESEARCH AND STANDARDS – DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS (DPWH)",
-      "ocr_used": false
-    },
-    {
-      "title": "NPC BN 23-239: In Re: Philippine Statistics Authority",
-      "reference_label": "NPC BN 23-239",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-23-239-11.13.2023_In-re-Philippine-Statistics-Authority_Order.pdf",
-      "source_tags": [
-        "Personal data breach management",
-        "Sec 18 (b) exemption of postponement of notification"
-      ],
-      "issue_date": "October 10, 2023",
-      "issue_date_iso": "2023-10-10",
-      "year": "2023",
-      "slug": "npc-bn-23-239-in-re-philippine-statistics-authority",
-      "pdf_path": "cache/orders/pdfs/npc-bn-23-239-11-13-2023-in-re-philippine-statistics-authority-order-38ffacf935.pdf",
-      "raw_text_path": "cache/orders/text_raw/npc-bn-23-239-11-13-2023-in-re-philippine-statistics-authority-order-38ffacf935.txt",
-      "text_path": "cache/orders/text/npc-bn-23-239-11-13-2023-in-re-philippine-statistics-authority-order-38ffacf935.txt",
-      "markdown_path": "content/orders/2023/npc-bn-23-239-in-re-philippine-statistics-authority.md",
-      "excerpt": "Before the Commission is the request for postponement and use of alternative means of notification filed by the Philippine Statistics Authority (PSA) through the Data Breach Notification Management System (DBNMS) dated 10 October 2023.1",
+      "slug": "npc-bn-23-110-in-re-philippine-national-police",
+      "pdf_path": "cache/orders/pdfs/npc-bn-23-110-08-16-2023-in-re-philippine-national-police-order-e4272a8f86.pdf",
+      "raw_text_path": "cache/orders/text_raw/npc-bn-23-110-08-16-2023-in-re-philippine-national-police-order-e4272a8f86.txt",
+      "text_path": "cache/orders/text/npc-bn-23-110-08-16-2023-in-re-philippine-national-police-order-e4272a8f86.txt",
+      "markdown_path": "content/orders/2023/npc-bn-23-110-in-re-philippine-national-police.md",
+      "excerpt": "Before the Commission is Philippine National Police (PNP)’s request for alternative means of notification to the affected data subjects dated 26 April 2023 submitted through the Data Breach Notification Management System (DBNMS).",
       "ocr_used": false
     },
     {
@@ -230,6 +270,62 @@
       "text_path": "cache/orders/text/npc-bn-23-090-08-03-2023-in-re-asalus-corporation-order-7552c25caa.txt",
       "markdown_path": "content/orders/2023/npc-bn-23-090-in-re-asalus-corporation.md",
       "excerpt": "Before the Commission is Asalus Corporation’s (Asalus) request for postponement from the notification requirement to the affected data subject through the Data Breach Notification Management System (DBNMS) dated 29 March 2023.1",
+      "ocr_used": false
+    },
+    {
+      "title": "NPC BN 18-152: In Re: Lazada E-Services Philippines, Inc",
+      "reference_label": "NPC BN 18-152",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-18-152-08.02.2023_In-re-Lazada-Services-Philippines-Inc_Order.pdf",
+      "source_tags": [
+        "Sec 18 (a) when should notification be done",
+        "Sec 13 Determination of the need to notify"
+      ],
+      "issue_date": "August 2, 2023",
+      "issue_date_iso": "2023-08-02",
+      "year": "2023",
+      "slug": "npc-bn-18-152-in-re-lazada-e-services-philippines-inc",
+      "pdf_path": "cache/orders/pdfs/npc-bn-18-152-08-02-2023-in-re-lazada-services-philippines-inc-order-664f135f08.pdf",
+      "raw_text_path": "cache/orders/text_raw/npc-bn-18-152-08-02-2023-in-re-lazada-services-philippines-inc-order-664f135f08.txt",
+      "text_path": "cache/orders/text/npc-bn-18-152-08-02-2023-in-re-lazada-services-philippines-inc-order-664f135f08.txt",
+      "markdown_path": "content/orders/2022/npc-bn-18-152-in-re-lazada-e-services-philippines-inc.md",
+      "excerpt": "Before the Commission is the Compliance of Lazada E-Services Philippines, Inc. (Lazada) dated 25 February 2022 in accordance with the Order dated 03 February 2022.",
+      "ocr_used": false
+    },
+    {
+      "title": "NPC BN 23-102: In Re: IQOR Philippines, Inc.",
+      "reference_label": "NPC BN 23-102",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-23-102-07.04.2023_In-re-IQOR-Philippines-Inc_Order.pdf",
+      "source_tags": [
+        "Personal data breach management"
+      ],
+      "issue_date": "July 4, 2023",
+      "issue_date_iso": "2023-07-04",
+      "year": "2023",
+      "slug": "npc-bn-23-102-in-re-iqor-philippines-inc",
+      "pdf_path": "cache/orders/pdfs/npc-bn-23-102-07-04-2023-in-re-iqor-philippines-inc-order-a53b28a9e0.pdf",
+      "raw_text_path": "cache/orders/text_raw/npc-bn-23-102-07-04-2023-in-re-iqor-philippines-inc-order-a53b28a9e0.txt",
+      "text_path": "cache/orders/text/npc-bn-23-102-07-04-2023-in-re-iqor-philippines-inc-order-a53b28a9e0.txt",
+      "markdown_path": "content/orders/2023/npc-bn-23-102-in-re-iqor-philippines-inc.md",
+      "excerpt": "Before the Commission is IQOR Philippines Inc. (IQOR) request for alternative means of notification to the affected data subjects dated 11 April 2023 submitted through the Data Breach Notification Management System (DBNMS).",
+      "ocr_used": false
+    },
+    {
+      "title": "NPC BN 23-082: In Re: Department of Science and Technology-Regional Office V",
+      "reference_label": "NPC BN 23-082",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-23-082-07.04.2023_In-re-DOST-Regional-Office-V_Order.pdf",
+      "source_tags": [
+        "Sec 18 (b) exemption of postponement of notification",
+        "Sec 17 Notification of the commission"
+      ],
+      "issue_date": "July 4, 2023",
+      "issue_date_iso": "2023-07-04",
+      "year": "2023",
+      "slug": "npc-bn-23-082-in-re-department-of-science-and-technology-regional-office-v",
+      "pdf_path": "cache/orders/pdfs/npc-bn-23-082-07-04-2023-in-re-dost-regional-office-v-order-8f140956d5.pdf",
+      "raw_text_path": "cache/orders/text_raw/npc-bn-23-082-07-04-2023-in-re-dost-regional-office-v-order-8f140956d5.txt",
+      "text_path": "cache/orders/text/npc-bn-23-082-07-04-2023-in-re-dost-regional-office-v-order-8f140956d5.txt",
+      "markdown_path": "content/orders/2023/npc-bn-23-082-in-re-department-of-science-and-technology-regional-office-v.md",
+      "excerpt": "Before the Commission is the Department of Science and Technology- Regional Office V’s (DOST – Region V) request for exemption of notification to the affected data subjects dated 20 March 2023 submitted through the Data Breach Notification Management System (DBNMS).",
       "ocr_used": false
     },
     {
@@ -254,61 +350,22 @@
       "ocr_used": false
     },
     {
-      "title": "NPC BN 23-110: In Re: Philippine National Police",
-      "reference_label": "NPC BN 23-110",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-23-110_08.16.2023_In-re-Philippine-National-Police_Order.pdf",
+      "title": "NPC BN 18-061: In Re: Bureau Of Research and Standards – Department of Public Works and Highways (DPWH)",
+      "reference_label": "NPC BN 18-061",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-18-061-11.05.2023-In-re-DPWH_Order.pdf",
       "source_tags": [
-        "Sec 18 Notification of data subjects",
-        "Sec 11 When notification is require",
-        "Sec 3 (I) Sensitive personal information refers to personal information",
-        "Sec 13 Determination of the need to notify"
+        "Sec 18. Notification of data subjects",
+        "Sec 13. Determination of the need to notify"
       ],
-      "issue_date": "April 26, 2023",
-      "issue_date_iso": "2023-04-26",
+      "issue_date": "May 11, 2023",
+      "issue_date_iso": "2023-05-11",
       "year": "2023",
-      "slug": "npc-bn-23-110-in-re-philippine-national-police",
-      "pdf_path": "cache/orders/pdfs/npc-bn-23-110-08-16-2023-in-re-philippine-national-police-order-e4272a8f86.pdf",
-      "raw_text_path": "cache/orders/text_raw/npc-bn-23-110-08-16-2023-in-re-philippine-national-police-order-e4272a8f86.txt",
-      "text_path": "cache/orders/text/npc-bn-23-110-08-16-2023-in-re-philippine-national-police-order-e4272a8f86.txt",
-      "markdown_path": "content/orders/2023/npc-bn-23-110-in-re-philippine-national-police.md",
-      "excerpt": "Before the Commission is Philippine National Police (PNP)’s request for alternative means of notification to the affected data subjects dated 26 April 2023 submitted through the Data Breach Notification Management System (DBNMS).",
-      "ocr_used": false
-    },
-    {
-      "title": "NPC BN 23-102: In Re: IQOR Philippines, Inc.",
-      "reference_label": "NPC BN 23-102",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-23-102-07.04.2023_In-re-IQOR-Philippines-Inc_Order.pdf",
-      "source_tags": [
-        "Personal data breach management"
-      ],
-      "issue_date": "April 11, 2023",
-      "issue_date_iso": "2023-04-11",
-      "year": "2023",
-      "slug": "npc-bn-23-102-in-re-iqor-philippines-inc",
-      "pdf_path": "cache/orders/pdfs/npc-bn-23-102-07-04-2023-in-re-iqor-philippines-inc-order-a53b28a9e0.pdf",
-      "raw_text_path": "cache/orders/text_raw/npc-bn-23-102-07-04-2023-in-re-iqor-philippines-inc-order-a53b28a9e0.txt",
-      "text_path": "cache/orders/text/npc-bn-23-102-07-04-2023-in-re-iqor-philippines-inc-order-a53b28a9e0.txt",
-      "markdown_path": "content/orders/2023/npc-bn-23-102-in-re-iqor-philippines-inc.md",
-      "excerpt": "Before the Commission is IQOR Philippines Inc. (IQOR) request for alternative means of notification to the affected data subjects dated 11 April 2023 submitted through the Data Breach Notification Management System (DBNMS).",
-      "ocr_used": false
-    },
-    {
-      "title": "NPC BN 23-082: In Re: Department of Science and Technology-Regional Office V",
-      "reference_label": "NPC BN 23-082",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-23-082-07.04.2023_In-re-DOST-Regional-Office-V_Order.pdf",
-      "source_tags": [
-        "Sec 18 (b) exemption of postponement of notification",
-        "Sec 17 Notification of the commission"
-      ],
-      "issue_date": "March 20, 2023",
-      "issue_date_iso": "2023-03-20",
-      "year": "2023",
-      "slug": "npc-bn-23-082-in-re-department-of-science-and-technology-regional-office-v",
-      "pdf_path": "cache/orders/pdfs/npc-bn-23-082-07-04-2023-in-re-dost-regional-office-v-order-8f140956d5.pdf",
-      "raw_text_path": "cache/orders/text_raw/npc-bn-23-082-07-04-2023-in-re-dost-regional-office-v-order-8f140956d5.txt",
-      "text_path": "cache/orders/text/npc-bn-23-082-07-04-2023-in-re-dost-regional-office-v-order-8f140956d5.txt",
-      "markdown_path": "content/orders/2023/npc-bn-23-082-in-re-department-of-science-and-technology-regional-office-v.md",
-      "excerpt": "Before the Commission is the Department of Science and Technology- Regional Office V’s (DOST – Region V) request for exemption of notification to the affected data subjects dated 20 March 2023 submitted through the Data Breach Notification Management System (DBNMS).",
+      "slug": "npc-bn-18-061-in-re-bureau-of-research-and-standards-department-of-public-works-and-highways-dpwh",
+      "pdf_path": "cache/orders/pdfs/npc-bn-18-061-11-05-2023-in-re-dpwh-order-29309fed92.pdf",
+      "raw_text_path": "cache/orders/text_raw/npc-bn-18-061-11-05-2023-in-re-dpwh-order-29309fed92.txt",
+      "text_path": "cache/orders/text/npc-bn-18-061-11-05-2023-in-re-dpwh-order-29309fed92.txt",
+      "markdown_path": "content/orders/2023/npc-bn-18-061-in-re-bureau-of-research-and-standards-department-of-public-works-and-highways-dpwh.md",
+      "excerpt": "IN RE: BUREAU OF RESEARCH AND STANDARDS – DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS (DPWH)",
       "ocr_used": false
     },
     {
@@ -371,6 +428,25 @@
       "ocr_used": false
     },
     {
+      "title": "NPC BN 18-002: In Re: SMART Communications, Inc. – SM MOA Branch",
+      "reference_label": "NPC BN 18-002",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-18-002-In-re-Smart-Communications-Inc.-SM-MOA-Branch_Order.pdf",
+      "source_tags": [
+        "Sec 17 (c). When delay is prohibited",
+        "Sec 17 (d) Content of Notification"
+      ],
+      "issue_date": "March 16, 2023",
+      "issue_date_iso": "2023-03-16",
+      "year": "2023",
+      "slug": "npc-bn-18-002-in-re-smart-communications-inc-sm-moa-branch",
+      "pdf_path": "cache/orders/pdfs/npc-bn-18-002-in-re-smart-communications-inc-sm-moa-branch-order-101d1a667e.pdf",
+      "raw_text_path": "cache/orders/text_raw/npc-bn-18-002-in-re-smart-communications-inc-sm-moa-branch-order-101d1a667e.txt",
+      "text_path": "cache/orders/text/npc-bn-18-002-in-re-smart-communications-inc-sm-moa-branch-order-101d1a667e.txt",
+      "markdown_path": "content/orders/2018/npc-bn-18-002-in-re-smart-communications-inc-sm-moa-branch.md",
+      "excerpt": "Before the Commission is the Breach Notification of Smart Communications, Inc. (Smart) dated 05 January 2018.",
+      "ocr_used": false
+    },
+    {
       "title": "NPC BN 22-185: In Re: Philippine Veterans Bank",
       "reference_label": "NPC BN 22-185",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/07/NPC-BN-22-185-01.26.2023-In-re-Philippine-Veterans-Bank.pdf",
@@ -411,8 +487,8 @@
       "ocr_used": false
     },
     {
-      "title": "NPC BN 20-001: In Re: Grab Philippines",
-      "reference_label": "NPC BN 20-001",
+      "title": "NPC CC 20-001: In re: Grab Philippines",
+      "reference_label": "NPC CC 20-001",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/07/NPC-CC-20-001-01.19.2023-In-re-Grab-Philippines_Order.pdf",
       "source_tags": [
         "General Data Privacy Principles",
@@ -486,26 +562,8 @@
       "ocr_used": false
     },
     {
-      "title": "NPC BN 17-010: In Re: Movie and Television Review and Classification Board",
-      "reference_label": "NPC BN 17-010",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-17-010-2022.07.14-O.pdf",
-      "source_tags": [
-        "Breach Notification and Notification of Data Subjects"
-      ],
-      "issue_date": "July 14, 2022",
-      "issue_date_iso": "2022-07-14",
-      "year": "2022",
-      "slug": "npc-bn-17-010-in-re-movie-and-television-review-and-classification-board",
-      "pdf_path": "cache/orders/pdfs/npc-bn-17-010-2022-07-14-o-f122fb72bd.pdf",
-      "raw_text_path": "cache/orders/text_raw/npc-bn-17-010-2022-07-14-o-f122fb72bd.txt",
-      "text_path": "cache/orders/text/npc-bn-17-010-2022-07-14-o-f122fb72bd.txt",
-      "markdown_path": "content/orders/2022/npc-bn-17-010-in-re-movie-and-television-review-and-classification-board.md",
-      "excerpt": "IN RE: MOVIE AND TELEVISION NPC BN 17-010 REVIEW AND CLASSIFICATION BOARD (Note: No “Case No” or x----------------------------------------------------x “No”. Just NPC Case type (BN/SS) Year- #.) ORDER",
-      "ocr_used": false
-    },
-    {
-      "title": "NPC 19-001: In re: Department of Foreign Affairs (DFA) - Passport Breach",
-      "reference_label": "NPC 19-001",
+      "title": "NPC SS 19-001: In re: Department of Foreign Affairs (Passport Breach Resolution)",
+      "reference_label": "NPC SS 19-001",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-SS-19-001-2022.07.14-Department-of-Foreign-Affairs-DFA-Passport-Breach-Resolution-Final-1.pdf",
       "source_tags": [
         "Security of ersonal Information",
@@ -523,41 +581,21 @@
       "ocr_used": false
     },
     {
-      "title": "NPC BN 18-239: In Re: Fintechnology, Inc. (FUNDKO)",
-      "reference_label": "NPC BN 18-239",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-18-239-2023.11.13_Order_NPC-BN-18-239_In-re-Fintechnology-Inc-FundKo.pdf",
+      "title": "NPC BN 17-010: In Re: Movie and Television Review and Classification Board",
+      "reference_label": "NPC BN 17-010",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-17-010-2022.07.14-O.pdf",
       "source_tags": [
-        "Personal Data Breach Management"
+        "Breach Notification and Notification of Data Subjects"
       ],
-      "issue_date": "July 13, 2022",
-      "issue_date_iso": "2022-07-13",
+      "issue_date": "July 14, 2022",
+      "issue_date_iso": "2022-07-14",
       "year": "2022",
-      "slug": "npc-bn-18-239-in-re-fintechnology-inc-fundko",
-      "pdf_path": "cache/orders/pdfs/npc-bn-18-239-2023-11-13-order-npc-bn-18-239-in-re-fintechnology-inc-fundko-d7fab6e29d.pdf",
-      "raw_text_path": "cache/orders/text_raw/npc-bn-18-239-2023-11-13-order-npc-bn-18-239-in-re-fintechnology-inc-fundko-d7fab6e29d.txt",
-      "text_path": "cache/orders/text/npc-bn-18-239-2023-11-13-order-npc-bn-18-239-in-re-fintechnology-inc-fundko-d7fab6e29d.txt",
-      "markdown_path": "content/orders/2022/npc-bn-18-239-in-re-fintechnology-inc-fundko.md",
-      "excerpt": "Before the Commission is the Post-Breach Report dated 13 July 2022 (Post-Breach Report) submitted by Fintechnology, Inc. (FundKo) in compliance with the Order dated 27 May 2022 (Order) of the Commission, through its Complaints and Investigation Division (CID).1",
-      "ocr_used": false
-    },
-    {
-      "title": "NPC BN 18-203: In Re: The Hongkong and Shanghai Banking Corporation Limited (HSBC)",
-      "reference_label": "NPC BN 18-203",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2025/10/NPC-BN-18-203_02.08.2024_In-re-The-Hongkong-and-Shanghai-Bank-Corporation-Limited_Order-1.pdf",
-      "source_tags": [
-        "Sec 11. When Notification is required",
-        "Sec 18. Notification of Data Subjects",
-        "Sec 18(c). Content of Notification"
-      ],
-      "issue_date": "May 10, 2022",
-      "issue_date_iso": "2022-05-10",
-      "year": "2022",
-      "slug": "npc-bn-18-203-in-re-the-hongkong-and-shanghai-banking-corporation-limited-hsbc",
-      "pdf_path": "cache/orders/pdfs/npc-bn-18-203-02-08-2024-in-re-the-hongkong-and-shanghai-bank-corporation-limited-order-1-5ec2e27364.pdf",
-      "raw_text_path": "cache/orders/text_raw/npc-bn-18-203-02-08-2024-in-re-the-hongkong-and-shanghai-bank-corporation-limited-order-1-5ec2e27364.txt",
-      "text_path": "cache/orders/text/npc-bn-18-203-02-08-2024-in-re-the-hongkong-and-shanghai-bank-corporation-limited-order-1-5ec2e27364.txt",
-      "markdown_path": "content/orders/2022/npc-bn-18-203-in-re-the-hongkong-and-shanghai-banking-corporation-limited-hsbc.md",
-      "excerpt": "IN RE: THE HONGKONG AND NPC BN 18-203 SHANGHAI BANKING CORPORATION LIMITED (HSBC) x----------------------------------------------------x",
+      "slug": "npc-bn-17-010-in-re-movie-and-television-review-and-classification-board",
+      "pdf_path": "cache/orders/pdfs/npc-bn-17-010-2022-07-14-o-f122fb72bd.pdf",
+      "raw_text_path": "cache/orders/text_raw/npc-bn-17-010-2022-07-14-o-f122fb72bd.txt",
+      "text_path": "cache/orders/text/npc-bn-17-010-2022-07-14-o-f122fb72bd.txt",
+      "markdown_path": "content/orders/2022/npc-bn-17-010-in-re-movie-and-television-review-and-classification-board.md",
+      "excerpt": "IN RE: MOVIE AND TELEVISION NPC BN 17-010 REVIEW AND CLASSIFICATION BOARD (Note: No “Case No” or x----------------------------------------------------x “No”. Just NPC Case type (BN/SS) Year- #.) ORDER",
       "ocr_used": false
     },
     {
@@ -597,25 +635,6 @@
       "text_path": "cache/orders/text/npc-ss-21-008-2022-03-31-o-bd00aff2bb.txt",
       "markdown_path": "content/orders/2022/npc-ss-21-008-in-re-populus-lending-corporation-pesopop-and-its-responsible-officers-3.md",
       "excerpt": "IN RE: POPULUS LENDING CORPORATION (PESOPOP) AND ITS RESPONSIBLE OFFICERS INITIATED AS A SUA SPONTE NPC For: Violation of Data INVESTIGATION INTO THE Privacy Act of 2012 POSSIBLE DATA PRIVACY VIOLATIONS COMMITTED BY POPULUS LENDING CORPORATION (PESOPOP) x...",
-      "ocr_used": false
-    },
-    {
-      "title": "NPC BN 18-152: In Re: Lazada E-Services Philippines, Inc",
-      "reference_label": "NPC BN 18-152",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-18-152-08.02.2023_In-re-Lazada-Services-Philippines-Inc_Order.pdf",
-      "source_tags": [
-        "Sec 18 (a) when should notification be done",
-        "Sec 13 Determination of the need to notify"
-      ],
-      "issue_date": "February 25, 2022",
-      "issue_date_iso": "2022-02-25",
-      "year": "2022",
-      "slug": "npc-bn-18-152-in-re-lazada-e-services-philippines-inc",
-      "pdf_path": "cache/orders/pdfs/npc-bn-18-152-08-02-2023-in-re-lazada-services-philippines-inc-order-664f135f08.pdf",
-      "raw_text_path": "cache/orders/text_raw/npc-bn-18-152-08-02-2023-in-re-lazada-services-philippines-inc-order-664f135f08.txt",
-      "text_path": "cache/orders/text/npc-bn-18-152-08-02-2023-in-re-lazada-services-philippines-inc-order-664f135f08.txt",
-      "markdown_path": "content/orders/2022/npc-bn-18-152-in-re-lazada-e-services-philippines-inc.md",
-      "excerpt": "Before the Commission is the Compliance of Lazada E-Services Philippines, Inc. (Lazada) dated 25 February 2022 in accordance with the Order dated 03 February 2022.",
       "ocr_used": false
     },
     {
@@ -715,9 +734,9 @@
         "Personal Data Breach Management",
         "Notification to the Commission"
       ],
-      "issue_date": "December 29, 2021",
-      "issue_date_iso": "2021-12-29",
-      "year": "2021",
+      "issue_date": "January 13, 2022",
+      "issue_date_iso": "2022-01-13",
+      "year": "2022",
       "slug": "npc-bn-21-192-in-re-medicard-philippines-inc",
       "pdf_path": "cache/orders/pdfs/npc-bn-21-192-2022-01-13-in-re-medicard-philippines-inc-c1e7339bf1.pdf",
       "raw_text_path": "cache/orders/text_raw/npc-bn-21-192-2022-01-13-in-re-medicard-philippines-inc-c1e7339bf1.txt",
@@ -834,8 +853,8 @@
       "ocr_used": false
     },
     {
-      "title": "06-16-2021: IN RE: PILIPINAS2022.PH Initiated As A Sua Sponte NPC Investigation Into The Possible Data Privacy Violations Committed By Pilipinas2022.ph",
-      "reference_label": "06-16-2021",
+      "title": "CID-CDO-21-003: In re: PiliPinas2022.ph",
+      "reference_label": "CID-CDO-21-003",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/CID-CDO-21-003-In-re-PiliPinas2022.ph-Pseudo-28June2021.pdf",
       "source_tags": [
         "Filing of Application for CDO",
@@ -843,8 +862,8 @@
         "sua sponte",
         "the grounds to be established by the applicant for the Commission to issue a CDO"
       ],
-      "issue_date": "June 11, 2021",
-      "issue_date_iso": "2021-06-11",
+      "issue_date": "June 16, 2021",
+      "issue_date_iso": "2021-06-16",
       "year": "2021",
       "slug": "06-16-2021-in-re-pilipinas2022-ph-initiated-as-a-sua-sponte-npc-investigation-into-the-possible-data-privacy-violations-committed-by-pilipinas2022-ph",
       "pdf_path": "cache/orders/pdfs/cid-cdo-21-003-in-re-pilipinas2022-ph-pseudo-28june2021-86d3d70b73.pdf",
@@ -852,6 +871,26 @@
       "text_path": "cache/orders/text/cid-cdo-21-003-in-re-pilipinas2022-ph-pseudo-28june2021-86d3d70b73.txt",
       "markdown_path": "content/orders/2021/06-16-2021-in-re-pilipinas2022-ph-initiated-as-a-sua-sponte-npc-investigation-into-the-possible-data-privacy-violations-committed-by-pilipinas2022-ph.md",
       "excerpt": "For: Violation of Data Privacy INITIATED AS A SUA SPONTE NPC Act of 2012 INVESTIGATION INTO THE POSSIBLE DATA PRIVACY VIOLATIONS COMMITTED BY PILIPINAS2022.PH x---------------------------------------------------------x",
+      "ocr_used": false
+    },
+    {
+      "title": "NPC BN NO. 21-054: In re: BPI Philam Life Assurance Corporation",
+      "reference_label": "NPC BN NO. 21-054",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Order-NPC-BN-21-054-In-re-BPLAC.pdf",
+      "source_tags": [
+        "Breach Notification",
+        "Notification of Data Subjects",
+        "Request for Extension"
+      ],
+      "issue_date": "April 15, 2021",
+      "issue_date_iso": "2021-04-15",
+      "year": "2021",
+      "slug": "npc-bn-no-21-054-in-re-bpi-philam-life-assurance-corporation",
+      "pdf_path": "cache/orders/pdfs/order-npc-bn-21-054-in-re-bplac-099a49056e.pdf",
+      "raw_text_path": "cache/orders/text_raw/order-npc-bn-21-054-in-re-bplac-099a49056e.txt",
+      "text_path": "cache/orders/text/order-npc-bn-21-054-in-re-bplac-099a49056e.txt",
+      "markdown_path": "content/orders/2021/npc-bn-no-21-054-in-re-bpi-philam-life-assurance-corporation.md",
+      "excerpt": "IN RE: BPI PHILAM LIFE NPC BN NO. 21-054 ASSURANCE CORPORATION -----x---------------------------------------x",
       "ocr_used": false
     },
     {
@@ -874,8 +913,8 @@
       "ocr_used": false
     },
     {
-      "title": "NPC BN 17-010: In Re: Movie and Television Review and Classification Board",
-      "reference_label": "NPC BN 17-010",
+      "title": "CID BN NO. 17-010: In re: Movie and Television Review and Classification Board",
+      "reference_label": "CID BN NO. 17-010",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-BN-17-010-2021.04.15-O.pdf",
       "source_tags": [
         "Breach Notification"
@@ -911,28 +950,8 @@
       "ocr_used": false
     },
     {
-      "title": "NPC BN NO. 21-054: In re: BPI Philam Life Assurance Corporation",
-      "reference_label": "NPC BN NO. 21-054",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Order-NPC-BN-21-054-In-re-BPLAC.pdf",
-      "source_tags": [
-        "Breach Notification",
-        "Notification of Data Subjects",
-        "Request for Extension"
-      ],
-      "issue_date": "March 26, 2021",
-      "issue_date_iso": "2021-03-26",
-      "year": "2021",
-      "slug": "npc-bn-no-21-054-in-re-bpi-philam-life-assurance-corporation",
-      "pdf_path": "cache/orders/pdfs/order-npc-bn-21-054-in-re-bplac-099a49056e.pdf",
-      "raw_text_path": "cache/orders/text_raw/order-npc-bn-21-054-in-re-bplac-099a49056e.txt",
-      "text_path": "cache/orders/text/order-npc-bn-21-054-in-re-bplac-099a49056e.txt",
-      "markdown_path": "content/orders/2021/npc-bn-no-21-054-in-re-bpi-philam-life-assurance-corporation.md",
-      "excerpt": "IN RE: BPI PHILAM LIFE NPC BN NO. 21-054 ASSURANCE CORPORATION -----x---------------------------------------x",
-      "ocr_used": false
-    },
-    {
-      "title": "NPC BN 18-198: In Re: Cathay Pacific Airways Limited",
-      "reference_label": "NPC BN 18-198",
+      "title": "NPC BN NO. 18-198: In re: Cathay Pacific Airways Limited",
+      "reference_label": "NPC BN NO. 18-198",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/08/NPC-BN-18-198-2021.03.18-In-re-Cathay-Order.pdf",
       "source_tags": [
         "Proof of Notification of Data Subjects"
@@ -949,8 +968,8 @@
       "ocr_used": false
     },
     {
-      "title": "NPC BN 18-179: In re: ABS-CBN Corporation",
-      "reference_label": "NPC BN 18-179",
+      "title": "NPC BN NO. 18-179: In re: ABS-CBN Corporation",
+      "reference_label": "NPC BN NO. 18-179",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-18-179-2021.03.11-In-re-ABS-CBN-Order-FinalP.pdf",
       "source_tags": [
         "Mandatory Breach Notification",
@@ -969,8 +988,24 @@
       "ocr_used": false
     },
     {
-      "title": "NPC 16-004: CBP v. Orani Water District",
-      "reference_label": "NPC 16-004",
+      "title": "2020-12-17: In re: Lisensya.Info (CDO Extension)",
+      "reference_label": "2020-12-17",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/In-Re-Lisensya.Info-Order-Re-Extension-of-Cease-And-Desist-Order-12-17-20-Pseudonymized-29Dec20-ADJU1.pdf",
+      "source_tags": [],
+      "issue_date": "December 17, 2020",
+      "issue_date_iso": "2020-12-17",
+      "year": "2020",
+      "slug": "12-17-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info",
+      "pdf_path": "cache/orders/pdfs/in-re-lisensya-info-order-re-extension-of-cease-and-desist-order-12-17-20-pseudonymized-29dec20-adju1-bfe6c74bdd.pdf",
+      "raw_text_path": "cache/orders/text_raw/in-re-lisensya-info-order-re-extension-of-cease-and-desist-order-12-17-20-pseudonymized-29dec20-adju1-bfe6c74bdd.txt",
+      "text_path": "cache/orders/text/in-re-lisensya-info-order-re-extension-of-cease-and-desist-order-12-17-20-pseudonymized-29dec20-adju1-bfe6c74bdd.txt",
+      "markdown_path": "content/orders/2020/12-17-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info.md",
+      "excerpt": "For: Violation of the Initiated as an Independent NPC Data Privacy Act of Investigation into the Possible 2012 Data Privacy Violations Committed by the website LISENSYA.INFO. -----x--------------------------------------------x",
+      "ocr_used": false
+    },
+    {
+      "title": "NPC Case No. 16-004: CBP v. Orani Water District",
+      "reference_label": "NPC Case No. 16-004",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-16-004-2020.11.19-CBP-v.-Orani-Water-District-Order-FinalP.pdf",
       "source_tags": [
         "Personal Information Controller",
@@ -1012,24 +1047,24 @@
       "ocr_used": false
     },
     {
-      "title": "12-17-2020: IN RE: LISENSYA.INFO Initiated as an Independent NPC Investigation into the Possible Data Privacy Violations Committed by the website LISENSYA.INFO.",
-      "reference_label": "12-17-2020",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/In-Re-Lisensya.Info-Order-Re-Extension-of-Cease-And-Desist-Order-12-17-20-Pseudonymized-29Dec20-ADJU1.pdf",
+      "title": "2020-11-12: In re: Lisensya.Info (Cease and Desist Order)",
+      "reference_label": "2020-11-12",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Cease-And-Desist-Order-Re-In-Re-Lisensya.Info-11-12-20-Pseudonymized-17Dec20-ADJU1.pdf",
       "source_tags": [],
       "issue_date": "November 12, 2020",
       "issue_date_iso": "2020-11-12",
       "year": "2020",
-      "slug": "12-17-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info",
-      "pdf_path": "cache/orders/pdfs/in-re-lisensya-info-order-re-extension-of-cease-and-desist-order-12-17-20-pseudonymized-29dec20-adju1-bfe6c74bdd.pdf",
-      "raw_text_path": "cache/orders/text_raw/in-re-lisensya-info-order-re-extension-of-cease-and-desist-order-12-17-20-pseudonymized-29dec20-adju1-bfe6c74bdd.txt",
-      "text_path": "cache/orders/text/in-re-lisensya-info-order-re-extension-of-cease-and-desist-order-12-17-20-pseudonymized-29dec20-adju1-bfe6c74bdd.txt",
-      "markdown_path": "content/orders/2020/12-17-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info.md",
-      "excerpt": "For: Violation of the Initiated as an Independent NPC Data Privacy Act of Investigation into the Possible 2012 Data Privacy Violations Committed by the website LISENSYA.INFO. -----x--------------------------------------------x",
+      "slug": "11-12-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info",
+      "pdf_path": "cache/orders/pdfs/cease-and-desist-order-re-in-re-lisensya-info-11-12-20-pseudonymized-17dec20-adju1-b8fce8aa31.pdf",
+      "raw_text_path": "cache/orders/text_raw/cease-and-desist-order-re-in-re-lisensya-info-11-12-20-pseudonymized-17dec20-adju1-b8fce8aa31.txt",
+      "text_path": "cache/orders/text/cease-and-desist-order-re-in-re-lisensya-info-11-12-20-pseudonymized-17dec20-adju1-b8fce8aa31.txt",
+      "markdown_path": "content/orders/2020/11-12-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info.md",
+      "excerpt": "For: Violation of the Initiated as an Independent NPC Data Privacy Act) of Investigation into the Possible 2012 Data Privacy Violations Committed by the website LISENSYA.INFO. -----x--------------------------------------------x",
       "ocr_used": false
     },
     {
-      "title": "NPC 18-130: BOA v HXXX",
-      "reference_label": "NPC 18-130",
+      "title": "NPC Case No. 18-130: BOA v. HSBC Philippines",
+      "reference_label": "NPC Case No. 18-130",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/06/NPC-18-130-2020.11.05-BOA-v.-HSBC-Order-FinalP.pdf",
       "source_tags": [
         "Electronic Evidence"
@@ -1046,19 +1081,23 @@
       "ocr_used": false
     },
     {
-      "title": "11-12-2020: IN RE: LISENSYA.INFO Initiated as an Independent NPC Investigation into the Possible Data Privacy Violations Committed by the website LISENSYA.INFO.",
-      "reference_label": "11-12-2020",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/Cease-And-Desist-Order-Re-In-Re-Lisensya.Info-11-12-20-Pseudonymized-17Dec20-ADJU1.pdf",
-      "source_tags": [],
-      "issue_date": "November 5, 2020",
-      "issue_date_iso": "2020-11-05",
+      "title": "NPC SS 20-001: IN RE: FAMILYHAN CREDIT CORPORATION Initiated as an Independent NPC Investigation into the Possible Data Privacy Violations Committed by Familyhan Credit Corporation",
+      "reference_label": "NPC SS 20-001",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-SS-20-01_Familyhan-Credit-Corporation-Order.pdf",
+      "source_tags": [
+        "Sua Sponte Investigation",
+        "Cease and Desist Order",
+        "Concealment of Security Breaches Involving Sensitive Personal Information (Section 30)"
+      ],
+      "issue_date": "October 15, 2020",
+      "issue_date_iso": "2020-10-15",
       "year": "2020",
-      "slug": "11-12-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info",
-      "pdf_path": "cache/orders/pdfs/cease-and-desist-order-re-in-re-lisensya-info-11-12-20-pseudonymized-17dec20-adju1-b8fce8aa31.pdf",
-      "raw_text_path": "cache/orders/text_raw/cease-and-desist-order-re-in-re-lisensya-info-11-12-20-pseudonymized-17dec20-adju1-b8fce8aa31.txt",
-      "text_path": "cache/orders/text/cease-and-desist-order-re-in-re-lisensya-info-11-12-20-pseudonymized-17dec20-adju1-b8fce8aa31.txt",
-      "markdown_path": "content/orders/2020/11-12-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info.md",
-      "excerpt": "For: Violation of the Initiated as an Independent NPC Data Privacy Act) of Investigation into the Possible 2012 Data Privacy Violations Committed by the website LISENSYA.INFO. -----x--------------------------------------------x",
+      "slug": "npc-ss-20-001-in-re-familyhan-credit-corporation-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-familyhan-credit-corporation",
+      "pdf_path": "cache/orders/pdfs/npc-ss-20-01-familyhan-credit-corporation-order-c94e4ad72f.pdf",
+      "raw_text_path": "cache/orders/text_raw/npc-ss-20-01-familyhan-credit-corporation-order-c94e4ad72f.txt",
+      "text_path": "cache/orders/text/npc-ss-20-01-familyhan-credit-corporation-order-c94e4ad72f.txt",
+      "markdown_path": "content/orders/2020/npc-ss-20-001-in-re-familyhan-credit-corporation-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-familyhan-credit-corporation.md",
+      "excerpt": "IN RE: FAMILYHAN CREDIT NPC SS 20-001 CORPORATION For: Violation of the Data Privacy Act (DPA) Initiated as an Independent NPC of 2012 Investigation into the Possible Data Privacy Violations Committed by Familyhan Credit Corporation -----x...",
       "ocr_used": false
     },
     {
@@ -1098,33 +1137,14 @@
       "ocr_used": false
     },
     {
-      "title": "CID BN 19- 034: In Re: Rokko & Associates, Inc.",
-      "reference_label": "CID BN 19- 034",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/CID-BN-19-034-In-re-ROKKO-Associates-Inc-Order-2020.09.22.pdf",
-      "source_tags": [
-        "Content of the Data Breach Notification Report",
-        "notification to the Commission"
-      ],
-      "issue_date": "September 22, 2020",
-      "issue_date_iso": "2020-09-22",
-      "year": "2020",
-      "slug": "cid-bn-19-034-in-re-rokko-associates-inc",
-      "pdf_path": "cache/orders/pdfs/cid-bn-19-034-in-re-rokko-associates-inc-order-2020-09-22-4f22736b5e.pdf",
-      "raw_text_path": "cache/orders/text_raw/cid-bn-19-034-in-re-rokko-associates-inc-order-2020-09-22-4f22736b5e.txt",
-      "text_path": "cache/orders/text/cid-bn-19-034-in-re-rokko-associates-inc-order-2020-09-22-4f22736b5e.txt",
-      "markdown_path": "content/orders/2020/cid-bn-19-034-in-re-rokko-associates-inc.md",
-      "excerpt": "IN RE: ROKKO & ASSOCIATES, INC. CID BN 19-034 x---------------------------------------x",
-      "ocr_used": false
-    },
-    {
       "title": "NPC BN 20-044: In Re: RITM",
       "reference_label": "NPC BN 20-044",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-BN-20-044-In-re-Research-Institute-Order-2020.09.20.pdf",
       "source_tags": [
         "Data Breach Response Team"
       ],
-      "issue_date": "September 20, 2020",
-      "issue_date_iso": "2020-09-20",
+      "issue_date": "September 21, 2020",
+      "issue_date_iso": "2020-09-21",
       "year": "2020",
       "slug": "npc-bn-20-044-in-re-ritm",
       "pdf_path": "cache/orders/pdfs/npc-bn-20-044-in-re-research-institute-order-2020-09-20-90da681de1.pdf",
@@ -1132,6 +1152,25 @@
       "text_path": "cache/orders/text/npc-bn-20-044-in-re-research-institute-order-2020-09-20-90da681de1.txt",
       "markdown_path": "content/orders/2020/npc-bn-20-044-in-re-ritm.md",
       "excerpt": "On 22 March 2020, a list from the Research Institute for Tropical Medicine (RITM) that contained the personal information of at least nine (9) persons under investigation (PUI) for COVID-19 circulated on Twitter and Facebook. The source tracing conducted by RITM found possible...",
+      "ocr_used": false
+    },
+    {
+      "title": "CID BN 19-034: In re: Rokko and Associates, Inc.",
+      "reference_label": "CID BN 19-034",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/CID-BN-19-034-In-re-ROKKO-Associates-Inc-Order-2020.09.22.pdf",
+      "source_tags": [
+        "Content of the Data Breach Notification Report",
+        "notification to the Commission"
+      ],
+      "issue_date": "September 21, 2020",
+      "issue_date_iso": "2020-09-21",
+      "year": "2020",
+      "slug": "cid-bn-19-034-in-re-rokko-associates-inc",
+      "pdf_path": "cache/orders/pdfs/cid-bn-19-034-in-re-rokko-associates-inc-order-2020-09-22-4f22736b5e.pdf",
+      "raw_text_path": "cache/orders/text_raw/cid-bn-19-034-in-re-rokko-associates-inc-order-2020-09-22-4f22736b5e.txt",
+      "text_path": "cache/orders/text/cid-bn-19-034-in-re-rokko-associates-inc-order-2020-09-22-4f22736b5e.txt",
+      "markdown_path": "content/orders/2020/cid-bn-19-034-in-re-rokko-associates-inc.md",
+      "excerpt": "IN RE: ROKKO & ASSOCIATES, INC. CID BN 19-034 x---------------------------------------x",
       "ocr_used": false
     },
     {
@@ -1193,8 +1232,8 @@
       "ocr_used": false
     },
     {
-      "title": "CID BN 17-005: In Re: Breach Notification Report of Rosewood Hotel Group",
-      "reference_label": "CID BN 17-005",
+      "title": "CID BN No. 17-005: In re: Breach Notification Report of Rosewood Hotel Group",
+      "reference_label": "CID BN No. 17-005",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-17-005-2020.07.02-In-Re-BN-Report-of-Rosewood-Hotel-Group-Order.pdf",
       "source_tags": [
         "Compliance",
@@ -1212,8 +1251,27 @@
       "ocr_used": false
     },
     {
-      "title": "NPC BN 19-097: In Re: Manufacturer's Life Insurance Co. (Phils), Inc.",
-      "reference_label": "NPC BN 19-097",
+      "title": "CID BN No. 17-043: In re: Vulnerability Assessment of Jollibeedelivery.com (Closure Order)",
+      "reference_label": "CID BN No. 17-043",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-17-043-2020.06.18-In-Re-jollibeedelivery.com-Order.pdf",
+      "source_tags": [
+        "Compliance",
+        "Monthly Progress Reports/div>"
+      ],
+      "issue_date": "June 18, 2020",
+      "issue_date_iso": "2020-06-18",
+      "year": "2020",
+      "slug": "cid-bn-17-043-in-re-jollibeedelivery-vulnerability-assessment",
+      "pdf_path": "cache/orders/pdfs/cid-bn-17-043-2020-06-18-in-re-jollibeedelivery-com-order-ee3f5dfa20.pdf",
+      "raw_text_path": "cache/orders/text_raw/cid-bn-17-043-2020-06-18-in-re-jollibeedelivery-com-order-ee3f5dfa20.txt",
+      "text_path": "cache/orders/text/cid-bn-17-043-2020-06-18-in-re-jollibeedelivery-com-order-ee3f5dfa20.txt",
+      "markdown_path": "content/orders/2020/cid-bn-17-043-in-re-jollibeedelivery-vulnerability-assessment.md",
+      "excerpt": "On 05 November 2019, the Commission issued an Order with the following dispositive portion:",
+      "ocr_used": false
+    },
+    {
+      "title": "CID BN 19-097: In re: The Manufacturers Life Insurance Co. (Phils), Inc.",
+      "reference_label": "CID BN 19-097",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-19-097-2020.06.18-In-Re-Manufacturers-Life-Insurance-Co.-Phils-Inc.-Order.pdf",
       "source_tags": [
         "Compliance",
@@ -1232,55 +1290,36 @@
       "ocr_used": false
     },
     {
-      "title": "CID BN 17-043: In Re: Jollibeedelivery (Vulnerability Assessment)",
-      "reference_label": "CID BN 17-043",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-17-043-2020.06.18-In-Re-jollibeedelivery.com-Order.pdf",
+      "title": "CID Case No. 18-D-012: JBD v. JI and VVV",
+      "reference_label": "CID Case No. 18-D-012",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/CID-18-D-012-JBD-v.-JI-and-VVV-Pseudonymized-16Dec2020-ADJ1-.pdf",
       "source_tags": [
-        "Compliance",
-        "Monthly Progress Reports/div>"
+        "Exhaustion of Remedies",
+        "Unauthorized Processing (Section 25)",
+        "Submission of Additional Information"
       ],
-      "issue_date": "June 18, 2020",
-      "issue_date_iso": "2020-06-18",
+      "issue_date": "May 21, 2020",
+      "issue_date_iso": "2020-05-21",
       "year": "2020",
-      "slug": "cid-bn-17-043-in-re-jollibeedelivery-vulnerability-assessment",
-      "pdf_path": "cache/orders/pdfs/cid-bn-17-043-2020-06-18-in-re-jollibeedelivery-com-order-ee3f5dfa20.pdf",
-      "raw_text_path": "cache/orders/text_raw/cid-bn-17-043-2020-06-18-in-re-jollibeedelivery-com-order-ee3f5dfa20.txt",
-      "text_path": "cache/orders/text/cid-bn-17-043-2020-06-18-in-re-jollibeedelivery-com-order-ee3f5dfa20.txt",
-      "markdown_path": "content/orders/2020/cid-bn-17-043-in-re-jollibeedelivery-vulnerability-assessment.md",
-      "excerpt": "On 05 November 2019, the Commission issued an Order with the following dispositive portion:",
+      "slug": "cid-18-d-012-jbd-vs-ji-and-vvv",
+      "pdf_path": "cache/orders/pdfs/cid-18-d-012-jbd-v-ji-and-vvv-pseudonymized-16dec2020-adj1-d641fadd0b.pdf",
+      "raw_text_path": "cache/orders/text_raw/cid-18-d-012-jbd-v-ji-and-vvv-pseudonymized-16dec2020-adj1-d641fadd0b.txt",
+      "text_path": "cache/orders/text/cid-18-d-012-jbd-v-ji-and-vvv-pseudonymized-16dec2020-adj1-d641fadd0b.txt",
+      "markdown_path": "content/orders/2018/cid-18-d-012-jbd-vs-ji-and-vvv.md",
+      "excerpt": "Before this Commission is a Complaint filed by Complainant JBD against the respondents JI and VVV for an alleged violation of R.A. 10173 (“Data Privacy Act”).",
       "ocr_used": false
     },
     {
-      "title": "NPC SS 20-001: IN RE: FAMILYHAN CREDIT CORPORATION Initiated as an Independent NPC Investigation into the Possible Data Privacy Violations Committed by Familyhan Credit Corporation",
-      "reference_label": "NPC SS 20-001",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-SS-20-01_Familyhan-Credit-Corporation-Order.pdf",
-      "source_tags": [
-        "Sua Sponte Investigation",
-        "Cease and Desist Order",
-        "Concealment of Security Breaches Involving Sensitive Personal Information (Section 30)"
-      ],
-      "issue_date": "June 16, 2020",
-      "issue_date_iso": "2020-06-16",
-      "year": "2020",
-      "slug": "npc-ss-20-001-in-re-familyhan-credit-corporation-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-familyhan-credit-corporation",
-      "pdf_path": "cache/orders/pdfs/npc-ss-20-01-familyhan-credit-corporation-order-c94e4ad72f.pdf",
-      "raw_text_path": "cache/orders/text_raw/npc-ss-20-01-familyhan-credit-corporation-order-c94e4ad72f.txt",
-      "text_path": "cache/orders/text/npc-ss-20-01-familyhan-credit-corporation-order-c94e4ad72f.txt",
-      "markdown_path": "content/orders/2020/npc-ss-20-001-in-re-familyhan-credit-corporation-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-familyhan-credit-corporation.md",
-      "excerpt": "IN RE: FAMILYHAN CREDIT NPC SS 20-001 CORPORATION For: Violation of the Data Privacy Act (DPA) Initiated as an Independent NPC of 2012 Investigation into the Possible Data Privacy Violations Committed by Familyhan Credit Corporation -----x...",
-      "ocr_used": false
-    },
-    {
-      "title": "02-03-2020: In Re: GRAB PH SELFIE VERIFICATION AND IN-VEHICLE AUDIO AND VIDEO RECORDINIG CEASE AND DESIST",
-      "reference_label": "02-03-2020",
+      "title": "NPC CC 20-001: In re: Grab Philippines' Roll-Out of Passenger Selfie Verification; Pilot Test of In-Vehicle Audio Recording; and Pilot Test of In-Vehicle Video Recording",
+      "reference_label": "NPC CC 20-001",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/In-re-Grab-PH-Selfie-Verification-and-In-vehicle-Audio-and-Video-Recordinig-Cease-and-Desist-Sgd.pdf",
       "source_tags": [
         "![Image 2](http://privacy.gov.ph/wp-content/uploads/2017/03/Coat_of_arms_of_the_Philippines.png) ###### REPUBLIC OF THE PHILIPPINES All content is in the public domain unless otherwise stated. ###### ABOUT GOVPH Learn more about the Philippine government",
         "its structure",
         "how government works and the officials behind it. [GOV.PH](http://www.gov.ph/) [Open Data Portal](http://www.gov.ph/data) [Official Gazette](http://www.officialgazette.gov.ph/) ###### GOVERNMENT LINKS [Department of Information and Communications Technology](https://dict.gov.ph/) [Office of the President](http://president.gov.ph/) [Office of the Vice President](http://ovp.gov.ph/) [Senate of the Philippines](http://www.senate.gov.ph/) [House of Representatives](http://www.congress.gov.ph/) [Supreme Court](http://sc.judiciary.gov.ph/) [Court of Appeals](http://ca.judiciary.gov.ph/) [Sandiganbayan](http://sb.judiciary.gov.ph/) ###### [**NPC PRIVACY NOTICE**](http://privacy.gov.ph/npc-privacy-policy/) [CONTACT US](http://privacy.gov.ph/contactus/) info@privacy.gov.ph [![Image 3](http://privacy.gov.ph/wp-content/uploads/2022/02/facebook.png)](https://www.facebook.com/privacy.gov.ph/) [![Image 4](http://privacy.gov.ph/wp-content/uploads/2022/02/twiiter.png)](https://twitter.com/PrivacyPH) [![Image 5](http://privacy.gov.ph/wp-content/uploads/2022/02/instagram.png)](https://www.instagram.com/privacy.gov.ph/?hl=en) ![Image 6](https://pixel.wp.com/g.gif?v=ext&blog=216417308&post=14461&tz=8&srv=privacy.gov.ph&j=1%3A15.6&host=privacy.gov.ph&ref=&fcp=236&rand=0.46824882671936185)"
       ],
-      "issue_date": "January 15, 2020",
-      "issue_date_iso": "2020-01-15",
+      "issue_date": "February 3, 2020",
+      "issue_date_iso": "2020-02-03",
       "year": "2020",
       "slug": "02-03-2020-in-re-grab-ph-selfie-verification-and-in-vehicle-audio-and-video-recordinig-cease-and-desist",
       "pdf_path": "cache/orders/pdfs/in-re-grab-ph-selfie-verification-and-in-vehicle-audio-and-video-recordinig-cease-and-desist-sgd-3a75c3b2e4.pdf",
@@ -1291,8 +1330,8 @@
       "ocr_used": false
     },
     {
-      "title": "NPC SS 19-910: In Re: Fynamics Lending Inc. Operating PondoPeso Online Lending Application",
-      "reference_label": "NPC SS 19-910",
+      "title": "NPC No. 19-910: In re: Fynamics Lending, Inc. Operating PondoPeso",
+      "reference_label": "NPC No. 19-910",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/09/NPC-19-910-2020.01.08-In-re-Fynamics-Lending-Inc.-Operating-PondoPeso-Online-Lending-Application-Order.pdf",
       "source_tags": [
         "Responsible Oficers",
@@ -1310,8 +1349,8 @@
       "ocr_used": false
     },
     {
-      "title": "CID BN 17-046 and 17-047: In Re: Breach Notification Report of Sprout Solutions, Inc. Affecting Marie France Group of Companies",
-      "reference_label": "CID BN 17-046 and 17-047",
+      "title": "CID BN No. 17-46 and 17-47: In re: Breach Notification Report of Sprout Solutions, Inc. Affecting Marie France Group of Companies",
+      "reference_label": "CID BN No. 17-46 and 17-47",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-17-046-_-CID-BN-17-047-2019.10.28-In-re-Sprout-Solutions-Inc-Order.pdf",
       "source_tags": [
         "Compliance",
@@ -1329,8 +1368,8 @@
       "ocr_used": false
     },
     {
-      "title": "CID BN 17-041: In Re: Breach Notification Report of AXA Philippines involving Juice and Wrapped Ideas, Inc.",
-      "reference_label": "CID BN 17-041",
+      "title": "CID BN No. 17-041: In re: Breach Notification Report of AXA Philippines Involving Juice and Wrapped Ideas, Inc. (Closure Order)",
+      "reference_label": "CID BN No. 17-041",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/09/CID-BN-17-041-2019.10.24-In-re-Breach-Notification-Report-of-AXA-Philippines-involving-Juice-and-Wrapped-Ideas-Inc.-Order.pdf",
       "source_tags": [
         "Compliance"
@@ -1347,8 +1386,8 @@
       "ocr_used": false
     },
     {
-      "title": "CID BN 17-041: In Re: AXA Life, Juice Wrapped Ideas, Inc.",
-      "reference_label": "CID BN 17-041",
+      "title": "CID BN No. 17-041: In re: Breach Notification Report of AXA Philippines Involving Juice and Wrapped Ideas, Inc.",
+      "reference_label": "CID BN No. 17-041",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-17-041-2019.08.20-In-re-AXA-Life-Juice-Wrapped-Ideas-Inc-Order.pdf",
       "source_tags": [
         "Compliance",
@@ -1366,8 +1405,8 @@
       "ocr_used": false
     },
     {
-      "title": "CID BN 17-043: In Re: Vulnerability Assessment of Jollibeedelivery.com",
-      "reference_label": "CID BN 17-043",
+      "title": "CID BN No. 17-043: In re: Vulnerability Assessment of Jollibeedelivery.com",
+      "reference_label": "CID BN No. 17-043",
       "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/09/CID-BN-17-043-2019.08.06-In-re-Vulnerability-Assessment-of-Jollibeedelivery.com-Order.pdf",
       "source_tags": [
         "Compliance",
@@ -1382,45 +1421,6 @@
       "text_path": "cache/orders/text/cid-bn-17-043-2019-08-06-in-re-vulnerability-assessment-of-jollibeedelivery-com-order-568255f813.txt",
       "markdown_path": "content/orders/2019/cid-bn-17-043-in-re-vulnerability-assessment-of-jollibeedelivery-com.md",
       "excerpt": "On 05 November 2019, the Commission issued an Order with the following dispositive portion:",
-      "ocr_used": false
-    },
-    {
-      "title": "CID 18-D-012: JBD vs. JI and VVV",
-      "reference_label": "CID 18-D-012",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2023/05/CID-18-D-012-JBD-v.-JI-and-VVV-Pseudonymized-16Dec2020-ADJ1-.pdf",
-      "source_tags": [
-        "Exhaustion of Remedies",
-        "Unauthorized Processing (Section 25)",
-        "Submission of Additional Information"
-      ],
-      "issue_date": "July 12, 2018",
-      "issue_date_iso": "2018-07-12",
-      "year": "2018",
-      "slug": "cid-18-d-012-jbd-vs-ji-and-vvv",
-      "pdf_path": "cache/orders/pdfs/cid-18-d-012-jbd-v-ji-and-vvv-pseudonymized-16dec2020-adj1-d641fadd0b.pdf",
-      "raw_text_path": "cache/orders/text_raw/cid-18-d-012-jbd-v-ji-and-vvv-pseudonymized-16dec2020-adj1-d641fadd0b.txt",
-      "text_path": "cache/orders/text/cid-18-d-012-jbd-v-ji-and-vvv-pseudonymized-16dec2020-adj1-d641fadd0b.txt",
-      "markdown_path": "content/orders/2018/cid-18-d-012-jbd-vs-ji-and-vvv.md",
-      "excerpt": "Before this Commission is a Complaint filed by Complainant JBD against the respondents JI and VVV for an alleged violation of R.A. 10173 (“Data Privacy Act”).",
-      "ocr_used": false
-    },
-    {
-      "title": "NPC BN 18-002: In Re: SMART Communications, Inc. – SM MOA Branch",
-      "reference_label": "NPC BN 18-002",
-      "source_url": "http://privacy.gov.ph/wp-content/uploads/2024/12/NPC-BN-18-002-In-re-Smart-Communications-Inc.-SM-MOA-Branch_Order.pdf",
-      "source_tags": [
-        "Sec 17 (c). When delay is prohibited",
-        "Sec 17 (d) Content of Notification"
-      ],
-      "issue_date": "January 5, 2018",
-      "issue_date_iso": "2018-01-05",
-      "year": "2018",
-      "slug": "npc-bn-18-002-in-re-smart-communications-inc-sm-moa-branch",
-      "pdf_path": "cache/orders/pdfs/npc-bn-18-002-in-re-smart-communications-inc-sm-moa-branch-order-101d1a667e.pdf",
-      "raw_text_path": "cache/orders/text_raw/npc-bn-18-002-in-re-smart-communications-inc-sm-moa-branch-order-101d1a667e.txt",
-      "text_path": "cache/orders/text/npc-bn-18-002-in-re-smart-communications-inc-sm-moa-branch-order-101d1a667e.txt",
-      "markdown_path": "content/orders/2018/npc-bn-18-002-in-re-smart-communications-inc-sm-moa-branch.md",
-      "excerpt": "Before the Commission is the Breach Notification of Smart Communications, Inc. (Smart) dated 05 January 2018.",
       "ocr_used": false
     }
   ]

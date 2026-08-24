@@ -11,10 +11,11 @@ Auto-generated topic cluster for **Government**, covering the full corpus of law
 - [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (Republic Act No. 10173)]]
 
 ## Issuances
+- [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure of the NPC, as Amended (Current Version)]]
 - [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission (Circular No. 2024-01)]]
 - [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector (NPC Circular No. 2023-06)]]
-- [[issuances/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|FAQ Security of Personal Data in the Government and the Private Sector (Circular No. 2023-06)]]
 - [[issuances/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Schedule of Fees and Charges of the National Privacy Commission (Circular No. 2023-01)]]
+- [[issuances/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|Frequently Asked Questions (FAQs) on NPC Circular No. 2023-06: Security of Personal Data in the Government and the Private Sector]]
 - [[issuances/2022/guidelines-on-requests-for-personal-data-of-public-officers|Guidelines on Requests for Personal Data of Public Officers (Advisory No. 2022-01)]]
 - [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures (Circular No. 2021-02)]]
 - [[issuances/2020/data-sharing-agreements|Data Sharing Agreements (Circular No. 2020-03)]]
@@ -22,9 +23,9 @@ Auto-generated topic cluster for **Government**, covering the full corpus of law
 - [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making (Circular No. 17-01)]]
 - [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|Access to Personal Data Sheets of Government Personnel (Advisory No. 2017-02)]]
 - [[issuances/2017/designation-of-data-protection-officers|Designation of Data Protection Officers (Advisory No. 2017-01)]]
-- [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies (Circular No. 16-02)]]
-- [[issuances/undated/rules-of-procedure|Rules of Procedure (Circular No. 16-04)]]
+- [[issuances/undated/rules-of-procedure|Rules of Procedure of the National Privacy Commission (Circular No. 16-04)]]
 - [[issuances/undated/security-of-personal-data-in-government-agencies|Security of Personal Data in Government Agencies (Circular No. 16-01)]]
+- [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies (Circular No. 16-02)]]
 - [[issuances/undated/public-advisory-on-online-lending-platforms-olps|Public Advisory on Online Lending Platforms (OLPs)]]
 
 ## Advisory Opinions
@@ -74,6 +75,7 @@ Auto-generated topic cluster for **Government**, covering the full corpus of law
 - [[advisory-opinions/2018/advisory-opinion-no-2018-025-npc-advisory-opinion-no-2018-025|NPC Advisory Opinion No. 2018-025 — Request for Information From Law Enforcement Agencies]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-008-npc-advisory-opinion-no-2018-008|NPC Advisory Opinion No. 2018-008 — Submission of Employee Names and Salary for Community Tax Certificate]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-002-npc-advisory-opinion-no-2018-002|NPC Advisory Opinion No. 2018-002 — Commission on Audit Request for Access to Bangko Sentral ng Pilipinas Employees’ Directory]]
+- [[advisory-opinions/2017/advisory-opinion-no-2017-054-npc-advisoryopinionno-2017-054 2|“NPC Advisory Opinion No. 2017-054 — Data Sharing Agreement Between Government Agencies”]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-065-npc-advisory-opinion-no-2017-065|NPC Advisory Opinion No. 2017-065 — Child Online Protection and Government Access to Suspect's Media Accounts and E-mail]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-060-npc-advisoryopinionno-2017-060|NPC Advisory Opinion No. 2017-060 — Nature of Professional Information]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-056-npc-advisoryopinionno-2017-056|NPC Advisory Opinion No. 2017-056 — Disclosure of Government Employee Data to Law Enforcement Agencies]]

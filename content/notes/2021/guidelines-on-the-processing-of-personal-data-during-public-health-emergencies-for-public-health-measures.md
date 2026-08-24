@@ -27,14 +27,16 @@ Write a concise summary and legal significance notes here.
 - Reference: Circular No. 2021-02
 - Type: Circular
 - Year: 2021
-- Issued: Unknown
+- Issued: November 8, 2021
 - Pages: 14
 - Official source: https://privacy.gov.ph/wp-content/uploads/2021/11/Circular-on-Processing-for-Public-Health-Emergencies-FINAL.pdf
 - OCR used during extraction: no
 - Topic pages: None yet
 
 ### Automatic References Out
-- [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems]]
+- [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]]
+- [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response]]
+- [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making]]
 
 ### Automatic Backlinks
 - No backlinks detected yet.

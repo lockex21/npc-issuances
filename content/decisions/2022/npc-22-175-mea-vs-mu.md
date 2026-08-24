@@ -20,7 +20,7 @@ draft: false
 - Reference: NPC 22-175
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2026/01/NPC-22-17502.08.2024-MEA-vs-MU_Decision-1.pdf
 - Source page: http://privacy.gov.ph/decisions-2/
-- Issue date: August 10, 2022
+- Issue date: February 8, 2024
 - Published on NPC site: Mon, 12 Jan 2026 02:55:23 GMT
 - Pages: 16
 

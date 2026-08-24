@@ -1,9 +1,9 @@
 ---
-title: "CID BN 17-036: In re: 2016 Uber Data Breach"
+title: "CID BN No. 17-036: In re: 2016 Uber Data Breach"
 description: "Breach notification resolution finding that Uber Technologies, Inc. need not provide further notification to affected data subjects because the data has not been located and there is no immediate harm to the data subjects."
 aliases:
-  - "CID BN 17-036"
-  - "cid bn 17-036"
+  - "CID BN No. 17-036"
+  - "cid bn no. 17-036"
   - "In re: 2016 Uber Data Breach"
   - "in re: 2016 uber data breach"
 tags:
@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## Source
-- Reference: CID BN 17-036
+- Reference: CID BN No. 17-036
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-17-036-2019.07.31-In-Re-Uber-Data-Breach-2016-Resolution.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: July 31, 2019

@@ -11,7 +11,7 @@ tags:
 - type/advisory
 - year/2020
 draft: false
-date: '2020-10-06'
+date: '2020-06-18'
 ---
 
 ## Issuance Text

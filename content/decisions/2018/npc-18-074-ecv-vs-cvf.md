@@ -20,7 +20,7 @@ draft: false
 - Reference: NPC 18-074
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-18-074_ECV-v.-CVF_Decision_17-March-2022.pdf
 - Source page: http://privacy.gov.ph/decisions-2/
-- Issue date: July 23, 2018
+- Issue date: March 17, 2022
 - Published on NPC site: Wed, 24 May 2023 04:32:38 GMT
 - Pages: 16
 

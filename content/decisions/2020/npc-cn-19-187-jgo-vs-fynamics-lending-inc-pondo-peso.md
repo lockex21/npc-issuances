@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC CN 19-187
+- Reference: NPC 19-187
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-19-187_JGO-vs-Fynamics-Lending_Decision_18-June-2020.pdf
 - Source page: http://privacy.gov.ph/decisions-2/
 - Issue date: June 18, 2020

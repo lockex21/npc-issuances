@@ -1,9 +1,9 @@
 ---
-title: "NPC 19-528: MNLC v. PXXX Corporation"
+title: "NPC Case No. 19-528: MNLC v. PXXX Corporation"
 description: "Resolution denying respondents' motion for reconsideration in NPC 19-528 and affirming the decision finding violations of the Data Privacy Act."
 aliases:
-  - "NPC 19-528"
-  - "npc 19-528"
+  - "NPC Case No. 19-528"
+  - "npc case no. 19-528"
   - "MNLC v. PXXX Corporation"
   - "mnlc v. pxxx corporation"
 tags:
@@ -19,7 +19,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC 19-528
+- Reference: NPC Case No. 19-528
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/Resolution-02.23.2021-NPC-19-528-MNLC-vs-PXXX-Corporation.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: February 23, 2021

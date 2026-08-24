@@ -245,7 +245,7 @@ Section 6- Posting of Bond on Imposed Administrative Fines
 
 Section 7- Refusal to Comply
 
-19. Section 7 of the DPA and Section 4 of [[issuances/1988/faqs|NPC Circular No. 20-02]] on the Rules on the  
+19. Section 7 of the DPA and Section 4 of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]] on the Rules on the<br>
     Issuance of Cease-and-Desist Orders (CDO) identify the specific parameters within  
     which to issue a CDO. Refusal to pay is not a ground for the issuance of a CDO. How  
     can the foregoing provision be reconciled with Section 7 of the Circular on  
@@ -253,7 +253,7 @@ Section 7- Refusal to Comply
 
       As worded, Section 7 of the Circular used the word "may" which highlights the  
    Commission’s discretion to issue a CDO depending on the circumstances of each case. The  
-   Commission’s power to issue a CDO is rooted in the DPA. Following this, [[issuances/1988/faqs|NPC Circular No. 20-02]] provides for an initial list of the grounds for the issuance of a CDO. The  
+   Commission’s power to issue a CDO is rooted in the DPA. Following this, [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]] provides for an initial list of the grounds for the issuance of a CDO. The<br>
    Commission, through this Circular, provides an additional ground for the issuance of a  
    CDO.
 

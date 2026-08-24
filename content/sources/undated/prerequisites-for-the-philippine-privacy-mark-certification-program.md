@@ -5,7 +5,7 @@ aliases:
   - "Prerequisites for the Philippine Privacy Mark Certification Program Raw Source Text"
 tags:
   - "source-text"
-  - "year/undated"
+  - "year/2023"
 draft: false
 ---
 

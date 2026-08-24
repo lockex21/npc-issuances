@@ -13,12 +13,12 @@ tags:
   - "npc-case"
   - "topic/data-subject-rights"
   - "topic/security"
-date: "2017-09-01"
+date: "2017-07-09"
 draft: false
 ---
 
 ## Source
-- Reference: None listed on source page
+- Reference: CID 17-K-004
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/CID-17-K-004-IBC-v-PBI-Decision-Pseudonymized-7Aug2020-ABJ1.pdf
 - Source page: http://privacy.gov.ph/decisions-2/
 - Issue date: July 9, 2017

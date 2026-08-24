@@ -1,5 +1,5 @@
 ---
-title: "NPC BN 18-220 and NPC BN 18-231: In re: Department of Trade and Industry"
+title: "NPC BN 18-220 and NPC BN 18-231: In re: Department of Trade and Industry and Department of Trade and Industry – Rizal Provincial Office"
 description: "Breach notification resolution concerning the Department of Trade and Industry - Rizal Provincial Office for a robbery incident resulting in the loss of laptops and storage devices, finding proper breach management and security measures in place."
 tags:
   - resolution
@@ -10,12 +10,10 @@ tags:
   - topic/cctv-surveillance
   - topic/security
 aliases:
-  - "NPC BN 18-220"
-  - "npc bn 18-220"
-  - "NPC BN 18-231"
-  - "npc bn 18-231"
-  - "In re: Department of Trade and Industry"
-  - "in re: department of trade and industry"
+  - "NPC BN 18-220 and NPC BN 18-231"
+  - "npc bn 18-220 and npc bn 18-231"
+  - "In re: Department of Trade and Industry and Department of Trade and Industry – Rizal Provincial Office"
+  - "in re: department of trade and industry and department of trade and industry – rizal provincial office"
 date: "2023-06-30"
 draft: false
 ---

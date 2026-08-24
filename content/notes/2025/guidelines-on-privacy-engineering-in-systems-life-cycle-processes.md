@@ -27,7 +27,7 @@ Write a concise summary and legal significance notes here.
 - Reference: Advisory No. 2025-02
 - Type: Advisory
 - Year: 2025
-- Issued: Unknown
+- Issued: August 27, 2025
 - Pages: 6
 - Official source: https://privacy.gov.ph/wp-content/uploads/2025/12/NPC_Advisory2025-02.pdf
 - OCR used during extraction: no

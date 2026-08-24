@@ -1,5 +1,5 @@
 ---
-title: 'NPC BN 18-142: In re: Smart Communications, Inc.'
+title: "NPC BN 18-142: In re: Smart Communications, Inc."
 description: Data breach notification resolution concerning unauthorized disclosure
   of tourist SIM registrants' names and email addresses; Commission found SMART implemented
   reasonable security measures and resolved to close the case.
@@ -20,7 +20,7 @@ date: '2023-03-30'
 ---
 
 ## Source
-- Reference: [[decisions/2020/npc-18-142-msh-vs-rsf-tcc|NPC 18-142]]
+- Reference: NPC BN 18-142
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/05/NPC-BN-18-142-2023.03.30-Smart-Communications-Inc-Resolution-Final.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: July 29, 2018

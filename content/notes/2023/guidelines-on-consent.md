@@ -27,7 +27,7 @@ Write a concise summary and legal significance notes here.
 - Reference: Circular No. 2023-04
 - Type: Circular
 - Year: 2023
-- Issued: Unknown
+- Issued: November 7, 2023
 - Pages: 14
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/11/NPC-Circular-No.-2023-04_Guidelines-on-Consent_07Nov2023.pdf
 - OCR used during extraction: no
@@ -38,5 +38,6 @@ Write a concise summary and legal significance notes here.
 
 ### Automatic Backlinks
 - [[issuances/2024/closed-circuit-television-cctv-systems|Closed-Circuit Television (CCTV) Systems]]
+- [[issuances/2026/guidelines-on-data-scraping-of-publicly-available-personal-data|Guidelines on Data Scraping of Publicly Available Personal Data]]
 - [[issuances/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Guidelines On Privacy Engineering In Systems Life Cycle Processes]]
 <!-- END GENERATED RECORD -->

@@ -1,19 +1,19 @@
 ---
-title: "FAQs Raw Source Text"
-description: "Raw extracted text for FAQs before manual annotation."
+title: "Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO) Raw Source Text"
+description: "Raw extracted text for the Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO) before manual annotation."
 aliases:
-  - "FAQs Raw Source Text"
+  - "Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO) Raw Source Text"
 tags:
   - "source-text"
-  - "year/1988"
+  - "year/2020"
 draft: false
 ---
 
 > This note is regenerated from cached PDFs and is overwritten on rebuild.
 
 ## Source
-- Main note: [[issuances/1988/faqs|FAQs]]
-- Companion note: [[notes/1988/faqs|Analysis and metadata]]
+- Main note: [[issuances/2020/faqs|Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO)]]
+- Companion note: [[notes/2020/faqs|Analysis and metadata]]
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.pdf
 - OCR used: no
 

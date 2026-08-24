@@ -24,10 +24,10 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Guidelines On The Processing Of Personal Data For Election Campaign Or Partisan Political Activity]]
 - Raw source note: [[sources/2021/guidelines-on-the-processing-of-personal-data-for-election-campaign-or-partisan-political-activity|Raw source text]]
-- Reference: Advisory No. 2021
+- Reference: Advisory No. 2021-03
 - Type: Advisory
 - Year: 2021
-- Issued: Unknown
+- Issued: November 5, 2021
 - Pages: 10
 - Official source: https://privacy.gov.ph/wp-content/uploads/2021/11/Advisory_Election_Campaigning_03-Nov-21-FINAL.pdf
 - OCR used during extraction: no
@@ -37,7 +37,5 @@ Write a concise summary and legal significance notes here.
 - [[issuances/2021/data-subject-rights|Data Subject Rights]]
 
 ### Automatic Backlinks
-- [[issuances/2021/data-subject-rights|Data Subject Rights]]
-- [[issuances/2021/guidance-for-the-use-of-the-asean-model-contract-clauses-and-asean-data-management-framework|Guidance For The Use Of The ASEAN Model Contract Clauses And ASEAN Data Management Framework]]
-- [[issuances/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras]]
+- No backlinks detected yet.
 <!-- END GENERATED RECORD -->

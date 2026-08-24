@@ -16,7 +16,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC CN 19-501
+- Reference: NPC 19-501
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/NPC-CN-19-501_MEC-vs-Robocash-Finance-Corporation_Decision_02-July-2020.pdf
 - Source page: http://privacy.gov.ph/decisions-2/
 - Issue date: July 2, 2020

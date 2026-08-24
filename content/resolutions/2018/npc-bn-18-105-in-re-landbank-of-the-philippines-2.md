@@ -1,9 +1,9 @@
 ---
-title: "NPC BN 18-105: In re: Landbank of the Philippines"
+title: "CID BN 18-105: In re: Landbank of the Philippines"
 description: "Breach notification resolution finding that Landbank of the Philippines sufficiently addressed an identity theft incident and implemented remedial measures in compliance with the Data Privacy Act of 2012."
 aliases:
-  - "NPC BN 18-105"
-  - "npc bn 18-105"
+  - "CID BN 18-105"
+  - "cid bn 18-105"
   - "In re: Landbank of the Philippines"
   - "in re: landbank of the philippines"
 tags:
@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC BN 18-105
+- Reference: CID BN 18-105
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-18-105-2021.04.29-In-re-LBP-Resolution.pdf
 - Source page: http://privacy.gov.ph/resolutions/
 - Issue date: July 6, 2018

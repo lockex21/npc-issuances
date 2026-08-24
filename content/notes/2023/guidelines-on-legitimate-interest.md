@@ -27,7 +27,7 @@ Write a concise summary and legal significance notes here.
 - Reference: Circular No. 2023-07
 - Type: Circular
 - Year: 2023
-- Issued: Unknown
+- Issued: December 13, 2023
 - Pages: 5
 - Official source: https://privacy.gov.ph/wp-content/uploads/2024/01/NPC-Circular-No.-2023-07_Guidelines-on-Legitimate-Interest_13-December-2023.pdf
 - OCR used during extraction: no
@@ -37,5 +37,6 @@ Write a concise summary and legal significance notes here.
 - None detected automatically.
 
 ### Automatic Backlinks
+- [[issuances/2023/faq-guidelines-on-legitimate-interest|FAQ Guidelines on Legitimate Interest]]
 - [[issuances/2024/guidelines-on-personal-data-processing-based-on-section-13-f-of-the-data-privacy-act-of-2012|Guidelines on Personal Data Processing Based on Section 13 (f) of the Data Privacy Act of 2012]]
 <!-- END GENERATED RECORD -->

@@ -3,7 +3,7 @@ title: "Rules of Procedure Notes"
 description: "Companion summary and references for Rules of Procedure."
 tags:
   - "companion-note"
-  - "year/undated"
+  - "year/2016"
 draft: false
 ---
 
@@ -26,8 +26,8 @@ Write a concise summary and legal significance notes here.
 - Raw source note: [[sources/undated/rules-of-procedure|Raw source text]]
 - Reference: Circular No. 16-04
 - Type: Circular
-- Year: undated
-- Issued: Unknown
+- Year: 2016
+- Issued: December 15, 2016
 - Pages: 10
 - Official source: https://privacy.gov.ph/wp-content/uploads/2022/01/sgd-npc-circular-16-04-rules-of-procedure.pdf
 - OCR used during extraction: no
@@ -37,6 +37,6 @@ Write a concise summary and legal significance notes here.
 - None detected automatically.
 
 ### Automatic Backlinks
-- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]
+- [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission (Original 2021 Version)]]
 - [[issuances/2020/guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission|Guidelines on the Use of Videoconferencing Technology for the Remote Appearance and Testimony of Parties Before the National Privacy Commission]]
 <!-- END GENERATED RECORD -->

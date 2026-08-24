@@ -56,5 +56,292 @@
     "content_path": "content/issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector.md",
     "notes_path": "content/notes/2023/security-of-personal-data-in-the-government-and-the-private-sector.md",
     "source_note_path": "content/sources/2023/security-of-personal-data-in-the-government-and-the-private-sector.md"
+  },
+  "data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements": {
+    "content_path": "content/issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements.md",
+    "notes_path": "content/notes/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements.md",
+    "source_note_path": "content/sources/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements.md"
+  },
+  "guidelines-on-compliance-checks": {
+    "content_path": "content/issuances/undated/guidelines-on-compliance-checks.md",
+    "notes_path": "content/notes/undated/guidelines-on-compliance-checks.md",
+    "source_note_path": "content/sources/undated/guidelines-on-compliance-checks.md"
+  },
+  "guidelines-on-the-processing-of-personal-data-for-loan-related-transactions": {
+    "content_path": "content/issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions.md",
+    "notes_path": "content/notes/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions.md",
+    "source_note_path": "content/sources/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions.md"
+  },
+  "personal-data-breach-management": {
+    "content_path": "content/issuances/undated/personal-data-breach-management.md",
+    "notes_path": "content/notes/undated/personal-data-breach-management.md",
+    "source_note_path": "content/sources/undated/personal-data-breach-management.md"
+  },
+  "prerequisites-for-the-philippine-privacy-mark-certification-program": {
+    "content_path": "content/issuances/undated/prerequisites-for-the-philippine-privacy-mark-certification-program.md",
+    "notes_path": "content/notes/undated/prerequisites-for-the-philippine-privacy-mark-certification-program.md",
+    "source_note_path": "content/sources/undated/prerequisites-for-the-philippine-privacy-mark-certification-program.md"
+  },
+  "rules-of-procedure-on-requests-for-advisory-opinions": {
+    "content_path": "content/issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions.md",
+    "notes_path": "content/notes/undated/rules-of-procedure-on-requests-for-advisory-opinions.md",
+    "source_note_path": "content/sources/undated/rules-of-procedure-on-requests-for-advisory-opinions.md"
+  },
+  "rules-on-mediation-before-the-national-privacy-commission": {
+    "content_path": "content/issuances/undated/rules-on-mediation-before-the-national-privacy-commission.md",
+    "notes_path": "content/notes/undated/rules-on-mediation-before-the-national-privacy-commission.md",
+    "source_note_path": "content/sources/undated/rules-on-mediation-before-the-national-privacy-commission.md"
+  },
+  "security-of-personal-data-in-government-agencies": {
+    "content_path": "content/issuances/undated/security-of-personal-data-in-government-agencies.md",
+    "notes_path": "content/notes/undated/security-of-personal-data-in-government-agencies.md",
+    "source_note_path": "content/sources/undated/security-of-personal-data-in-government-agencies.md"
+  },
+  "data-sharing-agreements": {
+    "issue_date": "December 23, 2020",
+    "issue_date_iso": "2020-12-23"
+  },
+  "registration-of-data-processing-systems": {
+    "title": "Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making",
+    "aliases": [
+      "circular no. 17-01",
+      "npc circular no. 17-01",
+      "registration of data processing systems",
+      "registration of data processing systems and notifications regarding automated decision-making"
+    ],
+    "content_path": "content/issuances/undated/registration-of-data-processing-systems.md",
+    "notes_path": "content/notes/undated/registration-of-data-processing-systems.md",
+    "source_note_path": "content/sources/undated/registration-of-data-processing-systems.md"
+  },
+  "rules-of-procedure": {
+    "title": "Rules of Procedure of the National Privacy Commission",
+    "aliases": [
+      "circular no. 16-04",
+      "npc circular no. 16-04",
+      "rules of procedure",
+      "rules of procedure of the national privacy commission"
+    ],
+    "content_path": "content/issuances/undated/rules-of-procedure.md",
+    "notes_path": "content/notes/undated/rules-of-procedure.md",
+    "source_note_path": "content/sources/undated/rules-of-procedure.md"
+  },
+  "rules-on-the-issuance-of-cease-and-desist-orders": {
+    "year": "2020",
+    "issue_date": "October 6, 2020",
+    "issue_date_iso": "2020-10-06",
+    "tags": [
+      "issuance",
+      "topic/breach-notification",
+      "topic/security",
+      "type/circular",
+      "year/2020"
+    ],
+    "content_path": "content/issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders.md",
+    "notes_path": "content/notes/undated/rules-on-the-issuance-of-cease-and-desist-orders.md",
+    "source_note_path": "content/sources/undated/rules-on-the-issuance-of-cease-and-desist-orders.md"
+  },
+  "faqs": {
+    "title": "Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO)",
+    "reference_label": null,
+    "canonical_reference": null,
+    "year": "2020",
+    "kind": "FAQ",
+    "aliases": [
+      "frequently asked questions on the draft rules on the issuance of cease and desist orders (cdo)",
+      "faqs"
+    ],
+    "tags": [
+      "issuance",
+      "type/faq",
+      "year/2020"
+    ],
+    "content_path": "content/issuances/2020/faqs.md",
+    "notes_path": "content/notes/2020/faqs.md",
+    "source_note_path": "content/sources/2020/faqs.md",
+    "citations": [
+      "advisory opinion no. 2017-006"
+    ]
+  },
+  "guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response": {
+    "reference_label": "Joint Memorandum Circular No. 2020-0003",
+    "canonical_reference": "joint memorandum circular no. 2020-0003",
+    "kind": "Joint Memorandum Circular",
+    "issue_date": "April 14, 2020",
+    "issue_date_iso": "2020-04-14",
+    "aliases": [
+      "Joint Memorandum Circular No. 2020-0003",
+      "joint memorandum circular no. 2020-0003",
+      "Memorandum Circular No. 2020-0003",
+      "memorandum circular no. 2020-0003",
+      "Telemedicine M&E Guidelines",
+      "telemedicine m&e guidelines",
+      "NPC Joint Memorandum Circular No. 2020-0003",
+      "npc joint memorandum circular no. 2020-0003"
+    ],
+    "tags": [
+      "issuance",
+      "type/joint-memorandum-circular",
+      "year/2020",
+      "topic/breach-notification",
+      "topic/consent",
+      "topic/employment",
+      "topic/security"
+    ],
+    "citations": [
+      "joint memorandum circular no. 2020-0001",
+      "joint memorandum circular no. 2020-0003",
+      "memorandum circular no. 2020-0024"
+    ]
+  },
+  "guidelines-on-the-use-of-telemedicine-in-covid-19-response": {
+    "reference_label": "Joint Memorandum Circular No. 2020-0001",
+    "canonical_reference": "joint memorandum circular no. 2020-0001",
+    "kind": "Joint Memorandum Circular",
+    "issue_date": "March 28, 2020",
+    "issue_date_iso": "2020-03-28",
+    "aliases": [
+      "Joint Memorandum Circular No. 2020-0001",
+      "joint memorandum circular no. 2020-0001",
+      "DOH-NPC Joint Memorandum Circular No. 2020-0001",
+      "DOH Memorandum Circular No. 2020-0016",
+      "guidelines on the use of telemedicine in covid-19 response"
+    ],
+    "tags": [
+      "issuance",
+      "type/joint-memorandum-circular",
+      "year/2020",
+      "topic/consent",
+      "topic/security"
+    ],
+    "citations": [
+      "circular no. 2020-007",
+      "joint memorandum circular no. 2020-0001",
+      "memorandum circular no. 2020-0016"
+    ]
+  },
+  "privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response": {
+    "reference_label": "Joint Memorandum Circular No. 2020-0002",
+    "canonical_reference": "joint memorandum circular no. 2020-0002",
+    "kind": "Joint Memorandum Circular",
+    "issue_date": "April 24, 2020",
+    "issue_date_iso": "2020-04-24",
+    "aliases": [
+      "Joint Memorandum Circular No. 2020-0002",
+      "joint memorandum circular no. 2020-0002",
+      "DOH-NPC Joint Memorandum Circular No. 2020-0002",
+      "privacy guidelines on the processing and disclosure of covid-19 related data for disease surveillance and response"
+    ],
+    "tags": [
+      "issuance",
+      "topic/cctv-surveillance",
+      "type/joint-memorandum-circular",
+      "year/2020",
+      "topic/consent",
+      "topic/data-sharing",
+      "topic/security"
+    ],
+    "citations": [
+      "joint memorandum circular no. 2020-0002"
+    ]
+  },
+  "guidelines-on-the-use-of-videoconferencing-technology-for-the-remote-appearance-and-testimony-of-parties-before-the-national-privacy-commission": {
+    "issue_date": "August 3, 2020",
+    "issue_date_iso": "2020-08-03"
+  },
+  "online-payment": {
+    "issue_date": "March 15, 2024",
+    "issue_date_iso": "2024-03-15"
+  },
+  "protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website": {
+    "issue_date": "June 18, 2020",
+    "issue_date_iso": "2020-06-18"
+  },
+  "registration-of-data-processing-systems-appendix-1": {
+    "reference_label": "Circular No. 2017-01",
+    "canonical_reference": "circular no. 2017-01",
+    "year": "2017",
+    "issue_date": "July 31, 2017",
+    "issue_date_iso": "2017-07-31",
+    "content_path": "content/issuances/2017/registration-of-data-processing-systems-appendix-1.md",
+    "notes_path": "content/notes/2017/registration-of-data-processing-systems-appendix-1.md",
+    "source_note_path": "content/sources/2017/registration-of-data-processing-systems-appendix-1.md",
+    "aliases": [
+      "circular no. 2017-01",
+      "npc circular no. 2017-01",
+      "registration of data processing systems appendix 1"
+    ],
+    "tags": [
+      "issuance",
+      "topic/registration",
+      "type/circular",
+      "year/2017"
+    ],
+    "citations": [
+      "circular no. 17-01"
+    ]
+  },
+  "annex-1": {
+    "title": "Annex 1",
+    "reference_label": null,
+    "canonical_reference": null,
+    "kind": "Annex",
+    "year": "2022",
+    "issue_date": "December 5, 2022",
+    "issue_date_iso": "2022-12-05",
+    "aliases": [
+      "annex 1",
+      "circular no. 2022-04 annex 1"
+    ],
+    "tags": [
+      "issuance",
+      "type/annex",
+      "year/2022"
+    ],
+    "citations": [
+      "circular no. 2022-04"
+    ]
+  },
+  "faqs-on-the-guidelines-on-administrative-fines": {
+    "citations": [
+      "circular no. 20-02",
+      "circular no. 2022-01"
+    ]
+  },
+  "faq-security-of-personal-data-in-the-government-and-the-private-sector": {
+    "reference_label": null,
+    "canonical_reference": null,
+    "aliases": [
+      "faq security of personal data in the government and the private sector"
+    ],
+    "citations": [
+      "circular no. 2023-06"
+    ]
+  },
+  "faq-prerequisites-for-the-philippine-privacy-mark-certification-program": {
+    "reference_label": null,
+    "canonical_reference": null,
+    "aliases": [
+      "faq prerequisites for the philippine privacy mark certification program"
+    ],
+    "citations": [
+      "circular no. 2023-05"
+    ]
+  },
+  "faq-guidelines-on-child-oriented-transparency": {
+    "citations": [
+      "advisory no. 2024-03"
+    ]
+  },
+  "faq-data-privacy-competency-program": {
+    "citations": [
+      "circular no. 2023-02"
+    ]
+  },
+  "faq-guidelines-on-legitimate-interest": {
+    "issue_date": null,
+    "issue_date_iso": null,
+    "citations": [
+      "circular no. 2023-07"
+    ]
   }
 }

@@ -1,9 +1,9 @@
 ---
-title: "NPC BN 21-054: In re: BPI Philam Life Assurance Corporation"
+title: "NPC BN NO. 21-054: In re: BPI Philam Life Assurance Corporation"
 description: "Order denying BPI Philam Life Assurance Corporation's requests for extension of time and directing it to submit its full breach report, notify all affected data subjects, and show cause for its failure to comply with mandatory reporting requirements within 72 hours of receipt."
 aliases:
-  - "NPC BN 21-054"
-  - "npc bn 21-054"
+  - "NPC BN NO. 21-054"
+  - "npc bn no. 21-054"
   - "In re: BPI Philam Life Assurance Corporation"
   - "in re: bpi philam life assurance corporation"
 tags:
@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC BN 21-054
+- Reference: NPC BN NO. 21-054
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2023/05/Order-NPC-BN-21-054-In-re-BPLAC.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: April 15, 2021

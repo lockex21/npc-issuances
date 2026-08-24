@@ -1,9 +1,9 @@
 ---
-title: "NPC BN 18-198: In re: Cathay Pacific Airways Limited"
+title: "NPC BN NO. 18-198: In re: Cathay Pacific Airways Limited"
 description: "Order directing Cathay Pacific Airways Limited to submit proof of notification to the approximately 102,209 data subjects in or from the Philippines affected by a 2018 data breach and to explain discrepancies in its reported notification figures, after the Commission found no such proof in the submitted breach notification reports."
 aliases:
-  - "NPC BN 18-198"
-  - "npc bn 18-198"
+  - "NPC BN NO. 18-198"
+  - "npc bn no. 18-198"
   - "In re: Cathay Pacific Airways Limited"
   - "in re: cathay pacific airways limited"
 tags:
@@ -18,7 +18,7 @@ draft: false
 ---
 
 ## Source
-- Reference: NPC BN 18-198
+- Reference: NPC BN NO. 18-198
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/08/NPC-BN-18-198-2021.03.18-In-re-Cathay-Order.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: March 18, 2021

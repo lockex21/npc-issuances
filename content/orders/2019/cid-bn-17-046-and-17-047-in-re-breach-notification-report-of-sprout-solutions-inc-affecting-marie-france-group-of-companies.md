@@ -1,9 +1,9 @@
 ---
-title: "CID BN 17-046 and 17-047: In re: Breach Notification Report of Sprout Solutions, Inc. Affecting Marie France Group of Companies"
+title: "CID BN No. 17-46 and 17-47: In re: Breach Notification Report of Sprout Solutions, Inc. Affecting Marie France Group of Companies"
 description: "Order closing NPC BN 17-046 and 17-047 after Sprout Solutions, Inc. and Marie France Group of Companies fully complied with the Commission's directive to individually notify all affected data subjects in accordance with Section 18(c) and (d) of NPC Circular 16-03."
 aliases:
-  - "CID BN 17-046 and 17-047"
-  - "cid bn 17-046 and 17-047"
+  - "CID BN No. 17-46 and 17-47"
+  - "cid bn no. 17-46 and 17-47"
   - "In re: Breach Notification Report of Sprout Solutions, Inc. Affecting Marie France Group of Companies"
   - "in re: breach notification report of sprout solutions, inc. affecting marie france group of companies"
 tags:
@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## Source
-- Reference: CID BN 17-046 and 17-047
+- Reference: CID BN No. 17-46 and 17-47
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-17-046-_-CID-BN-17-047-2019.10.28-In-re-Sprout-Solutions-Inc-Order.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: October 28, 2019

@@ -16,7 +16,7 @@ tags:
 - topic/ai
 - topic/government
 draft: false
-date: '2017-08-09'
+date: '2017-07-31'
 ---
 
 ## Issuance Text

@@ -24,18 +24,19 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2026/guidelines-on-data-scraping-of-publicly-available-personal-data|Guidelines on Data Scraping of Publicly Available Personal Data]]
 - Raw source note: [[sources/2026/guidelines-on-data-scraping-of-publicly-available-personal-data|Raw source text]]
-- Reference: Advisory No. 2026
+- Reference: Advisory No. 2026-01
 - Type: Advisory
 - Year: 2026
-- Issued: Unknown
+- Issued: April 13, 2026
 - Pages: 6
 - Official source: https://privacy.gov.ph/wp-content/uploads/2026/04/SGD_A_1.pdf
 - OCR used during extraction: no
 - Topic pages: None yet
 
 ### Automatic References Out
-- [[issuances/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector|FAQ Security of Personal Data in the Government and the Private Sector]]
+- [[issuances/2023/guidelines-on-consent|Guidelines on Consent]]
+- [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]]
 
 ### Automatic Backlinks
-- [[issuances/2026/clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system|Clarification on the Submission of Personal Data Breach Notification through Data Breach Notification Management System]]
+- No backlinks detected yet.
 <!-- END GENERATED RECORD -->

@@ -12,7 +12,7 @@ tags:
 - type/circular
 - year/2020
 draft: false
-date: "2020-10-26"
+date: "2020-10-06"
 ---
 
 ## Issuance Text

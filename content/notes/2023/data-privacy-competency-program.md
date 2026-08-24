@@ -24,7 +24,7 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2023/data-privacy-competency-program|Data Privacy Competency Program]]
 - Raw source note: [[sources/2023/data-privacy-competency-program|Raw source text]]
-- Reference: None detected
+- Reference: Circular No. 2023-02
 - Type: Circular
 - Year: 2023
 - Issued: September 26, 2023
@@ -37,5 +37,5 @@ Write a concise summary and legal significance notes here.
 - None detected automatically.
 
 ### Automatic Backlinks
-- No backlinks detected yet.
+- [[issuances/undated/faq-data-privacy-competency-program|FAQ Data Privacy Competency Program]]
 <!-- END GENERATED RECORD -->

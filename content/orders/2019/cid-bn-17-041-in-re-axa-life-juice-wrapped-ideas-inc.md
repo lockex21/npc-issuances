@@ -1,9 +1,9 @@
 ---
-title: "CID BN 17-041: In re: Breach Notification Report of AXA Philippines Involving Juice and Wrapped Ideas, Inc."
+title: "CID BN No. 17-041: In re: Breach Notification Report of AXA Philippines Involving Juice and Wrapped Ideas, Inc."
 description: "Resolution finding no notable regulatory violations in AXA Philippines' handling of the data breach involving Juice and Wrapped Ideas, Inc., and ordering AXA to submit a comprehensive post-breach compliance report pursuant to Section 9 of NPC Circular 16-03 within thirty days."
 aliases:
-  - "CID BN 17-041"
-  - "cid bn 17-041"
+  - "CID BN No. 17-041"
+  - "cid bn no. 17-041"
   - "In re: Breach Notification Report of AXA Philippines Involving Juice and Wrapped Ideas, Inc."
   - "in re: breach notification report of axa philippines involving juice and wrapped ideas, inc."
 tags:
@@ -17,7 +17,7 @@ draft: false
 ---
 
 ## Source
-- Reference: CID BN 17-041
+- Reference: CID BN No. 17-041
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2024/08/CID-BN-17-041-2019.08.20-In-re-AXA-Life-Juice-Wrapped-Ideas-Inc-Order.pdf
 - Source page: http://privacy.gov.ph/orders-2/
 - Issue date: August 20, 2019

@@ -1,16 +1,18 @@
 ---
-title: "Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response (Memorandum Circular No. 2020-0003)"
+title: "Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response (Joint Memorandum Circular No. 2020-0003)"
 description: "DOH-NPC joint memorandum circular establishing a monitoring and evaluation framework for telemedicine services during the COVID-19 enhanced community quarantine, covering DOH- and PhilHealth-regulated healthcare providers and DOH-engaged telemedicine partners. It requires signed performance commitments, privacy management program documentation, and weekly status reports, with oversight by the National eHealth Technical Working Group and its Sub-Committee on Telemedicine."
 aliases:
+- Joint Memorandum Circular No. 2020-0003
+- joint memorandum circular no. 2020-0003
 - Memorandum Circular No. 2020-0003
 - memorandum circular no. 2020-0003
 - Telemedicine M&E Guidelines
 - telemedicine m&e guidelines
-- NPC Memorandum Circular No. 2020-0003
-- npc memorandum circular no. 2020-0003
+- NPC Joint Memorandum Circular No. 2020-0003
+- npc joint memorandum circular no. 2020-0003
 tags:
 - issuance
-- type/memorandum-circular
+- type/joint-memorandum-circular
 - year/2020
 - topic/breach-notification
 - topic/consent
@@ -24,13 +26,18 @@ date: '2020-04-14'
 
 <!-- BEGIN MANUAL ANNOTATED TEXT -->
 
-**Memorandum Circular No. 2020-0003**
+<div align="center">
 
-Department of Health OFFICE OF THE SECRETARY
+Republic of the Philippines<br>
+Department of Health<br>
+**OFFICE OF THE SECRETARY**
 
-May 6, 2020
+</div>
 
-MEMORANDUM CIRCULAR No. 2020-0003
+**6 May 2020**
+
+**MEMORANDUM CIRCULAR**<br>
+**No. 2020-0024**
 
 TO: ALL UNDERSECRETARIES, ASSISTANT SECRETARIES, DIRECTORS OF BUREAUS, REGIONAL OFFICES AND SERVICES; EXECUTIVE DIRECTORS OF SPECIALTY HOSPITALS, AND NATIONAL NUTRITION COUNCIL; CHIEFS OF MEDICAL CENTERS, HOSPITALS, SANITARIA AND INSTITUTES; PRESIDENT OF THE PHILIPPINE HEALTH INSURANCE CORPORATION; DIRECTORS OF PHILIPPINE NATIONAL AIDS COUNCIL AND TREATMENT AND REHABILITATION CENTERS; AND OTHERS CONCERNED
 
@@ -46,11 +53,17 @@ LILIBETH C. DAVID, MD, MPH, MPM, CESO III Undersecretary of Health Health Facili
 
 Building 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, 1003 Manila Trunk Line 651-7800 local 1113, 1108, 1135 Direct Line: 711-9502; 711-9503 Fax: 743-1829; 743-1786 URL: http://www.doh.gov.ph e-mail: fiduque@doh.gov.ph
 
-DEPARTMENT OF HEALTH
+<div align="center">
+
+**DEPARTMENT OF HEALTH**<br>
+**NATIONAL PRIVACY COMMISSION**
+
+</div>
 
 April 14, 2020
 
-JOINT MEMORANDUM CIRCULAR No. 2020-0003
+**JOINT MEMORANDUM CIRCULAR**<br>
+**No. 2020-0003**
 
 SUBJECT: Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response
 

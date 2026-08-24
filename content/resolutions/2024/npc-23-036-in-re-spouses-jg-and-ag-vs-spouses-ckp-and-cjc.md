@@ -12,7 +12,7 @@ tags:
   - "year/2024"
   - "npc-case"
   - "topic/consent"
-date: "2024-03-04"
+date: "2024-03-21"
 draft: false
 ---
 
@@ -20,7 +20,7 @@ draft: false
 - Reference: NPC 23-036
 - Official PDF: http://privacy.gov.ph/wp-content/uploads/2026/01/NPC-23-036-03.21.2024-Spouses-JG-and-AG-vs-Spouses-CKP-and-CJC_Resolution-1.pdf
 - Source page: http://privacy.gov.ph/resolutions/
-- Issue date: March 4, 2024
+- Issue date: March 21, 2024
 - Published on NPC site: Mon, 12 Jan 2026 03:04:45 GMT
 - Pages: 12
 

@@ -24,10 +24,10 @@ Write a concise summary and legal significance notes here.
 <!-- BEGIN GENERATED RECORD -->
 - Issuance page: [[issuances/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Guidelines for Private Security Agencies on the Proper Handling of Customer and Visitor Information]]
 - Raw source note: [[sources/2022/guidelines-for-private-security-agencies-on-the-proper-handling-of-customer-and-visitor-information|Raw source text]]
-- Reference: Circular No. 2022
+- Reference: Circular No. 2022-03
 - Type: Circular
 - Year: 2022
-- Issued: Unknown
+- Issued: December 5, 2022
 - Pages: 6
 - Official source: https://privacy.gov.ph/wp-content/uploads/2023/05/NPC-Circular-No.-2022-–-03-Private-Security-Agencies.pdf
 - OCR used during extraction: no
@@ -37,5 +37,5 @@ Write a concise summary and legal significance notes here.
 - None detected automatically.
 
 ### Automatic Backlinks
-- [[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions]]
+- No backlinks detected yet.
 <!-- END GENERATED RECORD -->

@@ -3,7 +3,7 @@ title: "Rules on the Issuance of Cease and Desist Orders Notes"
 description: "Companion summary and references for Rules on the Issuance of Cease and Desist Orders."
 tags:
   - "companion-note"
-  - "year/undated"
+  - "year/2020"
 draft: false
 ---
 
@@ -26,8 +26,8 @@ Write a concise summary and legal significance notes here.
 - Raw source note: [[sources/undated/rules-on-the-issuance-of-cease-and-desist-orders|Raw source text]]
 - Reference: Circular No. 20-02
 - Type: Circular
-- Year: undated
-- Issued: Unknown
+- Year: 2020
+- Issued: October 6, 2020
 - Pages: 7
 - Official source: https://privacy.gov.ph/wp-content/uploads/2020/10/NPC-Circular-20-02_Circular-Rules-on-CDO.pdf
 - OCR used during extraction: no

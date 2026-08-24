@@ -7,7 +7,7 @@ draft: false
 Auto-generated topic cluster for **Online Lending**, covering the full corpus of laws, issuances, advisory opinions, decisions, resolutions, and orders.
 
 ## Issuances
-- [[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Amending Certain Provisions of Npc Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-related Transactions (Circular No. 2022)]]
+- [[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions (NPC Circular No. 2022-02)]]
 - [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions (Circular No. 20-01)]]
 - [[issuances/undated/public-advisory-on-online-lending-platforms-olps|Public Advisory on Online Lending Platforms (OLPs)]]
 
