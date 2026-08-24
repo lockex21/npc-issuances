@@ -25,21 +25,21 @@ Auto-generated topic cluster for **CCTV Surveillance**, covering the full corpus
 - [[advisory-opinions/2018/advisory-opinion-no-2018-051-npc-advisory-opinion-no-2018-051|NPC Advisory Opinion No. 2018-051 — Various Concerns Regarding the Data Privacy Act]]
 
 ## Decisions
+- [[decisions/2024/npc-19-1805-cbb-vs-ams|NPC 19-1805: CBB v. AMS]]
 - [[decisions/2024/npc-19-1429-ams-vs-cbb|NPC 19-1429: AMS v. CBB]]
 - [[decisions/2024/npc-19-1411-mip-v-colliers-international-philippines-represented-by-rdr-eds-jsa-and-ala|NPC 19-1411: MIP v. Colliers International Philippines]]
 - [[decisions/2024/npc-21-085-jaa-vs-rb|NPC 21-085: JAA v. RB]]
 - [[decisions/2023/npc-18-004-and-npc-18-005-ca-v-westparc-condominium-and-vp-v-westparc-condominium|NPC 18-004 and NPC 18-005: CA v. WestParc Condominium and VP v. WestParc Condominium]]
-- [[decisions/2022/npc-bn-21-111-eg-vs-ji-ro-and-rr|NPC BN 21-111: EG v. JI, RO, and RR]]
 - [[decisions/2022/npc-21-111-eg-v-ji-ro-and-rr|NPC 21-111: EG v. JI, RO, and RR]]
+- [[decisions/2022/npc-bn-21-111-eg-vs-ji-ro-and-rr|NPC 21-111: EG v. JI, RO, and RR]]
 - [[decisions/2022/npc-21-096-ac-v-isg|NPC 21-096: AC v. ISG]]
-- [[decisions/2024/npc-19-1805-cbb-vs-ams|NPC 19-1805: CBB v. AMS]]
 - [[decisions/2019/08-15-2019-in-re-data-breach-involving-the-comelec-data-processing-system-in-wao-lanao-del-sur|NPC CID 17-002: In Re Data Breach Involving the COMELEC Data Processing System in Wao, Lanao del Sur]]
 
 ## Resolutions
 - [[resolutions/2024/npc-cc-20-001-in-re-grab-philippines|NPC CC 20-001: In re: Grab Philippines]]
-- [[resolutions/2024/npc-bn-18-140-in-re-datascope-communications-philippines-inc|NPC BN 18-140: In re: Datascope Communications Philippines, Inc.]]
+- [[resolutions/2024/npc-bn-18-140-in-re-datascope-communications-philippines-inc|NPC BN 18-140: In re: Datascope Communications (Philippines), Inc.]]
 - [[resolutions/2018/npc-bn-18-138-in-re-pacific-plaza-resolution|NPC BN 18-138: In re: Pacific Plaza Towers Condominium Corporation]]
-- [[resolutions/2018/npc-bn-18-220-and-npc-bn-18-231-in-re-department-of-trade-and-industry|NPC BN 18-220 and NPC BN 18-231: In re: Department of Trade and Industry]]
+- [[resolutions/2018/npc-bn-18-220-and-npc-bn-18-231-in-re-department-of-trade-and-industry|NPC BN 18-220 and NPC BN 18-231: In re: Department of Trade and Industry and Department of Trade and Industry – Rizal Provincial Office]]
 - [[resolutions/2021/npc-19-030-and-npc-19-132-cl-vs-ddz-and-dm-vs-ddz|NPC 19-030 and NPC 19-132: CL v. DDZ and DM v. DDZ]]
 
 ## Manual Notes

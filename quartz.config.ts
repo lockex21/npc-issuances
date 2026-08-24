@@ -22,6 +22,7 @@ const config: QuartzConfig = {
       "sources/**",
       "**/_cleanup-log.md",
       "**/.cleanup-log.md",
+      "**/* 2.*",
     ],
     defaultDateType: "published",
     theme: {

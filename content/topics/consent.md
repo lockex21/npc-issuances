@@ -76,8 +76,6 @@ Auto-generated topic cluster for **Consent**, covering the full corpus of laws, 
 - [[advisory-opinions/2018/advisory-opinion-no-2018-013-npc-advisory-opinion-no-2018-013|NPC Advisory Opinion No. 2018-013 — Privacy Policy and Consent of Data Subjects]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-012-npc-advisory-opinion-no-2018-012|NPC Advisory Opinion No. 2018-012 — Release of Service Record]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-003-npc-advisory-opinion-no-2018-003|NPC Advisory Opinion No. 2018-003 — Visitor Logbook]]
-- [[advisory-opinions/2017/advisory-opinion-no-2017-050-npc-advisoryopinionno-2017-050 2|“NPC Advisory Opinion No. 2017-050 — Consent in an Employment Contract”]]
-- [[advisory-opinions/2017/advisory-opinion-no-2017-049-npc-advisoryopinionno-2017-049 2|“NPC Advisory Opinion No. 2017-049 — Teachers’ Right to Search a Minor Student’s Cellular Phone”]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-071-v1-redacted-advisory-opinion-no-2017-071|NPC Advisory Opinion No. 2017-071 — Compliance Obligations of Brokers and Dealers Under the Data Privacy Act of 2012]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-070-npc-advisory-opinion-no-2017-070|NPC Advisory Opinion No. 2017-070 — PLDT’s Privacy Policy]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-068-npc-advisory-opinion-no-2017-068|NPC Advisory Opinion No. 2017-068 — Data Privacy Act and Its Implementing Rules and Regulations]]
@@ -101,12 +99,12 @@ Auto-generated topic cluster for **Consent**, covering the full corpus of laws, 
 - [[decisions/2023/npc-ss-21-008-populus-lending-corporation-pesopop-and-its-responsible-officers|NPC SS 21-008: Populus Lending Corporation (Pesopop) and its Responsible Officers]]
 - [[decisions/2023/npc-22-113-jbm-vs-pphi|NPC 22-113: JBM vs. PPHI]]
 - [[decisions/2018/npc-18-018-18-019-18-020-18-027-jvt-vs-vma-lar-vs-vma-ccw-vs-vma-mls-vs-vma|NPC 18-018, 18-019, 18-020, and 18-027: JVT v. VMA, LAR v. VMA, CCW v. VMA, MLS v. VMA]]
-- [[decisions/2022/npc-bn-21-111-eg-vs-ji-ro-and-rr|NPC BN 21-111: EG v. JI, RO, and RR]]
 - [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167: MAF v. Shopee Philippines, Inc.]]
 - [[decisions/2022/npc-21-111-eg-v-ji-ro-and-rr|NPC 21-111: EG v. JI, RO, and RR]]
+- [[decisions/2022/npc-bn-21-111-eg-vs-ji-ro-and-rr|NPC 21-111: EG v. JI, RO, and RR]]
 - [[decisions/2022/npc-20-026-jba-v-fnt-and-nnt|NPC 20-026: JBA v. FNT and NNT]]
 - [[decisions/2022/npc-ss-21-005-in-re-oriente-express-techsystem-corporations-cashalo-and-its-responsible-officers|NPC SS 21-005: Oriente Express Techsystem Corporation (Cashalo) and its Responsible Officers]]
-- [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006: Wefund Lending Corporation and its Responsible Officers]]
+- [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006: In Re: Wefund Lending Corporation (JuanHand) and its Responsible Officers]]
 - [[decisions/2022/npc-19-142-mlf-v-grab-philippines|NPC 19-142: MLF v. Grab Philippines]]
 - [[decisions/2021/npc-19-134-vvc-v-cjb|NPC 19-134: VVC v. CJB]]
 - [[decisions/2021/npc-18-109-acn-v-dt|NPC 18-109: ACN v. DT]]
@@ -123,16 +121,16 @@ Auto-generated topic cluster for **Consent**, covering the full corpus of laws, 
 - [[resolutions/2024/npc-cc-20-001-in-re-grab-philippines|NPC CC 20-001: In re: Grab Philippines]]
 - [[resolutions/2024/npc-23-036-in-re-spouses-jg-and-ag-vs-spouses-ckp-and-cjc|NPC 23-036: Spouses JG and AG v. Spouses CKP and CJC]]
 - [[resolutions/2023/npc-22-012-rjc-v-dl|NPC 22-012: RJC v. DL]]
-- [[resolutions/2021/02-23-2021-mnlc-vs-pxxx-corporation|NPC 19-528: MNLC v. PXXX Corporation]]
+- [[resolutions/2021/02-23-2021-mnlc-vs-pxxx-corporation|NPC Case No. 19-528: MNLC v. PXXX Corporation]]
 - [[resolutions/2020/npc-18-010-rla-v-pldt-enterprise|NPC 18-010: RLA v. PLDT Enterprise]]
 - [[resolutions/2019/npc-19-528-mnlc-vs-pxxx-corporation|NPC 19-528: MNLC v. PXXX Corporation]]
-- [[resolutions/2019/08-09-2019-odc-vs-odb-ea|NPC 17-001: ODC v. ODB & AE]]
+- [[resolutions/2019/08-09-2019-odc-vs-odb-ea|NPC Case No. 17-001: ODC v. ODB & AE]]
 
 ## Orders
 - [[orders/2025/cid-cdo-25-001-in-re-the-matter-of-world-app-processing-personal-information|CID CDO 25-001: In the Matter of World App Processing of Personal Information]]
 - [[orders/2021/npc-ss-21-006-in-re-wefund-lending-corporation-3|NPC SS 21-006: In re: Wefund Lending Corporation (Temporary Ban Order)]]
 - [[orders/2020/11-12-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info|2020-11-12: In re: Lisensya.Info (Cease and Desist Order)]]
-- [[orders/2018/cid-18-d-012-jbd-vs-ji-and-vvv|CID 18-D-012: JBD v. JI and VVV]]
+- [[orders/2018/cid-18-d-012-jbd-vs-ji-and-vvv|CID Case No. 18-D-012: JBD v. JI and VVV]]
 
 ## Manual Notes
 <!-- BEGIN MANUAL INDEX NOTES -->

@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import re
+import subprocess
 import sys
 from collections import Counter
 from dataclasses import dataclass
@@ -23,6 +24,7 @@ FRONTMATTER_RE = re.compile(r"\A---\n(?P<body>.*?)(?:\n---\n|\n---\Z)", re.DOTAL
 WIKILINK_RE = re.compile(r"(?<!!)\[\[(?P<body>[^\]\n]+)\]\]")
 BEGIN_MARKER_RE = re.compile(r"<!--\s*BEGIN\s+(?P<label>[^>]+?)\s*-->")
 END_MARKER_RE = re.compile(r"<!--\s*END\s+(?P<label>[^>]+?)\s*-->")
+FINDER_DUPLICATE_RE = re.compile(r" \d+(?:\.[^/]*)?$")
 
 
 @dataclass(frozen=True)
@@ -51,11 +53,40 @@ def line_for_offset(text: str, offset: int) -> int:
 
 def is_hidden_or_internal(path: Path) -> bool:
     rel_parts = path.relative_to(CONTENT_DIR).parts
-    return path.name in SKIP_MARKDOWN_NAMES or any(part.startswith(".") for part in rel_parts)
+    return (
+        path.name in SKIP_MARKDOWN_NAMES
+        or any(FINDER_DUPLICATE_RE.search(part) for part in rel_parts)
+        or any(part.startswith(".") for part in rel_parts)
+    )
 
 
 def iter_markdown_files() -> list[Path]:
-    return sorted(path for path in CONTENT_DIR.rglob("*.md") if not is_hidden_or_internal(path))
+    try:
+        result = subprocess.run(
+            [
+                "git",
+                "ls-files",
+                "--cached",
+                "--others",
+                "--exclude-standard",
+                "-z",
+                "--",
+                "content",
+            ],
+            cwd=ROOT,
+            check=True,
+            capture_output=True,
+        )
+        candidates = [
+            ROOT / value
+            for value in result.stdout.decode("utf-8", errors="surrogateescape").split("\0")
+            if value.endswith(".md")
+        ]
+    except (OSError, subprocess.CalledProcessError):
+        candidates = list(CONTENT_DIR.rglob("*.md"))
+    return sorted(
+        path for path in candidates if path.is_file() and not is_hidden_or_internal(path)
+    )
 
 
 def slug_for(path: Path) -> str:
@@ -110,7 +141,9 @@ def load_case_override_records(payload: Any) -> list[dict[str, Any]]:
     return records
 
 
-def validate_data_files(issues: list[Issue], stats: Stats) -> None:
+def validate_data_files(
+    issues: list[Issue], stats: Stats, committable_markdown: set[Path]
+) -> None:
     for path in sorted(DATA_DIR.glob("*.json")):
         try:
             payload = json.loads(path.read_text(encoding="utf-8"))
@@ -144,7 +177,7 @@ def validate_data_files(issues: list[Issue], stats: Stats) -> None:
                 if not isinstance(value, str) or not value:
                     continue
                 target = ROOT / value
-                if not target.exists():
+                if target not in committable_markdown:
                     issues.append(
                         Issue(
                             "data.missing-path",
@@ -247,8 +280,9 @@ def validate_wikilinks(
         )
 
 
-def validate_markdown_files(issues: list[Issue], stats: Stats) -> None:
-    markdown_files = iter_markdown_files()
+def validate_markdown_files(
+    issues: list[Issue], stats: Stats, markdown_files: list[Path]
+) -> None:
     slugs, basenames = build_slug_index(markdown_files)
     stats.markdown_files = len(markdown_files)
 
@@ -262,9 +296,10 @@ def validate_markdown_files(issues: list[Issue], stats: Stats) -> None:
 def main() -> int:
     issues: list[Issue] = []
     stats = Stats()
+    markdown_files = iter_markdown_files()
 
-    validate_data_files(issues, stats)
-    validate_markdown_files(issues, stats)
+    validate_data_files(issues, stats, set(markdown_files))
+    validate_markdown_files(issues, stats, markdown_files)
 
     if issues:
         counts = Counter(issue.code for issue in issues)

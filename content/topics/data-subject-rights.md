@@ -13,7 +13,7 @@ Auto-generated topic cluster for **Data Subject Rights**, covering the full corp
 ## Issuances
 - [[issuances/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Guidelines on Privacy Engineering in Systems Life Cycle Processes (Advisory No. 2025-02)]]
 - [[issuances/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras (Circular No. 2025-01)]]
-- [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Guidelines on the Application of the DPA to Artificial Intelligence Systems Processing Personal Data (Advisory No. 2024-04)]]
+- [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data (Advisory No. 2024-04)]]
 - [[issuances/2024/closed-circuit-television-cctv-systems|Closed-Circuit Television (CCTV) Systems (Circular No. 2024-02)]]
 - [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure of the NPC, as Amended (Current Version)]]
 - [[issuances/2023/guidelines-on-deceptive-design-patterns|Guidelines on Deceptive Design Patterns (Advisory No. 2023-01)]]
@@ -76,7 +76,6 @@ Auto-generated topic cluster for **Data Subject Rights**, covering the full corp
 - [[advisory-opinions/2017/advisory-opinion-no-2017-007-npc-advisoryopinionno-2017-007|NPC Advisory Opinion No. 2017-007 — Consent, Collection of Fees for Right to Access, and Incidental Collection of Personal Data]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-004-npc-advisoryopinionno-2017-004|NPC Advisory Opinion No. 2017-004 — Right to Access, Right to Data Portability and Use of Data Collected for Organizational Improvement]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-001-npc-advisoryopinionno-2017-001|NPC Advisory Opinion No. 2017-001 — Registration of Processing System for Online Businesses; Deletion of Data and Clarification on Section 19(E)(2) of the IRR]]
-- [[advisory-opinions/2017/index 2|Advisory Opinions 2017]]
 
 ## Decisions
 - [[decisions/2024/npc-22-066-als-vs-allied-bank-now-philippine-national-bank|NPC 22-066: ALS v. Allied Bank (Now Philippine National Bank)]]
@@ -85,7 +84,7 @@ Auto-generated topic cluster for **Data Subject Rights**, covering the full corp
 - [[decisions/2023/npc-18-004-and-npc-18-005-ca-v-westparc-condominium-and-vp-v-westparc-condominium|NPC 18-004 and NPC 18-005: CA v. WestParc Condominium and VP v. WestParc Condominium]]
 - [[decisions/2023/npc-ss-21-008-populus-lending-corporation-pesopop-and-its-responsible-officers|NPC SS 21-008: Populus Lending Corporation (Pesopop) and its Responsible Officers]]
 - [[decisions/2022/npc-20-026-jba-v-fnt-and-nnt|NPC 20-026: JBA v. FNT and NNT]]
-- [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006: Wefund Lending Corporation and its Responsible Officers]]
+- [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006: In Re: Wefund Lending Corporation (JuanHand) and its Responsible Officers]]
 - [[decisions/2020/npc-18-142-msh-vs-rsf-tcc|NPC 18-142: MSH v. RSF and TCC]]
 - [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653: BGM v. IPP]]
 - [[decisions/2020/npc-18-038-fgp-vs-maersk|NPC 18-038: FGP v. Maersk Global Service Centres, Philippines, Ltd.]]
@@ -95,7 +94,7 @@ Auto-generated topic cluster for **Data Subject Rights**, covering the full corp
 - [[resolutions/2025/cid-cdo-25-001-in-re-in-the-matter-of-the-world-app-processing-personal-information|CID CDO 25-001: In re: World App Processing of Personal Information]]
 - [[resolutions/2024/npc-cc-20-001-in-re-grab-philippines|NPC CC 20-001: In re: Grab Philippines]]
 - [[resolutions/2022/npc-20-026-jba-v-fnt-and-nnt|NPC 20-026: JBA v. FNT and NNT]]
-- [[resolutions/2022/npc-cdo-22-001-cid-vs-ph-check-com|NPC CDO 22-001: CID vs. PH-Check.com]]
+- [[resolutions/2022/npc-cdo-22-001-cid-vs-ph-check-com|CID CDO 22-001: CID vs. PH-Check.com]]
 - [[resolutions/2022/npc-ss-21-008-in-re-populus-lending-corporation-pesopop-and-its-responsible-officers-2|NPC SS 21-008: In Re: Populus Lending Corporation (Pesopop) and its Responsible Officers]]
 - [[resolutions/2021/npc-19-1201-d-n-t-v-k-k-et-al|NPC 19-1201: D.N.T. v. K.K. and X.F.]]
 - [[resolutions/2021/npc-18-038-fgp-vs-maersk-global-center-philippines-ltd|NPC 18-038: FGP v. Maersk Global Service Centres, Philippines, Ltd.]]
@@ -104,7 +103,7 @@ Auto-generated topic cluster for **Data Subject Rights**, covering the full corp
 ## Orders
 - [[orders/2025/cid-cdo-25-001-in-re-the-matter-of-world-app-processing-personal-information|CID CDO 25-001: In the Matter of World App Processing of Personal Information]]
 - [[orders/2021/npc-ss-21-006-in-re-wefund-lending-corporation-3|NPC SS 21-006: In re: Wefund Lending Corporation (Temporary Ban Order)]]
-- [[orders/2021/06-16-2021-in-re-pilipinas2022-ph-initiated-as-a-sua-sponte-npc-investigation-into-the-possible-data-privacy-violations-committed-by-pilipinas2022-ph|CID CDO 21-003: In re: PiliPinas2022.ph]]
+- [[orders/2021/06-16-2021-in-re-pilipinas2022-ph-initiated-as-a-sua-sponte-npc-investigation-into-the-possible-data-privacy-violations-committed-by-pilipinas2022-ph|CID-CDO-21-003: In re: PiliPinas2022.ph]]
 - [[orders/2020/11-12-2020-in-re-lisensya-info-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-the-website-lisensya-info|2020-11-12: In re: Lisensya.Info (Cease and Desist Order)]]
 - [[orders/2020/npc-ss-20-001-in-re-familyhan-credit-corporation-initiated-as-an-independent-npc-investigation-into-the-possible-data-privacy-violations-committed-by-familyhan-credit-corporation|NPC SS 20-001: In re: Familyhan Credit Corporation]]
 - [[orders/2020/02-03-2020-in-re-grab-ph-selfie-verification-and-in-vehicle-audio-and-video-recordinig-cease-and-desist|NPC CC 20-001: In re: Grab Philippines' Roll-Out of Passenger Selfie Verification; Pilot Test of In-Vehicle Audio Recording; and Pilot Test of In-Vehicle Video Recording]]

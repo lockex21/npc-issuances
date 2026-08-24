@@ -43,10 +43,9 @@ Auto-generated topic cluster for **Registration**, covering the full corpus of l
 - [[advisory-opinions/2017/advisory-opinion-no-2017-018-npc-advisoryopinionno-2017-018|NPC Advisory Opinion No. 2017-018 — Queries Regarding the Implementing Rules and Regulations of the Data Privacy Act]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-017-npc-advisoryopinionno-2017-017|NPC Advisory Opinion No. 2017-017 — Clarifications on the Data Privacy Act of 2012 and its Implementing Rules and Regulations]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-013-npc-advisoryopinionno-2017-013|NPC Advisory Opinion No. 2017-013 — Data Sharing; Definition of Commercial Purposes; Data Protection Officer]]
-- [[advisory-opinions/2017/index 2|Advisory Opinions 2017]]
 
 ## Resolutions
-- [[resolutions/2018/npc-18-151-in-re-western-union-services-philippines-inc|NPC 18-151: In re: Western Union Services (Philippines), Inc.]]
+- [[resolutions/2018/npc-18-151-in-re-western-union-services-philippines-inc|NPC BN 18-151: In re: Western Union Services (Philippines), Inc.]]
 - [[resolutions/2022/npc-bn-18-179-in-re-abs-cbn-corporation|NPC BN 18-179: In re: ABS-CBN Corporation]]
 - [[resolutions/2022/npc-16-004-cbp-v-orani-water-district|NPC 16-004: CBP v. Orani Water District]]
 - [[resolutions/2021/npc-bn-17-002-in-re-data-breach-involving-the-comelec-data-processing-system-in-wao-lanao-del-sur|NPC BN 17-002: In re: Data Breach Involving the COMELEC Data Processing System in Wao, Lanao Del Sur]]

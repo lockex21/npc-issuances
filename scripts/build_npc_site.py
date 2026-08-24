@@ -97,6 +97,7 @@ TEXT_DATE_PATTERN = re.compile(
 )
 WS_RE = re.compile(r"\s+")
 URL_PATTERN = re.compile(r"https?://[^\s<>)\]}]+")
+FINDER_DUPLICATE_RE = re.compile(r" \d+(?:\.[^/]*)?$")
 
 TOPIC_RULES: dict[str, tuple[str, ...]] = {
     "ai": ("artificial intelligence", r"\bai\b"),
@@ -1192,7 +1193,12 @@ def count_section_notes(section: str) -> int:
     return sum(
         1
         for path in base.rglob("*.md")
-        if path.name != "index.md" and not path.name.startswith((".", "_"))
+        if path.name != "index.md"
+        and not path.name.startswith((".", "_"))
+        and not any(
+            FINDER_DUPLICATE_RE.search(part)
+            for part in path.relative_to(CONTENT_DIR).parts
+        )
     )
 
 

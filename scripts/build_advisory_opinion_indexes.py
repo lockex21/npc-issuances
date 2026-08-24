@@ -17,6 +17,7 @@ AO_DIR = ROOT / "content" / "advisory-opinions"
 SOURCE_URL = "https://privacy.gov.ph/advisory-opinions/"
 MANUAL_BEGIN = "<!-- BEGIN MANUAL INDEX NOTES -->"
 MANUAL_END = "<!-- END MANUAL INDEX NOTES -->"
+FINDER_DUPLICATE_RE = re.compile(r" \d+(?:\.[^/]*)?$")
 
 
 def read_title(path: Path) -> str:
@@ -69,7 +70,12 @@ def main() -> None:
         files = sorted(
             p
             for p in year_dir.glob("*.md")
-            if p.name != "index.md" and not p.name.startswith((".", "_"))
+            if p.name != "index.md"
+            and not p.name.startswith((".", "_"))
+            and not any(
+                FINDER_DUPLICATE_RE.search(part)
+                for part in p.relative_to(AO_DIR).parts
+            )
         )
         if files:
             year_groups[year_dir.name] = files

@@ -17,10 +17,10 @@ Cornerstone documents that most other material builds on:
 
 ## Browse
 - [[issuances/index|Issuances]] — 65 circulars, advisories, guidelines, and rules, by year
-- [[advisory-opinions/index|Advisory opinions]] — 396 responses to written requests for guidance
+- [[advisory-opinions/index|Advisory opinions]] — 388 responses to written requests for guidance
 - [[decisions/index|Decisions]] — 99 rulings in complaints and other cases
 - [[resolutions/index|Resolutions]] — 140 dispositions of motions and interlocutory matters
-- [[orders/index|Orders]] — 74 directives, including breach-related and cease-and-desist orders
+- [[orders/index|Orders]] — 73 directives, including breach-related and cease-and-desist orders
 - [[laws/index|Laws]] — 2 statutory foundations (the DPA and its IRR)
 - [[types/index|Issuances by type]] — the same issuances grouped by document type
 

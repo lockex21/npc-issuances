@@ -110,6 +110,7 @@ FRONTMATTER_RE = re.compile(r"\A---\n(?P<fm>.*?\n)---\n", re.DOTALL)
 TAGS_BLOCK_RE = re.compile(r"(?m)^tags:[ \t]*\n(?P<items>(?:[ \t]*-[ \t][^\n]*\n)+)")
 TAGS_INLINE_RE = re.compile(r"(?m)^tags:[ \t]*\[(?P<items>[^\]\n]*)\][ \t]*$")
 DATE_ISO_RE = re.compile(r"\d{4}-\d{2}-\d{2}")
+FINDER_DUPLICATE_RE = re.compile(r" \d+(?:\.[^/]*)?$")
 
 
 @dataclass
@@ -189,7 +190,14 @@ def iter_corpus_files() -> list[tuple[str, Path]]:
         if not base.is_dir():
             continue
         for path in sorted(base.rglob("*.md")):
-            if path.name == "index.md" or path.name.startswith((".", "_")):
+            if (
+                path.name == "index.md"
+                or path.name.startswith((".", "_"))
+                or any(
+                    FINDER_DUPLICATE_RE.search(part)
+                    for part in path.relative_to(CONTENT_DIR).parts
+                )
+            ):
                 continue
             if any(part.startswith((".", "_")) for part in path.relative_to(CONTENT_DIR).parts):
                 continue

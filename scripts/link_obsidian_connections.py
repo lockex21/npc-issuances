@@ -439,6 +439,8 @@ def iter_markdown_files() -> list[Path]:
             continue
         if path.name in SKIP_NAMES:
             continue
+        if any(re.search(r" \d+(?:\.[^/]*)?$", part) for part in rel_parts):
+            continue
         files.append(path)
     return sorted(files)
 

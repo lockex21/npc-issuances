@@ -72,6 +72,7 @@ Auto-generated topic cluster for **Legitimate Interest**, covering the full corp
 
 ## Decisions
 - [[decisions/2024/npc-22-257-arg-v-amp|NPC 22-257: ARG v. AMP]]
+- [[decisions/2024/npc-19-1805-cbb-vs-ams|NPC 19-1805: CBB v. AMS]]
 - [[decisions/2024/npc-19-1429-ams-vs-cbb|NPC 19-1429: AMS v. CBB]]
 - [[decisions/2024/npc-22-042-efd-vs-aod|NPC 22-042: EFD v. AOD]]
 - [[decisions/2024/npc-22-179-tso-vs-arm-and-hbm|NPC 22-179: TSO v. ARM and HBM]]
@@ -82,10 +83,10 @@ Auto-generated topic cluster for **Legitimate Interest**, covering the full corp
 - [[decisions/2017/npc-20-307-spouses-jgy-and-nty-v-bpi-family-savings-bank-inc|NPC 20-307: Spouses JGY and NTY v. BPI Family Savings Bank, Inc.]]
 - [[decisions/2023/npc-19-758-and-npc-19-1846-spouses-mcd-jjd-v-victorias-milling-company-et-al|NPC 19-758 and NPC 19-1846: Spouses MCD and JJD v. Victorias Milling Company, et al.]]
 - [[decisions/2022/npc-20-317-and-20-318-gba-v-sbg-and-lpl-v-sbg|NPC 20-317 and 20-318: GBA v. SBG and LPL v. SBG]]
-- [[decisions/2022/npc-bn-21-111-eg-vs-ji-ro-and-rr|NPC BN 21-111: EG v. JI, RO, and RR]]
 - [[decisions/2022/npc-21-167-maf-v-shopee-philippines-inc|NPC 21-167: MAF v. Shopee Philippines, Inc.]]
 - [[decisions/2022/npc-21-111-eg-v-ji-ro-and-rr|NPC 21-111: EG v. JI, RO, and RR]]
-- [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006: Wefund Lending Corporation and its Responsible Officers]]
+- [[decisions/2022/npc-bn-21-111-eg-vs-ji-ro-and-rr|NPC 21-111: EG v. JI, RO, and RR]]
+- [[decisions/2022/npc-ss-21-006-wefund-lending-corp|NPC SS 21-006: In Re: Wefund Lending Corporation (JuanHand) and its Responsible Officers]]
 - [[decisions/2022/npc-21-032-jdb-v-jme|NPC 21-032: JCB v. JME]]
 - [[decisions/2022/npc-19-278-jro-vs-msmi|NPC 19-278: JRO v. MSMI]]
 - [[decisions/2022/npc-21-031-jcb-v-frl|NPC 21-031: JCB v. FRL]]
@@ -93,13 +94,12 @@ Auto-generated topic cluster for **Legitimate Interest**, covering the full corp
 - [[decisions/2021/npc-19-0048-gj-s-vmj-mtp|NPC 19-0048: GJ v. VMJ and MTP]]
 - [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653: BGM v. IPP]]
 - [[decisions/2020/npc-19-528-mnlc-vs-pxxx-corporation|NPC 19-528: MNLC, Inc. v. PXXX Corporation, RCM, and AD]]
-- [[decisions/2024/npc-19-1805-cbb-vs-ams|NPC 19-1805: CBB v. AMS]]
 
 ## Resolutions
 - [[resolutions/2024/npc-24-005-in-re-rvb-v-jtl|NPC 24-005: RVB v. JTL]]
 - [[resolutions/2023/npc-18-g-077-in-re-tgm-vs-edm-eas-and-mcn|NPC 18-G-077: TGM v. EDM, EAS, and MCN]]
-- [[resolutions/2022/npc-22-180-and-22-181-dvl-v-alamat-crewsers-motorcycle-club-and-lae-v-alamat-crewsers-motorcycle-club|NPC 22-180 and 22-181: DVL v. Alamat Crewsers Motorcycle Club and LAE v. Alamat Crewsers Motorcycle Club]]
-- [[resolutions/2021/02-23-2021-mnlc-vs-pxxx-corporation|NPC 19-528: MNLC v. PXXX Corporation]]
+- [[resolutions/2022/npc-22-180-and-22-181-dvl-v-alamat-crewsers-motorcycle-club-and-lae-v-alamat-crewsers-motorcycle-club|NPC 22-180 and NPC 22-181: DVL v. Alamat Crewsers Motorcycle Club and LAE v. Alamat Crewsers Motorcycle Club]]
+- [[resolutions/2021/02-23-2021-mnlc-vs-pxxx-corporation|NPC Case No. 19-528: MNLC v. PXXX Corporation]]
 
 ## Orders
 - [[orders/2021/npc-ss-21-006-in-re-wefund-lending-corporation-3|NPC SS 21-006: In re: Wefund Lending Corporation (Temporary Ban Order)]]

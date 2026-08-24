@@ -14,7 +14,7 @@ Auto-generated topic cluster for **Training Certification**, covering the full c
 - [[issuances/undated/faq-data-privacy-competency-program|Circular on Data Privacy Competency Program]]
 
 ## Resolutions
-- [[resolutions/2018/npc-18-151-in-re-western-union-services-philippines-inc|NPC 18-151: In re: Western Union Services (Philippines), Inc.]]
+- [[resolutions/2018/npc-18-151-in-re-western-union-services-philippines-inc|NPC BN 18-151: In re: Western Union Services (Philippines), Inc.]]
 
 ## Orders
 - [[orders/2020/npc-bn-20-044-in-re-ritm|NPC BN 20-044: In re: Research Institute for Tropical Medicine]]
