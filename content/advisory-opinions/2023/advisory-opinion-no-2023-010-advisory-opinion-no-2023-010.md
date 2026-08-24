@@ -26,7 +26,7 @@ aliases:
 
 15 February 2023
 
-Re: RECORDING OF TELEPHONE CONVERSATION THROUGH VOICE OVER INTERNET PROTOCOL (VoIP) SYSTEM
+**Re: RECORDING OF TELEPHONE CONVERSATION THROUGH VOICE OVER INTERNET PROTOCOL (VoIP) SYSTEM**
 
 Dear [Redacted],
 We respond to your query about the conversation recording feature of the Voice Over Internet Protocol (VoIP) telephone system of the Philippine Merchant Marine Academy (Academy).
@@ -46,20 +46,16 @@ You thus ask whether the automatic conversation recording feature of the VoIP ph
 
 ### Discussion
 
-#### Scope of the Data Privacy Act; Lawful Processing Recorded Calls Containing Personal Data; Proportionality
+#### *Scope of the Data Privacy Act; Lawful Processing Recorded Calls Containing Personal Data; Proportionality*
 
 RA 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) applies to the processing of all types of personal
 information[^2] and to any natural and juridical person involved in personal information
 processing.[^3]
 
-Processing as defined under the DPA refers to any operation or any set of operations performed
-upon personal information including, but not limited to, the collection, recording, organization,
-storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure
+Processing as defined under the DPA refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure
 or destruction of data.[^4]
 
-Recording telephone conversations may be considered as a form of data processing since
-personal information and sensitive personal information (collectively, personal data) may be
-given out or spoken in the course of these conversations. In NPC Advisory Opinion No. 2017-
+Recording telephone conversations may be considered as a form of data processing since personal information and sensitive personal information (collectively, personal data) may be given out or spoken in the course of these conversations. In NPC Advisory Opinion No. 2017-
 63[^5], the concept of biometrics as personal data was discussed, viz.:
 
    “Under Republic Act (RA) No. 10367[^6], biometrics refer to ‘the
@@ -87,15 +83,9 @@ given out or spoken in the course of these conversations. In NPC Advisory Opinio
              distinguished from others, may be treated as personal information.”
              (underscoring supplied)
 
-In your query, the recording of a telephone conversation is considered as processing of personal
-data when the parties to the conversation can be identified by their voice; or when linked to
-other information can identify an individual/s, such as an employee directory, or if the caller’s
-identity is mentioned in the phone conversation.
+In your query, the recording of a telephone conversation is considered as processing of personal data when the parties to the conversation can be identified by their voice; or when linked to other information can identify an individual/s, such as an employee directory, or if the caller’s identity is mentioned in the phone conversation.
 
-The processing of a telephone conversation via recording is not prohibited by the DPA, but there
-must be a legitimate purpose for recording and such purpose is not contrary to law, morals or
-public policy. If a legitimate purpose has been established, the next step is to determine the
-applicable criteria for processing under Section 12 or 13 of the DPA, depending on the personal
+The processing of a telephone conversation via recording is not prohibited by the DPA, but there must be a legitimate purpose for recording and such purpose is not contrary to law, morals or public policy. If a legitimate purpose has been established, the next step is to determine the applicable criteria for processing under Section 12 or 13 of the DPA, depending on the personal
 data involved, thus:
 
    SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing
@@ -173,32 +163,17 @@ Academy’s outgoing calls through the VoIP system:
 Based on the aforementioned purposes, it appears that the only applicable basis for processing
 would be to obtain the consent of the data subjects.
 
-As presented, the purposes seem to be ambiguous and speculative; hence, they cannot qualify
-under the criterion of legitimate interest in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]]. The purposes failed to
-state what specific details would be recorded or are sought to be recorded to justify the
-automatic recording. This contravenes the data privacy principle of transparency which
-requires that the data subject (i.e., the parties to the telephone conversation) must be aware of
-the nature, purpose, and extent of the processing of his or her personal data, including the risks
-and safeguards involved, the identity of personal information controller, his or her rights as a
-data subject, and how these can be exercised.[^12]
+As presented, the purposes seem to be ambiguous and speculative; hence, they cannot qualify under the criterion of legitimate interest in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]]. The purposes failed to state what specific details would be recorded or are sought to be recorded to justify the automatic recording. This contravenes the data privacy principle of transparency which requires that the data subject (i.e., the parties to the telephone conversation) must be aware of the nature, purpose, and extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of personal information controller, his or her rights as a data subject, and how these can be exercised.[^12]
 
-The automatic recording of VoIP phone calls also appears to be disproportionate to the
-purposes it seeks to achieve. The data privacy principle of proportionality requires that the
-processing of information shall be adequate, relevant, suitable, necessary, and not excessive in
-relation to a declared and specified purpose. Personal data shall be processed only if the
-purpose of the processing could not reasonably be fulfilled by other means.[^13] The Academy
-has not shown that the purposes stated in the VoIP policy cannot be fulfilled through any other
-means aside from the recording of the phone calls.
+The automatic recording of VoIP phone calls also appears to be disproportionate to the purposes it seeks to achieve. The data privacy principle of proportionality requires that the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.[^13] The Academy has not shown that the purposes stated in the VoIP policy cannot be fulfilled through any other means aside from the recording of the phone calls.
 
 Lastly, the enumerated purposes appear to be speculative and have no specific legal basis to
 rationalize the recording of conversations without the consent of the parties to the phone call.
 
-#### Reasonable Expectation of Privacy in the Workplace
+#### *Reasonable Expectation of Privacy in the Workplace*
 
 Factual circumstances of every case determine the reasonableness of the expectation of privacy.
-Similarly, customs, community norms, and practices may, therefore, limit or extend an
-individual’s reasonable expectation of privacy. The reasonableness of a person’s expectation of
-privacy is determined on a case-to-case basis.[^14]
+Similarly, customs, community norms, and practices may, therefore, limit or extend an individual’s reasonable expectation of privacy. The reasonableness of a person’s expectation of privacy is determined on a case-to-case basis.[^14]
 
 [[advisory-opinions/2018/advisory-opinion-no-2018-090-npc-advisory-opinion-no-2018-090|NPC Advisory Opinion No. 2018-090]][^15] is highly instructive on the reasonable expectation of
 privacy in the workplace in light of the implementation of the DPA, viz.:
@@ -262,13 +237,9 @@ knowledge, amounted to unnecessary interference with his privacy rights, viz:
 Hence, with the DPA in place, employers are expected to be more mindful of the privacy rights
 of their employees.
 
-#### Privacy Notice; Privacy Policy; Data Security
+#### *Privacy Notice; Privacy Policy; Data Security*
 
-In your letter, you mentioned that no notice has been disseminated yet on the automatic
-recording feature of the VoIP phone. We recommend that the Academy gather the consent of
-the data subjects which may be done through an automatic voice prompt informing the data
-subjects that the conversation will be recorded for the purposes cited in your VoIP policy. This
-is also a good way to notify the data subjects of the nature, purpose and extent of the processing
+In your letter, you mentioned that no notice has been disseminated yet on the automatic recording feature of the VoIP phone. We recommend that the Academy gather the consent of the data subjects which may be done through an automatic voice prompt informing the data subjects that the conversation will be recorded for the purposes cited in your VoIP policy. This is also a good way to notify the data subjects of the nature, purpose and extent of the processing
 of their personal data.
 
 Further, please note that the upgrade in the system necessarily signifies the need to revisit the
@@ -276,11 +247,7 @@ Academy’s security policies. We suggest the drafting a more comprehensive priv
 which would also include other provisions on data privacy such as data retention, deletion, and
 access.
 
-Moreover, a Privacy Impact Assessment (PIA) may be necessary prior to the introduction of
-this telephone system to identify existing and potential risks and enable the Academy to take
-the appropriate measures. A PIA will help you identify the type of security demanded on this
-kind of medium for personal data. A PIA will ensure the system’s compliance with the DPA
-and protection of your data subject’s rights:
+Moreover, a Privacy Impact Assessment (PIA) may be necessary prior to the introduction of this telephone system to identify existing and potential risks and enable the Academy to take the appropriate measures. A PIA will help you identify the type of security demanded on this kind of medium for personal data. A PIA will ensure the system’s compliance with the DPA and protection of your data subject’s rights:
 
    A PIA should be conducted prior to the deployment of a project, product,
                  or service that involves the collection of personal information. When there
@@ -296,9 +263,7 @@ and protection of your data subject’s rights:
                  and mitigation measures may be incorporated in the organization’s
                  Privacy Management Program (PMP).[^17]
 
-As to your query on the other possible legal repercussions of the Academy’s adoption of the
-system, (e.g. the Anti Wiretapping Law), it would be best to consult your legal department as
-they possess all the necessary information and facts to respond appropriately.
+As to your query on the other possible legal repercussions of the Academy’s adoption of the system, (e.g. the Anti Wiretapping Law), it would be best to consult your legal department as they possess all the necessary information and facts to respond appropriately.
 
 Please be advised that the foregoing was rendered based solely on the information provided.
 Any extraneous fact that may be subsequently furnished us may affect our present position.
@@ -310,8 +275,8 @@ For your reference.
 Very truly yours,
 
 (Sgd.)
-FRANKLIN ANTHONY M. TABAQUIN, IV
-Director IV, Privacy Policy Office
+**FRANKLIN ANTHONY M. TABAQUIN, IV**
+*Director IV, Privacy Policy Office*
 
 [^2]: [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Data Privacy Act of 2012, § 3 (g)]]. Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.
 

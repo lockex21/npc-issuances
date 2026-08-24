@@ -65,14 +65,10 @@ To emphasize this further, while the DPA aims to protect personal and sensitive 
 General considerations on the posting of personal data of suspects in public places should
 include the balancing of the rights of the data subject vis-à-vis those of the general public.[^5]
 
-According to the DPA, the processing of personal information shall only be allowed, subject
-to compliance with the requirements of the Act and other laws allowing disclosure of
-information to the public and adherence to the principles of transparency, legitimate purpose
+According to the DPA, the processing of personal information shall only be allowed, subject to compliance with the requirements of the Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose
 and proportionality.[^6]
 
-The public posting of personal information may be allowed in certain instances, i.e. wanted
-suspects, those who escaped custody, etc.[^7] Note that other means of tracing the location of the
-person should have first been tried where practical.[^8]
+The public posting of personal information may be allowed in certain instances, i.e. wanted suspects, those who escaped custody, etc.[^7] Note that other means of tracing the location of the person should have first been tried where practical.[^8]
 
 We note also the common practice of some establishments of posting photos of suspected shoplifters. The Office of Personal Data Protection (OPDP) in Macau have demanded that the same be stopped, reasoning that although it is legal for establishments to install surveillance systems in their premises for security purposes, the image data derived therefrom may not be processed or used for something other than said security purpose. This would exclude the public posting of images of suspected shoplifters and labelling them as such.[^9] If video data indicates shoplifting, it should have been referred to the police.[^10]
 

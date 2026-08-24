@@ -30,68 +30,25 @@ draft: false
 
 ## Decision Text
 
-IN RE: FLI OPERATING ABC ONLINE LENDING APPLICATION
+**IN RE: FLI OPERATING ABC ONLINE LENDING APPLICATION**
 
 x----------------------------------------------------x
 
-AGUIRRE, D.P.C.:
+## **DECISION**
+
+***AGUIRRE, D.P.C.***
 
 This concludes the investigation conducted by the Commission following the Fact-Finding Report prepared by the NPC Task Force on Online Lending Mobile Applications[^1] (Task Force) dated 29 August 2019, which serves as the Complaint (Complaint) pursuant to [[issuances/undated/rules-of-procedure#rule-iv-complaints-of-the-national-privacy-commission|Rule IV of NPC Circular 16-04]].[^2] The Complaint alleged violations of [[laws/data-privacy-act-of-2012|Republic Act (R.A.) 10173 or the Data Privacy Act of 2012 (DPA)]] by FLI, operating the ABC online lending application.
 
-The Complaint summarized its findings with the following
+The Complaint summarized its findings with the following recommendations:
 
-recommendations:
-
-On the basis of this fact finding report, there is sufficient
-
-ground to establish that FLI operating the ABC online
-
-lending application, as represented by their respective
-
-board of directors, committed acts in violation of the DPA,
-
-specifically:
-
-1. Sections 11, 12, 13, 16, 20, and 21, for processing
-
-without complying with the requirements of the
-
-DPA and for failing to adhere to the principles of
-
-This Commission issued , on 14 May 2019 , Privacy Commission Special Order Nos. 028 and 032-
-
-A, creating and reconstituting the NPC Task Force on Online Lending Mobile Applications. Said
-
-Special Orders explicitly named the seven (7) staff officers as members thereof. The Task Force is
-
-responsible to investigate the influx of complaints against several online lending companies for a
-
-potential violation of the DPA. The Task Force is also mandated to provide options and
-
-recommendations for the Commission to immediately address concerns of the public. In
-
-accomplishing this function, the Task Force submitted a fact-finding report on several online
-
-lending companies, one of which is the herein Respondents.
-
-[[issuances/undated/rules-of-procedure|NPC Circular 16-04]]. Rules of Procedure of the National Privacy Commission. Dated 15
-
-December 2016. NPC 19-910
-
-
-Transparency, Legitimate Purpose and
-
-Proportionality;
-
-2. Sections 25, for Unauthorized Processing;
-
-3. Section 28, for Processing for Unauthorized
-
-Purposes;
-
-4. Section 31, for Malicious Disclosure;
-
-5. Section 32, for Unauthorized Disclosure. 3
+> On the basis of this fact finding report, there is sufficient ground to establish that FLI operating the ABC online lending application, as represented by their respective board of directors, committed acts in violation of the DPA, specifically:
+>
+> 1. Sections 11, 12, 13, 16, 20, and 21, for processing without complying with the requirements of the DPA and for failing to adhere to the principles of Transparency, Legitimate Purpose and Proportionality;
+> 2. Sections 25, for Unauthorized Processing;
+> 3. Section 28, for Processing for Unauthorized Purposes;
+> 4. Section 31, for Malicious Disclosure;
+> 5. Section 32, for Unauthorized Disclosure.[^3]
 
 ### The Complaint
 
@@ -2785,15 +2742,15 @@ and ethical practices , leading to products and services that are free from
 
 any doubt on their security and informat ional privacy .
 
-WHEREFORE, all these premises considered, this Commission hereby:
+**WHEREFORE**, all these premises considered, this Commission hereby:
 
-1. FINDS that Respondent FLI and its Board of Directors , namely,
+1. **FINDS** that Respondent FLI and its Board of Directors , namely,
 
 ML , CW , KF , JG , HJL , as responsible officers, have violated
 
 Section 25 of the Data Privacy Act; and
 
-2.  FORWARDS this Decision and a copy of the pertinent case
+2. **FORWARDS** this Decision and a copy of the pertinent case
 
 records to the Secretary of Justice, recommending the prosecu tion
 
@@ -2801,56 +2758,59 @@ of the R espondents for the crime s of Unauthorized Processing
 
 under Section 25 of the Data Privacy Act , for its further actions .
 
-SO ORDERED.
+**SO ORDERED.**
 
 City of Pasay, Philippines ;
 
 17 December 2020 .
 
-(Sgd. )
+(Sgd.)
 
-LEANDRO ANGELO Y. AGUIRRE
+**LEANDRO ANGELO Y. AGUIRRE**
 
-Deputy Privacy Commissioner
+*Deputy Privacy Commissioner*
 
 WE CONCUR:
 
-(Sgd. )
+(Sgd.)
 
-RAYMUND E NRIQUEZ LIBORO
+**RAYMUND ENRIQUEZ LIBORO**
 
-Privacy Commissioner
+*Privacy Commissioner*
 
-(Sgd. )
+(Sgd.)
 
-JOHN HENRY D. NAGA
+**JOHN HENRY D. NAGA**
 
-Deputy Privacy Commissioner NPC 19-910
+*Deputy Privacy Commissioner*
 
-COPY FURNISHED:
+**COPY FURNISHED:**
 
-QG LAW OFFICES
+**QG LAW OFFICES**
 
-Counsel
+**Counsel**
 
-Counsel for FLI , ML , CW , and BSJ
+*Counsel for FLI, ML, CW, and BSJ*
 
-GNGA & ASSOCIATES
+**GNGA& ASSOCIATES**
 
-Counsel for Respondents KF , JG
+*Counsel for Respondents KF, JG*
 
-and HJL
+*and HJL*
 
-COMPLAINTS AND INVESTIGATION DIVISION
+**COMPLAINTS AND INVESTIGATION DIVISION**
 
-ENFORCEMENT DIVISION
+**ENFORCEMENT DIVISION**
 
-GENERAL RECORDS UNIT
+**GENERAL RECORDS UNIT**
 
-National Privacy Commissio n
+National Privacy Commission
 
-[^2]: 9
-[^3]: 2
+## Footnotes
+
+[^1]: This Commission issued, on 14 May 2019, Privacy Commission Special Order Nos. 028 and 032-A, creating and reconstituting the NPC Task Force on Online Lending Mobile Applications. Said Special Orders explicitly named the seven (7) staff officers as members thereof. The Task Force is responsible to investigate the influx of complaints against several online lending companies for a potential violation of the DPA. The Task Force is also mandated to provide options and recommendations for the Commission to immediately address concerns of the public. In accomplishing this function, the Task Force submitted a fact-finding report on several online lending companies, one of which is the herein Respondents.
+[^2]: [[issuances/undated/rules-of-procedure|NPC Circular 16-04]]. Rules of Procedure of the National Privacy Commission. Dated 15 December 2016.
+[^3]: Fact-Finding Report dated 29 August 2019, p. 23.
 [^4]: Id at 1 . NPC 19-910
 [^5]: Id at 2.
 [^6]: Id ,at 3. NPC 19-910

@@ -37,14 +37,9 @@ We write in response to the request for guidance sent by the Civil Service Commi
 in relation to the proposed mandatory psychiatric examination of all National Council on
 Disability Affairs (NCDA) personnel.
 
-We note from the CSC letter that one NCDA personnel posted on the group chat of the NCDA
-two documents: 1) receiving letter for the Department of Health Secretary requesting for a
-psychiatric testing for all NCDA personnel, and 2) draft Memorandum of Agreement (MOA)
-with the National Center for Mental Health (NCMH).
+We note from the CSC letter that one NCDA personnel posted on the group chat of the NCDA two documents: 1) receiving letter for the Department of Health Secretary requesting for a psychiatric testing for all NCDA personnel, and 2) draft Memorandum of Agreement (MOA) with the National Center for Mental Health (NCMH).
 
-We understand that the MOA includes a provision that an average of ten (10) personnel will
-be subject to psychiatric assessment and evaluation per week until all NCDA personnel has
-undergone it and that the psychiatric evaluation results will be given to the Executive
+We understand that the MOA includes a provision that an average of ten (10) personnel will be subject to psychiatric assessment and evaluation per week until all NCDA personnel has undergone it and that the psychiatric evaluation results will be given to the Executive
 Director.
 
 In your memo to the Board Secretary and Officer-in-Charge, Finance and Administrative
@@ -67,9 +62,7 @@ Executive Director rather than to the concerned NCDA personnel.
 
 #### Sensitive Personal Information; Health Information; Psychiatric Evaluation of Employees; Lawful Criteria for Processing Sensitive Personal Information by Employers; Consent
 
-The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) considers an individual’s health information as sensitive
-personal information.[^3] As such, the processing of the same, as a general rule, is prohibited
-unless the processing falls within the criteria for lawful processing enumerated under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], to wit:
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) considers an individual’s health information as sensitive personal information.[^3] As such, the processing of the same, as a general rule, is prohibited unless the processing falls within the criteria for lawful processing enumerated under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], to wit:
 
    SEC. 13. Sensitive Personal Information and Privileged Information. – The processing of
          sensitive personal information and privileged information shall be prohibited, except
@@ -115,46 +108,27 @@ We wish to reiterate the definition of consent in [[laws/data-privacy-act-of-201
             electronic or recorded means. It may also be given on behalf of the data subject by an
             agent specifically authorized by the data subject to do so.”
 
-We also wish to clarify that the existence of the MOA with the NCMH does not vest the NCDA
-with a lawful basis for compelling its employees to undergo mandatory psychiatric
-examination and transmittal of the results thereof to the NCDA Executive Director, in relation
-to Section 13 (b) on processing that is provided for by law or Section 13 (e) on the processing
-for purposes of medical treatment carried out by a medical practitioner or treatment
-institution. These criteria may not be applicable in this scenario.
+We also wish to clarify that the existence of the MOA with the NCMH does not vest the NCDA with a lawful basis for compelling its employees to undergo mandatory psychiatric examination and transmittal of the results thereof to the NCDA Executive Director, in relation to Section 13 (b) on processing that is provided for by law or Section 13 (e) on the processing for purposes of medical treatment carried out by a medical practitioner or treatment institution. These criteria may not be applicable in this scenario.
 
 #### General Data Privacy Principles; Transparency; Proportionality
 
 We note from your letter that there was no prior consultation with the NCDA personnel
 regarding this personal data processing activity.
 
-This may run contrary to the general data privacy principle of transparency which provides
-that a data subject must be aware of the nature, purpose, and extent of the processing of his
-or her personal data, including the risks and safeguards involved, the identity of personal
-information controller (PIC), his or her rights as a data subject, and how these can be
+This may run contrary to the general data privacy principle of transparency which provides that a data subject must be aware of the nature, purpose, and extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of personal information controller (PIC), his or her rights as a data subject, and how these can be
 exercised.[^4]
 
-In addition, the principle of proportionality requires that the processing of personal data shall
-be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and
-specified purpose and personal data shall be processed only if the purpose of the processing
-could not reasonably be fulfilled by other means.[^5]
+In addition, the principle of proportionality requires that the processing of personal data shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose and personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.[^5]
 
-If the NCDA is indeed concerned about the welfare of its personnel, particularly during this
-time of pandemic, it may still proceed with the proposed program of having them undergo
-psychiatric evaluation, but on a voluntary basis.
+If the NCDA is indeed concerned about the welfare of its personnel, particularly during this time of pandemic, it may still proceed with the proposed program of having them undergo psychiatric evaluation, but on a voluntary basis.
 
 Moreover, instead of transmitting the results of the evaluation to the NCDA Executive
-Director, NCDA should consider asking for a certification from the NCMH that the said
-personnel have undergone psychiatric evaluation and are fit to work. With this, the NCDA
-can still achieve its purpose of ensuring employee wellness and work performance while
+Director, NCDA should consider asking for a certification from the NCMH that the said personnel have undergone psychiatric evaluation and are fit to work. With this, the NCDA can still achieve its purpose of ensuring employee wellness and work performance while
 upholding their privacy rights.
 
-Finally, the NCMH, with whom the NCDA has a draft MOA, is also considered as a PIC under
-the DPA. Hence, the NCMH is likewise obliged to comply with the provisions of the DPA,
-which includes adherence to the general data privacy principles.
+Finally, the NCMH, with whom the NCDA has a draft MOA, is also considered as a PIC under the DPA. Hence, the NCMH is likewise obliged to comply with the provisions of the DPA, which includes adherence to the general data privacy principles.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

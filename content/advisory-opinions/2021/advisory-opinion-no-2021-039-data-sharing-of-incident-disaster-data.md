@@ -31,9 +31,7 @@ Re: DATA SHARING OF INCIDENT/DISASTER DATA
 
 Dear [Redacted],
 
-We write in response to your letter seeking guidance from the National Privacy Commission
-(NPC) on the sharing of personal and sensitive personal information (collectively, personal
-data) among the Metro Manila Disaster and Risk Reduction and Management Council
+We write in response to your letter seeking guidance from the National Privacy Commission (NPC) on the sharing of personal and sensitive personal information (collectively, personal data) among the Metro Manila Disaster and Risk Reduction and Management Council
 (MMDRRMC) and various agencies.
 
 We understand that the MMDRRMC is responsible for carrying out the implementation of
@@ -46,14 +44,9 @@ Risk Reduction and Management Act of 2010.
 
 As an RDRRMC, the MMDRRMC is mandated to coordinate, integrate, supervise, monitor
 and evaluate the functions of member agencies and the Local Disaster Risk Reduction
-Management Councils within its jurisdiction, and be responsible for ensuring risk-sensitive
-regional development plans, and in case of emergencies, convene the different line agencies
-and concerned institutions and authorities.
+Management Councils within its jurisdiction, and be responsible for ensuring risk-sensitive regional development plans, and in case of emergencies, convene the different line agencies and concerned institutions and authorities.
 
-In your letter, you disclosed that it has become standard practice for the MMDRRMC to share
-and exchange incident/disaster data and information with other government agencies for
-proper monitoring and documentation of all major and minor incidents and disaster
-occurrences in Metro Manila on its population, properties, and environment.
+In your letter, you disclosed that it has become standard practice for the MMDRRMC to share and exchange incident/disaster data and information with other government agencies for proper monitoring and documentation of all major and minor incidents and disaster occurrences in Metro Manila on its population, properties, and environment.
 
 You now ask if this data sharing arrangement is in adherence with the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
@@ -65,17 +58,9 @@ Data sharing is defined under [[issuances/2020/data-sharing-agreements|NPC Circu
 
 Further, the said Circular clarified that data sharing may be based on any of the criteria for
 lawful processing of personal data in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA[^4] and may also be allowed
-pursuant to [[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] of the law which specifies the special cases.[^5] The Circular further
-provides that it does not prohibit or limit the sharing, disclosure, or transfer of personal data
-that is already authorized or required by law.[^6]
+pursuant to [[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] of the law which specifies the special cases.[^5] The Circular further provides that it does not prohibit or limit the sharing, disclosure, or transfer of personal data that is already authorized or required by law.[^6]
 
-In relation to the above, Sections 12 (c) and (e) allows the processing of personal information
-when necessary for compliance with a legal obligation or if the processing is necessary in
-order to respond to national emergency, to comply with the requirements of public order and
-safety, or to fulfill functions of public authority which necessarily includes the processing of
-personal data for the fulfillment of its mandate. For sensitive personal information, the
-processing of the same is generally prohibited except in certain instances provided for under
-[[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], one of which is when processing is provided for by existing laws and
+In relation to the above, Sections 12 (c) and (e) allows the processing of personal information when necessary for compliance with a legal obligation or if the processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate. For sensitive personal information, the processing of the same is generally prohibited except in certain instances provided for under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], one of which is when processing is provided for by existing laws and
 regulations.
 
 The above provisions may be applicable to the data sharing involving the MMDRRMC and other government agencies engaged in disaster risk reduction and management since the data sharing arrangement is mandated by law or regulation.
@@ -92,12 +77,7 @@ Specifically for proportionality, the processing of personal data shall be adequ
 
 PICs are also required to implement physical, organizational, and technical security measures to ensure the protection of personal data and uphold the rights of data subjects.
 
-The MMDRRMC may consider executing a data sharing agreement (DSA) with its member
-agencies, where appropriate. A DSA contains, among others, the terms and conditions of the
-sharing arrangement, including obligations to protect the personal data shared, the
-responsibilities of the parties, mechanisms through which data subjects may exercise their
-rights. While the execution of a DSA is not mandatory, it is a sound recourse and demonstrates
-accountable personal data processing.[^7]
+The MMDRRMC may consider executing a data sharing agreement (DSA) with its member agencies, where appropriate. A DSA contains, among others, the terms and conditions of the sharing arrangement, including obligations to protect the personal data shared, the responsibilities of the parties, mechanisms through which data subjects may exercise their rights. While the execution of a DSA is not mandatory, it is a sound recourse and demonstrates accountable personal data processing.[^7]
 
 For further guidance on DSAs, please refer to [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]] available at our website: https://www.privacy.gov.ph/memorandum-circulars/.
 
@@ -105,14 +85,10 @@ For further guidance on DSAs, please refer to [[issuances/2020/data-sharing-agre
 
 Finally, should the incident/disaster data and information for the Incident and Situational Reports you mentioned pertain to statistics only, i.e., on the number of dead, missing and injured, the DPA is not applicable.
 
-Statistical information which does not include information from which the identity of an
-individual is apparent or can be reasonably and directly ascertained, is not personal data, and
-thus, the sharing of statistics is not covered by the provisions, principles, and requirements
+Statistical information which does not include information from which the identity of an individual is apparent or can be reasonably and directly ascertained, is not personal data, and thus, the sharing of statistics is not covered by the provisions, principles, and requirements
 under DPA.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

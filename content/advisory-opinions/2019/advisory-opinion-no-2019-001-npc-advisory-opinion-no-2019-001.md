@@ -28,48 +28,26 @@ Re: PRIVATE DETECTIVE SERVICES
 Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
-Commission (NPC). You disclosed that Eyespy Detectives and Investigators Co. (Eyespy) is a
-duly registered partnership with the Securities and Exchange Commission, and a duly
-registered and licensed to operate detective agency with the Supervisory Office of Security
-and Investigation Agencies of the Philippine National Police, pursuant to Republic Act No.
+Commission (NPC). You disclosed that Eyespy Detectives and Investigators Co. (Eyespy) is a duly registered partnership with the Securities and Exchange Commission, and a duly registered and licensed to operate detective agency with the Supervisory Office of Security and Investigation Agencies of the Philippine National Police, pursuant to Republic Act No.
 5487, as amended,[^2] or the Private Security Agency Law.
 
 ### Discussion
 
-Eyespy offers several services including background checks or investigation, records
-verification, property checks or verification, surveillance operation, service of summons (from
-foreign courts), assistance in locating missing persons, insurance claim investigation or
-verification, polygraph examination and lifestyle check upon the request of clients.
+Eyespy offers several services including background checks or investigation, records verification, property checks or verification, surveillance operation, service of summons (from foreign courts), assistance in locating missing persons, insurance claim investigation or verification, polygraph examination and lifestyle check upon the request of clients.
 
-As stated in your letter, Eyespy has adopted measures to ensure that client requests for
-services are supported by legal and justifiable purposes, such as gathering of evidence for a
-pending case of or a suit to be instituted by the client. You further stated that there are,
-however, instances where services, such as surveillance operations and background checks,
-are requested for the sole purpose of enabling the client to make better personal decisions.
+As stated in your letter, Eyespy has adopted measures to ensure that client requests for services are supported by legal and justifiable purposes, such as gathering of evidence for a pending case of or a suit to be instituted by the client. You further stated that there are, however, instances where services, such as surveillance operations and background checks, are requested for the sole purpose of enabling the client to make better personal decisions.
 
-The conduct of a discreet surveillance operation, background check or investigation, or record
-verification are often requested: a) by a party in a dating relationship, on their partner; b) by
-a foreigner, on his Filipino fiancée to determine if she is indeed single, has the capacity to
-marry and without derogatory record; and c) by parents, on the girlfriend, boyfriend, fiancé
+The conduct of a discreet surveillance operation, background check or investigation, or record verification are often requested: a) by a party in a dating relationship, on their partner; b) by a foreigner, on his Filipino fiancée to determine if she is indeed single, has the capacity to marry and without derogatory record; and c) by parents, on the girlfriend, boyfriend, fiancé
 or fiancée of their child.
 
-You now wish to clarify whether the abovementioned activities of Eyespy are permissible by
-the provisions of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^3] or the Data Privacy Act of 2012 (DPA), particularly
-on the processing of sensitive personal information of individuals in cases when the request
-is not pursuant to a pending case or in preparation for the filing of one.
+You now wish to clarify whether the abovementioned activities of Eyespy are permissible by the provisions of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],[^3] or the Data Privacy Act of 2012 (DPA), particularly on the processing of sensitive personal information of individuals in cases when the request is not pursuant to a pending case or in preparation for the filing of one.
 
 #### Activities in Private Investigation Subject to the DPA
 
-Processing refers to any operation or any set of operations performed upon personal
-information including, but not limited to, the collection, recording, organization, storage,
-updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or
+Processing refers to any operation or any set of operations performed upon personal information including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or
 destruction of data.[^4]
 
-Moreover, the law defines personal information as information which the identity of
-individual is apparent or can be reasonably and directly ascertained by the entity holding the
-information, or when put together with other information, would directly and certainly
-identify and individual.[^5] On the other hand, what is considered as sensitive personal
-information is clearly enumerated as:
+Moreover, the law defines personal information as information which the identity of individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information, would directly and certainly identify and individual.[^5] On the other hand, what is considered as sensitive personal information is clearly enumerated as:
 
    (1) About an individual’s race, ethnic origin, marital status, age, color, and religious,
            philosophical or political affiliations;
@@ -84,10 +62,7 @@ information is clearly enumerated as:
            classified.[^6]
 
 While private investigation is a duly recognized field, there being the Private Security Agency
-Law, the activities and services involved therein, such as records verification on birth, marital
-status and education, would necessarily involve the processing of personal information and
-sensitive personal information, thus subject to the provisions of the DPA. For processing of
-personal information, the [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the law]] provides the following conditions for lawful
+Law, the activities and services involved therein, such as records verification on birth, marital status and education, would necessarily involve the processing of personal information and sensitive personal information, thus subject to the provisions of the DPA. For processing of personal information, the [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the law]] provides the following conditions for lawful
 processing:
 
    (a) The data subject has given his or her consent;
@@ -142,9 +117,7 @@ proportionality must always be adhered to in the processing of personal data.
 
 #### Expectation of Privacy
 
-On another perspective, while the 1987 Philippine Constitution guards the right to be let alone
-of individuals against unreasonable State intrusion, the Civil Code of the Philippines holds
-liable individuals for violating another person’s right to privacy. The Code states:
+On another perspective, while the 1987 Philippine Constitution guards the right to be let alone of individuals against unreasonable State intrusion, the Civil Code of the Philippines holds liable individuals for violating another person’s right to privacy. The Code states:
 
    Every person shall respect the dignity, personality, privacy and peace of mind of his
       neighbors and other persons and that the act of prying into the privacy of another’s
@@ -213,9 +186,7 @@ it, to wit:
 
 #### General Guidelines to Consider
 
-In your letter, it is unclear what means and methods are used by Eyespy in the conduct of its
-services. Thus, the NPC is unable to make a categorical determination on the legality of its
-activities as circumstances may also differ.
+In your letter, it is unclear what means and methods are used by Eyespy in the conduct of its services. Thus, the NPC is unable to make a categorical determination on the legality of its activities as circumstances may also differ.
 
 However, in the conduct of the contemplated services, Eyespy may examine its activities
 through the framework below:
@@ -227,13 +198,9 @@ through the framework below:
     3) The means and methods used, taking into consideration proportionality and
        expectation of privacy.
 
-Given the foregoing discussion, it is also for Eyespy to determine whether its acts, such as
-records verification and background investigation, would: (a) constitute a violation of an
-individual’s expectation of privacy, and (b) violate existing laws, including the DPA.
+Given the foregoing discussion, it is also for Eyespy to determine whether its acts, such as records verification and background investigation, would: (a) constitute a violation of an individual’s expectation of privacy, and (b) violate existing laws, including the DPA.
 
-It is worth noting that the DPA dictates its provisions shall be liberally interpreted in a manner
-mindful of the rights and interests of the data subject.[^10] Thus, it is the burden of Eyespy to
-ensure that any processing of personal data is in accordance with the law.
+It is worth noting that the DPA dictates its provisions shall be liberally interpreted in a manner mindful of the rights and interests of the data subject.[^10] Thus, it is the burden of Eyespy to ensure that any processing of personal data is in accordance with the law.
 
 This advisory opinion is based on the information provided and may vary based on additional
 information or when the facts are changed or elaborated.

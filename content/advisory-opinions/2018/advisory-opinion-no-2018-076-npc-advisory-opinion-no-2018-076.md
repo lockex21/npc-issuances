@@ -30,19 +30,14 @@ Dear [Redacted],
 
 We write in response to your request for advisory opinion on whether your company, the
 Manila Shipmanagement & Manning, Inc. (Manship) may grant the request of the Maritime
-Industry Authority (MARINA) for certain personal data of seafarers, and whether the
-requested information is not covered by the Data Privacy Act of 2012[^1] (DPA) as it falls under
-[[laws/data-privacy-act-of-2012#section-4-scope|Section 4 (e) of the DPA]], as “information necessary in order to carry out its statutorily
-mandated functions,” and in light of Section 4.15, Rule I of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of Executive Order No. 75, series of 2012[^2] (E.O. No. 75).
+Industry Authority (MARINA) for certain personal data of seafarers, and whether the requested information is not covered by the Data Privacy Act of 2012[^1] (DPA) as it falls under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 (e) of the DPA]], as “information necessary in order to carry out its statutorily mandated functions,” and in light of Section 4.15, Rule I of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of Executive Order No. 75, series of 2012[^2] (E.O. No. 75).
 
 ### Discussion
 
 We understand that Manship is a manning agency duly licensed by the Philippine Overseas
 Employment Administration (POEA) to engage in the recruitment and placement of qualified
 Filipino seafarers for vessels plying international waters and for related maritime activities.
-On the other hand, pursuant to E.O. No. 75 (2012)[^3] as well as Republic Act (R.A.) No. 10635,[^4]
-the MARINA is the authority responsible for the oversight and supervision of maritime
-education, training, and certification of seafarers in accordance with the International
+On the other hand, pursuant to E.O. No. 75 (2012)[^3] as well as Republic Act (R.A.) No. 10635,[^4] the MARINA is the authority responsible for the oversight and supervision of maritime education, training, and certification of seafarers in accordance with the International
 Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW).
 In particular, Section 4(a) and (b) of RA No. 10635 provides:
 
@@ -69,16 +64,10 @@ information on seafarers who were awarded disability compensation, specifically:
               Mediation Board (NCMB), or appellate court decisions awarding disability claims
               were promulgated.
 
-As clarified by the MARINA, the request for information is the agency’s response to the
-increase of cases being filed by injured and ill seafarers who allege that they are permanently
-disabled in order to claim large amounts of money intended as disability compensation. Such
-information shall help the MARINA prevent the issuance of STCW-related certificates to
+As clarified by the MARINA, the request for information is the agency’s response to the increase of cases being filed by injured and ill seafarers who allege that they are permanently disabled in order to claim large amounts of money intended as disability compensation. Such information shall help the MARINA prevent the issuance of STCW-related certificates to
 dishonest seafarers.
 
-At the outset, we clarify that the provisions of the DPA applies to the processing of all types
-of personal information and to any natural and juridical person involved in personal
-information processing.[^5] However, the law provides under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] the particular types of
-information that are considered as special cases excluded from its scope and application.[^6]
+At the outset, we clarify that the provisions of the DPA applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing.[^5] However, the law provides under [[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] the particular types of information that are considered as special cases excluded from its scope and application.[^6]
 
 We affirm that the requested information by MARINA falls under Section 4 of the DPA, as
 expounded in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5 of its IRR]], in particular, paragraph (d) which states:
@@ -108,18 +97,9 @@ expounded in [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-o
        be exempted from the requirements of the Act only to the minimum extent necessary to
        achieve the specific purpose, function, or activity.[^7] (Emphasis supplied)
 
-As may be gleaned from the above provisions, however, the exemption is not absolute. The
-exclusion of such information from the scope of the law is limited to the minimum extent of
-collection, access, use, disclosure or other processing necessary to achieve the specific
-purpose, function or activity. This means that while consent of the data subject is not required
-in the processing of such personal information, the non-applicability does not extend to the
-duties and responsibilities of an entity or organization as a personal information controller or
-personal information processor under the DPA.
+As may be gleaned from the above provisions, however, the exemption is not absolute. The exclusion of such information from the scope of the law is limited to the minimum extent of collection, access, use, disclosure or other processing necessary to achieve the specific purpose, function or activity. This means that while consent of the data subject is not required in the processing of such personal information, the non-applicability does not extend to the duties and responsibilities of an entity or organization as a personal information controller or personal information processor under the DPA.
 
-We also note that Section 4.15, Rule I of the IRR of E.O. No. 75 provides that the MARINA has
-the power to “develop and enforce appropriate measures to prevent fraudulent acts and other
-unlawful practices involving the issuance of any certificates and endorsement in accordance
-with the requirements of the STCW Convention.”
+We also note that Section 4.15, Rule I of the IRR of E.O. No. 75 provides that the MARINA has the power to “develop and enforce appropriate measures to prevent fraudulent acts and other unlawful practices involving the issuance of any certificates and endorsement in accordance with the requirements of the STCW Convention.”
 
 More importantly, paragraph 12 of Regulation I/2 of the Manila Amendments to the Annex
 to the 1978 International Convention on Standards of Training, Certification and
@@ -139,57 +119,33 @@ states:
         unlawful practices involving certificates and endorsements issued. (Emphasis
         supplied)
 
-Accordingly, the MARINA has a mandated regulatory function, specifically on compliance
-with the duties under the STCW Convention and the Manila Amendments. MARINA must
-ensure that STCW-related certificates are issued only to qualified candidates. It is also evident
-that the MARINA has the obligation to prevent any fraudulent or unlawful practices
-involving the certificates that were issued.
+Accordingly, the MARINA has a mandated regulatory function, specifically on compliance with the duties under the STCW Convention and the Manila Amendments. MARINA must ensure that STCW-related certificates are issued only to qualified candidates. It is also evident that the MARINA has the obligation to prevent any fraudulent or unlawful practices involving the certificates that were issued.
 
-Thus, the disclosure to the MARINA by Manship of the requested personal data of seafarers
-who were awarded disability compensation, may be considered as lawful processing under a
-special case in accordance with the DPA. Note, however, that the disclosure must be limited
-to the extent necessary to achieve the specific purpose.
+Thus, the disclosure to the MARINA by Manship of the requested personal data of seafarers who were awarded disability compensation, may be considered as lawful processing under a special case in accordance with the DPA. Note, however, that the disclosure must be limited to the extent necessary to achieve the specific purpose.
 
 In determining if the processing is necessary for the purpose, the UK Information
 Commissioner’s Office (ICO) produced a guide on the provisions of the Regulation (EU)
 2016/679—which repeals the 1995 EU Directive from which the DPA is based on.
 
-According to the guide, “necessary” means that the processing must be a targeted and
-proportionate way of achieving the purpose. An organization does not have a lawful basis for
-processing if there is another reasonable and less intrusive way to achieve the same result.[^9]
+According to the guide, “necessary” means that the processing must be a targeted and proportionate way of achieving the purpose. An organization does not have a lawful basis for processing if there is another reasonable and less intrusive way to achieve the same result.[^9]
 
 In the same manner, the principle of proportionality under the DPA requires a determination
 of what information are actually required for the fulfillment of a declared, specified, and
 legitimate purpose.[^10]
 
 According to MARINA , the purpose for requesting information is to prevent the issuance of
-STCW-related certificates to dishonest seafarers. As mentioned earlier, the dates for which the
-disability claims were filed by the seafarers are included in the requested information. These
-consist of all types of claims such as whether the disability claim is permanent or temporary,
-and whether the case filed is pending or promulgated.
+STCW-related certificates to dishonest seafarers. As mentioned earlier, the dates for which the disability claims were filed by the seafarers are included in the requested information. These consist of all types of claims such as whether the disability claim is permanent or temporary, and whether the case filed is pending or promulgated.
 
-To clarify, the MARINA, may process only those information which are necessary to carry out
-its mandates or functions, and shall be used for the specified purpose only. In this case,
-however, the disclosure of the fact of a pending case filed by a seafarer may not be necessary
-and proportionate to the purpose of helping the MARINA prevent the issuance of certificates
+To clarify, the MARINA, may process only those information which are necessary to carry out its mandates or functions, and shall be used for the specified purpose only. In this case, however, the disclosure of the fact of a pending case filed by a seafarer may not be necessary and proportionate to the purpose of helping the MARINA prevent the issuance of certificates
 to supposedly disabled seafarers.
 
-Note further that such disclosure may result to a seafarer being profiled and/or blacklisted
-for simply filing a case, which might prevent seafarers with legitimate claims, from filing valid
-cases for disability claims. In the same manner, where the case takes a long time to be resolved,
-and where seafarer may have become already fit for work, the fact of a pending case may
-prevent him or her from seeking new employment or contract.
+Note further that such disclosure may result to a seafarer being profiled and/or blacklisted for simply filing a case, which might prevent seafarers with legitimate claims, from filing valid cases for disability claims. In the same manner, where the case takes a long time to be resolved, and where seafarer may have become already fit for work, the fact of a pending case may prevent him or her from seeking new employment or contract.
 
-In which case, the information on cases which have not been decided with finality should not
-be considered as basis for non-issuance of STCW-related certificates, and even more, for
-determination of fraudulent acts. Indeed, there is a separate body that decides these claims.
+In which case, the information on cases which have not been decided with finality should not be considered as basis for non-issuance of STCW-related certificates, and even more, for determination of fraudulent acts. Indeed, there is a separate body that decides these claims.
 To label immediately those applying for a new contract where claims for disability (without
 distinction) are still pending, as possibly “fraudulent” may be overreaching.
 
-One of the purposes of informational privacy is to prevent a person from being discriminated
-against based on unauthorized or unlawful processing of their personal data. In this regard,
-the information requested by the MARINA should relate to the requirements of certification
-and any other legally mandated functions.
+One of the purposes of informational privacy is to prevent a person from being discriminated against based on unauthorized or unlawful processing of their personal data. In this regard, the information requested by the MARINA should relate to the requirements of certification and any other legally mandated functions.
 
 In relation to this, one of the conditions for certification is medical fitness of a seafarer. Section
 4(c)(5) of R.A. No. 10635 states that:
@@ -208,11 +164,7 @@ In relation to this, one of the conditions for certification is medical fitness 
            recognized medical practitioners shall be maintained and made available to seafarers,
            shipping companies and State parties to the STCW Convention.[^11]
 
-Furthermore, the International Labour Organization and International Maritime Organization
-developed a guideline aimed at providing maritime administrations with an internationally
-recognized set of criteria for use by competent authorities either directly or as the basis for
-framing national medical examination standards that will be compatible with international
-requirements.[^12] According to part IV of the guidelines:
+Furthermore, the International Labour Organization and International Maritime Organization developed a guideline aimed at providing maritime administrations with an internationally recognized set of criteria for use by competent authorities either directly or as the basis for framing national medical examination standards that will be compatible with international requirements.[^12] According to part IV of the guidelines:
 
    The medical certificate is neither a certificate of general health nor a certification of the
        absence of illness. It is a confirmation that the seafarer is expected to be able to meet the
@@ -230,10 +182,7 @@ STCW Convention. Moreover, compliance with the STCW Convention requires the reli
 expertise of a medical practitioner who shall ultimately determine the medical fitness of a
 seafarer.
 
-Clearly from the foregoing, the effective evaluation of applications for STWC-related
-certificates submitted by seafarers especially in order to prevent fraud, is not solely dependent
-on the requested information. This means that the MARINA may still achieve its purpose
-through other means such as, but not limited to, improving their policies and procedures in
+Clearly from the foregoing, the effective evaluation of applications for STWC-related certificates submitted by seafarers especially in order to prevent fraud, is not solely dependent on the requested information. This means that the MARINA may still achieve its purpose through other means such as, but not limited to, improving their policies and procedures in
 the issuance of such certificates.
 
 We take time to emphasize that the right to privacy of seafarers in terms of their medical
@@ -254,15 +203,9 @@ International Labour Organization and International Maritime Organization, which
    seafarer should have the right of access to and receipt of a copy of his/her personal
        medical data.[^14] (Emphasis Supplied)
 
-Taking into account the discussions, only adjudicated cases where an award for personal
-disability has been granted with finality may be disclosed, with due notice to seafarer. As to
-the disclosure of additional information, the MARINA must be able to justify the necessity
-and proportionality of such disclosure in fulfilling its mandate. The justification must have
-considered all other less invasive methods in order to obtain the same outcome or purpose.
+Taking into account the discussions, only adjudicated cases where an award for personal disability has been granted with finality may be disclosed, with due notice to seafarer. As to the disclosure of additional information, the MARINA must be able to justify the necessity and proportionality of such disclosure in fulfilling its mandate. The justification must have considered all other less invasive methods in order to obtain the same outcome or purpose.
 
-We trust that the MARINA is aware that it is still subject to the requirements of the DPA, such
-as upholding the rights of the data subjects and implementing organizational, physical and
-technical security measures for the protection of personal data.
+We trust that the MARINA is aware that it is still subject to the requirements of the DPA, such as upholding the rights of the data subjects and implementing organizational, physical and technical security measures for the protection of personal data.
 
 This opinion is rendered based on the limited information you have provided. Additional
 information may change the context of the inquiry and the appreciation of the facts.

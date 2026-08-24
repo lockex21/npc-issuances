@@ -38,11 +38,7 @@ officers violates the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 
 #### OSHC as public authority
 
-The OSHC was created by virtue of Executive Order No. 307.[^3] Its primary mission is to
-develop effective, responsive, and sustainable Occupational Safety and Health (OSH)
-programs, policies and services; promote excellent management of resources and foster
-mutually beneficial linkages that will create a healthy and safe work environment for workers
-in all industries.[^4] Under Section 2 of the EO, the OSHC have the following powers and
+The OSHC was created by virtue of Executive Order No. 307.[^3] Its primary mission is to develop effective, responsive, and sustainable Occupational Safety and Health (OSH) programs, policies and services; promote excellent management of resources and foster mutually beneficial linkages that will create a healthy and safe work environment for workers in all industries.[^4] Under Section 2 of the EO, the OSHC have the following powers and
 functions, among others:
 
    a.    To undertake continuing studies and researches on occupational safety and health,
@@ -83,53 +79,26 @@ functions, among others:
    i.   To enlist the assistance of government agencies and private organizations in carrying out
           the objectives of the Center.
 
-Additionally, the OSHC is also mandated under the Department of Labor and Employment
-(DOLE) Administrative Order No. 56 series of 2011 to conduct spot check/audit/inspection
-of accredited organization’s office including the actual conduct of training and to take
-measures that will ensure the maintenance of standards on the conduct of training by OSHTO.
+Additionally, the OSHC is also mandated under the Department of Labor and Employment (DOLE) Administrative Order No. 56 series of 2011 to conduct spot check/audit/inspection of accredited organization’s office including the actual conduct of training and to take measures that will ensure the maintenance of standards on the conduct of training by OSHTO.
 From the foregoing, the OSHC is a public authority exercising regulatory functions within the
 purview of the DPA.
 
 #### Scope of the DPA; video as personal information; criteria of lawful processing; general data privacy principles
 
-The DPA applies to the processing of all types of personal information and to any natural and
-juridical person in the government or private sector involved in personal information
-processing.[^5] Personal information refers to any information whether recorded in a material
-form or not, from which the identity of an individual is apparent or can be reasonably and
-directly ascertained by the entity holding the information, or when put together with other
-information would directly and certainly identify an individual.[^6] Accordingly, the image of
-an identifiable individual captured in a photograph or video is personal information about
-the individual, and thus, covered by the DPA.[^7]
+The DPA applies to the processing of all types of personal information and to any natural and juridical person in the government or private sector involved in personal information processing.[^5] Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^6] Accordingly, the image of an identifiable individual captured in a photograph or video is personal information about the individual, and thus, covered by the DPA.[^7]
 
-In your letter, you mentioned that OSHC received several complaints regarding the quality of
-trainings being conducted by the OSHTOs. To address the said complaints, the OSHC issued
-a Memorandum requiring OSHTOs to submit video documentation of the five (5)-day
-training. While some OSHTOs complied with the said Memorandum, many OSHTOs did not,
-and claim that the said Memorandum violates the DPA. Some OSHTOs also mentioned that
-training participants refused to be video-recorded invoking their privacy rights.
+In your letter, you mentioned that OSHC received several complaints regarding the quality of trainings being conducted by the OSHTOs. To address the said complaints, the OSHC issued a Memorandum requiring OSHTOs to submit video documentation of the five (5)-day training. While some OSHTOs complied with the said Memorandum, many OSHTOs did not, and claim that the said Memorandum violates the DPA. Some OSHTOs also mentioned that training participants refused to be video-recorded invoking their privacy rights.
 
 The DPA allows the processing of personal data subject to compliance with the law and
 adherence to the principles of transparency, legitimate purpose, and proportionality.
-Consequently, the processing activities being required by the OSHC may find support under
-[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e) of the DPA]] where processing is necessary in order to fulfill functions of public
-authority which necessarily includes the processing of personal data for the fulfillment of its
+Consequently, the processing activities being required by the OSHC may find support under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e) of the DPA]] where processing is necessary in order to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its
 mandate.
 
-From the foregoing, the OSHC may review its existing accreditation requirements and may
-include video documentation as an additional requirement for accreditation and/or renewal
-of the OSHTOs, upon its determination that this is necessary to carry out its mandate in
-ensuring that the safety officers are provided with core knowledge and skills in the prevention
-of work-related injuries and illnesses.
+From the foregoing, the OSHC may review its existing accreditation requirements and may include video documentation as an additional requirement for accreditation and/or renewal of the OSHTOs, upon its determination that this is necessary to carry out its mandate in ensuring that the safety officers are provided with core knowledge and skills in the prevention of work-related injuries and illnesses.
 
-Nonetheless, in view of the proportionality principle and taking into account that the main
-purpose of the video documentation is merely to ensure whether the trainings being
-conducted remain within the prescribed standards, the OSHC should consider the location of
-the camera and/or camera angle to capture relevant images or videos only, i.e. videos may be
-filmed from the back of the room whereby the training participants’ faces are not captured.
+Nonetheless, in view of the proportionality principle and taking into account that the main purpose of the video documentation is merely to ensure whether the trainings being conducted remain within the prescribed standards, the OSHC should consider the location of the camera and/or camera angle to capture relevant images or videos only, i.e. videos may be filmed from the back of the room whereby the training participants’ faces are not captured.
 
-Moreover, the OSHC should require all OSHTOs to have a standard privacy notice on the
-application form and the training facilities for purposes of informing the training participants
-of the nature and purpose of the video documentation.
+Moreover, the OSHC should require all OSHTOs to have a standard privacy notice on the application form and the training facilities for purposes of informing the training participants of the nature and purpose of the video documentation.
 
 This opinion is based on the information you have provided. Additional information may
 change the context of the inquiry and the appreciation of facts.

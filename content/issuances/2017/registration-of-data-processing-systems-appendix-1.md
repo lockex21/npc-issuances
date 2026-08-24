@@ -2,27 +2,27 @@
 title: "Registration of Data Processing Systems Appendix 1 (Circular No. 2017-01)"
 description: "Identifies sectors and institutions required to register data processing systems under NPC Circular No. 2017-01."
 aliases:
-- "Circular No. 2017-01"
-- "circular no. 2017-01"
-- "npc circular no. 2017-01"
-- "registration of data processing systems appendix 1"
+  - "Circular No. 2017-01"
+  - "circular no. 2017-01"
+  - "npc circular no. 2017-01"
+  - "registration of data processing systems appendix 1"
 tags:
-- issuance
-- topic/registration
-- type/circular
-- year/2017
-- topic/ai
+  - issuance
+  - topic/registration
+  - type/circular
+  - year/2017
+  - topic/ai
 draft: false
 date: '2017-07-31'
 ---
 
-> Primary text page. Keep this focused on precise issuance wording and annotations.
-
 ## Issuance Text
 
-**Circular No. 2017-01**
+**NPC Circular No. 2017-01**
 
 ### Registration of Data Processing Systems and Notifications regarding Automated Decision-Making Operations
+
+**31 July 2017**
 
 Appendix 1.
 

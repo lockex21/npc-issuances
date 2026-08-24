@@ -32,10 +32,7 @@ the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 
 We understand that a complaint was filed with the Civil Service Commission (CSC) by the
 Head of Human Resource Management Office (HRMO) of your University against the Vice
-President of Academic and Student Affairs, for alleged misrepresentation of the contents of
-and false statement of material facts in the daily time record (DTR). Attached to the complaint
-was the PDS as evidence that respondent was attending various trainings and seminars
-contrary to his claims in his DTR that he was in the University’s premises.
+President of Academic and Student Affairs, for alleged misrepresentation of the contents of and false statement of material facts in the daily time record (DTR). Attached to the complaint was the PDS as evidence that respondent was attending various trainings and seminars contrary to his claims in his DTR that he was in the University’s premises.
 
 Given the forgoing, you sought resolution for the following matters:
 
@@ -49,11 +46,7 @@ Given the forgoing, you sought resolution for the following matters:
 
 ### Discussion
 
-A PDS is an official document required of a government employee and official and is the
-repository of all information regarding his or her personal background, qualification, and
-eligibility.[^4] Because the PDS contains sensitive personal information, its processing, which
-includes disclosure, may find basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], particularly Section 13(b),
-which recognizes the processing that is provided for by existing laws and regulations, and
+A PDS is an official document required of a government employee and official and is the repository of all information regarding his or her personal background, qualification, and eligibility.[^4] Because the PDS contains sensitive personal information, its processing, which includes disclosure, may find basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], particularly Section 13(b), which recognizes the processing that is provided for by existing laws and regulations, and
 Section 13(f) when such personal information is provided to government or public authority.
 
 While access to the PDS may be allowed, the same may still be regulated, taking into
@@ -71,20 +64,13 @@ PDS as follows:
 However, the above NPC Advisory contemplates the situation where the request for access is
 coming from a third party or the public.
 
-In this case, the PDS is already under the custody of the Head of the HRMO of the University,
-presumably since the HRMO maintains these employee files as part of its core function and
-as required under the applicable CSC rules and regulations. Thus, the NPC Advisory is not
-squarely applicable to the case at hand.
+In this case, the PDS is already under the custody of the Head of the HRMO of the University, presumably since the HRMO maintains these employee files as part of its core function and as required under the applicable CSC rules and regulations. Thus, the NPC Advisory is not squarely applicable to the case at hand.
 
-Instead, what will be controlling in this scenario is the University’s own internal policies and
-procedures on access to employee files in relation to the handling of administrative
-investigations, as well as any other pertinent CSC rules on the matter.
+Instead, what will be controlling in this scenario is the University’s own internal policies and procedures on access to employee files in relation to the handling of administrative investigations, as well as any other pertinent CSC rules on the matter.
 
 #### Admissibility of the PDS; administrative investigation; evidence
 
-We note that in the 2017 Rules on Administrative Cases in the Civil Service[^5] (2017 RACCS) it
-is provided that “administrative investigations shall be conducted without strict recourse to
-technical rules of procedure and evidence applicable to judicial proceedings.”[^6]
+We note that in the 2017 Rules on Administrative Cases in the Civil Service[^5] (2017 RACCS) it is provided that “administrative investigations shall be conducted without strict recourse to technical rules of procedure and evidence applicable to judicial proceedings.”[^6]
 
 With this in mind, the determination of admissibility of documentary evidence such as the
 PDS, should be made by the University’s Appointing/Disciplining Authority based on the

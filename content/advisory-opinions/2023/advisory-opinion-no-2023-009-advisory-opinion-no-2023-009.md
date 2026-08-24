@@ -24,7 +24,7 @@ aliases:
 
 27 February 2023
 
-Re: DATA SHARING AGREEMENT WITH A SPECIALIZED AGENCY OF THE UNITED NATIONS
+**Re: DATA SHARING AGREEMENT WITH A SPECIALIZED AGENCY OF THE UNITED NATIONS**
 
 Dear [Redacted],
 
@@ -48,7 +48,7 @@ Considering the opposing position of the parties, you seek guidance on the follo
 
 ### Discussion
 
-#### Scope of the DPA; Extraterritorial Application
+#### *Scope of the DPA; Extraterritorial Application*
 
 Section 6 of the DPA provides:
 
@@ -70,7 +70,7 @@ Applying the above provisions to the current situation, the extraterritorial app
 
 While we recognize the immunity and privileges accorded to the FAO pursuant to the United Nations and Convention on the Privileges and Immunities of the Specialized Agencies of the United Nations (Convention),[^3] such privilege does not equate to a blanket exemption from compliance with Philippine law including the DPA. The Supreme Court held in *Khosrow Minucher v. Court of Appeals*,[^4] that: "… the privilege is not an immunity from the observance of the law of the territorial sovereign or from ensuing legal liability; it is, rather, an immunity from the exercise of territorial jurisdiction." As such, the provisions of the DPA shall apply to the proposed sharing of the personal data between the DA and FAO.
 
-#### DSA Not Mandatory; Compliance With the Provisions of the DPA
+#### *DSA Not Mandatory; Compliance With the Provisions of the DPA*
 
 Under [[laws/data-privacy-act-of-2012#section-21-principle-of-accountability|Section 21 (a) of the DPA]], a personal information controller (PIC) is accountable for complying with the requirements of the law and shall use contractual or other reasonable means to provide a comparable level of protection while the personal data are being processed by a third party.[^5]
 
@@ -90,13 +90,13 @@ We understand that the personal data that will be shared with the FAO is under t
 
 We emphasize that the execution of a DSA does not necessarily equate to compliance with the DPA but it is only a portion of the obligations the PIC under the DPA.
 
-#### Execution of Undertaking Not Based on DPA; Waiver of Immunity
+#### *Execution of Undertaking Not Based on DPA; Waiver of Immunity*
 
 We understand that the DA proposed the execution of an Undertaking detailing the responsibilities and obligations of the FAO based solely on the FAO's internal rules, and without invoking any data privacy laws of the Philippines. As discussed above, the DA does not need to resort to contractual agreements in order to protect the personal data it shares to FAO.
 
 As to whether the execution of the DSA by the FAO amounts to a waiver of its immunity and privileges, we hesitate to render an opinion on this issue as the NPC's jurisdiction is limited to the interpretation of the DPA and data privacy matters. Since that issue relates to the interpretation of international laws and its territorial application, the NPC may not be the proper authority to render a determination thereon.
 
-#### Adherence to Doctrine of Immunity; Recourse in Case of Violation by Specialized Agency
+#### *Adherence to Doctrine of Immunity; Recourse in Case of Violation by Specialized Agency*
 
 In *Lasco v. United Nations Revolving Fund for Natural Resources Exploration*,[^7] the Supreme Court held:
 
@@ -127,8 +127,8 @@ Please be guided accordingly.
 Very truly yours,
 
 (Sgd.)
-FRANKLIN ANTHONY M. TABAQUIN, IV
-Director IV, Privacy Policy Office
+**FRANKLIN ANTHONY M. TABAQUIN, IV**
+*Director IV, Privacy Policy Office*
 
 [^2]: An Act Protecting Individual Personal Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).
 [^3]: United Nations, Convention on the Privileges and Immunities of the United Nations (February 13, 1946).

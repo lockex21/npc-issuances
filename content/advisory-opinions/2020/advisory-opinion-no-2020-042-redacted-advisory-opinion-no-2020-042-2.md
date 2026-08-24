@@ -23,9 +23,7 @@ draft: false
 
 Dear [Redacted],
 
-We write in response to your letter seeking clearance from the National Privacy Commission
-(NPC) to allow the City Assessor of Marikina to disclose the names and addresses of lot
-owners in the Loyola Grand Villas (LGV) to the Loyola Grand Villas Homeowners’
+We write in response to your letter seeking clearance from the National Privacy Commission (NPC) to allow the City Assessor of Marikina to disclose the names and addresses of lot owners in the Loyola Grand Villas (LGV) to the Loyola Grand Villas Homeowners’
 Association, Inc. (LGVHAI).
 
 ### Discussion
@@ -35,9 +33,7 @@ Homeowners’ Association (HOA) of LGV. The association formed by its developer,
 Soliven Realty, abandoned the subdivision and did not turn over to LGVHAI the list of all the
 buyer of the lots in the subdivision.
 
-As stated in your letter, the LGVHAI tried to determine the owners of all the lots which are
-supposed to be its members, but to date, there are about forty lots in the village whose owners
-are unknown to the LGVHAI. In fact, the LGVHAI asked the City Assessor’s Office of
+As stated in your letter, the LGVHAI tried to determine the owners of all the lots which are supposed to be its members, but to date, there are about forty lots in the village whose owners are unknown to the LGVHAI. In fact, the LGVHAI asked the City Assessor’s Office of
 Marikina to determine the lot owners based on the tax declaration. However, contending that
 the tax declaration is protected under the Data Privacy Act of 2012 (DPA), the Assessor’s
 Office of Marikina declined to provide the names and addresses of the lot owners without a
@@ -49,9 +45,7 @@ the requested personal data.
 
 #### Rights and Powers of HOA; Scope of the DPA; Criteria for Lawful Processing of Personal Data; Proportionality
 
-At the outset, the LGVHAI as the legitimate HOA declared by the court, has the power to
-manage the internal affairs of the subdivision. Relative thereto, Section 49 of the Magna Carta
-for Homeowners and Homeowners’ Associations[^2] provides:
+At the outset, the LGVHAI as the legitimate HOA declared by the court, has the power to manage the internal affairs of the subdivision. Relative thereto, Section 49 of the Magna Carta for Homeowners and Homeowners’ Associations[^2] provides:
 
    Section 49. Rights and Powers of the Association. – An association shall have the following
          rights and powers:
@@ -62,16 +56,10 @@ for Homeowners and Homeowners’ Associations[^2] provides:
          conditions imposed under the law, the regulations of the board and the association’s by-
          laws; (underscoring supplied)
 
-The DPA applies to all the processing of all types of personal information and to any natural
-and judicial person involved in personal information processing. In [[advisory-opinions/2018/advisory-opinion-no-2018-019-npc-advisory-opinion-no-2018-019|NPC Advisory Opinion No. 2018-019]], we stressed that a HOA, being a juridical entity engaged activities geared
-towards the provision of basic community services and facilities for its members-
-homeowners, may inevitably perform processing of personal information of its individual
-members homeowners. It is therefore considered as a personal information controller[^3] (PIC)
+The DPA applies to all the processing of all types of personal information and to any natural and judicial person involved in personal information processing. In [[advisory-opinions/2018/advisory-opinion-no-2018-019-npc-advisory-opinion-no-2018-019|NPC Advisory Opinion No. 2018-019]], we stressed that a HOA, being a juridical entity engaged activities geared towards the provision of basic community services and facilities for its members-homeowners, may inevitably perform processing of personal information of its individual members homeowners. It is therefore considered as a personal information controller[^3] (PIC)
 and is covered by the DPA.
 
-In this case, the names and addresses of the lot owners are considered personal information
-under the DPA. Accordingly, any processing activities relating to personal information
-should comply with [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], to wit:
+In this case, the names and addresses of the lot owners are considered personal information under the DPA. Accordingly, any processing activities relating to personal information should comply with [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], to wit:
 
    SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal
          information shall be permitted only if not otherwise prohibited by law, and when at least
@@ -100,29 +88,18 @@ should comply with [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawfu
               freedoms of the data subject which require protection under the Philippine
               Constitution. (underscoring supplied)
 
-From the foregoing, the processing of personal data of lot owners made by LGVHAI may find
-support under the DPA, taking into account that the same is necessary in furtherance of the
-legitimate interests of the LGVHAI (i.e. inclusion of lot owners to the masterlist of HOA
-members, sending of notices, and collection of monthly dues).
+From the foregoing, the processing of personal data of lot owners made by LGVHAI may find support under the DPA, taking into account that the same is necessary in furtherance of the legitimate interests of the LGVHAI (i.e. inclusion of lot owners to the masterlist of HOA members, sending of notices, and collection of monthly dues).
 
-Hence, the City Assessor’s Office of Marikina and Quezon City, following the proportionality
-principle,[^4] may release the names and addresses of the lot owners without disclosing the
-actual Tax Declarations upon LGVHAI’s compliance with the existing policies and procedures
-of the City Assessor, including the payment of reasonable fees (if any) for the release of the
+Hence, the City Assessor’s Office of Marikina and Quezon City, following the proportionality principle,[^4] may release the names and addresses of the lot owners without disclosing the actual Tax Declarations upon LGVHAI’s compliance with the existing policies and procedures of the City Assessor, including the payment of reasonable fees (if any) for the release of the
 requested personal data.
 
 #### Powers and Functions of the NPC; Clearance from the NPC on the Disclosure of Personal Data is Not Necessary
 
 The powers and functions of the NPC are explicitly provided in [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] and
 [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of its Implementing Rules and Regulations]] (IRR). It must be noted that neither the
-DPA nor its IRR gives power to the NPC to issue clearance to authorize, among others, the
-disclosure and/or processing of personal data. The DPA provides for the various criteria for
-lawful processing of personal data and PICs should make the determination on what
-particular criteria they shall rely on for their personal data processing activities.
+DPA nor its IRR gives power to the NPC to issue clearance to authorize, among others, the disclosure and/or processing of personal data. The DPA provides for the various criteria for lawful processing of personal data and PICs should make the determination on what particular criteria they shall rely on for their personal data processing activities.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

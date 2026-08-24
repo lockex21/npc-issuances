@@ -35,10 +35,7 @@ monitoring activities conducted by the Philippine Health Insurance Corporation (
 
 ### Discussion
 
-We understand that a representative of the Philhealth Regional Office VII visited your hospital
-to inspect and monitor the hospital’s compliance with Philhealth circulars on fraud
-prevention. Part of the process includes access to hospital logbooks containing patient
-information of both Philhealth and non-Philhealth members, Integrated Hospital Operations
+We understand that a representative of the Philhealth Regional Office VII visited your hospital to inspect and monitor the hospital’s compliance with Philhealth circulars on fraud prevention. Part of the process includes access to hospital logbooks containing patient information of both Philhealth and non-Philhealth members, Integrated Hospital Operations
 Management Information System (iHOMIS) and patients’ charts containing personal and
 sensitive personal information (collectively, personal data).
 
@@ -83,15 +80,9 @@ Given the above, the inspection and monitoring of the hospital’s logbooks and 
 
 #### General Data Privacy Principles; Security Measures; Non-Disclosure Agreement; Data Sharing Agreement
 
-Although Philhealth is allowed to process personal data pursuant to its mandate, as a personal
-information controller, it is still subject to the requirements of implementing security
-measures to protect personal data, adhering to the general data privacy principles of
-transparency, legitimate purpose and proportionality, and upholding data subjects’ rights.
+Although Philhealth is allowed to process personal data pursuant to its mandate, as a personal information controller, it is still subject to the requirements of implementing security measures to protect personal data, adhering to the general data privacy principles of transparency, legitimate purpose and proportionality, and upholding data subjects’ rights.
 
-While we are not privy to the provisions of the NDA of the hospital, we understand that this
-is part of its organizational security measures. With this, Philhealth and its authorized
-representatives are not prohibited from signing an NDA which ensures the confidentiality of
-the patients’ personal data as between the hospital and Philhealth.
+While we are not privy to the provisions of the NDA of the hospital, we understand that this is part of its organizational security measures. With this, Philhealth and its authorized representatives are not prohibited from signing an NDA which ensures the confidentiality of the patients’ personal data as between the hospital and Philhealth.
 
 As to whether or not Philhealth is exempt from entering into a data sharing agreement, [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 2016-02]] provides that nothing in the Circular shall be construed as prohibiting or limiting the sharing or transfer of any personal data that is already authorized or required by law.[^8]
 
@@ -105,10 +96,7 @@ Thus, the existing transfers or submissions of personal data from the hospitals 
 
 not constrained or compelled into signing any NDAs nor DSAs.
 
-Nonetheless, the DPA, its IRR, and issuances of the NPC do not prohibit Philhealth from
-entering into a separate DSA or a similar agreement with any hospital under its supervision,
-as may be necessary and appropriate in certain circumstances, i.e. in order to document other
-terms and conditions of the sharing or transfer arrangement which is not reflected in the
+Nonetheless, the DPA, its IRR, and issuances of the NPC do not prohibit Philhealth from entering into a separate DSA or a similar agreement with any hospital under its supervision, as may be necessary and appropriate in certain circumstances, i.e. in order to document other terms and conditions of the sharing or transfer arrangement which is not reflected in the
 current Philhealth issuance.
 
 This opinion is based on the information you have provided. Additional information may change the context of the inquiry and the appreciation of the facts.

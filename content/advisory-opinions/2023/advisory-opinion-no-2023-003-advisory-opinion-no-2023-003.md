@@ -34,29 +34,16 @@ Authority’s (LRA) Geo-spatial Query Service (GQS).
 
 ### Discussion
 
-We understand that the GQS is a service offered by the LRA primarily to other government
-agencies. The GQS provides information on titled properties, particularly when the requesting
-entity does not know the title number of the property but has an identified point-of-interest
-and/or alignment of interest where properties to be mapped are generally located. An
-example is the identification of properties that will be affected by road infrastructure projects
-of the Department of Works and Highways (DPWH) or transmission lines of power
-corporations. The information provided consists of the registered name of the owner, plan,
-lot, and block of the property. Recently, the GQS has been offered to the private sector
-undertaking government infrastructure projects.
+We understand that the GQS is a service offered by the LRA primarily to other government agencies. The GQS provides information on titled properties, particularly when the requesting entity does not know the title number of the property but has an identified point-of-interest and/or alignment of interest where properties to be mapped are generally located. An example is the identification of properties that will be affected by road infrastructure projects of the Department of Works and Highways (DPWH) or transmission lines of power corporations. The information provided consists of the registered name of the owner, plan, lot, and block of the property. Recently, the GQS has been offered to the private sector undertaking government infrastructure projects.
 
 You thus ask if the LRA can legally provide the information mentioned above to the
 requesting entity, specifically to the private sector.
 
 ### Scope of the DPA; Lawful Basis for Processing; Legal Obligation; Fulfillment of Mandate
 
-At the outset, we wish to clarify that the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^2] only applies to the
-processing of personal data of natural persons, and not to information concerning juridical
-entities such as corporations, associations, and partnerships.
+At the outset, we wish to clarify that the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA)[^2] only applies to the processing of personal data of natural persons, and not to information concerning juridical entities such as corporations, associations, and partnerships.
 
-Relating the above to your query, if the property involved is registered to a natural person,
-then the disclosure of personal information[^3] (i.e., the name of the individual registered owner)
-may be allowed under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]]. In particular, if the request is made by a
-government entity, the disclosure of the name of the registered owner may be based on
+Relating the above to your query, if the property involved is registered to a natural person, then the disclosure of personal information[^3] (i.e., the name of the individual registered owner) may be allowed under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]]. In particular, if the request is made by a government entity, the disclosure of the name of the registered owner may be based on
 Section 12 (c) and (e) of the DPA, to wit:
 
    SEC. 12. Criteria for Lawful Processing of Personal Information. – The
@@ -77,13 +64,7 @@ Section 12 (c) and (e) of the DPA, to wit:
 
    (Underscoring supplied).
 
-The DPA is not intended to hinder government agencies from fulfilling their respective
-mandates and legal obligations. Government entities, such as the DPWH, are tasked to deliver
-public services pursuant to their mandate and /or existing laws and regulations. We
-acknowledge that verification of information about land is necessary to enable the DPWH to
-deliver on its mandate effectively. Be that as it may, while the DPWH may have legal basis to
-process personal data, it is still required to ensure that its mandate supports the particular
-processing involved, and that it is accomplished within the limits of such mandate.
+The DPA is not intended to hinder government agencies from fulfilling their respective mandates and legal obligations. Government entities, such as the DPWH, are tasked to deliver public services pursuant to their mandate and /or existing laws and regulations. We acknowledge that verification of information about land is necessary to enable the DPWH to deliver on its mandate effectively. Be that as it may, while the DPWH may have legal basis to process personal data, it is still required to ensure that its mandate supports the particular processing involved, and that it is accomplished within the limits of such mandate.
 
 ### Disclosure to Private Entities; Compliance with a Legal Obligation; Proportionality
 
@@ -93,41 +74,19 @@ government infrastructure projects. These private entities may likewise rely on 
 of the DPA where the processing of personal data is necessary for compliance with a legal
 obligation[^3].
 
-We have recognized as lawful the processing of personal information by private companies
-pursuing government projects based on legal obligation. In [[advisory-opinions/2020/advisory-opinion-no-2020-036-redacted-advisory-opinion-no-2020-036-2|Advisory Opinion No. 2020-036]],[^4]
-we recognized that the National Grid Corporation of the Philippines (NGCP) has the
-obligation under its legislative franchise to identify the current owners and possessors of
-properties subject to acquisition.[^5] Similarly, in [[advisory-opinions/2021/advisory-opinion-no-2021-027-access-to-documents-by-san-miguel-aerocity-inc-pursuant-to-its-legislative-franchise|Advisory Opinion No. 2021-027]],[^6] we confirmed
-that San Miguel Aerocity, Inc. (SMAI) may be provided with documents and processes,
-including those that pertain to personal data, due to its obligations under R.A. No. 10752 or
-the Right-of-Way Act.[^7] However, we also emphasized in both instances that while NGCP and
+We have recognized as lawful the processing of personal information by private companies pursuing government projects based on legal obligation. In [[advisory-opinions/2020/advisory-opinion-no-2020-036-redacted-advisory-opinion-no-2020-036-2|Advisory Opinion No. 2020-036]],[^4] we recognized that the National Grid Corporation of the Philippines (NGCP) has the obligation under its legislative franchise to identify the current owners and possessors of properties subject to acquisition.[^5] Similarly, in [[advisory-opinions/2021/advisory-opinion-no-2021-027-access-to-documents-by-san-miguel-aerocity-inc-pursuant-to-its-legislative-franchise|Advisory Opinion No. 2021-027]],[^6] we confirmed that San Miguel Aerocity, Inc. (SMAI) may be provided with documents and processes, including those that pertain to personal data, due to its obligations under R.A. No. 10752 or the Right-of-Way Act.[^7] However, we also emphasized in both instances that while NGCP and
 SMAI have legal grounds to process personal data, such grounds should be duly documented.
 
-In [[resolutions/2020/npc-18-010-rla-v-pldt-enterprise|RLA v. PLDT Enterprise]],[^8] the NPC discussed the elements that should exist for valid
-processing based on a legal obligation, viz.: “(1) if the legal obligation the PIC cites as lawful
-criteria exists and applies to the PIC; (2) if the processing that the PIC performs is necessary
-to comply with the legal obligation; and (3) if all the conditions imposed by the legal obligation
-for the processing of the personal information have been complied with.”[^9]
+In [[resolutions/2020/npc-18-010-rla-v-pldt-enterprise|RLA v. PLDT Enterprise]],[^8] the NPC discussed the elements that should exist for valid processing based on a legal obligation, viz.: “(1) if the legal obligation the PIC cites as lawful criteria exists and applies to the PIC; (2) if the processing that the PIC performs is necessary to comply with the legal obligation; and (3) if all the conditions imposed by the legal obligation for the processing of the personal information have been complied with.”[^9]
 
-As long as the elements cited above are complied with, the LRA may disclose requested
-information from the GQS to public and private requesting entities, as long as the personal
-information will be used in fulfillment of a statutory mandate or fulfillment of legal obligation.
-As the personal information controller (PIC) providing the information, the LRA has the
-concurrent responsibility to assess and document whether the requesting entities truly have
-a legal mandate or obligation to fulfill, and if the disclosure of the names of registered owners
-is necessary for the fulfillment of the mandate or obligation. In its assessment, the LRA may
-request certain documents from the public and private entities as evidence of their mandate
+As long as the elements cited above are complied with, the LRA may disclose requested information from the GQS to public and private requesting entities, as long as the personal information will be used in fulfillment of a statutory mandate or fulfillment of legal obligation.
+As the personal information controller (PIC) providing the information, the LRA has the concurrent responsibility to assess and document whether the requesting entities truly have a legal mandate or obligation to fulfill, and if the disclosure of the names of registered owners is necessary for the fulfillment of the mandate or obligation. In its assessment, the LRA may request certain documents from the public and private entities as evidence of their mandate
 or obligation.
 
-We take this opportunity to emphasize that in all instances, the principle of proportionality
-should still be adhered to. Proportionality requires that the processing of information shall be
-adequate, relevant, suitable, necessary, and not excessive in relation to a declared and
+We take this opportunity to emphasize that in all instances, the principle of proportionality should still be adhered to. Proportionality requires that the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and
 specified purpose.[^10]
 
-Please be advised that this Advisory Opinion was rendered based solely on the information
-you provided. Any extraneous fact that may be subsequently furnished us may affect our
-present position. Please note further that our Advisory Opinion is not intended to adjudicate
-the rights and obligations of the parties involved.
+Please be advised that this Advisory Opinion was rendered based solely on the information you provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 Please be guided accordingly.
 

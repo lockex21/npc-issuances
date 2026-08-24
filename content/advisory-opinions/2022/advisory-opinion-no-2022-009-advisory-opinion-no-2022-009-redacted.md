@@ -32,18 +32,10 @@ Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy Commission (NPC or the Commission) on whether publishing former employees’ names and the fact of severance of their employment would violate the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA).
 
-From your letter, we understand that your company, a banking institution, experienced isolated
-cases wherein the bank’s former employees had misrepresented to existing clients (e.g., branch
-clients) that they were still authorized to transact on the bank’s behalf. Those former employees
-would solicit deposits from these clients, sell bank products to extort money or do fraudulent acts
-such as asking clients to transfer money to their accounts which they would misappropriate for
+From your letter, we understand that your company, a banking institution, experienced isolated cases wherein the bank’s former employees had misrepresented to existing clients (e.g., branch clients) that they were still authorized to transact on the bank’s behalf. Those former employees would solicit deposits from these clients, sell bank products to extort money or do fraudulent acts such as asking clients to transfer money to their accounts which they would misappropriate for
 themselves.
 
-We understand further that to curtail these incidents and to protect the interest of the bank and its
-clients, it is suggested that there be a publication or dissemination of a statement limited to the
-former employee’s name and his/her severance from employment with the bank through
-channels of general circulation like newsletters, bank website, official social media account and or
-within the bank branches or premises.
+We understand further that to curtail these incidents and to protect the interest of the bank and its clients, it is suggested that there be a publication or dissemination of a statement limited to the former employee’s name and his/her severance from employment with the bank through channels of general circulation like newsletters, bank website, official social media account and or within the bank branches or premises.
 
 You now come to the Commission for guidance on the following inquiries:
 
@@ -55,15 +47,9 @@ You now come to the Commission for guidance on the following inquiries:
 
 #### Public Disclosure of Cessation of Employment; Section 12 (f); Legitimate Interest; Fraud Prevention
 
-The DPA recognizes the processing of personal and sensitive personal information (collectively,
-personal data), provided the requirements of the law are complied with and subject to the
-adherence of the data privacy principles of transparency, legitimate purpose, and proportionality.[^3]
+The DPA recognizes the processing of personal and sensitive personal information (collectively, personal data), provided the requirements of the law are complied with and subject to the adherence of the data privacy principles of transparency, legitimate purpose, and proportionality.[^3]
 
-Under the DPA, the names of the employee and the fact that they are no longer employed are
-classified as personal information, the processing of which may be based on any of the lawful bases
-under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]]. Specifically in this instance, Section 12 (f) of the DPA provides that the processing
-of personal information is allowed if the same is necessary for the purpose of the legitimate
-interests pursued by the personal information controller (PIC) or by a third party:
+Under the DPA, the names of the employee and the fact that they are no longer employed are classified as personal information, the processing of which may be based on any of the lawful bases under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]]. Specifically in this instance, Section 12 (f) of the DPA provides that the processing of personal information is allowed if the same is necessary for the purpose of the legitimate interests pursued by the personal information controller (PIC) or by a third party:
 
    SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of
            personal information shall be permitted only if not otherwise prohibited by law, and
@@ -85,48 +71,26 @@ In the determination of legitimate interest, the following must be considered:[^
    by the legitimate interests of the PIC or third party, considering the likely impact of the
    processing on the data subjects.
 
-Indeed, legitimate interest as a ground for lawful processing of personal information is a flexible
-concept that may be applicable in certain instances where processing will not have unwarranted
-impacts on the rights and freedoms of data subjects.[^5]
+Indeed, legitimate interest as a ground for lawful processing of personal information is a flexible concept that may be applicable in certain instances where processing will not have unwarranted impacts on the rights and freedoms of data subjects.[^5]
 
-We note as well that although the DPA does not particularly identify matters to be considered in
-the PIC’s determination of its legitimate interests, the EU General Data Protection Regulation
-(GDPR), the successor of the EU Data Protection Directive (Directive 95/46/EC) which highly
-influenced the DPA, provides guidance whereby the processing of personal information strictly necessary for fraud prevention purposes constitutes a legitimate interest.[^6]
+We note as well that although the DPA does not particularly identify matters to be considered in the PIC’s determination of its legitimate interests, the EU General Data Protection Regulation (GDPR), the successor of the EU Data Protection Directive (Directive 95/46/EC) which highly influenced the DPA, provides guidance whereby the processing of personal information strictly necessary for fraud prevention purposes constitutes a legitimate interest.[^6]
 
-In this instance, the PIC must establish that the disclosure of personal information will strictly be
-for the resolution of previously committed frauds and the prevention of potential frauds. Further,
-the PIC must ensure that only personal information which are necessary and proportionate to the
-declared legitimate interest may be processed, considering the rights and freedoms of the data
+In this instance, the PIC must establish that the disclosure of personal information will strictly be for the resolution of previously committed frauds and the prevention of potential frauds. Further, the PIC must ensure that only personal information which are necessary and proportionate to the declared legitimate interest may be processed, considering the rights and freedoms of the data
 subjects.
 
-In any case, PICs that consider relying on this basis should undergo a legitimate interest
-assessment using the tests as guidance and document the outcome of the assessment. This gives
-data subjects some guarantee that this criterion for processing will not be misused.[^7]
+In any case, PICs that consider relying on this basis should undergo a legitimate interest assessment using the tests as guidance and document the outcome of the assessment. This gives data subjects some guarantee that this criterion for processing will not be misused.[^7]
 
 #### General Data Privacy Principles; Proportionality
 
-While there may be a lawful basis for the publication of personal information such as employee
-names and the fact of severance from employment with the bank (i.e., “This person is no longer
-connected with the bank.”), the DPA mandates that the principle of proportionality should still be
-adhered to. Hence, disclosing the name and the fact that the employee is no longer employed with
-the bank is sufficient to meet the stated purpose. Any other information beyond that may be
+While there may be a lawful basis for the publication of personal information such as employee names and the fact of severance from employment with the bank (i.e., “This person is no longer connected with the bank.”), the DPA mandates that the principle of proportionality should still be adhered to. Hence, disclosing the name and the fact that the employee is no longer employed with the bank is sufficient to meet the stated purpose. Any other information beyond that may be
 considered disproportional.
 
-This principle requires that the processing of personal data shall be adequate, relevant, suitable,
-necessary, and not excessive in relation to a declared and specified purpose. These qualifiers serve
-as the measures by which a determination can be made on whether processing is proportional and
-justified in relation to the declared purpose. Further, this principle requires that personal data shall
-only be processed if the purpose of the processing could not reasonably be fulfilled by other
+This principle requires that the processing of personal data shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. These qualifiers serve as the measures by which a determination can be made on whether processing is proportional and justified in relation to the declared purpose. Further, this principle requires that personal data shall only be processed if the purpose of the processing could not reasonably be fulfilled by other
 means.
 
-Given that the bank has determined an alternative measure of notifying its clients individually
-through bank authorized modes of communication, this option should also be taken into account
-in its assessment of whether public disclosure or publication is proportional.
+Given that the bank has determined an alternative measure of notifying its clients individually through bank authorized modes of communication, this option should also be taken into account in its assessment of whether public disclosure or publication is proportional.
 
-This opinion is based solely on the limited information you have provided. Additional information
-may change the context of the inquiry and the appreciation of facts. This opinion does not
-adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

@@ -26,9 +26,7 @@ Re:      COLLECTION AND ENCODING OF INFORMATION ON
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion seeking guidance on the
-propriety of complying with the series of memoranda and other communications issued by
-the Department of Interior and Local Government (DILG) requesting your office to do the
+We write in response to your request for an advisory opinion seeking guidance on the propriety of complying with the series of memoranda and other communications issued by the Department of Interior and Local Government (DILG) requesting your office to do the
 following:
 
    1. Encode     the    details of   confirmed     COVID-19       related deaths   on
@@ -72,13 +70,9 @@ In addition, we also note that the DILG, as a PIC, must adhere to the general da
 
 #### Updates on the number of COVID-19 related deaths; statistics
 
-As to the requirement for providing daily updates on the number of COVID-19 related deaths,
-these only involve the disclosure of aggregate data which are statistical in nature, and hence,
-the provisions and principles under the DPA may not necessarily apply.
+As to the requirement for providing daily updates on the number of COVID-19 related deaths, these only involve the disclosure of aggregate data which are statistical in nature, and hence, the provisions and principles under the DPA may not necessarily apply.
 
-Statistical information which does not include information from which the identity of an
-individual is apparent or can be reasonably and directly ascertained, is not personal
-information, and thus, not covered by the provisions of the DPA and its IRR.
+Statistical information which does not include information from which the identity of an individual is apparent or can be reasonably and directly ascertained, is not personal information, and thus, not covered by the provisions of the DPA and its IRR.
 
 This opinion is rendered based solely on the information you have provided. Additional
 information may change the context of the inquiry and the appreciation of the facts.

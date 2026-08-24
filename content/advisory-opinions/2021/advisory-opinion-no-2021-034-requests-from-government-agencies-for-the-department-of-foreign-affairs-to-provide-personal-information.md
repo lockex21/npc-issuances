@@ -36,17 +36,13 @@ Department of Foreign Affairs (DFA) – Office of Consular Affairs (OCA) from va
 government agencies, specifically law enforcement agencies and financial regulatory
 agencies.
 
-In your letter, you stated that the Bureau of Internal Revenue (BIR) sent a letter to OCA
-requesting for information about a particular taxpayer. Said request for information was
-hinged on Section 5 of the National Internal Revenue Code (NIRC), as amended.
+In your letter, you stated that the Bureau of Internal Revenue (BIR) sent a letter to OCA requesting for information about a particular taxpayer. Said request for information was hinged on Section 5 of the National Internal Revenue Code (NIRC), as amended.
 
 You further stated in your letter that the Presidential Commission on Good Government
 (PCGG) likewise sent a letter to the OCA requesting for information of persons in relation to
 a Supreme Court case.
 
-You now come to the NPC for guidance on whether the OCA can disclose personal
-information and sensitive personal information (collectively, personal data) of OCA’s data
-subjects without violating the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA).
+You now come to the NPC for guidance on whether the OCA can disclose personal information and sensitive personal information (collectively, personal data) of OCA’s data subjects without violating the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA).
 
 ### Discussion
 
@@ -54,9 +50,7 @@ Scope of the DPA; special cases; fulfillment of mandate;
 public authority; law enforcement or regulatory
 functions
 
-The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for a list of specified
-information that are not covered by certain requirements of the law, which includes
-information necessary to carry out functions of a public authority, to wit:
+The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for a list of specified information that are not covered by certain requirements of the law, which includes information necessary to carry out functions of a public authority, to wit:
 
    “SECTION 5. Special Cases. The Act and these Rules shall not apply to the following
           specified information, only to the minimum extent of collection, access, use, disclosure
@@ -81,10 +75,7 @@ information necessary to carry out functions of a public authority, to wit:
 
 We reiterate our discussions in [[advisory-opinions/2020/advisory-opinion-no-2020-015-collection-of-personal-data-by-the-bureau-of-internal-revenue-for-tax-compliance-purposes|NPC Advisory Opinion No. 2020-015]] and [[advisory-opinions/2021/advisory-opinion-no-2021-028-disclosure-of-personal-information-of-tenants-by-a-condominium-corporation-to-the-bureau-of-internal-revenue|2021-028]] wherein
 we discussed the BIR’s duty and authority to, among others, ensure compliance with the
-NIRC, as amended, and other relevant tax laws and regulations. Particularly, the authority of
-the BIR Commissioner to obtain information in the evaluation of the tax compliance of any
-person, specifically in this case, where the BIR has already identified a tax compliance issue
-with a particular taxpayer, as mentioned in your letter.
+NIRC, as amended, and other relevant tax laws and regulations. Particularly, the authority of the BIR Commissioner to obtain information in the evaluation of the tax compliance of any person, specifically in this case, where the BIR has already identified a tax compliance issue with a particular taxpayer, as mentioned in your letter.
 
 Investigative functions; lawful criteria for processing;
 Sections 12 and 13
@@ -105,12 +96,7 @@ sequestrations, among others.
 With this, the request for addresses and other information may then be anchored under
 [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and/or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, depending on type of personal data involved.
 
-Specifically, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e)]] recognizes the processing that is necessary to fulfill functions of
-public authority which necessarily includes the processing of personal data for the fulfillment
-of its mandate and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b)]] which allows the processing which is provided for by
-existing laws and regulations and Section (f) on the processing that is necessary for the
-protection of lawful rights and interests of natural or legal persons in court proceedings, or
-the establishment, exercise or defense of legal claims, or when provided to government or
+Specifically, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e)]] recognizes the processing that is necessary to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b)]] which allows the processing which is provided for by existing laws and regulations and Section (f) on the processing that is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or
 public authority.
 
 Requests through letters; issuance of subpoena;
@@ -130,25 +116,14 @@ made through letter requests and not through subpoenas. You proceeded to cite [[
 
    1.   The personal data is needed pursuant to a subpoena.”
 
-To clarify, the above provision pertains to the limitations on the exercise of the right to object,
-specifically when processing is based on consent and the data subject has withdrawn the
-same, but processing may continue if the personal data is needed pursuant to a subpoena.
+To clarify, the above provision pertains to the limitations on the exercise of the right to object, specifically when processing is based on consent and the data subject has withdrawn the same, but processing may continue if the personal data is needed pursuant to a subpoena.
 
 We emphasize that the above does not operate to provide a limitation on how personal data
 can be requested by government agencies.
 
-We also wish to clarify that the issuance of a subpoena may not always be appropriate at a
-particular stage of an inquiry, investigation, enforcement action, or other applicable
-government action. Requests for information may come in various forms, i.e., court orders,
-subpoena, letters, orders, other official communications, among others. It is also important to
-note that not all government agencies are granted subpoena powers.
+We also wish to clarify that the issuance of a subpoena may not always be appropriate at a particular stage of an inquiry, investigation, enforcement action, or other applicable government action. Requests for information may come in various forms, i.e., court orders, subpoena, letters, orders, other official communications, among others. It is also important to note that not all government agencies are granted subpoena powers.
 
-We emphasize that the NPC does not presume to know all the means and methods by which
-government agencies can validly request for personal data. Still, the DPA requires that all
-agencies processing personal data, whether for law enforcement, regulatory, investigative, or
-some other mandate, should strictly adhere to the general data privacy principles of
-transparency, legitimate purpose, and proportionality, and follow all due process
-requirements as provided by the applicable laws and regulations.
+We emphasize that the NPC does not presume to know all the means and methods by which government agencies can validly request for personal data. Still, the DPA requires that all agencies processing personal data, whether for law enforcement, regulatory, investigative, or some other mandate, should strictly adhere to the general data privacy principles of transparency, legitimate purpose, and proportionality, and follow all due process requirements as provided by the applicable laws and regulations.
 
 Having said that, the OCA is not precluded to further ask and/or confirm from the BIR
 and/or the PCGG additional details with respect to the validity of the letter requests and the
@@ -185,15 +160,9 @@ Considering the foregoing discussions, the OCA may disclose personal data to the
 the PCGG without necessarily violating the provisions of the DPA and the rights of the data
 subjects.
 
-We emphasize that the DPA shall not be used to hamper, or interfere with, the performance
-of the duties and functions of government agencies. The DPA does not prohibit government
-agencies from processing personal data pursuant to their respective mandates, taking into
-consideration the applicable provisions of law, rules and regulations, and the general data
-privacy principles enunciated in the DPA.
+We emphasize that the DPA shall not be used to hamper, or interfere with, the performance of the duties and functions of government agencies. The DPA does not prohibit government agencies from processing personal data pursuant to their respective mandates, taking into consideration the applicable provisions of law, rules and regulations, and the general data privacy principles enunciated in the DPA.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

@@ -24,32 +24,18 @@ date: '2020-09-14'
 
 **SUBJECT:** Guidelines on the Processing of Personal Data for Loan-Related Transactions
 
-WHEREAS, the National Privacy Commission (NPC) has received numerous complaints against
-some lending entities operating online lending applications (online apps) which can be
-downloaded and installed in mobile phones;
+WHEREAS, the National Privacy Commission (NPC) has received numerous complaints against some lending entities operating online lending applications (online apps) which can be downloaded and installed in mobile phones;
 
-WHEREAS, these online apps are used to facilitate loan transactions between these lending
-entities and their clients. The online apps provide a platform for the processing of personal data
-relating to their clients, which includes access to their clients’ phones’ contact list, camera,
-location, and storage, among others;
+WHEREAS, these online apps are used to facilitate loan transactions between these lending entities and their clients. The online apps provide a platform for the processing of personal data relating to their clients, which includes access to their clients’ phones’ contact list, camera, location, and storage, among others;
 
-WHEREAS, the complaints claimed that these lending entities, through the online apps,
-processed personal data of their clients without lawful basis under the law, and used such
-personal data about their clients and other individuals in their contact list causing damage to their
-reputation, in violation of their rights and freedoms as data subjects;
+WHEREAS, the complaints claimed that these lending entities, through the online apps, processed personal data of their clients without lawful basis under the law, and used such personal data about their clients and other individuals in their contact list causing damage to their reputation, in violation of their rights and freedoms as data subjects;
 
 WHEREAS, [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2 of the DPA]] otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
 ([[laws/data-privacy-act-of-2012|DPA]]) provides that it is the policy of the State to protect the fundamental human right of privacy
 of communication while ensuring free flow of information to promote innovation and growth.
-The State recognizes the vital role of information and communications technology in nation-
-building and its inherent obligation to ensure that personal information in information and
-communications systems in the government and in the private sector are secured and protected;
+The State recognizes the vital role of information and communications technology in nation-building and its inherent obligation to ensure that personal information in information and communications systems in the government and in the private sector are secured and protected;
 
-WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the NPC is charged with the administration and
-implementation of the provisions of the law, which includes ensuring compliance with the
-provisions of the [[laws/data-privacy-act-of-2012|DPA]] and with international standards for data protection, and carrying out
-efforts to formulate and implement plans and policies that strengthen the protection of personal
-information in the country, in coordination with other government agencies and the private
+WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the NPC is charged with the administration and implementation of the provisions of the law, which includes ensuring compliance with the provisions of the [[laws/data-privacy-act-of-2012|DPA]] and with international standards for data protection, and carrying out efforts to formulate and implement plans and policies that strengthen the protection of personal information in the country, in coordination with other government agencies and the private
 sector;
 
 WHEREFORE, in consideration of the foregoing premises, and without prejudice to the

@@ -57,34 +57,20 @@ The collection and use of audio-visual recordings captured by these BWCs may fin
 
 In addition, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]] may likewise apply where a BWC footage or image would reveal sensitive personal information. Thus, the processing of the same may be allowed if provided for by existing laws and regulations.[^9]
 
-From the foregoing, PEATC has a mandated regulatory function specifically to enforce and
-monitor traffic rules and regulations within Cavitex. As such, the PEATC, being a public
-authority acting within its mandate, is permitted under the DPA to process such personal
+From the foregoing, PEATC has a mandated regulatory function specifically to enforce and monitor traffic rules and regulations within Cavitex. As such, the PEATC, being a public authority acting within its mandate, is permitted under the DPA to process such personal
 data.
 
-We wish to reiterate that the law does not prohibit government agencies from processing
-personal data pursuant to their respective mandates, taking into consideration the applicable
-provisions of law, rules and regulations, and the general data privacy principles enunciated
-in the DPA. The DPA promotes fair, lawful, and secure processing of such information.
+We wish to reiterate that the law does not prohibit government agencies from processing personal data pursuant to their respective mandates, taking into consideration the applicable provisions of law, rules and regulations, and the general data privacy principles enunciated in the DPA. The DPA promotes fair, lawful, and secure processing of such information.
 
 #### General Data Privacy Principles; Data Subjects’ Rights; Security Measures
 
 The principle of transparency enshrined in the DPA requires that the data subject must be aware of the nature, purpose, and extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of the personal information controller, his or her rights as a data subject and how these can be exercised.
 
-PEATC must have the appropriate privacy notices to apprise data subjects that the traffic
-officers are equipped with BWCs that will capture audio-visual recordings in certain
-instances, i.e. apprehending traffic violators, rendering assistance to motorists, making an
-arrest, among others. These notices may be posted in conspicuous areas within the Cavitex
-and should likewise be available in PEATC’s website.
+PEATC must have the appropriate privacy notices to apprise data subjects that the traffic officers are equipped with BWCs that will capture audio-visual recordings in certain instances, i.e. apprehending traffic violators, rendering assistance to motorists, making an arrest, among others. These notices may be posted in conspicuous areas within the Cavitex and should likewise be available in PEATC’s website.
 
-We recognize the “Notification Spiel” under Sections 5.4.1 of the Policy which shall inform
-data subjects at the very outset of the activated BWC. The same may still be further improved,
-taking into consideration the exigencies of the actual operations on the ground and feedback
-from both the Patrol/Traffic Officers and the data subjects.
+We recognize the “Notification Spiel” under Sections 5.4.1 of the Policy which shall inform data subjects at the very outset of the activated BWC. The same may still be further improved, taking into consideration the exigencies of the actual operations on the ground and feedback from both the Patrol/Traffic Officers and the data subjects.
 
-Lastly, the PEATC and its Patrol/Traffic Officers are mandated under the DPA to uphold the
-rights of data subjects and implement reasonable and appropriate security measures for the
-protection of the personal data collected against unauthorized processing. Refer to [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 2016-01]] - Security of Personal Data in Government Agencies for further details.
+Lastly, the PEATC and its Patrol/Traffic Officers are mandated under the DPA to uphold the rights of data subjects and implement reasonable and appropriate security measures for the protection of the personal data collected against unauthorized processing. Refer to [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 2016-01]] - Security of Personal Data in Government Agencies for further details.
 
 This opinion is rendered based on the information you have provided. Additional information
 may change the context of the inquiry and the appreciation of the facts.

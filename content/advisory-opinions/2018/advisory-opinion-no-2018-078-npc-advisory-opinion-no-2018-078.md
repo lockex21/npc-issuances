@@ -62,17 +62,11 @@ You mentioned as well that while you recognize the Department of Labor and Emplo
 
 *Lawful criteria for processing of personal data; general data privacy principles*
 
-The DPA applies to the processing of all types of personal information2, sensitive personal
-information3, and privileged information4 (collectively referred to as personal data) and to any
-natural and juridical person involved in the processing thereof, including government
-agencies. The collection, disclosure or any type of processing of the requested personal data
-by DOLE fall within the ambit of the law, which dictates the requirements that must be
+The DPA applies to the processing of all types of personal information2, sensitive personal information3, and privileged information4 (collectively referred to as personal data) and to any natural and juridical person involved in the processing thereof, including government agencies. The collection, disclosure or any type of processing of the requested personal data by DOLE fall within the ambit of the law, which dictates the requirements that must be
 complied with.
 
 [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA lay down the specific criteria which must be met for the lawful
-processing of personal information and sensitive personal information, respectively. In order
-to authorize any processing of personal data, a personal information controller (PIC) must
-adhere to all the requirements established by the DPA. Sections 12(e) and 13(b) provide:
+processing of personal information and sensitive personal information, respectively. In order to authorize any processing of personal data, a personal information controller (PIC) must adhere to all the requirements established by the DPA. Sections 12(e) and 13(b) provide:
 
    “SECTION 12. Criteria for Lawful Processing of Personal Information. – The
         processing of personal information shall be permitted only if not otherwise prohibited
@@ -145,18 +139,13 @@ Furthermore, the DOLE has the following powers and functions set out by the same
    (12) Perform such other functions as may be provided by law.”
 
 In line with its mandate, powers and functions, the DOLE promulgated Department Order
-No. 183, Series of 2017, known as the Revised Rules on the Administration and Enforcement
-of Labor Laws Pursuant to Article 128 of the Labor Code, as Renumbered[^8] (D.O. 183) which
-aims to further strengthen the implementation of the visitorial and enforcement powers of the
+No. 183, Series of 2017, known as the Revised Rules on the Administration and Enforcement of Labor Laws Pursuant to Article 128 of the Labor Code, as Renumbered[^8] (D.O. 183) which aims to further strengthen the implementation of the visitorial and enforcement powers of the
 Secretary of Labor under the Labor Code.[^9] Verily, Article 128 of the Labor Code provides in
 part:
 
 “The Secretary of Labor and Employment or his duly authorized representatives, including labor regulation officers, shall have access to employer’s records and premises at any time of the day or night whenever work is being undertaken therein, and the right to copy therefrom, to question any employee and investigate any fact, condition or matter which may be necessary to determine violations or which may aid in the enforcement of this Code and of any labor law, wage order or rules and regulations issued pursuant thereto.”[^10]
 
-Given the foregoing, the DOLE is indeed duly authorized to audit employers, and collect,
-obtain and process the requested information as necessary for the implementation of its
-mandated powers and functions. Thus, the requested personal data of your employees in your
-custody may be disclosed to DOLE without the consent of your employees.
+Given the foregoing, the DOLE is indeed duly authorized to audit employers, and collect, obtain and process the requested information as necessary for the implementation of its mandated powers and functions. Thus, the requested personal data of your employees in your custody may be disclosed to DOLE without the consent of your employees.
 
 This opinion is based solely on the limited information you have provided. Additional
 information may change the context of the inquiry and the appreciation of the facts.

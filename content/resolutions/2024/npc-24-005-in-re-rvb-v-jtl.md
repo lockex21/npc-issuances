@@ -34,19 +34,19 @@ draft: false
 
 ## Resolution Text
 
-RVB,
+**RVB,**
 
-Complainant,
+*Complainant,*
 
 -versus-
 
-JTL,
+**JTL,**
 
-Respondent.
+*Respondent.*
 
 x----------------------------------------------------x
 
-AGUIRRE, D.P.C.:
+**AGUIRRE, D.P.C.;**
 
 Before the Commission is a Complaint filed by RVB against JTL for an alleged violation of [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26]] (Accessing Personal Information and Sensitive Personal Information Due to Negligence) of the Republic Act No. 10173 or the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
@@ -64,41 +64,15 @@ On 04 October 2023, RVB received a copy of a Notice to Explain (NTE) from KMC, w
 
 On 22 October 2023, KMC issued a Memorandum (Notice of Decision) absolving RVB and clearing him of any wrongdoing.[^15] The Memorandum also states that the evidence that JTL provided did not substantiate the allegations of sexual or workplace harassment.[^16] Subsequently, KMC reinstated RVB after his suspension.[^17]
 
-Following rigorous examination of your written explanation,
-
-statements, examination of all relevant testimonies, and
-
-assessment of the case’s gravity of the violations charged against
-
-you, the investigation has determined that the evidence
-
-presented does not justify the imposition of a sanction.
-
-Based on the documents/screenshots presented by Mr. JTL , it
-
-can be inferred that there was a mutual understanding between
-
-him and Mr. RVB , taking into consideration the manner how Mr.
-
-JTL responds to the messages of Mr. RVB .
-
-. . .
-
-Considering the foregoing, the Panelists cannot rule in favor of
-
-the Complainant, as the evidence/documents presented do not
-
-support the claims of an alleged Sexual Harassment/Workplace
-
-Harassment.
-
-Therefore, the Management has decided to grant Absolution of
-
-Penalty for the alleged violation of the Company’s Code of
-
-Conduct, specifically, 12.3.2 Sexual Harassment and for 12.3.4
-
-Workplace Harassment. 18
+> Following rigorous examination of your written explanation, statements, examination of all relevant testimonies, and assessment of the case’s gravity of the violations charged against you, the investigation has determined that the evidence presented does not justify the imposition of a sanction.
+>
+> Based on the documents/screenshots presented by Mr. JTL, it can be inferred that there was a mutual understanding between him and Mr. RVB, taking into consideration the manner how Mr. JTL responds to the messages of Mr. RVB.
+>
+> . . .
+>
+> Considering the foregoing, the Panelists cannot rule in favor of the Complainant, as the evidence/documents presented do not support the claims of an alleged Sexual Harassment/Workplace Harassment.
+>
+> Therefore, the Management has decided to grant Absolution of Penalty for the alleged violation of the Company’s Code of Conduct, specifically, 12.3.2 Sexual Harassment and for 12.3.4 Workplace Harassment.[^18]
 
 Thus, RVB alleged that JTL should be held liable under [[laws/data-privacy-act-of-2012#section-26-accessing-personal-information-and-sensitive-personal-information-due-to-negligence|Section 26 of the DPA]] (Access Due to Negligence).[^19] RVB prayed for a fine and reprimand against JTL together with a formal written apology for unauthorized disclosure and any other appropriate remedies deemed fit by the NPC.[^20]
 
@@ -130,15 +104,15 @@ JTL also claimed that the shared information did not constitute sensitive person
 
 JTL stated that “[g]ranting for the sake of argument that there was personal information involved”, it was still justified under the DPA, as the information was necessary for pursuing legal claims and protecting his lawful rights.[^41] He discussed the three requisites for processing based on legitimate interest and argued that these were met in this case:
 
-In the case of GBA vs. SBG (NPC Case No. 20-317, October 13, 2022), the Commission has identified the three (3) requisites for processing based on legitimate interest, to wit:
+> In the case of GBA vs. SBG (NPC Case No. 20-317, October 13, 2022), the Commission has identified the three (3) requisites for processing based on legitimate interest, to wit:
 
-1. The legitimate interest is established;
-2. The processing necessary to fulfill the legitimate interest that is established; and
-3. The interest is legitimate or lawful and it does not override fundamental rights and freedoms of data subjects.[^42]
+> 1. The legitimate interest is established;
+> 2. The processing necessary to fulfill the legitimate interest that is established; and
+> 3. The interest is legitimate or lawful and it does not override fundamental rights and freedoms of data subjects.[^42]
 
 For the first requisite, JTL argued that his legitimate interest is established under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]], which allows the processing of sensitive personal information if it is “necessary for the protection of lawful rights and interests in court proceedings, or the establishment, exercise, or defense of legal claims.”[^43]
 
-JTL cited the case of JCB vs. JME, where the NPC held that the protection of lawful rights and interests is considered a legitimate interest under Section 12(f) of the DPA.[^44] JTL argued that he had “a cause of action to file [a] sexual harassment administrative case against the complainant,” making the processing of personal information necessary to protect his lawful rights.[^45]
+JTL cited the case of *JCB vs. JME*, where the NPC held that the protection of lawful rights and interests is considered a legitimate interest under Section 12(f) of the DPA.[^44] JTL argued that he had “a cause of action to file [a] sexual harassment administrative case against the complainant,” making the processing of personal information necessary to protect his lawful rights.[^45]
 
 For the second requisite, JTL contended that the processing of the screenshots and information was necessary in fulfilling the legitimate interest of filing a sexual harassment complaint.[^46] By presenting these screenshots, JTL sought to substantiate his allegations and provide evidence to support his claims before the investigation panel.[^47] He also emphasized that the screenshots were not shared indiscriminately but only with those authorized by law to investigate the matter.[^48]
 
@@ -268,34 +242,40 @@ This is without prejudice to the filing of appropriate civil, criminal, or admin
 City of Pasay, Philippines.
 01 August 2024.
 
-LEANDRO ANGELO Y. AGUIRRE
+**Sgd.**
+
+**LEANDRO ANGELO Y. AGUIRRE**
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-JOHN HENRY D. NAGA
+**Sgd.**
+
+**JOHN HENRY D. NAGA**
 Privacy Commissioner
 
-NERISSA N. DE JESUS
+**Sgd.**
+
+**NERISSA N. DE JESUS**
 Deputy Privacy Commissioner
 
 Copy furnished:
 
-RVB
+**RVB**
 
-Complainant
+*Complainant*
 
-JTL
+**JTL**
 
-Respondent
+*Respondent*
 
-LEGAL AND ENFORCEMENT OFFICE
+**LEGAL AND ENFORCEMENT OFFICE**
 
-COMPLAINTS AND INVESTIGATION DIVISION
+**COMPLAINTS AND INVESTIGATION DIVISION**
 
-ENFORCEMENT DIVISION
+**ENFORCEMENT DIVISION**
 
-GENERAL RECORDS UNIT
+**GENERAL RECORDS UNIT**
 
 [^1]: Complaints -Assisted Form, 19 January 2024 ,at 3, in RVB v. JTL , NPC 24-005 (NPC 20 24 ).
 [^2]: Decision, 08 March 2024, in RVB v. JTL ,NPC 24-005 (NPC 2024).
@@ -375,6 +355,7 @@ GENERAL RECORDS UNIT
 [^76]: Data Privacy Act 0f 2012, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|§12 (f)]].
 [^77]: National Privacy Commission, [[issuances/2023/guidelines-on-legitimate-interest|Guidelines on Legitimate Interest]] , Circular No. 07 , Series of 20 23
 [^78]: Motion for Reconsideration, 26 March 2024, at 2, in RVB v. JTL , NPC 24-005 (NPC 2024).
+[^79]: *RJC v. DL*, NPC 22-012, 10 November 2022, at 8, available at https://privacy.gov.ph/wp-content/uploads/2023/08/NPC-22-012-2022.11.10-RJC-v.-DL-Decision.pdf (last accessed 05 August 2024).
 [^80]: Id .at 11 .
 [^81]: Decision, 08 March 2024, in RVB v. JTL , NPC 24-005 (NPC 2024).
 [^82]: National Privacy Commission, [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission]]

@@ -95,14 +95,9 @@ Further, PDEA’s Code of Professional Conduct and Ethical Standards provides fo
 
 Considering that PDEA’s own rules require the issuance of a subpoena duces tecum, then such
 procedure must be observed in requesting information involving personal data from the
-CAMOs instead of a mere letter. The issuance of a subpoena duces tecum in lieu of a letter-
-request does not only ensure that due process is observed by PDEA, but it also demonstrates
-judicious assessment and evaluation of circumstances surrounding the request. It goes without
-saying that a subpoena also denotes the legitimacy of the operation and its purpose.
+CAMOs instead of a mere letter. The issuance of a subpoena duces tecum in lieu of a letter-request does not only ensure that due process is observed by PDEA, but it also demonstrates judicious assessment and evaluation of circumstances surrounding the request. It goes without saying that a subpoena also denotes the legitimacy of the operation and its purpose.
 
-Thus, if PDEA-NCR were to course the request for personal information through a validly
-issued subpoena duces tecum, CAMOs can no longer refuse to furnish them with the
-information, as it falls under PDEA’s mandate and is in line with the DPA.
+Thus, if PDEA-NCR were to course the request for personal information through a validly issued subpoena duces tecum, CAMOs can no longer refuse to furnish them with the information, as it falls under PDEA’s mandate and is in line with the DPA.
 
 Nevertheless, it is necessary to point out that having a basis for processing personal data under
 the law does not give PICs unbridled authority over the personal data collected. PICs, such as
@@ -124,9 +119,7 @@ You also cited in your request our Advisory Opinion 2021-028,[^7] and insisted o
            measures, uphold the rights of data subjects and adhere to the data privacy
            principles of transparency, legitimate purpose, and proportionality.
 
-At first glance, PDEA-NCR’s present concern appears to be similar to the situation presented
-in Advisory Opinion 2021-028. However, the difference lies in the fact that the BIR rules allow
-the issuance of an “access to records letter” pursuant to Sec. 5(b) of the National Internal
+At first glance, PDEA-NCR’s present concern appears to be similar to the situation presented in Advisory Opinion 2021-028. However, the difference lies in the fact that the BIR rules allow the issuance of an “access to records letter” pursuant to Sec. 5(b) of the National Internal
 Revenue Code, unlike the PDEA rules which requires a subpoena duces tecum.[^6] Consequently,
 for PDEA-NCR’s processing to be legal under the DPA, its rules on the issuance of a subpoena
 duces tecum must be complied with.
@@ -137,15 +130,9 @@ While the DPA recognizes the mandate of different government agencies, the law i
 
 For the principle of proportionality, it requires that the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not be fulfilled by other means.[^9] It also states that personal data shall only be processed only if the purpose of the processing could not be reasonably fulfilled by any other means.[^10] In addition, only those personal data that are needed in relation to the declared and stated purpose should be disclosed to the requesting entities, such as PDEA-NCR.
 
-Thus, in keeping with the data privacy principles, particularly on proportionality, any request
-for information containing personal data, including the method of request should undergo
-evaluation and judicious assessment to determine what specific personal data should be
-disclosed and if the request is proportional to the purpose sought by the requesting agency.
+Thus, in keeping with the data privacy principles, particularly on proportionality, any request for information containing personal data, including the method of request should undergo evaluation and judicious assessment to determine what specific personal data should be disclosed and if the request is proportional to the purpose sought by the requesting agency.
 
-Please be advised that this Advisory Opinion was rendered based solely on the information
-you have provided. Any extraneous fact that may be subsequently furnished us may affect
-our present position. Please note further that our Advisory Opinion is not intended to
-adjudicate the rights and obligations of the parties involved.
+Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 Please be guided accordingly.
 

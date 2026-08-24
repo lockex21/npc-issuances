@@ -37,9 +37,7 @@ Cancer Society, Inc. (PCS) – Manila Cancer Registry.
 
 In its letter to SLMC-BGC, RMC is requesting access to and collection of pertinent data involving
 cancer cases occurring among residents of Metro Manila and Rizal Province for the years 2013-
-2017 gathered from death certificates for the purpose of determining the true incidence of cancer
-in the population, and for RMC to gather incidence magnitude of the cancer problem and enable
-to better formulate and evaluate the cancer control program. RMC cited Ministry of Health
+2017 gathered from death certificates for the purpose of determining the true incidence of cancer in the population, and for RMC to gather incidence magnitude of the cancer problem and enable to better formulate and evaluate the cancer control program. RMC cited Ministry of Health
 Circular No. 126-A dated 12 December 1983.[^2]
 
 
@@ -51,9 +49,7 @@ Registry Board.
 
 On the other hand, PCS requested for access and collection of SLMC-QC’s cases of cancer
 diagnosed from residents of Manila, Pasay, Caloocan, and Quezon cities, the municipalities of
-Metro Manila and the Rizal Province for the years 2014-2017. PCS will review the chart of patients
-who died at SLMC-QC collected through death certificates. Pertinent information will be
-collected from Medical Records, Out-Patient Records, Department of Pathology, Hematology,
+Metro Manila and the Rizal Province for the years 2014-2017. PCS will review the chart of patients who died at SLMC-QC collected through death certificates. Pertinent information will be collected from Medical Records, Out-Patient Records, Department of Pathology, Hematology,
 Radiotherapy and Tumor Registry or Board, wherever appropriate.
 
 You now inquire whether SLMC should allow access and provide the requested data to RMC and PCS given the limitations of the DPA.
@@ -64,10 +60,7 @@ You now inquire whether SLMC should allow access and provide the requested data 
 
 Medical records, out-patient records, autopsy records, records from the Department of Pathology,
 Cytology, Hematology, Radiology, Ultrasound, Nuclear Medicine, CT Scan, MRI and Tumor
-Registry Board contain health information of SLMC patients. As mandated by our data privacy
-law, any information about an individual’s health is classified as sensitive personal information,
-and the processing of such is prohibited, except in cases stipulated in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]. For
-processing to be lawful, the law requires that at least one of the criteria for processing must exist.
+Registry Board contain health information of SLMC patients. As mandated by our data privacy law, any information about an individual’s health is classified as sensitive personal information, and the processing of such is prohibited, except in cases stipulated in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]. For processing to be lawful, the law requires that at least one of the criteria for processing must exist.
 
 Particularly, Section 13 (b) of the DPA states:
 
@@ -82,51 +75,28 @@ We understand that there is already a law which requires the establishment of a 
 Registry and Monitoring System. Republic Act No. 11215 or the National Integrated Cancer
 Control Act was signed last February 14, 2019.
 
-Section 28 thereof requires the DOH to establish a national cancer registry and monitoring system,
-which shall be a population-based system, while Section 29 requires hospitals to have their own
-cancer registries, whereby cancer registry data shall be submitted to the DOH as a requirement
-for renewal of license to operate a hospital. Both sections of the law recognize explicitly that the
-processing of the personal data for such registries shall be in accordance with the DPA.
+Section 28 thereof requires the DOH to establish a national cancer registry and monitoring system, which shall be a population-based system, while Section 29 requires hospitals to have their own cancer registries, whereby cancer registry data shall be submitted to the DOH as a requirement for renewal of license to operate a hospital. Both sections of the law recognize explicitly that the processing of the personal data for such registries shall be in accordance with the DPA.
 
-The law’s [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) specifically provides that the national
-cancer registry shall include existing quality population-based cancer registries and shall expand
-to other strategically defined geographical areas.[^3]
+The law’s [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) specifically provides that the national cancer registry shall include existing quality population-based cancer registries and shall expand to other strategically defined geographical areas.[^3]
 
 We understand that the RMC and PCS,[^4] a government institution and a private institution,
 respectively, are existing population-based cancer registries in the Philippines. The DOH Rizal
 Cancer Registry and the PCS Manila Cancer Registry are responsible for collecting and analyzing
 the cancer data in their respective areas.[^5]
 
-From the foregoing, both RMC and PCS may be allowed to collect the relevant health information
-from SLMC in order to administer their respective population-based cancer registries and in
-accordance with the provisions of the National Integrated Cancer Control Act.
+From the foregoing, both RMC and PCS may be allowed to collect the relevant health information from SLMC in order to administer their respective population-based cancer registries and in accordance with the provisions of the National Integrated Cancer Control Act.
 
 Since Section 13 (b) allows the processing of sensitive personal information when the same is
 provided by law and regulation, the consent of the patients or data subjects is no longer necessary.
 
-With the above, it is worth noting that while consent may not be required, by virtue of the
-principle of transparency, SLMC should make the necessary steps in ensuring that patients are
-aware their health information is being accessed by the DOH, RMC, and PCS, the purpose and
-extent of such processing, and how the patient can exercise his or her rights as a data subject. This
-may be accomplished through a privacy notice.
+With the above, it is worth noting that while consent may not be required, by virtue of the principle of transparency, SLMC should make the necessary steps in ensuring that patients are aware their health information is being accessed by the DOH, RMC, and PCS, the purpose and extent of such processing, and how the patient can exercise his or her rights as a data subject. This may be accomplished through a privacy notice.
 
-Furthermore, SLMC should bear in mind the principle of proportionality, such that the processing
-of health information is adequate, relevant, suitable necessary and not excessive in relation to the
-declared and specific purpose of the cancer registry. Should SLMC believe that the registries are
-collecting excessive information, it may seek clarification from RMC and PCS. SLMC should also
-develop processes and policies to ensure that health information not related to the said purpose
-is not unduly accessed, collected or processed.
+Furthermore, SLMC should bear in mind the principle of proportionality, such that the processing of health information is adequate, relevant, suitable necessary and not excessive in relation to the declared and specific purpose of the cancer registry. Should SLMC believe that the registries are collecting excessive information, it may seek clarification from RMC and PCS. SLMC should also develop processes and policies to ensure that health information not related to the said purpose is not unduly accessed, collected or processed.
 
-Lastly, it is essential for SLMC to implement reasonable and appropriate organizational, technical
-and physical security measures to ensure that the personal data to be collected by the research
-assistants and/or other personnel of RMC and PCS shall receive an adequate level of protection
-against any accidental or unlawful destruction, alteration and disclosure, as well as against any
+Lastly, it is essential for SLMC to implement reasonable and appropriate organizational, technical and physical security measures to ensure that the personal data to be collected by the research assistants and/or other personnel of RMC and PCS shall receive an adequate level of protection against any accidental or unlawful destruction, alteration and disclosure, as well as against any
 other unlawful processing.
 
-SLMC, together with RMC and PCS, should develop and implement policies and procedures on
-the method of reviewing and extracting personal data, and the means of securely transmitting
-these to RMC and PCS. SLMC may also require the mandatory execution of non-disclosure
-agreements with these research assistants and/or other personnel who shall be processing the
+SLMC, together with RMC and PCS, should develop and implement policies and procedures on the method of reviewing and extracting personal data, and the means of securely transmitting these to RMC and PCS. SLMC may also require the mandatory execution of non-disclosure agreements with these research assistants and/or other personnel who shall be processing the
 medical records.
 
 

@@ -26,10 +26,7 @@ operating in the country are subject to mandatory registration as provided in Se
 IF IT EMPLOYS AT LEAST 250 PERSONS OR PROCESSING AT LEAST 1,000
 RECORDS INVOLVING SENSITIVE PERSONAL INFORMATION.
 
-The National Privacy Commission determines, for the limited purpose of mandatory
-registration under NPC Circular 17-01, that the following sectors or institutions are
-considered PICs or PIPs involved in the processing of personal data that is likely to pose
-a risk to the rights and freedoms of data subjects and/or where the processing is not
+The National Privacy Commission determines, for the limited purpose of mandatory registration under NPC Circular 17-01, that the following sectors or institutions are considered PICs or PIPs involved in the processing of personal data that is likely to pose a risk to the rights and freedoms of data subjects and/or where the processing is not
 occasional:
 
 ### 1. Government Branches, Bodies Or Entities, Including National Government Agencies, Bureaus Or Offices, Constitutional

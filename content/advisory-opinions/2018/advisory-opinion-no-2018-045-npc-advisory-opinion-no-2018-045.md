@@ -62,20 +62,12 @@ The healthcare provider/institution may prescribe the procedure and form to faci
 
 The personal data relevant to the request must be provided by the PIC to the data subject or his authorized representative through a written document, or by any other format practicable to the PIC, including, where appropriate, by electronic means.[^4]
 
-To reiterate the provision that you referred to from the DOH Manual, it is important to note that the
-said provision pertains specifically to the handling of telephone inquiries. Hence, the condition
-should not be inferred to as a general statement or standard procedure in handling all types of access
-requests. Thus, there is no incompatibility between the DOH’s rule in handling telephone inquiries
+To reiterate the provision that you referred to from the DOH Manual, it is important to note that the said provision pertains specifically to the handling of telephone inquiries. Hence, the condition should not be inferred to as a general statement or standard procedure in handling all types of access requests. Thus, there is no incompatibility between the DOH’s rule in handling telephone inquiries
 and the DPA.
 
-Healthcare facilities may prescribe the manner through which access requests may be made. In
-implementing reasonable and appropriate organizational, technical, and physical security measures
-to ensure the confidentiality, integrity and availability of personal data, PICs should consider
-measures which uphold the data subject’s right to access.
+Healthcare facilities may prescribe the manner through which access requests may be made. In implementing reasonable and appropriate organizational, technical, and physical security measures to ensure the confidentiality, integrity and availability of personal data, PICs should consider measures which uphold the data subject’s right to access.
 
-The provisions you have cited serves as a security measure to protect the sensitive personal
-information of the patient, such as health/clinical information, from unauthorized access, especially
-when the information is being requested over the phone where the identity of the caller is not
+The provisions you have cited serves as a security measure to protect the sensitive personal information of the patient, such as health/clinical information, from unauthorized access, especially when the information is being requested over the phone where the identity of the caller is not
 apparent.
 
 This opinion is based on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of the facts.

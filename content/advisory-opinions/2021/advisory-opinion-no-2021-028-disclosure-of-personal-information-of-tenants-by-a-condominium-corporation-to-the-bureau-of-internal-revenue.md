@@ -29,38 +29,23 @@ Re: DISCLOSURE OF PERSONAL INFORMATION OF TENANTS BY A CONDOMINIUM CORPORATION T
 
 Dear [Redacted],
 
-We write in response to your email received by the National Privacy Commission (NPC)
-which sought clarification on whether a condominium corporation may validly refuse the
-request of the Bureau of Internal Revenue (BIR) to provide the list of tenants of the
+We write in response to your email received by the National Privacy Commission (NPC) which sought clarification on whether a condominium corporation may validly refuse the request of the Bureau of Internal Revenue (BIR) to provide the list of tenants of the
 condominium.[^2]
 
 In your letter, you disclosed that you are counsels for Andrea North Condominium
-Corporation (ANCC), incorporated to manage, administer, and operate the condominium
-project (Project). You further disclosed that as part of its duties, ANCC requires its unit owners
-to provide details about its tenants which includes personal information, government-issued
-identification (IDs) and contracts of lease. The purpose of such requirement is to validate the
-tenant-occupant’s authority over the condominium unit/property.
+Corporation (ANCC), incorporated to manage, administer, and operate the condominium project (Project). You further disclosed that as part of its duties, ANCC requires its unit owners to provide details about its tenants which includes personal information, government-issued identification (IDs) and contracts of lease. The purpose of such requirement is to validate the tenant-occupant’s authority over the condominium unit/property.
 
-We understand that ANCC recently received a letter from a BIR Revenue District Officer
-(RDO) requesting for a list of tenants of the Project. The BIR RDO also included in the letter a
-form, to be distributed to and filled out by all unit owners asking them to submit documents
-such as contracts to sell, statements of account/schedule of amortization, official receipts
-issued by the developer/seller for payments made and deeds of sale. The requested
-information will be used for BIR’s Tax Verification Drive to enhance tax compliance and boost
+We understand that ANCC recently received a letter from a BIR Revenue District Officer (RDO) requesting for a list of tenants of the Project. The BIR RDO also included in the letter a form, to be distributed to and filled out by all unit owners asking them to submit documents such as contracts to sell, statements of account/schedule of amortization, official receipts issued by the developer/seller for payments made and deeds of sale. The requested information will be used for BIR’s Tax Verification Drive to enhance tax compliance and boost
 its tax collection efforts.
 
 You now ask for confirmation if ANCC’s position to decline BIR RDO’s request is appropriate.
-ANCC believes that providing the requested documents and information will be violative of
-the unit owners’ and tenants’ data privacy rights under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA)
-since the information were collected by ANCC for validation purposes only.
+ANCC believes that providing the requested documents and information will be violative of the unit owners’ and tenants’ data privacy rights under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) since the information were collected by ANCC for validation purposes only.
 
 ### Discussion
 
 #### Scope of the DPA; Special Cases under the DPA
 
-The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for a list of specified
-information which do not fall within the scope of the law.[^3] In particular, information necessary
-to carry out functions of a public authority are considered special cases under the DPA, to wit:
+The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for a list of specified information which do not fall within the scope of the law.[^3] In particular, information necessary to carry out functions of a public authority are considered special cases under the DPA, to wit:
 
    “SECTION 5. Special Cases. The Act and these Rules shall not apply to the following
          specified information, only to the minimum extent of collection, access, used, disclosure
@@ -100,10 +85,7 @@ We reiterate the discussions in [[advisory-opinions/2020/advisory-opinion-no-202
 of personal data pursuant to its mandate falls under the special cases of the DPA.
 
 The BIR is tasked to, among others, ensure compliance with the National Internal Revenue
-Code (NIRC), as amended, and other relevant tax laws and regulations. The DPA recognizes
-the authority of the BIR Commissioner under Section 5 of the NIRC to obtain information, and
-to summon, examine, and take testimony of persons in determining the liability of any person
-for any internal revenue tax or in collecting such liability or in evaluating tax compliance.
+Code (NIRC), as amended, and other relevant tax laws and regulations. The DPA recognizes the authority of the BIR Commissioner under Section 5 of the NIRC to obtain information, and to summon, examine, and take testimony of persons in determining the liability of any person for any internal revenue tax or in collecting such liability or in evaluating tax compliance.
 
 We likewise asked for clarification from the BIR National Office as to the propriety of such
 letter request from a BIR RDO and received the following reply:
@@ -117,17 +99,12 @@ letter request from a BIR RDO and received the following reply:
          comply despite notices, the district office may request for the issuance of a SDT to compel
          compliance. x x x.”
 
-Hence, ANCC may provide the information requested by the BIR RDO pursuant to the
-agency’s mandate. Submission of the same will not necessarily be violative of data privacy
-rights, given that the BIR has a lawful basis for requesting such information and has followed
-the appropriate processes for this Tax Verification Drive activity.
+Hence, ANCC may provide the information requested by the BIR RDO pursuant to the agency’s mandate. Submission of the same will not necessarily be violative of data privacy rights, given that the BIR has a lawful basis for requesting such information and has followed the appropriate processes for this Tax Verification Drive activity.
 
 We reiterate that the DPA, its IRR and other relevant issuances of the NPC are not meant to
 impede the regular functions of government agencies based on their mandates.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

@@ -42,18 +42,14 @@ We wish to clarify that information of corporate taxpayers, i.e. corporate name,
 
 Note also that the subject of advisory opinions of the National Privacy Commission (NPC) revolves around the interpretation of the provisions of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) and NPC issuances, compliance requirements under the DPA, enforcement of data privacy laws, and other related matters on personal data privacy, security, and protection.[^4]
 
-Thus, the interpretation of the provisions of the NIRC, particularly Section 270, are not within
-the purview of our mandate. For purposes of this advisory opinion, the discussion shall be
-limited to the application of the DPA, its IRR and NPC issuances on the publication of the full
+Thus, the interpretation of the provisions of the NIRC, particularly Section 270, are not within the purview of our mandate. For purposes of this advisory opinion, the discussion shall be limited to the application of the DPA, its IRR and NPC issuances on the publication of the full
 content of BIR Rulings.
 
 #### Transparency; Public Authority; Mandate
 
 The DPA has the twin task of protecting the fundamental human right to privacy whilst ensuring the free flow of information to promote innovation and growth.[^5] For this very reason, the DPA shall not operate to hinder the BIR from adopting measures that it may deem necessary and crucial to promote transparency in its transactions involving public interest, to bolster the Constitutional right of every citizen to information on matters of public concern, and to comply with EO No. 2. The DPA is not meant to prevent government institutions from processing personal data when necessary to fulfill their mandates.[^6]
 
-The above must be harmonized with the protection of the fundamental human right to
-privacy. The DPA dictates that any person or entity who processes personal and/or sensitive
-personal information (collectively, personal data) shall still be subject to its provisions.
+The above must be harmonized with the protection of the fundamental human right to privacy. The DPA dictates that any person or entity who processes personal and/or sensitive personal information (collectively, personal data) shall still be subject to its provisions.
 
 Under the DPA, processing is defined as any operation or any set of operations performed upon personal information. Processing, therefore, includes publication of rulings. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA provides for the instances wherein processing of personal and sensitive personal information, respectively, may be allowed, to wit:
 
@@ -69,39 +65,26 @@ Under the DPA, processing is defined as any operation or any set of operations p
 
 We acknowledge the fact that BIR is a public authority tasked with the duty, among others, to ensure compliance with the NIRC and other tax laws, rules, and regulations. We also understand that BIR Rulings are official positions of the BIR on inquiries of taxpayers who request clarification on certain provisions of the NIRC, other tax laws or other implementing regulations, usually for the purpose of seeking tax exemption.[^7]
 
-The publication of BIR rulings is a matter of public concern as it aims to apprise taxpayers of
-essential information on how the BIR treats various transactions and the corresponding tax
-implications. This may help uninformed taxpayers on how to avail of the benefits provided
-under the NIRC, such compromise and abatement of tax liabilities, tax credits and refunds,
+The publication of BIR rulings is a matter of public concern as it aims to apprise taxpayers of essential information on how the BIR treats various transactions and the corresponding tax implications. This may help uninformed taxpayers on how to avail of the benefits provided under the NIRC, such compromise and abatement of tax liabilities, tax credits and refunds,
 among others.
 
-Broader dissemination of BIR rulings through the BIR website may even possibly prevent tax
-evasion as such rulings will give taxpayers a better understanding of the tax laws and
-regulations and their concomitant responsibility filing the proper tax returns and paying the
+Broader dissemination of BIR rulings through the BIR website may even possibly prevent tax evasion as such rulings will give taxpayers a better understanding of the tax laws and regulations and their concomitant responsibility filing the proper tax returns and paying the
 correct amount of taxes.
 
 #### General Data Privacy Principles; Proportionality
 
 While there may be a lawful basis for the publication of BIR rulings, the BIR, as a personal information controller, must still adhere to the general data privacy principles, particularly the principle of proportionality. This principle dictates that the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.[^8] Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.[^9]
 
-We understand that the BIR collects various personal data for a better understanding of the
-materials facts surrounding a transaction for which a BIR ruling has been requested. These
-may include names, addresses, tax identification numbers, among others.
+We understand that the BIR collects various personal data for a better understanding of the materials facts surrounding a transaction for which a BIR ruling has been requested. These may include names, addresses, tax identification numbers, among others.
 
-As these rulings will be published in the BIR website, it is recommended that the same be
-formulated in such a manner whereby only the factual circumstances of the transaction and
-how the BIR interprets and applies the NIRC in relation to such circumstances shall be
-included in the ruling, without necessarily disclosing personal data, especially sensitive
+As these rulings will be published in the BIR website, it is recommended that the same be formulated in such a manner whereby only the factual circumstances of the transaction and how the BIR interprets and applies the NIRC in relation to such circumstances shall be included in the ruling, without necessarily disclosing personal data, especially sensitive
 personal information.
 
 If a particular ruling cannot otherwise be crafted in the above manner, the BIR may opt to redact the ruling to be posted on the BIR website. This is similar to our previous pronouncement in [[advisory-opinions/2018/advisory-opinion-no-2018-018-npc-advisory-opinion-no-2018-018|Advisory Opinion No. 2018-018]][^10] regarding the online publication of PhilHealth decisions, where we advised PhilHealth to consider posting a redacted or pseudonymized version of the decision or case digests which may be sufficient for public information.
 
 From the foregoing, the publication of the full content of BIR Rulings may be done without
 violating the provisions of the DPA, considering the discussions above on the BIR’s mandate.
-However, bearing in mind the principle of proportionality, it is recommended that as a best
-practice, the BIR should endeavor to formulate these rulings without necessarily disclosing
-personal data, especially sensitive personal information, if feasible. In all cases, the BIR always
-has the option to redact the rulings to be posted on the BIR website.
+However, bearing in mind the principle of proportionality, it is recommended that as a best practice, the BIR should endeavor to formulate these rulings without necessarily disclosing personal data, especially sensitive personal information, if feasible. In all cases, the BIR always has the option to redact the rulings to be posted on the BIR website.
 
 This opinion is rendered based on the information you have provided. Additional information
 may change the context of the inquiry and the appreciation of the facts.

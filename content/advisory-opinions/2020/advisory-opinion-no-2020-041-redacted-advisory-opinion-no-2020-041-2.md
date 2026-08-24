@@ -30,9 +30,7 @@ aliases:
 Dear [Redacted],
 
 We write in response to your request for an Advisory Opinion received by the National
-Privacy Commission (NPC) to provide clarification and guidance on the legality of spamming
-given the provisions of the Cybercrime Prevention Act of 2012, Philippine Supreme Court
-decision in Disini, Jr. vs. Secretary of Justice and the different views of government and private
+Privacy Commission (NPC) to provide clarification and guidance on the legality of spamming given the provisions of the Cybercrime Prevention Act of 2012, Philippine Supreme Court decision in Disini, Jr. vs. Secretary of Justice and the different views of government and private
 entities on spamming.
 
 ### Discussion
@@ -118,10 +116,7 @@ Unsolicited commercial communications or “spam” is not illegal as stated by 
 Court decision in Disini, Jr. v. Secretary of Justice where the Court decriminalized the pertinent
 provision under the Cybercrime Prevention Act of 2012 that makes it a punishable act.
 
-Further, Article 8 of the New Civil Code of the Philippines provides that “judicial decisions
-applying or interpreting the laws or the Constitution shall form a part of the legal system of
-the Philippines.”[^6] Thus, the Supreme Court decision decriminalizing unsolicited commercial
-communications holds true and should be respected until it is overturned by the Court itself.
+Further, Article 8 of the New Civil Code of the Philippines provides that “judicial decisions applying or interpreting the laws or the Constitution shall form a part of the legal system of the Philippines.”[^6] Thus, the Supreme Court decision decriminalizing unsolicited commercial communications holds true and should be respected until it is overturned by the Court itself.
 Furthermore, the law and decisions by the High Court interpreting the Constitutions and laws
 have greater authority than administrative issuances.
 
@@ -130,25 +125,16 @@ regulations, the Commission abides by the ruling of the Supreme Court in Disini,
 Secretary of Justice and thus, treats unsolicited commercial communications as legitimate forms
 of free expression.
 
-The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^7] (DPA) was enacted to protect the processing of individuals’
-personal data and requires that the processing shall be in made in accordance with its
-provisions, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] and other existing laws, rules and
-regulations. It does not prohibit unsolicited commercial communications per se, rather, it sets
-the limit and reasonable guidance how these may be made while protecting the data privacy
+The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^7] (DPA) was enacted to protect the processing of individuals’ personal data and requires that the processing shall be in made in accordance with its provisions, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] and other existing laws, rules and regulations. It does not prohibit unsolicited commercial communications per se, rather, it sets the limit and reasonable guidance how these may be made while protecting the data privacy
 rights of individuals.
 
 While the content of unsolicited commercial communications is legal as pronounced by the
 Supreme Court, the manner through which they are delivered, especially the use of personal
 data to obtain contact information, is still under the scope our privacy law.
 
-As such communications are well under the scope of the DPA, any processing of personal
-data for the purposes of sending unsolicited commercial communications should be in
-accordance with the provisions of the DPA, its IRR, NPC issuances as well as other existing
-laws, rules and regulations. Senders of unsolicited commercial communications must have a
+As such communications are well under the scope of the DPA, any processing of personal data for the purposes of sending unsolicited commercial communications should be in accordance with the provisions of the DPA, its IRR, NPC issuances as well as other existing laws, rules and regulations. Senders of unsolicited commercial communications must have a
 valid legal ground for processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, where appropriate, and
-effectively become personal information controllers (PICs) who must uphold data subject’s
-rights and fulfill specific requirements on security measures for the protection of personal
-data laid down by the law and its IRR.
+effectively become personal information controllers (PICs) who must uphold data subject’s rights and fulfill specific requirements on security measures for the protection of personal data laid down by the law and its IRR.
 
 Thus, the surrounding circumstances of the sending out of these unsolicited commercial
 solicitations or spam are factors to consider whether the processing is indeed lawful under
@@ -157,27 +143,16 @@ the provisions of the DPA.
 #### Effects of spamming on data privacy rights and digital identities
 
 As for the disadvantages of spamming on the data privacy rights and digital identities of
-Philippine netizens, one of the apparent effects of it are the loss of the right to object or
-withhold consent by the data subject whose personal data has already been processed. For
-entities and individuals who resort to anonymous sending of unsolicited commercial
-communication, they deprived the data subjects the right to be informed as well as their right
-to give consent to the processing of their personal data for direct marketing.
+Philippine netizens, one of the apparent effects of it are the loss of the right to object or withhold consent by the data subject whose personal data has already been processed. For entities and individuals who resort to anonymous sending of unsolicited commercial communication, they deprived the data subjects the right to be informed as well as their right to give consent to the processing of their personal data for direct marketing.
 
-Spamming through emails or other means of electronic communication can also lead to
-profiling. The simple act of opening of an email can give an indication of the user’s preference,
-through the cookies stored in the user’s computers with unique identifiers, later on enabling
-advertising networks to target and deliver advertisements based on individual interests.
+Spamming through emails or other means of electronic communication can also lead to profiling. The simple act of opening of an email can give an indication of the user’s preference, through the cookies stored in the user’s computers with unique identifiers, later on enabling advertising networks to target and deliver advertisements based on individual interests.
 
-In view of the foregoing, the Commission reminds businesses, organizations, and individuals
-to keep in mind that they become PICs when they process personal data of individuals for
-sending out unsolicited commercial communication.
+In view of the foregoing, the Commission reminds businesses, organizations, and individuals to keep in mind that they become PICs when they process personal data of individuals for sending out unsolicited commercial communication.
 
 As PICs they are responsible in complying with the provisions of the DPA as well as
 upholding the data subject rights.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

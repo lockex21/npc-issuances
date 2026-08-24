@@ -38,9 +38,7 @@ following files/information:
    b. Employee’s personal data after employee ceased employment; and
    c. Benefits enrollment information after employee ceased employment.
 
-The DPA provides that personal data shall only be retained for as long as necessary for the
-fulfillment of the purposes for which the data was obtained or for the establishment, exercise
-or defense of legal claims, or for legitimate business purposes, or as provided by law.[^1]
+The DPA provides that personal data shall only be retained for as long as necessary for the fulfillment of the purposes for which the data was obtained or for the establishment, exercise or defense of legal claims, or for legitimate business purposes, or as provided by law.[^1]
 
 Further, the IRR expounds on such requirement under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-19-general-principles-in-collection-processing-and-retention|Section 19(d)]], to wit:
 
@@ -61,27 +59,15 @@ Further, the IRR expounds on such requirement under [[laws/implementing-rules-an
 The IRR further provides that personal data shall not be retained in perpetuity in
 contemplation of a possible future use yet to be determined.[^2]
 
-From the foregoing, it is clear that the DPA and its IRR does not provide for a specific retention
-period. Instead, the law sets out the general principles and guidelines for the retention of
-personal data. As a general rule, records containing personal data should be retained only
-for as long as may be necessary for the purpose or purposes for which the personal data were
+From the foregoing, it is clear that the DPA and its IRR does not provide for a specific retention period. Instead, the law sets out the general principles and guidelines for the retention of personal data. As a general rule, records containing personal data should be retained only for as long as may be necessary for the purpose or purposes for which the personal data were
 collected.
 
-The company should be mindful of the data privacy principles of transparency, legitimate
-purpose and proportionality. This means that data subjects must be informed of the retention
-periods of the company, and the purpose for retaining the records. The company must ensure
-that only that personal data which is adequate, relevant, suitable and necessary for the
+The company should be mindful of the data privacy principles of transparency, legitimate purpose and proportionality. This means that data subjects must be informed of the retention periods of the company, and the purpose for retaining the records. The company must ensure that only that personal data which is adequate, relevant, suitable and necessary for the
 purpose will be retained.
 
-Likewise, when retaining personal data, the company must implement security measures to
-ensure that the personal data being stored or retained are protected. These guidelines will not
-apply where the personal data is aggregated or kept in a form which does not permit
-identification of data subjects, in which case, the data may be kept longer.
+Likewise, when retaining personal data, the company must implement security measures to ensure that the personal data being stored or retained are protected. These guidelines will not apply where the personal data is aggregated or kept in a form which does not permit identification of data subjects, in which case, the data may be kept longer.
 
-It is recommended that the company develop and maintain its own record management
-policy which provide for retention periods and procedures for disposal of records containing
-personal data. Factors that may be considered by a company in determining retention periods
-of employment records would include:
+It is recommended that the company develop and maintain its own record management policy which provide for retention periods and procedures for disposal of records containing personal data. Factors that may be considered by a company in determining retention periods of employment records would include:
 
 1. Legal requirements to which the company may be subject to;
 2. Applicable prescription periods in existing law (i.e. money claims);
@@ -89,12 +75,7 @@ of employment records would include:
 4. Bureau of internal revenue regulations for bookkeeping requirements; and
 5. Industry standards, and other laws and regulations that apply to the sector.
 
-Thus, for as long as your company can determine a legitimate business purpose for the
-retention of the abovementioned personal data, which is consistent with standards followed
-in the industry you are in, or if there exists any legal claims being pursued by the company,
-or when retention is allowed as provided for by law, then retention of personal data is
-permitted. However, such retention must not be in perpetuity in consideration of some future
-use which has not yet been determined.
+Thus, for as long as your company can determine a legitimate business purpose for the retention of the abovementioned personal data, which is consistent with standards followed in the industry you are in, or if there exists any legal claims being pursued by the company, or when retention is allowed as provided for by law, then retention of personal data is permitted. However, such retention must not be in perpetuity in consideration of some future use which has not yet been determined.
 
 For your reference.[^3]
 

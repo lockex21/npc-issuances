@@ -36,18 +36,9 @@ We write in response to your request for advisory opinion received by the Nation
 Commission (NPC) to provide guidance on the legality of obtaining photographs of accused
 individuals taking into consideration the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).
 
-From your letter, we understand that you are a party-in-interest and the counsel of the family
-of the victim in a murder case in 2018. The accused in the criminal case are allegedly members
-of the Philippine National Police (PNP) who were charged for two counts of murder. A
-warrant of arrest had been issued in October 2019 against the twenty (20) accused police
-officers, as evidenced by your attachment.
+From your letter, we understand that you are a party-in-interest and the counsel of the family of the victim in a murder case in 2018. The accused in the criminal case are allegedly members of the Philippine National Police (PNP) who were charged for two counts of murder. A warrant of arrest had been issued in October 2019 against the twenty (20) accused police officers, as evidenced by your attachment.
 
-We understand further that despite the issuance of the warrant of arrest, you have not seen
-nor felt an earnest effort on the part of the police to locate, arrest and detain the remaining
-sixteen (16) accused who are still at large. You are now constrained to actively pursue the
-remaining accused and bring them to justice using other lawful means. We understand that
-you requested from the PNP the high-resolution photographs of the accused, but the latter
-refused to grant the request on the ground that photographs are protected under the DPA.
+We understand further that despite the issuance of the warrant of arrest, you have not seen nor felt an earnest effort on the part of the police to locate, arrest and detain the remaining sixteen (16) accused who are still at large. You are now constrained to actively pursue the remaining accused and bring them to justice using other lawful means. We understand that you requested from the PNP the high-resolution photographs of the accused, but the latter refused to grant the request on the ground that photographs are protected under the DPA.
 
 You now come to the Commission for guidance on the following inquiries:
 
@@ -69,16 +60,9 @@ You now come to the Commission for guidance on the following inquiries:
 
 #### Photographs as Personal and Sensitive Personal Information
 
-Under the DPA, personal information is defined as any information whether recorded in a
-material form or not, from which the identity of an individual is apparent or can be
-reasonably and directly ascertained by the entity holding the information, or when put
-together with other information would directly and certainly identify an individual.[^1] In addition, the law provides for an exclusive list of information that are considered as sensitive personal information which includes, among others, information about any proceeding for any offense committed or alleged to have been committed by the individual.[^2]
+Under the DPA, personal information is defined as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^1] In addition, the law provides for an exclusive list of information that are considered as sensitive personal information which includes, among others, information about any proceeding for any offense committed or alleged to have been committed by the individual.[^2]
 
-Thus, images of an individual generally fall under this category as they may reasonably or
-directly ascertain the identity of the data subject. However, considering the peculiar
-circumstances of this case where the photographs sought are connected to the crime alleged
-to have been committed, then the photographs of the accused may be considered as sensitive
-personal information. Either way, these photographs are indeed under the coverage of the
+Thus, images of an individual generally fall under this category as they may reasonably or directly ascertain the identity of the data subject. However, considering the peculiar circumstances of this case where the photographs sought are connected to the crime alleged to have been committed, then the photographs of the accused may be considered as sensitive personal information. Either way, these photographs are indeed under the coverage of the
 DPA.
 
 Nevertheless, the law does not absolutely prohibit the disclosure of personal information or
@@ -88,34 +72,18 @@ allowed.
 
 #### Disclosure of Photographs Allowed Under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]]
 
-Under the DPA, the processing of personal information shall be allowed, subject to
-compliance with the requirements of this Act and other laws allowing disclosure of
-information to the public and adherence to the principles of transparency, legitimate purpose
-and proportionality.[^3] As applied in the instant case, we may consider the photographs of the
+Under the DPA, the processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.[^3] As applied in the instant case, we may consider the photographs of the
 
 accused as sensitive personal information, the lawful criteria for processing of which is found
 under Section 13 of the law.
 
-Particularly, the case at hand may find legal ground under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] which provides: “The
-processing concerns such personal information as is necessary for the protection of lawful
-rights and interests of natural or legal persons in court proceedings, or the establishment,
-exercise or defense of legal claims, or when provided to government or public authority.”
+Particularly, the case at hand may find legal ground under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] which provides: “The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.”
 
-While jurisprudence has settled that “the interest of the private complainant is limited only to
-the civil liability arising from the crime,”[^4] it is still evident that there exists a valid legal claim
-by the bereaved family of the victim. In order for the civil liability to arise, the crime should
-be judicially tried, and the accused convicted. Bringing the remaining accused who are still at
-large to justice is within the purview of the abovementioned Section 13 as an exercise of a
-valid legal claim as well as the protection of lawful rights and interests in a court proceeding.
+While jurisprudence has settled that “the interest of the private complainant is limited only to the civil liability arising from the crime,”[^4] it is still evident that there exists a valid legal claim by the bereaved family of the victim. In order for the civil liability to arise, the crime should be judicially tried, and the accused convicted. Bringing the remaining accused who are still at large to justice is within the purview of the abovementioned Section 13 as an exercise of a valid legal claim as well as the protection of lawful rights and interests in a court proceeding.
 
-As to the other questions on the submission of photographs as part of an application for
-admission or employment with the PNP, the lawful basis for the processing of the same is not
-consent. These photographs are most probably required by the PNP based on applicable laws
-and regulations of the Civil Service Commission on recruitment, selection, and placement.
+As to the other questions on the submission of photographs as part of an application for admission or employment with the PNP, the lawful basis for the processing of the same is not consent. These photographs are most probably required by the PNP based on applicable laws and regulations of the Civil Service Commission on recruitment, selection, and placement.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

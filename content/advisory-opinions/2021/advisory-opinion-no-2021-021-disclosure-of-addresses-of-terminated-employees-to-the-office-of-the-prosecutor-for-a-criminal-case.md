@@ -38,32 +38,20 @@ Commission (NPC) on whether the disclosure of addresses of terminated employees 
 Office of the Prosecutor in connection with the criminal case filed by a company violates the
 [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
-We understand from your letter that a certain company terminated several employees
-following all Department of Labor and Employment-prescribed procedures, and upon
-establishing factual and legal bases, the company subsequently filed a criminal case for libel
-against the said terminated employees.
+We understand from your letter that a certain company terminated several employees following all Department of Labor and Employment-prescribed procedures, and upon establishing factual and legal bases, the company subsequently filed a criminal case for libel against the said terminated employees.
 
 ### Discussion
 
 #### Processing of Personal Data; Lawful Basis; Sections 12 and 13
 
-The DPA recognizes the processing of personal and sensitive personal information
-(collectively, personal data) provided the requirements of the law are complied with and
-subject to the adherence of the data privacy principles of transparency, legitimate purpose,
+The DPA recognizes the processing of personal and sensitive personal information (collectively, personal data) provided the requirements of the law are complied with and subject to the adherence of the data privacy principles of transparency, legitimate purpose,
 and proportionality.
 
-In particular, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] allows the processing of personal information if the
-same is necessary for the purpose of the legitimate interests pursued by the personal
-information controller or by a third party. On the other hand, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] permits the
-processing of sensitive personal information if it is necessary for the protection of lawful rights
-and interests of natural or legal persons in court proceedings, or the establishment, exercise
+In particular, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]] allows the processing of personal information if the same is necessary for the purpose of the legitimate interests pursued by the personal information controller or by a third party. On the other hand, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] permits the processing of sensitive personal information if it is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise
 or defense of legal claims.
 
 The decision of the Commission in the case of BGM vs. IPP,[^3] may apply in this scenario. The
-Commission cited Section 12 (f) in relation to [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] as a possible lawful
-criterion for processing personal information (as applied in this case, the addresses of the
-terminated employees) in relation to the protection of lawful rights and interests and legal claims
-(in this scenario, the criminal case for libel with the Office of the Prosecutor):
+Commission cited Section 12 (f) in relation to [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the DPA]] as a possible lawful criterion for processing personal information (as applied in this case, the addresses of the terminated employees) in relation to the protection of lawful rights and interests and legal claims (in this scenario, the criminal case for libel with the Office of the Prosecutor):
 
    “Based on the foregoing, the disclosure to be made by the Respondent of the information
         of the recipient of Complainant’s personal information, for purposes of identification of
@@ -86,13 +74,9 @@ terminated employees) in relation to the protection of lawful rights and interes
         by other means.” (citing CID Case No. 17-K-003 dated 19 November 2019 and NPC 18-
         135 dated 06 August 2020)
 
-From the foregoing, the disclosure by the company of the addresses of terminated employees
-to the Office of the Prosecutor in connection with the criminal case filed with the same may
-be allowed under the DPA based on the above considerations.
+From the foregoing, the disclosure by the company of the addresses of terminated employees to the Office of the Prosecutor in connection with the criminal case filed with the same may be allowed under the DPA based on the above considerations.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

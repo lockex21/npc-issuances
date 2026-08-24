@@ -29,9 +29,7 @@ Re: COMPUTER MONITORING
 
 Dear [Redacted],
 
-We write in response to your inquiry on whether secret surveillance on an employee’s
-computer activities through the installation of a monitoring software to record keystrokes and
-take random snapshot of computer screen is prohibited under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1]
+We write in response to your inquiry on whether secret surveillance on an employee’s computer activities through the installation of a monitoring software to record keystrokes and take random snapshot of computer screen is prohibited under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1]
 (DPA).
 
 ### Discussion
@@ -42,11 +40,7 @@ office-issued computer.
 
 #### Scope of the DPA; general data privacy principles
 
-The DPA applies to the processing of all types of personal information and to any natural and
-juridical person involved in personal information processing. Where the computer monitoring
-results in the collection of personal, sensitive personal or privileged information (collectively,
-personal data) of employees, the employers are engaged in processing personal data, and thus,
-covered by the provisions of the DPA.
+The DPA applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing. Where the computer monitoring results in the collection of personal, sensitive personal or privileged information (collectively, personal data) of employees, the employers are engaged in processing personal data, and thus, covered by the provisions of the DPA.
 
 Monitoring employee activities when he or she is using an office-issued computer may be
 allowable under the DPA, provided the processing falls under any of the criteria for lawful
@@ -56,45 +50,23 @@ Employers, as personal information controllers (PICs), shall ensure that the pro
 complies with the general data privacy principles of transparency, legitimate purpose and
 proportionality.
 
-First, it is incumbent upon the employer to determine the purpose/s of computer monitoring,
-which must not be contrary to law, morals, or public policy.[^2] Some possible legitimate
-purposes of computing monitoring are as follows: management of workplace productivity,
+First, it is incumbent upon the employer to determine the purpose/s of computer monitoring, which must not be contrary to law, morals, or public policy.[^2] Some possible legitimate purposes of computing monitoring are as follows: management of workplace productivity,
 
-protection of employees, business assets, intellectual property or other proprietary rights,
-prevention of vicarious liability where the employer assumes legal responsibility for the
-actions and behavior of employees,[^3] and the like.
+protection of employees, business assets, intellectual property or other proprietary rights, prevention of vicarious liability where the employer assumes legal responsibility for the actions and behavior of employees,[^3] and the like.
 
-Alongside the determination of the purpose of processing, the employer shall assess the
-proportionality of the information collected, and the ways and means of processing. This
-principle directs the employer to process information that is adequate, relevant, suitable,
-necessary and not excessive in relation to the declared and specified purpose.[^4]
+Alongside the determination of the purpose of processing, the employer shall assess the proportionality of the information collected, and the ways and means of processing. This principle directs the employer to process information that is adequate, relevant, suitable, necessary and not excessive in relation to the declared and specified purpose.[^4]
 
-The methodology of data collection should likewise be proportional to the achievement and
-fulfillment of the purpose of the employer. Thus, personal data of the employees shall only be
-collected, used and stored by the employer, through computer monitoring, if the purpose
-sought to be achieved cannot be fulfilled by any other less privacy intrusive means.
+The methodology of data collection should likewise be proportional to the achievement and fulfillment of the purpose of the employer. Thus, personal data of the employees shall only be collected, used and stored by the employer, through computer monitoring, if the purpose sought to be achieved cannot be fulfilled by any other less privacy intrusive means.
 
-In all cases, the employer is duty-bound to inform and notify the data subjects of the nature,
-purpose, and extent of computer monitoring and processing when using office-issued
-computers.[^5] Moreover, the employer must issue a policy or set of guidelines on the use of
-company-issued devices and equipment.
+In all cases, the employer is duty-bound to inform and notify the data subjects of the nature, purpose, and extent of computer monitoring and processing when using office-issued computers.[^5] Moreover, the employer must issue a policy or set of guidelines on the use of company-issued devices and equipment.
 
 #### Recommendation
 
-“Secret surveillance” as you mentioned is frowned upon. Regardless of the legitimate purpose
-of processing, is the duty of the employer to explain the conduct of computer monitoring to
-the employees, the specific purpose, scope and actual method of monitoring, security
-measures to protect personal data, as well as the procedure for redress in cases where the
-rights of the employee as a data subject are violated.
+“Secret surveillance” as you mentioned is frowned upon. Regardless of the legitimate purpose of processing, is the duty of the employer to explain the conduct of computer monitoring to the employees, the specific purpose, scope and actual method of monitoring, security measures to protect personal data, as well as the procedure for redress in cases where the rights of the employee as a data subject are violated.
 
-The use of a software that records the keystrokes of the user and/or takes random photos of
-the computer screen seems to be an excessive and disproportionate mechanism in monitoring
-employees. Unless the declared purpose of computer monitoring necessitates and justifies the
-use of such extreme measure, the same should not be carried out.
+The use of a software that records the keystrokes of the user and/or takes random photos of the computer screen seems to be an excessive and disproportionate mechanism in monitoring employees. Unless the declared purpose of computer monitoring necessitates and justifies the use of such extreme measure, the same should not be carried out.
 
-Every employer conducting computer monitoring or employee monitoring should ensure that
-the data collected directly satisfies the purpose of monitoring and that it clearly aligns with
-the need and objectives of the organization.[^6]
+Every employer conducting computer monitoring or employee monitoring should ensure that the data collected directly satisfies the purpose of monitoring and that it clearly aligns with the need and objectives of the organization.[^6]
 
 A policy discussing the parameters of monitoring is in order to be able to ensure that the
 employees still have a reasonable expectation of privacy at work.[^7] It is recommended to
@@ -115,11 +87,7 @@ at work.
 
 In the same way that the companies value the privacy rights of every customer, it should
 likewise respect the privacy of its own employees and enable them to exercise their rights.
-With the emergence of new technologies that provide employers with vast opportunities to
-monitor and track employees, unbridled checking can damage trust, disrupt professional
-relationships and disturb workplace peace and performance.[^9] An effective policy and
-communication strategy must be implemented to maintain the balance between the business
-or operational objectives and the right to privacy.
+With the emergence of new technologies that provide employers with vast opportunities to monitor and track employees, unbridled checking can damage trust, disrupt professional relationships and disturb workplace peace and performance.[^9] An effective policy and communication strategy must be implemented to maintain the balance between the business or operational objectives and the right to privacy.
 
 This opinion is based solely on the information you have provided. Additional information
 may change the context of the inquiry and the appreciation of facts.

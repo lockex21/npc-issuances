@@ -37,30 +37,16 @@ of Government Personnel.[^3]
 
 ### Discussion
 
-We note that the decision of the San Juan City Human Resource Development Department to
-deny your request took into consideration the principles enunciated in the DPA and is
-consistent with the recommendations set by [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|NPC Advisory No. 2017-02]] on resolving a
-pending request for access to a PDS. This includes a statement from the City Human Resource
+We note that the decision of the San Juan City Human Resource Development Department to deny your request took into consideration the principles enunciated in the DPA and is consistent with the recommendations set by [[issuances/2017/access-to-personal-data-sheets-of-government-personnel|NPC Advisory No. 2017-02]] on resolving a pending request for access to a PDS. This includes a statement from the City Human Resource
 Development Department of the City of San Juan, which you have attached, that a preliminary
 investigation is now being conducted by the Civil Service Commission (CSC) and docketed as
 Case No. D-1520001918 concerning your co-employee.
 
 We wish to emphasize that access to or disclosure of the PDS of a particular government
 employee may be regulated despite its nature as a public record and/or public document.
-Each government agency may provide for certain rules or a set criteria against which a request
-for such document shall be assessed. A certified true copy of a Personal Data Sheet (PDS) of
-any government employee necessarily contains sensitive personal information such as civil
-status, blood type and other health information, GSIS, PAG-IBIG and PHILHEALTH No.,
-information about the employee’s family which may include information about minor
-children, among others. Thus, the disclosure of a certified Personal Data Sheet should be
-shown as necessary for the purpose of the requesting party, and such purpose must not be
-contrary to law, morals, and public policy.
+Each government agency may provide for certain rules or a set criteria against which a request for such document shall be assessed. A certified true copy of a Personal Data Sheet (PDS) of any government employee necessarily contains sensitive personal information such as civil status, blood type and other health information, GSIS, PAG-IBIG and PHILHEALTH No., information about the employee’s family which may include information about minor children, among others. Thus, the disclosure of a certified Personal Data Sheet should be shown as necessary for the purpose of the requesting party, and such purpose must not be contrary to law, morals, and public policy.
 
-We also note the statement in your letter that you have knowledge of the contents of the PDS
-of your co-employee as encoded in the Human Resource Information System (HRIS). In
-general, the HRIS of any agency should only be accessed by authorized personnel, and any
-access without clearance or authority may be considered unauthorized access or intentional
-breach depending on attendant circumstances.
+We also note the statement in your letter that you have knowledge of the contents of the PDS of your co-employee as encoded in the Human Resource Information System (HRIS). In general, the HRIS of any agency should only be accessed by authorized personnel, and any access without clearance or authority may be considered unauthorized access or intentional breach depending on attendant circumstances.
 
 This opinion is based solely on the information you have provided. Additional information
 may change the context of the inquiry and the appreciation of facts.

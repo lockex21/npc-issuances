@@ -30,22 +30,14 @@ Re: PRIVACY POLICY AND CONSENT OF DATA SUBJECTS
 Dear [Redacted],
 
 This refers to your inquiry received by the National Privacy Commission (NPC) via email.
-You sought for clarification on the compliance of an insurance company with the
-requirements of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],1 otherwise known as the Data Privacy Act of 2012
-(DPA) and its Implementing Rules and Regulation ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), in relation to a privacy policy
-submitted by the said insurance company pursuant to the requirement under Insurance
+You sought for clarification on the compliance of an insurance company with the requirements of [[laws/data-privacy-act-of-2012|Republic Act No. 10173]],1 otherwise known as the Data Privacy Act of 2012 (DPA) and its Implementing Rules and Regulation ([[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]]), in relation to a privacy policy submitted by the said insurance company pursuant to the requirement under Insurance
 Commission (IC) Circular Letter (CL) No. 2014-47 - Guidelines on Electronic Commerce of
 Insurance Products. A copy of the privacy policy is attached herewith as Annex “A.”
 
 We understand that upon evaluation conducted by the IC Regulation Enforcement and
-Prosecution Division and Information Systems Division, the submitted privacy policy of that
-insurance company is not compliant with the DPA for the reason being that the company shall
-be disclosing personal information of their customers to third party entities without the
-required customers prior written approval.
+Prosecution Division and Information Systems Division, the submitted privacy policy of that insurance company is not compliant with the DPA for the reason being that the company shall be disclosing personal information of their customers to third party entities without the required customers prior written approval.
 
-In addition, you mentioned that since this transaction is done electronically, and the customer
-will just click the agree/disagree portion provided for in the online transaction, you ask if this
-is considered compliant with the DPA.
+In addition, you mentioned that since this transaction is done electronically, and the customer will just click the agree/disagree portion provided for in the online transaction, you ask if this is considered compliant with the DPA.
 
 ### Discussion
 
@@ -58,13 +50,9 @@ Having stated that, there is also a need to determine and clarify the distinctio
 privacy policy and securing the consent of the data subject for the processing of his or her
 personal information.
 
-Being a mere notice, it is emphasized that the privacy policy or notice is not equivalent to
-consent. This document is an embodiment of the observance of the data privacy principle of
-transparency and upholding the right to information of data subjects.
+Being a mere notice, it is emphasized that the privacy policy or notice is not equivalent to consent. This document is an embodiment of the observance of the data privacy principle of transparency and upholding the right to information of data subjects.
 
-The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|principle of transparency]] adhered to by the DPA dictates that the data subject must be
-aware of the nature, purpose, and extent of the processing of his or her personal data,
-including the risks and safeguards involved, the identity of personal information controller, his or her rights as a data subject, and how these can be exercised.[^3] Any information and communication relating to the processing of personal data should be easy to access and understand, using clear and plain language.[^4]
+The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|principle of transparency]] adhered to by the DPA dictates that the data subject must be aware of the nature, purpose, and extent of the processing of his or her personal data, including the risks and safeguards involved, the identity of personal information controller, his or her rights as a data subject, and how these can be exercised.[^3] Any information and communication relating to the processing of personal data should be easy to access and understand, using clear and plain language.[^4]
 
 Thus, in line with the right to information of the data subject, personal information controllers
 (PICs) are required to apprise the data subject of the following:
@@ -82,9 +70,7 @@ Thus, in line with the right to information of the data subject, personal inform
 On the other hand, obtaining consent from the data subject for the purposes of processing his
 or her personal data is a different requirement altogether.
 
-Consent of the data subject refers to any freely given, specific, informed indication of will,
-whereby the data subject agrees to the collection and processing of his or her personal,
-sensitive personal, or privileged information.
+Consent of the data subject refers to any freely given, specific, informed indication of will, whereby the data subject agrees to the collection and processing of his or her personal, sensitive personal, or privileged information.
 
 When the processing of personal information is based on consent, the PIC must obtain the consent in relation to the declared purpose for processing. The consent must likewise be evidenced by written, electronic or recorded means.[^5]
 

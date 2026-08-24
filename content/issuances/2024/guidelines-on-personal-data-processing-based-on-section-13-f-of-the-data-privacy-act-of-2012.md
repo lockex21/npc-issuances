@@ -17,7 +17,7 @@ date: '2024-08-12'
 
 ## Issuance Text
 
-**Advisory No. 2024-02**
+**NPC Advisory No. 2024 - 02**
 
 **DATE:** 12 August 2024
 
@@ -82,7 +82,7 @@ D. Legal claims that are established, exercised, or defended may refer to legal 
 
 **SECTION 7.** ***Determination of merit of lawful rights and interests and legal claims; admissibility of evidence.*** The Commission only determines whether the processing of personal data is necessary in relation to the lawful rights and interests sought to be protected or the legal claims that are sought to be established, exercised, or defended. The Commission does not rule on the admissibility of evidence, its materiality, relevance, or probative value to a particular case outside its jurisdiction,[^11] or the propriety of the legal strategy employed by parties in legal proceedings.[^12] The establishment, exercise, or defense of a legal claim under Section 13 (f) of the DPA as a lawful basis for processing personal data is independent of the existence of a cause of action.[^13]
 
-**SECTION 8. *Interpretation.*** — Any doubt in the interpretation of any provision of this Advisory shall be liberally interpreted in a manner mindful of the rights and interests of the data subjects.
+**SECTION 8.** ***Interpretation.*** — Any doubt in the interpretation of any provision of this Advisory shall be liberally interpreted in a manner mindful of the rights and interests of the data subjects.
 
 Approved:
 

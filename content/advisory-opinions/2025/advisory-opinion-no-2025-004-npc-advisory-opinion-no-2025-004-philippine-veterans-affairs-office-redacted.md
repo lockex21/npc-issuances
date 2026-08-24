@@ -93,10 +93,7 @@ In the case of *Ople vs. Torres*,[^9] the Supreme Court emphasized:
 
 As can be gleaned therefrom, the mere fact that personal data is shared with a government agency does not, by itself, ensure its security absent any express guarantee that adequate safeguards are in place for data protection. [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|NPC Circular 2023-06]] (Security of Personal Data in the Government and the Private Sector) outlines the minimum standards and requirements for the security of personal data. A PIC or a personal information processor (PIP) may implement more detailed or stricter policies and procedures that reflect industry-specific operating requirements. As such, the PIC or PIP is in the best position to determine the reasonable and appropriate organizational, physical, and technical security measures to implement, considering that it has the most knowledge of its own operations and IT infrastructure.
 
-Please be advised that this Advisory Opinion was rendered based solely on the information
-you have provided. Any extraneous fact that may be subsequently furnished us may affect
-our present position. Please note further that our Advisory Opinion is not intended to
-adjudicate the rights and obligations of the parties involved.
+Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 

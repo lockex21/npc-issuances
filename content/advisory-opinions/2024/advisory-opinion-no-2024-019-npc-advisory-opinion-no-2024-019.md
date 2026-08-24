@@ -27,48 +27,24 @@ Re: INSPECTION OF CORPORATE RECORDS BY THE U.S. SECURITIES AND EXCHANGE COMMISSI
 
 Dear [Redacted], et. al:
 
-We respond to your request for an Advisory Opinion on whether the records processed by
-your client,                             (Company), are exempted from the application of
-the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (DPA)]],[^2] and whether the DPA would pose any impediment to
-the United States Securities and Exchange Commission (U.S. SEC) ability to examine and
+We respond to your request for an Advisory Opinion on whether the records processed by your client,                             (Company), are exempted from the application of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (DPA)]],[^2] and whether the DPA would pose any impediment to the United States Securities and Exchange Commission (U.S. SEC) ability to examine and
 access the Company’s records.
 
-You also seek clarification on whether the National Privacy Commission (NPC) can issue a
-letter of assurance to the U.S. SEC stating that: 1) NPC shall allow the U.S. SEC direct access
-to its records in accordance with the exemption stated in [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]]; and 2) the DPA
-shall not operate as a restriction in preventing the U.S. SEC from exercising its authority to
-review and examine relevant records kept and processed by the Company.
+You also seek clarification on whether the National Privacy Commission (NPC) can issue a letter of assurance to the U.S. SEC stating that: 1) NPC shall allow the U.S. SEC direct access to its records in accordance with the exemption stated in [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]]; and 2) the DPA shall not operate as a restriction in preventing the U.S. SEC from exercising its authority to review and examine relevant records kept and processed by the Company.
 
-As background, you state that the Company is a business process outsourcing corporation
-duly organized under Philippine laws providing services to offshore clients. The Company is
-registered with both the Philippine Economic Zone Authority (PEZA) and the Board of
+As background, you state that the Company is a business process outsourcing corporation duly organized under Philippine laws providing services to offshore clients. The Company is registered with both the Philippine Economic Zone Authority (PEZA) and the Board of
 Investments (BOI) as an export enterprise.
 
-The Company’s affiliate company,                                  , entered into a contract with
-the Bank of                              for the purpose of providing business processing
-services. The services involves mutual fund transactions for the clients of the Bank, including
-performance of procedures relating to subscription, redemptions, switching, know-your-
-client (KYC) procedures, processing of account opening forms, risk disclosures, and
-distribution of dividends, among others. The Bank’s target mutual fund clients are United
+The Company’s affiliate company,                                  , entered into a contract with the Bank of                              for the purpose of providing business processing services. The services involves mutual fund transactions for the clients of the Bank, including performance of procedures relating to subscription, redemptions, switching, know-your-client (KYC) procedures, processing of account opening forms, risk disclosures, and distribution of dividends, among others. The Bank’s target mutual fund clients are United
 States citizens and residents, but all data processing services will be performed by the
 Company in the Philippines.
 
-In the performance of the services above, the Bank will collect the data and the same will be
-passed to the Company for processing. The data are personal and sensitive personal
-information, specifically: names, birthdates, home addresses, social security numbers,
-national ID information, and account/banking information.
+In the performance of the services above, the Bank will collect the data and the same will be passed to the Company for processing. The data are personal and sensitive personal information, specifically: names, birthdates, home addresses, social security numbers, national ID information, and account/banking information.
 
 To process the Bank customers’ data under its contract, the Bank is required under United
-States laws to deal only with registered transfer agents. Thus, the Company filed an
-application to obtain a transfer agent registration from the U.S. SEC. Briefly, a transfer agent
-registration allows an entity to record changes of ownership, maintain the issuer’s security
-holder records, cancel and issue certificates, and distribute dividends.
+States laws to deal only with registered transfer agents. Thus, the Company filed an application to obtain a transfer agent registration from the U.S. SEC. Briefly, a transfer agent registration allows an entity to record changes of ownership, maintain the issuer’s security holder records, cancel and issue certificates, and distribute dividends.
 
-The Company’s transfer agent application is currently pending before the U.S. SEC, and the
-latter requested the former to produce a written assurance issued by its local authorities to the
-effect that the Company, as a matter of law, can provide the U.S. SEC with prompt direct
-access to its books and records (which includes personal data of its clients and employees)
-and to submit to onsite inspection and examination by the U.S. SEC once registered.
+The Company’s transfer agent application is currently pending before the U.S. SEC, and the latter requested the former to produce a written assurance issued by its local authorities to the effect that the Company, as a matter of law, can provide the U.S. SEC with prompt direct access to its books and records (which includes personal data of its clients and employees) and to submit to onsite inspection and examination by the U.S. SEC once registered.
 
 From the foregoing, this Advisory Opinion seeks to address issues:
 
@@ -121,16 +97,10 @@ Similarly, the IRR provides a parallel provision in [[laws/implementing-rules-an
          to the minimum extent necessary to achieve the specific purpose, function, or
          activity.
 
-The DPA and its IRR provide an exemption from the coverage of the DPA for personal data
-processed in the Philippines when the following conditions are met: 1) the personal
-information is collected from residents of foreign jurisdictions; 2) the collection complies with
-the data privacy laws of those foreign jurisdictions; and 3) the personal information is being
+The DPA and its IRR provide an exemption from the coverage of the DPA for personal data processed in the Philippines when the following conditions are met: 1) the personal information is collected from residents of foreign jurisdictions; 2) the collection complies with the data privacy laws of those foreign jurisdictions; and 3) the personal information is being
 processed within the Philippines.
 
-In this case, you mentioned that the Company will process personal data that: 1) is obtained
-by its client, the Bank, from residents of a foreign jurisdiction (specifically, the United States
-of America); 2) such data has been collected in compliance with the data privacy laws of that
-jurisdiction; and 3) such data is transferred to the Company in the Philippines strictly for
+In this case, you mentioned that the Company will process personal data that: 1) is obtained by its client, the Bank, from residents of a foreign jurisdiction (specifically, the United States of America); 2) such data has been collected in compliance with the data privacy laws of that jurisdiction; and 3) such data is transferred to the Company in the Philippines strictly for
 processing purposes.
 
 While the Company’s current situation qualifies for an exemption under the DPA, it is
@@ -140,25 +110,11 @@ information processors (PIPs) are permitted to process personal data in special 
 however, such processing must be strictly limited to what is necessary to achieve the specific
 purpose, function, or activity.
 
-In other words, PICs and PIPs remain accountable for ensuring compliance with the DPA’s
-requirement on the implementation of robust organizational, physical, and technical security
-measures to protect personal data and to uphold the data privacy principles.
+In other words, PICs and PIPs remain accountable for ensuring compliance with the DPA’s requirement on the implementation of robust organizational, physical, and technical security measures to protect personal data and to uphold the data privacy principles.
 
-For example, a government agency with a statutory mandate may process personal data
-without the necessity of obtaining the data subject’s consent or presenting any other lawful
-criteria for processing.[^5] However, this processing must be strictly limited to what is essential
-to fulfill the agency’s mandate. The agency is required to collect only the data necessary to
-perform its functions, use it solely for the intended purpose, and disclose only the information
-required for co-regulation or public disclosure. Additionally, the agency must ensure that
-robust security measures are in place to protect the personal data it processes.
+For example, a government agency with a statutory mandate may process personal data without the necessity of obtaining the data subject’s consent or presenting any other lawful criteria for processing.[^5] However, this processing must be strictly limited to what is essential to fulfill the agency’s mandate. The agency is required to collect only the data necessary to perform its functions, use it solely for the intended purpose, and disclose only the information required for co-regulation or public disclosure. Additionally, the agency must ensure that robust security measures are in place to protect the personal data it processes.
 
-In the same vein, the U.S. SEC's review of relevant records in the Company’s custody qualifies
-as a special case of lawful processing under Section 4(g) of the DPA, in relation to Section 5 of the IRR. The processing conducted by the U.S. SEC serves the specific purpose of fulfilling
-regulatory requirements under the U.S. Securities and Exchange Act. Such processing
-complies with the requirement to be strictly limited to what is necessary to achieve the
-specified purpose. Further, as a government agency, the U.S. SEC is presumed to implement
-adequate safeguards to protect the personal data in its custody, thereby fulfilling the
-requirement to establish robust security measures for data protection.
+In the same vein, the U.S. SEC's review of relevant records in the Company’s custody qualifies as a special case of lawful processing under Section 4(g) of the DPA, in relation to Section 5 of the IRR. The processing conducted by the U.S. SEC serves the specific purpose of fulfilling regulatory requirements under the U.S. Securities and Exchange Act. Such processing complies with the requirement to be strictly limited to what is necessary to achieve the specified purpose. Further, as a government agency, the U.S. SEC is presumed to implement adequate safeguards to protect the personal data in its custody, thereby fulfilling the requirement to establish robust security measures for data protection.
 
 At the same time, the personal data processed in the Philippines by the Company, acting as a
 PIP, remains protected under the DPA. The U.S. SEC may be granted direct access to the
@@ -168,41 +124,23 @@ proportionality, and accountability.
 
 #### Principle of Comity and Reciprocity; Request for Letter of Assurance; Lawful Processing
 
-While Philippine corporations are primarily governed by local laws, their participation in
-international markets often necessitates compliance with additional regulatory requirements
-imposed by foreign entities, such as the U.S. SEC. These requirements are generally upheld in
-the Philippines under the principle of comity, where such additional regulatory requirements
-imposed by foreign entities are often complied with, provided they do not conflict with
-Philippine laws. Comity, in this context, is neither an absolute obligation nor a mere act of
-goodwill. Rather, it represents the mutual respect one nation extends to the laws and actions
-of another, balancing international duty, practical considerations, and the protection of its
+While Philippine corporations are primarily governed by local laws, their participation in international markets often necessitates compliance with additional regulatory requirements imposed by foreign entities, such as the U.S. SEC. These requirements are generally upheld in the Philippines under the principle of comity, where such additional regulatory requirements imposed by foreign entities are often complied with, provided they do not conflict with
+Philippine laws. Comity, in this context, is neither an absolute obligation nor a mere act of goodwill. Rather, it represents the mutual respect one nation extends to the laws and actions of another, balancing international duty, practical considerations, and the protection of its
 own citizens’ rights.[^7]
 
-Similarly, the principle of reciprocity also finds application in the present concern. Reciprocity
-refers to the mutual exchange of rights or obligations between nations, fostering cooperation
-and ensuring equitable treatment. It is a cornerstone of international relations, particularly in
-areas such as trade, finance, and regulatory compliance, where mutual respect for legal
+Similarly, the principle of reciprocity also finds application in the present concern. Reciprocity refers to the mutual exchange of rights or obligations between nations, fostering cooperation and ensuring equitable treatment. It is a cornerstone of international relations, particularly in areas such as trade, finance, and regulatory compliance, where mutual respect for legal
 frameworks is crucial.[^8]
 
-The Philippines adheres to both the principles of comity and reciprocity and is committed to
-fostering international cooperation and conformity to global standards, all while ensuring
-compliance with its own legal requirements including those related to privacy and data
+The Philippines adheres to both the principles of comity and reciprocity and is committed to fostering international cooperation and conformity to global standards, all while ensuring compliance with its own legal requirements including those related to privacy and data
 protection.
 
 In this context, the letter of assurance requested by the U.S. SEC from the NPC may not be
 appropriate given that the issuance of the same goes beyond the NPC’s function. Instead, this
-Advisory Opinion serves the same purpose as it clarifies that the DPA should not be
-interpreted as a hindrance to the U.S. SEC’s regulatory functions, particularly in the
-examination of books and records containing personal data processed by the Company.
+Advisory Opinion serves the same purpose as it clarifies that the DPA should not be interpreted as a hindrance to the U.S. SEC’s regulatory functions, particularly in the examination of books and records containing personal data processed by the Company.
 
-In sum, the NPC will recognize the U.S. SEC’s inspection of the Company’s records as
-constituting lawful processing under the DPA, provided that the data privacy principles of
-transparency, legitimate purpose, proportionality, and accountability are upheld.
+In sum, the NPC will recognize the U.S. SEC’s inspection of the Company’s records as constituting lawful processing under the DPA, provided that the data privacy principles of transparency, legitimate purpose, proportionality, and accountability are upheld.
 
-Please be advised that this Advisory Opinion was rendered based solely on the information
-you have provided. Any extraneous fact that may be subsequently furnished us may affect
-our present position. Please note further that our Advisory Opinion is not intended to
-adjudicate the rights and obligations of the parties involved.
+Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 

@@ -46,16 +46,10 @@ Note, however, that [[laws/data-privacy-act-of-2012#section-4-scope|Section 4]] 
 >
 > *Provided*, that the non-applicability of the Act or these Rules do not extend to personal information controllers or personal information processors, who remain subject to the requirements of implementing security measures for personal data protection: Provided further, that the processing of the information provided in the preceding paragraphs shall be exempted from the requirements of the Act only to the minimum extent necessary to achieve the specific purpose, function, or activity.[^4]
 
-From the foregoing, the DPA does not apply to certain categories of personal information,
-including those that are necessary to carry out the functions of public authority, in accordance
-with a constitutionally or statutorily mandated function pertaining to law enforcement or
-regulatory function. This exemption, however, is only to the minimum extent of collection,
-access, use, disclosure, or other processing necessary to the purpose, function, or activity
+From the foregoing, the DPA does not apply to certain categories of personal information, including those that are necessary to carry out the functions of public authority, in accordance with a constitutionally or statutorily mandated function pertaining to law enforcement or regulatory function. This exemption, however, is only to the minimum extent of collection, access, use, disclosure, or other processing necessary to the purpose, function, or activity
 concerned.
 
-Likewise, the exemption is not absolute because the personal information controller (PIC) or
-personal information processor (PIP) remains to be subject to the requirements of the DPA,
-including implementing security measures to protect personal data and upholding the rights
+Likewise, the exemption is not absolute because the personal information controller (PIC) or personal information processor (PIP) remains to be subject to the requirements of the DPA, including implementing security measures to protect personal data and upholding the rights
 of the data subjects.
 
 Being an exception to the rule, it must be established that the information claimed to be
@@ -73,16 +67,9 @@ Thus, it is fundamentally an investigative agency rather than a law enforcement 
 
 *Lawful processing of sensitive personal information; statutory mandate; PSA Office Memorandum; issuance of certified certificates*
 
-Note that under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], consent is not the only basis for processing sensitive
-personal information. Processing may be based several other criteria, such a processing
-required by law, those necessary to protect the life and health of the data subject, to achieve
-the lawful and noncommercial objectives of public organizations, for medical treatment, or
-for the protection of lawful rights and interests in court proceedings, or establishment,
-exercise or defense of legal claims.
+Note that under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]], consent is not the only basis for processing sensitive personal information. Processing may be based several other criteria, such a processing required by law, those necessary to protect the life and health of the data subject, to achieve the lawful and noncommercial objectives of public organizations, for medical treatment, or for the protection of lawful rights and interests in court proceedings, or establishment, exercise or defense of legal claims.
 
-The NBI’s processing in the given scenario may be based on Section 13(b) of the DPA, which
-states that processing of sensitive personal information is permitted when the processing of
-the same is provided for by existing laws and regulations.
+The NBI’s processing in the given scenario may be based on Section 13(b) of the DPA, which states that processing of sensitive personal information is permitted when the processing of the same is provided for by existing laws and regulations.
 
 In relation to the release of certain civil registry documents, the PSA issued Office
 Memorandum No. 2017-050 dated 17 April 2017 on the Release of Certificate of Death,

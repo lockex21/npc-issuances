@@ -28,14 +28,9 @@ draft: false
 
 Dear [Redacted],
 
-We write in response to your letter received by the National Privacy Commission (NPC)
-which sought clarification on whether a private complainant’s request to be given copies of
-certain documents or case files, i.e., Answer to the Formal Charge, Decision, and Fallo, of an
-administrative case decided by the Philippine Postal Corporation (PHLPost) may be granted.
+We write in response to your letter received by the National Privacy Commission (NPC) which sought clarification on whether a private complainant’s request to be given copies of certain documents or case files, i.e., Answer to the Formal Charge, Decision, and Fallo, of an administrative case decided by the Philippine Postal Corporation (PHLPost) may be granted.
 
-We understand that the PHLPost is of the opinion that based on prevailing jurisprudence,
-there is no private interest involved in an administrative case, and that the private
-complainant is only a mere witness. Further, the PHLPost follows its Revised Disciplinary
+We understand that the PHLPost is of the opinion that based on prevailing jurisprudence, there is no private interest involved in an administrative case, and that the private complainant is only a mere witness. Further, the PHLPost follows its Revised Disciplinary
 Rules and Procedures on administrative cases, and suppletorily the 2017 Rules on
 Administrative Cases in the Civil Service (2017 RACCS), and that nothing in these rules
 provide for the right of private complainant to be given copies of the requested documents.
@@ -53,21 +48,13 @@ Thus, access to or disclosure of the above should have a lawful basis under the 
 We note the jurisprudence cited in your letter request and agree in principle that no private
 interest is involved in an administrative case.
 
-Nevertheless, as we have very limited information as to the nature of the administrative case
-involved in this particular inquiry, we may have to briefly discuss and make a distinction on
-the classification of the administrative offense in this scenario.
+Nevertheless, as we have very limited information as to the nature of the administrative case involved in this particular inquiry, we may have to briefly discuss and make a distinction on the classification of the administrative offense in this scenario.
 
-We understand that based on the 2017 RACCS, there are grave, less grave, and light offenses,
-depending on their gravity or depravity and effects on the government service.[^5] In relation to
-such classification, the 2017 RACCS provides for the possibility of a settlement in
-administrative cases in Section 59, Rule 11, to wit:
+We understand that based on the 2017 RACCS, there are grave, less grave, and light offenses, depending on their gravity or depravity and effects on the government service.[^5] In relation to such classification, the 2017 RACCS provides for the possibility of a settlement in administrative cases in Section 59, Rule 11, to wit:
 
 > Section 59. Applicability. In cases of light offenses where the act is purely personal on the part of the private complainant and the person complained of and there is no apparent injury committed to the government, settlement of offenses may be considered. Provided that settlement can no longer be applied for the second offense of the same act committed by the person complained of.[^6]
 
-The succeeding section of the above Rule 11 then proceeded to provide for the guidelines in
-the settlement of purely personal matters in administrative cases. This includes the execution
-of a Compromise Agreement between the parties if the settlement succeeds, the decision
-issued by the disciplining authority based on the Compromise Agreement, among others.[^7]
+The succeeding section of the above Rule 11 then proceeded to provide for the guidelines in the settlement of purely personal matters in administrative cases. This includes the execution of a Compromise Agreement between the parties if the settlement succeeds, the decision issued by the disciplining authority based on the Compromise Agreement, among others.[^7]
 
 With the above settlement in administrative cases for light offenses, it appears that the private
 complainant is not merely a witness, but a party vested with the right to settlement and enter
@@ -81,30 +68,17 @@ Where the above is not squarely applicable, we refer to the Rules Implementing t
 Conduct and Ethical Standards for Public Officials and Employees[^8] (Rules) which may shed
 some light regarding access to case files or similar documents of such nature.
 
-The Rules provide that every department, office, or agency shall provide official information,
-records or documents to any requesting public except if such information, record or document
-comprises drafts or decisions, orders, rulings, policy, decisions, memoranda, etc.[^9] The
-exception also applies if the request would disclose information of a personal nature where
-disclosure would constitute a clearly unwarranted invasion of personal privacy.[^10]
+The Rules provide that every department, office, or agency shall provide official information, records or documents to any requesting public except if such information, record or document comprises drafts or decisions, orders, rulings, policy, decisions, memoranda, etc.[^9] The exception also applies if the request would disclose information of a personal nature where disclosure would constitute a clearly unwarranted invasion of personal privacy.[^10]
 
-The DPA is meant to be read and interpreted with other applicable laws which allow for the
-lawful processing of personal data. Under the current circumstances, there is a need to further
-evaluate the nature of the administrative case decided by the PHLPost and determine if there
-is categorically no appropriate lawful basis under the DPA or any other applicable law to
-allow the disclosure of the case files to the private complainant.
+The DPA is meant to be read and interpreted with other applicable laws which allow for the lawful processing of personal data. Under the current circumstances, there is a need to further evaluate the nature of the administrative case decided by the PHLPost and determine if there is categorically no appropriate lawful basis under the DPA or any other applicable law to allow the disclosure of the case files to the private complainant.
 
-We further note that any doubt in the interpretation of any provision of the DPA shall be
-liberally interpreted in a manner mindful of the rights and individual interests of the
-individual whose personal data is processed.
+We further note that any doubt in the interpretation of any provision of the DPA shall be liberally interpreted in a manner mindful of the rights and individual interests of the individual whose personal data is processed.
 
 Finally, PHLPost is not precluded from seeking guidance from the CSC and its data protection
 officer since the said agency may have further insight on these types of requests for
 documents.
 
-This opinion is based solely on the limited information you have provided. We are not privy
-to the provisions of PHLPost’s Revised Disciplinary Rules and Procedures on administrative
-cases. Additional information may change the context of the inquiry and the appreciation of
-facts. This opinion does not adjudicate issues between parties nor impose any sanctions or
+This opinion is based solely on the limited information you have provided. We are not privy to the provisions of PHLPost’s Revised Disciplinary Rules and Procedures on administrative cases. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or
 award damages.
 
 For your reference.

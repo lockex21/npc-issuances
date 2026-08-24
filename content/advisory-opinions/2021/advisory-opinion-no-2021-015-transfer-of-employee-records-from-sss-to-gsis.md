@@ -40,9 +40,7 @@ provisions of the Data Privacy Act of 2012[^2] (DPA).
 
 From your letters dated 12 April 2021 and 14 April 2021 together with the Civil Service
 Commission (CSC) Resolution No. 19006283 provided, we understand that the Anti-Red Tape
-Authority (ARTA) is currently handling a complaint lodged by Duty Free Philippines Corporation
-(DFPC) employees against DFPC. One of the issues involved in the complaint is the transfer of the
-employees’ premiums or contributions from SSS to GSIS.
+Authority (ARTA) is currently handling a complaint lodged by Duty Free Philippines Corporation (DFPC) employees against DFPC. One of the issues involved in the complaint is the transfer of the employees’ premiums or contributions from SSS to GSIS.
 
 We further understand that the facts and events which led to the filing of the complaint, critical to
 this inquiry, are as follows:
@@ -80,15 +78,9 @@ this inquiry, are as follows:
        •     It was only in 2016 that DFPC started remitting the premiums or contributions of the employees
              to the GSIS.
 
-In relation to the foregoing, a complaint was filed by the DFPC employees with ARTA. We
-understand that the role of ARTA is to help resolve DFPC employees’ issues and concerns, which
-include the transfer of their premiums or contributions from SSS to GSIS. The employees covered
-are those employed with DFPC from 31 December 1999 to 31 December 2015, whether such
-employees have retired, resigned, still employed or have been separated from DFPC.
+In relation to the foregoing, a complaint was filed by the DFPC employees with ARTA. We understand that the role of ARTA is to help resolve DFPC employees’ issues and concerns, which include the transfer of their premiums or contributions from SSS to GSIS. The employees covered are those employed with DFPC from 31 December 1999 to 31 December 2015, whether such employees have retired, resigned, still employed or have been separated from DFPC.
 
-In an online meeting held last 16 March 2021, the parties agreed for DFPC to coordinate with SSS
-to submit to ARTA a list of all covered employees together with relevant details. ARTA posits that
-the list would require disclosure of personal information which may have some data privacy
+In an online meeting held last 16 March 2021, the parties agreed for DFPC to coordinate with SSS to submit to ARTA a list of all covered employees together with relevant details. ARTA posits that the list would require disclosure of personal information which may have some data privacy
 implications.
 
 You now seek guidance on the following queries:
@@ -102,20 +94,12 @@ You now seek guidance on the following queries:
 
 #### Processing of personal information in compliance with a legal obligation
 
-Under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the Data Privacy Act of 2012]], processing of personal information is allowed
-when it is necessary for compliance with a legal obligation to which the personal information
-controller is subject, while [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b)]] allows the processing of sensitive personal information
-when the same is provided for by existing laws and regulations.
+Under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the Data Privacy Act of 2012]], processing of personal information is allowed when it is necessary for compliance with a legal obligation to which the personal information controller is subject, while [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b)]] allows the processing of sensitive personal information when the same is provided for by existing laws and regulations.
 
 As stated in both Commonwealth Act No. 186[^5] and R.A. No. 8291, otherwise known as the GSIS
-Act of 1997[^6] (collectively, GSIS Laws), the Government Service Insurance System covers all
-government employees, subject to some exceptions. According to these GSIS laws, membership is
-compulsory for employees while in government service. In addition, these laws mandate covered
-employers and employees to pay premiums or contributions.
+Act of 1997[^6] (collectively, GSIS Laws), the Government Service Insurance System covers all government employees, subject to some exceptions. According to these GSIS laws, membership is compulsory for employees while in government service. In addition, these laws mandate covered employers and employees to pay premiums or contributions.
 
-Through the Resolution of DOLE dated 18 January 1998 and the subsequent Supreme Court
-pronouncement in the Mojica case, the status of DFPC employees as government employees was
-affirmed. This was latter echoed by the CSC in its Resolution. It is then evident that DFPC and
+Through the Resolution of DOLE dated 18 January 1998 and the subsequent Supreme Court pronouncement in the Mojica case, the status of DFPC employees as government employees was affirmed. This was latter echoed by the CSC in its Resolution. It is then evident that DFPC and
 DFPC employees are indeed subject to the provisions of the GSIS Laws, including the payment of
 premiums or contributions.
 
@@ -125,16 +109,9 @@ provided by law, GSIS.
 
 #### Consent of employees, unnecessary; access of the SSS records by ARTA
 
-Since the disclosure of DFPC employees’ personal data is grounded upon law, consent from the
-employees is no longer necessary for the transfer of their SSS records to the GSIS. Under the DPA,
-consent of the data subject is only required when the same is the basis for the processing. It is
-worth noting that consent is only one of the lawful criteria for processing both personal
-information and sensitive personal information.
+Since the disclosure of DFPC employees’ personal data is grounded upon law, consent from the employees is no longer necessary for the transfer of their SSS records to the GSIS. Under the DPA, consent of the data subject is only required when the same is the basis for the processing. It is worth noting that consent is only one of the lawful criteria for processing both personal information and sensitive personal information.
 
-On the matter of ARTA obtaining the list of DFPC employees and their records, while it may be
-permitted by virtue of ARTA’s mandate to facilitate and handle the issues and concerns subject of
-the complaint before it, the principle of proportionality requires that processing of personal
-information be adequate, relevant, suitable, necessary and not excessive in relation to the purpose
+On the matter of ARTA obtaining the list of DFPC employees and their records, while it may be permitted by virtue of ARTA’s mandate to facilitate and handle the issues and concerns subject of the complaint before it, the principle of proportionality requires that processing of personal information be adequate, relevant, suitable, necessary and not excessive in relation to the purpose
 of the processing.[^7]
 
 Therefore, it would be advisable for ARTA to facilitate the direct transfer of the employee records
@@ -142,9 +119,7 @@ from SSS to GSIS without having to obtain the actual list or records of the empl
 Limiting the number of parties having access to the records containing personal data minimizes
 any possible risks of data privacy violations.
 
-This opinion is based solely on the limited information you have provided. Additional information
-may change the context of the inquiry and the appreciation of facts. This opinion does not
-adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

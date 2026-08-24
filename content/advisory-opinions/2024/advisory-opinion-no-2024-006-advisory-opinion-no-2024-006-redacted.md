@@ -55,15 +55,9 @@ We recognize, though, that there may be conflict of interest situations that may
               vacancy notice for the position of DPO or the service contract is sufficiently
               precise and detailed in order to avoid a conflict of interest.
 
-Additionally, please note that registering a DPO is solely for the purpose of appointing an
-official contact for the NPC. Internally, an organization may appoint or designate more than
-one DPO or establish a data privacy structure that is best suitable for its needs. is neither
-restricted nor prohibited from appointing more than one DPO under the [[laws/data-privacy-act-of-2012|DPA]].
+Additionally, please note that registering a DPO is solely for the purpose of appointing an official contact for the NPC. Internally, an organization may appoint or designate more than one DPO or establish a data privacy structure that is best suitable for its needs. is neither restricted nor prohibited from appointing more than one DPO under the [[laws/data-privacy-act-of-2012|DPA]].
 
-Please be advised that the foregoing was rendered based solely on the information you
-provided. Any extraneous fact that may be subsequently furnished us may affect our present
-position. Please note further that our Advisory Opinion is not intended to adjudicate the
-rights and obligations of the parties involved.
+Please be advised that the foregoing was rendered based solely on the information you provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 Please be guided accordingly.
 

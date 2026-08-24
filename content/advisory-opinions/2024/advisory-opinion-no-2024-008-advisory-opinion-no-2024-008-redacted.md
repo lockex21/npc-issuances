@@ -44,11 +44,7 @@ of the following documents:
     6) Certificate from National Agencies issued for this purpose; and
     7) Other related documents submitted to the Commission on Audit.
 
-Recognizing that some of the documents contain personal and sensitive personal information
-(collectively, “personal data”), you seek guidance from the National Privacy Commission
-(NPC) on the following concerns: (1) Whether the request may be granted even if the afore-
-mentioned documents contain personal and sensitive personal information; and (2) The
-manner and parameters in which the processing may be conducted, if allowed.
+Recognizing that some of the documents contain personal and sensitive personal information (collectively, “personal data”), you seek guidance from the National Privacy Commission (NPC) on the following concerns: (1) Whether the request may be granted even if the afore-mentioned documents contain personal and sensitive personal information; and (2) The manner and parameters in which the processing may be conducted, if allowed.
 
 ### Discussion
 
@@ -87,15 +83,10 @@ Furthermore, [[issuances/2017/access-to-personal-data-sheets-of-government-perso
 
 Relative to requests for disclosure of public documents emanating from government agencies, Executive Order No. 2[^4] recognizes the right of the people to have access to information, official records, and to documents and papers pertaining to official acts, transactions, or
 
-decisions, which are in the possession or under the custody of the government and relating to
-matters of public concern. Nevertheless, EO No. 2 clarifies that it is not without limitation as
-it recognizes certain exceptions in its application as enshrined in the Constitution, existing
+decisions, which are in the possession or under the custody of the government and relating to matters of public concern. Nevertheless, EO No. 2 clarifies that it is not without limitation as it recognizes certain exceptions in its application as enshrined in the Constitution, existing
 laws, or jurisprudence.
 
-Based on the foregoing, the disclosure of documents to the requester relative to the purchase
-of real properties may be allowed pursuant to EO No. 2 since the information contained in
-these documents involve matters of public concern. Likewise, the personal data of public
-officers which are included in these documents can also be disclosed in light of [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 (a) of the DPA]].
+Based on the foregoing, the disclosure of documents to the requester relative to the purchase of real properties may be allowed pursuant to EO No. 2 since the information contained in these documents involve matters of public concern. Likewise, the personal data of public officers which are included in these documents can also be disclosed in light of [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 (a) of the DPA]].
 
 However, we note that while the requested documents may be disclosed, it must only be to the minimum extent of collection, access, use, disclosure or other processing necessary to the purpose, function, or activity concerned.[^5] Accordingly, there is a need to balance, on a case-to-case or per document basis, the right to information of the public and the right to data privacy of government personnel.
 
@@ -103,12 +94,8 @@ Thus, where the documents or forms contain personal data of the government offic
 
 Legitimate interest; general data privacy principles.
 
-As to the personal data of private individuals which may be part of the data requested, you
-may rely on [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]]. Such provision permits the processing of personal
-information when it is necessary for the purpose of the legitimate interests pursued by the
-PIC or by a third party or parties to whom the data is disclosed, except where such interests
-are overridden by fundamental rights and freedoms of the data subject which require
-protection under the Philippine Constitution.
+As to the personal data of private individuals which may be part of the data requested, you may rely on [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f) of the DPA]]. Such provision permits the processing of personal information when it is necessary for the purpose of the legitimate interests pursued by the
+PIC or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
 
 Section 3(a) of [[issuances/2023/guidelines-on-legitimate-interest|NPC Circular No. 2023-07]][^7] defines legitimate interest as any actual and real interest, benefit, or gain that a personal information controller (PIC) or third party may have in or may derive from the processing of personal information. However, processing based on a legitimate interest may only be relied upon when it involves processing of personal information and not when it involves sensitive personal information.
 
@@ -122,21 +109,13 @@ Please note that the determination of whether legitimate interest is established
           (2) The purpose of the specific processing activity must not be contrary to laws, morals, or public policy following the principle of legitimate purpose; and
           (3) The interest established must be declared to the data subject prior to the processing or at the next practical opportunity, following the principle of transparency and the right of the data subject to be informed.
 
-The processing must also comply with the general data privacy principles of transparency,
-legitimate purpose, and proportionality. Particularly applicable to your concern is the
-principle of proportionality which requires PICs to assess the proportionality of the
-information processed, and the ways and means of processing. This means that that PIC shall
-only grant access to such information that is adequate, relevant, suitable, necessary, and not
-excessive in relation to the declared and specified purpose.
+The processing must also comply with the general data privacy principles of transparency, legitimate purpose, and proportionality. Particularly applicable to your concern is the principle of proportionality which requires PICs to assess the proportionality of the information processed, and the ways and means of processing. This means that that PIC shall only grant access to such information that is adequate, relevant, suitable, necessary, and not excessive in relation to the declared and specified purpose.
 
 Since the public documents requested may contain personal data of private individuals, the
 PIC shall determine whether the data requested is proportional to the purpose of the
 requester.
 
-Please be advised that this Advisory Opinion was rendered based solely on the information
-you have provided. Any extraneous fact that may be subsequently furnished us may affect
-our present position. Please note further that our Advisory Opinion is not intended to
-adjudicate the rights and obligations of the parties involved.
+Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 

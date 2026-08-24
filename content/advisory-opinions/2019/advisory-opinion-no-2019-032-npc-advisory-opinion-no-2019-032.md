@@ -35,17 +35,9 @@ issues in your company’s business operations:
 •     What data protection measures that your organization may further take involving the storage of personal and sensitive personal information of patients; and
 •     What measures should be taken in complying with the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA) with respect to the sharing of the analysis and anonymized disease and medical treatment information.
 
-As stated in your letter, MedCheck E-Commerce, Inc. (MedCheck) is a healthcare clinical data
-company specializing in the collection and analysis of Real World Evidence (RWE), through a
-cloud-based EMR software, for non-communicable diseases. This is done through working with
-medical practitioners and researchers to digitally automate the collection of medical data which
-can be used to produce data registries and research findings to improve patient care.
+As stated in your letter, MedCheck E-Commerce, Inc. (MedCheck) is a healthcare clinical data company specializing in the collection and analysis of Real World Evidence (RWE), through a cloud-based EMR software, for non-communicable diseases. This is done through working with medical practitioners and researchers to digitally automate the collection of medical data which can be used to produce data registries and research findings to improve patient care.
 
-We understand from your letter that medical record information entered by physicians and their
-staff into the system are stored by MedCheck in a cloud-based system. Medical records include
-personal and sensitive personal information, such as medical information about the patient and
-the assessment made by the respective physician on disease diagnosis and recommended
-treatment/s. MedCheck then encrypts and anonymizes the same and subsequently stores patients’ personal information and unidentifiable medical statistics into two separate servers which are both encrypted at rest.
+We understand from your letter that medical record information entered by physicians and their staff into the system are stored by MedCheck in a cloud-based system. Medical records include personal and sensitive personal information, such as medical information about the patient and the assessment made by the respective physician on disease diagnosis and recommended treatment/s. MedCheck then encrypts and anonymizes the same and subsequently stores patients’ personal information and unidentifiable medical statistics into two separate servers which are both encrypted at rest.
 
 We likewise understand, as per your representation, that MedCheck’s business model is focused on aggregating the anonymized medical statistics, specifically anonymized disease and treatment data, from its physicians’ practices. Collection of such data is made with the consent of the physicians and is aimed at providing the medical community with medical statistics to improve healthcare practice, such as but not limited to, free access to medical statistics and the creation of databases and health registries.
 
@@ -71,9 +63,7 @@ It is also worth noting that the data subjects should also be informed on how th
 
 In the processing personal data, reasonable and appropriate organizational, physical and technical measures must be established by MedCheck to secure its storage.[^7] This is pursuant MedCheck’s obligation as a PIC to uphold the confidentiality of the personal data and the rights of the data subjects at all times.
 
-We understand that MedCheck continuously encourages its physicians and medical practitioners
-to register their practice with the National Privacy Commission (NPC) and comply with the DPA
-and MedCheck’s data protection policies.
+We understand that MedCheck continuously encourages its physicians and medical practitioners to register their practice with the National Privacy Commission (NPC) and comply with the DPA and MedCheck’s data protection policies.
 
 In addition, MedCheck should have technical security measures which may come in the form of policies, procedures, controls, technology and equipment to protect the organization’s systems processing personal data. Specifically, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the DPA provide that such measures shall include the following:
 
@@ -91,24 +81,14 @@ Accordingly, MedCheck should be transparent to the data subjects on how these ri
 
 #### Security measures in the sharing of anonymized medical data and statistics with third parties
 
-We understand that MedCheck is in the business of collection, analysis and sharing of
-anonymized medical data. For a more comprehensive discussion on the nature of anonymized
-data, we refer you to [[advisory-opinions/2017/advisory-opinion-no-2017-027-npc-advisoryopinionno-2017-027|NPC Advisory Opinion No. 2017-27]] dated 23 June 2017 on Anonymized
+We understand that MedCheck is in the business of collection, analysis and sharing of anonymized medical data. For a more comprehensive discussion on the nature of anonymized data, we refer you to [[advisory-opinions/2017/advisory-opinion-no-2017-027-npc-advisoryopinionno-2017-027|NPC Advisory Opinion No. 2017-27]] dated 23 June 2017 on Anonymized
 Data for Marketing Analytics. To reiterate, anonymized data does not fall within the ambit of the
 DPA.
 
-However, please duly note that the exclusion from the scope of the DPA shall only apply if all the
-requirements for the anonymization of data have been met. Otherwise, or if there are factors
-which may possibly identify the data subjects, the sharing of such data must strictly comply with
-the DPA considering that the processing involves not only personal but also sensitive personal
+However, please duly note that the exclusion from the scope of the DPA shall only apply if all the requirements for the anonymization of data have been met. Otherwise, or if there are factors which may possibly identify the data subjects, the sharing of such data must strictly comply with the DPA considering that the processing involves not only personal but also sensitive personal
 information.
 
-It is also worth noting that MedCheck receives personal data prior to its anonymization. Hence,
-such data is subject to the provisions of the DPA. We wish to reiterate that in the processing of
-medical treatment information where the same is not anonymized, the consent, if this is the basis
-for processing, should be given by the patients themselves and not the physicians. In all cases,
-patients as data subjects have the right to be informed and notified about the processing of his or
-her personal data pursuant to [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]].
+It is also worth noting that MedCheck receives personal data prior to its anonymization. Hence, such data is subject to the provisions of the DPA. We wish to reiterate that in the processing of medical treatment information where the same is not anonymized, the consent, if this is the basis for processing, should be given by the patients themselves and not the physicians. In all cases, patients as data subjects have the right to be informed and notified about the processing of his or her personal data pursuant to [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 of the DPA]].
 
 This opinion is based on the information you have provided. Additional information may change
 the context of the inquiry and the appreciation of the facts.

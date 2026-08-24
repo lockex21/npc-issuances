@@ -41,27 +41,16 @@ repeated attempts.
 
 ### Discussion
 
-We note from your letter that due to the influx of passport appointments due to the pandemic,
-the DFA permitted its technical service provider, APO Production Unit, Inc., to integrate a
-third-party service provider in the passport Online Appointment System (OAS). However,
-due to logistical issues and ineffectiveness of the former courier service, there are at least one
-thousand nine hundred sixty-four (1,964) backlogs in passport delivery.
+We note from your letter that due to the influx of passport appointments due to the pandemic, the DFA permitted its technical service provider, APO Production Unit, Inc., to integrate a third-party service provider in the passport Online Appointment System (OAS). However, due to logistical issues and ineffectiveness of the former courier service, there are at least one thousand nine hundred sixty-four (1,964) backlogs in passport delivery.
 
-As a solution, the DFA intends to publicly post on its website (https://consular.dfa.gov.ph)
-the names of Philippine passport applicants whose passports were unsuccessfully delivered
-despite repeated attempts. This is also in consideration of the fact that the DFA’s efforts in
-calling and emailing these applicants were equally ineffective. You now ask whether such
-disclosure is permissible under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
+As a solution, the DFA intends to publicly post on its website (https://consular.dfa.gov.ph) the names of Philippine passport applicants whose passports were unsuccessfully delivered despite repeated attempts. This is also in consideration of the fact that the DFA’s efforts in calling and emailing these applicants were equally ineffective. You now ask whether such disclosure is permissible under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 #### Lawful basis for processing personal information; Section 12; fulfillment of functions; contract
 
 The DPA applies to the processing of all types of personal information and to any natural and
 juridical person involved in personal information processing.[^3]
 
-Under the DPA, the names of the passport applicants are considered as personal information,[^4]
-thus, posting of the same on the website of the DFA-OCA constitutes processing[^5] which
-should comply with the provisions of the DPA, particularly [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] of the law providing
-for the criteria for lawful processing of personal information, to wit:
+Under the DPA, the names of the passport applicants are considered as personal information,[^4] thus, posting of the same on the website of the DFA-OCA constitutes processing[^5] which should comply with the provisions of the DPA, particularly [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] of the law providing for the criteria for lawful processing of personal information, to wit:
 
    SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of
             personal information shall be permitted only if not otherwise prohibited by law, and
@@ -129,28 +118,16 @@ While there may be lawful basis for processing under the DPA, the DFA must alway
 to the general data privacy principles of transparency, legitimate purpose, and
 proportionality.
 
-Particularly, the principle of proportionality requires that processing of personal information
-shall be adequate, relevant, suitable, necessary, and not excessive in relation to the declared
-and specified purpose.[^8] We note from your letter that the DFA intends to post the full names
-and the corresponding sites where the passports will be released to the applicants. The DFA
-must have an assessment and determination that such public posting of the full names of the
-applicants is the least privacy intrusive manner of processing in relation to the declared
-purpose, considering all attendant circumstances.
+Particularly, the principle of proportionality requires that processing of personal information shall be adequate, relevant, suitable, necessary, and not excessive in relation to the declared and specified purpose.[^8] We note from your letter that the DFA intends to post the full names and the corresponding sites where the passports will be released to the applicants. The DFA must have an assessment and determination that such public posting of the full names of the applicants is the least privacy intrusive manner of processing in relation to the declared purpose, considering all attendant circumstances.
 
 Likewise, the DFA must ensure that the data subjects are informed about the posting of their
 personal information on the website. This may be done through an appropriate privacy notice.
 
-A privacy notice is “a statement made to a data subject that describes how an organization
-collects, uses, retains and discloses personal information. A privacy notice may be referred to
-as a privacy statement, a fair processing statement or, sometimes, a privacy policy.[^9]
+A privacy notice is “a statement made to a data subject that describes how an organization collects, uses, retains and discloses personal information. A privacy notice may be referred to as a privacy statement, a fair processing statement or, sometimes, a privacy policy.[^9]
 
-If not already included, the DFA should include a privacy notice in its passport application
-form so that moving forward, its clients may be apprised of the possible posting of their names
-in case of unsuccessful deliveries of their passports.
+If not already included, the DFA should include a privacy notice in its passport application form so that moving forward, its clients may be apprised of the possible posting of their names in case of unsuccessful deliveries of their passports.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

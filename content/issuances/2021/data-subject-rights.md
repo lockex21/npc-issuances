@@ -20,23 +20,23 @@ title: "Data Subject Rights (Advisory No. 2021-01)"
 
 ## Issuance Text
 
-**Advisory No. 2021-01**
+**NPC Advisory No. 2021–01**
 
-**DATE:** 29 January 2021
+**DATE:** **29 January 2021**
 
-**SUBJECT:** Data Subject Rights
+**SUBJECT:** **DATA SUBJECT RIGHTS**
 
-WHEREAS, the right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution emphasizes that the State values the dignity of every human person and guarantees full respect for human rights;
+**WHEREAS,** the right to privacy, which includes information privacy, is constitutionally protected and accorded recognition independent of its identification with liberty, and at the same time, Article II, Section 11 of the Constitution emphasizes that the State values the dignity of every human person and guarantees full respect for human rights;
 
-WHEREAS, the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth;[^1]
+**WHEREAS,** the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth;[^1]
 
-WHEREAS, the [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|DPA provides]] that personal information must be collected for specified and legitimate purposes, processed fairly and lawfully, accurate, relevant and, where necessary, kept up to date, adequate and not excessive in relation to the purposes for processing, and retained only for as long as necessary;[^2]
+**WHEREAS,** the [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|DPA provides]] that personal information must be collected for specified and legitimate purposes, processed fairly and lawfully, accurate, relevant and, where necessary, kept up to date, adequate and not excessive in relation to the purposes for processing, and retained only for as long as necessary;[^2]
 
-WHEREAS, the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|provide for the rights of the data subjects]], instances where these may be duly exercised, and the obligations of personal information controllers and processors;[^3]
+**WHEREAS,** the DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|provide for the rights of the data subjects]], instances where these may be duly exercised, and the obligations of personal information controllers and processors;[^3]
 
-WHEREAS, the [[laws/data-privacy-act-of-2012#section-38-interpretation|DPA mandates]] that any doubt in the interpretation of any provision of the law shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed;[^4]
+**WHEREAS,** the [[laws/data-privacy-act-of-2012#section-38-interpretation|DPA mandates]] that any doubt in the interpretation of any provision of the law shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed;[^4]
 
-WHEREFORE, in consideration of the foregoing premises, the National Privacy Commission (NPC) hereby issues this Advisory on the Rights of Data Subjects relevant to the processing of their personal data.
+**WHEREFORE,** in consideration of the foregoing premises, the National Privacy Commission (NPC) hereby issues this Advisory on the Rights of Data Subjects relevant to the processing of their personal data.
 
 ### General Provisions
 
@@ -102,7 +102,7 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
              evidence on proper authorization, supporting documents to validate the
              membership of the data subject in the organization and the authority of the
              organization to file on behalf of the affected data subjects: provided, that all its
-             members are affected data subjects.^[5]
+             members are affected data subjects.[^5]
 
    C. Assistance of PIPs. PICs shall ensure, by contractual or other reasonable means, that the
         PIPs it has engaged to process personal data on its behalf shall cooperate and
@@ -166,12 +166,12 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
 
    B. The “next practical opportunity” depends upon the surrounding circumstance of the
        case. However, the timing of the provision of information must always be within a
-       reasonable period to give effect to the data subject’s right to be informed.^[6]
+       reasonable period to give effect to the data subject’s right to be informed.[^6]
 
    C. A privacy notice is an embodiment of the observance or demonstration of the data
        privacy principle of transparency and upholding the right to information of data
        subjects. It is a statement made to data subjects that describes how the organization
-       collects, uses, retains, and discloses personal information.^[7]
+       collects, uses, retains, and discloses personal information.[^7]
 
    Information provided to a data subject must always be in clear and plain language to
          ensure that they are easy to understand and access.
@@ -183,7 +183,7 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
                concepts they represent. PICs should determine whether an average member of
                the target audience could have understood the information provided to them.
                Complex sentence structures and equivocal wordings that may be subject to
-               different interpretations should be avoided.^[8]
+               different interpretations should be avoided.[^8]
 
    2. Form. The [[laws/data-privacy-act-of-2012|DPA]] does not dictate the form and method of how PICs should inform
              its data subjects. Nonetheless, in crafting privacy notices, PICs should consider
@@ -192,15 +192,14 @@ WHEREFORE, in consideration of the foregoing premises, the National Privacy Comm
              which constitute a set of complementary privacy notices that are tailored to the
              respective audience and the contexts in which they are presented. The granularity
              of information provided in a specific notice layer must be appropriate for the
-             respective context.^[9]
+             respective context.[^9]
 
    D. A privacy notice is not equivalent to consent. While consent may not be required in
         certain instances when it is not relied on as basis for processing personal data, a
         privacy notice is required at all times in order for data subjects to be informed of the
         processing of their personal data and their rights as data subjects.
 
-SECTION 7. Right to Object. — The data subject shall have the right to object to the
-processing of his or her personal data where such processing is based on consent or legitimate interest.^[10]
+**SECTION 7.** ***Right to Object.*** The data subject shall have the right to object to the processing of his or her personal data where such processing is based on consent or legitimate interest.[^10]
 
    A. In case of any significant change or amendment to the information provided to the
         data subject in a consent form, privacy notice, or similar communication, the data
@@ -235,8 +234,7 @@ processing of his or her personal data where such processing is based on consent
       inform the data subject of said lawful basis or compelling reason to continue
       processing.
 
-SECTION 8. Right to Access. — The right of data subjects to access information on the
-processing of their personal data shall be subject to the following guidelines:
+**SECTION 8.** ***Right to Access.*** The right of data subjects to access information on the processing of their personal data shall be subject to the following guidelines:
 
    A. A data subject has the right to obtain confirmation on whether or not data relating to
       him or her are being processed, as well as information about any of the following:
@@ -296,7 +294,7 @@ processing of their personal data shall be subject to the following guidelines:
           requested information may cause serious harm to the physical, mental, or
           emotional health of the data subject.
 
-SECTION 9. Right to Rectification. — The data subject has the right to dispute the inaccuracy
+**SECTION 9.** ***Right to Rectification.*** The data subject has the right to dispute the inaccuracy
 or error in his or her personal data and have the PIC correct the same within a reasonable period of time.
 
    A. If the personal data has been corrected, the PIC shall:
@@ -324,7 +322,7 @@ or error in his or her personal data and have the PIC correct the same within a 
 
    delivery and performance of service.
 
-SECTION 10. Right to Erasure or Blocking. — A data subject has the right to request for the
+**SECTION 10.** ***Right to Erasure or Blocking.*** A data subject has the right to request for the
 suspension, withdrawal, blocking, removal, or destruction of his or her personal data from the PIC’s filing system, in both live and back-up systems.
 
    A. This right may be exercised upon discovery and substantial proof of any of the
@@ -389,7 +387,7 @@ suspension, withdrawal, blocking, removal, or destruction of his or her personal
    E. Data subjects must be adequately informed of the consequences of the erasure of their
        personal data.
 
-**SECTION 11.** ***Right to Data Portability.*** — The data subject shall have the right to obtain from the PIC a copy of his or her personal data and/or have the same transmitted from one PIC to another, in an electronic or structured format that is commonly used and allows further use by the data subject.
+**SECTION 11.** ***Right to Data Portability.*** The data subject shall have the right to obtain from the PIC a copy of his or her personal data and/or have the same transmitted from one PIC to another, in an electronic or structured format that is commonly used and allows further use by the data subject.
 
    A. For the exercise of this right, the following conditions must concur:
 
@@ -398,7 +396,7 @@ suspension, withdrawal, blocking, removal, or destruction of his or her personal
             used format.
 
    B. Data portability shall be limited to the personal data concerning the data subject, and
-       which he or she has provided to the PIC:11
+       which he or she has provided to the PIC:[^11]
 
    1. Data actively and knowingly provided by the data subject, i.e. name, address, age,
             username, etc.; and
@@ -412,18 +410,12 @@ suspension, withdrawal, blocking, removal, or destruction of his or her personal
 
    When ported data includes the data of other individuals, i.e. names and contact details
          within the contact directory of the requesting party, receiving PICs are prohibited from
-         further processing such data for its own purpose, i.e. marketing, etc.^[12]
+         further processing such data for its own purpose, i.e. marketing, etc.[^12]
 
    D. PICs shall consider using commonly used, machine-readable, interoperable, open
        formats, i.e. XML, JSON, CSV, etc. for data portability requests.
 
-11 See: European Commission, Article 29 Data Protection Working Party, Guidelines on the right to data portability,
-
-Adopted on 13 December 2016 As last Revised and adopted on 5 April 2017, available at
-[https://webcache.googleusercontent.com/search?q=cache:N9BoIYGlK6UJ:https://ec.europa.eu/newsroom/document.cfm%3](https://webcache.googleusercontent.com/search?q=cache:N9BoIYGlK6UJ:https://ec.europa.eu/newsroom/document.cfm%3)
-Fdoc_id%3D44099+&cd=1&hl=en&ct=clnk&gl=ph (last accessed: 6 October 2020). 12 Id.
-
-**SECTION 12.** ***Right to Damages.*** — The data subjects have the right to be indemnified for any damages sustained due to inaccurate, incomplete, outdated, false, unlawfully obtained, or unauthorized use of their personal data, taking into account any violation of his or her rights and freedoms as data subject.
+**SECTION 12.** ***Right to Damages.*** The data subjects have the right to be indemnified for any damages sustained due to inaccurate, incomplete, outdated, false, unlawfully obtained, or unauthorized use of their personal data, taking into account any violation of his or her rights and freedoms as data subject.
 
    A. When there is a perceived violation of his or her rights, the data subject may file a
       complaint with the NPC, in accordance with its [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|Rules of Procedure]] governing all
@@ -436,8 +428,7 @@ Fdoc_id%3D44099+&cd=1&hl=en&ct=clnk&gl=ph (last accessed: 6 October 2020). 12 Id
 
 ### Limitation on Rights
 
-SECTION 13. Limitations. — The exercise of the rights of data subjects shall be reasonable.
-The same may be limited when necessary for public interest, protection of other fundamental rights, or when the processing of personal data is for the following purposes:
+**SECTION 13.** ***Limitations.*** The exercise of the rights of data subjects shall be reasonable. The same may be limited when necessary for public interest, protection of other fundamental rights, or when the processing of personal data is for the following purposes:
 
    A. Scientific and statistical research: provided, that:
 
@@ -468,22 +459,22 @@ The same may be limited when necessary for public interest, protection of other 
       where the PIC has a legitimate purpose justifying such limitation. In all cases,
       limitations shall be proportional to the purpose of such limitation.
 
-SECTION 14. Denial of request. — Where a PIC denies or limits the exercise of data subject
+**SECTION 14.** ***Denial of request.*** Where a PIC denies or limits the exercise of data subject rights, the PIC should ensure that the data subject is clearly and fully informed of the reason for the limitation or denial.
 
-rights, the PIC should ensure that the data subject is clearly and fully informed of the reason for the limitation or denial.
+**SECTION 15.** ***Reasonableness of the denial or limitation.*** The determination of the reasonableness of the limitation on or the denial of the exercise of data subject rights shall be made by the NPC upon the filing of a complaint by the data subject pursuant to the NPC’s [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|Rules of Procedure]].
 
-SECTION 15. Reasonableness of the denial or limitation. — The determination of the
-reasonableness of the limitation on or the denial of the exercise of data subject rights shall be made by the NPC upon the filing of a complaint by the data subject pursuant to the NPC’s
-[[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|Rules of Procedure]].
-
-SECTION 16. Interpretation. — Any doubt in the reasonableness of denying or limiting the
-exercise of data subject rights shall be liberally interpreted in a manner that would uphold the rights and interests of the data subject.
+**SECTION 16.** ***Interpretation.*** Any doubt in the reasonableness of denying or limiting the exercise of data subject rights shall be liberally interpreted in a manner that would uphold the rights and interests of the data subject.
 
 Approved:
 
-SGD. RAYMUND ENRIQUEZ LIBORO Privacy Commissioner
+**SGD. RAYMUND E. LIBORO**
+Privacy Commissioner
 
-SGD.                                                    SGD. LEANDRO ANGELO Y. AGUIRRE                    JOHN HENRY D. NAGA Deputy Privacy Commissioner                 Deputy Privacy Commissioner
+**SGD. LEANDRO ANGELO Y. AGUIRRE**
+Deputy Privacy Commissioner
+
+**SGD. JOHN HENRY D. NAGA**
+Deputy Privacy Commissioner
 
 ## ANNEX A
 
@@ -670,6 +661,8 @@ DATE RECEIVED:
 
 * PICs shall only require information that is necessary to the request and to confirm the identity of the requesting individual or his/her authorized representative, taking into consideration the principle of proportionality.
 
+## Footnotes
+
 [^1]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012), [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|§ 2]].
 
 [^2]: [[laws/data-privacy-act-of-2012#section-11-general-data-privacy-principles|Data Privacy Act of 2012, § 11]].
@@ -678,17 +671,25 @@ DATE RECEIVED:
 
 [^4]: [[laws/data-privacy-act-of-2012#section-38-interpretation|Data Privacy Act of 2012, § 38]]; Rules and Regulations Implementing the Data Privacy Act of 2012, Republic Act No. 10173, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|§ 34]]-36.
 
-[^5]: See: [[decisions/2020/07-23-2020-eca-vs-xxx|ECA v. XXX, NPC Case No. 18-103]] (2020).
+[^5]: See MNLCI v. Pieceland Corporation, et al., NPC Case No. 190258 (2020), where a religious organization filed a case on behalf of all of its members whose rights were violated.
 
-[^6]: See [[decisions/2020/npc-19-498-jva-vs-u-peso-ph-lending-corporation-upeso|JVA v. U-PESO.PH LENDING CORPORATION (UPESO), NPC Case No. 19-498]] (2020).
+[^6]: See: [[decisions/2020/07-23-2020-eca-vs-xxx|ECA v. XXX, NPC Case No. 18-103]] (2020).
 
-[^7]: Florian Schaub, Rebecca Balebako, Adam L. Durity, and Lorrie Faith Cranor, A design space for effective privacy notices, In Proceedings of the Symposium on Usable Privacy and Security (SOUPS'15), available at https://www.usenix.org/system/files/conference/soups2015/soups15-paper-schaub.pdf (2015) (last accessed 15 Jan 2021).
+[^7]: See: National Privacy Commission, NPC Advisory Opinion 2018-013 (2018).
 
-[^8]: When processing is based on consent, the right to object is inherent since consent, by its nature and definition, may be withdrawn. As to processing based on legitimate interest, the right to object applies when the rights and freedoms of the data subject overrides such legitimate interest of the PIC or of a third party. For instance, a data subject can invoke his or her right to object where personal data are processed in circumstances where he or she does not reasonably expect further processing or when the processing is causing substantial damage or distress to the data subject.
+[^8]: See [[decisions/2020/npc-19-498-jva-vs-u-peso-ph-lending-corporation-upeso|JVA v. U-PESO.PH LENDING CORPORATION (UPESO), NPC Case No. 19-498]] (2020).
 
-[^9]: See: European Commission, Article 29 Data Protection Working Party, Guidelines on the right to data portability, Adopted on 13 December 2016 As last Revised and adopted on 5 April 2017, available at https://webcache.googleusercontent.com/search?q=cache:N9BoIYGlK6UJ:https://ec.europa.eu/newsroom/document.cfm%3Fdoc_id%3D44099+&cd=1&hl=en&ct=clnk&gl=ph (last accessed: 6 October 2020).
+[^9]: Florian Schaub, Rebecca Balebako, Adam L. Durity, and Lorrie Faith Cranor, *A design space for effective privacy notices*, in Proceedings of the Symposium on Usable Privacy and Security (SOUPS’15), available at https://www.usenix.org/system/files/conference/soups2015/soups15-paper-schaub.pdf (2015) (last accessed 15 Jan 2021).
 
-[^10]: Id.
+[^10]: When processing is based on consent, the right to object is inherent since consent, by its nature and definition, may be withdrawn. As to processing based on legitimate interest, the right to object applies when the rights and freedoms of the data subject overrides such legitimate interest of the PIC or of a third party. For instance, a data subject can invoke his or her right to object where personal data are processed in circumstances where he or she does not reasonably expect further processing or when the processing is causing substantial damage or distress to the data subject.
+
+[^11]: See: European Commission, Article 29 Data Protection Working Party, Guidelines on the right to data portability, adopted on 13 December 2016 and last revised and adopted on 5 April 2017, available at https://webcache.googleusercontent.com/search?q=cache:N9BoIYGlK6UJ:https://ec.europa.eu/newsroom/document.cfm%3Fdoc_id%3D44099+&cd=1&hl=en&ct=clnk&gl=ph (last accessed: 6 October 2020).
+
+[^12]: Id.
 
 ## Source
-<!-- BEGIN GENERATED TEXT INFO --> - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2026/05/SGD-Advisory-DS-Rights-29-Jan-2021.pdf - OCR used during extraction: no <!-- END GENERATED TEXT INFO -->
+
+<!-- BEGIN GENERATED TEXT INFO -->
+- Official source PDF: https://privacy.gov.ph/wp-content/uploads/2026/05/SGD-Advisory-DS-Rights-29-Jan-2021.pdf
+- OCR used during extraction: no
+<!-- END GENERATED TEXT INFO -->

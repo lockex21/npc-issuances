@@ -30,39 +30,15 @@ Dear [Redacted],
 
 ### Discussion
 
-We write in response to your request for an advisory opinion regarding processing of health
-information by the Department of Health (DOH) related to its conduct of disease
-surveillance, epidemic investigation, contact tracing, survey research and disease registry,
-among others, at the national and regional level as part of its mandate aimed at providing
-accurate and complete health information for its policies, programs, and interventions.
+We write in response to your request for an advisory opinion regarding processing of health information by the Department of Health (DOH) related to its conduct of disease surveillance, epidemic investigation, contact tracing, survey research and disease registry, among others, at the national and regional level as part of its mandate aimed at providing accurate and complete health information for its policies, programs, and interventions.
 
-During a clarificatory meeting, we were informed about the difficulty that the DOH
-encounters when collecting health information from healthcare providers[^2] due to
-apprehensions on the implications of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^3] We understand
-that there are some healthcare providers claiming that the DOH is collecting excessive
-amounts of personal information. You have explained that collection of both personal
-information and sensitive information is necessary to minimize double counting of
-reportable health information, and allows for epidemic investigation and contact tracing
-when required by the circumstances. Monitoring of disease conditions, health outcomes
-and effects of intervention also require personal data.
+During a clarificatory meeting, we were informed about the difficulty that the DOH encounters when collecting health information from healthcare providers[^2] due to apprehensions on the implications of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^3] We understand that there are some healthcare providers claiming that the DOH is collecting excessive amounts of personal information. You have explained that collection of both personal information and sensitive information is necessary to minimize double counting of reportable health information, and allows for epidemic investigation and contact tracing when required by the circumstances. Monitoring of disease conditions, health outcomes and effects of intervention also require personal data.
 
-The DPA is not meant to prevent government institutions from processing personal data
-when necessary to fulfill their mandates. Rather, it aims to protect the right to information
-privacy while ensuring free flow of information. What the DPA does is to promote fair,
-secure, and lawful processing of such information. In this case, the DPA does not prohibit
-the DOH from collecting and processing personal data for purposes necessary to its
-mandate, with the concomitant responsibility of complying with the requirements of the
+The DPA is not meant to prevent government institutions from processing personal data when necessary to fulfill their mandates. Rather, it aims to protect the right to information privacy while ensuring free flow of information. What the DPA does is to promote fair, secure, and lawful processing of such information. In this case, the DPA does not prohibit the DOH from collecting and processing personal data for purposes necessary to its mandate, with the concomitant responsibility of complying with the requirements of the
 DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR), and other issuances of the National
 Privacy Commission (NPC).
 
-In the meeting between representatives of the DOH and the NPC, the constitutional and
-statutory mandate of the DOH were discussed in relation to its personal data processing
-activities. The Philippine Constitution mandates the protection and promotion of the right
-to health of the people and the adoption of an integrated and comprehensive approach to
-health development.[^4] This mandate is exercised by the DOH as the government agency
-primarily responsible for the formulation, planning, implementation, and coordination of
-the policies and programs in the field of health.[^5] With this, the DOH processes personal
-data in order to perform the following functions as mandated in the Revised Administrative
+In the meeting between representatives of the DOH and the NPC, the constitutional and statutory mandate of the DOH were discussed in relation to its personal data processing activities. The Philippine Constitution mandates the protection and promotion of the right to health of the people and the adoption of an integrated and comprehensive approach to health development.[^4] This mandate is exercised by the DOH as the government agency primarily responsible for the formulation, planning, implementation, and coordination of the policies and programs in the field of health.[^5] With this, the DOH processes personal data in order to perform the following functions as mandated in the Revised Administrative
 Code of 1987:
 
    1. Define the national health policy and formulate and implement a national health plan
@@ -89,20 +65,11 @@ Code of 1987:
          policies; and
      10. Perform such other functions as may be provided by law.[^6]
 
-In addition, the DOH, through its offices and staff support services, also has the mandate
-to conduct studies and research on various disease conditions, to fulfill health intelligence
-services, and to maintain effective and comprehensive health information systems.[^7]
+In addition, the DOH, through its offices and staff support services, also has the mandate to conduct studies and research on various disease conditions, to fulfill health intelligence services, and to maintain effective and comprehensive health information systems.[^7]
 
-The DPA should not be an obstacle to the collection and further processing of personal data
-by DOH as long as the same is necessary for the fulfillment of its mandate. In this case, the
-use of personal information and sensitive personal information for policy development,
-monitoring of health programs, and provision of better health care services is recognized
-as being necessary for DOH to perform its functions.
+The DPA should not be an obstacle to the collection and further processing of personal data by DOH as long as the same is necessary for the fulfillment of its mandate. In this case, the use of personal information and sensitive personal information for policy development, monitoring of health programs, and provision of better health care services is recognized as being necessary for DOH to perform its functions.
 
-The processing of personal data by DOH finds support in the DPA. The DOH is a public
-authority performing regulatory functions, and is permitted to process personal data to the
-extent necessary for the fulfillment of these functions.[^8] DOH also processes personal data
-for research purpose.[^9] Furthermore, DOH may also rely on the provisions of the DPA in
+The processing of personal data by DOH finds support in the DPA. The DOH is a public authority performing regulatory functions, and is permitted to process personal data to the extent necessary for the fulfillment of these functions.[^8] DOH also processes personal data for research purpose.[^9] Furthermore, DOH may also rely on the provisions of the DPA in
 [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] providing the criteria for lawful processing of personal information and
 sensitive personal information, respectively. For instance, Section 13 provides that the
 processing of sensitive personal information and privileged information shall be prohibited,
@@ -127,28 +94,14 @@ except in the following cases:
          establishment, exercise or defense of legal claims, or when provided to government or
          public authority.[^10]
 
-While the DOH may have lawful basis in processing personal and sensitive personal
-information, it must, however, comply with its obligations as a personal information
-controller under the DPA, its IRR and related issuances. In processing personal data, DOH
-should be mindful of the rights of data subjects and ensure that it adheres to the principles
-of transparency, legitimate purpose and proportionality.[^11] The basis of its processing
-should be documented and made known to healthcare providers subject to the DOH
-reporting requirements. For their part, these healthcare providers should, in turn, inform
-their data subjects of the fact of such processing by the DOH and the scope, nature, extent,
+While the DOH may have lawful basis in processing personal and sensitive personal information, it must, however, comply with its obligations as a personal information controller under the DPA, its IRR and related issuances. In processing personal data, DOH should be mindful of the rights of data subjects and ensure that it adheres to the principles of transparency, legitimate purpose and proportionality.[^11] The basis of its processing should be documented and made known to healthcare providers subject to the DOH reporting requirements. For their part, these healthcare providers should, in turn, inform their data subjects of the fact of such processing by the DOH and the scope, nature, extent,
 purpose, and basis for the same.
 
-These reporting requirements should be reviewed to ensure that personal data being
-processed is adequate and not excessive in relation to the purposes for which they are
-collected and processed.[^12] There should also be existing procedures for data subjects to
-exercise their rights, and appropriate organizational, physical and technical safeguards for
+These reporting requirements should be reviewed to ensure that personal data being processed is adequate and not excessive in relation to the purposes for which they are collected and processed.[^12] There should also be existing procedures for data subjects to exercise their rights, and appropriate organizational, physical and technical safeguards for
 data protection.
 
 The DOH should consider [[issuances/2017/guidelines-on-privacy-impact-assessments|NPC Advisory No. 2017-03]] on the Guidelines on Privacy Impact
-Assessments in order to systematically address the obligations previously mentioned. As a
-government agency, the DOH should also consider [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security
-of Personal Data in Government Agencies and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] regarding the
-execution of a data sharing agreement between the DOH and the different healthcare
-providers, as may be necessary in certain circumstances.
+Assessments in order to systematically address the obligations previously mentioned. As a government agency, the DOH should also consider [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security of Personal Data in Government Agencies and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] regarding the execution of a data sharing agreement between the DOH and the different healthcare providers, as may be necessary in certain circumstances.
 
 [^1]: Tags: Department of Health, health information, lawful processing, mandate
 [^2]: Department of Health (DOH)-Department of Science and Technology (DOST)-Philippine Health Insurance Corporation (PhilHealth) Joint Administrative Order (JAO) 2016-0002, Annex 2.0, Definition of Terms, health care provider – a health care institution devoted primarily to management, treatment and care of patients OR a health care professional, who is any doctor of medicine, nurse, midwife, dentist, or other health care practitioner.

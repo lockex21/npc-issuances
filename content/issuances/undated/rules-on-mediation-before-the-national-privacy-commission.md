@@ -16,425 +16,276 @@ date: '2018-08-27'
 
 ## Issuance Text
 
-**Circular No. 18-03**
+**NPC Circular 18-03**
 
-Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],” to facilitate
-or enable settlement of complaints through the use of alternative dispute resolution processes; and
-consistent with Republic Act No. 9285, otherwise known as the “Alternative Dispute Resolution
-Act of 2004,” declaring it the policy of the State to actively promote party autonomy in the
-resolution of disputes and the freedom of the parties to make their own arrangements to resolve
-their disputes, the following Rules on Mediation before the National Privacy Commission are
-hereby prescribed and promulgated.
+**DATE** : **18 December 2018**
 
-### Rule I. Preliminary Provisions
+**SUBJECT** : **RULES ON MEDIATION BEFORE THE NATIONAL PRIVACY COMMISSION**
 
-**SECTION 1.** ***Application and Interpretation.*** – In applying and construing the provisions of
-these Rules, consideration must be given to the need to promote candor among the
-parties, the confidentiality of the mediation process, and the independence of the
-determination and resolution of the parties of their dispute, all of which shall foster
-prompt, economical, and amicable resolution of disputes.
+&emsp;*Pursuant to the authority vested in the National Privacy Commission through [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7(b) of the DPA]], otherwise known as the “[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]],” to facilitate or enable settlement of complaints through the use of alternative dispute resolution processes; and consistent with Republic Act No. 9285, otherwise known as the “Alternative Dispute Resolution Act of 2004,” declaring it the policy of the State to actively promote party autonomy in the resolution of disputes and the freedom of the parties to make their own arrangements to resolve their disputes, the following Rules on Mediation before the National Privacy Commission are hereby prescribed and promulgated.*
 
-**SECTION 2.** ***Scope.*** – These Rules shall apply to all complaints filed before the Commission.
+### RULE I PRELIMINARY PROVISIONS
 
-**SECTION 3.** ***Definition of Terms.*** –
+**Section 1.** ***Application and Interpretation.*** – In applying and construing the provisions of these Rules, consideration must be given to the need to promote candor among the parties, the confidentiality of the mediation process, and the independence of the determination and resolution of the parties of their dispute, all of which shall foster prompt, economical, and amicable resolution of disputes.
 
-a. Commission – refers to the National Privacy Commission.
+**Section 2.** ***Scope.*** – These Rules shall apply to all complaints filed before the Commission.
 
-b. Complaint Proceedings – proceedings before the Complaints and Investigation
-Division commenced sua sponte or by the filing of a sworn affidavit or verified
-complaint, including investigations, except those arising from breach notifications.
+**Section 3.** ***Definition of Terms.*** –
 
-c. Discovery Conference – a meeting pursuant to an Order to Confer for Discovery
-issued by the investigating officer during complaint proceedings.
+&emsp;a. Commission – refers to the National Privacy Commission.
 
-d. Investigating Officer – refers to the personnel of the Complaints and Investigation
-Division assigned by the Commission to preside over complaint proceedings.
+&emsp;b. Complaint Proceedings – proceedings before the Complaints and Investigation Division commenced *sua sponte* or by the filing of a sworn affidavit or verified complaint, including investigations, except those arising from breach notifications.
 
-e. Mediation – refers to the voluntary process in which a mediation officer facilitates
-communication and negotiation, and assists the parties in reaching a voluntary
-agreement regarding a dispute.
+&emsp;c. Discovery Conference – a meeting pursuant to an Order to Confer for Discovery issued by the investigating officer during complaint proceedings.
 
-f. Mediation Officer – refers to the personnel of the Legal Division assigned or
-designated by the Commission to conduct mediation.
+&emsp;d. Investigating Officer – refers to the personnel of the Complaints and Investigation Division assigned by the Commission to preside over complaint proceedings.
 
-### Rule II. Procedure
+&emsp;e. Mediation – refers to the voluntary process in which a mediation officer facilitates communication and negotiation, and assists the parties in reaching a voluntary agreement regarding a dispute.
 
-**SECTION 1.** ***Willingness to Mediate.*** – The parties, by mutual agreement, may signify their
-interest to explore the possibility of settling the dispute by mediation during the
-discovery conference or at any stage of the complaint proceedings thereafter.
+&emsp;f. Mediation Officer – refers to the personnel of the Legal Division assigned or designated by the Commission to conduct mediation.
 
-**SECTION 2.** ***Application for Mediation.*** – The parties shall jointly file with the investigating
-officer an Application for Mediation manifesting their earnest commitment to engage in
-a meaningful settlement process and their willingness to abide by these Rules and the
-orders issued by the assigned mediation officer. No application for mediation shall be
-approved without payment of the mediation fee.
+### RULE II PROCEDURE
 
-**SECTION 3.** ***Order to Mediate.*** – The investigating officer shall issue an Order to Mediate,
-which shall state the following: (a) the approval of the Application for Mediation; (b) the
-suspension of the complaint proceedings for sixty (60) days pending the mediation
-proceedings; (c) the name of the assigned or designated mediation officer who shall
-preside over the mediation proceedings; and (d) the date, time, and place when the
-parties shall appear before the mediation officer for the preliminary mediation
-conference. Copies of the Order to Mediate shall be furnished to the mediation officer
-and the parties.
+**Section 1.** ***Willingness to Mediate.*** – The parties, by mutual agreement, may signify their interest to explore the possibility of settling the dispute by mediation during the discovery conference or at any stage of the complaint proceedings thereafter.
 
-**SECTION 4.** ***Preliminary Mediation Conference.*** – The mediation officer shall receive the
-appearances of the parties and inform them of the mediation process and the manner by
-which the proceedings will be conducted. The mediation officer shall stress the benefits
-of an early settlement of the dispute and endeavor to achieve the most fair and
-expeditious settlement possible.
+**Section 2.** ***Application for Mediation.*** – The parties shall jointly file with the investigating officer an Application for Mediation manifesting their earnest commitment to engage in a meaningful settlement process and their willingness to abide by these Rules and the orders issued by the assigned mediation officer. No application for mediation shall be approved without payment of the mediation fee.
 
-Each party shall be allowed to make a brief statement of their respective position and
-preferred outcome. The mediation officer shall explore common ground for settlement
-and suggest options for the parties to consider.
+**Section 3.** ***Order to Mediate.*** – The investigating officer shall issue an Order to Mediate, which shall state the following: (a) the approval of the Application for Mediation; (b) the suspension of the complaint proceedings for sixty (60) days pending the mediation proceedings; (c) the name of the assigned or designated mediation officer who shall preside over the mediation proceedings; and (d) the date, time, and place when the parties shall appear before the mediation officer for the preliminary mediation conference. Copies of the Order to Mediate shall be furnished to the mediation officer and the parties.
 
-When necessary, the parties shall agree on the schedule of the next mediation conference
-and the mediation officer shall issue an order therefor.
+**Section 4.** ***Preliminary Mediation Conference.*** – The mediation officer shall receive the appearances of the parties and inform them of the mediation process and the manner by which the proceedings will be conducted. The mediation officer shall stress the benefits of an early settlement of the dispute and endeavor to achieve the most fair and expeditious settlement possible.
 
-**SECTION 5.** ***Separate Caucuses and Subsequent Conferences.*** – The mediation officer may,
-with the consent of both parties, hold separate caucuses with each party to enable a
-determination of their respective real interest in the dispute; provided, that each party
-shall be afforded equal time and/or opportunity to ventilate such interest and
-motivation. The mediation officer may call such conferences/caucuses as may be
-necessary to facilitate settlement.
+Each party shall be allowed to make a brief statement of their respective position and preferred outcome. The mediation officer shall explore common ground for settlement and suggest options for the parties to consider.
 
-The mediation officer shall hold in confidence any matter disclosed during the separate
-caucuses and shall exercise reasonable prudence and discretion in the safeguarding of
-such information.
+When necessary, the parties shall agree on the schedule of the next mediation conference and the mediation officer shall issue an order therefor.
 
-**SECTION 6.** ***Mediation Period and Extension thereof.*** – The mediation officer shall
-endeavor to achieve a mediated settlement of the dispute within fifteen (15) days from
+**Section 5.** ***Separate Caucuses and Subsequent Conferences.*** – The mediation officer may, with the consent of both parties, hold separate caucuses with each party to enable a determination of their respective real interest in the dispute; *provided, that* each party shall be afforded equal time and/or opportunity to ventilate such interest and motivation. The mediation officer may call such conferences/caucuses as may be necessary to facilitate settlement.
 
-the preliminary mediation conference, but shall, in every case, be afforded the initial
-period of sixty (60) days to achieve the same.
+The mediation officer shall hold in confidence any matter disclosed during the separate caucuses and shall exercise reasonable prudence and discretion in the safeguarding of such information.
 
-Upon reasonable ground to believe that settlement may yet be achieved beyond the initial
-mediation period of sixty (60) days, the period to mediate may be extended for another
-thirty (30) days by the mediation officer. Should no agreement be reached within the
-extended period, another non-extendible period of thirty (30) days may be jointly
-requested by the parties subject to the discretion of the mediation officer.
+**Section 6.** ***Mediation Period and Extension thereof.*** – The mediation officer shall endeavor to achieve a mediated settlement of the dispute within fifteen (15) days from the preliminary mediation conference, but shall, in every case, be afforded the initial period of sixty (60) days to achieve the same.
 
-**SECTION 7.** ***Mediated Settlement Agreement.*** – A mediated settlement agreement following
-successful mediation shall be jointly prepared and executed by the parties, with the
-assistance of their respective counsel, if any. The execution of a mediated settlement
-agreement shall terminate the mediation proceedings.
+Upon reasonable ground to believe that settlement may yet be achieved beyond the initial mediation period of sixty (60) days, the period to mediate may be extended for another thirty (30) days by the mediation officer. Should no agreement be reached within the extended period, another non-extendible period of thirty (30) days may be jointly requested by the parties subject to the discretion of the mediation officer.
 
-The mediation officer shall certify that the contents of the agreement have been explained,
-understood, and mutually agreed upon by the parties, and that the provisions thereof are
-not contrary to law, public policy, morals, or good customs.
+**Section 7.** ***Mediated Settlement Agreement.*** – A mediated settlement agreement following successful mediation shall be jointly prepared and executed by the parties, with the assistance of their respective counsel, if any. The execution of a mediated settlement agreement shall terminate the mediation proceedings.
 
-**SECTION 8.** ***Confirmation by the Commission.*** – The mediation officer shall issue a
-resolution submitting the mediated settlement agreement to the Commission within five
-(5) days from the signing and filing thereof. Copies of the resolution shall be furnished to
-the parties and the investigating officer. The Commission shall thereafter issue a
-resolution confirming the mediated settlement agreement within fifteen (15) days from
-submission of the resolution and mediated settlement agreement.
+The mediation officer shall certify that the contents of the agreement have been explained, understood, and mutually agreed upon by the parties, and that the provisions thereof are not contrary to law, public policy, morals, or good customs.
 
-**SECTION 9.** ***Effect of Confirmed Mediated Settlement Agreement.*** – A confirmed mediated
-settlement agreement shall have the effect of a decision or judgment on the complaint,
-and shall be enforced in accordance with the Commission’s rules and issuances.
+**Section 8.** ***Confirmation by the Commission.*** – The mediation officer shall issue a resolution submitting the mediated settlement agreement to the Commission within five (5) days from the signing and filing thereof. Copies of the resolution shall be furnished to the parties and the investigating officer. The Commission shall thereafter issue a resolution confirming the mediated settlement agreement within fifteen (15) days from submission of the resolution and mediated settlement agreement.
 
-**SECTION 10.** ***Failure to Reach Settlement.*** – If the parties are unable to arrive at a settlement
-of their dispute, or it becomes apparent that a settlement, given the disparity of the
-respective positions of the parties, is not likely or achievable within the sixty (60) day
-mediation period or the reasonable extension of such period under Section 7, the
-mediation officer may declare the mediation unsuccessful and terminate the proceedings
-by issuing a Notice of Non-Settlement of Dispute and furnishing the investigating officer
-and the parties with copies thereof.
+**Section 9.** ***Effect of Confirmed Mediated Settlement Agreement.*** – A confirmed mediated settlement agreement shall have the effect of a decision or judgment on the complaint, and shall be enforced in accordance with the Commission’s rules and issuances.
 
-**SECTION 11.** ***Resumption of Complaint Proceedings.*** – Upon receipt of the Notice of Non-
-Settlement of Dispute issued by the mediation officer, the investigating officer shall issue
-an order lifting the suspension of the complaint proceedings, which shall resume as a
-matter of course. Copies of the order, including the notice of the next hearing date of the
-complaint proceedings, shall be furnished to all the parties.
+**Section 10.** ***Failure to Reach Settlement.*** – If the parties are unable to arrive at a settlement of their dispute, or it becomes apparent that a settlement, given the disparity of the respective positions of the parties, is not likely or achievable within the sixty (60) day mediation period or the reasonable extension of such period under Section 7, the mediation officer may declare the mediation unsuccessful and terminate the proceedings by issuing a Notice of Non-Settlement of Dispute and furnishing the investigating officer and the parties with copies thereof.
 
-**SECTION 12.** ***Field Mediation.*** – The personnel of the Legal Division shall be authorized to
-conduct mediation proceedings between parties during the conduct of regional discovery
-conferences by the Complaints and Investigation Division.
+**Section 11.** ***Resumption of Complaint Proceedings.*** – Upon receipt of the Notice of Non-Settlement of Dispute issued by the mediation officer, the investigating officer shall issue an order lifting the suspension of the complaint proceedings, which shall resume as a matter of course. Copies of the order, including the notice of the next hearing date of the complaint proceedings, shall be furnished to all the parties.
 
-### Rule III. General Provisions
+**Section 12.** ***Field Mediation.*** – The personnel of the Legal Division shall be authorized to conduct mediation proceedings between parties during the conduct of regional discovery conferences by the Complaints and Investigation Division.
 
-**SECTION 1.** ***Personal Appearance by the Parties.*** – Individual parties are required to
-personally appear during mediation conferences. Representatives may appear on behalf
-of individual parties; provided, that they are authorized by special power of attorney to
-appear, offer, negotiate, accept, decide, and enter into a mediated settlement agreement
-without additional consent or authority from the principal. If the party is a partnership,
-association, corporation, or a government agency, the representative must be authorized
-by a notarized Secretary’s Certificate, Board Resolution, or any equivalent written
-authority to offer, negotiate, accept, decide, and enter into a mediated settlement
-agreement.
+### RULE III GENERAL PROVISIONS
 
-**SECTION 2.** ***Effect of Failure of Parties to Appear.*** – If any of the parties fail to appear
-without prior notice and justifiable reason for two (2) consecutive mediation
-conferences/caucuses at any stage of the mediation, the mediation officer may order the
-termination of the mediation proceedings. The mediation officer may also require the
-non-appearing party to explain why said party should not be required to pay treble the
-costs incurred by the appearing party, including attorneys fees, in attending the
-mediation conferences/caucuses, and be henceforth permanently prohibited from
-requesting mediation at any other stage of the complaint proceedings before the
-Commission.
+**Section 1.** ***Personal Appearance by the Parties.*** – Individual parties are required to personally appear during mediation conferences. Representatives may appear on behalf of individual parties; *provided, that* they are authorized by special power of attorney to appear, offer, negotiate, accept, decide, and enter into a mediated settlement agreement without additional consent or authority from the principal. If the party is a partnership, association, corporation, or a government agency, the representative must be authorized by a notarized Secretary’s Certificate, Board Resolution, or any equivalent written authority to offer, negotiate, accept, decide, and enter into a mediated settlement agreement.
 
-**SECTION 3.** ***Presence of Lawyers in Mediation.*** – Lawyers, upon the discretion of the
-mediation officer, may attend the mediation conferences in the role of adviser and
-consultant to their clients and shall cooperate with the mediation officer towards securing
-a settlement of the dispute. They shall help their clients comprehend the mediation
-process and its benefits and assist in the preparation of a mediated settlement agreement
-and its eventual enforcement.
+**Section 2.** ***Effect of Failure of Parties to Appear.*** – If any of the parties fail to appear without prior notice and justifiable reason for two (2) consecutive mediation conferences/caucuses at any stage of the mediation, the mediation officer may order the termination of the mediation proceedings. The mediation officer may also require the non-appearing party to explain why said party should not be required to pay treble the costs incurred by the appearing party, including attorneys fees, in attending the mediation conferences/caucuses, and be henceforth permanently prohibited from requesting mediation at any other stage of the complaint proceedings before the Commission.
 
-**SECTION 4.** ***Venue.*** – Mediation proceedings shall be conducted within the Commission
-premises. Upon request of both parties, the mediation officer may authorize the conduct
-of a mediation conference at any other venue, provided that all related expenses,
-including transportation, food, and accommodation, shall be borne by both parties. If a
-change of venue is requested by one party, it must be with the other’s conformity and
-they shall agree on the terms of handling the expenses.
+**Section 3.** ***Presence of Lawyers in Mediation.*** – Lawyers, upon the discretion of the mediation officer, may attend the mediation conferences in the role of adviser and consultant to their clients and shall cooperate with the mediation officer towards securing a settlement of the dispute. They shall help their clients comprehend the mediation process and its benefits and assist in the preparation of a mediated settlement agreement and its eventual enforcement.
 
-**SECTION 5.** ***Confidentiality.*** – The mediation conferences shall be held in private. Persons
-other than the parties, their representatives, counsel, and the mediation officer may
-attend only with the consent of the parties and upon approval by the mediation officer.
-Anyone present during a mediation conference shall not disclose any information
-obtained in the course thereof to any other person, nor utter the same through other
-means.
+**Section 4.** ***Venue.*** – Mediation proceedings shall be conducted within the Commission premises. Upon request of both parties, the mediation officer may authorize the conduct of a mediation conference at any other venue, provided that all related expenses, including transportation, food, and accommodation, shall be borne by both parties. If a change of venue is requested by one party, it must be with the other’s conformity and they shall agree on the terms of handling the expenses.
 
-The mediation proceedings and all incidents thereto shall be kept strictly confidential,
-and all admissions or statements therein shall be inadmissible for any purpose in any
-proceeding, unless otherwise specifically provided by law. However, evidence or
+**Section 5.** ***Confidentiality.*** – The mediation conferences shall be held in private. Persons other than the parties, their representatives, counsel, and the mediation officer may attend only with the consent of the parties and upon approval by the mediation officer. Anyone present during a mediation conference shall not disclose any information obtained in the course thereof to any other person, nor utter the same through other means.
 
-information that is otherwise admissible or subject to discovery does not become
-inadmissible or protected from discovery solely by reason of its use in mediation.
+The mediation proceedings and all incidents thereto shall be kept strictly confidential, and all admissions or statements therein shall be inadmissible for any purpose in any proceeding, unless otherwise specifically provided by law. However, evidence or information that is otherwise admissible or subject to discovery does not become inadmissible or protected from discovery solely by reason of its use in mediation.
 
-No transcript or minutes of the mediation proceedings shall be taken, and the personal
-notes of the mediation officer, if any, shall likewise be inadmissible nor cognizable in any
-court, tribunal, or body for whatever purpose and shall be securely destroyed upon
-termination of the mediation proceedings.
+No transcript or minutes of the mediation proceedings shall be taken, and the personal notes of the mediation officer, if any, shall likewise be inadmissible nor cognizable in any court, tribunal, or body for whatever purpose and shall be securely destroyed upon termination of the mediation proceedings.
 
-**SECTION 6.** ***Mediation Fees.*** – The mediation fee in an amount prescribed by the
-Commission shall be paid by the parties upon the filing of the Application for Mediation.
+**Section 6.** ***Mediation Fees.*** – The mediation fee in an amount prescribed by the Commission shall be paid by the parties upon the filing of the Application for Mediation.
 
-Complainants may be exempted from the payment of the mediation fee and enter into
-mediation proceedings as indigents upon submission of a certificate of indigency issued
-by the barangay captain at their place of residence.
+Complainants may be exempted from the payment of the mediation fee and enter into mediation proceedings as indigents upon submission of a certificate of indigency issued by the *barangay* captain at their place of residence.
 
-### Rule IV. Miscellaneous Provisions
+### RULE IV MISCELLANEOUS PROVISIONS
 
-**SECTION 1.** ***Amendments.*** – These Rules or any portion thereof may be amended or
-supplemented by the Commission.
+**Section 1.** ***Amendments.*** – These Rules or any portion thereof may be amended or supplemented by the Commission.
 
-**SECTION 2.** ***Separability Clause.*** – If any part, article, or provision of these Rules are
-declared invalid or unconstitutional, the other parts not affected shall remain valid.
+**Section 2.** ***Separability Clause.*** – If any part, article, or provision of these Rules are declared invalid or unconstitutional, the other parts not affected shall remain valid.
 
-**SECTION 3.** ***Transitory Provision.*** – These Rules shall apply to pending complaints,
-provided the parties express their interest to settle the dispute by mediation.
+**Section 3.** ***Transitory Provision.*** – These Rules shall apply to pending complaints, provided the parties express their interest to settle the dispute by mediation.
 
-**SECTION 4.** ***Effectivity.*** – These Rules shall take effect fifteen (15) days after publication in
-a newspaper of general circulation.
+**Section 4.** ***Effectivity.*** – These Rules shall take effect fifteen (15) days after publication in a newspaper of general circulation.
 
 Approved:
 
-Sgd.
-RAYMUND E. LIBORO
-Privacy Commissioner
+**Sgd.**<br>
+**RAYMUND E. LIBORO**<br>
+**Privacy Commissioner**
 
-Sgd. Sgd.
-IVY D. PATDU LEANDRO ANGELO Y. AGUIRRE
-Deputy Privacy Commissioner Deputy Privacy Commissioner
+| **Sgd.** | **Sgd.** |
+| --- | --- |
+| **IVY D. PATDU** | **LEANDRO ANGELO Y. AGUIRRE** |
+| **Deputy Privacy Commissioner** | **Deputy Privacy Commissioner** |
 
-## ANNEX “A”
+Date: 18 December 2018
 
-Complainant/s CID Case No.
+### ANNEX “A”
 
- - versus -
+*Complainant/s CID Case No.*
+
+*versus*
 
 __________________________________________
-Respondent/s
-APPLICATION FOR MEDIATION
+*Respondent/s*
+#### APPLICATION FOR MEDIATION
 
-The undersigned parties wish to settle matters in dispute between them without
-resorting to the adversarial process. The parties and their counsel, if any, manifest their
-earnest commitment to engage in a meaningful settlement process pursuant to the
-following undertaking:
-1. The parties agree that they are entering into the mediation process in good faith
-and shall make a sincere effort to arrive at a mutually acceptable resolution of the
-dispute.
-2. The parties agree they will rely solely on their own judgment in arriving at a
-resolution of their dispute.
-3. The parties understand that the complaint proceedings before the investigating
-officer shall be suspended during the pendency of the mediation proceedings
-before the mediation officer.
-4. The parties agree to abide by the Rules on Mediation Before the National Privacy
-Commission, a copy of which has been furnished the parties, and the orders issued
-by the assigned mediation officer.
+The undersigned parties wish to settle matters in dispute between them without resorting to the adversarial process. The parties and their counsel, if any, manifest their earnest commitment to engage in a meaningful settlement process pursuant to the following undertaking:
+
+&emsp;1. The parties agree that they are entering into the mediation process in good faith and shall make a sincere effort to arrive at a mutually acceptable resolution of the dispute.
+
+&emsp;2. The parties agree they will rely solely on their own judgment in arriving at a resolution of their dispute.
+
+&emsp;3. The parties understand that the complaint proceedings before the investigating officer shall be suspended during the pendency of the mediation proceedings before the mediation officer.
+
+&emsp;4. The parties agree to abide by the Rules on Mediation Before the National Privacy Commission, a copy of which has been furnished the parties, and the orders issued by the assigned mediation officer.
 
 The parties have signed and submitted this Application for Mediation on
 _____________________.
 
-Complainant/s Respondent/s
+*Complainant/s Respondent/s*
 
 ____________________________________ ____________________________________
-Signature over printed name Signature over printed name
+*Signature over printed name Signature over printed name*
 
 ____________________________________ ____________________________________
-Signature over printed name Signature over printed name
+*Signature over printed name Signature over printed name*
 
 ____________________________________ ____________________________________
-Signature over printed name Signature over printed name
+*Signature over printed name Signature over printed name*
 
-The parties have paid the mediation fee in the amount of ₱__________________ as
-evidenced by Official Receipt No. ____________ dated __________________, which is
-attached hereto.
+The parties have paid the mediation fee in the amount of ₱__________________ as evidenced by Official Receipt No. ____________ dated __________________, which is attached hereto.
 
 ____________________________________
-Investigating Officer
+*Signature over printed name*
+*Investigating Officer*
 
-## ANNEX “B”
+### ANNEX “B”
 
-Complainant/s CID Case No.
+*Complainant/s CID Case No.*
 
- - versus -
+*versus*
 
 __________________________________________
-Respondent/s
-ORDER TO MEDIATE
+*Respondent/s*
+#### ORDER TO MEDIATE
 
-Finding that the parties have paid the mediation fee as evidenced by Official
-Receipt No. ____________ dated ___________________, the undersigned investigating
-officer approves the Application for Mediation filed on ________________.
+Finding that the parties have paid the mediation fee as evidenced by Official Receipt No. ____________ dated ___________________, the undersigned investigating officer approves the Application for Mediation filed on ________________.
 
-The complaint proceedings are suspended for sixty (60) days starting today for the
-conduct of the mediation proceedings.
+The complaint proceedings are suspended for sixty (60) days starting today for the conduct of the mediation proceedings.
 
-The parties are ordered to appear at the preliminary mediation conference before
-Atty./Mr./Ms. ______________________________, the mediation officer who shall
-preside over the mediation proceedings, on (date) __________________________ at (time)
-_______________ at the office of the National Privacy Commission, 5th floor PICC
-Delegation Building, CCP Complex, Pasay City.
+The parties are ordered to appear at the preliminary mediation conference before Atty./Mr./Ms. ______________________________, the mediation officer who shall preside over the mediation proceedings, on (date) __________________________ at (time) _______________ at the office of the National Privacy Commission, 5th floor PICC Delegation Building, CCP Complex, Pasay City.
 
 SO ORDERED.
 
 City of Pasay, (date) ____________________.
 
 ____________________________________
-Signature over printed name
-Investigating Officer
+*Signature over printed name*
+*Investigating Officer*
 
 ________________________
 LD ADR Case No.
 
 ____________________________________
-Mediation Officer
+*Signature over printed name*
+*Mediation Officer*
 
-## ANNEX “C”
+### ANNEX “C”
 
-Complainant/s LD ADR Case No.
+*Complainant/s LD ADR Case No.*
 
- - versus -
+*versus*
 
 __________________________________________
-Respondent/s
-ORDER
+*Respondent/s*
+#### ORDER
 
 At today’s preliminary mediation conference/mediation conference
 
-____ the parties were present and agreed to schedule another mediation
-conference.
+____ the parties were present and agreed to schedule another mediation conference.
 
 ____ the complainant/s failed to appear with/without justifiable reason.
 
 ____ the respondent/s failed to appear with/without justifiable reason.
 
-The parties are ordered to appear at the next mediation conference on (date)
-__________________________ at (time) _______________ at the (place)
-__________________________________________________________.
+The parties are ordered to appear at the next mediation conference on (date) __________________________ at (time) _______________ at the (place) __________________________________________________________.
 
 SO ORDERED.
 
 City of Pasay, (date) ____________________.
 
 ____________________________________
-Mediation Officer
+*Signature over printed name*
+*Mediation Officer*
 
-## ANNEX “D”
+### ANNEX “D”
 
-Complainant/s LD ADR Case No.
+*Complainant/s LD ADR Case No.*
 
- - versus -
+*versus*
 
 __________________________________________
-Respondent/s
-MEDIATED SETTLEMENT AGREEMENT
+*Respondent/s*
+#### MEDIATED SETTLEMENT AGREEMENT
 
-This MEDIATED SETTLEMENT AGREEMENT is entered into between the
-complainant/s and the respondent/s, collectively referred to as the “parties.”
+This MEDIATED SETTLEMENT AGREEMENT is entered into between the complainant/s and the respondent/s, collectively referred to as the “parties.”
 
-WHEREAS, the parties filed their Application for Mediation on ____________ and
-the preliminary mediation conference was conducted on _____________ with the
-undersigned as mediation officer;
+&emsp;**WHEREAS,** the parties filed their Application for Mediation on ____________ and the preliminary mediation conference was conducted on _____________ with the undersigned as mediation officer;
 
-WHEREAS, the parties were able to arrive at an amicable resolution of their
-dispute, and now wish to commit the terms of their accord into this Mediated Settlement
-Agreement;
+&emsp;**WHEREAS,** the parties were able to arrive at an amicable resolution of their dispute, and now wish to commit the terms of their accord into this Mediated Settlement Agreement;
 
-NOW THEREFORE, the foregoing considered, the parties agree as follows:
+**NOW THEREFORE,** the foregoing considered, the parties agree as follows:
 
-1. The terms of this Mediated Settlement Agreement shall be enforced in accordance
-with the Commission’s rules and issuances.
+&emsp;1. The terms of this Mediated Settlement Agreement shall be enforced in accordance with the Commission’s rules and issuances.
 
-2. The parties agree that all information and documents attached to this Mediated
-Settlement Agreement are strictly confidential.
+&emsp;2. The parties agree that all information and documents attached to this Mediated Settlement Agreement are strictly confidential.
 
-3. In full settlement of the dispute, the respondent/s agree/s to pay the
-complainant/s the amount of (words) _____________________________________
-(figures) ₱___________.
+&emsp;3. In full settlement of the dispute, the respondent/s agree/s to pay the complainant/s the amount of (words) _____________________________________ (figures) ₱___________.
 
-4. Furthermore, respondent/s undertake/s to _________________________________
+&emsp;4. Furthermore, respondent/s undertake/s to _________________________________
 ________________________________________________________________________
 ________________________________________________________________________
 _______________________________________________________________________.
 
-5. On the other hand, complainant/s commit/s to _____________________________
+&emsp;5. On the other hand, complainant/s commit/s to _____________________________
 ________________________________________________________________________
 ________________________________________________________________________
 _______________________________________________________________________.
 
-6. In consideration of their faithful performance of the terms of this Mediated
-Settlement Agreement, the parties, for themselves, their successors, and assigns,
-do hereby relinquish, waive, release, acquit, and forever discharge each other of
-and from any and all claims, disputes, complaints, causes of action, and rights
+&emsp;6. In consideration of their faithful performance of the terms of this Mediated Settlement Agreement, the parties, for themselves, their successors, and assigns, do hereby relinquish, waive, release, acquit, and forever discharge each other of and from any and all claims, disputes, complaints, causes of action, and rights based on actions or events which occurred prior to the date of this Mediated Settlement Agreement.
 
-based on actions or events which occurred prior to the date of this Mediated
-Settlement Agreement.
+&emsp;7. A party’s rights under this Mediated Settlement Agreement may not be assigned without the express written consent of the other party.
 
-7. A party’s rights under this Mediated Settlement Agreement may not be assigned
-without the express written consent of the other party.
+&emsp;8. This Mediated Settlement Agreement constitutes the entire agreement between the parties concerning the foregoing settlement and release of claims.
 
-8. This Mediated Settlement Agreement constitutes the entire agreement between
-the parties concerning the foregoing settlement and release of claims.
+**IN WITNESS WHEREOF,** the parties have executed this Mediated Settlement Agreement this ____ day of ______________, 20___.
 
-IN WITNESS WHEREOF, the parties have executed this Mediated Settlement
-Agreement this ____ day of ______________, 20___.
-
-Complainant/s Respondent/s
+*Complainant/s Respondent/s*
 
 ____________________________________ ____________________________________
-Signature over printed name Signature over printed name
+*Signature over printed name Signature over printed name*
 
 ____________________________________ ____________________________________
-Signature over printed name Signature over printed name
+*Signature over printed name Signature over printed name*
 
 ____________________________________ ____________________________________
-Signature over printed name Signature over printed name
+*Signature over printed name Signature over printed name*
 
-## ANNEX “E”
+### ANNEX “E”
 
-Complainant/s LD ADR Case No.
+*Complainant/s LD ADR Case No.*
 
- - versus -
+*versus*
 
 __________________________________________
-Respondent/s
-RESOLUTION
+*Respondent/s*
+#### RESOLUTION
 
-WHEREAS, on (date) ______________, the instant complaint was filed based on
-the following facts: (Provide a brief statement of the facts.)
+&emsp;**WHEREAS,** on (date) ______________, the instant complaint was filed based on the following facts: (Provide a brief statement of the facts.)
 
 ________________________________________________________________________
 ______________________________________________________________________________
@@ -443,85 +294,73 @@ ______________________________________________________________________________
 ______________________________________________________________________________
 _____________________________________________________________________________;
 
-WHEREAS, the parties filed their Application for Mediation on ____________ and
-the preliminary mediation conference was conducted on _____________ with the
-undersigned as mediation officer;
+&emsp;**WHEREAS,** the parties filed their Application for Mediation on ____________ and the preliminary mediation conference was conducted on _____________ with the undersigned as mediation officer;
 
-WHEREAS, through the sincere effort of the parties to arrive at an amicable
-resolution of their dispute, they were able to execute a mediated settlement agreement;
+&emsp;**WHEREAS,** through the sincere effort of the parties to arrive at an amicable resolution of their dispute, they were able to execute a mediated settlement agreement;
 
-WHEREAS, the mediation proceedings has been terminated through the execution
-of the mediated settlement agreement;
+&emsp;**WHEREAS,** the mediation proceedings has been terminated through the execution of the mediated settlement agreement;
 
-WHEREAS, a confirmed mediated settlement agreement shall have the effect of a
-decision or judgment on the complaint and shall be enforced in accordance with the
-Commission’s rules and issuances.
+&emsp;**WHEREAS,** a confirmed mediated settlement agreement shall have the effect of a decision or judgment on the complaint and shall be enforced in accordance with the Commission’s rules and issuances.
 
-WHEREFORE, in view of the foregoing, the undersigned mediation officer
-submits the attached mediated settlement agreement executed by the parties for
-confirmation by the Commission.
+&emsp;**WHEREFORE,** in view of the foregoing, the undersigned mediation officer submits the attached mediated settlement agreement executed by the parties for confirmation by the Commission.
 
 City of Pasay, (date) ____________________.
 
 ____________________________________
-Mediation Officer
+*Signature over printed name*
+*Mediation Officer*
 
-## ANNEX “F”
+### ANNEX “F”
 
-Complainant/s LD ADR Case No.
+*Complainant/s LD ADR Case No.*
 
- - versus -
+*versus*
 
 __________________________________________
-Respondent/s
-NOTICE OF NON-SETTLEMENT OF DISPUTE
+*Respondent/s*
+#### NOTICE OF NON-SETTLEMENT OF DISPUTE
 
-The mediation proceedings are ordered terminated effective today for the
-following reason/s:
+The mediation proceedings are ordered terminated effective today for the following reason/s:
 
 ____ The parties are unable to reach a settlement.
-____ Failure of complainant/s to appear without prior notice and justifiable reason
-for two (2) consecutive mediation conferences/caucuses.
-____ Failure of respondent/s to appear without prior notice and justifiable reason
-for two (2) consecutive mediation conferences/caucuses.
+
+____ Failure of complainant/s to appear without prior notice and justifiable reason for two (2) consecutive mediation conferences/caucuses.
+
+____ Failure of respondent/s to appear without prior notice and justifiable reason for two (2) consecutive mediation conferences/caucuses.
 
 SO ORDERED.
 
 City of Pasay, (date) ____________________.
 
 ____________________________________
-Mediation Officer
+*Signature over printed name*
+*Mediation Officer*
 
-## ANNEX “G”
+### ANNEX “G”
 
-Complainant/s CID Case No.
+*Complainant/s CID Case No.*
 
- - versus -
+*versus*
 
 __________________________________________
-Respondent/s
+*Respondent/s*
 
-## ORDER FOR RESUMPTION OF COMPLAINT PROCEEDINGS
+#### ORDER FOR RESUMPTION OF COMPLAINT PROCEEDINGS
 
-On (date) _________________, Atty./Mr./Ms. ______________________________,
-as mediation officer, issued a Notice of Non-Settlement of Dispute between the parties in
-this case. The Notice of Non-Settlement of Dispute was received by the undersigned on
+On (date) _________________, Atty./Mr./Ms. ______________________________, as mediation officer, issued a Notice of Non-Settlement of Dispute between the parties in this case. The Notice of Non-Settlement of Dispute was received by the undersigned on
 __________________.
 
-Thus, the suspension of the complaint proceedings is ordered lifted effective
-today.
+Thus, the suspension of the complaint proceedings is ordered lifted effective today.
 
-The parties are ordered to appear before the undersigned investigating officer for
-resumption of the complaint proceedings on (date) __________________________ at
-(time) _______________ at the office of the National Privacy Commission, 5th floor PICC
-Delegation Building, CCP Complex, Pasay City.
+The parties are ordered to appear before the undersigned investigating officer for resumption of the complaint proceedings on (date) __________________________ at (time) _______________ at the office of the National Privacy Commission, 5th floor PICC Delegation Building, CCP Complex, Pasay City.
 
 SO ORDERED.
 
 City of Pasay, (date) ____________________.
 
 ____________________________________
-Investigating Officer
+*Signature over printed name*
+*Investigating Officer*
 
 ## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Circular18-03_RulesonMediationwAnnexes.pdf

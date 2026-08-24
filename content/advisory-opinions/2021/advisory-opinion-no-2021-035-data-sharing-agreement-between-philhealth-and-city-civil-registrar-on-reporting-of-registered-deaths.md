@@ -90,11 +90,7 @@ On the term or duration of the data sharing arrangement, the current Circular pr
 
 We recommend that that the parties revisit the proposed MOA and indicate a specific term, in compliance with the above requirement.
 
-This opinion is based solely on the limited information you have provided. We are not privy
-to the other provisions of the draft MOA and the review of the same is limited to the above
-quoted provisions for purposes of this opinion. Additional information may change the
-context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues
-between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. We are not privy to the other provisions of the draft MOA and the review of the same is limited to the above quoted provisions for purposes of this opinion. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

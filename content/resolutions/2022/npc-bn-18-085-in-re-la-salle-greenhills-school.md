@@ -189,9 +189,9 @@ Moreover, the Privacy Policy of LSGH contains the following fields:
 (2) Data Subject Rights;[^51]
 (3) Record Keeping;[^52]
 (4) Data Sharing;[^53]
-(5) Disclosure and Direct Marketing;[^54]
-(6) Responsibilities of DPO, LSGH, Students and Employees;[^55]
-(7) Creation of Data Breach Response Team and Notification Protocol;[^56] and,
+(5) Disclosure and Direct Marketing;[^54]<br>
+(6) Responsibilities of DPO, LSGH, Students and Employees;[^55]<br>
+(7) Creation of Data Breach Response Team and Notification Protocol;[^56] and,<br>
 (8) Procedure for Recovery and Restoration of Personal Data.[^57]
 
 LSGH likewise submitted its social media policies for students, personnel and partners which include the parents, guardians, alumni, among others.[^58] These policies provide guidelines on the use of social media platforms, including guidance on how students, personnel, and partners should be mindful of their legal risks and acts.[^59] The policies also better ensure that the students, personnel, and partners do not compromise their personal security or the security of the school's information assets.[^60]

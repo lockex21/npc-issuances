@@ -33,9 +33,7 @@ Re: PRIVATE DETECTIVE SERVICES
 Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
-Commission (NPC). As a follow up to [[advisory-opinions/2019/advisory-opinion-no-2019-001-npc-advisory-opinion-no-2019-001|Advisory Opinion No. 2019-001]],[^2] you now seek further
-clarification on the applicability of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^3] (DPA) to the specific services
-and engagements of your company, Eyespy Detectives and Investigators Co. (Eyespy).
+Commission (NPC). As a follow up to [[advisory-opinions/2019/advisory-opinion-no-2019-001-npc-advisory-opinion-no-2019-001|Advisory Opinion No. 2019-001]],[^2] you now seek further clarification on the applicability of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^3] (DPA) to the specific services and engagements of your company, Eyespy Detectives and Investigators Co. (Eyespy).
 
 From your letter, we understand that Eyespy, a duly licensed private detective agency, offers
 the following services:
@@ -141,32 +139,15 @@ these specific inquiries:
 
 #### Legality of processing personal data by private detective services; criteria for processing personal data
 
-On the services provided by Eyespy, you propose that the same are all permissible data
-gathering activities pursuant to the provisions of the DPA, specifically [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (b)]] -
-processing of personal information is necessary and is related to the fulfillment of a contract
-with the data subject and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] - the processing concerns such personal information
-as is necessary for the protection of lawful rights and interests of natural or legal persons in
-court proceedings, or the establishment, exercise or defense of legal claims.
+On the services provided by Eyespy, you propose that the same are all permissible data gathering activities pursuant to the provisions of the DPA, specifically [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (b)]] -processing of personal information is necessary and is related to the fulfillment of a contract with the data subject and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f)]] - the processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims.
 
-While the above provisions of the DPA may be applicable to certain services in relation to
-some aforesaid engagements, i.e., relating to enforcement of existing contractual obligations
-for employment, insurance or loan-related matters, or in contemplation of or preparatory to,
-establishing, exercising or defending legal claims, it would be inaccurate to say that these
-provisions are the indeed the appropriate legal bases for Eyespy to carry out all of its services
-in relation to all the engagements earlier described.
+While the above provisions of the DPA may be applicable to certain services in relation to some aforesaid engagements, i.e., relating to enforcement of existing contractual obligations for employment, insurance or loan-related matters, or in contemplation of or preparatory to, establishing, exercising or defending legal claims, it would be inaccurate to say that these provisions are the indeed the appropriate legal bases for Eyespy to carry out all of its services in relation to all the engagements earlier described.
 
 Please note that the criteria for valid processing of personal and sensitive personal
 information (collectively, personal data) are enumerated in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA,
-respectively. As discussed above, Section 12 (b) may be applicable in some instances where
-processing of personal information is related to or rooted on an existing contract between your
-client and the data subject, while Section 13 (f) may be applicable when processing sensitive
-personal information for legal claims or court proceedings.
+respectively. As discussed above, Section 12 (b) may be applicable in some instances where processing of personal information is related to or rooted on an existing contract between your client and the data subject, while Section 13 (f) may be applicable when processing sensitive personal information for legal claims or court proceedings.
 
-With this, Eyespy should evaluate other possible lawful bases for processing, i.e., [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12
-(f)]] for processing personal information on legitimate interests pursued by the PIC or by a third
-party or parties to whom the data is disclosed, except where such interests are overridden by
-fundamental rights and freedoms of the data subject, especially for those instances where
-there is no underlying contract involving the data subject and/or where Eyespy’s client is not
+With this, Eyespy should evaluate other possible lawful bases for processing, i.e., [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (f)]] for processing personal information on legitimate interests pursued by the PIC or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject, especially for those instances where there is no underlying contract involving the data subject and/or where Eyespy’s client is not
 
 considering any legal action or proceeding from such personal data processing activity.
 
@@ -187,11 +168,7 @@ As to the determination of whether there is a DPA violation in relation to the s
 provided by Eyespy, there can be no categorical statement to that effect based on the given
 information.
 
-The Commission, where a complaint is filed or a sua sponte investigation is conducted, will
-have to take into consideration the circumstances of each situation and evidence submitted
-by the parties. Each case may be appreciated differently, depending on the manner of
-processing of personal data, whether there was adherence to the general data privacy
-principles, and data subject rights were upheld, among others.
+The Commission, where a complaint is filed or a sua sponte investigation is conducted, will have to take into consideration the circumstances of each situation and evidence submitted by the parties. Each case may be appreciated differently, depending on the manner of processing of personal data, whether there was adherence to the general data privacy principles, and data subject rights were upheld, among others.
 
 We reiterate our position in Advisory Opinion No. 2019-001:
 
@@ -206,38 +183,21 @@ We reiterate our position in Advisory Opinion No. 2019-001:
 
 #### Conduct of Records Checks; authorization; general data privacy principles
 
-In relation to Records Check services for insurance claims or cases, we wish to clarify that the
-authorization of the insurance company may just be one of the documents which may satisfy
-the requirements of the pertinent PIC to verify/validate the presented record or document.
+In relation to Records Check services for insurance claims or cases, we wish to clarify that the authorization of the insurance company may just be one of the documents which may satisfy the requirements of the pertinent PIC to verify/validate the presented record or document.
 
-Please note that the PIC being asked for the information will consider each request on a case-
-to-case basis, and must be satisfied that it is legitimate, within the lawful basis for processing
-under the DPA, and there is indeed an insurance claim or proceeding where the records
-validation is necessary for the purpose stated by the Eyespy.[^6] The same may hold true for the
-records check for debt collection..
+Please note that the PIC being asked for the information will consider each request on a case-to-case basis, and must be satisfied that it is legitimate, within the lawful basis for processing under the DPA, and there is indeed an insurance claim or proceeding where the records validation is necessary for the purpose stated by the Eyespy.[^6] The same may hold true for the records check for debt collection..
 
-In both cases, the affected data subject should have been informed at the outset, through the
-appropriate terms and conditions of the insurance contract, that verification of the
-information provided for insurance claims will be conducted when necessary, or in a loan
-agreement, whereby essential records will be verified/validated for purposes of debt
+In both cases, the affected data subject should have been informed at the outset, through the appropriate terms and conditions of the insurance contract, that verification of the information provided for insurance claims will be conducted when necessary, or in a loan agreement, whereby essential records will be verified/validated for purposes of debt
 collection.
 
-Data subjects should therefore have an expectation that their personal data will be disclosed
-in relation to the aforementioned contractual obligations, subject to the general data privacy
-principles transparency, legitimate purpose, and proportionality.
+Data subjects should therefore have an expectation that their personal data will be disclosed in relation to the aforementioned contractual obligations, subject to the general data privacy principles transparency, legitimate purpose, and proportionality.
 
 #### Data subject rights in relation to private detective services; right to object; right to access; limitations
 
-On the theoretical situation where the data subject learns of the personal data gathering
-conducted and demands Eyespy to cease and desist therefrom and furnish him or her a copy
-of all information gathered, Eyespy’s compliance with such request will depend on the
+On the theoretical situation where the data subject learns of the personal data gathering conducted and demands Eyespy to cease and desist therefrom and furnish him or her a copy of all information gathered, Eyespy’s compliance with such request will depend on the
 situation.
 
-Note that while there may be a right to object to the processing of personal data, this applies
-in instances where processing is based on consent or legitimate interest. Hence, it is still
-possible to continue processing personal data where for example, the same is still necessary
-for the performance of or in relation to a contract or service to which the data subject is a party,
-or when necessary or desirable in the context of an employer-employee relationship.[^7]
+Note that while there may be a right to object to the processing of personal data, this applies in instances where processing is based on consent or legitimate interest. Hence, it is still possible to continue processing personal data where for example, the same is still necessary for the performance of or in relation to a contract or service to which the data subject is a party, or when necessary or desirable in the context of an employer-employee relationship.[^7]
 
 
 For further guidance, we refer to [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] on Data Subject Rights
@@ -254,11 +214,7 @@ discussing the right to object, to wit:
           reason to continue such processing. The PIC shall communicate and inform the data
           subject of said lawful basis or compelling reason to continue processing.”[^8]
 
-On the request to furnish a copy of the personal data collected, this may be anchored on the
-data subject right to access, and generally, may be granted by Eyespy. As an exception, this
-right may be limited when necessary for public interest, protection of other fundamental
-rights, or there exists a legitimate purpose justifying such limitation, which shall be
-proportional to the purpose of such limitation.[^9]
+On the request to furnish a copy of the personal data collected, this may be anchored on the data subject right to access, and generally, may be granted by Eyespy. As an exception, this right may be limited when necessary for public interest, protection of other fundamental rights, or there exists a legitimate purpose justifying such limitation, which shall be proportional to the purpose of such limitation.[^9]
 
 Further, on the limitation provided in Section 37 of the IRR which you mentioned, the
 provision states in part:
@@ -271,10 +227,7 @@ provision states in part:
         only be to the minimum extent necessary to achieve the purpose of said research or
         investigation.”
 
-The nature of investigations in the above provision pertain to those conducted by government
-agencies based on their respective mandates. This does not contemplate investigations made
-by private parties, even when it is in relation to an alleged crime such as adultery or
-concubinage as described in your letter. We again refer to [[issuances/2021/data-subject-rights|NPC Advisory No. 2021 – 01]] for
+The nature of investigations in the above provision pertain to those conducted by government agencies based on their respective mandates. This does not contemplate investigations made by private parties, even when it is in relation to an alleged crime such as adultery or concubinage as described in your letter. We again refer to [[issuances/2021/data-subject-rights|NPC Advisory No. 2021 – 01]] for
 further guidance:
 
    “SECTION 13. Limitations. — x x x
@@ -293,21 +246,12 @@ further guidance:
 
 #### Refusal of PICs to grant access to records
 
-As mentioned above, PICs would have to make their own evaluation of the legitimacy of the
-requests for access and disclosure to personal data on a case-to-case basis, and must be
-sufficiently convinced that indeed, the personal data is necessary for the declared purpose,
-and that the processing is fair, lawful, may have been reasonably expected by the data subject
-in case of existing contractual obligations or legal claims, and/or within the legitimate
-interests of the client which is balanced with the rights and freedoms of the data subject.
+As mentioned above, PICs would have to make their own evaluation of the legitimacy of the requests for access and disclosure to personal data on a case-to-case basis, and must be sufficiently convinced that indeed, the personal data is necessary for the declared purpose, and that the processing is fair, lawful, may have been reasonably expected by the data subject in case of existing contractual obligations or legal claims, and/or within the legitimate interests of the client which is balanced with the rights and freedoms of the data subject.
 
-Eyespy may likewise communicate with the data protection officers of these PICs and clarify
-its lawful basis for requesting records, keeping in mind that these organizations and
-government agencies may have already established procedures on access to personal data
+Eyespy may likewise communicate with the data protection officers of these PICs and clarify its lawful basis for requesting records, keeping in mind that these organizations and government agencies may have already established procedures on access to personal data
 which should be complied with.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

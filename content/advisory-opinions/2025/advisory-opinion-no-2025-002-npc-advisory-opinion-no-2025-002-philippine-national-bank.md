@@ -31,14 +31,9 @@ aliases:
 
 Dear                 , et.al.:
 
-We respond to your request for an Advisory Opinion on whether a bank may lawfully conduct
-an asset search by obtaining certificates of title, tax declarations and other property information
-from relevant government agencies without the property owner's consent.
+We respond to your request for an Advisory Opinion on whether a bank may lawfully conduct an asset search by obtaining certificates of title, tax declarations and other property information from relevant government agencies without the property owner's consent.
 
-As background, you state that your principal is a universal banking institution (Bank) engaged
-in the business of lending. It is common for the Bank to encounter defaulting borrowers for which
-various tools are employed - such as asset searches - to mitigate risks and ensure compliance with
-its duty to exercise extraordinary diligence.
+As background, you state that your principal is a universal banking institution (Bank) engaged in the business of lending. It is common for the Bank to encounter defaulting borrowers for which various tools are employed - such as asset searches - to mitigate risks and ensure compliance with its duty to exercise extraordinary diligence.
 
 In practice, asset searches in banking operations typically involves requesting property information from government agencies, such as the Land Registration Authority, Register of Deeds (RD) and the Assessor’s Office, to identify properties registered under the borrower’s name and obtain copies of certificates of title and tax declarations. An asset search is particularly useful for the Bank to determine whether to pursue legal action or explore extrajudicial remedies against defaulting borrowers.
 
@@ -56,30 +51,13 @@ Accordingly, this Advisory Opinion aims to address the issue of whether the Bank
 
 The [[laws/data-privacy-act-of-2012|DPA]] applies to the processing of personal information and sensitive personal information (collectively personal data), subject to certain qualifications. The disclosure of personal data contained in land records, including those listed in certificates of title (i.e. the owner’s name, address, marital status, property description, encumbrances, registration details, and annotations) and tax declarations (i.e. property location, property type, tax declaration number, and tax identification numbers) constitute processing of personal data and must therefore comply with the requirements set forth under the DPA.
 
-However, please note that the DPA applies only to natural persons. As stated in [[advisory-opinions/2023/advisory-opinion-no-2023-023-advisory-opinion-no-2023-023|National Privacy Commission (NPC) Advisory Opinion No. 2023-0023]], privacy rights under the DPA extend only
-to individuals and do not cover juridical entities such as corporations, partnerships, or
-associations. The DPA is designed to protect personal data, which is defined as any information
-that can identify a natural person, whether directly or indirectly. Consequently, corporate or
-organizational data, including the name, address, financial information, and taxpayer
-identification number (TIN) of juridical entities, do not fall within the scope of the DPA.
+However, please note that the DPA applies only to natural persons. As stated in [[advisory-opinions/2023/advisory-opinion-no-2023-023-advisory-opinion-no-2023-023|National Privacy Commission (NPC) Advisory Opinion No. 2023-0023]], privacy rights under the DPA extend only to individuals and do not cover juridical entities such as corporations, partnerships, or associations. The DPA is designed to protect personal data, which is defined as any information that can identify a natural person, whether directly or indirectly. Consequently, corporate or organizational data, including the name, address, financial information, and taxpayer identification number (TIN) of juridical entities, do not fall within the scope of the DPA.
 
-Thus, in relation to information contained in Transfer Certificates of Title (TCTs) and tax
-declarations, the applicability of the DPA depends on whether the registered owner is a natural
-or juridical person. When a TCT or tax declaration is issued in the name of an individual, the
-processing of the personal information contained therein requires compliance with the DPA’s
-data protection principles and lawful bases for processing. Conversely, when the same
-documents pertain to a juridical entity, then the DPA does not apply.
+Thus, in relation to information contained in Transfer Certificates of Title (TCTs) and tax declarations, the applicability of the DPA depends on whether the registered owner is a natural or juridical person. When a TCT or tax declaration is issued in the name of an individual, the processing of the personal information contained therein requires compliance with the DPA’s data protection principles and lawful bases for processing. Conversely, when the same documents pertain to a juridical entity, then the DPA does not apply.
 
-Furthermore, while a tax declaration in itself is not automatically classified as sensitive personal
-information, the TIN of an individual is explicitly categorized as sensitive personal information
-under the DPA. Therefore, tax declarations concerning natural persons are covered by the DPA’s
-provisions, whereas those pertaining to corporations or other juridical entities are not considered
-personal information within the scope of the DPA.
+Furthermore, while a tax declaration in itself is not automatically classified as sensitive personal information, the TIN of an individual is explicitly categorized as sensitive personal information under the DPA. Therefore, tax declarations concerning natural persons are covered by the DPA’s provisions, whereas those pertaining to corporations or other juridical entities are not considered personal information within the scope of the DPA.
 
-This distinction simply means that government agencies, such as the Assessor’s Office, may
-disclose tax declarations and related documents concerning juridical entities without the
-constraints imposed by the DPA. However, for documents registered to natural persons,
-compliance with the DPA's provisions remains necessary.
+This distinction simply means that government agencies, such as the Assessor’s Office, may disclose tax declarations and related documents concerning juridical entities without the constraints imposed by the DPA. However, for documents registered to natural persons, compliance with the DPA's provisions remains necessary.
 
 #### Lawful basis for processing under the DPA; Sec. 12(f) Legitimate Interest; Sec. 13(f) Establishment of Legal Claims.
 
@@ -99,17 +77,10 @@ While formal legal action may not yet be pursued, the Bank has a real and tangib
 determining the status of assets that may be linked to the borrower or guarantor as part of its
 credit risk management process.
 
-Accordingly, inquiries into asset ownership or related information, when done to secure potential
-recovery of loan obligations, may be considered as a legitimate interest of the Bank which falls
-squarely under Section 12(f) of the DPA. Such processing however, must still observe the
-principles of transparency, proportionality, and data minimization, ensuring that only relevant
-and necessary information is accessed, which in this case should be in relation to repayment or
+Accordingly, inquiries into asset ownership or related information, when done to secure potential recovery of loan obligations, may be considered as a legitimate interest of the Bank which falls squarely under Section 12(f) of the DPA. Such processing however, must still observe the principles of transparency, proportionality, and data minimization, ensuring that only relevant and necessary information is accessed, which in this case should be in relation to repayment or
 recovery of loan obligations.
 
-Section 13 (f) of the DPA allows the processing of sensitive personal information (i.e. TIN, marital
-status) contained in a TCT or tax declaration when the processing is necessary for the protection
-of lawful rights and interests of natural or legal persons in court proceedings, or the
-establishment, exercise or defense of legal claims.
+Section 13 (f) of the DPA allows the processing of sensitive personal information (i.e. TIN, marital status) contained in a TCT or tax declaration when the processing is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims.
 
 In this case, the Bank’s request for property information pursuant to an asset search is essential in establishing or defending its legal claims against a defaulting borrower, which may or may not result to the filing of an actual case. The term “establishment” under Section 13(f) of the Data Privacy Act of 2012 (DPA) may extend to obtaining evidence by lawful means for prospective legal proceedings, which are not limited to actual cases filed in court. In BGM vs. IPP (NPC Case No. [[decisions/2020/19-653-bgm-vs-ipp|NPC 19-653]]), citing [[decisions/2019/npc-17-018-ea-and-ta-v-ej|EA and TA vs. EJ, EE and HC (NPC Case No. 17-018)]] dated July 15, 2019, the NPC clarified:
 
@@ -119,11 +90,7 @@ Given these considerations, the processing of personal data in connection with t
 
 [[advisory-opinions/2019/advisory-opinion-no-2019-013-npc-advisory-opinion-no-2019-013|NPC Advisory Opinion No. 2019-013]][^5] also clarified that a person other than the registered owner of a real property or their authorized representative may obtain a copy of a tax declaration, particularly when the document is necessary for the establishment of a legal claim. This opinion stated that the assessor’s office may grant such a request if the requesting party establishes that the tax declaration is material to the case or necessary for the establishment, exercise, or defense of a legal claim. This remains subject to existing policies, regulations, and procedures, including payment of fees.
 
-The Bank’s legitimate interest in securing payment and protecting its financial exposure qualifies
-as an actual and lawful basis for limited and proportionate data processing under the provisions
-of the DPA. As long as the processing adheres to the principles of transparency, proportionality,
-and data minimization, personal data may be lawfully processed to support the Bank’s due
-diligence, asset tracing, or claims evaluation processes.
+The Bank’s legitimate interest in securing payment and protecting its financial exposure qualifies as an actual and lawful basis for limited and proportionate data processing under the provisions of the DPA. As long as the processing adheres to the principles of transparency, proportionality, and data minimization, personal data may be lawfully processed to support the Bank’s due diligence, asset tracing, or claims evaluation processes.
 
 Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 

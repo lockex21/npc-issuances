@@ -46,27 +46,13 @@ Even though personal information of potential clients are obtained from publicly
 
 #### Direct Marketing as a Legitimate Interest
 
-Calls and emails made directly to a potential customer without prior contact or lead, also
-known as cold calls and emails, are common direct marketing practices in the Philippines
-employed by companies, organizations and individuals for the offering or advertising of
-goods or services. Our own privacy law defines direct marketing as “communication by
-whatever means of any advertising or marketing material which is directed to particular
+Calls and emails made directly to a potential customer without prior contact or lead, also known as cold calls and emails, are common direct marketing practices in the Philippines employed by companies, organizations and individuals for the offering or advertising of goods or services. Our own privacy law defines direct marketing as “communication by whatever means of any advertising or marketing material which is directed to particular
 individuals.”[^4]
 
-Some activities involved in direct marketing, such as collection of potential clients’ names,
-their contact details and email, business or home addresses, the storage of such information
-and the calling and emailing by sales representatives, involve the processing of personal data.
-Marketers, in their capacity as PICs, must then comply with the provisions of the law,
-including adherence to the data privacy principles of transparency, legitimate purpose and
-proportionality. The law further provides that a PIC must have a legitimate purpose for the
-processing of personal data, the criteria of which are specifically enumerated in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]]
-and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] thereof.[^5]
+Some activities involved in direct marketing, such as collection of potential clients’ names, their contact details and email, business or home addresses, the storage of such information and the calling and emailing by sales representatives, involve the processing of personal data.
+Marketers, in their capacity as PICs, must then comply with the provisions of the law, including adherence to the data privacy principles of transparency, legitimate purpose and proportionality. The law further provides that a PIC must have a legitimate purpose for the processing of personal data, the criteria of which are specifically enumerated in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] thereof.[^5]
 
-In case the processing does not fall under any of the criteria enumerated under the law,
-consent given by the data subject should ideally be the basis of lawful processing of personal
-information for marketing purposes.[^6] For processing to be lawful, consent must have been
-given by the data subject prior to the collection, or if prior consent was not obtained, it should
-be given as soon as practicable and reasonable.[^7]
+In case the processing does not fall under any of the criteria enumerated under the law, consent given by the data subject should ideally be the basis of lawful processing of personal information for marketing purposes.[^6] For processing to be lawful, consent must have been given by the data subject prior to the collection, or if prior consent was not obtained, it should be given as soon as practicable and reasonable.[^7]
 
 Gathered from your inquiry, personal information was already processed upon collection of
 the prospective client’s name and contact details. Thus, prior consent was not obtained.
@@ -82,10 +68,7 @@ Furthermore, as our DPA is influenced by the 1995 EU Data Protection Directive a
 “… The processing of personal data for direct marketing purposes may be regarded as carried
 out for a legitimate interest.”[^11]
 
-Thus, legitimate interests of a PIC may be considered as the lawful basis for making cold calls
-and emails to prospective clients. This notwithstanding, it cannot be said that direct marketing
-may always constitute legitimate interest.[^12] Lawful processing of personal information on the
-ground of legitimate interest still depends on the particular circumstances.[^13]
+Thus, legitimate interests of a PIC may be considered as the lawful basis for making cold calls and emails to prospective clients. This notwithstanding, it cannot be said that direct marketing may always constitute legitimate interest.[^12] Lawful processing of personal information on the ground of legitimate interest still depends on the particular circumstances.[^13]
 
 #### Legitimate Interests Three-part Test
 
@@ -95,16 +78,8 @@ Before a PIC may present legitimate interests as the basis for the processing of
 2) Necessity Test – is the processing necessary for that purpose?
 3) Balancing Test – is the legitimate interest overridden by the individual’s interests, rights or freedoms?[^15]
 
-The DPA does not specifically provide which matters to consider in deciding whether a PIC’s
-purpose counts as legitimate interest. Direct marketing activities which do not contravene any
-established law or ethical standards or practices may be considered as legitimate purpose.[^16]
-The PIC must have a declared and specified purpose, not merely relying on vague or generic
-business interests, there must be some clear and specific benefit or outcome in mind.[^17] As
-much as it can be argued that there are legitimate interests to be pursued, the PIC must next
-demonstrate that the processing is necessary and proportionate for the purposes of the
-identified legitimate interest.[^18] Lastly, the PIC must determine whether the processing may be
-overridden by the fundamental rights and freedoms of the data subject and the impact of such
-processing on the data subject.[^19]
+The DPA does not specifically provide which matters to consider in deciding whether a PIC’s purpose counts as legitimate interest. Direct marketing activities which do not contravene any established law or ethical standards or practices may be considered as legitimate purpose.[^16]
+The PIC must have a declared and specified purpose, not merely relying on vague or generic business interests, there must be some clear and specific benefit or outcome in mind.[^17] As much as it can be argued that there are legitimate interests to be pursued, the PIC must next demonstrate that the processing is necessary and proportionate for the purposes of the identified legitimate interest.[^18] Lastly, the PIC must determine whether the processing may be overridden by the fundamental rights and freedoms of the data subject and the impact of such processing on the data subject.[^19]
 
 In gauging whether interests of the individual may override the legitimate interests of the PIC, Recital 47 of the GDPR sheds some light thereon:
 
@@ -120,22 +95,10 @@ In this situation, the questions for the sales representatives who may opt for c
 4) Did the data subject or potential customer expect further processing for a purpose different from that when his or her personal information was first collected or processed?
 5) What, if any, is the impact of cold calls and emails on the individual or the data subject?
 
-It may be argued that the individuals who gave their calling cards in events or expos may
-have expected calls or emails only from those individuals or organizations to whom they
-directly gave their contact information. For those individuals whose contact information are
-found online, they may have expected that their information will be used only for the
-purposes of such website or platform, e.g. job search and application. Further, such
-individuals may have reasonably expected that there will be no further processing of their
-information. Thus, a cold call or email from an entirely different organization or individual
-for marketing of different products or services may be considered an intrusion of their right
-to data privacy. Notwithstanding, each case should always be evaluated depending on the
+It may be argued that the individuals who gave their calling cards in events or expos may have expected calls or emails only from those individuals or organizations to whom they directly gave their contact information. For those individuals whose contact information are found online, they may have expected that their information will be used only for the purposes of such website or platform, e.g. job search and application. Further, such individuals may have reasonably expected that there will be no further processing of their information. Thus, a cold call or email from an entirely different organization or individual for marketing of different products or services may be considered an intrusion of their right to data privacy. Notwithstanding, each case should always be evaluated depending on the
 surrounding circumstances.
 
-We wish to emphasize that legitimate interest is not intended to be a broad justification for all
-purposes assumed by PICs. The NPC, on its own determination, may evaluate whether
-legitimate interest is the proper basis for the specific processing, considering the interpretation
-clause under [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38]] of the DPA, where the law is liberally interpreted in a manner mindful
-of the rights and interests of the data subject.
+We wish to emphasize that legitimate interest is not intended to be a broad justification for all purposes assumed by PICs. The NPC, on its own determination, may evaluate whether legitimate interest is the proper basis for the specific processing, considering the interpretation clause under [[laws/data-privacy-act-of-2012#section-38-interpretation|Section 38]] of the DPA, where the law is liberally interpreted in a manner mindful of the rights and interests of the data subject.
 
 #### Right to Information and Right to Object
 

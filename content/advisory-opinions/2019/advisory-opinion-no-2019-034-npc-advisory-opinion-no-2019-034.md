@@ -108,9 +108,7 @@ In addition, consent shall be evidenced by written, electronic or recorded means
 
 #### Necessity of requiring employer to divide the purposes for data processing; other lawful criteria for processing aside from consent
 
-The processing of personal information is permitted under the DPA when at least one of the
-conditions provided under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] is present. As to sensitive personal information, its
-processing is prohibited except when there exists any of the cases enumerated under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
+The processing of personal information is permitted under the DPA when at least one of the conditions provided under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] is present. As to sensitive personal information, its processing is prohibited except when there exists any of the cases enumerated under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 As enunciated in [[advisory-opinions/2017/advisory-opinion-no-2017-050-npc-advisoryopinionno-2017-050|NPC Advisory Opinion No. 2017-050]]:
 
@@ -127,11 +125,7 @@ As enunciated in [[advisory-opinions/2017/advisory-opinion-no-2017-050-npc-advis
 
    Note also the special cases where the DPA is not applicable on certain specified information, i.e. information necessary in order to carry out the functions of public authority. Hence, the processing of your personal data as an employee in compliance with labor and tax laws are actually outside of the scope of the DPA, to the minimum extent necessary to achieve the specific purpose, function, or activity of the public authority.[^12]
 
-From the foregoing, it is clear that consent is not the only basis for an employer to lawfully process
-personal data. In relation to processing with multiple purposes, PICs should be cognizant of all
-processing activities by conducting a Privacy Impact Assessment (PIA) to come up with a data
-inventory, description of the processing operations, assessment of the necessity and
-proportionality of the processing, and assessment of the risks, among others. Through the PIA, the
+From the foregoing, it is clear that consent is not the only basis for an employer to lawfully process personal data. In relation to processing with multiple purposes, PICs should be cognizant of all processing activities by conducting a Privacy Impact Assessment (PIA) to come up with a data inventory, description of the processing operations, assessment of the necessity and proportionality of the processing, and assessment of the risks, among others. Through the PIA, the
 PIC will be able to determine the most appropriate lawful criteria for such processing, which in
 the case of employment-related processing need not necessarily be consent.
 
@@ -153,17 +147,12 @@ On the other hand, [[laws/data-privacy-act-of-2012#section-3-definition-of-terms
           written, electronic or recorded means. It may also be given on behalf of the data
           subject by an agent specifically authorized by the data subject to do so.
 
-The above definitions are essentially the similar. While it is true that the Commission often
-examines EU opinions, laws, and jurisprudence for analogous cases in interpreting the provisions
-of the DPA, as the latter was highly influenced by the 1995 EU Data Protection Directive, the
-predecessor of the GDPR, we reiterate the statement in NPC Advisory Opinion 2017-009[^14] that the
+The above definitions are essentially the similar. While it is true that the Commission often examines EU opinions, laws, and jurisprudence for analogous cases in interpreting the provisions of the DPA, as the latter was highly influenced by the 1995 EU Data Protection Directive, the predecessor of the GDPR, we reiterate the statement in NPC Advisory Opinion 2017-009[^14] that the
 Philippines is not a member of the European Union and therefore not bound by its policies (1995
 EU Directive and its successor, GDPR). Neither is the DPA nor its IRR meant to directly enforce
 the said EU regulations.
 
-Thus, for processing that is under the scope of the DPA, the requirements relating to consent as
-provided therein shall prevail. Should an employer be likewise subject to the GDPR, such
-employer shall adhere to both the DPA and the GDPR.
+Thus, for processing that is under the scope of the DPA, the requirements relating to consent as provided therein shall prevail. Should an employer be likewise subject to the GDPR, such employer shall adhere to both the DPA and the GDPR.
 
 #### Data subject’s rights; withdrawal of consent
 
@@ -180,11 +169,7 @@ conditions:
 
 Where consent is the proper basis for processing, and the same is withdrawn by the data subject,
 the same should not affect the lawfulness of the processing before the withdrawal of such consent.
-However, the same is not true in cases where the consent given does not meet the standards set by
-the DPA. In such cases, other lawful criteria must serve as basis for the processing of information
-because merely giving a data subject an opportunity to withdraw an irregularly-given consent will
-not cure such defect. Consent that is not freely given and specific will be tantamount to an implied
-consent which cannot be sanctioned by the Commission.
+However, the same is not true in cases where the consent given does not meet the standards set by the DPA. In such cases, other lawful criteria must serve as basis for the processing of information because merely giving a data subject an opportunity to withdraw an irregularly-given consent will not cure such defect. Consent that is not freely given and specific will be tantamount to an implied consent which cannot be sanctioned by the Commission.
 
 In all instances therefore, PICs are reminded to have policies and processes in place to document
 the consent obtained, its subsequent withdrawal, as well as the procedure on discontinuing the
@@ -209,10 +194,7 @@ We reiterate [[advisory-opinions/2018/advisory-opinion-no-2018-013-npc-advisory-
 
 Hence, using such words in a privacy notice is not advisable as the same should be used in a consent form instead.[^15]
 
-As mentioned above, PICs should be able to determine the most appropriate criteria for processing
-personal and sensitive personal information. PICs should not get consent if the same is not
-appropriate and necessary in relation to the purpose of processing, and especially in instances
-where the PIC is already aware that such processing will still continue despite the withdrawal of
+As mentioned above, PICs should be able to determine the most appropriate criteria for processing personal and sensitive personal information. PICs should not get consent if the same is not appropriate and necessary in relation to the purpose of processing, and especially in instances where the PIC is already aware that such processing will still continue despite the withdrawal of
 consent.
 
 This opinion is based on the information you have provided. Additional information may change

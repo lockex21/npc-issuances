@@ -34,28 +34,17 @@ We write in response to your inquiry which sought to clarify whether a joint vie
 
 ### Discussion
 
-In your letter, you stated that you are in the business of operating restaurants. Due to the
-traffic of customers coming in and going out of the establishment, the installation of a CCTV
-camera is indeed useful in monitoring and securing your daily operations. You also
-mentioned that a customer and her legal counsel sent a letter request seeking for a joint
-viewing and/or provision of a copy of the footages, to aid in pursing the individual/s liable
-for the loss of the customer’s cellular phone.
+In your letter, you stated that you are in the business of operating restaurants. Due to the traffic of customers coming in and going out of the establishment, the installation of a CCTV camera is indeed useful in monitoring and securing your daily operations. You also mentioned that a customer and her legal counsel sent a letter request seeking for a joint viewing and/or provision of a copy of the footages, to aid in pursing the individual/s liable for the loss of the customer’s cellular phone.
 
 A CCTV is a camera surveillance system that captures images of individuals or information relating to individuals.[^3] If the camera surveillance footage is of sufficient quality, a person with the necessary knowledge will be able to reasonably ascertain the identity of an individual from the footage.[^4] Thus, the footage and images are considered personal information and the provisions of the DPA will apply.
 
-Given that the entity is processing[^5] personal data, it is bound to comply with the duties and responsibilities of a personal information controller (PIC),[^6] including the adherence to the principles of transparency, legitimate purpose and proportionality.[^7] It should have informed and clearly notified the customers and the public in general, through a privacy notice or
-prominent signs at the entrance of the surveillance system’s zone, that the establishment is
-being monitored by a CCTV camera, how data is being collected and its definite purpose for
-installing such equipment, as well as the relevance of the footages to be obtained in achieving
-or fulfilling the specified purpose of surveillance.[^8]
+Given that the entity is processing[^5] personal data, it is bound to comply with the duties and responsibilities of a personal information controller (PIC),[^6] including the adherence to the principles of transparency, legitimate purpose and proportionality.[^7] It should have informed and clearly notified the customers and the public in general, through a privacy notice or prominent signs at the entrance of the surveillance system’s zone, that the establishment is being monitored by a CCTV camera, how data is being collected and its definite purpose for installing such equipment, as well as the relevance of the footages to be obtained in achieving or fulfilling the specified purpose of surveillance.[^8]
 
 Moreover, as a PIC, the entity is bound to implement reasonable and appropriate organizational, physical, and technical measures to protect the personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.[^9] It must issue a guidelines or policies on how footages can be viewed,
 or acquired, who are authorized to access, when data can be shared or transferred and the
 corresponding retention period.
 
-Given the crucial responsibility to secure personal information, the purpose and extent of
-disclosure requested by the customer and her counsel must be thoroughly evaluated based
-on the criteria for lawful processing of personal information in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], to wit:
+Given the crucial responsibility to secure personal information, the purpose and extent of disclosure requested by the customer and her counsel must be thoroughly evaluated based on the criteria for lawful processing of personal information in [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]], to wit:
 
    a. The data subject has given his or her consent;
      b. The processing of personal information is necessary and is related to the fulfillment of
@@ -75,9 +64,7 @@ on the criteria for lawful processing of personal information in [[laws/data-pri
         freedoms of the data subject which require protection under the Philippine
         Constitution.
 
-Based on the provision above, the viewing or disclosure of footages to the customer and her
-legal counsel, for identification of the person liable for the loss of personal property, can be
-considered as processing necessary for the legitimate interests of the third party or parties to
+Based on the provision above, the viewing or disclosure of footages to the customer and her legal counsel, for identification of the person liable for the loss of personal property, can be considered as processing necessary for the legitimate interests of the third party or parties to
 whom the data is disclosed.
 
 To determine if there is “legitimate interest” in processing personal information, PICs must consider the following:[^10]
@@ -93,9 +80,7 @@ In view of the foregoing, the viewing and/or disclosure of footages should be li
 3. If there are several CCTV cameras being operated, viewing only of the camera positioned at the precise location of the data subject during the incident;[^13] and
 4. Viewing only by the data subject, and other persons permitted by the data subject.[^14]
 
-This advisory opinion is based on the limited information provided in the questions, and may
-vary based on additional information or when the facts are changed or elaborated. Please be
-advised that the NPC may issue further guidelines on this matter.
+This advisory opinion is based on the limited information provided in the questions, and may vary based on additional information or when the facts are changed or elaborated. Please be advised that the NPC may issue further guidelines on this matter.
 
 For your reference.
 

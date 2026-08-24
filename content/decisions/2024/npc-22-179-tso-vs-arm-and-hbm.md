@@ -35,19 +35,19 @@ aliases:
 
 ## Decision Text
 
-TSO,
+**TSO,**
 
-Complainant,
+*Complainant,*
 
 -versus-
 
-ARM AND HBM,
+**ARM AND HBM,**
 
-Respondents.
+*Respondents.*
 
 x------------------------------------------------------x
 
-NAGA, P.C.;
+**NAGA, P.C.;**
 
 Before the Commission is a Complaint dated 15 August 2022 filed by TSO (Complainant) against ARM and HBM (Respondents) for an alleged violation of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 or Republic Act No. 10173 (DPA)]].[^1]
 
@@ -77,7 +77,7 @@ Complainant prays that:
 
 (b) an order be issued recommending the institution of criminal action for violation of DPA against the Respondents; and
 
-(c) an order be issued directing the Respondent to indemnify the Respondents[^sic] of moral damage and exemplary damages in the amount of Two Hundred Thousand Pesos (PHP 200,000.00).[^25]
+(c) an order be issued directing the Respondent to indemnify the Respondents [sic] of moral damage and exemplary damages in the amount of Two Hundred Thousand Pesos (PHP 200,000.00).[^25]
 
 On 05 September 2022, the Complaints and Investigation Division (CID) issued an order for the Respondents to file their verified comments and required them to appear virtually for preliminary conferences set on 16 December 2022 and 20 January 2023.[^26]
 
@@ -263,9 +263,9 @@ In the annexed Affidavit of Desistance (With Recantation of Sworn Statement) dat
 
 > I, TSO, of legal age, single, and a resident of XXX, after having duly sworn to in accordance with law hereby depose and state:
 >
-> 1. I have instituted a case (1) before the National Privacy Commission (NPC) docketed as *NPC Case No. 179-22* entitled *TSO V. ARM and HBM*, (2) an administrative case before the Department of Education Region IV-A Calabarzon docketed as *DepEd-4A-01C-PUS03-22-88* entitled *TSO V. ARM and HBM*;
+> 1. I have instituted a case (1) before the National Privacy Commission (NPC) docketed as **NPC Case No. 179-22** entitled **TSO V. ARM and HBM**, (2) an administrative case before the Department of Education Region IV-A Calabarzon docketed as *DepEd-4A-01C-PUS03-22-88* entitled *TSO V. ARM and HBM*;
 >
-> 2. After my extensive soul searching and consultation with my close family member with counsel, I have decided to withdraw the aforestated complaint and desist from further proceeding unto the said suit;
+> 2. After my extensive soul searching and consultation with my close family member with counsel, **I have decided to withdraw the aforestated complaint and desist from further proceeding unto the said suit;**
 >
 > 3. I likewise withdraw and recant the allegations unto my complaint affidavit, position paper and other pleading or documents made under oath in relation to the above-entitled cases;
 >
@@ -291,7 +291,7 @@ Meanwhile, in the annexed Compromise Agreement dated 12 April 2023[^89] executed
 
 By virtue of the Affidavit of Desistance filed by the Complainant, the Commission hereby dismisses the instant complaint against the Respondents.
 
-WHEREFORE, premises considered, the Commission resolves that the Complaint filed by TMSO against ARM and HBM is hereby **DISMISSED** for lack of merit.
+**WHEREFORE,** premises considered, the Commission resolves that the Complaint filed by TMSO against ARM and HBM is hereby **DISMISSED** for lack of merit.
 
 This is without prejudice to the filing of the appropriate civil, criminal, or administrative cases against the Respondents before any other forum or tribunal, if any.
 
@@ -300,37 +300,37 @@ This is without prejudice to the filing of the appropriate civil, criminal, or a
 City of Pasay, Philippines.
 01 August 2024.
 
-SGD
+**SGD**
 
-JOHN HENRY D. NAGA
+**JOHN HENRY D. NAGA**
 Privacy Commissioner
 
 WE CONCUR:
 
-SGD
+**SGD**
 
-LEANDRO ANGELO Y. AGUIRRE
+**LEANDRO ANGELO Y. AGUIRRE**
 Deputy Privacy Commissioner
 
-SGD
+**SGD**
 
-NERISSA N. DE JESUS
+**NERISSA N. DE JESUS**
 Deputy Privacy Commissioner
 
 Copy furnished:
 
-TSO
-Complainant
+**TSO**
+*Complainant*
 
-TTS
-Counsel for the Complainant
+**TTS**
+*Counsel for the Complainant*
 
-DBA
-Counsel for the Respondents
+**DBA**
+*Counsel for the Respondents*
 
-COMPLAINTS AND INVESTIGATION DIVISION
-ENFORCEMENT DIVISION
-GENERAL RECORDS UNIT
+**COMPLAINTS AND INVESTIGATION DIVISION**
+**ENFORCEMENT DIVISION**
+**GENERAL RECORDS UNIT**
 National Privacy Commission
 
 [^1]: Complaint dated 15 August 2022 of Complainant TSO.

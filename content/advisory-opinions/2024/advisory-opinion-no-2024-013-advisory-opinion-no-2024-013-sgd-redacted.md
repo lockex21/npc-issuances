@@ -37,19 +37,9 @@ Club (MYC) related to an ongoing Senate investigation violates the [[laws/data-p
 ### Discussion
 
 You state that the PCG sent a letter-request to MYC for the list of names of yachts that are
-MYC members as well as a list of other vessels that arrived and departed from the MYC in
-the month of July 2024. On the other hand, the BI also sent a letter requesting for a meeting to
-verify with your records the movement of yachts specifically those with declarations for
-international travel for the months of May, June, and July 2024. Both government agencies
-stated that the purpose of their request is for them to provide information in connection with
-an ongoing investigation of various Senate Committees on the alleged escape of a fugitive
-using a yacht. Besides the letter-request from the PCG and BI, there was neither a subpoena
-nor an official directive from any government entity that required the MYC to produce the
-information requested by the PCG and BI.
+MYC members as well as a list of other vessels that arrived and departed from the MYC in the month of July 2024. On the other hand, the BI also sent a letter requesting for a meeting to verify with your records the movement of yachts specifically those with declarations for international travel for the months of May, June, and July 2024. Both government agencies stated that the purpose of their request is for them to provide information in connection with an ongoing investigation of various Senate Committees on the alleged escape of a fugitive using a yacht. Besides the letter-request from the PCG and BI, there was neither a subpoena nor an official directive from any government entity that required the MYC to produce the information requested by the PCG and BI.
 
-You state that MYC is willing to cooperate and have started the process of obtaining the
-consent of its members. However, your concern in granting the requests is that the MYC may
-be constrained to disclose, among others, the following documents which contain personal
+You state that MYC is willing to cooperate and have started the process of obtaining the consent of its members. However, your concern in granting the requests is that the MYC may be constrained to disclose, among others, the following documents which contain personal
 data:
 
 1. The signed and executed membership forms of your members;
@@ -77,21 +67,12 @@ Considering that the issues you present are interrelated, we shall discuss them 
 
 #### *Personal information; processing by a public authority*
 
-The DPA defines personal information as any information from which the identity of an
-individual is apparent or can be reasonably and directly ascertained, or when put together
-with other information would directly and certainly identify an individual.[^3] Meanwhile,
-sensitive personal information (SPI) are those personal information specifically classified
-under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]] as sensitive. Both terms are jointly referred to as personal data.
+The DPA defines personal information as any information from which the identity of an individual is apparent or can be reasonably and directly ascertained, or when put together with other information would directly and certainly identify an individual.[^3] Meanwhile, sensitive personal information (SPI) are those personal information specifically classified under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]] as sensitive. Both terms are jointly referred to as personal data.
 
 Thus, whether the name of the vessel of an MYC member, or information on yacht movement,
 constitutes personal information would depend on the context of the disclosure.
 
-The name of a vessel or the movement of yachts for a particular period, by itself, may not be
-considered as personal information. Hence, there would be no data privacy concern to speak
-off in that instance. However, if the vessel’s name can be linked to an individual, or if the
-processing would result in the disclosure of other personal data that would lead to the
-identification of an individual, such disclosure can qualify as processing of personal data. In
-which case, the proper basis/bases under the DPA must be established.
+The name of a vessel or the movement of yachts for a particular period, by itself, may not be considered as personal information. Hence, there would be no data privacy concern to speak off in that instance. However, if the vessel’s name can be linked to an individual, or if the processing would result in the disclosure of other personal data that would lead to the identification of an individual, such disclosure can qualify as processing of personal data. In which case, the proper basis/bases under the DPA must be established.
 
 Besides the member’s individual consent, the disclosure of personal data of MYC members to
 law enforcement authorities (LEA) may be justified under the circumstances based on [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section
@@ -115,10 +96,7 @@ law enforcement authorities (LEA) may be justified under the circumstances based
 
 #### *Compliance with procedural rules; proportionality*
 
-It must be emphasized that the existence of lawful bases does not grant LEAs absolute and
-unrestricted right to access and process personal data. The LEAs must still comply with the
-principles of transparency, legitimate purpose, and proportionality. Moreover, they must
-comply with procedural rules prescribed by law to ensure that individual rights are respected
+It must be emphasized that the existence of lawful bases does not grant LEAs absolute and unrestricted right to access and process personal data. The LEAs must still comply with the principles of transparency, legitimate purpose, and proportionality. Moreover, they must comply with procedural rules prescribed by law to ensure that individual rights are respected
 and upheld.
 
 After all, the DPA is anchored on Section 3, Article III of the 1987 Constitution, which
@@ -127,17 +105,12 @@ provides:
 > 1. The privacy of communication and correspondence shall be inviolable except upon lawful order of the court, or when public safety or order requires otherwise, as prescribed by law.
 > 2. Any evidence obtained in violation of this or the preceding section shall be inadmissible for any purpose in any proceeding.
 
-The DPA reinforces the constitutional safeguard to the right to privacy in that, while LEAs
-such as the PCG and BI may obtain personal data from MYC, such processing must still
-comply with the applicable legal requirements to ensure that requests for information are
-legally justified, specific, proportional and carried out through the appropriate channels.
+The DPA reinforces the constitutional safeguard to the right to privacy in that, while LEAs such as the PCG and BI may obtain personal data from MYC, such processing must still comply with the applicable legal requirements to ensure that requests for information are legally justified, specific, proportional and carried out through the appropriate channels.
 
 We note that under Republic Act No. 9993, or the Philippine Coast Guard Law of 2009, the
 PCG’s primary mandate involves maritime safety, law enforcement, search and rescue,
 marine environmental protection, and national security within Philippine waters. Under
-Section 3 (l) of RA 9993, one of the mandates of the PCG is to assist in the enforcement of laws
-on fisheries, immigration, tariff and customs, forestry, firearms and explosives, human trafficking, dangerous drugs and controlled chemicals, transnational crimes and other
-applicable laws within the maritime jurisdiction of the Philippines.
+Section 3 (l) of RA 9993, one of the mandates of the PCG is to assist in the enforcement of laws on fisheries, immigration, tariff and customs, forestry, firearms and explosives, human trafficking, dangerous drugs and controlled chemicals, transnational crimes and other applicable laws within the maritime jurisdiction of the Philippines.
 
 On the other hand, under Commonwealth Act No. 613, or the Philippine Immigration Act of
 1940, the BI is principally responsible for the administration and enforcement of immigration,
@@ -147,28 +120,14 @@ documents relevant to cases involving deportation, exclusion, and other immigrat
 issues.
 
 From the foregoing, it appears that disclosing to the PCG and the BI the personal data of
-MYC members through a mere letter-request could potentially expose all the parties to
-liability not only for violation of the DPA but also of their respective mandates and internal
-processes. Nevertheless, both the PCG and BI may still pursue their investigation with MYC
-if the BI would issue a subpoena to be served and enforced jointly with the PCG. Alternatively,
-since it is only the BI that has the express power to subpoena, the PCG may separately conduct
-its investigation by requesting the Senate to issue a subpoena to the MYC.
+MYC members through a mere letter-request could potentially expose all the parties to liability not only for violation of the DPA but also of their respective mandates and internal processes. Nevertheless, both the PCG and BI may still pursue their investigation with MYC if the BI would issue a subpoena to be served and enforced jointly with the PCG. Alternatively, since it is only the BI that has the express power to subpoena, the PCG may separately conduct its investigation by requesting the Senate to issue a subpoena to the MYC.
 
-Requiring the presentation of a subpoena instead of a mere letter-request ensures that the LEAs
-comply with the principle of proportionality under the DPA and to avoid questions on the
-admissibility of the evidence they may obtain. Additionally, a subpoena also serves as a
-safeguard to the data privacy rights of the other members of the MYC who have no connection
+Requiring the presentation of a subpoena instead of a mere letter-request ensures that the LEAs comply with the principle of proportionality under the DPA and to avoid questions on the admissibility of the evidence they may obtain. Additionally, a subpoena also serves as a safeguard to the data privacy rights of the other members of the MYC who have no connection
 to the investigation.
 
-As we have stated in previous Advisory Opinions, the DPA is not meant to prevent LEAs
-from processing personal data when necessary to fulfill their mandates. Rather, the DPA
-serves to ensure that an individual’s right to informational privacy is respected while
-promoting the fair, secure, and lawful processing of personal data.
+As we have stated in previous Advisory Opinions, the DPA is not meant to prevent LEAs from processing personal data when necessary to fulfill their mandates. Rather, the DPA serves to ensure that an individual’s right to informational privacy is respected while promoting the fair, secure, and lawful processing of personal data.
 
-Please be advised that the foregoing was rendered based solely on the information you
-provided. Any extraneous fact that may be subsequently furnished us may affect our present
-position. Please note further that our Advisory Opinion is not intended to adjudicate the
-rights and obligations of the parties involved.
+Please be advised that the foregoing was rendered based solely on the information you provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 Please be guided accordingly.
 

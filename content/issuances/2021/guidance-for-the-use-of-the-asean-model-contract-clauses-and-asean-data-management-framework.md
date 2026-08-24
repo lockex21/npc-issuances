@@ -17,21 +17,21 @@ draft: false
 
 ## Issuance Text
 
-**Advisory No. 2021-02**
+**NPC Advisory No. 2021 - 02**
 
 **DATE:** 28 June 2021
 
-**SUBJECT:** Guidance for the Use of the ASEAN Model Contract Clauses and ASEAN Data Management Framework
+**SUBJECT:** **GUIDANCE FOR THE USE OF THE ASEAN MODEL CONTRACT CLAUSES AND ASEAN DATA MANAGEMENT FRAMEWORK**
 
-WHEREAS, [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the Data Privacy Act of 2012, provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth. The State also recognizes its inherent obligation to ensure that personal information in information and communications systems in the government and in the private sector are secured and protected;[^1]
+**WHEREAS,** [[laws/data-privacy-act-of-2012|Republic Act No. 10173]], also known as the Data Privacy Act of 2012, provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth. The State also recognizes its inherent obligation to ensure that personal information in information and communications systems in the government and in the private sector are secured and protected;[^1]
 
-WHEREAS, the National Privacy Commission has the mandate to ensure proper and effective coordination with data privacy regulators in other countries and private accountability agents, and participate in international and regional initiatives for data privacy protection, such as the Association of Southeast Nations (ASEAN);[^2]
+**WHEREAS,** the National Privacy Commission has the mandate to ensure proper and effective coordination with data privacy regulators in other countries and private accountability agents, and participate in international and regional initiatives for data privacy protection, such as the Association of Southeast Nations (ASEAN);[^2]
 
-WHEREAS, the ASEAN Digital Ministers (ADGMIN), with a view to enable harmonized standards for data management and cross border data flows within ASEAN and to enable responsible, data-driven innovation necessary to the development of the digital economy, approved the ASEAN Model Contractual Clauses and ASEAN Data Management Framework as part of the ASEAN Framework on Digital Data Governance;
+**WHEREAS,** the ASEAN Digital Ministers (ADGMIN), with a view to enable harmonized standards for data management and cross border data flows within ASEAN and to enable responsible, data-driven innovation necessary to the development of the digital economy, approved the ASEAN Model Contractual Clauses and ASEAN Data Management Framework as part of the ASEAN Framework on Digital Data Governance;
 
-WHEREAS, as an ASEAN Member State,[^3] the Philippines, through the National Privacy Commission, recognizes the value of these initiatives to data privacy protection and trustworthy cross-border data flows and thus, promotes the adoption and use in its domestic legal framework;
+**WHEREAS,** as an ASEAN Member State,[^3] the Philippines, through the National Privacy Commission, recognizes the value of these initiatives to data privacy protection and trustworthy cross-border data flows and thus, promotes the adoption and use in its domestic legal framework;
 
-WHEREFORE, in consideration of these premises, the National Privacy Commission hereby issues this advisory on the use of the ASEAN Model Contract Clauses and ASEAN Data Management Framework.
+**WHEREFORE,** in consideration of these premises, the National Privacy Commission hereby issues this advisory on the use of the ASEAN Model Contract Clauses and ASEAN Data Management Framework.
 
 **SECTION 1.** ***Scope.*** — This Advisory applies to all natural or juridical persons engaged in the processing of personal data, subject to the applicable provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]), its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations (IRR)]], and issuances by the National Privacy Commission (NPC).
 
@@ -77,12 +77,12 @@ WHEREFORE, in consideration of these premises, the National Privacy Commission h
 
    1. The ASEAN DMF has six (6) foundational components:
 
-   a) Governance and oversight
-         b) Policies and procedural documents
-         c) Data inventory
-         d) Impact / Risk assessment
-         e) Controls
-         f) Monitoring and continuous improvement
+      a) Governance and oversight
+      b) Policies and procedural documents
+      c) Data inventory
+      d) Impact / Risk assessment
+      e) Controls
+      f) Monitoring and continuous improvement
 
    2. These foundational components, consistent with globally recognized personal data protection and privacy management programs, aim to enable the organization to define, manage, and monitor its data management processes.
 

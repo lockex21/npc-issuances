@@ -30,19 +30,19 @@ draft: false
 
 ## Decision Text
 
-GSS,
+**GSS,**
 
-Complainant,
+*Complainant,*
 
 -versus-
 
-GLOBAL DOMINION FINANCING INC.,
+**GLOBAL DOMINION FINANCING INC.,**
 
-Respondent.
+*Respondent.*
 
 x----------------------------------------------------x
 
-AGUIRRE, D.P.C.;
+**AGUIRRE, *D.P.C.*;**
 
 Before this Commission is a complaint filed by GSS against Global Dominion Financing Inc. (GDFI) for an alleged violation of [[laws/data-privacy-act-of-2012#section-25-unauthorized-processing-of-personal-information-and-sensitive-personal-information|Section 25 (Unauthorized Processing)]] and [[laws/data-privacy-act-of-2012#section-28-processing-of-personal-information-and-sensitive-personal-information-for-unauthorized-purposes|Section 28 (Processing for Unauthorized Purposes)]] of [[laws/data-privacy-act-of-2012|Republic Act No. 10173 or the Data Privacy Act of 2012]] (DPA).
 
@@ -154,7 +154,7 @@ The Commission observes that although there may be fraud-related issues that fal
 
 As discussed, the complaint should not have been given due course not only because GSS failed to comply with the requirement of exhaustion of remedies but also because the complaint did not involve any privacy violation. Further, GSS failed to present anything aside from fear and speculation to substantiate the allegations in his complaint.
 
-WHEREFORE, premises considered, this Commission resolves that the instant Complaint filed by GSS against Global Dominion Financing Inc. (GDFI) is hereby **DISMISSED** for lack of merit.
+**WHEREFORE,** premises considered, this Commission resolves that the instant Complaint filed by GSS against Global Dominion Financing Inc. (GDFI) is hereby **DISMISSED** for lack of merit.
 
 This is without prejudice to the filing of appropriate civil, criminal, or administrative cases against GDFI before any other forum or tribunal, if any.
 
@@ -164,40 +164,46 @@ City of Pasay, Philippines.
 
 16 June 2022.
 
-LEANDRO ANGELO Y. AGUIRRE
+**Sgd**
+
+**LEANDRO ANGELO Y. AGUIRRE**
 Deputy Privacy Commissioner
 
 WE CONCUR:
 
-JOHN HENRY D. NAGA
+**Sgd.**
+
+**JOHN HENRY D. NAGA**
 Privacy Commissioner
 
-DUG CHRISTOPER B. MAH
+**Sgd.**
+
+**DUG CHRISTOPER B. MAH**
 Deputy Privacy Commissioner
 
 Copy furnished:
 
-GSS
+**GSS**
 
-Complainant
+*Complainant*
 
-GLOBAL DOMINION FINANCING INC.
+**GLOBAL DOMINION FINANCING INC.**
 
-Respondent
+*Respondent*
 
-RVL
+**RVL**
 
-Counsel for Complainant
+*Counsel for Complainant*
 
-MCS
+**MCS**
 
-Counsel for Respondent
+*Counsel for Respondent*
 
-COMPLAINTS AND INVESTIGATION DIVISION
+**COMPLAINTS AND INVESTIGATION DIVISION**
 
-ENFORCEMENT DIVISION
+**ENFORCEMENT DIVISION**
 
-GENERAL RECORDS UNIT
+**GENERAL RECORDS UNIT**
 
 National Privacy Commission
 
@@ -250,4 +256,14 @@ National Privacy Commission
 [^47]: *Id.*
 [^48]: *Id.*
 [^49]: *Id.*
-[^50]: *Id.*
+[^50]: NPC 2021 Rules of Procedure, rule II, § 2.
+[^51]: *Id.* rule IV, § 1 (3).
+[^52]: See An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and For Other Purposes [Data Privacy Act of 2012], Republic Act No. 10173 (2012).
+[^53]: *Complainant's Memorandum*, 22 October 2021, at 3, in *GSS v. Global Dominion Financing Inc.*, NPC 21-064 (NPC 2021).
+[^54]: *Samahan ng mga Progresibong Kabataan v. Quezon City*, G.R. No. 225442 (2017). Emphasis Supplied.
+[^55]: *Complainant's Memorandum*, Exhibit A-D, 22 October 2021, in *GSS v. Global Dominion Financing Inc.*, NPC 21-064 (NPC 2021).
+[^56]: *Id.* at 3.
+[^57]: NPC 2021 Rules of Procedure, rule IV, § 1 (4).
+[^58]: *Id.*
+[^59]: *Complainant's Memorandum*, 22 October 2021, at 5-6, in *GSS v. Global Dominion Financing Inc.*, NPC 21-064 (NPC 2021).
+[^60]: *Id.* Exhibit A-D.

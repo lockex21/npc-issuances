@@ -27,19 +27,14 @@ Re:        ACCESS TO FILES AND RECORDS OF ANTI-ILLEGAL
 Dear [Redacted],
 
 We write in response to your letter which sought the opinion of the National Privacy
-Commission (NPC) on whether the request for access by the Inter-Agency Review Panel, and
-the Department of Justice (DOJ) Panel of Prosecutors as stated in your letter, to files and
-records involving negation operations of the Philippine Drug Enforcement Agency (PDEA) is
-allowed under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
+Commission (NPC) on whether the request for access by the Inter-Agency Review Panel, and the Department of Justice (DOJ) Panel of Prosecutors as stated in your letter, to files and records involving negation operations of the Philippine Drug Enforcement Agency (PDEA) is allowed under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 ### Discussion
 
 #### DOJ; Inter-Agency Review Panel; public authority
 
 The DOJ derives its mandate primarily from the Executive Order No. 292.[^3] Under EO 292, the
-DOJ is the government's principal law agency, and serves as the government's prosecution
-arm and administers the government's criminal justice system by investigating crimes,
-prosecuting offenders, and overseeing the correctional system.[^4]
+DOJ is the government's principal law agency, and serves as the government's prosecution arm and administers the government's criminal justice system by investigating crimes, prosecuting offenders, and overseeing the correctional system.[^4]
 
 In particular, Section 90 of Republic Act No. 9165 as amended, otherwise known as the
 Comprehensive Dangerous Drugs Act of 2002[^5] (CDDA) provides that:
@@ -55,14 +50,10 @@ Section 90. Jurisdiction. – The Supreme Court shall designate special courts f
    The DOJ shall designate special prosecutors to exclusively handle cases involving
          violations of this Act. (underscoring supplied).
 
-From the above, the DOJ is a public authority mandated by the law to investigate the
-commission of crimes such as, among others, violations of the CDDA and to prosecute
-offenders through the National Bureau of Investigation and the National Prosecution
+From the above, the DOJ is a public authority mandated by the law to investigate the commission of crimes such as, among others, violations of the CDDA and to prosecute offenders through the National Bureau of Investigation and the National Prosecution
 Service, respectively.
 
-As to the Inter-Agency Review Panel (Panel), we understand that the same was “formed to
-evaluate the over 5,000 operations of law enforcers against illegal drugs which resulted in the death of
-suspects involved in the drug trade.”[^6]
+As to the Inter-Agency Review Panel (Panel), we understand that the same was “formed to evaluate the over 5,000 operations of law enforcers against illegal drugs which resulted in the death of suspects involved in the drug trade.”[^6]
 
 We understand further that the Panel is chaired by the Secretary of Justice, and composed of
 representatives from the Department of the Interior and Local Government (DILG),
@@ -110,22 +101,13 @@ which necessarily includes the processing of personal data for the fulfillment o
          establishment, exercise or defense of legal claims, or when provided to government or
          public authority.(underscoring supplied)
 
-We are mindful of the mandates of the DOJ and the Panel and the necessity of examining the
-pertinent files and records of the PDEA in order to “determine whether administrative and/or
-criminal complaints should be filed/re-filed against law enforcement agents arising from their
-operations and, if warranted, recommend changes in the protocols in law enforcement operations
+We are mindful of the mandates of the DOJ and the Panel and the necessity of examining the pertinent files and records of the PDEA in order to “determine whether administrative and/or criminal complaints should be filed/re-filed against law enforcement agents arising from their operations and, if warranted, recommend changes in the protocols in law enforcement operations
 against illegal drugs.”[^8]
 
-We reiterate that the DPA is not an obstacle to the collection and processing of personal data
-by the various government agencies as long as the same is necessary for the fulfillment of their
-respective mandates.[^9] This is with the concomitant responsibility of complying with the
-requirements of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and other issuances of the
+We reiterate that the DPA is not an obstacle to the collection and processing of personal data by the various government agencies as long as the same is necessary for the fulfillment of their respective mandates.[^9] This is with the concomitant responsibility of complying with the requirements of the DPA, its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]], and other issuances of the
 NPC.[^10]
 
-Finally, any personal data processing should always adhere to the general data privacy
-principles of transparency, legitimate purpose, and proportionality. Government agencies, as
-personal information controllers, must implement reasonable and appropriate safeguards to
-secure and protect personal data, considering the provisions of [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No.16-01]] on the
+Finally, any personal data processing should always adhere to the general data privacy principles of transparency, legitimate purpose, and proportionality. Government agencies, as personal information controllers, must implement reasonable and appropriate safeguards to secure and protect personal data, considering the provisions of [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No.16-01]] on the
 Security of Personal Data in Government Agencies.
 
 This opinion is rendered based on the limited information you have provided. Additional

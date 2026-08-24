@@ -41,10 +41,7 @@ airport and the Airport City (collectively, the Projects).
 
 We understand further that Section 15 of RA No. 11506 delegated to SMAI the power of
 eminent domain. Corollary to the said power, there are obligations imposed under RA No.
-10752 or the Right-of-Way Act[^3] which require access to copies of certain documents relating
-to the properties which may be acquired by SMAI through purchase, negotiation,
-expropriation, or condemnation proceedings. These documents are held by various
-government agencies and may contain personal and/or sensitive personal information
+10752 or the Right-of-Way Act[^3] which require access to copies of certain documents relating to the properties which may be acquired by SMAI through purchase, negotiation, expropriation, or condemnation proceedings. These documents are held by various government agencies and may contain personal and/or sensitive personal information
 (collectively, personal data).
 
 You now ask whether SMAI may be provided with these documents and process the personal
@@ -60,14 +57,7 @@ Thus, if the requested copies of titles, tax declarations, business permits, tax
 numbers, certifications, registrations, clearances, and other documents pertain to a juridical
 person, the DPA does not apply.
 
-As to those which pertain to natural persons, the processing of the same should have a lawful
-basis under the DPA. As mentioned in your letter, you posit that SMAI’s processing is
-anchored on Sections 5 (c) and (d) and [[laws/data-privacy-act-of-2012#section-22-responsibility-of-heads-of-agencies|Section 22 (b) of the DPA]]’s IRR, which refers to
-information necessary for research, for carrying out functions as a public authority, and
-processing that is provided for by existing laws and regulations, respectively. Moreover, as
-specified in your letter, the SMAI’s right and authority over the requested documents refer to
-the exercise of its right of eminent domain for a legitimate purpose as specified under its
-franchise as provided for by Congress, in order to undertake a national government
+As to those which pertain to natural persons, the processing of the same should have a lawful basis under the DPA. As mentioned in your letter, you posit that SMAI’s processing is anchored on Sections 5 (c) and (d) and [[laws/data-privacy-act-of-2012#section-22-responsibility-of-heads-of-agencies|Section 22 (b) of the DPA]]’s IRR, which refers to information necessary for research, for carrying out functions as a public authority, and processing that is provided for by existing laws and regulations, respectively. Moreover, as specified in your letter, the SMAI’s right and authority over the requested documents refer to the exercise of its right of eminent domain for a legitimate purpose as specified under its franchise as provided for by Congress, in order to undertake a national government
 infrastructure project.
 
 While we recognize SMAI’s personal data processing activities based on its legislative
@@ -154,16 +144,9 @@ the custody of local government units:
 > violations of the DPA. The provisions of applicable laws and regulations should be read
 > together and harmonized with the DPA. x x x.” (underscoring supplied)
 
-In a similar vein, there should be an evaluation if indeed the long list of documents that SMAI
-had identified are all relevant and necessary for its compliance with its various legal
-obligations, its establishment, exercise, or defense of legal claims, or as may be required under
-the RA No. 11506, taking into consideration that personal data shall be processed only if the
-purpose could not reasonably be fulfilled by other means.
+In a similar vein, there should be an evaluation if indeed the long list of documents that SMAI had identified are all relevant and necessary for its compliance with its various legal obligations, its establishment, exercise, or defense of legal claims, or as may be required under the RA No. 11506, taking into consideration that personal data shall be processed only if the purpose could not reasonably be fulfilled by other means.
 
-Considering, however, that the grant of the power to expropriate private lands for purposes
-of acquiring and developing the sites for the Projects necessarily results in the obligations
-imposed by the Right-of-Way Act on implementing agencies now extending to SMAI, it is
-now said statutorily obliged to undertake the following:
+Considering, however, that the grant of the power to expropriate private lands for purposes of acquiring and developing the sites for the Projects necessarily results in the obligations imposed by the Right-of-Way Act on implementing agencies now extending to SMAI, it is now said statutorily obliged to undertake the following:
 
    1.   Under Section 7 of the Right-of-Way Act, the determination of –
         a. The classification and use for which the property is suited;
@@ -192,9 +175,7 @@ now said statutorily obliged to undertake the following:
         e. The payment of taxes and assessments on the properties or on the estate if the owner or
            occupant is already deceased.
 
-From your letter, it was explained that the following documents are required to comply with
-the abovementioned statutory obligations and that these documents are the same ones
-required by agencies that customarily implement national infrastructure projects such the
+From your letter, it was explained that the following documents are required to comply with the abovementioned statutory obligations and that these documents are the same ones required by agencies that customarily implement national infrastructure projects such the
 Department of Public Works and Highways and the Department of Transportation:
 
    Government Agencies                                         Documents
@@ -248,26 +229,17 @@ and/or Department of Trade and Industry        •   Articles of Incorporation i
                                                •   By-laws including amendments
                                                •   General information Sheet
 
-Considering that all these documents being requested by SMAI are required to acquire land
-or expropriate the same under the Right-of-Way Act, and there is legitimate purpose for
-processing the same, it goes without saying that these documents are necessary and relevant
-in order for SMAI to be able to fulfill its mandate under the franchise provided by Congress.
+Considering that all these documents being requested by SMAI are required to acquire land or expropriate the same under the Right-of-Way Act, and there is legitimate purpose for processing the same, it goes without saying that these documents are necessary and relevant in order for SMAI to be able to fulfill its mandate under the franchise provided by Congress.
 The DPA cannot be used by other government agencies to avoid fulfilling its obligation to
 provide SMAI the documents requested.
 
-Finally, it is expected that SMAI shall ensure the implementation of organizational, physical,
-and technical security measures when it receives the requested documents and information
-and have mechanisms in place to enable the free exercise of data subject rights, where
-appropriate. We recommend that SMAI create its Privacy Manual or update the same
-accordingly, taking into consideration the above discussions.
+Finally, it is expected that SMAI shall ensure the implementation of organizational, physical, and technical security measures when it receives the requested documents and information and have mechanisms in place to enable the free exercise of data subject rights, where appropriate. We recommend that SMAI create its Privacy Manual or update the same accordingly, taking into consideration the above discussions.
 
 We are mindful of the importance of the Projects and the positive impact it will have. The
 DPA is not meant to hinder legitimate proceedings. Rather, the law promotes fair, secure, and
 lawful processing of personal data.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

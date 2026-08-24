@@ -674,13 +674,13 @@ in a newspaper of general circulation.
 
 Approved:
 
-                                 (Sgd.)
-                      RAYMUND ENRIQUEZ LIBORO
-                     Privacy Commissioner and Chairman
+(Sgd.)
+RAYMUND ENRIQUEZ LIBORO
+Privacy Commissioner and Chairman
 
-                (Sgd.)                                  (Sgd.)
-      JOHN HENRY DU NAGA                    LEANDRO ANGELO Y. AGUIRRE
-     Deputy Privacy Commissioner              Deputy Privacy Commissioner
+(Sgd.)                                  (Sgd.)
+JOHN HENRY DU NAGA                    LEANDRO ANGELO Y. AGUIRRE
+Deputy Privacy Commissioner              Deputy Privacy Commissioner
 
 [^1]: A.M. 01-7-01 (Re: Rules on Electronic Evidence).
 [^2]: *See ibid.*

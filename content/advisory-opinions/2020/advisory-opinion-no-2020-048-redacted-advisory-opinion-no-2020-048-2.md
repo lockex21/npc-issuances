@@ -30,9 +30,7 @@ We write in response to your letter request for advisory opinion in relation to 
 Pinewoods Golf & Country Estate Homeowners Association (the Association) for a master list
 of homeowners from the property manager, RS Property Management Corp.
 
-We understand that the Association is requesting for the said master list for its own record
-and proper housekeeping purposes, and that such request was denied by the property
-manager, claiming that disclosure of the same is violative of data privacy.
+We understand that the Association is requesting for the said master list for its own record and proper housekeeping purposes, and that such request was denied by the property manager, claiming that disclosure of the same is violative of data privacy.
 
 You now seek clarification on the application of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) in the given circumstance.
 
@@ -65,9 +63,7 @@ Specifically for proportionality, the processing of information must be adequate
 
 In addition, the Association, as a PIC, must also implement reasonable and appropriate organizational, technical, and physical security measures to protect personal data against any accidental or unlawful destruction, alteration, and disclosure, as well as against any other unlawful processing,[^10] as well as uphold the rights of data subjects,[^11] i.e. the individual homeowners.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

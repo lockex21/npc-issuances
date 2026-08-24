@@ -45,19 +45,13 @@ You now seek guidance from the Commission on the following queries:
 
 2. Is the record or proof of employment classified as public record pursuant to Executive Order No. 2, Series of 2016 or Operationalizing in the Executive Branch the People's Constitutional Right to Information and the State Policies of Full Public Disclosure and Transparency in the Public Service and Providing Guidelines Thereof (E.O. No. 2, s. 2016 on Freedom of Information in the Executive Branch).
 
-We further understand that the purpose for obtaining the record or proof of employment is
-for the company to properly pray in its next pleading for the NLRC 1st Division to provide a
-correct computation of monetary award and delete the period where the terminated
-employees are already employed with another employer, alleging it would be tantamount to
-double compensation and unjust enrichment enshrined in the New Civil Code.
+We further understand that the purpose for obtaining the record or proof of employment is for the company to properly pray in its next pleading for the NLRC 1st Division to provide a correct computation of monetary award and delete the period where the terminated employees are already employed with another employer, alleging it would be tantamount to double compensation and unjust enrichment enshrined in the New Civil Code.
 
 ### Discussion
 
 #### Lawful Processing; Protection of Lawful Rights and Interest in Court Proceedings
 
-Any record of employment or service record may contain personal information and sensitive
-personal information of the employee concerned. The disclosure of such records must have
-legal basis under the DPA and existing laws.
+Any record of employment or service record may contain personal information and sensitive personal information of the employee concerned. The disclosure of such records must have legal basis under the DPA and existing laws.
 
 In the present situation where there is a pending labor case with the NLRC, and the request
 for the employment records or certification is necessary for proper litigation of VeritasPay’s
@@ -83,15 +77,9 @@ viz:
    (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.[^3] (emphasis supplied)
 
 However, while it appears there exists justification for the disclosure of personal data, the
-DPA mandates that the principle of proportionality should still be adhered to. Proportionality
-requires that the processing of information shall be adequate, relevant, suitable, necessary,
-and not excessive in relation to a declared and specified purpose.[^4]
+DPA mandates that the principle of proportionality should still be adhered to. Proportionality requires that the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.[^4]
 
-Given the foregoing, while there may be lawful basis for obtaining the employment records,
-based on the purposes stated in your inquiry, it appears that only specific facts of employment
-are necessary for VeritasPay’s defense in the NLRC case, such as the fact of employment, name
-of employer and period of employment. These pieces of information may be given by the SSS
-through a certification. It need not provide a copy of the entire record of employment of the
+Given the foregoing, while there may be lawful basis for obtaining the employment records, based on the purposes stated in your inquiry, it appears that only specific facts of employment are necessary for VeritasPay’s defense in the NLRC case, such as the fact of employment, name of employer and period of employment. These pieces of information may be given by the SSS through a certification. It need not provide a copy of the entire record of employment of the
 concerned employees.
 
 #### Record or Proof of Employment; Processing of Public Record Under the Scope of the DPA
@@ -103,15 +91,10 @@ SSS, rules and regulations, as well as E.O. No. 2. However, even if such records
 as public records, the processing of the same is still within the scope of the DPA and its related
 issuances.
 
-Likewise, the Inventory of Exceptions to EO No. 2 (S. 2016)[^5] includes information deemed
-confidential for the protection of the privacy of persons as an exception to the general rule of
-disclosure in the right of access to information. The employment records contain personal
-data and the disclosure of the same must be in accordance with the DPA and other existing
+Likewise, the Inventory of Exceptions to EO No. 2 (S. 2016)[^5] includes information deemed confidential for the protection of the privacy of persons as an exception to the general rule of disclosure in the right of access to information. The employment records contain personal data and the disclosure of the same must be in accordance with the DPA and other existing
 laws and regulations.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

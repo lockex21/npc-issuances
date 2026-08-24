@@ -39,7 +39,7 @@ We understand that CIRAS is a web-based database of the PNP that stores the data
 
 We gather that some government agencies have requested the PNP to have direct access to the CIRAS but without stating the purpose thereof. Thus, you seek guidance on whether it is permissible to grant the request considering that it stores both personal information and sensitive personal information.
 
-#### Criminal records containing personal data
+#### *Criminal records containing personal data.*
 
 The [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) protects individual personal information in information and communications systems in the government and the private sector.[^2] Personal information refers to any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual. On the other hand, the DPA classifies the following as sensitive personal information, viz.:
 
@@ -75,12 +75,9 @@ To assist you in evaluating a request for access by a government agency, it is w
 >
 > (Emphasis Supplied)
 
-As such, there is a basis under the DPA for the PNP to allow other government agencies to
-access the CIRAS as discussed above. However, each request must still be evaluated taking
-into account the attendant circumstances of the request for access, the type of personal data
-sought, and the mandate of the government agency involved.
+As such, there is a basis under the DPA for the PNP to allow other government agencies to access the CIRAS as discussed above. However, each request must still be evaluated taking into account the attendant circumstances of the request for access, the type of personal data sought, and the mandate of the government agency involved.
 
-#### General data protection principles; proportionality
+#### *General data protection principles; proportionality.*
 
 Please note that even if there is a legal basis for processing, the DPA does not permit unbridled processing of personal data. Personal Information Controllers (PICs), as the PNP in this case, are still required to adhere to the general data privacy principles set forth under the law.
 
@@ -94,37 +91,26 @@ In [[advisory-opinions/2020/advisory-opinion-no-2020-036-redacted-advisory-opini
 >
 > Nevertheless, we wish to emphasize that access to copies of the requested land documents may only be allowed if NGCP has duly justified and substantiated its lawful interest over the subject properties and that denial of said request shall cause NGCP’s failure to comply with its legal obligations under its franchise with the Philippine government. Such determination and assessment should be duly documented. And in this scenario, the respective Registry of Deeds, the Assessors’ Offices and the city or municipal planning offices may provide the requested documents to NGCP, relying on such evaluation vis-à-vis the NGCP’s mandate.
 >
-> We further reiterate that compliance with legal obligations and with provisions of other existing laws and regulations, as well as processing of sensitive personal information for the establishment or exercise of legal claims may be validly done and are not necessarily violations of the DPA. The provisions of applicable laws and regulations should be read together and harmonized with the DPA.
+> We further reiterate that compliance with legal obligations and with provisions of other existing laws and regulations, as well as processing of sensitive personal information for the establishment or exercise of legal claims may be validly done **and are not necessarily violations of the DPA**. The provisions of applicable laws and regulations should be read together and harmonized with the DPA.
 >
 > (Emphasis Supplied)
 
 Thus, in keeping with the data privacy principles, particularly on proportionality, any request for access to the CIRAS database containing personal data should undergo evaluation and judicious assessment to determine what specific personal data should be disclosed, and if the request is proportional to the purpose sought by the requesting agency.
 
-#### Data Subject Rights; Safeguards; Penalties Under the DPA
+#### *Data Subject Rights; Safeguards; Penalties Under the DPA.*
 
-Under the DPA, PICs are required to implement organizational, physical, and technical
-security measures in their processing of personal data. It is imperative that guidelines must
-be crafted on the grant of access to other government agencies in your organization’s Privacy
-Manual or Manual of Operations. This is to ensure that data subjects’ personal data is kept
-secure and protected. Further, mechanisms should be put in place where data subjects may
-exercise their rights under the DPA, when appropriate and applicable.
+Under the DPA, PICs are required to implement organizational, physical, and technical security measures in their processing of personal data. It is imperative that guidelines must be crafted on the grant of access to other government agencies in your organization’s Privacy
+Manual or Manual of Operations. This is to ensure that data subjects’ personal data is kept secure and protected. Further, mechanisms should be put in place where data subjects may exercise their rights under the DPA, when appropriate and applicable.
 
-Finally, we emphasize that the DPA is not intended to hamper or interfere with the
-performance of duties and functions of duly constituted public authorities. The DPA does not
-prohibit government agencies from processing personal data pursuant to their respective
-mandates, taking into consideration the applicable provisions of law, rules and regulations,
-and the general data privacy principles enunciated in the DPA.
+Finally, we emphasize that the DPA is not intended to hamper or interfere with the performance of duties and functions of duly constituted public authorities. The DPA does not prohibit government agencies from processing personal data pursuant to their respective mandates, taking into consideration the applicable provisions of law, rules and regulations, and the general data privacy principles enunciated in the DPA.
 
-Please be advised that this Advisory Opinion was rendered based solely on the information
-you have provided. Any extraneous fact that may be subsequently furnished us may affect
-our present position. Please note further that our Advisory Opinion is not intended to
-adjudicate the rights and obligations of the parties involved.
+Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 Very truly yours,
 
 (Sgd.)
-FRANKLIN ANTHONY M. TABAQUIN, IV
-Director IV, Privacy Policy Office
+**FRANKLIN ANTHONY M. TABAQUIN, IV**
+*Director IV, Privacy Policy Office*
 
 [^1]: Lawful Processing; Contractual Obligation; Legitimate Interest; Accountability.
 [^2]: An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this Purpose a National Privacy Commission, and for Other Purposes [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]], Republic Act No. 10173 (2012).

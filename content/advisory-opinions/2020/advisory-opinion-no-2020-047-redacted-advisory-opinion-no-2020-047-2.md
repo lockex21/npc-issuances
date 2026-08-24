@@ -24,13 +24,7 @@ draft: false
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion seeking guidance on whether
-the Philippine Extractive Industry Transparency Initiative (PH-EITI) may publish personal
-data of beneficial owners of oil, gas, and mining companies, in line with an international
-campaign to counter or prevent the use of anonymous shell companies to hide or launder
-money and conceal potential conflicts of interest within the extractives sector, and how
-publication of this BO information can be done while complying with data privacy laws, such
-as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
+We write in response to your request for an advisory opinion seeking guidance on whether the Philippine Extractive Industry Transparency Initiative (PH-EITI) may publish personal data of beneficial owners of oil, gas, and mining companies, in line with an international campaign to counter or prevent the use of anonymous shell companies to hide or launder money and conceal potential conflicts of interest within the extractives sector, and how publication of this BO information can be done while complying with data privacy laws, such as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
 ### Discussion
 
@@ -46,17 +40,10 @@ waiver.
 
 #### BO Declaration; Personal Data; Lawful Processing; Legal Obligation; Law or Regulation; Publication
 
-Personal information may be processed pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the DPA]], which allows
-processing that is necessary for compliance with a legal obligation to which the personal
-information controller is subject. While the processing of sensitive personal information may
-find basis in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b) of the DPA]] which recognizes processing based on existing laws
+Personal information may be processed pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c) of the DPA]], which allows processing that is necessary for compliance with a legal obligation to which the personal information controller is subject. While the processing of sensitive personal information may find basis in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b) of the DPA]] which recognizes processing based on existing laws
 and regulations.
 
-In relation to the above, the Philippines, through Executive Order (E.O.) No. 79[^4] (2012),
-committed its support and participation to the Extractive Industries Transparency Initiative
-(EITI). The Department of Environment and Natural Resources (DENR) was mandated to
-ensure that mechanisms are established to operationalize the EITI in the mining sector, in
-consultation and coordination with the mining industry and other concerned stakeholders.[^5]
+In relation to the above, the Philippines, through Executive Order (E.O.) No. 79[^4] (2012), committed its support and participation to the Extractive Industries Transparency Initiative (EITI). The Department of Environment and Natural Resources (DENR) was mandated to ensure that mechanisms are established to operationalize the EITI in the mining sector, in consultation and coordination with the mining industry and other concerned stakeholders.[^5]
 
 Subsequently, the PH-EITI was created through Executive Order (E.O.) No. 147 (2012).[^6]
 Section 5 (a) of the said EO states that the PH-EITI Multi-Stakeholder Group (MSG) has the
@@ -72,40 +59,23 @@ were required to publicly disclose beneficial ownership information:
 > politically exposed persons. It is also recommended that the national identity number,
 > date of birth, residential or service address, and means of contact are disclosed.”[^8]
 
-The PH-EITI, as the implementing arm of the 2019 EITI standards here in the country,
-committed to require the public disclosure of beneficial ownership information from the
-extractive industries. As such, these regulations concerning the implementation of the EITI
-standards may constitute as lawful bases for processing BO information from the extractive
+The PH-EITI, as the implementing arm of the 2019 EITI standards here in the country, committed to require the public disclosure of beneficial ownership information from the extractive industries. As such, these regulations concerning the implementation of the EITI standards may constitute as lawful bases for processing BO information from the extractive
 industries.
 
 #### General Data Privacy Principles; Proportionality; Transparency; Privacy Notice
 
-It is worthy to note that the processing of personal and sensitive personal information
-(collectively, personal data), even if allowed under specific circumstances under the DPA,
-must still adhere to the general data privacy principles.[^9] Specifically for the principle of
-proportionality, this requires that the processing of personal data shall be adequate, relevant,
-suitable, necessary, and not excessive in relation to a declared and specified purpose and that
-personal data shall be processed only if the purpose of the processing could not reasonably
+It is worthy to note that the processing of personal and sensitive personal information (collectively, personal data), even if allowed under specific circumstances under the DPA, must still adhere to the general data privacy principles.[^9] Specifically for the principle of proportionality, this requires that the processing of personal data shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose and that personal data shall be processed only if the purpose of the processing could not reasonably
 be fulfilled by other means.
 
-We note that the purpose of publication is to ensure transparency and accountability in the
-extractive industries, and possibly deter illegal activities, such corruption, money laundering,
-tax evasion, etc. We thus advise that the publication should contain only the information
+We note that the purpose of publication is to ensure transparency and accountability in the extractive industries, and possibly deter illegal activities, such corruption, money laundering, tax evasion, etc. We thus advise that the publication should contain only the information
 necessary to achieve this purpose.
 
-We note that required minimum information includes the name, nationality, and country of
-residence. With this, there is a need to carefully assess if the publication of sensitive personal
-information, such as the TIN and date of birth, which is a variation of age, is necessary and
+We note that required minimum information includes the name, nationality, and country of residence. With this, there is a need to carefully assess if the publication of sensitive personal information, such as the TIN and date of birth, which is a variation of age, is necessary and
 proportional to the purpose.
 
-Finally, the beneficial owners should be adequately informed that their personal data will be
-made publicly available pursuant to these laws, regulations, and international standards and
-commitments, in keeping with the principle of transparency and upholding their right to be
-informed. This may be done through a privacy notice.
+Finally, the beneficial owners should be adequately informed that their personal data will be made publicly available pursuant to these laws, regulations, and international standards and commitments, in keeping with the principle of transparency and upholding their right to be informed. This may be done through a privacy notice.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

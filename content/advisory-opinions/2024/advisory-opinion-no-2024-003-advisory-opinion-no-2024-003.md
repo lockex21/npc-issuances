@@ -68,13 +68,7 @@ basis must be established for processing of personal data under either [[laws/da
 DPA.
 
 In the scenario you provided, your company may rely on either Section 12 (b) or 12 (f) of the
-DPA. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (b) of the DPA]] allows processing for the fulfillment of a contract with the
-data subject. You may utilize this basis as long as the employment contract provides specific
-provisions allowing the installation of equipment/software for furtherance of employment,
-including enhancement of productivity of telecommuting employees to ensure that they
-adapt with flexible working arrangements, for the protection of the interest of the clients or
-customers, or the enforcement of company policies. In which case, the installation of
-monitoring software is justified as a necessary consequence of the employer-employee
+DPA. [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (b) of the DPA]] allows processing for the fulfillment of a contract with the data subject. You may utilize this basis as long as the employment contract provides specific provisions allowing the installation of equipment/software for furtherance of employment, including enhancement of productivity of telecommuting employees to ensure that they adapt with flexible working arrangements, for the protection of the interest of the clients or customers, or the enforcement of company policies. In which case, the installation of monitoring software is justified as a necessary consequence of the employer-employee
 relationship.
 
 On the other hand, Section 12 (f) of the DPA allows processing if it is necessary for the purposes of the legitimate interests pursued by the PIC. We acknowledge that employers have legitimate business interests, such as management of workplace productivity, service quality control or enforcement of company policies, employee safety, protection of business assets, intellectual property or other propriety rights, prevention of vicarious liability where the company assumes legal responsibility for the actions and behavior of employees, compliance with statutory or regulatory obligations that provide, or give reasonable cause, for the preventive monitoring of employees,[^8] amongst others. However, they must ensure that the processing activity should be directly related to the legitimate interest being pursued.

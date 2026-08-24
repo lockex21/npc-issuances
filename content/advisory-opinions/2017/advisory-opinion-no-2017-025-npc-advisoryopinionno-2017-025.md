@@ -50,16 +50,9 @@ Under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA), an i
 >
 > (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 
-The fact that a company shoulders the premium for Health Maintenance Organization (HMO)
-coverage is not one of the conditions contemplated by the law that would justify access of
-employer to the health information of their employees. In order for the company to have
-access, it may obtain the consent of the data subject/patient/employee for such purpose.
+The fact that a company shoulders the premium for Health Maintenance Organization (HMO) coverage is not one of the conditions contemplated by the law that would justify access of employer to the health information of their employees. In order for the company to have access, it may obtain the consent of the data subject/patient/employee for such purpose.
 
-For purpose of ensuring that an employee does not have a contagious disease or any other
-illness that could put at risk other employees, the company may implement alternatives to
-requesting information directly from HMOs. For instance, the company may require that an
-employee provides a medical certificate showing that he or she is “fit to work” before allowing
-the said employee to return to work.
+For purpose of ensuring that an employee does not have a contagious disease or any other illness that could put at risk other employees, the company may implement alternatives to requesting information directly from HMOs. For instance, the company may require that an employee provides a medical certificate showing that he or she is “fit to work” before allowing the said employee to return to work.
 
 These conditions in the preceding paragraphs apply only to the medical record of the employee but it does not extend to information that is not considered sensitive personal information, such as:
 
@@ -78,19 +71,9 @@ HMO should also be limited to that which is necessary for the purpose of the req
 Adequate safeguards to assure confidentiality of such information should also be
 implemented.
 
-It should be clear that nothing prohibits the company or the employer from asking the
-employee directly for a medical certificate when necessary for purpose of processing sick
-leaves, or to avail of benefits and programs, and other legitimate purposes. The company
-may also secure a valid consent from each employee to access their health information. The
-company cannot, however, compel an HMO to disclose medical information without
-authorization from the data subject, or without other legal basis for processing.
+It should be clear that nothing prohibits the company or the employer from asking the employee directly for a medical certificate when necessary for purpose of processing sick leaves, or to avail of benefits and programs, and other legitimate purposes. The company may also secure a valid consent from each employee to access their health information. The company cannot, however, compel an HMO to disclose medical information without authorization from the data subject, or without other legal basis for processing.
 
-HMOs, provider of healthcare services needed by their members, have the duty of strict
-confidentiality over the sensitive personal information/privileged information that they
-process. They scope of the Data Privacy Act covers HMOs. They are obliged under the law
-to adhere to data privacy principles, and implement reasonable and appropriate measures to
-protect sensitive personal information of their members. The company is likewise covered by
-the Data Privacy Act and will have the same obligations under the law.
+HMOs, provider of healthcare services needed by their members, have the duty of strict confidentiality over the sensitive personal information/privileged information that they process. They scope of the Data Privacy Act covers HMOs. They are obliged under the law to adhere to data privacy principles, and implement reasonable and appropriate measures to protect sensitive personal information of their members. The company is likewise covered by the Data Privacy Act and will have the same obligations under the law.
 
 This advisory opinion is based on the limited information provided in the questions, and may vary based on additional information or when the facts are changed or elaborated.
 

@@ -34,16 +34,10 @@ internal practice of disclosing COVID-19 test results in your office’s group c
 
 ### Discussion
 
-We understand that the Davao Center for Health Development (DCHD) wishes to enhance
-its contact tracing of COVID-19 positive cases within its office. The intended purpose is to
-improve infection control and minimize the spread of positive cases to ensure unhampered
+We understand that the Davao Center for Health Development (DCHD) wishes to enhance its contact tracing of COVID-19 positive cases within its office. The intended purpose is to improve infection control and minimize the spread of positive cases to ensure unhampered
 operations.
 
-You further inform that in a survey conducted among DCHD’s employees, a majority voted
-to have the complete list of COVID-19 positive employees posted in the group chat composed
-of 250 members, while a minority opposed the measure. The purpose of posting in the group
-chat is to let everyone be aware if they are possible close contacts and, thus, enable them to
-take the necessary precautions to avoid infection.
+You further inform that in a survey conducted among DCHD’s employees, a majority voted to have the complete list of COVID-19 positive employees posted in the group chat composed of 250 members, while a minority opposed the measure. The purpose of posting in the group chat is to let everyone be aware if they are possible close contacts and, thus, enable them to take the necessary precautions to avoid infection.
 
 Thus, you seek guidance on the following:
 
@@ -58,19 +52,8 @@ Lawful criteria for processing of COVID-19 test
 results, provided by law and regulation; limitations
 on disclosure
 
-Under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA),[^2] the processing of personal data shall only be
-allowed under certain conditions provided in Sections 12 and 13 depending on whether the
-information involved is classified as personal information or sensitive personal information.
-In addition, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 (b) of the Implementing Rules and Regulations]] (IRR) of the DPA
-also requires that the processing of personal data shall be allowed subject to adherence to the
-principles of transparency, legitimate purpose, and proportionality. Transparency requires
-that the data subjects are informed of the details of the processing of their personal data, such
-as the nature, purpose and extent of processing as well as their rights as data subjects. The
-principle of legitimate purpose, on the other hand, states that the processing of personal
-information shall be compatible with a declared and specified purpose which must not be
-contrary to law, morals, or public policy. Finally, proportionality calls for the processing of
-personal information shall be adequate, relevant, suitable, necessary, and not excessive in
-relation to a declared and specified purpose.
+Under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA),[^2] the processing of personal data shall only be allowed under certain conditions provided in Sections 12 and 13 depending on whether the information involved is classified as personal information or sensitive personal information.
+In addition, the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-18-principles-of-transparency-legitimate-purpose-and-proportionality|Section 18 (b) of the Implementing Rules and Regulations]] (IRR) of the DPA also requires that the processing of personal data shall be allowed subject to adherence to the principles of transparency, legitimate purpose, and proportionality. Transparency requires that the data subjects are informed of the details of the processing of their personal data, such as the nature, purpose and extent of processing as well as their rights as data subjects. The principle of legitimate purpose, on the other hand, states that the processing of personal information shall be compatible with a declared and specified purpose which must not be contrary to law, morals, or public policy. Finally, proportionality calls for the processing of personal information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.
 
 In the case of COVID-19 contact tracing, we stated in [[advisory-opinions/2020/advisory-opinion-no-2020-022-public-disclosure-of-identities-of-covid-patients-for-contact-tracing|NPC Advisory Opinion No. 2020-022]][^3] that
 the processing of any personal data, including the test results, is based on law and regulation,
@@ -111,54 +94,28 @@ prohibited.
       Surveillance and Response, which contains a similar provision under Section VI (D) (2) thereof
       on the Specific Guidelines on Use and Disclosure of Health Information.
 
-We also stated in [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|NPC Circular No. 2021-02]] that the disclosure of personal data in cases of
-contact tracing “shall be limited to public health authorities, such as the DOH and its
-authorized partner agencies, LGUs, or other lawfully authorized entities, officers, or
-personnel, and must only be for the purpose of responding to the public health emergency.”[^4]
+We also stated in [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|NPC Circular No. 2021-02]] that the disclosure of personal data in cases of contact tracing “shall be limited to public health authorities, such as the DOH and its authorized partner agencies, LGUs, or other lawfully authorized entities, officers, or personnel, and must only be for the purpose of responding to the public health emergency.”[^4]
 
-Thus, we do not suggest posting in a group chat the names of employees who are COVID-19
-positive. Through Department Memorandum No. 2020-0189, the Department of Health
-(DOH) already laid down the procedure which a Personal Information Controller (PIC), such
-as your office, must observe in relation to contact tracing.[^5] As such, we recommend that the
-guidelines be strictly observed since it provides the lawful basis which justifies the processing
-of personal data of employees under the circumstances.
+Thus, we do not suggest posting in a group chat the names of employees who are COVID-19 positive. Through Department Memorandum No. 2020-0189, the Department of Health (DOH) already laid down the procedure which a Personal Information Controller (PIC), such as your office, must observe in relation to contact tracing.[^5] As such, we recommend that the guidelines be strictly observed since it provides the lawful basis which justifies the processing of personal data of employees under the circumstances.
 
 Consent not the appropriate basis for disclosure of
 COVID-19 swab test results
 
-Under the [[laws/data-privacy-act-of-2012|DPA]], consent of the data subject that is freely given, specific, and informed, is
-recognized as one of the lawful criteria for processing.[^6] In the present case, however, the
-parties do not stand on equal footing. In the field of data protection and privacy, it has been
-recognized that there is a clear imbalance of power between the employer and the employee
-because by the very nature of the relationship, employees may not have genuine free choice
-and may not subsequently be able to withdraw their consent without adverse consequences.[^7]
+Under the [[laws/data-privacy-act-of-2012|DPA]], consent of the data subject that is freely given, specific, and informed, is recognized as one of the lawful criteria for processing.[^6] In the present case, however, the parties do not stand on equal footing. In the field of data protection and privacy, it has been recognized that there is a clear imbalance of power between the employer and the employee because by the very nature of the relationship, employees may not have genuine free choice and may not subsequently be able to withdraw their consent without adverse consequences.[^7]
 As such, consent is not the most appropriate basis for processing since it can be tricky to
 ascertain if the employees concerned freely gave their consent.
 
 Instead, the appropriate lawful basis for processing relative to contact tracing purposes is
 provided and limited by law and regulation, that is, DOH Department Memorandum No.
-2020-0189. Given this, it would be inconsistent with the basis for processing to ask employees
-to consent to such additional processing since it already goes beyond the prescribed
-procedure under the regulation. Mere participation in the survey in the group chat cannot be
-recognized as a positive indication of valid consent since the elements of consent under the
-DPA are not present. Moreover, asking the employees’ consent for processing in addition to
-what is provided by the law and regulation would be unjust and improper as the data subject
-may not be able to distinguish the basis for which their personal data is being processed. In
+2020-0189. Given this, it would be inconsistent with the basis for processing to ask employees to consent to such additional processing since it already goes beyond the prescribed procedure under the regulation. Mere participation in the survey in the group chat cannot be recognized as a positive indication of valid consent since the elements of consent under the
+DPA are not present. Moreover, asking the employees’ consent for processing in addition to what is provided by the law and regulation would be unjust and improper as the data subject may not be able to distinguish the basis for which their personal data is being processed. In
 
 present situation, the employees may feel the need to give their consent for all things related
 to contact tracing.
 
-Proper procedures already exist to address the demands of the COVID-19 public health
-emergency while ensuring the protection of the individual’s data privacy. As the PIC and
-employer, DCHD should adhere with the requirements of the law as well as implement
-strategies that are least intrusive to the rights and freedoms of its employees. Even though the
-proposed disclosure in the group chat is made with good intentions, this strategy may run
-afoul with the employee’s data privacy.
+Proper procedures already exist to address the demands of the COVID-19 public health emergency while ensuring the protection of the individual’s data privacy. As the PIC and employer, DCHD should adhere with the requirements of the law as well as implement strategies that are least intrusive to the rights and freedoms of its employees. Even though the proposed disclosure in the group chat is made with good intentions, this strategy may run afoul with the employee’s data privacy.
 
-Please be advised that this Advisory Opinion was rendered based solely on the information
-you have provided. Any extraneous fact that may be subsequently furnished us may affect
-our present position. Please note further that our Advisory Opinion is not intended to
-adjudicate the rights and obligations of the parties involved.
+Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 Please be guided accordingly.
 

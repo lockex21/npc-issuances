@@ -63,17 +63,9 @@ In order for the lawful basis of legitimate interest to apply, the conditions un
 enumeration must be satisfied. Hence, the legitimate interest of the wife must be clearly
 established.
 
-First, it must be established that the processing of personal information shall be done for the
-sole purpose of pursuing the legitimate interest of the requesting party, which is to help her
-to locate her husband who has been missing since 2015.
+First, it must be established that the processing of personal information shall be done for the sole purpose of pursuing the legitimate interest of the requesting party, which is to help her to locate her husband who has been missing since 2015.
 
-Second, only personal information which is necessary and proportionate to grant the request
-may be processed pursuant to the identified legitimate interest of the third party to whom the
-personal information will be disclosed. Hence, the disclosure should only be limited to the
-personal information specifically requested by the wife. If the husband’s account is active,
-then the name and address of his current employer may be provided to the wife. However, if
-the husband’s account has become inactive, then information on the last entry made by his
-last known employer, and its business address may be provided to the wife in this case.
+Second, only personal information which is necessary and proportionate to grant the request may be processed pursuant to the identified legitimate interest of the third party to whom the personal information will be disclosed. Hence, the disclosure should only be limited to the personal information specifically requested by the wife. If the husband’s account is active, then the name and address of his current employer may be provided to the wife. However, if the husband’s account has become inactive, then information on the last entry made by his last known employer, and its business address may be provided to the wife in this case.
 
 Third, it is also necessary to establish that the processing of personal information pursuant to the PIC’s or third party’s legitimate interest will not adversely affect the rights and freedoms of data subjects. In the determination of the balancing of rights and interests, it is important to recognize whether the data subject had reasonable expectation at the time and in the context of the collection of personal information that processing of this kind may occur (*i.e.*, the disclosure of personal information to the requesting party/spouse of a member who is reportedly missing).[^9]
 
@@ -85,18 +77,9 @@ It is also worth noting that although this may not be one of the situations cont
 
 While the disclosure of personal information is supported by a lawful basis, Philhealth (as a PIC) still has the obligation to comply with the other requirements of the DPA. Personal information must be processed lawfully and fairly and with strict adherence to the basic data privacy principles of transparency, proportionality, and legitimate purpose.
 
-Of particular significance in the current scenario, is the principle of proportionality. To
-reiterate, Philhealth must only disclose such personal information that is adequate and
-necessary for the third party’s declared purpose.
+Of particular significance in the current scenario, is the principle of proportionality. To reiterate, Philhealth must only disclose such personal information that is adequate and necessary for the third party’s declared purpose.
 
-In addition, PICs must also ensure the protection of the disclosed personal information and
-uphold the rights of data subjects through the implementation of reasonable and appropriate
-physical, organizational and technical security measures. For instance, Philhealth may create
-policies in dealing with requests of this nature and require the submission of documents
-necessary to prove one’s relationship with a certain member. Philhealth may also require the
-requesting party to sign an undertaking stating that the personal information requested shall
-only be used for a specific purpose. Philhealth should also consider how the processing or
-disclosure will be done (e.g., electronically or through a hard copy personally given to the
+In addition, PICs must also ensure the protection of the disclosed personal information and uphold the rights of data subjects through the implementation of reasonable and appropriate physical, organizational and technical security measures. For instance, Philhealth may create policies in dealing with requests of this nature and require the submission of documents necessary to prove one’s relationship with a certain member. Philhealth may also require the requesting party to sign an undertaking stating that the personal information requested shall only be used for a specific purpose. Philhealth should also consider how the processing or disclosure will be done (e.g., electronically or through a hard copy personally given to the
 requesting party).
 
 Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.

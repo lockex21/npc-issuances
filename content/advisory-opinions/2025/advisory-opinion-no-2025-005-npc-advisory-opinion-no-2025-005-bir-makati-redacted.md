@@ -34,9 +34,7 @@ We respond to your request for an Advisory Opinion concerning the authority of t
 ### Discussion
 
 As stated in your letter, the BIR Revenue District Officer of Revenue District Office No. 47-
-East Makati (BIR) sent a letter dated 11 July 2023 to the Business Permits & Licensing Office
-(BPLO) of the City Government of Makati involving an access to records request. Particularly,
-the request pertained to the list of registered corporate and individual taxpayers in Barangay
+East Makati (BIR) sent a letter dated 11 July 2023 to the Business Permits & Licensing Office (BPLO) of the City Government of Makati involving an access to records request. Particularly, the request pertained to the list of registered corporate and individual taxpayers in Barangay
 San Lorenzo, Makati City, including their corresponding gross receipts for the calendar year
 ending 31 December 2022.
 
@@ -92,10 +90,7 @@ In [[advisory-opinions/2024/advisory-opinion-no-2024-016-npc-advisory-opinion-no
 
    2.   Only the specified information is exempt from the DPA's provisions. The public authority remains obligated as a personal information controller (PIC) under the DPA to implement security measures for personal data protection, respect data subject rights, and follow data privacy principles.
 
-The BIR, as the primary agency tasked with the enforcement of national internal revenue laws,
-derives its authority from the NIRC. In furtherance of this mandate, the BIR is vested with the
-power to obtain information necessary to ensure taxpayer compliance and proper tax
-administration. Specifically, Section 5(B) of the NIRC provides:
+The BIR, as the primary agency tasked with the enforcement of national internal revenue laws, derives its authority from the NIRC. In furtherance of this mandate, the BIR is vested with the power to obtain information necessary to ensure taxpayer compliance and proper tax administration. Specifically, Section 5(B) of the NIRC provides:
 
    Section 5. Power of the Commissioner to Obtain Information, and to Summon, Examine,
         and Take Testimony of Persons. – In ascertaining the correctness of any return, or in
@@ -154,15 +149,9 @@ Additionally, Section 6(C) of the NIRC further empowers the BIR to:
 
    xxx
 
-These provisions, read together, affirm the BIR’s authority to compel access to information
-that are necessary to determine the tax liabilities of taxpayers. It must be emphasized that this
-power is not limited to direct investigation of taxpayers but extends to other entities, including
-local government offices such as the BPLO, which may be in possession of the requested data.
+These provisions, read together, affirm the BIR’s authority to compel access to information that are necessary to determine the tax liabilities of taxpayers. It must be emphasized that this power is not limited to direct investigation of taxpayers but extends to other entities, including local government offices such as the BPLO, which may be in possession of the requested data.
 
-Given that this request falls within the scope of BIR’s statutory mandate and that the
-information being sought is in fulfillment of that mandate, such processing of personal data
-in this context is deemed lawful under the DPA. In this regard, [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]], in
-relation to Section 5 of its IRR provides for a valid basis for such processing. As such, the
+Given that this request falls within the scope of BIR’s statutory mandate and that the information being sought is in fulfillment of that mandate, such processing of personal data in this context is deemed lawful under the DPA. In this regard, [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the DPA]], in relation to Section 5 of its IRR provides for a valid basis for such processing. As such, the
 BPLO cannot resort to invoking the absence of consent to refuse disclosure of the requested
 information as consent is not the only lawful criterion for processing personal data under the
 DPA.
@@ -172,14 +161,9 @@ Data Sharing Agreements (DSA)
 The BPLO also invoked the absence of a DSA with the BIR as a ground for its refusal to disclose
 the requested personal data.
 
-Under [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]],[^6] data sharing is defined as the sharing, disclosure, or transfer
-to a third party of personal data under the custody of a personal information controller to one
-or more other personal information controller/s.
+Under [[issuances/2020/data-sharing-agreements|NPC Circular No. 2020-03]],[^6] data sharing is defined as the sharing, disclosure, or transfer to a third party of personal data under the custody of a personal information controller to one or more other personal information controller/s.
 
-A Data Sharing Agreement refers to a contract, joint issuance, or any similar document which
-sets out the obligations, responsibilities, and liabilities of the personal information controllers
-involved in the transfer of personal data between or among them, including the
-implementation of adequate safeguards for data privacy and security, and upholding the
+A Data Sharing Agreement refers to a contract, joint issuance, or any similar document which sets out the obligations, responsibilities, and liabilities of the personal information controllers involved in the transfer of personal data between or among them, including the implementation of adequate safeguards for data privacy and security, and upholding the
 rights of the data subjects.
 
 In [[advisory-opinions/2021/advisory-opinion-no-2021-043-data-sharing-with-the-philippine-national-police|Advisory Opinion No. 2021-043]],[^7] the NPC clarified that the execution of a DSA is not
@@ -198,9 +182,7 @@ regulations.
 Procedural Requirements;
 Application of Sec. 4(e) of the DPA
 
-While the BIR may have the statutory mandate, it is incumbent upon the agency to comply
-with its own procedures, as well as the internal procedures of where the data will be sourced
-from, which in this case, refers to the BPLO.
+While the BIR may have the statutory mandate, it is incumbent upon the agency to comply with its own procedures, as well as the internal procedures of where the data will be sourced from, which in this case, refers to the BPLO.
 
 In [[advisory-opinions/2023/advisory-opinion-no-2023-015-advisory-opinion-no-2023-015|NPC Advisory Opinion 2023-015]],[^8] we discussed that for [[laws/data-privacy-act-of-2012#section-4-scope|Section 4(e) of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-5-special-cases|Section 5(d) of the Implementing Rules and Regulations]] of the DPA to apply, the following should be
 considered:
@@ -229,12 +211,7 @@ considered:
       provided that a formal subpoena has been issued to ensure that the request is authorized, proper,
       and lawful under existing rules and regulations.
 
-Accordingly, while the BIR’s request for data from the BPLO falls within the scope of its lawful
-mandate under the NIRC, this exemption under the DPA and its IRR does not relieve the BIR
-from complying with applicable procedural requirements, including their internal rules and
-those of the BPLO. Processing based on statutory mandate does not dispense with the
-requirements of the DPA. Consequently, non-compliance thereto may deem the processing
-unlawful notwithstanding the invocation of a government mandate.
+Accordingly, while the BIR’s request for data from the BPLO falls within the scope of its lawful mandate under the NIRC, this exemption under the DPA and its IRR does not relieve the BIR from complying with applicable procedural requirements, including their internal rules and those of the BPLO. Processing based on statutory mandate does not dispense with the requirements of the DPA. Consequently, non-compliance thereto may deem the processing unlawful notwithstanding the invocation of a government mandate.
 
 General Data Privacy Principles;
 Proportionality
@@ -267,16 +244,9 @@ proportionality.
    The personal information controller must ensure implementation of personal
         information processing principles set out herein.
 
-Given the denial by the BPLO of your request, we recommend that the BIR formally reiterate
-its request for access to relevant data. The request should include a specific list of data needed,
-state the legal bases for the request and its compliance with procedural requirements, and
-affirm that all data will be processed solely for the stated purpose, in compliance with the
-proportionality principle under the DPA.
+Given the denial by the BPLO of your request, we recommend that the BIR formally reiterate its request for access to relevant data. The request should include a specific list of data needed, state the legal bases for the request and its compliance with procedural requirements, and affirm that all data will be processed solely for the stated purpose, in compliance with the proportionality principle under the DPA.
 
-Please be advised that this Advisory Opinion was rendered based solely on the information
-you have provided. Any extraneous fact that may be subsequently furnished us may affect
-our present position. Please note further that our Advisory Opinion is not intended to
-adjudicate the rights and obligations of the parties involved.
+Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 

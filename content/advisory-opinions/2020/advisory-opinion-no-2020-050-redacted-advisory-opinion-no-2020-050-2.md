@@ -30,21 +30,13 @@ Dear [Redacted],
 
 ### Discussion
 
-We write in response to your letter received by the National Privacy Commission (NPC)
-which sought to clarify whether the disclosure of personal information provided to financial
-technology companies, digital payment platforms and telecommunications entities to the
-credit card issuers for purposes of fraud investigation is allowed under the [[laws/data-privacy-act-of-2012|Data Privacy Act
+We write in response to your letter received by the National Privacy Commission (NPC) which sought to clarify whether the disclosure of personal information provided to financial technology companies, digital payment platforms and telecommunications entities to the credit card issuers for purposes of fraud investigation is allowed under the [[laws/data-privacy-act-of-2012|Data Privacy Act
 of 2012]] (DPA).
 
-In your letter, you disclosed that the credit card industry has been experiencing high volumes
-of fraudulent transactions which were carried out using various digital payment platforms,
-which has already caused financial detriment not only to the credit card holders but to the
-credit card issuers as well. Credit card issuers are compelled to absorb the amount involved
+In your letter, you disclosed that the credit card industry has been experiencing high volumes of fraudulent transactions which were carried out using various digital payment platforms, which has already caused financial detriment not only to the credit card holders but to the credit card issuers as well. Credit card issuers are compelled to absorb the amount involved
 in such fraudulent transactions.
 
-You know inquire on whether there is basis for the digital payment platform companies and
-other related entities, such as the telecommunications companies, to disclose personal
-information with credit card issuers to prevent financial fraud.
+You know inquire on whether there is basis for the digital payment platform companies and other related entities, such as the telecommunications companies, to disclose personal information with credit card issuers to prevent financial fraud.
 
 [[advisory-opinions/2019/advisory-opinion-no-2019-041-npc-advisory-opinion-no-2019-041|NPC Advisory Opinion No. 2019-041]]
 
@@ -68,37 +60,21 @@ It is also necessary to establish that the processing of personal information pu
 
 We also recognize the provisions of the Philippine Credit Card Industry Regulation Law, the governing law of the credit card industry. Under such law, the disclosure of credit card information to third parties is allowed, provided it is for the purpose of fraud investigation, unauthorized activities or mitigating the risks involving card issuance, use and acquisition.[^6]
 
-Under these circumstances, the data subjects who made online payments through the
-financial technology companies, digital payment platforms and telecommunications entities
-may reasonably expect that such entities to whom they have provided their credit card
-information must guarantee the authenticity of their credit cards and the validity of said
-transactions. In this context, credit card information may be disclosed to credit card issuers,
-provided such disclosure is strictly for fraud investigation purposes only.
+Under these circumstances, the data subjects who made online payments through the financial technology companies, digital payment platforms and telecommunications entities may reasonably expect that such entities to whom they have provided their credit card information must guarantee the authenticity of their credit cards and the validity of said transactions. In this context, credit card information may be disclosed to credit card issuers, provided such disclosure is strictly for fraud investigation purposes only.
 
 #### General Data Privacy Principles; Implementation of Security Measures
 
 While there is lawful basis in the processing of personal information in the matter at hand, the financial technology companies, digital payment platforms and telecommunications entities still have the obligation to observe the general data privacy principles of transparency, legitimate purpose and proportionality and to take the necessary measures to uphold the rights of the data subjects.
 
-To reiterate, PICs shall only process personal information for a declared purpose which is
-made known to the data subjects. Further, the processing of personal information shall be
-limited only to those that are necessary for the declared purpose which is fraud investigation.
+To reiterate, PICs shall only process personal information for a declared purpose which is made known to the data subjects. Further, the processing of personal information shall be limited only to those that are necessary for the declared purpose which is fraud investigation.
 
-As PICs, the above entities are also responsible for the implementation of reasonable and
-appropriate physical, organizational, and technical security measures to uphold the privacy
-of personal information within their custody. Among others, PICs are required under the DPA
-to regularly monitor for security breaches and take the appropriate and necessary preventive,
-corrective and mitigating measures against potential security breaches.[^9]
+As PICs, the above entities are also responsible for the implementation of reasonable and appropriate physical, organizational, and technical security measures to uphold the privacy of personal information within their custody. Among others, PICs are required under the DPA to regularly monitor for security breaches and take the appropriate and necessary preventive, corrective and mitigating measures against potential security breaches.[^9]
 
-We also take note of your concern for NPC to intervene or take action regarding the “rampant
-financial fraud taking place with the fraudsters hiding behind the Data Privacy Act”. We
-constantly remind all PICs that the DPA should not be seen as an obstacle in obtaining the
-necessary information for fraud prevention since such processing is recognized under the law.
+We also take note of your concern for NPC to intervene or take action regarding the “rampant financial fraud taking place with the fraudsters hiding behind the Data Privacy Act”. We constantly remind all PICs that the DPA should not be seen as an obstacle in obtaining the necessary information for fraud prevention since such processing is recognized under the law.
 We likewise cooperate with the pertinent government agencies who are involved in
 investigating financial fraud and other related offenses.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

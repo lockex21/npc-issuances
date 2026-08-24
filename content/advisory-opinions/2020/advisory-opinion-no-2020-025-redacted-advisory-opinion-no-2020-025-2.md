@@ -27,27 +27,15 @@ Re:       CONFLICT OF INTEREST ON A DATA PROTECTION OFFICER
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion seeking clarification on matters
-relating to the role of a data protection officer (DPO) vis-à-vis the department reorganization within
-your company. Essentially, you ask whether there will be an independence issue and conflict of
-interest if the DPO who is currently under the Executive Department and reports to the highest
-officer in the plant, will be transferred to the Risk and Assurance Department (Risk Department),
-and will be assigned to function as the Compliance Officer at the same time.
+We write in response to your request for an advisory opinion seeking clarification on matters relating to the role of a data protection officer (DPO) vis-à-vis the department reorganization within your company. Essentially, you ask whether there will be an independence issue and conflict of interest if the DPO who is currently under the Executive Department and reports to the highest officer in the plant, will be transferred to the Risk and Assurance Department (Risk Department), and will be assigned to function as the Compliance Officer at the same time.
 
-We understand that the Compliance Officer handles the monitoring of the company’s various
-compliance requirements and activities, i.e. renewal of permits, licenses, third party contracts,
-working visas, alien employment permits, health insurance of expatriate employees, etc. You claim
-that the tasks of a Compliance Officer would require processing the personal data of employees
-which gives rise to a conflict of interest vis-à-vis the duties as a DPO.
+We understand that the Compliance Officer handles the monitoring of the company’s various compliance requirements and activities, i.e. renewal of permits, licenses, third party contracts, working visas, alien employment permits, health insurance of expatriate employees, etc. You claim that the tasks of a Compliance Officer would require processing the personal data of employees which gives rise to a conflict of interest vis-à-vis the duties as a DPO.
 
 ### Discussion
 
 #### Data protection officer; independence; autonomy
 
-It is true that a DPO must be independent in the performance of their functions and shall be
-afforded a significant degree of autonomy by the personal information controller (PIC) or personal
-information processor (PIP).[^2] However, this principle must be harmonized with the employer’s
-right to fully manage and control his or her business, subject only to the limitations provided by
+It is true that a DPO must be independent in the performance of their functions and shall be afforded a significant degree of autonomy by the personal information controller (PIC) or personal information processor (PIP).[^2] However, this principle must be harmonized with the employer’s right to fully manage and control his or her business, subject only to the limitations provided by
 law.
 
 You mentioned that it is proposed that the Risk Department will facilitate the overall
@@ -56,27 +44,15 @@ From acursory reading of the facts, it seems that the Risk Department will only 
 Privacy Compliance and may not necessarily interfere with the functions of the DPO. Further, being placed under the direct supervision of any of the company’s departments does not
 necessarily entail the loss of the DPO’s independence and autonomy.
 
-[[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]] is clear in its requirement that a DPO shall be allowed to enjoy a
-sufficient degree of autonomy, and that for this purpose, he/she must not receive instructions
-from the PIC or PIP regarding the exercise of his/her tasks. A DPO is not required to have total or
-complete autonomy as the independence required only pertains to the exercise of his/her tasks.
+[[issuances/2017/designation-of-data-protection-officers|NPC Advisory No. 2017-01]] is clear in its requirement that a DPO shall be allowed to enjoy a sufficient degree of autonomy, and that for this purpose, he/she must not receive instructions from the PIC or PIP regarding the exercise of his/her tasks. A DPO is not required to have total or complete autonomy as the independence required only pertains to the exercise of his/her tasks.
 
-Direct supervision of a company department can pertain to various aspects of employment such
-as monitoring and implementing compliance with company rules and regulations, or the setting
-of qualitative and quantitative parameters for accomplishments. These, however, does not
-necessarily encroach on the performance of a DPO’s functions and/or tasks and the DPO can still
-perform each task independently without any interference from the department he was assigned
+Direct supervision of a company department can pertain to various aspects of employment such as monitoring and implementing compliance with company rules and regulations, or the setting of qualitative and quantitative parameters for accomplishments. These, however, does not necessarily encroach on the performance of a DPO’s functions and/or tasks and the DPO can still perform each task independently without any interference from the department he was assigned
 to.
 
-Furthermore, under the doctrine of management prerogative, every employer has the inherent
-right to regulate, according to his own discretion and judgment, all aspects of employment,
-including hiring, work assignments, working methods, the time, place and manner of work, work
-supervision, transfer of employees, lay-off of workers, and discipline, dismissal, and recall of
+Furthermore, under the doctrine of management prerogative, every employer has the inherent right to regulate, according to his own discretion and judgment, all aspects of employment, including hiring, work assignments, working methods, the time, place and manner of work, work supervision, transfer of employees, lay-off of workers, and discipline, dismissal, and recall of
 employees.[^3]
 
-Nonetheless, if based on your assessment, there will indeed be an independence issue if the DPO
-would made to report to the Risk Department, you are not precluded from formally
-communicating the same to the pertinent officers in your company and documenting the outcome.
+Nonetheless, if based on your assessment, there will indeed be an independence issue if the DPO would made to report to the Risk Department, you are not precluded from formally communicating the same to the pertinent officers in your company and documenting the outcome.
 
 #### Simultaneous designation as DPO and Compliance Officer; conflict of interest
 
@@ -85,13 +61,9 @@ DPO as the Compliance Officer simultaneously. You stated that the conflict of in
 mainly because of the functions to be performed by a Compliance Officer conflicts with the
 functions of a DPO.
 
-Specifically, you pointed out that the function of monitoring company compliance for the
-operations and maintenance makes a Compliance Officer a process owner, and thus creates the
-conflict vis-à-vis a DPO’s functions.
+Specifically, you pointed out that the function of monitoring company compliance for the operations and maintenance makes a Compliance Officer a process owner, and thus creates the conflict vis-à-vis a DPO’s functions.
 
-To backtrack, conflict of interest refers to a scenario wherein a DPO is charged with performing
-tasks, duties, and responsibilities that may be opposed to or could affect his performance as DPO,
-i.e. holding a position that leads him to determine the purposes and the means of the processing
+To backtrack, conflict of interest refers to a scenario wherein a DPO is charged with performing tasks, duties, and responsibilities that may be opposed to or could affect his performance as DPO, i.e. holding a position that leads him to determine the purposes and the means of the processing
 of personal data.[^4]
 
 Further, we note the pertinent discussions under Article 29 of the Data Protection Working Party
@@ -115,9 +87,7 @@ or set compliance requirements with various government agencies or other third p
 submission of reportorial requirements, securing permits, renewing business licenses, reviewing
 contracts, etc. These are recurring and standard tasks that are accomplished on a regular basis.
 
-In a sense, a Compliance Officer does not technically have much discretion or flexibility to actually
-determine the purposes and the means of the processing personal data as most, if not all, of the
-compliance requirements are pursuant to a specific law or regulation.
+In a sense, a Compliance Officer does not technically have much discretion or flexibility to actually determine the purposes and the means of the processing personal data as most, if not all, of the compliance requirements are pursuant to a specific law or regulation.
 
 Nevertheless, a DPO can make his or her opinion on the matter known to management to help the
 latter in identifying the positions which would be incompatible with the function of a DPO.

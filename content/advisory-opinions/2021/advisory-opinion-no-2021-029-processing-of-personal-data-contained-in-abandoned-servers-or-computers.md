@@ -33,10 +33,7 @@ We write in response to your request for guidance regarding a situation wherein 
 lessee of Eton Properties Philippines, Inc. (Eton for brevity) has defaulted and abandoned the
 leased building premises.
 
-We understand that Eton will soon be taking possession of all the items that the lessee had
-abandoned inside its BPO building project. One of these items is the lessee’s data server which
-may contain personal and sensitive personal information (collectively, personal data), such as
-its customer database. You likewise mentioned the full extent of the contents of the server is
+We understand that Eton will soon be taking possession of all the items that the lessee had abandoned inside its BPO building project. One of these items is the lessee’s data server which may contain personal and sensitive personal information (collectively, personal data), such as its customer database. You likewise mentioned the full extent of the contents of the server is
 not known as of yet.
 
 As such, you have raised the following points for clarification:
@@ -58,59 +55,36 @@ As such, you have raised the following points for clarification:
 The Data Privacy Act of 2012[^2] (DPA) applies to the processing of personal data and to any
 natural and juridical person involved in the processing within and outside the Philippines.
 
-Under the DPA, processing refers to any operation or any set of operations performed upon
-personal data including, but not limited to, the collection, recording, organization, storage,
-updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or
+Under the DPA, processing refers to any operation or any set of operations performed upon personal data including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or
 destruction of data.[^3]
 
-The processing of personal data which may be contained in the server and/or other
-workstations/computers of the lessees, which includes erasing and archiving, shall be
-allowed only upon compliance with the requirements of the law and adherence to the general
-data privacy principles of transparency, legitimate purpose, and proportionality.[^4]
+The processing of personal data which may be contained in the server and/or other workstations/computers of the lessees, which includes erasing and archiving, shall be allowed only upon compliance with the requirements of the law and adherence to the general data privacy principles of transparency, legitimate purpose, and proportionality.[^4]
 
 The various criteria for lawful processing of personal and sensitive personal information by
 personal information controllers (PICs) are provided under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA,
 respectively.
 
-[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] enumerates the various criteria for processing personal information, such as
-processing that is necessary for compliance with a legal obligation,[^5] or necessary for the
-purposes of the legitimate interests pursued by the PIC or by a third party or parties to whom
-the data is disclose,[^6] among others.
+[[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]] enumerates the various criteria for processing personal information, such as processing that is necessary for compliance with a legal obligation,[^5] or necessary for the purposes of the legitimate interests pursued by the PIC or by a third party or parties to whom the data is disclose,[^6] among others.
 
-Note, however, that if the database contains sensitive personal information, the processing
-thereof is prohibited, except for certain instances provided under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]] such as when the
-processing is provided for by existing laws and regulations,[^7] or necessary for the protection
-of lawful rights and interests of natural or legal persons in court proceedings or the
-establishment, exercise, or defense of legal claims.[^8]
+Note, however, that if the database contains sensitive personal information, the processing thereof is prohibited, except for certain instances provided under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13]] such as when the processing is provided for by existing laws and regulations,[^7] or necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings or the establishment, exercise, or defense of legal claims.[^8]
 
 Therefore, Eton’s proposed actions as to the further processing of the personal data of its lessee
 shall be governed by the any of the lawful bases for processing under the DPA.
 
 #### Appropriating abandoned properties; erasure or archiving of personal data of the lessee
 
-Although the lessee has abandoned its servers, workstations, and computers in the leased
-premises, the same does not give the lessor the right to automatically appropriate the same
-and the contents thereof to satisfy the unpaid rentals or recover the leasing revenue loss it has
-incurred. The treatment of the abandoned properties of the lessee would then depend upon
-the stipulations in the lease agreement and the orders or judgement from a competent court.
+Although the lessee has abandoned its servers, workstations, and computers in the leased premises, the same does not give the lessor the right to automatically appropriate the same and the contents thereof to satisfy the unpaid rentals or recover the leasing revenue loss it has incurred. The treatment of the abandoned properties of the lessee would then depend upon the stipulations in the lease agreement and the orders or judgement from a competent court.
 
-To reiterate, wiping or archiving of personal data falls squarely on the above definition of
-processing and the appropriation of the lessee’s abandoned properties by Eton in order to
-reuse them may likely result to processing personal data of which Eton may not be authorized.
+To reiterate, wiping or archiving of personal data falls squarely on the above definition of processing and the appropriation of the lessee’s abandoned properties by Eton in order to reuse them may likely result to processing personal data of which Eton may not be authorized.
 
-Hence, in the meantime, it is best that Eton refrain from appropriating the abandoned
-properties and the contents thereof. It is recommended that Eton safekeep the same while
-waiting for the results of the pending case.
+Hence, in the meantime, it is best that Eton refrain from appropriating the abandoned properties and the contents thereof. It is recommended that Eton safekeep the same while waiting for the results of the pending case.
 
 #### Duties and responsibilities of PICs; accountability; five pillars of compliance
 
 Moreover, we wish to note that under the principle of accountability, each PIC is responsible
 for personal information under its control or custody.[^9]
 
-If Eton, based on the lease agreement and/or the orders or judgement from a competent court,
-takes control over the abandoned servers, workstations, and computers, it may be deemed to
-be a PIC as well and should be cognizant of the duties, responsibilities, and risks associated
-with having custody of personal data. In [[decisions/2020/cid-18-e-040-kgr-v-bb-et-al|CID Case No. 18-E-040]],[^10] the Commission elaborated
+If Eton, based on the lease agreement and/or the orders or judgement from a competent court, takes control over the abandoned servers, workstations, and computers, it may be deemed to be a PIC as well and should be cognizant of the duties, responsibilities, and risks associated with having custody of personal data. In [[decisions/2020/cid-18-e-040-kgr-v-bb-et-al|CID Case No. 18-E-040]],[^10] the Commission elaborated
 on the accountability of the PIC:
 
    “By having the control of and discretion in the use of personal information of individuals,
@@ -123,32 +97,15 @@ on the accountability of the PIC:
          by documenting and implementing organizational, technical, and physical measures to
          respect the abovementioned rights.”
 
-While the servers, workstations, and computers are properties of the lessee, the personal data
-contained therein cannot be treated in the same manner as with any other property given the
-provisions of the DPA. Since the personal data was collected by a different PIC for purposes
-different than that of Eton’s, any further personal data processing by Eton should be
-supported by lawful criterion specific to the personal data and separate from whatever action
-it may take against its lessee. Likewise, should Eton decide to process the personal data, it is
-still required to notify the data subjects regardless of the lawful basis that it may eventually
+While the servers, workstations, and computers are properties of the lessee, the personal data contained therein cannot be treated in the same manner as with any other property given the provisions of the DPA. Since the personal data was collected by a different PIC for purposes different than that of Eton’s, any further personal data processing by Eton should be supported by lawful criterion specific to the personal data and separate from whatever action it may take against its lessee. Likewise, should Eton decide to process the personal data, it is still required to notify the data subjects regardless of the lawful basis that it may eventually
 rely on.
 
-As to whether the lessee can still require Eton to return the personal data from the abandoned
-properties even if the latter takes control over the abandoned properties, this will depend
-upon the existing policies of Eton as to retention of personal data, taking into account as well
-any applicable provisions of the lease agreement and/or orders of a competent court. We
-emphasize that personal data shall not be retained in perpetuity in contemplation of a possible
-future use yet to be determined.[^11]
+As to whether the lessee can still require Eton to return the personal data from the abandoned properties even if the latter takes control over the abandoned properties, this will depend upon the existing policies of Eton as to retention of personal data, taking into account as well any applicable provisions of the lease agreement and/or orders of a competent court. We emphasize that personal data shall not be retained in perpetuity in contemplation of a possible future use yet to be determined.[^11]
 
 Finally, we wish to clarify that one can never be assured that there will be no data privacy- or
-DPA-related issues in the future as these may not be completely avoided. Nevertheless, we
-have always reminded PICs to follow the five pillars of compliance as this serves as the basic
-steps towards complying with the DPA and issuances of the NPC.
+DPA-related issues in the future as these may not be completely avoided. Nevertheless, we have always reminded PICs to follow the five pillars of compliance as this serves as the basic steps towards complying with the DPA and issuances of the NPC.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. We are not
-privy to the terms and conditions of the lease agreement between Eton and its lessee and the
-same has not been reviewed for purposes of this opinion. This opinion does not adjudicate
-issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. We are not privy to the terms and conditions of the lease agreement between Eton and its lessee and the same has not been reviewed for purposes of this opinion. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

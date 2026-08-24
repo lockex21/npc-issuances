@@ -30,59 +30,36 @@ aliases:
 
 Dear [Redacted],
 
-We write in response to your letter received by the National Privacy Commission (NPC)
-which sought clarification on whether to grant the request of a third-party organization to be
-given a list of frontline workers who were affected by COVID-19.
+We write in response to your letter received by the National Privacy Commission (NPC) which sought clarification on whether to grant the request of a third-party organization to be given a list of frontline workers who were affected by COVID-19.
 
 ### Discussion
 
 We understand that the Department of Health (DOH) received a request from the Filipino
-International Staff of the Asian Development Bank (ADB Fil-IS) for a list of names of frontline
-workers who passed away or were severely affected by COVID-19. This request is pursuant
-to ADB Fil-IS’ initiative to raise funds to help the affected Filipino frontline workers and their
-beneficiaries for the fund drive, Alay Dangal sa Bayaning Lumalaban sa COVID-19.
+International Staff of the Asian Development Bank (ADB Fil-IS) for a list of names of frontline workers who passed away or were severely affected by COVID-19. This request is pursuant to ADB Fil-IS’ initiative to raise funds to help the affected Filipino frontline workers and their beneficiaries for the fund drive, Alay Dangal sa Bayaning Lumalaban sa COVID-19.
 
 You now ask on whether the disclosure of such information is allowed under the [[laws/data-privacy-act-of-2012|Data
 Privacy Act of 2012]][^2] (DPA).
 
 #### Lawful Basis for Processing; Health Information; Law; Mandate; Public Authority; Consent
 
-A list of names, by itself, is considered personal information under the DPA. However, a list
-of names of COVID-19 patients are considered sensitive personal information since it
-pertains to the health information of the said individuals. Hence, to be able to process such
-data, there must be lawful basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
+A list of names, by itself, is considered personal information under the DPA. However, a list of names of COVID-19 patients are considered sensitive personal information since it pertains to the health information of the said individuals. Hence, to be able to process such data, there must be lawful basis under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 In this scenario, the DOH, as the health authority of the country, has information on COVID-
-19 cases and related deaths. However, the processing of the said information is limited only
-for purposes of disease surveillance and response against the COVID-19[^3] and is based on the
-requirements of various laws, rules, and regulation on notifiable diseases and the pandemic
-response of the government. On the other hand, the ADB is a private international financial
-institution that provides assistance to, among others, developing member countries and the
+19 cases and related deaths. However, the processing of the said information is limited only for purposes of disease surveillance and response against the COVID-19[^3] and is based on the requirements of various laws, rules, and regulation on notifiable diseases and the pandemic response of the government. On the other hand, the ADB is a private international financial institution that provides assistance to, among others, developing member countries and the
 private sector.
 
-For further processing of the said health information which includes disclosure to third
-parties, such as the proposed disclosure by the DOH of the personal data of frontline workers
-who passed away or were severely affected by COVID-19 to the ADB Fil-IS, pursuant to the
-latter’s initiative to extend financial assistance, there must be lawful basis under Section 13
-which is distinct from the original lawful basis for processing relied upon by the DOH as a
+For further processing of the said health information which includes disclosure to third parties, such as the proposed disclosure by the DOH of the personal data of frontline workers who passed away or were severely affected by COVID-19 to the ADB Fil-IS, pursuant to the latter’s initiative to extend financial assistance, there must be lawful basis under Section 13 which is distinct from the original lawful basis for processing relied upon by the DOH as a
 public authority.
 
-Section 13 of the DPA provides that the processing of sensitive personal information is
-generally prohibited unless it falls under any of the criteria for processing. In particular,
-processing may be allowed when the data subject has given his or her consent, specific to the
-purpose prior to the processing.[^4]
+Section 13 of the DPA provides that the processing of sensitive personal information is generally prohibited unless it falls under any of the criteria for processing. In particular, processing may be allowed when the data subject has given his or her consent, specific to the purpose prior to the processing.[^4]
 
-In the current matter, although the disclosure of data will be used for a good cause and
-legitimate purposes in extending assistance to frontline workers and/or their families, the
-requirements of the DPA must still be complied with.
+In the current matter, although the disclosure of data will be used for a good cause and legitimate purposes in extending assistance to frontline workers and/or their families, the requirements of the DPA must still be complied with.
 
 The DOH, as the personal information controller, must obtain the consent of the affected
 frontline workers or their heirs for those who are deceased, prior to the disclosure of their
 identities to the ADB Fil-IS.
 
-Public health authorities such as the DOH, their partner agencies and authorized personnel
-must limit the use and disclosure of health information to the purpose specified at the time
-of collection.[^5] Further, the processing of COVID-19-related personal data by public
+Public health authorities such as the DOH, their partner agencies and authorized personnel must limit the use and disclosure of health information to the purpose specified at the time of collection.[^5] Further, the processing of COVID-19-related personal data by public
 
 authorities should be limited to the pandemic response, specifically the following as stated
 in the [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|DOH and NPC JOINT MEMORANDUM CIRCULAR No. 2020-0002]]:
@@ -99,35 +76,23 @@ in the [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-c
 > d. To improve response activities, including the quality and accessibility of health services and other related interventions for COVID-19.
 > e. To allow information sharing and exchange between and among healthcare providers, public health authorities and other government authorities for treatment and care coordination, and/or surveillance and response purposes.[^6]
 
-We note that the proposed disclosure of the requested personal data to ADB Fil-IS does not
-fall under any of the foregoing purposes and circumstances. Hence, the consent of the
-affected frontline workers and the heirs of the deceased must be obtained prior to the
+We note that the proposed disclosure of the requested personal data to ADB Fil-IS does not fall under any of the foregoing purposes and circumstances. Hence, the consent of the affected frontline workers and the heirs of the deceased must be obtained prior to the
 disclosure of such information.
 
-We also note that the rights of the data subjects must be considered under the current
-circumstance. For instance, there may be some frontline workers and/or the heirs of the
-deceased who may not want their personal data, specifically their health information,
+We also note that the rights of the data subjects must be considered under the current circumstance. For instance, there may be some frontline workers and/or the heirs of the deceased who may not want their personal data, specifically their health information,
 disclosed to third parties.
 
 #### Statistical Data; Further Processing
 
-For purposes of the fundraising, the DOH may opt to provide statistical data only rather than
-providing the personal data of the frontline workers. However, we emphasize that the
-foregoing condition on further processing must be strictly construed. This means that the
-data must be purely statistical and free from any factors that will enable others to reasonably
+For purposes of the fundraising, the DOH may opt to provide statistical data only rather than providing the personal data of the frontline workers. However, we emphasize that the foregoing condition on further processing must be strictly construed. This means that the data must be purely statistical and free from any factors that will enable others to reasonably
 identify the individuals involved.
 
-We note that under this option, the identities of the affected frontline workers and their heirs
-remain confidential. As to how the financial assistance from the funds raised by ADB Fil-IS
-will eventually be distributed, the DOH and the ADB Fil-IS may device such mechanisms
-which are less privacy-intrusive, i.e., make announcements as to how affected frontline
+We note that under this option, the identities of the affected frontline workers and their heirs remain confidential. As to how the financial assistance from the funds raised by ADB Fil-IS will eventually be distributed, the DOH and the ADB Fil-IS may device such mechanisms which are less privacy-intrusive, i.e., make announcements as to how affected frontline
 
 workers may apply for assistance, etc., thereby making any further personal data processing
 consent-based in this instance.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

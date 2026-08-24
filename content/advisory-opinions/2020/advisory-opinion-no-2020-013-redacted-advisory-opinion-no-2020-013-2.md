@@ -27,15 +27,9 @@ Re: ACCESS TO INFORMATION IN RELATION TO DISCIPLINARY RECORDS AND/OR ADMINISTRAT
 
 Dear [Redacted],
 
-We write in response to your inquiry received by the National Privacy Commission (NPC)
-seeking guidance and clarification in relation to the Ateneo de Manila University’s
-(“University”) protocols for the disclosure and sharing of information in relation to
-disciplinary records and administrative cases of students and school personnel.
+We write in response to your inquiry received by the National Privacy Commission (NPC) seeking guidance and clarification in relation to the Ateneo de Manila University’s (“University”) protocols for the disclosure and sharing of information in relation to disciplinary records and administrative cases of students and school personnel.
 
-We understand that the University receives, processes, and resolves complaints involving its
-students, faculty members and administrative personnel. We understand further that in the
-course of such proceedings and up until their conclusion, various parties would attempt to
-obtain – in some cases, demand – access to some or all information relating to such
+We understand that the University receives, processes, and resolves complaints involving its students, faculty members and administrative personnel. We understand further that in the course of such proceedings and up until their conclusion, various parties would attempt to obtain – in some cases, demand – access to some or all information relating to such
 proceedings.
 
 Thus, the University now seeks clarification on the following questions in relation to the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA):
@@ -67,26 +61,15 @@ personal data) is considered as processing under the DPA. Hence, the same should
 on any of the lawful criteria for processing under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the law, depending on
 the nature of personal data being disclosed or shared.
 
-In this case, information about any proceeding for any offense committed or alleged to have
-been committed by an individual, the disposal of such proceedings, or the sentence of any
-court in such proceedings are classified as sensitive personal information.[^3]
+In this case, information about any proceeding for any offense committed or alleged to have been committed by an individual, the disposal of such proceedings, or the sentence of any court in such proceedings are classified as sensitive personal information.[^3]
 
-In our [[advisory-opinions/2019/advisory-opinion-no-2019-011-npc-advisory-opinion-no-2019-011|Advisory Opinion No. 2019-011]],[^4] the term “proceedings” has been interpreted to also
-include those non-judicial in nature, including administrative proceedings, to wit: “…case
-files of every data subject, in all types of proceedings, shall be provided a higher degree of
-protection ‘as the context of their processing could create significant risks to the fundamental
-rights and freedoms.’” Administrative cases in an educational institution are then included in
-such proceedings protected by the DPA.
+In our [[advisory-opinions/2019/advisory-opinion-no-2019-011-npc-advisory-opinion-no-2019-011|Advisory Opinion No. 2019-011]],[^4] the term “proceedings” has been interpreted to also include those non-judicial in nature, including administrative proceedings, to wit: “…case files of every data subject, in all types of proceedings, shall be provided a higher degree of protection ‘as the context of their processing could create significant risks to the fundamental rights and freedoms.’” Administrative cases in an educational institution are then included in such proceedings protected by the DPA.
 
-Generally, the processing of sensitive personal information is prohibited, except in certain
-instances, i.e. when the processing is provided for by existing laws and regulations[^5] or
-necessary for establishment, exercise or defense of legal claims.[^6]
+Generally, the processing of sensitive personal information is prohibited, except in certain instances, i.e. when the processing is provided for by existing laws and regulations[^5] or necessary for establishment, exercise or defense of legal claims.[^6]
 
 In the given scenario, we refer to the Manual of Regulations for Private Higher Education
 (MORPHE) issued through Commission on Higher Education (CHED) Memorandum Order
-No. 40, s. 2008. Section 142 of the MORPHE states that, “In all matters that may result in the
-imposition of any sanction or penalty to a higher education institution, or to any personnel or
-student, administrative due process shall in all instances be observed.”[^7]
+No. 40, s. 2008. Section 142 of the MORPHE states that, “In all matters that may result in the imposition of any sanction or penalty to a higher education institution, or to any personnel or student, administrative due process shall in all instances be observed.”[^7]
 
 Jurisprudence has provided for the procedural rights of students in disciplinary cases and the
 minimum standards to be followed in the imposition of disciplinary sanctions in academic
@@ -101,10 +84,7 @@ institutions, to wit:
      5. The evidence must be duly considered by the investigating committee or official
         designated by the school authorities to hear and decide the case.[^8]
 
-Hence, as can be gleaned from the above, the parties involved in the administrative
-proceeding, specifically the complainant and respondent, have the right to be informed of the
-details of the case, including personal data, as a matter of procedural due process. This holds
-true whether the party to the case is a student, faculty or school personnel.
+Hence, as can be gleaned from the above, the parties involved in the administrative proceeding, specifically the complainant and respondent, have the right to be informed of the details of the case, including personal data, as a matter of procedural due process. This holds true whether the party to the case is a student, faculty or school personnel.
 
 Meanwhile, third parties to the proceeding, including witnesses, other individuals who may
 be affected by the case and its outcome, and the public, are not accorded the same right.
@@ -114,33 +94,20 @@ case is pending or already concluded.
 
 #### Statistical data not considered personal information
 
-As to whether the University may issue public reports that provide statistical information in
-relation to specific offenses, the University may do so considering that purely statistical data
-falls outside the ambit of the DPA as the same does not identify a person.
+As to whether the University may issue public reports that provide statistical information in relation to specific offenses, the University may do so considering that purely statistical data falls outside the ambit of the DPA as the same does not identify a person.
 
-However, the number of cases to be reported may be relevant in the determination of whether
-the same may constitute personal data when for instance, other data may be used or may allow a statistical unit to be identified.[^9] To determine whether a statistical unit is identifiable,
-account shall be taken of all relevant means that might reasonably be used by a third party to
-identify the statistical unit.[^10] With this, caution should be exercised in releasing reports on
-specific offenses to ensure that no personal data is inadvertently released.
+However, the number of cases to be reported may be relevant in the determination of whether the same may constitute personal data when for instance, other data may be used or may allow a statistical unit to be identified.[^9] To determine whether a statistical unit is identifiable, account shall be taken of all relevant means that might reasonably be used by a third party to identify the statistical unit.[^10] With this, caution should be exercised in releasing reports on specific offenses to ensure that no personal data is inadvertently released.
 
 #### Safe Spaces Act vis-à-vis the DPA
 
 Lastly, the University seeks clarification on the implication of the Safe Spaces Act (SSA)[^11] on
 the right to privacy of the accused or the respondent.
 
-We understand that the SSA requires school heads to create an independent internal
-mechanism to investigate and address complaints of gender-based sexual harassment which
-shall guarantee confidentiality to the greatest extent possible.[^12] Further, the law requires
-confidentiality at any stage of the investigation, prosecution and trial of an offense under the
+We understand that the SSA requires school heads to create an independent internal mechanism to investigate and address complaints of gender-based sexual harassment which shall guarantee confidentiality to the greatest extent possible.[^12] Further, the law requires confidentiality at any stage of the investigation, prosecution and trial of an offense under the
 SSA, where the rights of the victim and the accused who is a minor shall be recognized.[^13]
 
 Upon a reading of both laws, the SSA and the DPA do not contradict each other. While Section
-22 (8) of the SSA provides that the institution shall guarantee confidentiality to the greatest
-extent possible and Section 26 of the same law states that the rights of a minor, who may either
-be the victim or accused, shall be recognized in all stages of the proceedings for an offense
-under the SSA, these provisions do not contradict the provisions of the DPA which protects
-the data privacy of all individuals regardless of age.
+22 (8) of the SSA provides that the institution shall guarantee confidentiality to the greatest extent possible and Section 26 of the same law states that the rights of a minor, who may either be the victim or accused, shall be recognized in all stages of the proceedings for an offense under the SSA, these provisions do not contradict the provisions of the DPA which protects the data privacy of all individuals regardless of age.
 
 In effect, the SSA complements the DPA’s requirement of having proper safeguards to ensure
 confidentiality of personal data being processed.

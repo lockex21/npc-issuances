@@ -51,9 +51,7 @@ Processing, under Section 3(j) of the DPA[^4] and Rule II, [[laws/implementing-r
 
 #### Organizational Security Measures; Non-compliance with established protocols
 
-The university's established procedure for processing and signing TORs functions as an
-organizational security measure designed to ensure confidentiality and proper handling of
-sensitive educational records. Any deviation from this protocol, such as removing TORs from the
+The university's established procedure for processing and signing TORs functions as an organizational security measure designed to ensure confidentiality and proper handling of sensitive educational records. Any deviation from this protocol, such as removing TORs from the
 OUR without authority and handling them in unsecured locations outside the designated office—
 represents a failure to comply with these organizational safeguards.
 

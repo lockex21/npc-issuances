@@ -30,18 +30,10 @@ Dear [Redacted],
 
 We respond to your request for an Advisory Opinion on whether the Registrar (Registrar) may comply with the request of the Commission on Audit (COA) for a list of deceased persons without violating [[laws/data-privacy-act-of-2012|Republic Act No. 10173, or the Data Privacy Act of 2012]] (DPA).[^2]
 
-You state in your letter that the COA requested the Registrar for a list of deceased persons
-containing personal information and sensitive personal information (collectively called
-personal data). Specifically, the COA asked the Registrar for a list containing the complete
-names and dates of birth of persons who died or were issued death certificates from January
+You state in your letter that the COA requested the Registrar for a list of deceased persons containing personal information and sensitive personal information (collectively called personal data). Specifically, the COA asked the Registrar for a list containing the complete names and dates of birth of persons who died or were issued death certificates from January
 2020 to December 2023. The COA’s request is in connection with its audit of Social Security
-System (SSS) pension fund payments. You also state that although the Registrar possesses the
-requested information, you hesitate from providing COA with the requested personal data
-since you posit that the consent of the deceased’s nearest surviving next of kin is necessary
-under the circumstances. Furthermore, COA’s request covers all deceased persons in Victorias
-City regardless of whether they are SSS members or not. Considering that the Registrar has
-no means to validate who among the deceased individuals were SSS members, you are
-concerned that even the personal data of non-SSS members may be disclosed to COA in the
+System (SSS) pension fund payments. You also state that although the Registrar possesses the requested information, you hesitate from providing COA with the requested personal data since you posit that the consent of the deceased’s nearest surviving next of kin is necessary under the circumstances. Furthermore, COA’s request covers all deceased persons in Victorias
+City regardless of whether they are SSS members or not. Considering that the Registrar has no means to validate who among the deceased individuals were SSS members, you are concerned that even the personal data of non-SSS members may be disclosed to COA in the
 process.
 
 Thus, you seek guidance as to whether you may legally accede to the COA’s request.
@@ -70,9 +62,7 @@ Under the 1987 Constitution,[^3] the COA is considered as the guardian of public
 
 Additionally, Section 3, Rule IV of the 2009 Revised Rules of Procedure of the Commission on Audit provides for the responsibility of the auditor to obtain sufficient evidence to support his/her findings as well as to safeguard the same.[^5]
 
-We reiterate our stance in [[advisory-opinions/2020/advisory-opinion-no-2020-016-audit-procedures-of-the-commission-on-audit|NPC Advisory Opinion No. 2020-016]] in which we acknowledged the
-authority of the COA as an independent constitutional body and recognized its power,
-authority, and duty to examine, audit and settle all accounts and expenditures of the funds and properties of the Philippine government. We also stated therein that the DPA should not be interpreted to hamper, or interfere with, the performance of the duties and functions of duly constituted authorities. Further, the COA, in carrying out its mandate, enjoys the presumption of regularity in the performance of its duties. The determination of what methods to utilize in the collection or gathering of personal data in performing its auditing functions shall be left to the COA’s sound discretion.
+We reiterate our stance in [[advisory-opinions/2020/advisory-opinion-no-2020-016-audit-procedures-of-the-commission-on-audit|NPC Advisory Opinion No. 2020-016]] in which we acknowledged the authority of the COA as an independent constitutional body and recognized its power, authority, and duty to examine, audit and settle all accounts and expenditures of the funds and properties of the Philippine government. We also stated therein that the DPA should not be interpreted to hamper, or interfere with, the performance of the duties and functions of duly constituted authorities. Further, the COA, in carrying out its mandate, enjoys the presumption of regularity in the performance of its duties. The determination of what methods to utilize in the collection or gathering of personal data in performing its auditing functions shall be left to the COA’s sound discretion.
 
 We emphasize that the DPA, its IRR, and related NPC issuances should be read in conjunction with existing laws. The DPA has the twin task of protecting the right to privacy while ensuring the free flow of information and should not be used as an excuse for non-compliance with other existing laws, rules and regulations.[^6] The 1987 Constitution explicitly grants the COA with enough latitude to determine, prevent and disallow irregular, unnecessary, excessive, extravagant or unconscionable expenditures of government funds.[^7]
 
@@ -104,16 +94,10 @@ The principle of proportionality was further elaborated in [[laws/implementing-r
 >
 > *(Emphasis supplied).*
 
-Thus, it is essential to ensure that the information to be disclosed for audit purposes should
-only be limited to what is necessary to achieve the objectives of the audit. Consequently, we
-suggest that the Registrar coordinate with the COA to seek guidance on the personal data
-needed for the audit, particularly since the latter’s request appears to be too extensive and
+Thus, it is essential to ensure that the information to be disclosed for audit purposes should only be limited to what is necessary to achieve the objectives of the audit. Consequently, we suggest that the Registrar coordinate with the COA to seek guidance on the personal data needed for the audit, particularly since the latter’s request appears to be too extensive and
 disproportionate for its purpose.
 
-Please be advised that this Advisory Opinion was rendered based solely on the information
-you have provided. Any extraneous fact that may be subsequently furnished us may affect
-our present position. Please note further that our Advisory Opinion is not intended to
-adjudicate the rights and obligations of the parties involved.
+Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 

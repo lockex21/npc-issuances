@@ -33,18 +33,9 @@ You inform that you represent a U.S. based company engaged in the hospitality bu
 (Company). The Company operates a business process outsourcing subsidiary in the
 Philippines that provide customer services to its customers.
 
-The Company is currently reviewing an Artificial Intelligence (AI) program, to be
-administered by a third-party system provider, that will analyze call recordings and email
-exchanges between its call center employees and customers (the "tool"). The tool will analyze
-the call recordings and emails using behavior and sentiment analysis to autoscore call center
-employees and rank them against other employees to identify opportunities for employee
-coaching and development, among others.
+The Company is currently reviewing an Artificial Intelligence (AI) program, to be administered by a third-party system provider, that will analyze call recordings and email exchanges between its call center employees and customers (the "tool"). The tool will analyze the call recordings and emails using behavior and sentiment analysis to autoscore call center employees and rank them against other employees to identify opportunities for employee coaching and development, among others.
 
-You further inform that Al-based analytics are performed on the interaction and will process
-the following personal data: names, address, job title and other unique identifier that could
-identify an individual or device. The analytics provide insights and autoscores the interaction
-of the customer and the employees. The autoscoring and predictions are limited to the call
-center employees and there are no rankings, scorings, or predictions on the customer level at
+You further inform that Al-based analytics are performed on the interaction and will process the following personal data: names, address, job title and other unique identifier that could identify an individual or device. The analytics provide insights and autoscores the interaction of the customer and the employees. The autoscoring and predictions are limited to the call center employees and there are no rankings, scorings, or predictions on the customer level at
 this time.
 
 You also mention that objections by employees may be raised to the Company’s privacy team.
@@ -88,27 +79,15 @@ In determining if legitimate interest is established, the following must be cons
 
 Applying the above conditions to this case, the use of automated scoring to evaluate employee
 performance can be considered as a legitimate interest since it directly contributes to the
-Company's goal of improving its services. By assessing and identifying areas of improvement
-of its employees, the Company can enhance overall performance which will ultimately benefit
-both the employees and the Company.
+Company's goal of improving its services. By assessing and identifying areas of improvement of its employees, the Company can enhance overall performance which will ultimately benefit both the employees and the Company.
 
 #### Adherence to Data Privacy Principles; Legitimate Purpose, Proportionality
 
 To determine whether the processing is necessary to fulfill the legitimate interest that is established, the means or method chosen for the specific processing activity undertaken by the PIC or third party should be necessary and lawful. Thus, the means to fulfill the legitimate interest must be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose, in accordance with the principle of proportionality; and the means chosen to accomplish the legitimate interest is itself lawful. The PIC cannot violate any law in the process of accomplishing its legitimate interest.[^7]
 
-In this case, you state that the Company’s aim is to identify trends across interactions, supply
-additional feedback to other areas of the business, help in targeted training based on identified
-trends, among others. Hence, the personal data processed should be strictly used only for such
-purposes to comply with the second condition provided in the MAF case. Further, to comply
-with the principle of proportionality, the data to be collected should only be for the declared
-specified purposes made known to the employees.
+In this case, you state that the Company’s aim is to identify trends across interactions, supply additional feedback to other areas of the business, help in targeted training based on identified trends, among others. Hence, the personal data processed should be strictly used only for such purposes to comply with the second condition provided in the MAF case. Further, to comply with the principle of proportionality, the data to be collected should only be for the declared specified purposes made known to the employees.
 
-It is important for the Company to strike a balance between its processing activities and the
-rights of its data subjects. Additionally, even if a personal information controller has a legal
-basis for processing information, it is still required to follow the fundamental data privacy
-principles of proportionality, transparency, and legitimate purpose. The processing of
-personal information must be limited only to the extent that is necessary for the stated purpose
-and that there are no other means to achieve such legitimate purpose.
+It is important for the Company to strike a balance between its processing activities and the rights of its data subjects. Additionally, even if a personal information controller has a legal basis for processing information, it is still required to follow the fundamental data privacy principles of proportionality, transparency, and legitimate purpose. The processing of personal information must be limited only to the extent that is necessary for the stated purpose and that there are no other means to achieve such legitimate purpose.
 
 Lastly, the principle of proportionality dictates that the processing of personal data shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. We advise that the use of the AI tool should be used only to achieve the goals and objectives of the Company stated in its privacy policy. The Company should also make sure that their employees are properly informed of this policy before the tool is utilized by the Company. This could be established and disclosed to the employees through the Company’s privacy notice and policies.
 
@@ -132,14 +111,9 @@ The right to object to the processing of personal data applies in instances wher
             inform the data subject of said lawful basis or compelling reason to continue
             processing.
 
-Thus, the determination of whether the legitimate interest of the Company outweighs those
-of the employees’ objections, or if they can cite other grounds to continue processing personal
-data is a matter that should be decided upon by the PIC and not the NPC.
+Thus, the determination of whether the legitimate interest of the Company outweighs those of the employees’ objections, or if they can cite other grounds to continue processing personal data is a matter that should be decided upon by the PIC and not the NPC.
 
-Please be advised that the foregoing was rendered based solely on the information you
-provided. Any extraneous fact that may be subsequently furnished us may affect our present
-position. Please note further that our Advisory Opinion is not intended to adjudicate the
-rights and obligations of the parties involved.
+Please be advised that the foregoing was rendered based solely on the information you provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 Please be guided accordingly.
 

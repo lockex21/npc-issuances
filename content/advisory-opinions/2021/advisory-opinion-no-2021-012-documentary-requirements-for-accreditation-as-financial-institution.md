@@ -37,9 +37,7 @@ We understand that the PNP, through its Committee on Accreditation and Automatic
 Deduction (CAAD), certifies and accredits financial institutions who are likewise granted the
 privilege to avail of the PNP’s Automatic Salary and Pension Deduction Scheme (ASPDS).
 
-For PSSLAI’s continued accreditation, the CAAD requested from PSSLAI the submission of,
-among others, a copy of PSSLAI’s Credit Redemption Insurance (CRI) and the Summary List
-of PNP borrowers-members which includes Billing Reports containing the Schedule of
+For PSSLAI’s continued accreditation, the CAAD requested from PSSLAI the submission of, among others, a copy of PSSLAI’s Credit Redemption Insurance (CRI) and the Summary List of PNP borrowers-members which includes Billing Reports containing the Schedule of
 Computations of Loans such as principal amount, date of grant of loan, mode of
 payment/terms, interest and other charges, effectivity of first billing, and maturity.
 
@@ -52,25 +50,16 @@ to the PNP without violating the provisions of the DPA, its [[laws/implementing-
 
 #### Public Safety Savings and Loan Association, Inc.
 
-We understand that the PSSLAI is a non-stock savings and loan association (NSSLA) founded
-to uphold the best interest of the public safety sector, specifically dedicated to serving the
-members of the PNP and the Bureau of Fire Protection (BFP).[^3] The PSSLAI offers loans and
-other investment opportunities.[^4] It is under the regulatory supervision of the Bangko Sentral
+We understand that the PSSLAI is a non-stock savings and loan association (NSSLA) founded to uphold the best interest of the public safety sector, specifically dedicated to serving the members of the PNP and the Bureau of Fire Protection (BFP).[^3] The PSSLAI offers loans and other investment opportunities.[^4] It is under the regulatory supervision of the Bangko Sentral
 ng Pilipinas (BSP).[^5]
 
 #### Scope; Data Privacy Act of 2012; personal information; lawful basis for processing
 
 We wish to clarify that the DPA only applies to the processing of personal information. [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section
-3 (g)]] thereof defines personal information as any information from which the identity of an
-individual is apparent or can reasonably and directly ascertained by the entity holding the
-information, or when put together with other information would directly and certainly
+3 (g)]] thereof defines personal information as any information from which the identity of an individual is apparent or can reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly
 identify an individual.
 
-We understand that the parties to the CRI are the insurer and PSSLAI. We note that these are
-juridical persons. Thus, generally speaking, the insurance document contains information
-about such juridical persons, and not an individual’s personal information. Hence, the
-submission of a copy of the same may be beyond the scope of the DPA. Nevertheless, should
-there be any personal information in the CRI, i.e., details of signatories, etc., the DPA may still
+We understand that the parties to the CRI are the insurer and PSSLAI. We note that these are juridical persons. Thus, generally speaking, the insurance document contains information about such juridical persons, and not an individual’s personal information. Hence, the submission of a copy of the same may be beyond the scope of the DPA. Nevertheless, should there be any personal information in the CRI, i.e., details of signatories, etc., the DPA may still
 be applicable.
 
 In any case, it may be prudent for PSSLAI to check for any confidentiality clauses and/or
@@ -81,19 +70,11 @@ the summary list and billing reports, the DPA provides for the various criteria 
 processing.
 
 For personal information, processing may be allowed subject to the provisions of [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]].
-Particularly in this case, the following may be applicable: Section 12 (c), where the processing
-is necessary for compliance with a legal obligation or Section 12 (e), where processing is
-necessary to fulfill functions of public authority which necessarily includes the processing of
-personal data for the fulfillment of its mandate.
+Particularly in this case, the following may be applicable: Section 12 (c), where the processing is necessary for compliance with a legal obligation or Section 12 (e), where processing is necessary to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.
 
-For processing sensitive personal information in the given scenario, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b)]] recognizes
-the processing that is provided for by existing laws and regulations, while Section 13 (f)
-provides for the processing for the establishment, exercise, or defense of legal claims, or when
-provided to government or public authority.
+For processing sensitive personal information in the given scenario, [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b)]] recognizes the processing that is provided for by existing laws and regulations, while Section 13 (f) provides for the processing for the establishment, exercise, or defense of legal claims, or when provided to government or public authority.
 
-We note that the PNP issued Memorandum Circular No. 2014-42 which established, inter alia,
-the procedures and effective control measures in the accreditation of financial institutions. We
-likewise note the relevant provisions in PNP Memorandum Circular No. 2014-45 on
+We note that the PNP issued Memorandum Circular No. 2014-42 which established, inter alia, the procedures and effective control measures in the accreditation of financial institutions. We likewise note the relevant provisions in PNP Memorandum Circular No. 2014-45 on
 documentary requirements, viz:
 
    “IV. Policies/Guidelines                   xxx        xxx        xxx
@@ -125,16 +106,9 @@ documentary requirements, viz:
    5.b For renewal of accreditation, submit the same requirements stated in
                             para 5.a except item 5.a.5.”
 
-We understand that these Memorandum Circulars were issued by the Chief of the PNP in the
-exercise of powers and functions pursuant to the provisions of Republic Act (RA) No. 6975 or
-the Department of the Interior and Local Government Act of 1990,6 as amended, and other
-applicable laws and regulations. Having said that, these issuances are presumed to be valid
-until declared otherwise by a proper court.
+We understand that these Memorandum Circulars were issued by the Chief of the PNP in the exercise of powers and functions pursuant to the provisions of Republic Act (RA) No. 6975 or the Department of the Interior and Local Government Act of 1990,6 as amended, and other applicable laws and regulations. Having said that, these issuances are presumed to be valid until declared otherwise by a proper court.
 
-As applied in this case, it may be possible for PSSLAI to submit these documents, even without
-the consent of the data subjects, as the disclosure is not based on consent, but rather on another
-more appropriate lawful basis for processing, i.e., legal obligation, fulfillment of the functions
-of public authority, or due to a particular regulation which the PSSLAI must comply with.
+As applied in this case, it may be possible for PSSLAI to submit these documents, even without the consent of the data subjects, as the disclosure is not based on consent, but rather on another more appropriate lawful basis for processing, i.e., legal obligation, fulfillment of the functions of public authority, or due to a particular regulation which the PSSLAI must comply with.
 
 #### General data privacy principles
 
@@ -142,15 +116,10 @@ However, as a personal information controller (PIC), the PSSLAI has the duty to 
 data subjects as to the nature, extent, and purpose of such disclosure pursuant to the principle
 of transparency.
 
-Moving forward, PSSLAI should consider including a privacy notice in the loan agreements,
-explaining that personal information of the PNP member-borrowers, including the summary
-lists and billing reports, will be disclosed to the PNP for accreditation purposes. For existing
-member-borrowers, such notice should also be provided to apprise them about the required
+Moving forward, PSSLAI should consider including a privacy notice in the loan agreements, explaining that personal information of the PNP member-borrowers, including the summary lists and billing reports, will be disclosed to the PNP for accreditation purposes. For existing member-borrowers, such notice should also be provided to apprise them about the required
 disclosure.
 
-We acknowledge the concern on the submission of the summary list of member-borrowers
-and the respective billing reports. The PSSLAI’s data protection officer is not precluded from
-seeking dialogue with the PNP for a possible review of the 2014 Memorandum Circular
+We acknowledge the concern on the submission of the summary list of member-borrowers and the respective billing reports. The PSSLAI’s data protection officer is not precluded from seeking dialogue with the PNP for a possible review of the 2014 Memorandum Circular
  An Act Establishing the Philippine National Police under a Reorganized Department of the Interior and Local Government, and for Other
 Purposes [Department of the Interior and Local Government Act of 1990], Republic Act No. 6975, § 26 (1990).
 
@@ -158,9 +127,7 @@ requirements to evaluate if the disclosure is proportional to the purpose of the
 
 #### Revised Non-Stock Savings Loan Association Act of 1997; nature of loan records; deposits definition
 
-Another point raised in the letter is that if the PSSLAI will submit to the PNP the summary
-list and other details, the PSSLAI may run the risk of violating bank secrecy laws. We note
-that Section 6 of RA No. 8367 or the Revised Non-Stock Savings Loan Association Act of 19977
+Another point raised in the letter is that if the PSSLAI will submit to the PNP the summary list and other details, the PSSLAI may run the risk of violating bank secrecy laws. We note that Section 6 of RA No. 8367 or the Revised Non-Stock Savings Loan Association Act of 19977
 provides as follows:
 
    “Section 6. Prohibition against inquiry into or disclosure of deposits. – All deposits of
@@ -220,11 +187,7 @@ https://www.bsp.gov.ph/Regulations/MORB/2016_01MORNBFI2.pdf (last accessed 17 Ap
                 from fraud or unauthorized charges. (Circular No. 702 dated 15 December 2010)”
                 (Underscoring supplied)
 
-From our understanding, PSSLAI is seeking accreditation with the PNP to avail of the
-automatic salary and pension deduction scheme. While we are not privy to the actual terms
-and conditions of the PSSLAI’s accreditation and actual deduction scheme, the PNP may in
-effect be considered as a third-party that assists PSSLAI’s lending business through the
-collection and remittance of loan payments.
+From our understanding, PSSLAI is seeking accreditation with the PNP to avail of the automatic salary and pension deduction scheme. While we are not privy to the actual terms and conditions of the PSSLAI’s accreditation and actual deduction scheme, the PNP may in effect be considered as a third-party that assists PSSLAI’s lending business through the collection and remittance of loan payments.
 
 Consequently, the disclosure of the summary list of the names of the member-borrowers and
 the latter’s billing reports may be allowed under the MORNBFI. However, we defer to the
@@ -237,19 +200,12 @@ we noted that one of the actions requested of the Commission is to authorize PSS
 to the PNP the required documents.
 
 We wish to emphasize the provisions on [[issuances/undated/rules-of-procedure-on-requests-for-advisory-opinions|NPC Circular No. 18-01]] – Rules of Procedure on
-Requests for Advisory Opinions,[^9] that the advisory opinions of the NPC provide guidance to
-the requesting party and the general public on matters relating to the interpretation of the
-provisions of the DPA, its IRR, and NPC issuances, compliance requirements, enforcement of
-data privacy laws and regulations, and other related matters on personal data privacy,
+Requests for Advisory Opinions,[^9] that the advisory opinions of the NPC provide guidance to the requesting party and the general public on matters relating to the interpretation of the provisions of the DPA, its IRR, and NPC issuances, compliance requirements, enforcement of data privacy laws and regulations, and other related matters on personal data privacy,
 security, and protection.[^10]
 
-As such, an advisory opinion does not operate to provide any authorization or clearance to
-process personal information. These are left to the sound determination of PICs, taking into
-consideration the provisions of the DPA, its IRR, and NPC issuances.
+As such, an advisory opinion does not operate to provide any authorization or clearance to process personal information. These are left to the sound determination of PICs, taking into consideration the provisions of the DPA, its IRR, and NPC issuances.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

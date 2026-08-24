@@ -48,45 +48,24 @@ data of the Department of Health (DOH) - Rizal Cancer Registry and Philippine Ca
 #### DPA and research
 
 [[laws/data-privacy-act-of-2012#section-4-scope|Section 4 of the Data Privacy Act]] enumerates categories of information outside the scope of the law.
-This includes processing of personal information for research purposes.[^3] This exemption, however,
-is not absolute, but only to the minimum extent necessary to achieve the specific purpose, function,
-or activity,[^4] and subject to the requirements of applicable laws, regulations, or ethical standards.[^5]
+This includes processing of personal information for research purposes.[^3] This exemption, however, is not absolute, but only to the minimum extent necessary to achieve the specific purpose, function, or activity,[^4] and subject to the requirements of applicable laws, regulations, or ethical standards.[^5]
 
 First, research purpose is strictly interpreted to refer to processing intended for a public benefit.[^6]
 Maintaining a registry for research purpose falls within the special cases recognized by the DPA.
 
-Second, the processing will be exempted only to the extent necessary. Personal information
-controllers[^7] (PICs) and personal information processors[^8] (PIPs) engaged in research which involves
-sensitive personal information are expected to comply with their obligations under the DPA on the
-implementation of organizational, technical, and physical security measures to ensure the protection
-of personal data against accidental or unlawful destruction, alteration, disclosure, or unlawful
-processing.[^9] PICs are also responsible for personal information under its control or custody,
-including those transferred or shared with third parties.[^10]
+Second, the processing will be exempted only to the extent necessary. Personal information controllers[^7] (PICs) and personal information processors[^8] (PIPs) engaged in research which involves sensitive personal information are expected to comply with their obligations under the DPA on the implementation of organizational, technical, and physical security measures to ensure the protection of personal data against accidental or unlawful destruction, alteration, disclosure, or unlawful processing.[^9] PICs are also responsible for personal information under its control or custody, including those transferred or shared with third parties.[^10]
 
-Third, the flexibility for research purposes will only apply in so far as it is consistent with ethical
-and legal standards. This means that there are instances when the consent requirements for research
-may be waived if such waiver is consistent with legal and ethical principles. Likewise, the rights of
-data subjects may also be limited where such limitation is necessary to maintain research integrity.
+Third, the flexibility for research purposes will only apply in so far as it is consistent with ethical and legal standards. This means that there are instances when the consent requirements for research may be waived if such waiver is consistent with legal and ethical principles. Likewise, the rights of data subjects may also be limited where such limitation is necessary to maintain research integrity.
 
-One way of demonstrating adherence to ethical standards is by seeking the approval of a duly
-recognized Research Ethics Committee (REC)/Internal Review Board (IRB)/Ethics Board (EB)[^11] for
-the research protocol, including the waiver of the consent requirement for research purpose.
+One way of demonstrating adherence to ethical standards is by seeking the approval of a duly recognized Research Ethics Committee (REC)/Internal Review Board (IRB)/Ethics Board (EB)[^11] for the research protocol, including the waiver of the consent requirement for research purpose.
 
-We understand that the Registries - Rizal Cancer Registry and Manila Cancer Registry – are
-maintained by the government and a private institution, respectively. We assume that sensitive
-personal information in these Registries have been collected and processed pursuant to a statutory
-mandate in the case of the DOH, and consent of data subjects, in the case of the PCS. Without consent
-from data subjects, the burden is on PCS to demonstrate that the processing of sensitive personal
-information without consent is consistent with legal and ethical standards.
+We understand that the Registries - Rizal Cancer Registry and Manila Cancer Registry – are maintained by the government and a private institution, respectively. We assume that sensitive personal information in these Registries have been collected and processed pursuant to a statutory mandate in the case of the DOH, and consent of data subjects, in the case of the PCS. Without consent from data subjects, the burden is on PCS to demonstrate that the processing of sensitive personal information without consent is consistent with legal and ethical standards.
 
 While maintaining a registry for research purposes may be permitted under the DPA, linkages with
 the PSA database may be subject to other laws allowing disclosure of information to the public.
 The PSA is mandated to ensure confidentiality of all primary data that they retain.[^12] Consequently,
 the agency may only release the aggregated information in a summary form.[^13] Further, Republic
-Act 10625,[^14] otherwise known as the Philippine Statistical Act of 2013, and its implementing rules
-and regulations, prohibit the agency from disclosing information that may lead to any person’s
-identity, unless otherwise mandated by another law. Under the DPA, the criteria for lawful
-processing of sensitive personal information are:
+Act 10625,[^14] otherwise known as the Philippine Statistical Act of 2013, and its implementing rules and regulations, prohibit the agency from disclosing information that may lead to any person’s identity, unless otherwise mandated by another law. Under the DPA, the criteria for lawful processing of sensitive personal information are:
 
    a. The data subject has given his or her consent;
       b. The processing of the same is provided for by existing laws and regulations;
@@ -106,16 +85,11 @@ processing of sensitive personal information are:
        establishment, exercise or defense of legal claims, or when provided to government or
        public authority.
 
-Where one of the criteria provided in the DPA is met, sensitive personal information may be
-processed and shared. Note also that data sharing between government agencies for the purpose of
-a public function or provision of a public service should be covered by a data sharing agreement.
+Where one of the criteria provided in the DPA is met, sensitive personal information may be processed and shared. Note also that data sharing between government agencies for the purpose of a public function or provision of a public service should be covered by a data sharing agreement.
 Please refer to [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] - Data Sharing Agreements Involving Government Agencies
 - for additional details.
 
-In view of the foregoing, it is best to consult with the PSA Legal Service and clarify if it is possible
-for the DOH and the PCS to provide PSA with a list of specific individuals from their respective
-databases and for the latter to match this with its mortality database, i.e. provide a “Yes” or “No”
-answer as to the status of those individuals, taking into consideration the provisions of NPC
+In view of the foregoing, it is best to consult with the PSA Legal Service and clarify if it is possible for the DOH and the PCS to provide PSA with a list of specific individuals from their respective databases and for the latter to match this with its mortality database, i.e. provide a “Yes” or “No” answer as to the status of those individuals, taking into consideration the provisions of NPC
 Circulars No. [[issuances/undated/security-of-personal-data-in-government-agencies|2016-01]] (Security of Personal Data in Government Agencies) and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|2016-02]] (Data
 Sharing Agreements Involving Government Agencies)
 

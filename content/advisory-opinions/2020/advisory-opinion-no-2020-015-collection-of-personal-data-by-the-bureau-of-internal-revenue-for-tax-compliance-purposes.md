@@ -31,33 +31,21 @@ draft: false
 Dear [Redacted],
 
 We write in response to your request for an advisory opinion received by the National Privacy
-Commission (NPC) which sought to clarify whether the Bureau of Internal Revenue (BIR) may
-process personal and sensitive personal information (collectively, personal data) such as the list
-of names and Taxpayer Identification Numbers (TINs) pursuant to its mandate, specifically
+Commission (NPC) which sought to clarify whether the Bureau of Internal Revenue (BIR) may process personal and sensitive personal information (collectively, personal data) such as the list of names and Taxpayer Identification Numbers (TINs) pursuant to its mandate, specifically
 Section 5 of the National Internal Revenue Code (NIRC) of 1997, as amended.
 
-In your letter, you stated that the BIR issued Revenue Memorandum Circular (RMC) No. 31-2013
-to resolve and correct the wrong impression that Filipinos employed by resident foreign missions,
-such as embassies and consulate offices, in the Philippines are exempt from tax on salaries and
-emoluments received from their foreign mission employers. For years, the local hires of foreign
-missions did not file and pay their income tax. RMC No. 31-2013 reiterated the obligation of such
+In your letter, you stated that the BIR issued Revenue Memorandum Circular (RMC) No. 31-2013 to resolve and correct the wrong impression that Filipinos employed by resident foreign missions, such as embassies and consulate offices, in the Philippines are exempt from tax on salaries and emoluments received from their foreign mission employers. For years, the local hires of foreign missions did not file and pay their income tax. RMC No. 31-2013 reiterated the obligation of such
 Filipino employees to file and pay the corresponding income taxes.
 
 You further stated in your letter that the BIR requested for assistance from the Department of
-Foreign Affairs (DFA) in the course of its investigation and verification of the Filipino employees’
-compliance with the RMC. In particular, the BIR asked the DFA to obtain the list of names and
-the corresponding TINs of the locally hired employees of the foreign missions, citing Sections 4
-and 19 of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) as legal bases for the request. Despite the foregoing,
-some of the embassies still refused to cooperate and claimed that the information being requested
+Foreign Affairs (DFA) in the course of its investigation and verification of the Filipino employees’ compliance with the RMC. In particular, the BIR asked the DFA to obtain the list of names and the corresponding TINs of the locally hired employees of the foreign missions, citing Sections 4 and 19 of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA) as legal bases for the request. Despite the foregoing, some of the embassies still refused to cooperate and claimed that the information being requested
 is sensitive and protected.
 
 ### Discussion
 
 #### Scope of the DPA; special cases; general data privacy principles; security measures
 
-The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for a list of specified
-information that are not covered by the law, which includes information necessary to carry out
-functions of a public authority, to wit:
+The DPA and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) provide for a list of specified information that are not covered by the law, which includes information necessary to carry out functions of a public authority, to wit:
 
    “SECTION 5. Special Cases. The Act and these Rules shall not apply to the following
          specified information, only to the minimum extent of collection, access, use, disclosure or
@@ -83,9 +71,7 @@ functions of a public authority, to wit:
          be exempted from the requirements of the Act only to the minimum extent necessary to
          achieve the specific purpose, function, or activity.”[^3] (Underscoring supplied)
 
-Based on the above, information necessary to carry out regulatory functions of a public authority,
-in accordance with a constitutional or statutory mandate, are outside the scope of the DPA. This
-exemption, however, is to be strictly construed:
+Based on the above, information necessary to carry out regulatory functions of a public authority, in accordance with a constitutional or statutory mandate, are outside the scope of the DPA. This exemption, however, is to be strictly construed:
 
 1. Applies only to the minimum extent of collection, access, use, disclosure, or other processing
    necessary to the purpose, function, or activity concerned. The processing for a regulatory
@@ -125,15 +111,10 @@ amended, the BIR Commissioner has the following powers:
          authorized representative at a time and place specified in the summons and to produce such
          books, papers, records, or other data, and to give testimony;     xxx    xxx     xxx.”
 
-From the foregoing, the BIR Commissioner is authorized by law to obtain information in the
-evaluation of the tax compliance of any person, specifically in this case where the BIR has already
-identified an issue with respect to compliance of local hires of foreign diplomatic missions in the
+From the foregoing, the BIR Commissioner is authorized by law to obtain information in the evaluation of the tax compliance of any person, specifically in this case where the BIR has already identified an issue with respect to compliance of local hires of foreign diplomatic missions in the
 Philippines with the NIRC and specifically, RMC No. 31-2013.
 
-While the BIR may have a lawful basis for processing, the same should be done in a secure manner
-and with strict adherence to all existing rules and regulations, which may include the issuance of
-tax verification notices, letter notices, letter of authority, subpoena duces tecum, etc., where
-appropriate in the circumstances and as may be determined by the BIR.
+While the BIR may have a lawful basis for processing, the same should be done in a secure manner and with strict adherence to all existing rules and regulations, which may include the issuance of tax verification notices, letter notices, letter of authority, subpoena duces tecum, etc., where appropriate in the circumstances and as may be determined by the BIR.
 
 We note that there may be some limitations with respect to the rights of the data subjects where
 the processing of personal data is for the purpose of investigations in relation to any tax liabilities
@@ -142,9 +123,7 @@ of the data subject.[^5]
 Nonetheless, in all other cases, the BIR is expected to uphold and have mechanisms in place for
 the exercise of these rights.
 
-We reiterate that the DPA is not meant to prevent government agencies from processing personal
-data when necessary to fulfill their mandates. Rather, the law aims to protect the right to data
-privacy while ensuring free flow of information. It promotes fair, secure, and lawful processing
+We reiterate that the DPA is not meant to prevent government agencies from processing personal data when necessary to fulfill their mandates. Rather, the law aims to protect the right to data privacy while ensuring free flow of information. It promotes fair, secure, and lawful processing
 of such information.[^6]
 
 This opinion is based on the information you have provided. Additional information may change

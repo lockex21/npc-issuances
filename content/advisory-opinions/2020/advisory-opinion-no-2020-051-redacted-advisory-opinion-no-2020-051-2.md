@@ -46,19 +46,9 @@ Specifically, the request sought to clarify the following matters vis-à-vis the
 #### Scope of the DPA; mandate; investigatory and
 intelligence functions; public authority
 
-The DPA applies to the processing of all types of personal information and to any natural and
-juridical person involved in the processing of personal information.[^3] The DPA also states that
-the processing of personal information shall be allowed, subject to compliance with the
-requirements of the DPA and other laws allowing disclosure of information to the public and
-in adherence to the principles of transparency, legitimate purpose, and proportionality.
+The DPA applies to the processing of all types of personal information and to any natural and juridical person involved in the processing of personal information.[^3] The DPA also states that the processing of personal information shall be allowed, subject to compliance with the requirements of the DPA and other laws allowing disclosure of information to the public and in adherence to the principles of transparency, legitimate purpose, and proportionality.
 
-We understand that the PRA is a government owned and controlled corporation created by
-virtue of Executive Order No. 1037.[^4] It is mandated to develop and promote the Philippines
-as retirement haven as a means of accelerating the social and economic development of the
-country, strengthening its foreign exchange position at the same time providing further best
-quality of life to the targeted retirees in a most attractive package.[^5] As part of this mandate,
-the PRA issues SRRV, a special non-immigrant visa for foreign nationals who would like to
-make the Philippines their second home or investment destination.
+We understand that the PRA is a government owned and controlled corporation created by virtue of Executive Order No. 1037.[^4] It is mandated to develop and promote the Philippines as retirement haven as a means of accelerating the social and economic development of the country, strengthening its foreign exchange position at the same time providing further best quality of life to the targeted retirees in a most attractive package.[^5] As part of this mandate, the PRA issues SRRV, a special non-immigrant visa for foreign nationals who would like to make the Philippines their second home or investment destination.
 
 On the other hand, the NBI is mandated pursuant to Republic Act (RA) No. 10867 or the National Bureau of Investigation Reorganization and Modernization Act to undertake investigation and detection of crimes and offenses, conduct intelligence operations, among other functions.[^6]
 
@@ -86,22 +76,10 @@ From the foregoing, the NBI and the Army, acting based on their statutorily mand
 legitimate purpose; due process requirements;
 standard procedures
 
-Specifically for the principles of legitimate purpose and proportionality, it may be prudent for
-the PRA to clarify what particular personal data should actually be released by virtue of the
-letter requests as well as additional details on the purpose/s for processing, especially since
-the request for and release of “pertinent information/data on the 28,000 Chinese National Retirees”
-as requested by the Army may be overly broad. There must be specificity, lest these requests
-be construed as violative not just of the provisions of the DPA, but the constitutional
-guarantee against unreasonable searches and seizures as well. We note that the
-reasonableness of any government intrusion is weighed against the reasonable expectation of
-privacy of the individual considering the provisions of the DPA and other surrounding
+Specifically for the principles of legitimate purpose and proportionality, it may be prudent for the PRA to clarify what particular personal data should actually be released by virtue of the letter requests as well as additional details on the purpose/s for processing, especially since the request for and release of “pertinent information/data on the 28,000 Chinese National Retirees” as requested by the Army may be overly broad. There must be specificity, lest these requests be construed as violative not just of the provisions of the DPA, but the constitutional guarantee against unreasonable searches and seizures as well. We note that the reasonableness of any government intrusion is weighed against the reasonable expectation of privacy of the individual considering the provisions of the DPA and other surrounding
 circumstances.
 
-For this purpose, the PRA is not precluded to further ask and/or confirm from both the NBI
-and the Army the veracity of the letter requests, if the issuance of a letter request is the
-standard operating procedure for such types of requests, if there are any written orders or
-documented process flows on who are the authorized signatories of such requests, etc., just to
-ensure that the letter requests are validly issued, considering that in the case of the NBI, the
+For this purpose, the PRA is not precluded to further ask and/or confirm from both the NBI and the Army the veracity of the letter requests, if the issuance of a letter request is the standard operating procedure for such types of requests, if there are any written orders or documented process flows on who are the authorized signatories of such requests, etc., just to ensure that the letter requests are validly issued, considering that in the case of the NBI, the
 
 agency has already been granted subpoena powers under the National Bureau of
 Investigation Reorganization and Modernization Act.[^10]
@@ -109,13 +87,7 @@ Investigation Reorganization and Modernization Act.[^10]
 You should coordinate with your data protection officer (DPO) as well as the DPOs of the NBI
 and the Army to resolve this matter.
 
-We wish to emphasize that while the DPA shall not be used to hamper, or interfere with, the
-performance of the duties and functions of duly constituted public authorities, government
-agencies do not have the blanket authority to access or use the personal data of individuals
-under the custody of another agency. Government agencies as personal information
-controllers, must be able to show that their personal data processing activities are necessary
-to their statutory functions, and that the processing is limited to achieving such specific
-purpose, function, or activity based on mandate.
+We wish to emphasize that while the DPA shall not be used to hamper, or interfere with, the performance of the duties and functions of duly constituted public authorities, government agencies do not have the blanket authority to access or use the personal data of individuals under the custody of another agency. Government agencies as personal information controllers, must be able to show that their personal data processing activities are necessary to their statutory functions, and that the processing is limited to achieving such specific purpose, function, or activity based on mandate.
 
 #### Request for aggregate data/statistics
 

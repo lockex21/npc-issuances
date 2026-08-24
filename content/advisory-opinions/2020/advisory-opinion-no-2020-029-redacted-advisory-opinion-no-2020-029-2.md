@@ -28,9 +28,7 @@ Re:       REQUEST   FOR   PERSONAL      INFORMATION  OF
 Dear [Redacted],
 
 We write in response to your letters requesting for an advisory opinion from the National
-Privacy Commission (NPC) on whether a particular barangay could provide certain
-information on the Katarungang Pambarangay[^2] process to an individual as part of her data
-collection for her thesis without violating Republic Act (R.A.) No. 10173, or the [[laws/data-privacy-act-of-2012|Data Privacy
+Privacy Commission (NPC) on whether a particular barangay could provide certain information on the Katarungang Pambarangay[^2] process to an individual as part of her data collection for her thesis without violating Republic Act (R.A.) No. 10173, or the [[laws/data-privacy-act-of-2012|Data Privacy
 Act of 2012]][^3] (DPA).
 
 We understand that an individual who is currently taking her master’s degree is requesting
@@ -50,41 +48,25 @@ fear of committing a violation of applicable laws.
 
 The [[laws/data-privacy-act-of-2012|DPA]] applies to all types of processing of personal information and to any natural and
 juridical person involved in personal information processing, subject to certain qualifications.[^4]
-Under the law, the names of the complainants and their addresses are considered personal
-information, and its disclosure constitutes processing which should meet the requirements
-such as the criteria for lawful processing of personal information found under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]]
+Under the law, the names of the complainants and their addresses are considered personal information, and its disclosure constitutes processing which should meet the requirements such as the criteria for lawful processing of personal information found under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12]]
 thereof.
 
-However, the law provides for special cases where the processing of certain personal
-information is excluded from its scope. These include personal information processed for
-journalistic, artistic, literary or research purposes.[^5] The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]]
-(IRR) of the DPA states that personal information that will be processed for research purpose,
-intended for a public benefit, subject to the requirements of applicable laws, regulations, or
-ethical standards, is outside of the scope of the law.[^6]
+However, the law provides for special cases where the processing of certain personal information is excluded from its scope. These include personal information processed for journalistic, artistic, literary or research purposes.[^5] The [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRR) of the DPA states that personal information that will be processed for research purpose, intended for a public benefit, subject to the requirements of applicable laws, regulations, or ethical standards, is outside of the scope of the law.[^6]
 
 Nevertheless, this exemption is not absolute. This is interpreted to the effect that there is a
 presumption that personal information may be lawfully processed under such special cases.[^7]
 Specifically in this case, a researcher may lawfully process personal information even without
 meeting the conditions under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, but the processing shall be limited
-to that which is necessary to achieve the specific purpose, function, or activity, and the
-researcher, as a personal information controller, is still required to implement measures to
-secure and protect personal information.[^8]
+to that which is necessary to achieve the specific purpose, function, or activity, and the researcher, as a personal information controller, is still required to implement measures to secure and protect personal information.[^8]
 
-Stated simply, researchers are still obliged to implement reasonable and appropriate security
-measures for the protection of personal information, uphold the data subject rights, and
-adhere to the data privacy principles and other provisions of the DPA.
+Stated simply, researchers are still obliged to implement reasonable and appropriate security measures for the protection of personal information, uphold the data subject rights, and adhere to the data privacy principles and other provisions of the DPA.
 
 #### Nature of research; obligations of researchers
 
-In determining whether the release of the abovementioned personal information may be
-allowed under the DPA, it is necessary to understand the nature of research which is
-contemplated by the DPA and its IRR.
+In determining whether the release of the abovementioned personal information may be allowed under the DPA, it is necessary to understand the nature of research which is contemplated by the DPA and its IRR.
 
 As stated in [[advisory-opinions/2019/advisory-opinion-no-2019-017-npc-advisory-opinion-no-2019-017|NPC Advisory Opinion No. 2019-017]][^9] which discussed the implications of the
-DPA to the conduct of academic research vis-à-vis access to documents and records in the
-custody of government, “research is an activity that aims to develop or contribute to
-knowledge that can be generalized (including theories, principles, relationships), or any
-accumulation of information using scientific methods, observation, inference, and analysis.”[^10]
+DPA to the conduct of academic research vis-à-vis access to documents and records in the custody of government, “research is an activity that aims to develop or contribute to knowledge that can be generalized (including theories, principles, relationships), or any accumulation of information using scientific methods, observation, inference, and analysis.”[^10]
 This includes data gathering for thesis or dissertations.
 
 We reiterate the discussion on the aforesaid Advisory Opinion, to wit:
@@ -104,20 +86,11 @@ We reiterate the discussion on the aforesaid Advisory Opinion, to wit:
 > DPA, which calls for an interpretation of the law that is mindful of the rights and interests
 > of data subjects.”[^11]
 
-Moreover, the DPA “recognizes that research is critical to nation-building and serves the
-interest of the public.”[^12] It bears stressing that the DPA offers flexibility on processing for
-research purposes as long as it is in consistent with ethical and legal standards, meaning that
-there may be instances when the consent requirements may be waived if such waiver is
-consistent with legal and ethical principles.[^13] Likewise, the rights of data subjects may also be
-limited where such limitation is necessary to maintain research integrity.[^14]
+Moreover, the DPA “recognizes that research is critical to nation-building and serves the interest of the public.”[^12] It bears stressing that the DPA offers flexibility on processing for research purposes as long as it is in consistent with ethical and legal standards, meaning that there may be instances when the consent requirements may be waived if such waiver is consistent with legal and ethical principles.[^13] Likewise, the rights of data subjects may also be limited where such limitation is necessary to maintain research integrity.[^14]
 
 #### Data subject’s rights; limitation on rights
 
-We note, however, that [[laws/data-privacy-act-of-2012#section-19-non-applicability|Section 19 of the DPA]] provides for the non-applicability of the rights
-of data subjects where the processing of personal information is only for the needs of scientific
-and statistical research and, on the basis of such, no activities are carried out and no decisions
-are taken regarding the data subject. At the same time, the personal information shall be held
-under strict confidentiality and shall be used only for the declared purpose.
+We note, however, that [[laws/data-privacy-act-of-2012#section-19-non-applicability|Section 19 of the DPA]] provides for the non-applicability of the rights of data subjects where the processing of personal information is only for the needs of scientific and statistical research and, on the basis of such, no activities are carried out and no decisions are taken regarding the data subject. At the same time, the personal information shall be held under strict confidentiality and shall be used only for the declared purpose.
 
 Nonetheless, we reiterate that any limitations on the rights of the data subject shall only be to
 the minimum extent necessary to achieve the purpose of said research.[^15]
@@ -128,30 +101,18 @@ While personal information processed for research purposes is a special case, PI
 obliged to adhere to the data privacy principles of transparency, legitimate purpose, and
 proportionality.
 
-Specifically for this request, the principle of proportionality requires that the processing of
-information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a
-declared and specified purpose.[^16] Personal data shall be processed only if the purpose of the
-processing could not reasonably be fulfilled by other means.[^17]
+Specifically for this request, the principle of proportionality requires that the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.[^16] Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.[^17]
 
 Considering the foregoing, the request should be evaluated carefully in terms of whether the
 specific information requested is indispensable in achieving the research purpose.
 
 In relation to such evaluation, the barangay officials, or even the Lupong Tagapamayapa
 (Lupon), created for the implementation of the Katarungang Pambarangay, pursuant to
-Section 399, Chapter VII of the Local Government Code of 1991, has the obligation to examine
-the particular request, keeping in mind their functions under the governing law, applicable
-rules and regulations, and data privacy principles enunciated in the DPA.
+Section 399, Chapter VII of the Local Government Code of 1991, has the obligation to examine the particular request, keeping in mind their functions under the governing law, applicable rules and regulations, and data privacy principles enunciated in the DPA.
 
-These barangay officials are not precluded from seeking further clarification from the
-researcher as to the details of her thesis, such as the exact purpose for collecting the names of
-the complainants and their addresses in relation to the study, whether such personal
-information is indispensable to the purpose, if statistics or aggregated data will suffice,
-whether redacting the personal information in the documents to be provided may be
-acceptable, among other considerations.
+These barangay officials are not precluded from seeking further clarification from the researcher as to the details of her thesis, such as the exact purpose for collecting the names of the complainants and their addresses in relation to the study, whether such personal information is indispensable to the purpose, if statistics or aggregated data will suffice, whether redacting the personal information in the documents to be provided may be acceptable, among other considerations.
 
-This opinion is rendered based on the information you have provided. It does not adjudicate
-issues between parties nor impose any sanctions or award damages. Additional information
-may change the context of the inquiry and the appreciation of the facts.
+This opinion is rendered based on the information you have provided. It does not adjudicate issues between parties nor impose any sanctions or award damages. Additional information may change the context of the inquiry and the appreciation of the facts.
 
 For your reference.
 

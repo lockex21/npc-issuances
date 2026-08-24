@@ -39,24 +39,16 @@ We understand that a certain individual took an intimate photo of you and your p
 dining in a restaurant and then proceeded to post it in a social media platform together with
 a derisive caption.
 
-We understand further that you discovered that your photo was posted through a mutual
-friend who saw the same. You now ask for advice on the possibility of filing a case against the
-individual as you felt offended with the posting of your photo without your consent.
+We understand further that you discovered that your photo was posted through a mutual friend who saw the same. You now ask for advice on the possibility of filing a case against the individual as you felt offended with the posting of your photo without your consent.
 
 ### Discussion
 
 #### Privacy in a public place; privacy in the digital environment
 
-According to the United Nations High Commissioner for Human Rights report, privacy can
-be considered as the presumption that individuals should have an area of autonomous
-development, interaction and liberty, a “private sphere” with or without interaction with
-others, free from State intervention and from excessive unsolicited intervention by other
+According to the United Nations High Commissioner for Human Rights report, privacy can be considered as the presumption that individuals should have an area of autonomous development, interaction and liberty, a “private sphere” with or without interaction with others, free from State intervention and from excessive unsolicited intervention by other
 uninvited individuals.[^2]
 
-Further, the report enunciates that in the digital environment, informational privacy covering
-information that exists or can be derived about a person and the decisions based on that
-information, is of particular importance, and the protection of the right to privacy extends to
-public spaces and information that is publicly available.[^3]
+Further, the report enunciates that in the digital environment, informational privacy covering information that exists or can be derived about a person and the decisions based on that information, is of particular importance, and the protection of the right to privacy extends to public spaces and information that is publicly available.[^3]
 
 Accordingly, a person’s data privacy rights do not cease even when one is in a public space.
 In [[advisory-opinions/2018/advisory-opinion-no-2018-051-npc-advisory-opinion-no-2018-051|NPC Advisory Opinion No. 2018-051]],[^4] the following advice was given regarding persons
@@ -78,14 +70,10 @@ As discussed above, data subjects should be able to exercise their rights under 
 Privacy Act of 2012]][^5] (DPA). Kindly refer to [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] for further guidance
 on this matter.
 
-Finally, we note that based on our records, you were not able to submit the required
-documentation to elevate your inquiry into a full-fledged complaint. If you wish to pursue
-the case and file a complaint, you may visit our website to download a copy of the Complaints-
+Finally, we note that based on our records, you were not able to submit the required documentation to elevate your inquiry into a full-fledged complaint. If you wish to pursue the case and file a complaint, you may visit our website to download a copy of the Complaints-
 Assisted Form (CAF) available at https://www.privacy.gov.ph/complaints-assisted/.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

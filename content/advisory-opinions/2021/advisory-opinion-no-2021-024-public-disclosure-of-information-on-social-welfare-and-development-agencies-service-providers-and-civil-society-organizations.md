@@ -32,9 +32,7 @@ Re:       PUBLIC DISCLOSURE OF INFORMATION ON SOCIAL
 Dear [Redacted],
 
 We write in response to your request for advisory opinion received by the National Privacy
-Commission (NPC) to provide guidance on the various concerns with respect to the processing of
-data pertaining to Social Welfare and Development Agencies (SWDAs), Service Providers (SPs),
-and Civil Society Organizations (CSOs) registered, licensed, and accredited by the Department of
+Commission (NPC) to provide guidance on the various concerns with respect to the processing of data pertaining to Social Welfare and Development Agencies (SWDAs), Service Providers (SPs), and Civil Society Organizations (CSOs) registered, licensed, and accredited by the Department of
 Social Welfare and Development (DSWD) considering the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of
 2012]][^2] (DPA).
 
@@ -100,16 +98,9 @@ In relation to the above, where disclosure of personal and/or sensitive personal
 (collectively, personal data) of individuals connected to the SWDA, SP, or CSO is involved, the
 DPA will apply.
 
-Under the DPA, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e)]] provides that the processing of personal information shall be
-permitted when it is necessary to fulfill the functions of a public authority which includes the
-processing of personal data for the fulfillment of its mandate. If sensitive personal information is
-involved, processing may be based on [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b)]] which recognizes processing that is provided
-for by existing laws and regulations.
+Under the DPA, [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e)]] provides that the processing of personal information shall be permitted when it is necessary to fulfill the functions of a public authority which includes the processing of personal data for the fulfillment of its mandate. If sensitive personal information is involved, processing may be based on [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (b)]] which recognizes processing that is provided for by existing laws and regulations.
 
-The DSWD may process any personal data of individuals, who may be directors, officers,
-employees or members of SWDAs, SPs, and CSOs which may include their names, contact
-information, business addresses, when such processing is necessary to fulfill its functions in the
-registration, licensing and accreditation of said entities, including monitoring and oversight
+The DSWD may process any personal data of individuals, who may be directors, officers, employees or members of SWDAs, SPs, and CSOs which may include their names, contact information, business addresses, when such processing is necessary to fulfill its functions in the registration, licensing and accreditation of said entities, including monitoring and oversight
 functions.
 
 Any processing of personal data in relation to disclosure of information of Blacklisted SWDAs and
@@ -118,32 +109,17 @@ as well.
 
 #### Freedom of Information Requests; General Data Privacy Principles
 
-On Freedom of Information (FOI) requests for research purposes and SWDAs who received cash
-incentives, the DSWD may disclose data relating to SWDAs, SPs and CSOs following the
-guidelines provided by E.O. No. 2, s. 2016.
+On Freedom of Information (FOI) requests for research purposes and SWDAs who received cash incentives, the DSWD may disclose data relating to SWDAs, SPs and CSOs following the guidelines provided by E.O. No. 2, s. 2016.
 
-The people’s right to be informed on matters of public concern is recognized in this instance,
-especially when the SWDAs, SPs and CSOs implement social welfare and development programs
-which make use of public funds. For the sake of transparency and accountability, information on
-the SWDAs, SPs and CSOs, as juridical entities, and even related personal data, where necessary
-and proportional to the purpose of the request, may be disclosed.
+The people’s right to be informed on matters of public concern is recognized in this instance, especially when the SWDAs, SPs and CSOs implement social welfare and development programs which make use of public funds. For the sake of transparency and accountability, information on the SWDAs, SPs and CSOs, as juridical entities, and even related personal data, where necessary and proportional to the purpose of the request, may be disclosed.
 
-We underscore the principle of proportionality under the DPA which requires that the processing
-of personal data shall be adequate, relevant, suitable, necessary, and not excessive in relation to a
-declared and specified purpose.[^5] Personal data shall be processed only if the purpose of the
-processing could not reasonably be fulfilled by other means.[^6]
+We underscore the principle of proportionality under the DPA which requires that the processing of personal data shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.[^5] Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.[^6]
 
-We thus advise that any disclosure or publication of personal data should only contain relevant
-information necessary to achieve the purpose of ensuring transparency and accountability. Keep
-in mind that any processing of sensitive personal information is prohibited unless allowed under
-the instances enumerated in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
+We thus advise that any disclosure or publication of personal data should only contain relevant information necessary to achieve the purpose of ensuring transparency and accountability. Keep in mind that any processing of sensitive personal information is prohibited unless allowed under the instances enumerated in [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 of the DPA]].
 
 #### Lawful Basis for Processing; Consent; Privacy Notice
 
-As discussed above, the lawfulness of the processing of personal data is primarily based upon the
-mandate of the DSWD and its compliance to legal obligations. Hence, the consent of data subjects
-is not the most appropriate lawful basis for the given scenarios. Further, we wish to highlight that
-consent is only one of the various criteria for lawful processing and is not required in all instances.
+As discussed above, the lawfulness of the processing of personal data is primarily based upon the mandate of the DSWD and its compliance to legal obligations. Hence, the consent of data subjects is not the most appropriate lawful basis for the given scenarios. Further, we wish to highlight that consent is only one of the various criteria for lawful processing and is not required in all instances.
 
 But to assist the DSWD, we provide the following guidance for reference:
 
@@ -177,9 +153,7 @@ be confused with a consent form which is necessary only if consent is the basis 
 Finally, as to the sample privacy notice provided, we suggest that the same be modified given the
 discussion above.
 
-This opinion is based solely on the limited information you have provided. Additional information
-may change the context of the inquiry and the appreciation of facts. This opinion does not
-adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

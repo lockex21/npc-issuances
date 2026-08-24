@@ -103,10 +103,7 @@ Having an adequate privacy notice reinforces the principles of transparency and 
 
 Finally, to address your concern about the personal data of unit owners outside of BIR’s jurisdiction, we recommend consulting directly with the BIR for clarification as questions of jurisdiction of the BIR are no longer within the scope of the Commission. In doing so, it is crucial to consider the principle of proportionality. It must be ensured that each piece of requested information is necessary and proportionate to achieve the intended tax compliance objectives. If any part of the request seems unclear or seems to involve excessive data collection, you may request clarification from the BIR on how each item relates to the fulfillment of the latter’s mandate.[^8]
 
-Please be advised that this Advisory Opinion was rendered based solely on the information
-you have provided. Any extraneous fact that may be subsequently furnished us may affect
-our present position. Please note further that our Advisory Opinion is not intended to
-adjudicate the rights and obligations of the parties involved.
+Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 

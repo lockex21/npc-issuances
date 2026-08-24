@@ -31,12 +31,7 @@ We respectfully provide you with our Advisory Opinion on your query raising seve
 concerns regarding the transfer of personal data of your customers to a local electric
 cooperative.
 
-You inform that your company is a third-party power generation and distribution company
-with clientele located in isolated areas in the Philippines. We understand that your company
-intends to transfer its power distribution rights to a local electric cooperative in one of your
-sites. However, there remain unpaid charges from some of your customers. Thus, you requested
-the local electric cooperative to collect the unpaid charges on your company’s behalf, but this
-necessitates the disclosure of your list of customers including their addresses and contact details
+You inform that your company is a third-party power generation and distribution company with clientele located in isolated areas in the Philippines. We understand that your company intends to transfer its power distribution rights to a local electric cooperative in one of your sites. However, there remain unpaid charges from some of your customers. Thus, you requested the local electric cooperative to collect the unpaid charges on your company’s behalf, but this necessitates the disclosure of your list of customers including their addresses and contact details
 to the local electric cooperative.
 
 Thus, you ask the following:

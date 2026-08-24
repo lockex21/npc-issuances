@@ -60,15 +60,11 @@ Accordingly, you seek to obtain the member's consent via the above authorization
 
    xxx
 
-Further, processing is defined under the DPA as any operation or any set of operations performed
-upon personal information, including, but not limited to, the collection, recording, organization,
-storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or
+Further, processing is defined under the DPA as any operation or any set of operations performed upon personal information, including, but not limited to, the collection, recording, organization, storage, updating or modification, retrieval, consultation, use, consolidation, blocking, erasure or
 destruction of data.
 
 Considering the above provisions, the birth certificate, marriage contract, Certificate of No
-Marriage Record (CENOMAR), and such other pertinent PSA records of AFPSLAI members
-necessarily contain personal and sensitive personal information. As such, collection of such
-documents by AFPSLAI from its members constitutes processing under the DPA. Thus, the
+Marriage Record (CENOMAR), and such other pertinent PSA records of AFPSLAI members necessarily contain personal and sensitive personal information. As such, collection of such documents by AFPSLAI from its members constitutes processing under the DPA. Thus, the
 processing must comply with [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA, respectively, to wit:
 
    SEC. 12. Criteria for Lawful Processing of Personal Information. – The processing of personal
@@ -172,16 +168,9 @@ Having an adequate privacy notice reinforces the principles of transparency and 
 
 #### Data Subject Rights; Safeguards; Establishment of Guidelines
 
-Ultimately, in any processing of personal data, we respectfully remind AFPSLAI to give due
-regard to the fundamental rights and freedoms of data subjects. As a PIC, AFPSLAI bears the
-responsibility of ensuring that its data subjects are informed of their rights under the DPA, and
-that appropriate mechanisms are in place to enable the exercise of such rights. For a thorough
-guidance on the matter, you may read through [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-019 on Data Subject Rights]].
+Ultimately, in any processing of personal data, we respectfully remind AFPSLAI to give due regard to the fundamental rights and freedoms of data subjects. As a PIC, AFPSLAI bears the responsibility of ensuring that its data subjects are informed of their rights under the DPA, and that appropriate mechanisms are in place to enable the exercise of such rights. For a thorough guidance on the matter, you may read through [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-019 on Data Subject Rights]].
 
-Please be advised that this Advisory Opinion was rendered based solely on the information you
-have provided. Any extraneous fact that may be subsequently furnished us may affect our present
-position. Please note further that our Advisory Opinion is not intended to adjudicate the rights
-and obligations of the parties involved.
+Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 

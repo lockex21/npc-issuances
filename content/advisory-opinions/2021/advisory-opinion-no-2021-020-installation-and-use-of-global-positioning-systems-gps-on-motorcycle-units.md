@@ -51,56 +51,28 @@ in rented and collateralized units.
 
 #### GPS Device Installation and Use; Proportionality Principle
 
-The pertinent issue in this case is whether the processing of personal information, or more
-particularly, the collection of location data of the lessee or borrower, through the installation
-of GPS devices in motorcycle units that are rented or on collateral, is warranted in the situation
-given. Processing, including the collection, access to and storage of an individual’s location
-has with it various risks and threats to one’s privacy and security.
+The pertinent issue in this case is whether the processing of personal information, or more particularly, the collection of location data of the lessee or borrower, through the installation of GPS devices in motorcycle units that are rented or on collateral, is warranted in the situation given. Processing, including the collection, access to and storage of an individual’s location has with it various risks and threats to one’s privacy and security.
 
-Under the DPA, the processing of personal information shall be allowed upon compliance
-with the requirements of the law and adherence to the general data privacy principles of
-transparency, legitimate purpose and proportionality.[^3]
+Under the DPA, the processing of personal information shall be allowed upon compliance with the requirements of the law and adherence to the general data privacy principles of transparency, legitimate purpose and proportionality.[^3]
 
-The principle of proportionality dictates that the processing of personal data shall be
-adequate, relevant, suitable, necessary, and not excessive in relation to a declared and
-specified purpose.[^4] Furthermore, personal data shall be processed only if the purpose of the
-processing could not reasonably be fulfilled by other means.[^5]
+The principle of proportionality dictates that the processing of personal data shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.[^4] Furthermore, personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.[^5]
 
-We note that the purpose sought by '''''''''''''''''' ''''''''''''''''' is to prevent or deter the loss or theft of
-the motorcycles it has for rent or on loan may initially be seen as legitimate. However, this
-must be scrutinized against the possible violation of the individual’s privacy and threats to
+We note that the purpose sought by '''''''''''''''''' ''''''''''''''''' is to prevent or deter the loss or theft of the motorcycles it has for rent or on loan may initially be seen as legitimate. However, this must be scrutinized against the possible violation of the individual’s privacy and threats to
 security.
 
-It is worth noting that ''''''''''''''''' ''''''''''''''''', being a finance corporation, would already have in
-place proper procedures in the provision of motorcycles on rent or collateral, including KYC
-or Know-Your-Customer requirements or applications requiring the disclosure of personal
-data by the client. Likewise, it is of common knowledge that this type of service requires the
-company and the client to come under a contractual agreement that would have provisions
-on penalties in case of default on loan payments or in cases of theft or loss of the vehicle.
+It is worth noting that ''''''''''''''''' ''''''''''''''''', being a finance corporation, would already have in place proper procedures in the provision of motorcycles on rent or collateral, including KYC or Know-Your-Customer requirements or applications requiring the disclosure of personal data by the client. Likewise, it is of common knowledge that this type of service requires the company and the client to come under a contractual agreement that would have provisions on penalties in case of default on loan payments or in cases of theft or loss of the vehicle.
 
-In a broader perspective, the company would then have the means to properly account
-for any damage it may incur from any loss or theft of its motorcycles on rent or collateral
-without having to unnecessarily intrude upon the privacy of its clients.
+In a broader perspective, the company would then have the means to properly account for any damage it may incur from any loss or theft of its motorcycles on rent or collateral without having to unnecessarily intrude upon the privacy of its clients.
 
 #### Consent
 
-Even if there is a proposal to obtain consent from the individual, such consent may not be
-considered as freely given in the sense that the client has no other option but to accede to the
-requirement to be able to rent or obtain on collateral the motorcycle.
+Even if there is a proposal to obtain consent from the individual, such consent may not be considered as freely given in the sense that the client has no other option but to accede to the requirement to be able to rent or obtain on collateral the motorcycle.
 
-We reiterate that consent has to be freely given, specific, and an informed indication of will,
-whereby the data subject agrees to the collection and processing of personal data about
-and/or relating to him or her.[^6] In this case, if doubts are raised regarding the voluntariness of
-the consent obtained, the validity of the consent can be put into question as well.
+We reiterate that consent has to be freely given, specific, and an informed indication of will, whereby the data subject agrees to the collection and processing of personal data about and/or relating to him or her.[^6] In this case, if doubts are raised regarding the voluntariness of the consent obtained, the validity of the consent can be put into question as well.
 
-While there are proposed guidelines to protect privacy and to obtain the consent of the
-individual, we deem that the installation of GPS devices on the motorcycles for rent or on
-collateral is disproportional to the purpose sought to be achieved by the company. The
-company should consider other less privacy-intrusive means to achieve its objectives.
+While there are proposed guidelines to protect privacy and to obtain the consent of the individual, we deem that the installation of GPS devices on the motorcycles for rent or on collateral is disproportional to the purpose sought to be achieved by the company. The company should consider other less privacy-intrusive means to achieve its objectives.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

@@ -2,15 +2,15 @@
 title: "Access to Personal Data Sheets of Government Personnel (Advisory No. 2017-02)"
 description: "Provides guidance on access to personal data sheets of government personnel, balancing the right to information with the right to privacy."
 aliases:
-- "Advisory No. 2017-02"
-- "access to personal data sheets of government personnel"
-- "advisory no. 2017-02"
-- "npc advisory no. 2017-02"
+  - "Advisory No. 2017-02"
+  - "access to personal data sheets of government personnel"
+  - "advisory no. 2017-02"
+  - "npc advisory no. 2017-02"
 tags:
-- issuance
-- topic/government
-- type/advisory
-- year/2017
+  - issuance
+  - topic/government
+  - type/advisory
+  - year/2017
 draft: false
 date: '2017-04-03'
 ---
@@ -39,21 +39,23 @@ WHEREAS, Section 17 of the [[laws/implementing-rules-and-regulations-of-the-data
 
 WHEREFORE, in consideration of the foregoing premises, the National Privacy Commission (NPC) hereby issues this Advisory regarding access to Personal Data Sheets (PDS) of government personnel:
 
-**SECTION 1.** ***Background.*** The people have a fundamental right to information, particularly on matters of public concern.[^1] Every Filipino citizen is afforded this right, subject to certain limitations provided by law.
+### **Background**
+
+The people have a fundamental right to information, particularly on matters of public concern[^1]. Every Filipino citizen is afforded this right, subject to certain limitations provided by law.
 
 One statute that sanctions the limited disclosure of public documents is Republic Act No. 6713, otherwise known as the “Code of Conduct and Ethical Standards for Public Officials and Employees”. Its Implementing Rules and Regulations (IRR) state that all public documents must be made accessible to the public during office hours,[^2] except for certain types of official information, records or documents.[^3]
 
 Occasionally, a law would provide for a disclosure policy regarding a specific type of public document. With a birth certificate, for instance, Presidential Decree (PD) No. 603, otherwise known as “The Child and Youth Welfare Code”, states that it may only be issued upon request by certain persons and under certain conditions.[^4]
 
-Jurisprudence also offers some guidance on this subject. In a case, the Supreme Court permitted access to the Statement of Assets, Liabilities and Net Worth (SALN), Personal Data Sheets (PDS), and Curriculum Vitae (CV) of sitting Justices, but not before clarifying that the constitutional guarantees of right to information and right to access to public records are not absolute. The people’s right to know, the Court reasoned, is limited to matters of "public concern" and may further be restricted by limitations provided by law. The Court then went on to establish guidelines for the release of the aforesaid documents vis-a-vis judiciary personnel.[^5]
+Jurisprudence also offers some guidance on this subject. In a case, the Supreme Court permitted access to the Statement of Assets, Liabilities and Net Worth (SALN), Personal Data Sheets (PDS), and Curriculum Vitae (CV) of sitting Justices, but not before clarifying that the constitutional guarantees of right to information and right to access to public records are not absolute. The people’s right to know, the Court reasoned, is limited to matters of "public concern"[^5] and may further be restricted by limitations provided by law. The Court then went on to establish guidelines for the release of the aforesaid documents vis-a-vis judiciary personnel[^6].
 
-In Legaspi vs. Civil Service Commission (150 SCRA 530), the Supreme Court ruled that:
+In *Legaspi vs. Civil Service Commission* (150 SCRA 530), the Supreme Court ruled that:
 
-"In determining whether or not a particular information is of public concern there is no rigid test which can be applied. 'Public concern' like 'public interest' is a term that eludes exact definition. Both terms embrace a broad spectrum of subjects which the public may want to know, either because these directly affect their lives, or simply because such matters naturally arouse the interest of an ordinary citizen. In the final analysis, it is for the courts to determine in a case by case basis whether the matter at issue is of interest or importance, as it relates to or affects the public."
+> “In determining whether or not a particular information is of public concern there is no rigid test which can be applied. 'Public concern' like 'public interest' is a term that eludes exact definition. Both terms embrace a broad spectrum of subjects which the public may want to know, either because these directly affect their lives, or simply because such matters naturally arouse the interest of an ordinary citizen. In the final analysis, it is for the courts to determine in a case by case basis whether the matter at issue is of interest or importance, as it relates to or affects the public.”
 
-In Legaspi vs. Civil Service Commission[^7], the Court also took up the authority of a government agency or office to regulate access to public records, to wit:
+In *Legaspi vs. Civil Service Commission*[^7], the Court also took up the authority of a government agency or office to regulate access to public records, to wit:
 
-“The authority to regulate the manner of examining public records does not carry with it the power to prohibit. A distinction has to be made between the discretion to refuse outright the disclosure of or access to particular information and the authority to regulate the manner in which the access is to be afforded. The first is a limitation upon the availability of access to the information sought, which only the Legislature may impose (Art. II, Sec. 6, 1987 Constitution). The second pertains to the government agency charged with the custody of public records. Its authority to regulate access is to be exercised solely to the end that damage to, or loss of, public records may be avoided, undue interference with the duties of said agencies may be prevented, and more importantly, that the exercise of the same constitutional right by other persons shall be assured.” (underscoring supplied)
+> “The authority to regulate the manner of examining public records does not carry with it the power to prohibit. A distinction has to be made between the discretion to refuse outright the disclosure of or access to particular information and the authority to regulate the manner in which the access is to be afforded. The first is a limitation upon the availability of access to the information sought, which only the Legislature may impose (Art. II, Sec. 6, 1987 Constitution). The second pertains to the government agency charged with the custody of public records. Its authority to regulate access is to be exercised solely to the end that damage to, or loss of, public records may be avoided, undue interference with the duties of said agencies may be prevented, and more importantly, that the exercise of the same constitutional right by other persons shall be assured.” (underscoring supplied)
 
 The issuance of Executive Order No. 2 (2016) by the Office of the President did not deviate from these established principles and only served to affirm them. The issuance, which relates to the operationalization of the people’s right to information under the executive branch, permits the disclosure of information in the possession or under the custody of the government unless they fall under any of the exceptions "enshrined in the Constitution, existing law or jurisprudence".[^8] These exceptions were taken up in greater detail in the Memorandum issued by the Executive Secretary, dated 24 November 2016, and which had for its subject "Inventory of Exceptions to Executive Order No. 2 (S. 2016)".
 
@@ -65,7 +67,9 @@ With EO 2, it clarifies that "while providing access to information, public reco
 
 The [[laws/data-privacy-act-of-2012|DPA]], meanwhile, excludes from its scope those information that fall within matters of public concern. They include: (a) personal data relating to the position or functions of a current or former government employee;[^12] (b) personal data relating to the service performed by a current or former government contractor;[^13] and (c) information regarding a benefit of a financial nature given by the government, at its discretion, to an individual.[^14]
 
-**SECTION 2.** ***Discussion.*** A PDS is an official document that the Civil Service Commission (CSC) requires each government employee or official to accomplish prior to his or her assumption of office. It is a repository of information pertaining to that employee or official, including his or her personal background, qualifications, and eligibility.[^15]
+### **Discussion**
+
+A PDS is an official document that the Civil Service Commission (CSC) requires each government employee or official to accomplish prior to his or her assumption of office. It is a repository of information pertaining to that employee or official, including his or her personal background, qualifications, and eligibility.[^15]
 
 It is considered a public document.[^16] According to the Rules of Court, public documents are: "(a) the written official acts, or records of the official acts of the sovereign authority, official bodies and tribunals, and public officers, whether of the Philippines, or of a foreign country; (b) documents acknowledge before a notary public, except last wills and testaments; and (c) public records, kept in the Philippines, of private documents required by law to be entered therein".[^17]
 
@@ -73,7 +77,9 @@ Premised on the principles raised herein, it is clear that access to or disclosu
 
 The right to information on matters of public concern is a fundamental right but it must always be balanced with an individual’s right to privacy, particularly data privacy. While each individual that enters into government service, or works in some other capacity for the State, may lose some degree of privacy in the process, this does not, under any circumstances, equate to a full or absolute surrender of such right. After all, his or her personal data is no less susceptible to abuse and other perils such as unlawful or unauthorized processing.
 
-**SECTION 3.** ***Recommendations.*** Disclosure of personal data shall only be allowed when permitted by existing laws. Under the [[laws/data-privacy-act-of-2012|DPA]], only those that relate to the position or function of an individual working for the government may be made available to the public. Other types of personal data, especially sensitive personal information, may be released only if necessary to the declared, specified, and legitimate purpose of the requesting party.
+### **Recommendations**
+
+Disclosure of personal data shall only be allowed when permitted by existing laws. Under the [[laws/data-privacy-act-of-2012|DPA]], only those that relate to the position or function of an individual working for the government may be made available to the public. Other types of personal data, especially sensitive personal information, may be released only if necessary to the declared, specified, and legitimate purpose of the requesting party.
 
 Thus, when resolving a pending request for access to a PDS, a government agency or office must consider the following:
 
@@ -91,23 +97,21 @@ Suffice to say, each request should be evaluated in relation to its declared pur
 
 Approved:
 
-SGD.
-RAYMUND E. LIBORO
+**[Sgd] RAYMUND E. LIBORO**
 Privacy Commissioner
 
-SGD.
-IVY D. PATDU
+**[Sgd] IVY D. PATDU**
 Deputy Privacy Commissioner
 
-SGD.
-DAMIAN DOMINGO O. MAPA
+**[Sgd] DAMIAN DOMINGO O. MAPA**
 Deputy Privacy Commissioner
 
 [^1]: 1987 Constitution, Article III, §7.
 [^2]: Rule VI, §6.
 [^3]: IRR of RA 6713, §3.
 [^4]: Article 7 of Presidential Decree No. 603 (The Child and Youth Welfare Code). Non-disclosure of Birth Records: "The records of a person's birth shall be kept strictly confidential and no information relating thereto shall be issued except on the request of any of the following: The person himself, or any person authorized by him; His spouse, his parent or parents, his direct descendants, or the guardian or institution legally in-charge of him if he is a minor; The court or proper public official whenever absolutely necessary in administrative, judicial or other official proceedings to determine the identity of the child's parents or other circumstances surrounding his birth; and In case of the person's death, the nearest of kin."
-[^5]: Re: Request for Copy of 2008 Statement of Assets, Liabilities and Net Worth (SALN) and Personal Data Sheet or Curriculum Vitae of the Justices of the Supreme Court and Officers and Employees of the Judiciary, A.M. No. 09-8-6-SC and Re: Request of Philippine Center for Investigative Journalism (PCJ) for the 2008 Statement of Assets, Liabilities and Net Worth (SALN) and Personal Data Sheet of the Court of Appeals Justice, AM No. 09-8-07-CA (13 June 2012). See also: Legaspi vs. Civil Service Commission, G.R. No. L-72119 (29 May 1987); Advincula vs. Dicen, G.R. No. 162403 (16 May 2005).
+[^5]: *In Legaspi vs. Civil Service Commission* (150 SCRA 530), the Supreme Court ruled that: “In determining whether or not a particular information is of public concern there is no rigid test which can be applied. 'Public concern' like 'public interest' is a term that eludes exact definition. Both terms embrace a broad spectrum of subjects which the public may want to know, either because these directly affect their lives, or simply because such matters naturally arouse the interest of an ordinary citizen. In the final analysis, it is for the courts to determine in a case by case basis whether the matter at issue is of interest or importance, as it relates to or affects the public.”
+[^6]: *Re: Request for Copy of 2008 Statement of Assets, Liabilities and Net Worth (SALN) and Personal Data Sheet or Curriculum Vitae of the Justices of the Supreme Court and Officers and Employees of the Judiciary*, A.M. No. 09-8-6-SC and *Re: Request of Philippine Center for Investigative Journalism (PCJ) for the 2008 Statement of Assets, Liabilities and Net Worth (SALN) and Personal Data Sheet of the Court of Appeals Justice*, A.M. No. 09-8-07-CA (13 June 2012). See also: *Legaspi vs. Civil Service Commission*, G.R. No. L-72119 (29 May 1987).
 [^7]: Legaspi vs. Civil Service Commission, G.R. No. L-72119 (29 May 1987).
 [^8]: EO 2 (2016), §7.
 [^9]: [[laws/data-privacy-act-of-2012|Section 2 of the Data Privacy Act of 2012]].

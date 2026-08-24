@@ -30,9 +30,7 @@ Re: COLLABORATION WITH INSURANCE COMPANIES FOR ACCESS TO CONTACT DETAILS OF DATA
 Dear [Redacted],
 
 We write in response to your inquiry which sought to clarify matters regarding the [[laws/data-privacy-act-of-2012|Data
-Privacy Act of 2012]][^2] (DPA), particularly on the legitimate purpose in seeking assistance from
-and collaborating with insurance companies for access to the updated personal information
-and contact details of the insured vehicle owners, in relation to the on-going campaign of
+Privacy Act of 2012]][^2] (DPA), particularly on the legitimate purpose in seeking assistance from and collaborating with insurance companies for access to the updated personal information and contact details of the insured vehicle owners, in relation to the on-going campaign of
 Honda Cars Philippines, Inc. (HCPI) for the product recall pertaining to the replacement of
 vehicle parts/components relating to the safety of the vehicle and its passengers.
 
@@ -61,9 +59,7 @@ From the foregoing, it seems that such criterion for lawful processing to protec
 
 HCPI may consider the other lawful criteria for processing of personal information as provided for in Section 12, i.e. processing is necessary and is related to the fulfillment of the contract[^8] of sale in relation to HCPI’s obligation to warrant the goods against any hidden defects or legitimate interest[^9] of HCPI. For the insurance companies, they may be able to process and disclose the insured’s information based on its duty to fulfill the contract of insurance or even the legitimate interest of the insurance company.
 
-In any case, HCPI and the insurance companies are advised to determine the most appropriate
-basis for the sharing or disclosure of such personal information, with due consideration of the
-rights and freedoms of the data subjects.
+In any case, HCPI and the insurance companies are advised to determine the most appropriate basis for the sharing or disclosure of such personal information, with due consideration of the rights and freedoms of the data subjects.
 
 #### General data privacy principles; proportionality
 
@@ -71,16 +67,10 @@ The processing of personal information must adhere to the data privacy principle
 
 her rights as data subject, and how these rights can be exercised. With regard to proportionality, the processing of information must be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.[^10] Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.[^11]
 
-From the foregoing, the proposed HCPI collaboration with the insurance companies for access
-to the updated personal information of the insured vehicle owners should strictly be limited
-to the sharing of the personal information which is adequate and necessary for the on-going
+From the foregoing, the proposed HCPI collaboration with the insurance companies for access to the updated personal information of the insured vehicle owners should strictly be limited to the sharing of the personal information which is adequate and necessary for the on-going
 product recall campaign.
 
-In addition, HCPI should also consider the availability of other measures to inform such
-owners of the product recall, i.e. launching an intensified information campaign through
-various traditional media and social media, utilizing the resources of its dealerships across
-the country to intensify the campaign, among others. HCPI may likewise request the
-insurance companies to check their respective records and determine if there are insured
+In addition, HCPI should also consider the availability of other measures to inform such owners of the product recall, i.e. launching an intensified information campaign through various traditional media and social media, utilizing the resources of its dealerships across the country to intensify the campaign, among others. HCPI may likewise request the insurance companies to check their respective records and determine if there are insured
 Honda vehicles which are qualified for the product recall. Such insurance companies may
 then directly inform these insured car owners of the HCPI’s product recall campaign.
 

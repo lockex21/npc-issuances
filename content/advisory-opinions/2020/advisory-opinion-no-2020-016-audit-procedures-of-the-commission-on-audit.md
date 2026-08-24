@@ -41,9 +41,7 @@ The COA is a constitutional commission, created precisely to be one of the pilla
 
 We must be reminded that the processing of information necessary in order to carry out the functions of public authority, in accordance with a constitutionally or statutorily mandated function pertaining to law enforcement or regulatory function, subject to restrictions provided by law, is one of the instances where the application of the Data Privacy Act of 2012[^4] (DPA), and of the DPA’s [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^5] (IRR), is qualified or limited.
 
-This means that when the personal information is needed to be processed by a public
-authority, such as the COA, pursuant to its constitutional mandate, the processing of such
-personal data is generally allowed by the aforementioned enactments.
+This means that when the personal information is needed to be processed by a public authority, such as the COA, pursuant to its constitutional mandate, the processing of such personal data is generally allowed by the aforementioned enactments.
 
 The DPA shall not be used to hamper, or interfere with, the performance of the duties and functions of duly constituted public authorities. Pursuant to the 1987 Constitution, the COA shall have exclusive authority, subject to certain limitations, to define the scope of its audit and examination, establish the techniques and methods required therefor, and promulgate accounting and auditing rules and regulations, including those for the prevention and disallowance of irregular, unnecessary, excessive, extravagant, or unconscionable expenditures or uses of government funds and properties.[^6]
 

@@ -48,17 +48,9 @@ We understand that the RMC denied the request on the basis of patient confidenti
 
 #### Legitimate purpose; Lawful processing; Disclosure to a third party of personal data held by a hospital should have patient’s consent or should be authorized under existing laws and regulations.
 
-The NPC has been requested to issue an advisory opinion on whether a hospital can disclose the
-fact that diagnostic exams or chemical tests have been performed on an individual in the health
-facility. In this particular case, a third party asks a public hospital to disclose whether an alleged
-suspect in a vehicular accident, reported to have resulted in the loss of human life, had an alcohol
-test or drug test performed in the health facility. It is not clear whether the alleged suspect is a
-patient of the facility, and whether cases have been brought against him.
+The NPC has been requested to issue an advisory opinion on whether a hospital can disclose the fact that diagnostic exams or chemical tests have been performed on an individual in the health facility. In this particular case, a third party asks a public hospital to disclose whether an alleged suspect in a vehicular accident, reported to have resulted in the loss of human life, had an alcohol test or drug test performed in the health facility. It is not clear whether the alleged suspect is a patient of the facility, and whether cases have been brought against him.
 
-For purposes of this advisory opinion, we took note of the letter of the RMC addressed to the
-requesting party. This letter was received by NPC from the CSC on July 17, 2018. The said letter
-informed the requesting party that the hospital “cannot release or share medical records because
-we are bound by patient confidentiality and provisions of RA No. 10173 or the Data Privacy Act.”
+For purposes of this advisory opinion, we took note of the letter of the RMC addressed to the requesting party. This letter was received by NPC from the CSC on July 17, 2018. The said letter informed the requesting party that the hospital “cannot release or share medical records because we are bound by patient confidentiality and provisions of RA No. 10173 or the Data Privacy Act.”
 This letter is considered in addition to the information provided by requesting party through
 telephone conversations.
 
@@ -78,9 +70,7 @@ Information about whether a diagnostic test has been performed is already inform
 
 The fact of ordering a diagnostic test or chemical test may already disclose information about a patient’s medical condition. This already goes into the differential diagnosis of a physician, which is based on a patient’s history, presenting symptoms, physical examination, and the professional judgment of the physician. This information is already part of the physician-patient relationship, the medical management, and involves advice, treatment and information acquired in the course of attending to a patient. There is no information available to evaluate whether the requested information falls under any category of information other than that which may have been acquired by the hospital in the context of provision of healthcare.[^7]
 
-The processing of all types of personal information will be allowed if the processing, such as
-disclosures to third party, complies with the requirements of the DPA, including the mandatory
-requirement of meeting at least one of the criteria for lawful processing.
+The processing of all types of personal information will be allowed if the processing, such as disclosures to third party, complies with the requirements of the DPA, including the mandatory requirement of meeting at least one of the criteria for lawful processing.
 
 Under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the DPA:
 

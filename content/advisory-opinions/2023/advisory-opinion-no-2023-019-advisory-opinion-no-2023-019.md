@@ -32,24 +32,16 @@ We respond to your request for an Advisory Opinion on the captioned matter.
 
 ### Discussion
 
-You inform that G-Xchange, Inc. (GCash) received a request from one of its individual
-customers for the home address of another individual customer (Recipient). The requesting
-customer (Sender) allegedly intended to transfer money from her Land Bank of the
-Philippines (LBP) account to her GCash account through PesoNet. But she mistyped her
-registered mobile number which resulted in the money being received by another individual
-(Recipient) who also happens to be a GCash user. The Sender then requested GCash for the
+You inform that G-Xchange, Inc. (GCash) received a request from one of its individual customers for the home address of another individual customer (Recipient). The requesting customer (Sender) allegedly intended to transfer money from her Land Bank of the
+Philippines (LBP) account to her GCash account through PesoNet. But she mistyped her registered mobile number which resulted in the money being received by another individual (Recipient) who also happens to be a GCash user. The Sender then requested GCash for the
 Recipient’s name and home address to resolve the situation. In its desire to balance the interest
 of both data subjects, GCash responded by providing the Sender only with the Recipient’s
 name and registered email address.
 
-However, the Sender deemed the email address as insufficient and insisted that GCash
-divulge the Recipient’s home address. The Sender claims that the purpose for such request is
-to be able to send a copy of her complaint against the Recipient who allegedly failed to return
+However, the Sender deemed the email address as insufficient and insisted that GCash divulge the Recipient’s home address. The Sender claims that the purpose for such request is to be able to send a copy of her complaint against the Recipient who allegedly failed to return
 the funds to her.
 
-GCash hesitates to accede to the Sender’s request considering that it already provided the
-name and email address of the Recipient. Further, it is GCash’s position that the Sender’s right
-to access does not include the disclosure to her of the Recipient’s home address.
+GCash hesitates to accede to the Sender’s request considering that it already provided the name and email address of the Recipient. Further, it is GCash’s position that the Sender’s right to access does not include the disclosure to her of the Recipient’s home address.
 
 Thus, you ask if the refusal of GCash to provide the recipient’s home address is justified under the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA) and other relevant issuances.[^1]
 
@@ -69,20 +61,12 @@ In *MAF v. Shopee*,[^5] the National Privacy Commission (NPC) adopted the three-
 
 > Processing based on legitimate interest requires the fulfillment of the following conditions: (1) the legitimate interest is established; (2) the processing is necessary to fulfill the legitimate interest that is established; and (3) the interest is legitimate and lawful and it does not override the fundamental rights and freedoms of data subjects.
 
-Applying the foregoing to the current matter, it appears that while the Sender was able to
-establish her legitimate interest, the scenario presented do not appear to satisfy the other two
-(2) requirements. To elaborate, the Sender’s established legitimate interest is to recover the
-amount that was wrongfully sent to the Recipient. However, the disclosure of the Recipient’s
-home address is not completely necessary for the Sender to file a complaint since Section
+Applying the foregoing to the current matter, it appears that while the Sender was able to establish her legitimate interest, the scenario presented do not appear to satisfy the other two (2) requirements. To elaborate, the Sender’s established legitimate interest is to recover the amount that was wrongfully sent to the Recipient. However, the disclosure of the Recipient’s home address is not completely necessary for the Sender to file a complaint since Section
 16, Rule 14 of the Rules of Court allows for the service of summons when a defendant’s
 whereabouts are unknown.
 
-In addition, it cannot be said that the disclosure of the home address would be proportional
-to the legitimate interest sought to be protected since the Sender was already provided with
-the name and registered email address of the Recipient. Such information will permit the
-Sender to pursue her available remedies. To allow the disclosure of the home address in the
-given scenario would unnecessarily tilt the balance of rights in favor of the Sender which may
-possibly result in extreme detriment to the Recipient. It must be borne in mind that the
+In addition, it cannot be said that the disclosure of the home address would be proportional to the legitimate interest sought to be protected since the Sender was already provided with the name and registered email address of the Recipient. Such information will permit the
+Sender to pursue her available remedies. To allow the disclosure of the home address in the given scenario would unnecessarily tilt the balance of rights in favor of the Sender which may possibly result in extreme detriment to the Recipient. It must be borne in mind that the
 Recipient is also a data subject who possesses privacy rights as well.
 
 The Civil Code of the Philippines prohibits persons from prying into the private lives of other individuals,[^6] thus:

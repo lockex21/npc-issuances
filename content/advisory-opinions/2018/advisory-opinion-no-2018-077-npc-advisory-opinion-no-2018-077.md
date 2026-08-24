@@ -29,9 +29,7 @@ Re: CONGRESSIONAL REQUEST FOR LISTS OF BENEFICIARIES OF THE PANTAWID PAMILYANG P
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion which sought clarification on
-the possible data privacy concerns regarding the request for information from the Chairperson
-of the Committee on Appropriations of the House of Representatives. The request states in
+We write in response to your request for an advisory opinion which sought clarification on the possible data privacy concerns regarding the request for information from the Chairperson of the Committee on Appropriations of the House of Representatives. The request states in
 part as follows:
 
 ### Discussion
@@ -43,21 +41,13 @@ part as follows:
    1. Pantawid Pamilyang Pilipino Program (4Ps)
                    2. Social Pension for Indigent Senior Citizens Program.”
 
-We understand that both the 4Ps and the Social Pension for Indigent Senior Citizens Program
-are government programs under the DSWD aimed at providing assistance to indigents. Both
-programs, in processing personal information of beneficiaries, are covered by the [[laws/data-privacy-act-of-2012|Data Privacy
+We understand that both the 4Ps and the Social Pension for Indigent Senior Citizens Program are government programs under the DSWD aimed at providing assistance to indigents. Both programs, in processing personal information of beneficiaries, are covered by the [[laws/data-privacy-act-of-2012|Data Privacy
 Act of 2012]][^2] (DPA).
 
 1. Would the names of the beneficiaries be considered as personal information or sensitive
    personal information?
 
-The names of the beneficiaries are considered as personal information, defined under the DPA
-as any information whether recorded in a material form or not, from which the identity of an
-individual is apparent or can be reasonably and directly ascertained by the entity holding the
-information, or when put together with other information would directly and certainly
-identify an individual.[^3] It is not sensitive personal information. The DPA under Section 3(l)
-provides an enumeration of what constitutes sensitive personal information, such as a
-person’s race, marital status, age, health and educations records, social security numbers,
+The names of the beneficiaries are considered as personal information, defined under the DPA as any information whether recorded in a material form or not, from which the identity of an individual is apparent or can be reasonably and directly ascertained by the entity holding the information, or when put together with other information would directly and certainly identify an individual.[^3] It is not sensitive personal information. The DPA under Section 3(l) provides an enumeration of what constitutes sensitive personal information, such as a person’s race, marital status, age, health and educations records, social security numbers,
 among others.
 
 2.    If the DSWD is asked to provide a sorted list, e.g. sorted by congressional district, would
@@ -74,19 +64,9 @@ The information is considered personal information and not sensitive personal in
    instance, would the oversight function of Congress qualify as a “legal obligation” of the
    DSWD?
 
-Congressional oversight embraces “all activities undertaken by Congress to enhance its
-understanding of and influence over the implementation of legislation it has enacted. Clearly,
-oversight concerns post-enactment measures undertaken by Congress: (a) to monitor
-bureaucratic compliance with program objectives, (b) to determine whether agencies are
-properly administered, (c) to eliminate executive waste and dishonesty, (d) to prevent
-executive usurpation of legislative authority, and (d) to assess executive conformity with the
-congressional perception of public interest.”[^4]
+Congressional oversight embraces “all activities undertaken by Congress to enhance its understanding of and influence over the implementation of legislation it has enacted. Clearly, oversight concerns post-enactment measures undertaken by Congress: (a) to monitor bureaucratic compliance with program objectives, (b) to determine whether agencies are properly administered, (c) to eliminate executive waste and dishonesty, (d) to prevent executive usurpation of legislative authority, and (d) to assess executive conformity with the congressional perception of public interest.”[^4]
 
-We refer to the Rules of the House of Representatives[^5] which declares that “efficient and
-effective access to and dissemination of appropriate and accurate information are imperative
-in lawmaking.”[^6] Further, the said rules state that “Committees shall have oversight
-responsibilities to determine whether or not laws and programs addressing subjects within
-their jurisdictions are being implemented and carried out in accordance with the intent of
+We refer to the Rules of the House of Representatives[^5] which declares that “efficient and effective access to and dissemination of appropriate and accurate information are imperative in lawmaking.”[^6] Further, the said rules state that “Committees shall have oversight responsibilities to determine whether or not laws and programs addressing subjects within their jurisdictions are being implemented and carried out in accordance with the intent of
 Congress and whether or not they should be continued, curtailed, or eliminated.”[^7]
 
 In addition, the rules provide that committees shall review and study on a continuing basis,
@@ -102,11 +82,7 @@ or upon order of the House:
            enacting new or additional legislation addressing subjects within their respective
            jurisdictions.[^8]
 
-Note that [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] provides for the criteria for lawful processing of personal
-information. Included among these is the criterion relating to the mandate of public authorities,
-i.e. when “processing is necessary in order to respond to national emergency, to comply with
-the requirements of public order and safety, or to fulfill functions of public authority which
-necessarily includes the processing of personal data for the fulfillment of its mandate.”[^9]
+Note that [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 of the DPA]] provides for the criteria for lawful processing of personal information. Included among these is the criterion relating to the mandate of public authorities, i.e. when “processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate.”[^9]
 
 In view of the foregoing, the request for information and processing to be done by the
 Committee on Appropriations may be founded on the fulfillment of the mandate of the said
@@ -118,9 +94,7 @@ Committee exercising its oversight function.
    party or parties to whom the data is disclosed.” In this instance, would the “oversight
    function of Congress qualify as a “legitimate interest” of the Congress?
 
-The processing performed by the government should always be anchored on the Constitution,
-or mandated by a law, rule or regulation. Hence, legitimate interest of government should
-have statutory or constitutional basis.
+The processing performed by the government should always be anchored on the Constitution, or mandated by a law, rule or regulation. Hence, legitimate interest of government should have statutory or constitutional basis.
 
 However, as discussed above, the disclosure of information by the DSWD to the Committee
 may be based on the fulfillment of the functions of a public authority under [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (e) of the DPA]].
@@ -133,12 +107,7 @@ may be based on the fulfillment of the functions of a public authority under [[l
    the Committee on Appropriations of the House of Representatives qualify as a
    “government or public authority”?
 
-As discussed, the names and addresses of beneficiaries are personal information and not
-sensitive personal information. However, should such list contain additional information of
-the beneficiaries, i.e. marital status, age, social security numbers, tax identification numbers,
-etc., these are then considered as sensitive personal information, and the applicable criteria for
-lawful processing may be Section 13(b) where processing is provided for by existing laws and
-regulations and/or Section 13(f) processing concerns such personal information provided to
+As discussed, the names and addresses of beneficiaries are personal information and not sensitive personal information. However, should such list contain additional information of the beneficiaries, i.e. marital status, age, social security numbers, tax identification numbers, etc., these are then considered as sensitive personal information, and the applicable criteria for lawful processing may be Section 13(b) where processing is provided for by existing laws and regulations and/or Section 13(f) processing concerns such personal information provided to
 government or public authority.
 
 6. In sum, and considering all of the foregoing, would it be lawful for the DSWD to grant the
@@ -150,40 +119,21 @@ DSWD may grant the request of the Committee on Appropriations of the House of
 Representatives pursuant to the oversight function cited and the criteria for lawful processing
 of personal information as discussed above.
 
-However, DSWD should also consider the principle of proportionality, whereby the
-processing of information shall be adequate, relevant, suitable, necessary, and not excessive
-in relation to a declared and specified purpose. Personal data shall be processed only if the
-purpose of the processing could not reasonably be fulfilled by other means.
+However, DSWD should also consider the principle of proportionality, whereby the processing of information shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. Personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.
 
 We note that the 2018 General Appropriations Act (GAA) Special Provisions for the 4Ps and
-Social Pension for Indigent Senior Citizens Program merely require DSWD to “submit its
-quarterly reports on the financial and physical accomplishments with electronic signature to
-the DBM, through the unified reporting system, and to the Speaker of the House of
+Social Pension for Indigent Senior Citizens Program merely require DSWD to “submit its quarterly reports on the financial and physical accomplishments with electronic signature to the DBM, through the unified reporting system, and to the Speaker of the House of
 Representatives, the President of the Senate of the Philippines, the House Committee on
 Appropriations and the Senate Committee on Finance…”
 
-Therefore, there is a need to determine if statistics or aggregated data will suffice for the
-oversight function of the Committee on Appropriations of the House of Representatives
-instead of requiring individual level data.
+Therefore, there is a need to determine if statistics or aggregated data will suffice for the oversight function of the Committee on Appropriations of the House of Representatives instead of requiring individual level data.
 
-We underscore that the interpretation of any provision of the DPA must be in a manner
-mindful of the rights and interests of the data subject.[^10] Processing operations performed
-about vulnerable data subjects like minors, the mentally ill, asylum seekers, the elderly,
-patients, those involving criminal offenses, or in any other case where an imbalance exists in
-the relationship between a data subject and a personal information controller or personal
-information processor,[^11] require special protection.[^12]
+We underscore that the interpretation of any provision of the DPA must be in a manner mindful of the rights and interests of the data subject.[^10] Processing operations performed about vulnerable data subjects like minors, the mentally ill, asylum seekers, the elderly, patients, those involving criminal offenses, or in any other case where an imbalance exists in the relationship between a data subject and a personal information controller or personal information processor,[^11] require special protection.[^12]
 
-Further, the risk to the rights and freedoms of persons that may result from personal data
-processing which could lead to physical, material or non-material damage, i.e. where personal
-aspects are evaluated, in particular analyzing or predicting aspects concerning performance
-at work, economic situation, health, personal preferences or interests, reliability or behavior,
-location or movements, in order to create or use personal profiles,[^13] should be considered as
+Further, the risk to the rights and freedoms of persons that may result from personal data processing which could lead to physical, material or non-material damage, i.e. where personal aspects are evaluated, in particular analyzing or predicting aspects concerning performance at work, economic situation, health, personal preferences or interests, reliability or behavior, location or movements, in order to create or use personal profiles,[^13] should be considered as
 well.
 
-Should aggregated data be insufficient for the purpose, the House of Representatives should
-provide information why the specific personal information requested is necessary in relation
-to its declared purpose. Where the House of Representatives collects and processes this
-information from the DSWD, the House will be bound by its obligations under the DPA, its
+Should aggregated data be insufficient for the purpose, the House of Representatives should provide information why the specific personal information requested is necessary in relation to its declared purpose. Where the House of Representatives collects and processes this information from the DSWD, the House will be bound by its obligations under the DPA, its
 [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|IRR]], and issuances of the NPC, specifically [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security of Personal
 
 Data in Government Agencies and [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|NPC Circular No. 16-02]] - Data Sharing Agreements

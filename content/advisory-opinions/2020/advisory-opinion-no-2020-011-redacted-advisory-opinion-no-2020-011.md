@@ -29,16 +29,11 @@ Re: ACCESS TO SIBLINGS’ BIRTH CERTIFICATES FOR OBTAINING
 Dear [Redacted],
 
 We write in response to your letter requesting for an advisory opinion from the National
-Privacy Commission (NPC) on whether you can be allowed to secure the birth certificates of
-your seven siblings from the Philippine Statistics Authority (PSA), pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c)]]
-and (f) and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the Data Privacy Act of 2012]][^2] (DPA).
+Privacy Commission (NPC) on whether you can be allowed to secure the birth certificates of your seven siblings from the Philippine Statistics Authority (PSA), pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Section 12 (c)]] and (f) and [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the Data Privacy Act of 2012]][^2] (DPA).
 
 ### Discussion
 
-You require the said birth certificates in order to apply for the tax identification numbers (TINs)
-of your siblings for the payment of estate taxes and the transfer of the respective allotted
-portions of the estate of your deceased parents to you and each of your siblings as heirs,
-pursuant to the compromise agreement approved by the Regional Trial Court Branch 30 of
+You require the said birth certificates in order to apply for the tax identification numbers (TINs) of your siblings for the payment of estate taxes and the transfer of the respective allotted portions of the estate of your deceased parents to you and each of your siblings as heirs, pursuant to the compromise agreement approved by the Regional Trial Court Branch 30 of
 Surigao City in Civil Case No. ''''''''''''' for Partition dated March 10, 2011.
 
 We understand that the PSA denied your request for the birth certificates citing the provisions
@@ -46,19 +41,13 @@ of the DPA as the reason for the denial.
 
 #### Birth Certificate Contains Sensitive Personal Information; Lawful Basis for Processing
 
-A birth certificate contains the following information of an individual, among others: name,
-sex, date of birth, place of birth, type of birth, birth order, weight at birth, parents’ details
-(name, citizenship, religion and occupation), among others. Most of the information contained
-in a birth certificate are considered sensitive personal information under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]].
+A birth certificate contains the following information of an individual, among others: name, sex, date of birth, place of birth, type of birth, birth order, weight at birth, parents’ details (name, citizenship, religion and occupation), among others. Most of the information contained in a birth certificate are considered sensitive personal information under [[laws/data-privacy-act-of-2012#section-3-definition-of-terms|Section 3(l) of the DPA]].
 
 The processing or disclosure of a birth certificate, which contains sensitive personal
 information, is generally prohibited except in certain cases enumerated under Section 13 of
 the law.
 
-One of those exceptions, which was included in your query is under paragraph (f) which
-applies when the processing concerns such personal information as is necessary for the
-protection of lawful rights and interests of natural or legal persons in court proceedings, or
-the establishment, exercise or defense of legal claims, or when provided to government or
+One of those exceptions, which was included in your query is under paragraph (f) which applies when the processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or
 public authority.
 
 But in this case, there is actually a law regarding the issuance of birth records. It is of
@@ -92,10 +81,7 @@ Article 7 of PD No. 6034 provides for the rules on disclosure of birth records, 
              or other circumstances surrounding his birth; and
          (4) In case of the person’s death, the nearest of kin.”
 
-And lastly, we refer to the PSA’s Memorandum Circular No. 2019-15 dated 11 June 2019 on
-the Guidelines on the Issuance of the Civil Registry Documents (CRDs)/Certifications
-including Authentication. Said issuance provides for the basic requirements for the issuance
-of CRDs, which includes Certificate of Live Birth, to wit:
+And lastly, we refer to the PSA’s Memorandum Circular No. 2019-15 dated 11 June 2019 on the Guidelines on the Issuance of the Civil Registry Documents (CRDs)/Certifications including Authentication. Said issuance provides for the basic requirements for the issuance of CRDs, which includes Certificate of Live Birth, to wit:
 
    1. Presentation of a valid Identification (ID) Card of the document owner.
          2. If the requesting party is a duly authorized representative, the original copy of the
@@ -109,13 +95,9 @@ the birth certificates of your siblings.
 
 #### Transfer of Ownership of Real Property
 
-As the final objective is the transfer of the ownership of the real property to each of the heirs
-after the payment of all the requisite taxes, the competent authority to resolve the matter is
-the Bureau of Internal Revenue (BIR).
+As the final objective is the transfer of the ownership of the real property to each of the heirs after the payment of all the requisite taxes, the competent authority to resolve the matter is the Bureau of Internal Revenue (BIR).
 
-We recommend that you coordinate with the BIR Revenue District Office having jurisdiction
-over the subject property and request for proper guidance over your reported concern given
-that there is a difficulty in acquiring the birth certificates of your siblings.
+We recommend that you coordinate with the BIR Revenue District Office having jurisdiction over the subject property and request for proper guidance over your reported concern given that there is a difficulty in acquiring the birth certificates of your siblings.
 
 This opinion is rendered based on the information you have provided. Additional information
 may change the context of the inquiry and the appreciation of the facts.

@@ -67,22 +67,12 @@ rights would render its purpose nugatory.
 
 Protocols in Data Protection
 
-In response to questions 3, 4 and 5, the manner of exercising a data subject’s right to access
-would vary from every Personal Information Controller (PIC). As such, there is no catch-all
-protocol to be followed. An educational institution such as CEFI, however, is required to draft
-organizational policies that will uphold the rights of the data subject including their right to
-access. PICs are empowered to establish such reasonable standards and guidelines for data
-protection and implementation which include the limitation of such rights. Among others, a
-PIC may limit the exercise of data subject rights when a legitimate purpose exists in justifying
-such limitation. An example of such limitation may include restriction of certain information
-through redaction. This limitation on the data subjects’ rights is based on the principle of proportionality[^7] which essentially provides that the processing of information should be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. You may check our website at privacy.gov.ph for additional resources and guidance on procedures and policies concerning a data subject’s right to access. Moreover, a PIC should also keep in mind other governing laws from other regulators in crafting its protocols.
+In response to questions 3, 4 and 5, the manner of exercising a data subject’s right to access would vary from every Personal Information Controller (PIC). As such, there is no catch-all protocol to be followed. An educational institution such as CEFI, however, is required to draft organizational policies that will uphold the rights of the data subject including their right to access. PICs are empowered to establish such reasonable standards and guidelines for data protection and implementation which include the limitation of such rights. Among others, a
+PIC may limit the exercise of data subject rights when a legitimate purpose exists in justifying such limitation. An example of such limitation may include restriction of certain information through redaction. This limitation on the data subjects’ rights is based on the principle of proportionality[^7] which essentially provides that the processing of information should be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose. You may check our website at privacy.gov.ph for additional resources and guidance on procedures and policies concerning a data subject’s right to access. Moreover, a PIC should also keep in mind other governing laws from other regulators in crafting its protocols.
 
 In all cases, however, the restrictions should be in proportion to the purpose of such limitation.[^8] For instance, where a PIC denies or limits the exercise of data subject rights, the PIC should ensure that the data subject is clearly and fully informed of the reason for the limitation or denial.[^9] CEFI as a PIC can be held liable for an unjustified refusal to release incident reports to concerned parties.
 
-Please be advised that this Advisory Opinion was rendered based solely on the information
-you have provided. Any extraneous fact that may be subsequently furnished us may affect
-our present position. Please note further that our Advisory Opinion is not intended to
-adjudicate the rights and obligations of the parties involved.
+Please be advised that this Advisory Opinion was rendered based solely on the information you have provided. Any extraneous fact that may be subsequently furnished us may affect our present position. Please note further that our Advisory Opinion is not intended to adjudicate the rights and obligations of the parties involved.
 
 For your reference.
 

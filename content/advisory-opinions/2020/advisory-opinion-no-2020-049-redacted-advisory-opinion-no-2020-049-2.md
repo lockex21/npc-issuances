@@ -27,19 +27,14 @@ Re: RELEASE OF OVERSEAS FILIPINO WORKER INFORMATION TO FAMILY MEMBERS
 
 Dear [Redacted],
 
-We write in response to your request for an advisory opinion seeking guidance on an issue
-involving a request addressed to the Philippine Overseas Employment Agency (POEA) from
-the wife of an Overseas Filipino Worker (OFW) for the release of her spouse’s
+We write in response to your request for an advisory opinion seeking guidance on an issue involving a request addressed to the Philippine Overseas Employment Agency (POEA) from the wife of an Overseas Filipino Worker (OFW) for the release of her spouse’s
 information/records to her.
 
 The request arose from the wife’s allegation that her spouse stopped all communications with
 her and is no longer providing her and their children with financial support for more than
 five (5) months.
 
-POEA denied the request and directed her to ask the Public Attorney’s Office (PAO) for
-assistance on the matter, claiming that under POEA Advisory No. 08 s. 2019, an order from a
-competent court or government agency is a pre-requisite for the issuance of OFW information
-to persons other than the OFW concerned, and claiming further that a letter request from a
+POEA denied the request and directed her to ask the Public Attorney’s Office (PAO) for assistance on the matter, claiming that under POEA Advisory No. 08 s. 2019, an order from a competent court or government agency is a pre-requisite for the issuance of OFW information to persons other than the OFW concerned, and claiming further that a letter request from a
 PAO lawyer would be sufficient basis for the release of the subject OFW information.
 
 On the other hand, you opined that a court order or request from a government agency is not necessary in this case because the processing of sensitive personal information (SPI) is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority is allowed under [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|Section 13 (f) of the Data Privacy Act of 2012]][^2] (DPA).
@@ -72,22 +67,12 @@ From the foregoing, persons relying on Section 13 (f) for their personal data pr
 
 The law makes a distinction among the three (3) instances, mentioned under Item No. 2. This means that each of these instances may justify the processing of SPI under paragraph (f) of Section 13 but the appropriate provision must be established with sufficiency.
 
-While it is true that a claim for financial support between spouses is an exercise of a legal
-claim, a mere letter asserting that the information sought to be released is going to be used for
-the exercise of such legal claim may not be sufficient to establish the fact that such information
-will be processed in accordance with Section 13 (f).
+While it is true that a claim for financial support between spouses is an exercise of a legal claim, a mere letter asserting that the information sought to be released is going to be used for the exercise of such legal claim may not be sufficient to establish the fact that such information will be processed in accordance with Section 13 (f).
 
-The law does not specify how the aforementioned instances may be established, but in
-keeping with the spirit of the DPA to safeguard data privacy rights, such instances
-enumerated under Section 13 (f) require a stricter degree of proof for each of them to be
+The law does not specify how the aforementioned instances may be established, but in keeping with the spirit of the DPA to safeguard data privacy rights, such instances enumerated under Section 13 (f) require a stricter degree of proof for each of them to be
 established.
 
-We note that Section 13 readily express that the processing of SPI is prohibited unless certain
-exceptions are established. This shows that the intent of the law is to impose more stringent
-conditions to justify or allow the processing of SPI. Further, the burden of proof to establish
-that an exception provided by law applies to a certain case falls upon the person claiming such
-exception. Considering the foregoing, we must reiterate that a mere letter from the OFW’s
-wife may not be sufficient to justify the release of OFW information.
+We note that Section 13 readily express that the processing of SPI is prohibited unless certain exceptions are established. This shows that the intent of the law is to impose more stringent conditions to justify or allow the processing of SPI. Further, the burden of proof to establish that an exception provided by law applies to a certain case falls upon the person claiming such exception. Considering the foregoing, we must reiterate that a mere letter from the OFW’s wife may not be sufficient to justify the release of OFW information.
 
 In relation to the above, we quote a portion of the Memorandum from the POEA Legal Research, Docket and Enforcement Branch (Annex “E” of your letter):
 
@@ -99,19 +84,10 @@ In relation to the above, we quote a portion of the Memorandum from the POEA Leg
 >
 > xxx xxx xxx.
 
-From the foregoing, we understand the concern of the POEA. It seeks some assurance that the
-requested documents will indeed be used to establish, exercise, or defend a legal claim. From
-the POEA’s determination, such assurance is in the form of an official communication from
-the PAO that indeed, the latter is providing legal assistance to the wife to file an action for
-support against the OFW and that the OFW Information/Record is necessary for such
+From the foregoing, we understand the concern of the POEA. It seeks some assurance that the requested documents will indeed be used to establish, exercise, or defend a legal claim. From the POEA’s determination, such assurance is in the form of an official communication from the PAO that indeed, the latter is providing legal assistance to the wife to file an action for support against the OFW and that the OFW Information/Record is necessary for such
 action/legal claim to prosper.
 
-We also understand the PAO’s intention to ease the process for its client. With this, instead of
-the OFW’s wife going back and forth between the two agencies, it is suggested, where
-reasonable and appropriate under existing PAO rules, that the PAO directly communicate
-with the POEA, state that status of the legal assistance being given to the OFW’s wife, and
-request the POEA to furnish it with the necessary OFW information for the filing of an action
-for support, subject of course to any substantive and procedural processes in handling these
+We also understand the PAO’s intention to ease the process for its client. With this, instead of the OFW’s wife going back and forth between the two agencies, it is suggested, where reasonable and appropriate under existing PAO rules, that the PAO directly communicate with the POEA, state that status of the legal assistance being given to the OFW’s wife, and request the POEA to furnish it with the necessary OFW information for the filing of an action for support, subject of course to any substantive and procedural processes in handling these
 types of cases/assistance.
 
 We emphasize that the DPA was enacted for the protection of the fundamental human right of privacy while ensuring free flow of information.[^5] While it recognizes various lawful bases for processing personal as well as sensitive personal information by personal information controllers, this is with the concomitant responsibility on their part to ensure that the same is processed fairly, securely, and lawfully.

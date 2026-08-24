@@ -35,19 +35,13 @@ We write in response to your request for clarification on whether the European U
 General Data Protection Regulation[^2] (GDPR) applies to the processing of personal data by
 Philippine embassies abroad.
 
-The above concern is in relation to a request from a Philippine voter in the EU to have his/her
-name removed from the posted Certified List of Overseas Voters (CLOV) in a particular
-embassy. We note from your email that pursuant to Republic Act (RA) No. 9189,[^3] as amended
-by RA No. 10590, otherwise known as the Overseas Voting Act of 2013 (OVA), Philippine
-embassies abroad are required to post the CLOV on their premises.
+The above concern is in relation to a request from a Philippine voter in the EU to have his/her name removed from the posted Certified List of Overseas Voters (CLOV) in a particular embassy. We note from your email that pursuant to Republic Act (RA) No. 9189,[^3] as amended by RA No. 10590, otherwise known as the Overseas Voting Act of 2013 (OVA), Philippine embassies abroad are required to post the CLOV on their premises.
 
 ### Discussion
 
 #### COMELEC; Overseas Voting Act
 
-The Commission on Elections (COMELEC), through the Office for Overseas Voting, oversees
-and supervises the effective implementation of the OVA. Under the said law, qualified citizens
-of the Philippines abroad may exercise their right to vote. We note the provision on Section
+The Commission on Elections (COMELEC), through the Office for Overseas Voting, oversees and supervises the effective implementation of the OVA. Under the said law, qualified citizens of the Philippines abroad may exercise their right to vote. We note the provision on Section
 20 of the OVA, as amended, which reads:
 
 > "SEC. 20. Preparation and Posting of Certified List of Overseas Voters. - The Commission
@@ -78,14 +72,10 @@ To clarify, Article 3 of the GDPR enumerates the territorial scope of the law, n
 > 3. The processing of personal data by a controller not established in the Union, but in a
 >    place where Member State law applies by virtue of public international law.
 
-The GDPR only applies when an organization is processing personal data in the context of the
-activities of an establishment in the EU, or when non-EU organizations process personal data
-of data subjects in the EU, or in all diplomatic establishments of EU member-states located all
+The GDPR only applies when an organization is processing personal data in the context of the activities of an establishment in the EU, or when non-EU organizations process personal data of data subjects in the EU, or in all diplomatic establishments of EU member-states located all
 over the world.
 
-Conversely, the GDPR may not apply to embassies and consulates of non-EU member-states
-notwithstanding the fact that the non-EU embassy is within the territory of an EU member-
-state. In the European Data Protection Board Guidelines 3/2018 on the territorial scope of the
+Conversely, the GDPR may not apply to embassies and consulates of non-EU member-states notwithstanding the fact that the non-EU embassy is within the territory of an EU member-state. In the European Data Protection Board Guidelines 3/2018 on the territorial scope of the
 GDPR,[^4] it was discussed in this wise:
 
 > “x x x by virtue of international law, certain entities, bodies or organisations established
@@ -97,9 +87,7 @@ GDPR,[^4] it was discussed in this wise:
 > such as the ones governing the privileges and immunities of non-EU diplomatic missions
 > and consular posts, as well as international organisations.”
 
-We note that the Vienna Convention on Diplomatic Relations[^5] recognizes that while the
-premises of diplomatic missions remain under the jurisdiction of the host state, such are
-afforded special privileges and immunities.
+We note that the Vienna Convention on Diplomatic Relations[^5] recognizes that while the premises of diplomatic missions remain under the jurisdiction of the host state, such are afforded special privileges and immunities.
 
 Thus, the GDPR may not necessarily be applicable when the processing of personal data is
 done within the Philippine embassies in the EU. Nevertheless, the provisions of the Data
@@ -107,10 +95,7 @@ Privacy Act of 2012[^6] (DPA) will apply to the same.
 
 #### Data subject rights; right to erasure or blocking; limitation; lawful criteria for processing personal information
 
-On the matter of the request for deletion of the name from the posted certified list of overseas
-voters, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (e) of the DPA]] provides that a data subject has the right to suspend,
-withdraw or order the blocking, removal or destruction of his or her personal information
-from the personal information controller’s filing system in certain instances. This may be read
+On the matter of the request for deletion of the name from the posted certified list of overseas voters, [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (e) of the DPA]] provides that a data subject has the right to suspend, withdraw or order the blocking, removal or destruction of his or her personal information from the personal information controller’s filing system in certain instances. This may be read
 together with the right to object under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 (b)]] of the [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]][^7] (IRR) of the DPA.
 
 These rights are further clarified in [[issuances/2021/data-subject-rights|NPC Advisory No. 2021-01]] on Data Subject Rights, which
@@ -153,19 +138,14 @@ provides:
 > 3. The processing is unlawful; or
 > 4. The PIC or PIP violated the rights of the data subject. x x x.”
 
-However, it seems that none of the above instances is applicable in this scenario involving the
-posted voter list. Note that while a data subject has a right to object and request for erasure,
-such rights are not absolute. These may be limited, as in this instance, when the processing is
-in compliance with the provisions of the OVA and the COMELEC’s and the embassies’ legal
+However, it seems that none of the above instances is applicable in this scenario involving the posted voter list. Note that while a data subject has a right to object and request for erasure, such rights are not absolute. These may be limited, as in this instance, when the processing is in compliance with the provisions of the OVA and the COMELEC’s and the embassies’ legal
 obligation under the said law.
 
 In this case, Section 20 of the OVA mandates the COMELEC to prepare the CLOV and furnish
 copies thereof to the appropriate embassies, consulates and other foreign service
 establishments for posting.
 
-Thus, the COMELEC and the embassy may be justified in denying the request for erasure and
-may continue to post the said list. With this, the COMELEC and/or the embassy should
-clearly and fully inform the data subject of the reason for the denial of the request.[^8]
+Thus, the COMELEC and the embassy may be justified in denying the request for erasure and may continue to post the said list. With this, the COMELEC and/or the embassy should clearly and fully inform the data subject of the reason for the denial of the request.[^8]
 
 #### General data privacy principles; transparency; privacy notice; proportionality
 
@@ -173,15 +153,10 @@ Finally, we take this opportunity to remind the COMELEC that any personal data p
 should always adhere to the general data privacy principles of transparency, legitimate
 purpose, and proportionality.
 
-We recommend the posting of a privacy notice which would provide information on the OVA,
-the CLOV, the rationale for its posting by embassies, and any other information relevant to
-the same. Furthermore, the CLOV should only contain such personal data that is necessary to
-achieve the purpose of the processing under the OVA, in keeping with the practice of data
+We recommend the posting of a privacy notice which would provide information on the OVA, the CLOV, the rationale for its posting by embassies, and any other information relevant to the same. Furthermore, the CLOV should only contain such personal data that is necessary to achieve the purpose of the processing under the OVA, in keeping with the practice of data
 minimization.
 
-This opinion is based solely on the limited information you have provided. Additional
-information may change the context of the inquiry and the appreciation of facts. This opinion
-does not adjudicate issues between parties nor impose any sanctions or award damages.
+This opinion is based solely on the limited information you have provided. Additional information may change the context of the inquiry and the appreciation of facts. This opinion does not adjudicate issues between parties nor impose any sanctions or award damages.
 
 For your reference.
 

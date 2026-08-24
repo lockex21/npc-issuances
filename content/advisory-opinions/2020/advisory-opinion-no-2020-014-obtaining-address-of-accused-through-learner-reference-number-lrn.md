@@ -30,14 +30,9 @@ draft: false
 
 Dear [Redacted],
 
-We write in response to your inquiry received by the National Privacy Commission (NPC) seeking
-clarification on the disclosure of the present address of certain individuals who are the accused in
-an ongoing criminal case through the Learner Reference Numbers (LRNs) of their children.
+We write in response to your inquiry received by the National Privacy Commission (NPC) seeking clarification on the disclosure of the present address of certain individuals who are the accused in an ongoing criminal case through the Learner Reference Numbers (LRNs) of their children.
 
-We understand that your Office received an Indorsement from the Department of Education
-(DepEd) Office of the Assistant Secretary for Legal Affairs relative to the letter of one of the two
-complainants in a pending criminal case for estafa. In his letter, the complainant requested for the
-present address of the accused spouses in the criminal case currently with Branch 58 of the
+We understand that your Office received an Indorsement from the Department of Education (DepEd) Office of the Assistant Secretary for Legal Affairs relative to the letter of one of the two complainants in a pending criminal case for estafa. In his letter, the complainant requested for the present address of the accused spouses in the criminal case currently with Branch 58 of the
 Regional Trial Court (RTC) in Angeles City.
 
 We further understand that the present address is expected to be obtained through the LRN of the
