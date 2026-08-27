@@ -7,6 +7,7 @@ tags:
   - "year/2020"
   - "topic/consent"
   - "topic/legitimate-interest"
+date: "2020-11-09"
 draft: false
 ---
 

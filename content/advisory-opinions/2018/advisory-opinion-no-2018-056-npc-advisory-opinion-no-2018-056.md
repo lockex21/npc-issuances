@@ -8,6 +8,7 @@ tags:
   - accreditation
   - de-identification
   - healthcare
+date: "2018-10-05"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-056"

@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/data-subject-rights"
+date: "2021-07-30"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2021-030"

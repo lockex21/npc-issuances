@@ -10,6 +10,7 @@ tags:
   - legitimate-interest
   - topic/data-subject-rights
   - topic/legitimate-interest
+date: "2018-10-16"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-050"

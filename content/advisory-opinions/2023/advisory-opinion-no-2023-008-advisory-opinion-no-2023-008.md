@@ -5,6 +5,7 @@ tags:
 - issuance
 - type/advisory-opinion
 - year/2023
+date: "2023-02-17"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2023-008"

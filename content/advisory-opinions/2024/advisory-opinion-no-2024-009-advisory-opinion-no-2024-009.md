@@ -11,6 +11,7 @@ tags:
   - type/advisory-opinion
   - year/2024
   - topic/elections
+date: "2024-07-23"
 draft: false
 ---
 

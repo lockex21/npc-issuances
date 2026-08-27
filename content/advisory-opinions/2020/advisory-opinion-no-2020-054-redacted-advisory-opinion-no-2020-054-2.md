@@ -10,6 +10,7 @@ tags:
   - sensitive-data
   - retention
   - proportionality
+date: "2020-12-28"
 draft: false
 ---
 

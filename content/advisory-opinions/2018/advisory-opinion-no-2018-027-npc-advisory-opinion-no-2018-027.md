@@ -9,6 +9,7 @@ tags:
   - ordinance
   - data-privacy-principles
   - topic/data-subject-rights
+date: "2018-05-04"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-027"

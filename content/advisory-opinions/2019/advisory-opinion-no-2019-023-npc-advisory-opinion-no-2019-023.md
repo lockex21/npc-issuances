@@ -8,6 +8,7 @@ tags:
   - topic/cctv-surveillance
   - topic/employment
   - topic/legitimate-interest
+date: "2019-06-13"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-023"

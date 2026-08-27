@@ -1,11 +1,12 @@
 ---
-title: “NPC Advisory Opinion No. 2018-019 — Appointment of Data Protection Officer and Registration of Data Processing System of a Homeowners’ Association”
-description: “Clarifies that homeowners’ associations are covered by the Data Privacy Act and must appoint a data protection officer and register their data processing systems if processing sensitive personal data of at least 1,000 members.”
+title: "NPC Advisory Opinion No. 2018-019 — Appointment of Data Protection Officer and Registration of Data Processing System of a Homeowners’ Association"
+description: "Clarifies that homeowners’ associations are covered by the Data Privacy Act and must appoint a data protection officer and register their data processing systems if processing sensitive personal data of at least 1,000 members."
 tags:
   - “issuance”
   - “type/advisory-opinion”
   - “year/2018”
   - topic/registration
+date: "2018-04-18"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-019"

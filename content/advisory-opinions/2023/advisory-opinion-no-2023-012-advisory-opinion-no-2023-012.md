@@ -8,6 +8,7 @@ tags:
 - topic/data-sharing
 - topic/legitimate-interest
 - topic/online-lending
+date: "2023-05-05"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2023-012"

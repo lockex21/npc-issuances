@@ -5,6 +5,7 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+date: "2022-02-11"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2022-001"

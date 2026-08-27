@@ -5,6 +5,7 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+date: "2020-11-04"
 draft: false
 ---
 

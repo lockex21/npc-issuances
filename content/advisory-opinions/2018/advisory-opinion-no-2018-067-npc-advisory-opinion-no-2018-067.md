@@ -1,10 +1,11 @@
 ---
-title: “NPC Advisory Opinion No. 2018-067 — OWWA E-Card Project”
-description: “Advisory opinion on whether the OWWA E-Card Project is exempt from the Data Privacy Act and requirements for lawful processing of sensitive personal information.”
+title: "NPC Advisory Opinion No. 2018-067 — OWWA E-Card Project"
+description: "Advisory opinion on whether the OWWA E-Card Project is exempt from the Data Privacy Act and requirements for lawful processing of sensitive personal information."
 tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+date: "2018-09-24"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-067"

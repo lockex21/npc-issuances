@@ -11,6 +11,7 @@ tags:
   - type/advisory-opinion
   - year/2022
   - topic/children
+date: "2022-12-15"
 draft: false
 ---
 

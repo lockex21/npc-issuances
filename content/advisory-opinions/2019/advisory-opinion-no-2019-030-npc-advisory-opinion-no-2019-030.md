@@ -7,6 +7,7 @@ tags:
   - year/2019
   - topic/data-subject-rights
   - topic/legitimate-interest
+date: "2019-08-01"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-030"

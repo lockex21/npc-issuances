@@ -10,6 +10,7 @@ aliases:
   - "npc advisory opinion no. 2023-018"
   - "Advisory Opinion No. 2023-018"
   - "advisory opinion no. 2023-018"
+date: "2023-09-29"
 draft: false
 ---
 

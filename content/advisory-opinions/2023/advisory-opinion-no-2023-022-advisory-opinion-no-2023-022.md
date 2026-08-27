@@ -11,6 +11,7 @@ aliases:
   - "npc advisory opinion no. 2023-022"
   - "Advisory Opinion No. 2023-022"
   - "advisory opinion no. 2023-022"
+date: "2023-11-28"
 draft: false
 ---
 

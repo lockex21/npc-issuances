@@ -1,12 +1,13 @@
 ---
-title: “NPC Advisory Opinion No. 2021-043 — Data Sharing with the Philippine National Police”
-description: “Provides guidance on data sharing between the Iloilo City Health Office and the Philippine National Police regarding drug rehabilitation data, including requirements for data sharing agreements, consent, and adherence to privacy principles.”
+title: "NPC Advisory Opinion No. 2021-043 — Data Sharing with the Philippine National Police"
+description: "Provides guidance on data sharing between the Iloilo City Health Office and the Philippine National Police regarding drug rehabilitation data, including requirements for data sharing agreements, consent, and adherence to privacy principles."
 tags:
   - issuance
   - type/advisory-opinion
   - year/2021
   - topic/consent
   - topic/data-sharing
+date: "2021-12-16"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2021-043"

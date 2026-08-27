@@ -11,6 +11,7 @@ tags:
   - type/advisory-opinion
   - year/2017
   - topic/employment
+date: "2017-06-22"
 draft: false
 ---
 

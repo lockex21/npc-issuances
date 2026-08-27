@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/data-subject-rights"
+date: "2020-07-30"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2020-029"

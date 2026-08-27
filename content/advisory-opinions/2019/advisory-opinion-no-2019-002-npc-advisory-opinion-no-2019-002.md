@@ -1,10 +1,11 @@
 ---
-title: “NPC Advisory Opinion No. 2019-002 — Disclosure of Identity in Confidential Reports and Investigations”
-description: “Advisory opinion on the disclosure of identity in confidential reports and investigations under the Data Privacy Act of 2012.”
+title: "NPC Advisory Opinion No. 2019-002 — Disclosure of Identity in Confidential Reports and Investigations"
+description: "Advisory opinion on the disclosure of identity in confidential reports and investigations under the Data Privacy Act of 2012."
 tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+date: "2019-01-04"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-002"

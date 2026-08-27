@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2018"
   - "topic/legitimate-interest"
+date: "2018-10-25"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-077"

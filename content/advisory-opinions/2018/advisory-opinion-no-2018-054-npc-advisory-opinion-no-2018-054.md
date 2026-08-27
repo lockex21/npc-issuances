@@ -9,6 +9,7 @@ tags:
   - research
   - healthcare
   - topic/data-sharing
+date: "2018-12-04"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-054"

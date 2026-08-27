@@ -7,6 +7,7 @@ tags:
   - year/2019
   - topic/consent
   - topic/data-sharing
+date: "2019-11-06"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-035"

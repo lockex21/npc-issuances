@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/legitimate-interest"
+date: "2020-11-06"
 draft: false
 ---
 

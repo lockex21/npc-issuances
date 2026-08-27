@@ -11,6 +11,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2024"
   - "topic/registration"
+date: "2024-06-03"
 draft: false
 ---
 

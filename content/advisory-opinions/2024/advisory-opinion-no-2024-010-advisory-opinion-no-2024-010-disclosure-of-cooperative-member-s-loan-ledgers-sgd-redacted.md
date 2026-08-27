@@ -11,6 +11,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2024"
   - "topic/consent"
+date: "2024-09-30"
 draft: false
 ---
 

@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2025"
   - "topic/legitimate-interest"
+date: "2025-11-06"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2025-014"

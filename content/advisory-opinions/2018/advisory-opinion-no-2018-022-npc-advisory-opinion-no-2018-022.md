@@ -9,6 +9,7 @@ tags:
   - dpa-scope
   - data-processing-registration
   - topic/employment
+date: "2018-04-30"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-022"

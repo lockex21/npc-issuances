@@ -8,6 +8,7 @@ tags:
 - topic/government
 - topic/legitimate-interest
 - topic/security
+date: "2023-01-30"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2023-006"

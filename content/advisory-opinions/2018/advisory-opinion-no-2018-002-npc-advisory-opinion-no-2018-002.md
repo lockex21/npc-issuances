@@ -7,6 +7,7 @@ tags:
   - year/2018
   - topic/employment
   - topic/government
+date: "2018-01-15"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-002"

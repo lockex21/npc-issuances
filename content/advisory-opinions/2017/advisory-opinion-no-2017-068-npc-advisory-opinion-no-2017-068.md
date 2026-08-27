@@ -11,6 +11,7 @@ tags:
   - type/advisory-opinion
   - year/2017
   - topic/consent
+date: "2017-11-22"
 draft: false
 ---
 

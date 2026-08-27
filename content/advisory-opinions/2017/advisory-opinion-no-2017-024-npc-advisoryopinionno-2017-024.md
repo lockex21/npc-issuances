@@ -10,6 +10,7 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2017"
+date: "2017-06-21"
 draft: false
 ---
 

@@ -9,6 +9,7 @@ tags:
   - "topic/fees-and-payments"
   - "topic/registration"
   - "topic/security"
+date: "2026-05-18"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2026-004"

@@ -9,6 +9,7 @@ tags:
   - member-access
   - proportionality
   - lawful-processing
+date: "2020-12-11"
 draft: false
 ---
 

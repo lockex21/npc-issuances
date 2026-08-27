@@ -12,6 +12,7 @@ tags:
   - year/2017
   - topic/data-subject-rights
   - topic/employment
+date: "2017-12-27"
 draft: false
 ---
 

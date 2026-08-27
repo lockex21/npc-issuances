@@ -11,6 +11,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2024"
   - "topic/data-subject-rights"
+date: "2024-07-02"
 draft: false
 ---
 

@@ -11,6 +11,7 @@ tags:
   - "statutory-mandate"
   - "topic/cctv-surveillance"
   - "topic/data-subject-rights"
+date: "2024-12-20"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2024-018"

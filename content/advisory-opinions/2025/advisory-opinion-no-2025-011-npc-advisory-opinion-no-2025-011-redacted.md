@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2025"
   - "topic/government"
+date: "2025-09-24"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2025-011"

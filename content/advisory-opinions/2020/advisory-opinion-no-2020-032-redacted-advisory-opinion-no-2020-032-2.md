@@ -7,6 +7,7 @@ tags:
   - "year/2020"
   - "topic/data-subject-rights"
   - "topic/security"
+date: "2020-08-10"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2020-032"

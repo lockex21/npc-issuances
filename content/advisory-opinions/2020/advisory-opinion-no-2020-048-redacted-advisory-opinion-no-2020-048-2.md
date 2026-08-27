@@ -9,6 +9,7 @@ tags:
   - legitimate-interest
   - data-privacy-principles
   - topic/legitimate-interest
+date: "2020-11-17"
 draft: false
 ---
 

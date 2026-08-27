@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2023-016 — Applicability of Soft Opt-In Approach in the Philippines”
-description: “Advisory Opinion on whether the soft opt-in approach used in the GDPR and e-Privacy Directive is permissible under the Philippine Data Privacy Act, clarifying requirements for express consent and legitimate interest in direct marketing.”
+title: "NPC Advisory Opinion No. 2023-016 — Applicability of Soft Opt-In Approach in the Philippines"
+description: "Advisory Opinion on whether the soft opt-in approach used in the GDPR and e-Privacy Directive is permissible under the Philippine Data Privacy Act, clarifying requirements for express consent and legitimate interest in direct marketing."
 tags:
   - “issuance”
   - “type/advisory-opinion”
@@ -12,6 +12,7 @@ aliases:
   - "npc advisory opinion no. 2023-016"
   - "Advisory Opinion No. 2023-016"
   - "advisory opinion no. 2023-016"
+date: "2023-09-08"
 draft: false
 ---
 

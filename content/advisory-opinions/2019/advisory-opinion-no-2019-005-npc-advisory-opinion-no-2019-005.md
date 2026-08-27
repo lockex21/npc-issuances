@@ -6,6 +6,7 @@ tags:
   - type/advisory-opinion
   - year/2019
   - topic/legitimate-interest
+date: "2019-01-04"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-005"

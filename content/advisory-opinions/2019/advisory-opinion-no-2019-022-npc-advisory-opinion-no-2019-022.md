@@ -8,6 +8,7 @@ tags:
   - lawful-processing
   - data-privacy-principles
   - investigation
+date: "2019-05-07"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-022"

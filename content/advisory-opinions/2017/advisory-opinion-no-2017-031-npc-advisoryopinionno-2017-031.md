@@ -10,6 +10,7 @@ aliases:
   - "npc advisory opinion no. 2017-031"
   - "Advisory Opinion No. 2017-031"
   - "advisory opinion no. 2017-031"
+date: "2017-06-28"
 draft: false
 ---
 

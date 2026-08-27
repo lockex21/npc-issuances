@@ -8,6 +8,7 @@ tags:
   - topic/children
   - topic/consent
   - topic/data-subject-rights
+date: "2022-02-15"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2022-004"

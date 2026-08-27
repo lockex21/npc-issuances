@@ -9,6 +9,7 @@ tags:
   - credit-data
   - borrowers
   - disclosure
+date: "2019-03-18"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-020"

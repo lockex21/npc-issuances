@@ -11,6 +11,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/consent"
+date: "2021-07-07"
 draft: false
 ---
 

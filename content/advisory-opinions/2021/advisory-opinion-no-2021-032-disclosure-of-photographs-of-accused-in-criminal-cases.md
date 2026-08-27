@@ -8,6 +8,7 @@ tags:
   - "sensitive-personal-information"
   - "criminal-cases"
   - "disclosure"
+date: "2021-08-09"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2021-032"

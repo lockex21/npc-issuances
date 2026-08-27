@@ -7,6 +7,7 @@ tags:
   - "year/2021"
   - "topic/data-sharing"
   - "topic/government"
+date: "2021-10-22"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2021-039"

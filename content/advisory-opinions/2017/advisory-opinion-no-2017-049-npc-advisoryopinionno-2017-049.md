@@ -7,6 +7,7 @@ tags:
   - year/2017
   - topic/children
   - topic/consent
+date: "2017-08-29"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2017-049"

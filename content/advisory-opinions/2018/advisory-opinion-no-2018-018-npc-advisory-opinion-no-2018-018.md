@@ -1,10 +1,11 @@
 ---
-title: “NPC Advisory Opinion No. 2018-018 — Publication of Decisions on PhilHealth Website”
-description: “Addresses the publication of administrative case decisions on PhilHealth's website, discussing DPA applicability to health care providers and patients, and the principle of proportionality in disclosing sensitive personal information.”
+title: "NPC Advisory Opinion No. 2018-018 — Publication of Decisions on PhilHealth Website"
+description: "Addresses the publication of administrative case decisions on PhilHealth's website, discussing DPA applicability to health care providers and patients, and the principle of proportionality in disclosing sensitive personal information."
 tags:
   - “issuance”
   - “type/advisory-opinion”
   - “year/2018”
+date: "2018-04-12"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-018"

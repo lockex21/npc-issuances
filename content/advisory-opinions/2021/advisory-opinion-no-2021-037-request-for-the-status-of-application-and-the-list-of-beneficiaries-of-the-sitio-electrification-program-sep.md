@@ -5,6 +5,7 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+date: "2021-10-06"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2021-037"

@@ -7,6 +7,7 @@ tags:
   - year/2019
   - topic/consent
   - topic/employment
+date: "2019-09-02"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-034"

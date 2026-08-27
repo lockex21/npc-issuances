@@ -1,3 +1,297 @@
+@use "sass:map";
+@use "./variables.scss" as *;
 @use "./base.scss";
 
-// put your custom CSS here!
+// Stock Quartz emits rehype-slug/GFM's visually-hidden footnotes label with this
+// class but never defines it, so it currently renders as a plain visible "Footnotes"
+// heading duplicating the section's own hanging-indent styling below.
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+// -----------------------------------------------------------------------------
+// Source metadata card
+//
+// Rendered by quartz/plugins/transformers/sourceMetadataCard.ts out of the
+// "## Source" (+ optional "## Source Tags") block emitted by the Python
+// builders in scripts/. Markup shape (see that file for the exact fields):
+//
+//   <aside class="metadata-card">
+//     <dl class="metadata-card-fields">
+//       <dt>…</dt><dd>…</dd> …
+//     </dl>
+//     <div class="metadata-card-actions"><a class="metadata-card-pdf-link">…</a></div>
+//     <ul class="metadata-card-tags"><li class="metadata-card-tag">…</li> …</ul>
+//     <p class="metadata-card-note">…</p>
+//   </aside>
+// -----------------------------------------------------------------------------
+
+.metadata-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+  margin: 0 0 2.25rem 0;
+  padding: 1.1rem 1.35rem;
+  border: 1px solid var(--lightgray);
+  border-left: 4px solid var(--secondary);
+  border-radius: 5px;
+  background-color: color-mix(in srgb, var(--secondary) 6%, var(--light));
+
+  // the card can appear at the very top of the article (advisory opinions,
+  // decisions, orders, resolutions) or, for issuances, at the very bottom
+  // after "## Footnotes" — either way it shouldn't inherit stray top margin
+  // from whatever preceded it.
+  & + h2 {
+    margin-top: 0.5rem;
+  }
+}
+
+.metadata-card-fields {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  column-gap: 1.1rem;
+  row-gap: 0.5rem;
+  margin: 0;
+  align-items: baseline;
+
+  @media all and ($mobile) {
+    grid-template-columns: 1fr;
+    row-gap: 0.65rem;
+  }
+
+  dt {
+    font-family: var(--headerFont);
+    font-size: 0.68rem;
+    font-weight: $semiBoldWeight;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--gray);
+    white-space: nowrap;
+
+    @media all and ($mobile) {
+      white-space: normal;
+    }
+  }
+
+  dd {
+    margin: 0;
+    font-size: 0.92rem;
+    line-height: 1.45;
+    color: var(--darkgray);
+    word-break: break-word;
+  }
+}
+
+.metadata-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+// The official PDF is rendered as a proper labelled button, never a raw wrapped URL.
+.metadata-card-pdf-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.85rem;
+  border-radius: 5px;
+  background-color: var(--secondary);
+  color: var(--light);
+  font-weight: $semiBoldWeight;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
+
+  &,
+  &:hover {
+    color: var(--light);
+  }
+
+  &:hover {
+    background-color: var(--tertiary);
+  }
+
+  // override the generic dark-fill external-link icon (base.scss) so it reads
+  // against the solid button background in both themes.
+  .external-icon path {
+    fill: var(--light);
+  }
+}
+
+.metadata-card-link {
+  font-size: 0.85rem;
+}
+
+.metadata-card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.metadata-card-tag {
+  font-size: 0.74rem;
+  line-height: 1.4;
+  padding: 0.2rem 0.65rem;
+  border-radius: 999px;
+  background-color: var(--lightgray);
+  color: var(--darkgray);
+}
+
+.metadata-card-note {
+  margin: 0;
+  font-size: 0.76rem;
+  font-style: italic;
+  color: var(--gray);
+}
+
+// -----------------------------------------------------------------------------
+// Legal document typography
+//
+// The corpus is mostly sustained legal prose (advisory opinion letters, quasi-
+// judicial decisions/resolutions, circulars) with a handful of recurring
+// structural features the stock Quartz theme doesn't distinguish at all:
+// quoted statutory provisions, footnotes (often dozens per document), a
+// letterhead-style date line, and nested ###/#### sections inside "Discussion".
+// -----------------------------------------------------------------------------
+
+article {
+  // Comfortable measure for sustained reading. Wide elements (the metadata
+  // card, tables, code blocks, footnotes) opt back out to the full column
+  // width below.
+  max-width: 74ch;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media all and ($mobile) {
+    max-width: 100%;
+  }
+
+  .metadata-card,
+  .table-container,
+  pre,
+  figure[data-rehype-pretty-code-figure] {
+    max-width: 100%;
+  }
+
+  // A bare, bolded first line right after a section heading — the
+  // "**2 July 2021**" style letterhead date that opens most advisory-opinion
+  // and decision bodies — reads as metadata, not prose.
+  h2 + p:has(> strong:only-child) {
+    margin-top: 1.75rem;
+    color: var(--gray);
+    letter-spacing: 0.02em;
+  }
+
+  // "**SECTION 1.** ***Title.***"-style running heads used inside circulars
+  // and issuances (bold immediately followed by bold-italic).
+  strong em {
+    font-style: italic;
+    color: var(--dark);
+  }
+
+  // Nested section headings inside "### Discussion" get a lighter visual
+  // weight than top-level headings so the hierarchy reads at a glance.
+  h3 {
+    margin-top: 2.75rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  h4 {
+    margin-top: 2.1rem;
+    font-size: 0.95rem;
+    font-weight: $semiBoldWeight;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--secondary);
+  }
+
+  // Quoted statutory provisions and quoted excerpts (dispositive portions,
+  // pleadings, etc.) are set off from the Commission's own analysis with a
+  // tinted panel, distinct from the plain rule-styled blockquote elsewhere
+  // (e.g. Obsidian callouts keep their own look).
+  blockquote {
+    margin: 1.35rem 0;
+    padding: 0.95rem 1.3rem;
+    border-left: 3px solid var(--tertiary);
+    border-radius: 0 5px 5px 0;
+    background-color: color-mix(in srgb, var(--tertiary) 9%, var(--light));
+    font-size: 0.94em;
+
+    > :first-child {
+      margin-top: 0;
+    }
+
+    > :last-child {
+      margin-bottom: 0;
+    }
+
+    // a quote nested inside a quote (rare, but the corpus has a few) gets a
+    // visibly different accent so the two levels don't blur together.
+    blockquote {
+      border-left-color: var(--gray);
+      background-color: transparent;
+      padding-left: 1rem;
+    }
+  }
+
+  // Footnotes: hanging-indent numbering (the browser default list marker
+  // already achieves this once there's enough padding), smaller size, and a
+  // clear break from the body text. There are frequently 50-300+ of these in
+  // a single decision, so keeping them compact matters.
+  section[data-footnotes] {
+    margin-top: 3rem;
+    padding-top: 1.4rem;
+    border-top: 1px solid var(--lightgray);
+    font-size: 0.82rem;
+    color: var(--gray);
+
+    ol {
+      display: flex;
+      flex-direction: column;
+      gap: 0.65rem;
+      padding-left: 1.5rem;
+      margin: 0;
+    }
+
+    li {
+      line-height: 1.55;
+    }
+
+    li p {
+      margin: 0;
+      display: inline;
+    }
+
+    a[data-footnote-backref] {
+      font-weight: $normalWeight;
+      margin-left: 0.3rem;
+    }
+  }
+
+  // In-text footnote reference marks: the generic "internal" link treatment
+  // (background pill) is meant for wikilinks inline in a sentence and looks
+  // heavy repeated dozens of times per page as a superscript numeral.
+  sup > a[data-footnote-ref] {
+    font-weight: $semiBoldWeight;
+
+    &.internal {
+      background-color: transparent;
+      padding: 0;
+      line-height: inherit;
+    }
+  }
+}

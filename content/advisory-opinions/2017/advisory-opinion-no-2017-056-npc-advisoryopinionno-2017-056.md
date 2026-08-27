@@ -7,6 +7,7 @@ tags:
   - year/2017
   - topic/employment
   - topic/government
+date: "2017-09-20"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2017-056"

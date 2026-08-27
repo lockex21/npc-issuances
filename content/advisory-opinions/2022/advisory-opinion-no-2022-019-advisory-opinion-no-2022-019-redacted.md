@@ -13,6 +13,7 @@ tags:
   - topic/cctv-surveillance
   - topic/legitimate-interest
   - topic/security
+date: "2022-09-21"
 draft: false
 ---
 

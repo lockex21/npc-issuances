@@ -7,6 +7,7 @@ tags:
   - year/2022
   - topic/consent
   - topic/government
+date: "2022-07-14"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2022-010"

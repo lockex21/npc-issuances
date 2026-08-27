@@ -8,6 +8,7 @@ tags:
   - topic/data-subject-rights
   - topic/legitimate-interest
   - topic/online-lending
+date: "2018-09-06"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-061"

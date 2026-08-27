@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2025"
   - "topic/consent"
+date: "2025-10-09"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2025-013"

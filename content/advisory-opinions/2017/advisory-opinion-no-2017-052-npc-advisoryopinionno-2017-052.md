@@ -8,6 +8,7 @@ tags:
   - topic/cross-border-transfers
   - topic/data-sharing
   - topic/government
+date: "2017-09-11"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2017-052"

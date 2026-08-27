@@ -6,6 +6,7 @@ tags:
   - type/advisory-opinion
   - year/2022
   - topic/data-sharing
+date: "2022-02-28"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2022-006"

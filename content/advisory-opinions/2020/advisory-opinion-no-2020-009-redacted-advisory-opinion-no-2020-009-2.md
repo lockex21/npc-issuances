@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2020-009 — Deletion of Electronic Medical Records”
-description: “Provides guidance on the deletion and retention of electronic medical records in compliance with data privacy principles and legal requirements.”
+title: "NPC Advisory Opinion No. 2020-009 — Deletion of Electronic Medical Records"
+description: "Provides guidance on the deletion and retention of electronic medical records in compliance with data privacy principles and legal requirements."
 tags:
   - issuance
   - type/advisory-opinion
@@ -11,6 +11,7 @@ aliases:
   - "npc advisory opinion no. 2020-009"
   - "Advisory Opinion No. 2020-009"
   - "advisory opinion no. 2020-009"
+date: "2020-02-04"
 draft: false
 ---
 
