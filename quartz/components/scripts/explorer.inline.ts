@@ -19,6 +19,49 @@ type FolderState = {
   collapsed: boolean
 }
 
+// This corpus's document titles follow a small number of stable patterns, e.g.:
+//   "NPC Advisory Opinion No. 2021-022 — Processing Personal Data For ..."
+//   "NPC 22-117: CJJ vs. JJS and JB"                    (decisions)
+//   "NPC BN 18-037: In re: Acesite (Phils.) Hotel Corporation"  (resolutions/orders)
+//   "CID CDO 22-001: CID vs. PH-Check.com"
+//   "Guidelines on Administrative Fines (Circular No. 2022-01)" (circulars/advisories)
+//   "Data Privacy Act of 2012 (Republic Act No. 10173)"  (laws)
+// Full titles like these wrap 3-4 lines in the ~320px-wide sidebar when there are
+// ~900 entries. Derive a short "document number" label for the sidebar and keep the
+// full title as a tooltip, falling back to the full title when no number is found
+// (e.g. plain folder names like "Advisory Opinions" or "2021").
+const ADVISORY_OPINION_RE = /^(?:NPC\s+)?Advisory Opinion No\.\s*([\d]{4}-[\d]+)/i
+const CASE_NUMBER_RE =
+  /^((?:NPC|CID)(?:\s[A-Z]{2,4})?\s[\d]{2,4}-[\d]+(?:\s(?:to|and)\s(?:NPC\s)?[\d]{2,4}-[\d]+)?)\s*:/
+const PAREN_ISSUANCE_RE = /\(((?:NPC\s+|Joint\s+)?[A-Za-z ]*?No\.\s*[\d]{2,6}(?:-[\d]+)?)\)\s*$/
+
+function getShortLabel(fullTitle: string): string {
+  const aoMatch = fullTitle.match(ADVISORY_OPINION_RE)
+  if (aoMatch) {
+    return `AO ${aoMatch[1]}`
+  }
+
+  const caseMatch = fullTitle.match(CASE_NUMBER_RE)
+  if (caseMatch) {
+    return caseMatch[1]
+  }
+
+  const parenMatch = fullTitle.match(PAREN_ISSUANCE_RE)
+  if (parenMatch) {
+    return parenMatch[1].replace(/\bNo\.\s*/i, "").replace(/^Republic Act\b/i, "RA")
+  }
+
+  return fullTitle
+}
+
+function applyShortLabel(el: HTMLElement, fullTitle: string) {
+  const shortLabel = getShortLabel(fullTitle)
+  el.textContent = shortLabel
+  // Always set the tooltip so the full subject is available on hover, even when
+  // the short label happens to equal the full title (e.g. "Advisory Opinions").
+  el.title = fullTitle
+}
+
 let currentExplorerState: Array<FolderState>
 function isMobileExplorerToggle(toggle: Element | null): toggle is HTMLElement {
   return (
@@ -118,7 +161,7 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   const a = li.querySelector("a") as HTMLAnchorElement
   a.href = resolveRelative(currentSlug, node.slug)
   a.dataset.for = node.slug
-  a.textContent = node.displayName
+  applyShortLabel(a, node.displayName)
 
   if (currentSlug === node.slug) {
     a.classList.add("active")
@@ -154,11 +197,11 @@ function createFolderNode(
     a.href = resolveRelative(currentSlug, folderPath)
     a.dataset.for = folderPath
     a.className = "folder-title"
-    a.textContent = node.displayName
+    applyShortLabel(a, node.displayName)
     button.replaceWith(a)
   } else {
     const span = titleContainer.querySelector(".folder-title") as HTMLElement
-    span.textContent = node.displayName
+    applyShortLabel(span, node.displayName)
   }
 
   // if the saved state is collapsed or the default state is collapsed

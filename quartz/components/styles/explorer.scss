@@ -134,6 +134,11 @@ button.desktop-explorer {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      max-width: 100%;
 
       &.active {
         opacity: 1;
@@ -169,6 +174,12 @@ button.desktop-explorer {
   display: flex;
   align-items: center;
   user-select: none;
+  min-width: 0;
+
+  & div {
+    min-width: 0;
+    flex: 1 1 auto;
+  }
 
   & div > a {
     color: var(--secondary);
@@ -176,7 +187,10 @@ button.desktop-explorer {
     font-size: 0.95rem;
     font-weight: $semiBoldWeight;
     line-height: 1.5rem;
-    display: inline-block;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   & div > a:hover {
@@ -194,10 +208,15 @@ button.desktop-explorer {
     display: flex;
     align-items: center;
     font-family: var(--headerFont);
+    min-width: 0;
+    width: 100%;
 
     & span {
       font-size: 0.95rem;
-      display: inline-block;
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
       color: var(--secondary);
       font-weight: $semiBoldWeight;
       margin: 0;

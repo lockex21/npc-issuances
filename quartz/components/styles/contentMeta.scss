@@ -1,6 +1,12 @@
+@use "../../styles/variables.scss" as *;
+
 .content-meta {
   margin-top: 0;
   color: var(--darkgray);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
 
   &[show-comma="true"] {
     > *:not(:last-child) {
@@ -11,4 +17,27 @@
       }
     }
   }
+
+  // The doctype badge is a self-contained pill, so it shouldn't inherit the
+  // list-style trailing comma meant for prose-like segments (e.g. the date).
+  &[show-comma="true"] > .content-meta-doctype {
+    margin-right: 0;
+
+    &::after {
+      content: none;
+    }
+  }
+}
+
+.content-meta-doctype {
+  display: inline-block;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  background-color: var(--highlight);
+  color: var(--secondary);
+  font-size: 0.75rem;
+  font-weight: $semiBoldWeight;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  line-height: 1.4;
 }
