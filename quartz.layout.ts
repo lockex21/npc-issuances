@@ -82,7 +82,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ContentMeta({ showComma: false }),
     Component.TagList(),
   ],
   left: [
@@ -117,7 +117,7 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs({ showCurrentPage: false }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ContentMeta({ showComma: false }),
   ],
   left: [
     Component.PageTitle(),

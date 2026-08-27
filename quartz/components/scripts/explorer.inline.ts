@@ -35,7 +35,12 @@ const CASE_NUMBER_RE =
   /^((?:NPC|CID)(?:\s[A-Z]{2,4})?\s[\d]{2,4}-[\d]+(?:\s(?:to|and)\s(?:NPC\s)?[\d]{2,4}-[\d]+)?)\s*:/
 const PAREN_ISSUANCE_RE = /\(((?:NPC\s+|Joint\s+)?[A-Za-z ]*?No\.\s*[\d]{2,6}(?:-[\d]+)?)\)\s*$/
 
-function getShortLabel(fullTitle: string): string {
+function getShortLabel(rawTitle: string): string {
+  // Some titles open with a stray quotation mark left over from the source PDF.
+  // Strip leading quotes/whitespace before matching so those entries still get a
+  // short label instead of falling back to a truncated full title.
+  const fullTitle = rawTitle.replace(/^[\s"'\u201c\u201d\u2018\u2019]+/, "")
+
   const aoMatch = fullTitle.match(ADVISORY_OPINION_RE)
   if (aoMatch) {
     return `AO ${aoMatch[1]}`

@@ -74,6 +74,7 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
+      Plugin.SourceMetadataCard(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
