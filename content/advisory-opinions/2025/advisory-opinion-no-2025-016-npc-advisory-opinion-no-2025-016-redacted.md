@@ -9,6 +9,7 @@ tags:
   - "topic/data-subject-rights"
   - "topic/government"
   - "topic/security"
+date: "2025-12-26"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2025-016"

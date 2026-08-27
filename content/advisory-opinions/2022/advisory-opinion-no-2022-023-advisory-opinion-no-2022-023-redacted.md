@@ -11,6 +11,7 @@ tags:
   - type/advisory-opinion
   - year/2022
   - topic/legitimate-interest
+date: "2022-11-11"
 draft: false
 ---
 

@@ -9,6 +9,7 @@ tags:
   - "topic/employment"
   - "topic/government"
   - "topic/security"
+date: "2026-01-27"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2026-001"

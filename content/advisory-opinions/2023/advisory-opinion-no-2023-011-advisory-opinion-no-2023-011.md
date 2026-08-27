@@ -8,6 +8,7 @@ tags:
 - year/2023
 - topic/employment
 - topic/legitimate-interest
+date: "2023-03-17"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2023-011"

@@ -9,6 +9,7 @@ tags:
   - personal-information
   - juridical-persons
   - lawful-processing
+date: "2020-11-27"
 draft: false
 ---
 

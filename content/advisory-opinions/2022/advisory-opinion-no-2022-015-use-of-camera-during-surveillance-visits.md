@@ -12,6 +12,7 @@ tags:
   - "year/2022"
   - "topic/consent"
   - "topic/legitimate-interest"
+date: "2022-06-23"
 draft: false
 ---
 

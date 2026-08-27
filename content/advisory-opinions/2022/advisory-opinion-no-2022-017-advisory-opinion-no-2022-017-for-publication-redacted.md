@@ -12,6 +12,7 @@ tags:
   - year/2022
   - topic/consent
   - topic/security
+date: "2022-09-20"
 draft: false
 ---
 

@@ -13,6 +13,7 @@ tags:
   - topic/data-subject-rights
   - topic/employment
   - topic/registration
+date: "2018-10-05"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-051"

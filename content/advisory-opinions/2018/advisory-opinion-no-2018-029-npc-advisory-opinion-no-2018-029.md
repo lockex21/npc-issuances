@@ -8,6 +8,7 @@ tags:
   - pseudonymization
   - health-information
   - sensitive-data
+date: "2018-06-06"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-029"

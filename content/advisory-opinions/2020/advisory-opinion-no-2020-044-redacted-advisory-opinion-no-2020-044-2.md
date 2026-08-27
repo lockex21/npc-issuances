@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/employment"
+date: "2020-11-05"
 draft: false
 ---
 

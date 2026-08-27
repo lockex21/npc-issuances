@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2025"
   - "topic/security"
+date: "2025-09-04"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2025-009"

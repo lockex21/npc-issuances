@@ -5,6 +5,7 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+date: "2024-12-26"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2024-019"

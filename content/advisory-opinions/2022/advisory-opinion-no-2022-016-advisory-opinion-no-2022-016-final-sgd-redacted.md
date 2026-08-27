@@ -12,6 +12,7 @@ tags:
   - year/2022
   - topic/government
   - topic/legitimate-interest
+date: "2022-07-05"
 draft: false
 ---
 

@@ -7,6 +7,7 @@ tags:
   - year/2018
   - topic/consent
   - topic/legitimate-interest
+date: "2018-08-13"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-046"

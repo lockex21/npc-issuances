@@ -8,6 +8,7 @@ tags:
   - "topic/consent"
   - "topic/data-subject-rights"
   - "topic/legitimate-interest"
+date: "2025-05-13"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2025-003"

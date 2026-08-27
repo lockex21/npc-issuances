@@ -10,6 +10,7 @@ tags:
   - government-employee-exemption
   - topic/employment
   - topic/government
+date: "2018-05-04"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-025"

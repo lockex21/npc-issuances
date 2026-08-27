@@ -7,6 +7,7 @@ tags:
   - year/2019
   - topic/employment
   - topic/security
+date: "2019-01-14"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-010"

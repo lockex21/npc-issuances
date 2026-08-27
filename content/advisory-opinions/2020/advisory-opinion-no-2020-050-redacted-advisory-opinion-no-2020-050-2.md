@@ -10,6 +10,7 @@ tags:
   - fintech
   - credit-card
   - topic/legitimate-interest
+date: "2020-11-26"
 draft: false
 ---
 

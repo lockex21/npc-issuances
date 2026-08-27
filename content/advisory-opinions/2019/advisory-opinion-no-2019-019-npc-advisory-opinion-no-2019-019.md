@@ -9,6 +9,7 @@ tags:
   - data-processing-systems
   - registration
   - topic/registration
+date: "2019-03-12"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-019"

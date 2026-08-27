@@ -5,6 +5,7 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+date: "2019-09-05"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-031"

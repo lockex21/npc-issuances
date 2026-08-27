@@ -7,6 +7,7 @@ tags:
   - "year/2020"
   - "topic/data-sharing"
   - "topic/government"
+date: "2020-08-24"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2020-033"

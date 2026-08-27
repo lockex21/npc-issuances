@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/legitimate-interest"
+date: "2020-10-30"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2020-039"

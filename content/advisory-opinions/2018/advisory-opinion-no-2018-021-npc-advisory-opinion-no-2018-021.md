@@ -6,6 +6,7 @@ tags:
   - “type/advisory-opinion”
   - “year/2018”
   - topic/consent
+date: "2018-04-27"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-021"

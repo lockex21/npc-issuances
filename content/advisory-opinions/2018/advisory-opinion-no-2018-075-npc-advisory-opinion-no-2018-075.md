@@ -7,6 +7,7 @@ tags:
   - year/2018
   - topic/data-subject-rights
   - topic/registration
+date: "2018-11-08"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-075"

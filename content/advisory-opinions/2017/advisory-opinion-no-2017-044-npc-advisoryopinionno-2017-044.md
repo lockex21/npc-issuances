@@ -6,6 +6,7 @@ tags:
   - type/advisory-opinion
   - year/2017
   - topic/registration
+date: "2017-08-16"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2017-044"

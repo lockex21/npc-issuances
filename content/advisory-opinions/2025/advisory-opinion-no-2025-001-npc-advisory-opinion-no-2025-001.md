@@ -11,6 +11,7 @@ tags:
   - "audit-function"
   - "security-measures"
   - "topic/data-sharing"
+date: "2025-03-20"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2025-001"

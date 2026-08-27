@@ -9,6 +9,7 @@ tags:
   - data-processor
   - cross-border
   - topic/cross-border-transfers
+date: "2018-09-20"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-057"

@@ -7,6 +7,7 @@ tags:
   - "year/2024"
   - "topic/employment"
   - "topic/legitimate-interest"
+date: "2024-12-18"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2024-017"

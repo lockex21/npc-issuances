@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2026"
   - "topic/government"
+date: "2026-05-12"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2026-003"

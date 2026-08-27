@@ -10,6 +10,7 @@ tags:
   - personal-information
   - topic/data-sharing
   - topic/government
+date: "2019-03-05"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-014"

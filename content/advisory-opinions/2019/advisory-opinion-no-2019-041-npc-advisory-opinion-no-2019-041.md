@@ -11,6 +11,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2019"
   - "topic/legitimate-interest"
+date: "2019-10-23"
 draft: false
 ---
 

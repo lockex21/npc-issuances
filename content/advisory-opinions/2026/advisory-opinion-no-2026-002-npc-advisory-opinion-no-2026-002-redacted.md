@@ -7,6 +7,7 @@ tags:
   - "year/2026"
   - "topic/government"
   - "topic/legitimate-interest"
+date: "2026-05-12"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2026-002"

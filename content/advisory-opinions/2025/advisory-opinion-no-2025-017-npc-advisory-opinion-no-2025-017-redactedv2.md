@@ -7,6 +7,7 @@ tags:
   - "year/2025"
   - "topic/children"
   - "topic/data-subject-rights"
+date: "2025-12-26"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2025-017"

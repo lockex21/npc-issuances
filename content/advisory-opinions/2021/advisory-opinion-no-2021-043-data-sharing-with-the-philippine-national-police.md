@@ -7,6 +7,7 @@ tags:
   - year/2021
   - topic/consent
   - topic/data-sharing
+date: "2021-12-16"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2021-043"

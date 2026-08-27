@@ -10,6 +10,7 @@ tags:
   - issuance
   - "type/advisory-opinion"
   - "year/2022"
+date: "2022-10-14"
 draft: false
 ---
 

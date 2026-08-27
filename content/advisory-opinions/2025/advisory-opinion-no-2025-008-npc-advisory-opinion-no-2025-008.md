@@ -8,6 +8,7 @@ tags:
   - "topic/consent"
   - "topic/data-sharing"
   - "topic/government"
+date: "2025-08-29"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2025-008"

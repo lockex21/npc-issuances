@@ -6,6 +6,7 @@ tags:
 - type/advisory-opinion
 - year/2023
 - topic/employment
+date: "2023-02-15"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2023-010"

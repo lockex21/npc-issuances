@@ -8,6 +8,7 @@ tags:
   - topic/employment
   - topic/legitimate-interest
   - topic/security
+date: "2022-03-02"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2022-008"

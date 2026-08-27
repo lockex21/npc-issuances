@@ -7,6 +7,7 @@ tags:
   - "year/2021"
   - "topic/government"
   - "topic/security"
+date: "2021-08-05"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2021-031"

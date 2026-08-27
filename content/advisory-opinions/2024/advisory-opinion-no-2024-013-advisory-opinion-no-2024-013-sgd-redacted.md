@@ -11,6 +11,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2024"
   - "topic/government"
+date: "2024-11-05"
 draft: false
 ---
 

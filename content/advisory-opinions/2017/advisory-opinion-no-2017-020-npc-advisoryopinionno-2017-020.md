@@ -12,6 +12,7 @@ tags:
   - "year/2017"
   - "topic/data-sharing"
   - "topic/government"
+date: "2017-07-18"
 draft: false
 ---
 

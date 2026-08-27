@@ -11,6 +11,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/employment"
+date: "2021-06-18"
 draft: false
 ---
 

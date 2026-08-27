@@ -6,6 +6,7 @@ tags:
   - type/advisory-opinion
   - year/2019
   - topic/consent
+date: "2019-01-04"
 draft: false
 ---
 

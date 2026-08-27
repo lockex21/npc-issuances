@@ -9,6 +9,7 @@ tags:
   - data-protection
   - topic/government
   - topic/security
+date: "2019-01-17"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-012"

@@ -8,6 +8,7 @@ tags:
   - research
   - access-to-public-documents
   - topic/government
+date: "2019-03-05"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-017"

@@ -11,6 +11,7 @@ tags:
   - transparency
   - topic/data-sharing
   - topic/government
+date: "2019-03-11"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-018"

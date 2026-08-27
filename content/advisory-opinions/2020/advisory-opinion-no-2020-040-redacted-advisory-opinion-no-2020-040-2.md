@@ -5,6 +5,7 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2020
+date: "2020-10-30"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2020-040"

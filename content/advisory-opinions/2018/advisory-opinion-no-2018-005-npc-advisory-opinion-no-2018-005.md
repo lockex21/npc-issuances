@@ -8,6 +8,7 @@ tags:
   - topic/data-sharing
   - topic/employment
   - topic/registration
+date: "2018-02-05"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-005"

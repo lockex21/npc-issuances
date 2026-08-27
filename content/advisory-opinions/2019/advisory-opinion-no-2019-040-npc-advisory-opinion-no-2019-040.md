@@ -10,6 +10,7 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2019"
+date: "2019-10-17"
 draft: false
 ---
 

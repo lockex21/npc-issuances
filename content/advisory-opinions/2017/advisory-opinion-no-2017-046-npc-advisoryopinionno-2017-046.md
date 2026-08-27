@@ -6,6 +6,7 @@ tags:
   - type/advisory-opinion
   - year/2017
   - topic/employment
+date: "2017-08-22"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2017-046"

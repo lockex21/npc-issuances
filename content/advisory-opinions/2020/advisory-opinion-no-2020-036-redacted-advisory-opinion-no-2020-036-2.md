@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/government"
+date: "2020-09-08"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2020-036"

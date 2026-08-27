@@ -6,6 +6,7 @@ tags:
   - type/advisory-opinion
   - year/2019
   - topic/government
+date: "2019-04-24"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-026"

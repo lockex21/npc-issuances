@@ -6,6 +6,7 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/legitimate-interest"
+date: "2021-11-24"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2021-041"

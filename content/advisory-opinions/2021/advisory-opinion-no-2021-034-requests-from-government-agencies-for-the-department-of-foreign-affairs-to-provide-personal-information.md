@@ -7,6 +7,7 @@ tags:
   - "year/2021"
   - "topic/data-subject-rights"
   - "topic/government"
+date: "2021-08-17"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2021-034"
