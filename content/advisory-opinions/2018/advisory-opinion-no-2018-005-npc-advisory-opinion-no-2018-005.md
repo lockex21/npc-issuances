@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2018-005 — Data Sharing Agreement and Data Protection Officer”
-description: “Advisory opinion clarifying whether data sharing agreements require NPC approval and whether a single employee may hold both the DPO position and another company position.”
+title: "NPC Advisory Opinion No. 2018-005 — Data Sharing Agreement and Data Protection Officer"
+description: "Advisory opinion clarifying whether data sharing agreements require NPC approval and whether a single employee may hold both the DPO position and another company position."
 tags:
   - issuance
   - type/advisory-opinion

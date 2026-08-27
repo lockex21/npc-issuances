@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2018-006 — Consent of Data Subject Prior to Release of School Records”
-description: “Advisory opinion regarding whether educational institutions require data subject consent before releasing school records to third parties seeking family information.”
+title: "NPC Advisory Opinion No. 2018-006 — Consent of Data Subject Prior to Release of School Records"
+description: "Advisory opinion regarding whether educational institutions require data subject consent before releasing school records to third parties seeking family information."
 tags:
   - issuance
   - type/advisory-opinion

@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2020-006 — Collection Agency Communicating with Human Resource Department”
-description: “Clarifies data privacy requirements for collection agencies communicating with individuals regarding debts or collection matters.”
+title: "NPC Advisory Opinion No. 2020-006 — Collection Agency Communicating with Human Resource Department"
+description: "Clarifies data privacy requirements for collection agencies communicating with individuals regarding debts or collection matters."
 tags:
   - issuance
   - type/advisory-opinion

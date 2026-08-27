@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2018-075 — Barangay Tanyag Ordinance No. 03 Paupahan Form”
-description: “Advisory opinion on compliance of a barangay ordinance requiring tenant registration in leased residential spaces with the Data Privacy Act.”
+title: "NPC Advisory Opinion No. 2018-075 — Barangay Tanyag Ordinance No. 03 Paupahan Form"
+description: "Advisory opinion on compliance of a barangay ordinance requiring tenant registration in leased residential spaces with the Data Privacy Act."
 tags:
   - issuance
   - type/advisory-opinion

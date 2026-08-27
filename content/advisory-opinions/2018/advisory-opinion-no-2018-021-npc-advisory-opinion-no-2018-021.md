@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2018-021 — Telephone Directories”
-description: “Addresses the printing and publication of customer information in telephone directories, clarifying consent requirements and the right of subscribers to be excluded from directory listings.”
+title: "NPC Advisory Opinion No. 2018-021 — Telephone Directories"
+description: "Addresses the printing and publication of customer information in telephone directories, clarifying consent requirements and the right of subscribers to be excluded from directory listings."
 tags:
   - “issuance”
   - “type/advisory-opinion”

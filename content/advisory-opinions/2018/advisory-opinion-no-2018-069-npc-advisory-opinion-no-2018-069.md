@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2018-069 — Phone Usage Data Records and Anonymous Information”
-description: “Advisory opinion on the applicability of the Data Privacy Act to anonymous information and the requirements for determining whether phone usage data qualifies as truly anonymous.”
+title: "NPC Advisory Opinion No. 2018-069 — Phone Usage Data Records and Anonymous Information"
+description: "Advisory opinion on the applicability of the Data Privacy Act to anonymous information and the requirements for determining whether phone usage data qualifies as truly anonymous."
 tags:
   - issuance
   - type/advisory-opinion

@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2018-071 — Disclosure of School Records for Investigation Purposes”
-description: “Advisory opinion on the permissibility of disclosing school records to the National Bureau of Investigation for investigation purposes and the protections afforded to sensitive educational information.”
+title: "NPC Advisory Opinion No. 2018-071 — Disclosure of School Records for Investigation Purposes"
+description: "Advisory opinion on the permissibility of disclosing school records to the National Bureau of Investigation for investigation purposes and the protections afforded to sensitive educational information."
 tags:
   - issuance
   - type/advisory-opinion

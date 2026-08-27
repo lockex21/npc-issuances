@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2018-043 — Registration of Data Processing Systems”
-description: “Advisory opinion on whether Microsoft Office 365 constitutes a data processing system and registration requirements for foreign corporations and their subsidiaries.”
+title: "NPC Advisory Opinion No. 2018-043 — Registration of Data Processing Systems"
+description: "Advisory opinion on whether Microsoft Office 365 constitutes a data processing system and registration requirements for foreign corporations and their subsidiaries."
 tags:
   - issuance
   - type/advisory-opinion

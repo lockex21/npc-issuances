@@ -1,6 +1,6 @@
 ---
-title: “NPC Advisory Opinion No. 2018-041 — Pasig City Ordinance No. 51”
-description: “Advisory opinion on employee consent and data sharing agreements required under Pasig City Ordinance No. 51 regarding submission of employee information lists.”
+title: "NPC Advisory Opinion No. 2018-041 — Pasig City Ordinance No. 51"
+description: "Advisory opinion on employee consent and data sharing agreements required under Pasig City Ordinance No. 51 regarding submission of employee information lists."
 tags:
   - issuance
   - type/advisory-opinion
