@@ -5,6 +5,10 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+official_tags:
+  - "lawful processing of personal information"
+  - "fulfillment of mandate"
+  - "general data privacy principles"
 date: "2021-10-06"
 draft: false
 aliases:

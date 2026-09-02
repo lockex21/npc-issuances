@@ -1,0 +1,2514 @@
+{
+  "source_basis": "Tags printed in the source advisory-opinion PDF footnotes; no inferred topics.",
+  "coverage_note": "The earliest located PDF tags are in Advisory Opinion No. 2018-073. Late-2018 use is intermittent; only opinions with real printed tag terms are listed.",
+  "record_count": 242,
+  "records_by_year": {
+    "2018": 7,
+    "2019": 46,
+    "2020": 54,
+    "2021": 45,
+    "2022": 25,
+    "2023": 25,
+    "2024": 19,
+    "2025": 17,
+    "2026": 4
+  },
+  "excluded_placeholders": [
+    "Advisory Opinion No. 2023-016"
+  ],
+  "records": [
+    {
+      "reference_label": "Advisory Opinion No. 2018-073",
+      "tags": [
+        "insurance",
+        "insurance agents",
+        "personal information controller",
+        "personal information processor"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2018-077",
+      "tags": [
+        "personal information",
+        "sensitive personal information",
+        "public authority",
+        "oversight function",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2018-079",
+      "tags": [
+        "Scope",
+        "Special cases",
+        "Public Authority",
+        "Statutory Mandate",
+        "Law Enforcement",
+        "PSA"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2018-080",
+      "tags": [
+        "Legitimate Purpose",
+        "Data Subjects Rights",
+        "Lawfulness",
+        "Legitimate Interest",
+        "Access",
+        "CCTV"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2018-083",
+      "tags": [
+        "Department of Health",
+        "health information",
+        "lawful processing",
+        "mandate"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2018-088",
+      "tags": [
+        "Personal Data Sheet",
+        "access",
+        "public concern",
+        "right to information"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2018-090",
+      "tags": [
+        "Reasonable expectation of privacy",
+        "employment",
+        "office-issued mobile device",
+        "unauthorized processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-001",
+      "tags": [
+        "Private detective services",
+        "background investigation",
+        "right to privacy"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-002",
+      "tags": [
+        "disclosure",
+        "confidential report",
+        "criteria for lawful processing",
+        "complaint"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-004",
+      "tags": [
+        "data sharing",
+        "outsourcing",
+        "personal information controller",
+        "personal information processor",
+        "compliance"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-005",
+      "tags": [
+        "data sharing",
+        "outsourcing",
+        "personal information controller",
+        "personal information processor",
+        "compliance"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-006",
+      "tags": [
+        "Health Research",
+        "Clinical Data",
+        "Health information"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-007",
+      "tags": [
+        "KYC",
+        "lawful processing",
+        "consent"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-009",
+      "tags": [
+        "Scope",
+        "exemption",
+        "special cases",
+        "registration of data processing systems"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-010",
+      "tags": [
+        "Access to employee records",
+        "201 Files",
+        "Medical Records",
+        "Internal Audit"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-011",
+      "tags": [
+        "scope",
+        "personal information",
+        "sensitive personal information",
+        "lawful processing",
+        "Corporation Code",
+        "inspection of corporate books and records"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-012",
+      "tags": [
+        "Government database",
+        "nationality requirement"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-013",
+      "tags": [
+        "assessor",
+        "sensitive personal information",
+        "consent",
+        "disclosure",
+        "lawful processing",
+        "court proceedings",
+        "legal claims",
+        "real property",
+        "tax declaration"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-014",
+      "tags": [
+        "Scope",
+        "personal information",
+        "special cases"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-017",
+      "tags": [
+        "Research",
+        "Access to public documents"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-018",
+      "tags": [
+        "Data Sharing Agreement",
+        "Data Privacy Principles",
+        "Transparency",
+        "Legitimate Purpose",
+        "Proportionality",
+        "Survey",
+        "Philippine Statistics Office"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-019",
+      "tags": [
+        "Scope",
+        "Exemption from the Registration of the Data Processing System",
+        "designation of Data Protection Officer"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-020",
+      "tags": [
+        "Audit",
+        "Auditors",
+        "Borrowers",
+        "Credit Data",
+        "Commission on Audit",
+        "COA",
+        "Loans",
+        "Scope",
+        "Special cases",
+        "Public Authority"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-021",
+      "tags": [
+        "Data Privacy Officer",
+        "Data Privacy Principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-022",
+      "tags": [
+        "Scope of the DPA",
+        "Lawful Processing",
+        "Data Privacy Principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-023",
+      "tags": [
+        "scope",
+        "lawful processing of personal information",
+        "privacy notice",
+        "CCTV",
+        "employee",
+        "evidence"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-024",
+      "tags": [
+        "lawful processing of sensitive personal information",
+        "data privacy principles",
+        "criminal history",
+        "public notice",
+        "employee data",
+        "right to information",
+        "freedom of the press",
+        "prejudicial publicity",
+        "right to privacy"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-025",
+      "tags": [
+        "personal information",
+        "criteria for lawful processing",
+        "legal obligation",
+        "Revised Corporation Code"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-026",
+      "tags": [
+        "request for public documents",
+        "sensitive personal information",
+        "redaction",
+        "freedom of information"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-027",
+      "tags": [
+        "personal information",
+        "lawful processing",
+        "general data privacy principle",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-028",
+      "tags": [
+        "Scope of the DPA",
+        "lawful processing of personal data",
+        "posting of cases"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-029",
+      "tags": [
+        "outsourcing",
+        "third-party processor",
+        "consent",
+        "accreditation and training purposes"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-030",
+      "tags": [
+        "scope",
+        "personal information",
+        "research",
+        "exceptions",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-032",
+      "tags": [
+        "electronic medical records",
+        "anonymization",
+        "security measures"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-034",
+      "tags": [
+        "consent",
+        "freely given",
+        "specific",
+        "employees",
+        "employment",
+        "transparency",
+        "privacy notice",
+        "lawful processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-035",
+      "tags": [
+        "Consent",
+        "Department of Human Settlements and Urban Development (DHSUD)",
+        "social housing",
+        "regulatory function",
+        "beneficiaries",
+        "statutory mandate"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-036",
+      "tags": [
+        "personal information controller",
+        "personal information processor",
+        "proportionality",
+        "data sharing agreement",
+        "outsourcing agreement",
+        "compliance officer for privacy"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-037",
+      "tags": [
+        "scope",
+        "special cases",
+        "Personal Data Sheet",
+        "Executive Order No. 2",
+        "NPC Advisory No. 2017-02",
+        "right to privacy",
+        "right to information",
+        "information of public concern",
+        "lawful processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-038",
+      "tags": [
+        "personal information",
+        "legitimate purpose",
+        "lawful processing vitally important interests"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-039",
+      "tags": [
+        "tax declarations",
+        "scope",
+        "lawful processing of personal data"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-040",
+      "tags": [
+        "scope",
+        "personal information",
+        "data subject",
+        "lawful processing of personal data"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-041",
+      "tags": [
+        "credit card fraud",
+        "investigations",
+        "lawful processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-042",
+      "tags": [
+        "tax declarations",
+        "scope",
+        "lawful processing",
+        "data privacy principles",
+        "consent",
+        "data sharing agreement"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-043",
+      "tags": [
+        "general data privacy principles",
+        "criteria for lawful processing",
+        "data sharing",
+        "data sharing agreement",
+        "civil registry documents"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-044",
+      "tags": [
+        "consent of the data subject",
+        "lawful criteria processing",
+        "credit scoring",
+        "general data privacy principles",
+        "transparency",
+        "privacy notice",
+        "data sharing",
+        "data sharing agreement"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-045",
+      "tags": [
+        "death certificate",
+        "sensitive personal information",
+        "Philippine Statistics Authority",
+        "lawful criteria for processing",
+        "law and regulation",
+        "COA audit"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-046",
+      "tags": [
+        "Sensitive personal information",
+        "consent",
+        "lawful processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-047",
+      "tags": [
+        "Philhealth",
+        "complaint",
+        "legal claims",
+        "lawful processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-048",
+      "tags": [
+        "disclosure of civil registry documents",
+        "scope",
+        "lawful processing of personal data"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-049",
+      "tags": [
+        "Consent",
+        "Facial Recognition",
+        "Identification"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-050",
+      "tags": [
+        "Address",
+        "Employee",
+        "Commission on Audit",
+        "COA",
+        "Government",
+        "Legal obligation",
+        "Personal information",
+        "Proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-051",
+      "tags": [
+        "Right to erasure",
+        "blocking",
+        "deletion of account",
+        "data subjects rights"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2019-052",
+      "tags": [
+        "Data sharing",
+        "Registry",
+        "Collection of Sensitive Personal Information",
+        "Teenage Pregnancy",
+        "Health Information",
+        "Transparency",
+        "Legitimate purpose",
+        "Proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-001",
+      "tags": [
+        "scope",
+        "lawful processing",
+        "legal obligation",
+        "public authority",
+        "law and regulation",
+        "data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-002",
+      "tags": [
+        "scope",
+        "lawful processing",
+        "public authority",
+        "mandate",
+        "data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-003",
+      "tags": [
+        "personal information",
+        "data subject",
+        "data subjects’ rights"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-004",
+      "tags": [
+        "scope",
+        "research",
+        "special cases",
+        "public officials",
+        "barangay officials",
+        "death benefit"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-005",
+      "tags": [
+        "criteria for lawful processing",
+        "consent",
+        "contract",
+        "legitimate interest"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-006",
+      "tags": [
+        "Collection agency",
+        "personal loan",
+        "employment",
+        "right to privacy"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-007",
+      "tags": [
+        "SALN",
+        "Bureau of Treasury",
+        "elective officials",
+        "malversation",
+        "public documents",
+        "right to information",
+        "official custodian of documents"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-008",
+      "tags": [
+        "lawful processing",
+        "personal information",
+        "public authority",
+        "general data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-009",
+      "tags": [
+        "personal information controller",
+        "personal information processor",
+        "health information",
+        "electronic medical record"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-010",
+      "tags": [
+        "Philhealth inspection and monitoring",
+        "public authority",
+        "regulatory mandate",
+        "special cases",
+        "general data privacy principles",
+        "non-disclosure agreement",
+        "data sharing agreement"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-011",
+      "tags": [
+        "birth certificate",
+        "PSA",
+        "personal information",
+        "sensitive personal information",
+        "lawful processing",
+        "law or regulation"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-012",
+      "tags": [
+        "public authority",
+        "mandate",
+        "lawful processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-013",
+      "tags": [
+        "administrative cases",
+        "education sector",
+        "sensitive personal information"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-014",
+      "tags": [
+        "personal information",
+        "address of accused",
+        "learners LRN",
+        "warrant of arrest",
+        "confidentiality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-015",
+      "tags": [
+        "scope",
+        "special cases",
+        "public authority",
+        "lawful processing",
+        "foreign diplomatic missions"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-016",
+      "tags": [
+        "COA",
+        "processing of public authorities",
+        "constitutional or statutory mandate",
+        "presumption of regularity",
+        "general data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-017",
+      "tags": [
+        "personal information controller",
+        "personal information processor",
+        "corporate dissolution",
+        "accountability",
+        "data subjects’ rights",
+        "liability"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-018",
+      "tags": [
+        "outsourcing",
+        "outsourcing agreements",
+        "personal information controllers",
+        "personal information processors"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-019",
+      "tags": [
+        "DSWD",
+        "DILG",
+        "Social Amelioration Program",
+        "Emergency Subsidy Program",
+        "COVID-19",
+        "lawful processing",
+        "law or regulation",
+        "transparency",
+        "public funds",
+        "right to information",
+        "matters of public concern"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-021",
+      "tags": [
+        "personal information",
+        "lawful criteria for processing",
+        "consent",
+        "automated retrieval",
+        "bank transaction history",
+        "loan application",
+        "right to access",
+        "right to data portability",
+        "right to be informed",
+        "security measures"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-022",
+      "tags": [
+        "processing",
+        "public disclosure",
+        "public authority",
+        "statutory mandate",
+        "law",
+        "Department of Health",
+        "COVID-19",
+        "contact tracing",
+        "privacy guidelines"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-023",
+      "tags": [
+        "personal information",
+        "sensitive personal information",
+        "DSWD",
+        "Listahanan",
+        "privacy notice"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-024",
+      "tags": [
+        "contact information",
+        "disclosure",
+        "legitimate interest"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-025",
+      "tags": [
+        "data protection officer",
+        "compliance officer",
+        "independence",
+        "conflict of interest"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-026",
+      "tags": [
+        "right to privacy",
+        "freedom of information",
+        "disclosure of beneficiary data",
+        "special cases",
+        "accountability",
+        "transparency",
+        "proportionality",
+        "pseudonymization",
+        "statistics"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-027",
+      "tags": [
+        "Personal Data Sheet",
+        "NPC Advisory No. 2017-02",
+        "administrative investigation",
+        "admissibility",
+        "evidence"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-028",
+      "tags": [
+        "processing",
+        "sensitive personal information",
+        "COVID-19",
+        "public authority",
+        "mandate",
+        "statistics"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-029",
+      "tags": [
+        "DILG",
+        "Katarungang Pambarangay",
+        "barangay",
+        "research",
+        "exemption",
+        "special cases",
+        "lawful processing",
+        "disclosure",
+        "thesis",
+        "dissertation",
+        "general data privacy principles",
+        "transparency",
+        "legitimate purpose",
+        "proportionality",
+        "data subject’s rights",
+        "limitation on rights",
+        "ethical standards"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-030",
+      "tags": [
+        "sensitive personal information",
+        "COVID-19",
+        "DILG",
+        "public authority",
+        "reportorial requirement"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-031",
+      "tags": [
+        "lawful processing of personal data",
+        "special cases",
+        "public authority",
+        "mandate"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-032",
+      "tags": [
+        "Personal Property Security Act",
+        "public authority",
+        "special cases",
+        "general data privacy principles",
+        "blockchain technology",
+        "immutability",
+        "personal information controller",
+        "data subject rights"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-033",
+      "tags": [
+        "disclosure of beneficiary data",
+        "education sector",
+        "lawful criteria for processing",
+        "government agency",
+        "mandate",
+        "legitimate purpose",
+        "proportionality",
+        "data sharing agreement"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-034",
+      "tags": [
+        "Small Business Wage Subsidy",
+        "data sharing",
+        "proportionality",
+        "SSS",
+        "DSWD",
+        "public authority",
+        "mandate"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-035",
+      "tags": [
+        "data sharing",
+        "data sharing agreement",
+        "Universal Health Care Act",
+        "DOH",
+        "Philhealth",
+        "COVID-19"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-036",
+      "tags": [
+        "land documents",
+        "government franchise",
+        "eminent domain",
+        "expropriation",
+        "mandate",
+        "NGCP",
+        "legal obligation",
+        "law",
+        "legal claims"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-037",
+      "tags": [
+        "loss of personal information",
+        "improper disposal",
+        "personal information controller",
+        "security measures",
+        "complaint-assisted form"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-038",
+      "tags": [
+        "email address",
+        "carbon copy",
+        "blind carbon copy",
+        "personal data breach",
+        "notification",
+        "security measures"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-039",
+      "tags": [
+        "personal information",
+        "bank transaction details",
+        "fraud investigation",
+        "legitimate interests"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-040",
+      "tags": [
+        "personal information controller",
+        "personal information processor",
+        "corporate dissolution",
+        "data subjects’ rights",
+        "liability"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-041",
+      "tags": [
+        "disclosure of beneficiary data",
+        "education sector",
+        "lawful criteria for processing",
+        "government agency",
+        "mandate",
+        "legitimate purpose",
+        "proportionality",
+        "data sharing agreement"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-042",
+      "tags": [
+        "lawful processing of personal data",
+        "legitimate interest",
+        "powers of the National Privacy Commission"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-043",
+      "tags": [
+        "informational privacy",
+        "disclosure of personal data",
+        "writ of habeas data",
+        "admissibility of evidence"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-044",
+      "tags": [
+        "employee data",
+        "health information",
+        "infectious disease",
+        "pregnancy-related illnesses"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-045",
+      "tags": [
+        "personal information",
+        "disclosure",
+        "lawful criteria for processing",
+        "legal obligation",
+        "corporation",
+        "proxies",
+        "Revised Corporation Code"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-046",
+      "tags": [
+        "school practices",
+        "education sector",
+        "online education",
+        "lawful criteria for processing",
+        "consent",
+        "minors",
+        "children",
+        "sensitive personal information",
+        "data subject rights"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-047",
+      "tags": [
+        "publication of beneficial ownership",
+        "legal obligation",
+        "law or regulation",
+        "general data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-048",
+      "tags": [
+        "lawful processing of personal information",
+        "data privacy principles",
+        "legitimate interests"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-049",
+      "tags": [
+        "release of documents by government agencies",
+        "criteria for processing sensitive personal information",
+        "processing necessary for exercise or defense of legal claims"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-050",
+      "tags": [
+        "personal information",
+        "credit card information",
+        "fraud investigation",
+        "legitimate interests"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-051",
+      "tags": [
+        "scope",
+        "lawful processing",
+        "public authority",
+        "proportionality",
+        "due process",
+        "statistics"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-052",
+      "tags": [
+        "scope",
+        "personal information",
+        "natural person",
+        "juridical person",
+        "lawful criteria for processing",
+        "legal obligation",
+        "public authority"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-053",
+      "tags": [
+        "personal information",
+        "lawful processing",
+        "legal obligation",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-054",
+      "tags": [
+        "criteria for processing sensitive personal information",
+        "proportionality",
+        "retention",
+        "disposal",
+        "contact tracing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2020-055",
+      "tags": [
+        "public authority",
+        "criteria for lawful processing of personal and sensitive personal information",
+        "compliance of legal obligation",
+        "fulfillment of mandate",
+        "processing based on laws and regulations",
+        "consent",
+        "non-disclosure agreement"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-001",
+      "tags": [
+        "data subject rights",
+        "right to erasure",
+        "retention",
+        "anonymization"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-002",
+      "tags": [
+        "scope of the DPA",
+        "right to information",
+        "limitations",
+        "lawful processing of personal data",
+        "general data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-003",
+      "tags": [
+        "data sharing",
+        "data sharing agreement",
+        "scope",
+        "personal data",
+        "statistics"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-004",
+      "tags": [
+        "HMO brokers",
+        "request for personal data",
+        "sensitive personal information",
+        "health information",
+        "lawful basis",
+        "consent",
+        "general data privacy principles",
+        "statistics"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-005",
+      "tags": [
+        "data protection officer",
+        "conflict of interest",
+        "purpose and means of processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-006",
+      "tags": [
+        "data classification",
+        "Government Procurement Reform Act",
+        "procurement documents",
+        "disclosure",
+        "transparency",
+        "general data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-007",
+      "tags": [
+        "data sharing",
+        "data sharing agreement",
+        "public function",
+        "fulfillment of lawful mandate",
+        "general data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-008",
+      "tags": [
+        "special cases",
+        "discretionary benefit of a financial nature",
+        "lawful basis for processing",
+        "freedom of information"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-009",
+      "tags": [
+        "forensic audits",
+        "general data privacy principles",
+        "lawful basis for processing",
+        "data subject rights"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-010",
+      "tags": [
+        "Private detective services",
+        "background investigation",
+        "surveillance operations",
+        "undercover operations",
+        "lifestyle check",
+        "records check",
+        "right to privacy",
+        "lawful criteria for processing",
+        "data subject rights"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-011",
+      "tags": [
+        "General Data Protection Regulation",
+        "Overseas Voting Act",
+        "Philippine Embassy",
+        "certified list of overseas voters",
+        "Vienna Convention on Diplomatic Relations",
+        "lawful criteria for processing",
+        "data subject rights",
+        "limitations"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-012",
+      "tags": [
+        "scope",
+        "lawful criteria for processing",
+        "public authority",
+        "law or regulation",
+        "general data privacy principles",
+        "confidentiality",
+        "loans",
+        "deposits"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-013",
+      "tags": [
+        "Hague Child Abduction Convention",
+        "Department of Justice",
+        "mandate",
+        "lawful criteria for processing",
+        "general data privacy principles",
+        "data subject rights",
+        "data sharing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-014",
+      "tags": [
+        "social media posts",
+        "unauthorized processing",
+        "data subject rights"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-015",
+      "tags": [
+        "lawful criteria for processing",
+        "legal obligation",
+        "government employees",
+        "premium contributions",
+        "SSS",
+        "GSIS",
+        "consent",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-016",
+      "tags": [
+        "government procurement",
+        "procurement documents",
+        "posting requirement",
+        "security measures",
+        "redaction"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-017",
+      "tags": [
+        "law enforcement",
+        "investigation",
+        "mandate",
+        "due process",
+        "data sharing",
+        "data sharing agreement"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-018",
+      "tags": [
+        "law enforcement agencies",
+        "special cases",
+        "lawful processing of personal information",
+        "fulfillment of mandate",
+        "processing based on laws and regulations",
+        "general data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-019",
+      "tags": [
+        "administrative proceedings",
+        "sensitive personal information",
+        "lawful criteria for processing",
+        "Civil Service Commission 2017 Rules on Administrative Cases in the Civil Service",
+        "Code of Conduct and Ethical Standards for Public Officials and Employees"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-020",
+      "tags": [
+        "global positioning systems",
+        "GPS devices",
+        "real-time tracking",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-021",
+      "tags": [
+        "lawful basis for processing",
+        "personal information",
+        "sensitive personal information",
+        "establishment of legal claims"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-022",
+      "tags": [
+        "lawful basis for processing",
+        "laws and regulations",
+        "BSP",
+        "know your customer (KYC)",
+        "outsourcing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-023",
+      "tags": [
+        "health data",
+        "genetic data",
+        "sensitive personal information",
+        "special cases",
+        "research",
+        "ethical and legal obligations",
+        "consent"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-024",
+      "tags": [
+        "lawful basis for processing",
+        "social welfare and development",
+        "fulfillment of mandate of public authority",
+        "consent",
+        "freedom of information",
+        "privacy notice"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-025",
+      "tags": [
+        "sensitive personal information",
+        "health information",
+        "psychiatric evaluation of employees",
+        "criteria for lawful processing of sensitive personal information",
+        "consent"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-026",
+      "tags": [
+        "lawful processing",
+        "sensitive personal information",
+        "legal claim",
+        "law",
+        "regulation",
+        "BSP",
+        "fraud investigation",
+        "fraud prevention",
+        "blacklists",
+        "fairness",
+        "lawfulness",
+        "accuracy",
+        "privacy impact assessment",
+        "data subject rights",
+        "limitations"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-027",
+      "tags": [
+        "legislative franchise",
+        "eminent domain",
+        "right of way",
+        "scope",
+        "special cases",
+        "lawful criteria for processing",
+        "legal obligation",
+        "laws and regulations",
+        "legal claims"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-028",
+      "tags": [
+        "Bureau of Internal Revenue",
+        "scope of the DPA",
+        "special cases"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-029",
+      "tags": [
+        "criteria for lawful processing of personal and sensitive personal information",
+        "personal information controller",
+        "accountability",
+        "retention",
+        "compliance"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-030",
+      "tags": [
+        "criteria for lawful processing",
+        "legal obligation",
+        "mandate",
+        "copyright",
+        "general data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-031",
+      "tags": [
+        "criteria for lawful processing",
+        "legal obligation",
+        "mandate",
+        "copyright",
+        "general data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-032",
+      "tags": [
+        "social welfare and development",
+        "fulfillment of mandate of public authority",
+        "freedom of information",
+        "privacy notice"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-033",
+      "tags": [
+        "sensitive personal information",
+        "anti-fraud campaign",
+        "training",
+        "and awareness",
+        "internal disclosure of sensitive personal information",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-034",
+      "tags": [
+        "special cases",
+        "lawful criteria for processing",
+        "public authority",
+        "fulfillment of mandate",
+        "subpoena",
+        "limitation on data subject rights"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-035",
+      "tags": [
+        "registered deaths",
+        "death certificate",
+        "Local Civil Registrar",
+        "PHIC",
+        "data sharing",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-036",
+      "tags": [
+        "criteria for lawful processing",
+        "legal claims",
+        "legitimate interest"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-037",
+      "tags": [
+        "lawful processing of personal information",
+        "fulfillment of mandate",
+        "general data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-038",
+      "tags": [
+        "criteria for lawful processing",
+        "compliance with legal obligation",
+        "law or regulation",
+        "consent",
+        "general data privacy principles",
+        "privacy impact assessment",
+        "privacy-by-design"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-039",
+      "tags": [
+        "criteria for lawful processing",
+        "data sharing",
+        "law and regulation",
+        "general data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-040",
+      "tags": [
+        "Condominium Certificate of Title",
+        "lawful processing",
+        "consent",
+        "establishment",
+        "exercise",
+        "or defense of legal claims",
+        "general data privacy principles",
+        "proportionality",
+        "privacy impact assessment"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-041",
+      "tags": [
+        "lawful processing of personal information",
+        "contract",
+        "mandate",
+        "general data privacy principles",
+        "transparency",
+        "proportionality",
+        "privacy notice"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-042",
+      "tags": [
+        "lawful basis for processing",
+        "law",
+        "public authority",
+        "consent",
+        "further processing",
+        "statistical data",
+        "COVID-19 patient information"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-043",
+      "tags": [
+        "data sharing",
+        "data sharing agreement",
+        "general data privacy principles",
+        "law and regulation",
+        "consent",
+        "statistics"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-044",
+      "tags": [
+        "disclosure of academic records",
+        "sensitive personal information",
+        "special cases",
+        "administrative and criminal complaints",
+        "Section 13 (f)",
+        "legitimacy",
+        "proportionality",
+        "necessity"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2021-045",
+      "tags": [
+        "subscriber records",
+        "address",
+        "social media influencers",
+        "Bureau of Internal Revenue",
+        "internal revenue tax purposes",
+        "special cases",
+        "public authority",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-001",
+      "tags": [
+        "scope of the DPA",
+        "juridical entities",
+        "legal obligation",
+        "public authority",
+        "law or regulation",
+        "general data privacy principles",
+        "proportionality",
+        "sensitive personal information"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-002",
+      "tags": [
+        "disclosure of personal data",
+        "lawful basis for processing",
+        "legitimate interest",
+        "legal claims"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-003",
+      "tags": [
+        "sensitive personal information",
+        "lawful processing",
+        "protection of lawful rights and interest of natural or legal persons in court proceedings",
+        "establishment",
+        "exercise or defense of legal claims"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-004",
+      "tags": [
+        "health information",
+        "consent",
+        "right to access",
+        "transmissibility of rights",
+        "succession"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-005",
+      "tags": [
+        "lawful processing",
+        "consent",
+        "legitimate interest",
+        "protection of lawful rights and interest of natural or legal persons in court proceedings",
+        "establishment",
+        "exercise or defense of legal claims"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-006",
+      "tags": [
+        "special cases",
+        "public authority",
+        "law enforcement",
+        "constitutional and statutory mandate",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-007",
+      "tags": [
+        "personal information controller",
+        "personal information processor",
+        "processing",
+        "personal information",
+        "liability",
+        "damages",
+        "accountability"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-008",
+      "tags": [
+        "employee service record",
+        "protection of lawful rights and interest",
+        "court proceedings",
+        "legitimate interest"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-009",
+      "tags": [
+        "criteria for lawful processing",
+        "general data privacy principles",
+        "legitimate interest"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-010",
+      "tags": [
+        "Consent"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-014",
+      "tags": [
+        "online classes",
+        "recording of online classes",
+        "lawful criteria for processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-015",
+      "tags": [
+        "lawful processing",
+        "statutory mandate",
+        "photographs",
+        "taking of videos"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-016",
+      "tags": [
+        "lawful processing",
+        "legitimate interest",
+        "data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-017",
+      "tags": [
+        "personal data",
+        "lawful processing",
+        "consent of data subjects",
+        "legal claims",
+        "Sec. 13 (f)",
+        "DPA"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-018",
+      "tags": [
+        "Philippine Identification System Act",
+        "PhilSys Act",
+        "PhilSys",
+        "national ID",
+        "identification system",
+        "rights of data subjects",
+        "right to object",
+        "right to erasure",
+        "right to deletion",
+        "lawful criteria for processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-019",
+      "tags": [
+        "body-worn cameras",
+        "lawful processing of personal information",
+        "general data privacy principles",
+        "transparency",
+        "proportionality",
+        "privacy notice"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-020",
+      "tags": [
+        "Philippine Identification System Act",
+        "PhilSys Act",
+        "PhilSys",
+        "national ID",
+        "identification system",
+        "rights of data subjects",
+        "right to object",
+        "right to erasure",
+        "right to deletion",
+        "lawful criteria for processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-021",
+      "tags": [
+        "lawful criteria for processing",
+        "natural person",
+        "juridical person",
+        "legal obligation",
+        "publication of names"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-022",
+      "tags": [
+        "COVID-19",
+        "swab test results",
+        "contact tracing",
+        "sensitive personal information",
+        "disclosure"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-023",
+      "tags": [
+        "disclosure of student personal information and sensitive personal information",
+        "Section 12 (f)",
+        "Section 13 (f)",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-024",
+      "tags": [
+        "free flow of data",
+        "data transfer",
+        "cross-border data transfer",
+        "accountability"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-025",
+      "tags": [
+        "201 files",
+        "government employee",
+        "Civil Service Commission",
+        "right to access",
+        "data subject rights",
+        "legal claims"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-026",
+      "tags": [
+        "Civil Service Commission",
+        "constitutional mandate",
+        "exemption",
+        "disclosure",
+        "database",
+        "security measures",
+        "privacy impact assessment",
+        "proportionality",
+        "rights of data subjects",
+        "right to rectification"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-027",
+      "tags": [
+        "Philippine Statistics Authority",
+        "PSA",
+        "disclosure",
+        "civil registry documents",
+        "birth certificate",
+        "sensitive personal information",
+        "putative parent",
+        "paternity",
+        "filiation",
+        "establishment of legal claims"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2022-028",
+      "tags": [
+        "cancellation of title",
+        "lis pendens",
+        "tax declaration",
+        "certificate of title",
+        "tax clearance",
+        "establishment of legal claims",
+        "Section"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-001",
+      "tags": [
+        "lawful processing",
+        "legal claims",
+        "contractual obligation",
+        "condominium corporation"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-002",
+      "tags": [
+        "scope of the DPA",
+        "sensitive personal information",
+        "tax declarations",
+        "public documents"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-003",
+      "tags": [
+        "personal data",
+        "lawful processing",
+        "titled lands",
+        "public authority mandate",
+        "legal obligation"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-004",
+      "tags": [
+        "subscriber records",
+        "subscriber data",
+        "Bureau of Internal Revenue",
+        "internal revenue tax purposes",
+        "special cases",
+        "public authority"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-005",
+      "tags": [
+        "sensitive personal information",
+        "health data",
+        "legal mandate",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-006",
+      "tags": [
+        "lawful processing",
+        "legitimate interest",
+        "proportionality",
+        "security measures"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-008",
+      "tags": [
+        "Scope",
+        "general data privacy principles",
+        "law and regulation",
+        "lawful processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-009",
+      "tags": [
+        "data sharing",
+        "international body",
+        "immunity from suit"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-010",
+      "tags": [
+        "lawful processing",
+        "legitimate interest",
+        "proportionality",
+        "security measures"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-011",
+      "tags": [
+        "personal information",
+        "legitimate interest",
+        "legal claims",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-012",
+      "tags": [
+        "lawful criteria for processing",
+        "data sharing",
+        "credit information",
+        "consent",
+        "legitimate interest"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-013",
+      "tags": [
+        "ordinance",
+        "barangay database",
+        "ID system",
+        "criteria for lawful processing",
+        "data privacy principles",
+        "rights of the data subject"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-014",
+      "tags": [
+        "Lawful Processing",
+        "Contractual Obligation",
+        "Legitimate Interest",
+        "Accountability"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-015",
+      "tags": [
+        "special cases",
+        "disclosure to public authority",
+        "general data privacy principles",
+        "list of barangay inhabitants"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-017",
+      "tags": [
+        "Lawful Processing",
+        "Contractual Obligation",
+        "Legitimate Interest",
+        "Accountability"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-018",
+      "tags": [
+        "special cases",
+        "law enforcement",
+        "lawful processing",
+        "investigations"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-019",
+      "tags": [
+        "special cases",
+        "law enforcement",
+        "lawful processing",
+        "investigations"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-020",
+      "tags": [
+        "breath analyzers",
+        "sensitive personal information",
+        "lawful criteria for processing",
+        "consent",
+        "contract",
+        "compliance with legal obligation"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-021",
+      "tags": [
+        "non-applicability of DPA",
+        "special case",
+        "business permit and supporting documents"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-022",
+      "tags": [
+        "press freedom",
+        "journalistic purpose",
+        "special case",
+        "freedom of information",
+        "security measures"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-023",
+      "tags": [
+        "press freedom",
+        "journalistic purpose",
+        "special case",
+        "freedom of information",
+        "security measures"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-024",
+      "tags": [
+        "Vessel records",
+        "scope of the DPA",
+        "personal information",
+        "juridical entities"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-025",
+      "tags": [
+        "facial recognition",
+        "personal information",
+        "sensitive personal information"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-026",
+      "tags": [
+        "sensitive personal information",
+        "fraud prevention",
+        "legal claims"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2023-027",
+      "tags": [
+        "Personal information controller",
+        "obligations",
+        "data sharing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-001",
+      "tags": [
+        "processing",
+        "audit function",
+        "constitutional mandate"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-002",
+      "tags": [
+        "Artificial Intelligence",
+        "General Principles of Privacy",
+        "Data Subject Rights",
+        "Privacy Impact Assessment"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-003",
+      "tags": [
+        "Telecommuting",
+        "monitoring software",
+        "employee surveillance",
+        "contract",
+        "legitimate interest"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-004",
+      "tags": [
+        "automated access",
+        "personal information processor",
+        "consent"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-005",
+      "tags": [
+        "Artificial intelligence",
+        "legitimate interest",
+        "proportionality",
+        "right to object"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-006",
+      "tags": [
+        "Data Protection Officer",
+        "conflict of interest",
+        "autonomy"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-007",
+      "tags": [
+        "Incident reports",
+        "court order",
+        "proportionality",
+        "law enforcement"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-008",
+      "tags": [
+        "Public documents",
+        "scope of the DPA",
+        "freedom of information"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-009",
+      "tags": [
+        "Sec. 12 DPA",
+        "Personal Information",
+        "Fulfillment of Mandate",
+        "Publication"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-010",
+      "tags": [
+        "Coop Loan ledger",
+        "Disclosure",
+        "Lawful processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-011",
+      "tags": [
+        "personal data",
+        "lawful criteria for processing",
+        "sensitive personal information",
+        "establishment or exercise of legal claims",
+        "legitimate interest",
+        "fulfillment of contractual obligations",
+        "general data privacy principles"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-012",
+      "tags": [
+        "personal information",
+        "sensitive personal information",
+        "lawful processing",
+        "Corporation Code",
+        "inspection of corporate books and records",
+        "data subject rights"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-013",
+      "tags": [
+        "Vessels",
+        "scope of the DPA",
+        "personal information",
+        "processing for fulfillment of statutory and constitutional mandate"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-014",
+      "tags": [
+        "mandate",
+        "processing of personal information",
+        "general data privacy principles",
+        "personal data protection"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-015",
+      "tags": [
+        "processing",
+        "personal data",
+        "audit function",
+        "mandate"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-016",
+      "tags": [
+        "scope of the DPA",
+        "personal information",
+        "special cases",
+        "public authority"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-017",
+      "tags": [
+        "lawful processing of sensitive personal information",
+        "due process",
+        "data privacy principles",
+        "publication of employee data",
+        "data subject rights"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-018",
+      "tags": [
+        "CCTV footage",
+        "special case",
+        "public authority",
+        "statutory mandate"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2024-019",
+      "tags": [
+        "Foreign jurisdiction",
+        "special cases",
+        "legitimate purpose",
+        "lawful processing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-001",
+      "tags": [
+        "processing",
+        "personal data",
+        "mandate",
+        "audit function",
+        "security measures"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-002",
+      "tags": [
+        "Scope of DPA",
+        "Lawful processing",
+        "legitimate interest",
+        "legal claims"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-003",
+      "tags": [
+        "lawful processing of personal data",
+        "access to government records",
+        "data privacy principles",
+        "consent",
+        "legitimate interest",
+        "legal obligations",
+        "data subject rights",
+        "public authority"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-004",
+      "tags": [
+        "data sharing",
+        "criteria for lawful processing",
+        "mandate",
+        "general data privacy principles",
+        "security measures"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-005",
+      "tags": [
+        "lawful processing of personal data",
+        "access to government records",
+        "data privacy principles",
+        "special cases",
+        "statutory mandate",
+        "data sharing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-006",
+      "tags": [
+        "Lawful basis for processing",
+        "Sec. 12 (c)",
+        "Sec. 13 (f)",
+        "Bureau of Internal Revenue",
+        "public authority",
+        "regulatory mandate",
+        "processing of personal information by a public authority",
+        "Scope of the DPA",
+        "special cases",
+        "Proportionality",
+        "Privacy Notice"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-007",
+      "tags": [
+        "NPC Circular 2023-03",
+        "PWD IDs",
+        "Biometric Data",
+        "security measures"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-008",
+      "tags": [
+        "personal information",
+        "sensitive personal information",
+        "death certificate",
+        "criteria for lawful processing",
+        "data sharing",
+        "general data privacy principles",
+        "security measures"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-009",
+      "tags": [
+        "Transcript of Records",
+        "sensitive personal information",
+        "security measures",
+        "administrative fines"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-010",
+      "tags": [
+        "peer-to-peer disclosure",
+        "online conversations and group chats",
+        "educational institutions",
+        "Section 13(f) DP",
+        "disciplinary proceedings",
+        "reasonable expectation of privacy"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-011",
+      "tags": [
+        "Bureau of Internal Revenue",
+        "public authority",
+        "regulatory mandate",
+        "processing of personal information by a public authority",
+        "Scope of the DP A",
+        "special cases",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-012",
+      "tags": [
+        "Registry of Deeds",
+        "Sec. 12(f)",
+        "13(f)",
+        "DPA",
+        "Legal claims",
+        "Right to access"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-013",
+      "tags": [
+        "visa application",
+        "verification processes",
+        "personal information processor",
+        "sensitive personal information",
+        "general data privacy principles",
+        "privacy notice",
+        "security measures",
+        "privacy impact assessment"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-014",
+      "tags": [
+        "Verification of documents",
+        "personal information processor",
+        "privacy notice",
+        "general data privacy principles",
+        "security measures"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-015",
+      "tags": [
+        "lawful processing of personal data",
+        "PhilSys QR code",
+        "KYC",
+        "banking",
+        "personal information processors",
+        "sensitive personal information",
+        "identity verification"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-016",
+      "tags": [
+        "CCTV footage",
+        "lawful processing",
+        "government office",
+        "mandate",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2025-017",
+      "tags": [
+        "academic records",
+        "student grades",
+        "sensitive personal information",
+        "data subject rights",
+        "right to access"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2026-001",
+      "tags": [
+        "Lawful Processing",
+        "Disclosure",
+        "Constitutional and Statutory Mandate",
+        "Data Privacy Principles",
+        "Data Sharing",
+        "Authorized Access"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2026-002",
+      "tags": [
+        "Law firm’s request of personal information and sensitive personal information from government agencies",
+        "Section 12(f)",
+        "Section 13(f)",
+        "legitimate purpose",
+        "proportionality"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2026-003",
+      "tags": [
+        "lawful processing",
+        "disclosure",
+        "legal obligation",
+        "government records",
+        "local government unit",
+        "landowner names",
+        "property identification maps"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2026-004",
+      "tags": [
+        "PIC registration",
+        "data protection officer",
+        "Schools Division",
+        "personal data breach notification",
+        "security incident reporting",
+        "governance structure",
+        "NPC Circular No. 2022-04",
+        "centralized registration"
+      ]
+    }
+  ]
+}

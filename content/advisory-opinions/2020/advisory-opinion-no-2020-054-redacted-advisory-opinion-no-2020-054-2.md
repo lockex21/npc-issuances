@@ -10,6 +10,12 @@ tags:
   - sensitive-data
   - retention
   - proportionality
+official_tags:
+  - "criteria for processing sensitive personal information"
+  - "proportionality"
+  - "retention"
+  - "disposal"
+  - "contact tracing"
 date: "2020-12-28"
 draft: false
 ---

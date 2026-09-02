@@ -5,6 +5,14 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2021
+official_tags:
+  - "lawful basis for processing"
+  - "law"
+  - "public authority"
+  - "consent"
+  - "further processing"
+  - "statistical data"
+  - "COVID-19 patient information"
 date: "2021-12-16"
 draft: false
 aliases:

@@ -12,6 +12,11 @@ tags:
   - "year/2022"
   - "topic/consent"
   - "topic/legitimate-interest"
+official_tags:
+  - "lawful processing"
+  - "statutory mandate"
+  - "photographs"
+  - "taking of videos"
 date: "2022-06-23"
 draft: false
 ---

@@ -5,6 +5,10 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2024
+official_tags:
+  - "processing"
+  - "audit function"
+  - "constitutional mandate"
 aliases:
   - "NPC Advisory Opinion No. 2024-001"
   - "npc advisory opinion no. 2024-001"

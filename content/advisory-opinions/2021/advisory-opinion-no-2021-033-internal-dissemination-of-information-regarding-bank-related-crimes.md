@@ -5,6 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+official_tags:
+  - "sensitive personal information"
+  - "anti-fraud campaign"
+  - "training"
+  - "and awareness"
+  - "internal disclosure of sensitive personal information"
+  - "proportionality"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2021-033"

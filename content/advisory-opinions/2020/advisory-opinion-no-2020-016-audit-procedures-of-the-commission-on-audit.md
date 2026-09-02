@@ -5,6 +5,12 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2020
+official_tags:
+  - "COA"
+  - "processing of public authorities"
+  - "constitutional or statutory mandate"
+  - "presumption of regularity"
+  - "general data privacy principles"
 aliases:
   - "NPC Advisory Opinion No. 2020-016"
   - "npc advisory opinion no. 2020-016"

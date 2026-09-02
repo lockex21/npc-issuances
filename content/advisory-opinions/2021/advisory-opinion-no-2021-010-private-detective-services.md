@@ -8,6 +8,16 @@ tags:
   - "topic/data-subject-rights"
   - "topic/employment"
   - "topic/legitimate-interest"
+official_tags:
+  - "Private detective services"
+  - "background investigation"
+  - "surveillance operations"
+  - "undercover operations"
+  - "lifestyle check"
+  - "records check"
+  - "right to privacy"
+  - "lawful criteria for processing"
+  - "data subject rights"
 aliases:
   - "NPC Advisory Opinion No. 2021-010"
   - "npc advisory opinion no. 2021-010"

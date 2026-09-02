@@ -5,6 +5,10 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "lawful processing of personal data"
+  - "legitimate interest"
+  - "powers of the National Privacy Commission"
 date: "2020-10-30"
 draft: false
 ---

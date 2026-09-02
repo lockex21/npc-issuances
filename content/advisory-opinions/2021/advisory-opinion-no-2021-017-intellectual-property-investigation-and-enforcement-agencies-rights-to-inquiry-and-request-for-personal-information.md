@@ -11,6 +11,13 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/data-sharing"
+official_tags:
+  - "law enforcement"
+  - "investigation"
+  - "mandate"
+  - "due process"
+  - "data sharing"
+  - "data sharing agreement"
 date: "2021-06-08"
 draft: false
 ---

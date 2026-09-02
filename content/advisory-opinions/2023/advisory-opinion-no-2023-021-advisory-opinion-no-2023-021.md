@@ -5,6 +5,10 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2023
+official_tags:
+  - "non-applicability of DPA"
+  - "special case"
+  - "business permit and supporting documents"
 aliases:
   - "NPC Advisory Opinion No. 2023-021"
   - "npc advisory opinion no. 2023-021"

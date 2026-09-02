@@ -6,6 +6,10 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/consent"
+official_tags:
+  - "social media posts"
+  - "unauthorized processing"
+  - "data subject rights"
 aliases:
   - "NPC Advisory Opinion No. 2021-014"
   - "npc advisory opinion no. 2021-014"

@@ -6,6 +6,13 @@ tags:
   - "type/advisory-opinion"
   - "year/2019"
   - "topic/data-sharing"
+official_tags:
+  - "personal information controller"
+  - "personal information processor"
+  - "proportionality"
+  - "data sharing agreement"
+  - "outsourcing agreement"
+  - "compliance officer for privacy"
 date: "2019-07-03"
 draft: false
 aliases:

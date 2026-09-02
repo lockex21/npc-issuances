@@ -9,6 +9,17 @@ tags:
   - credit-data
   - borrowers
   - disclosure
+official_tags:
+  - "Audit"
+  - "Auditors"
+  - "Borrowers"
+  - "Credit Data"
+  - "Commission on Audit"
+  - "COA"
+  - "Loans"
+  - "Scope"
+  - "Special cases"
+  - "Public Authority"
 date: "2019-03-18"
 draft: false
 aliases:

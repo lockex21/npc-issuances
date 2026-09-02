@@ -7,6 +7,12 @@ tags:
   - "year/2024"
   - "topic/employment"
   - "topic/legitimate-interest"
+official_tags:
+  - "lawful processing of sensitive personal information"
+  - "due process"
+  - "data privacy principles"
+  - "publication of employee data"
+  - "data subject rights"
 date: "2024-12-18"
 draft: false
 aliases:

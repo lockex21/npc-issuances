@@ -7,6 +7,13 @@ tags:
   - year/2019
   - topic/consent
   - topic/data-sharing
+official_tags:
+  - "Consent"
+  - "Department of Human Settlements and Urban Development (DHSUD)"
+  - "social housing"
+  - "regulatory function"
+  - "beneficiaries"
+  - "statutory mandate"
 date: "2019-11-06"
 draft: false
 aliases:

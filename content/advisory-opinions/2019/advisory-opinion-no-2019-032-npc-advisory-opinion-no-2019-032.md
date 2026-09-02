@@ -6,6 +6,10 @@ tags:
   - type/advisory-opinion
   - year/2019
   - topic/security
+official_tags:
+  - "electronic medical records"
+  - "anonymization"
+  - "security measures"
 date: "2019-09-12"
 draft: false
 aliases:

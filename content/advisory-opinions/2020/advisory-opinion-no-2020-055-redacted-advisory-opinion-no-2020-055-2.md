@@ -10,6 +10,14 @@ tags:
   - public-authority
   - consent
   - sensitive-data
+official_tags:
+  - "public authority"
+  - "criteria for lawful processing of personal and sensitive personal information"
+  - "compliance of legal obligation"
+  - "fulfillment of mandate"
+  - "processing based on laws and regulations"
+  - "consent"
+  - "non-disclosure agreement"
 date: "2020-12-29"
 draft: false
 ---

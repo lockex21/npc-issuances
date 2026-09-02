@@ -7,6 +7,11 @@ tags:
 - year/2023
 - topic/government
 - topic/security
+official_tags:
+  - "sensitive personal information"
+  - "health data"
+  - "legal mandate"
+  - "proportionality"
 date: "2023-01-17"
 draft: false
 aliases:

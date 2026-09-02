@@ -7,6 +7,11 @@ tags:
   - year/2024
   - topic/ai
   - topic/data-subject-rights
+official_tags:
+  - "Artificial Intelligence"
+  - "General Principles of Privacy"
+  - "Data Subject Rights"
+  - "Privacy Impact Assessment"
 aliases:
   - "NPC Advisory Opinion No. 2024-002"
   - "npc advisory opinion no. 2024-002"

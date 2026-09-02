@@ -10,6 +10,14 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+official_tags:
+  - "personal data"
+  - "lawful criteria for processing"
+  - "sensitive personal information"
+  - "establishment or exercise of legal claims"
+  - "legitimate interest"
+  - "fulfillment of contractual obligations"
+  - "general data privacy principles"
 date: "2024-11-12"
 draft: false
 ---

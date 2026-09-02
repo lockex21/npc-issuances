@@ -7,6 +7,10 @@ tags:
   - year/2019
   - topic/employment
   - topic/security
+official_tags:
+  - "Scope of the DPA"
+  - "lawful processing of personal data"
+  - "posting of cases"
 date: "2019-08-01"
 draft: false
 aliases:

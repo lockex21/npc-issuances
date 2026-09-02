@@ -6,6 +6,12 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/data-subject-rights"
+official_tags:
+  - "criteria for lawful processing"
+  - "legal obligation"
+  - "mandate"
+  - "copyright"
+  - "general data privacy principles"
 date: "2021-07-30"
 draft: false
 aliases:

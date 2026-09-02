@@ -11,6 +11,10 @@ tags:
   - "type/advisory-opinion"
   - "year/2019"
   - "topic/legitimate-interest"
+official_tags:
+  - "credit card fraud"
+  - "investigations"
+  - "lawful processing"
 date: "2019-10-23"
 draft: false
 ---

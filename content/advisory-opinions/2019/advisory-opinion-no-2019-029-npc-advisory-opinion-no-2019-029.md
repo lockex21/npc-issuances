@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2019
   - topic/consent
+official_tags:
+  - "outsourcing"
+  - "third-party processor"
+  - "consent"
+  - "accreditation and training purposes"
 date: "2019-07-17"
 draft: false
 aliases:

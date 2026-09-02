@@ -5,6 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "personal information controller"
+  - "personal information processor"
+  - "corporate dissolution"
+  - "accountability"
+  - "data subjects’ rights"
+  - "liability"
 aliases:
   - "NPC Advisory Opinion No. 2020-017"
   - "npc advisory opinion no. 2020-017"

@@ -5,6 +5,10 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+official_tags:
+  - "Private detective services"
+  - "background investigation"
+  - "right to privacy"
 date: "2019-01-03"
 draft: false
 aliases:

@@ -11,6 +11,13 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/consent"
+official_tags:
+  - "lawful basis for processing"
+  - "social welfare and development"
+  - "fulfillment of mandate of public authority"
+  - "consent"
+  - "freedom of information"
+  - "privacy notice"
 date: "2021-07-07"
 draft: false
 ---

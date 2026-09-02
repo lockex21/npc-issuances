@@ -7,6 +7,15 @@ tags:
   - "year/2020"
   - "topic/data-subject-rights"
   - "topic/security"
+official_tags:
+  - "Personal Property Security Act"
+  - "public authority"
+  - "special cases"
+  - "general data privacy principles"
+  - "blockchain technology"
+  - "immutability"
+  - "personal information controller"
+  - "data subject rights"
 date: "2020-08-10"
 draft: false
 aliases:

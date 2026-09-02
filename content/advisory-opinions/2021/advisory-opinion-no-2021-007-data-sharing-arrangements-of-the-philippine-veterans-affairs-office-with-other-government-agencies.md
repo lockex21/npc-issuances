@@ -7,6 +7,12 @@ tags:
   - "year/2021"
   - "topic/data-sharing"
   - "topic/government"
+official_tags:
+  - "data sharing"
+  - "data sharing agreement"
+  - "public function"
+  - "fulfillment of lawful mandate"
+  - "general data privacy principles"
 aliases:
   - "NPC Advisory Opinion No. 2021-007"
   - "npc advisory opinion no. 2021-007"

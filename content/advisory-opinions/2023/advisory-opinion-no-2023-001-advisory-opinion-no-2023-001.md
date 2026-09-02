@@ -6,6 +6,11 @@ tags:
 - type/advisory-opinion
 - year/2023
 - topic/legitimate-interest
+official_tags:
+  - "lawful processing"
+  - "legal claims"
+  - "contractual obligation"
+  - "condominium corporation"
 date: "2023-01-17"
 draft: false
 aliases:

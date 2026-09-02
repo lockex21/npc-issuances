@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+official_tags:
+  - "personal information"
+  - "lawful processing"
+  - "general data privacy principle"
+  - "proportionality"
 date: "2019-06-04"
 draft: false
 aliases:

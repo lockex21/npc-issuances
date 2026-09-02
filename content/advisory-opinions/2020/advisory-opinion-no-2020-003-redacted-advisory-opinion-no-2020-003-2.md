@@ -6,6 +6,10 @@ tags:
   - type/advisory-opinion
   - year/2020
   - topic/legitimate-interest
+official_tags:
+  - "personal information"
+  - "data subject"
+  - "data subjects’ rights"
 aliases:
   - "NPC Advisory Opinion No. 2020-003"
   - "npc advisory opinion no. 2020-003"

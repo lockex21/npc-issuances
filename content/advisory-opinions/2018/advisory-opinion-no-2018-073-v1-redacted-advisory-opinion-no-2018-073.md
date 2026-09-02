@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
   - topic/data-sharing
+official_tags:
+  - "insurance"
+  - "insurance agents"
+  - "personal information controller"
+  - "personal information processor"
 date: "2018-11-22"
 draft: false
 aliases:

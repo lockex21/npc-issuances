@@ -7,6 +7,11 @@ tags:
   - "year/2021"
   - "topic/data-sharing"
   - "topic/government"
+official_tags:
+  - "criteria for lawful processing"
+  - "data sharing"
+  - "law and regulation"
+  - "general data privacy principles"
 date: "2021-10-22"
 draft: false
 aliases:

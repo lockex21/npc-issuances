@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2025"
   - "topic/security"
+official_tags:
+  - "Transcript of Records"
+  - "sensitive personal information"
+  - "security measures"
+  - "administrative fines"
 date: "2025-09-04"
 draft: false
 aliases:

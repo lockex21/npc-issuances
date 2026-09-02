@@ -6,6 +6,13 @@ tags:
   - type/advisory-opinion
   - year/2020
   - topic/cctv-surveillance
+official_tags:
+  - "scope"
+  - "lawful processing"
+  - "legal obligation"
+  - "public authority"
+  - "law and regulation"
+  - "data privacy principles"
 aliases:
   - "NPC Advisory Opinion No. 2020-001"
   - "npc advisory opinion no. 2020-001"

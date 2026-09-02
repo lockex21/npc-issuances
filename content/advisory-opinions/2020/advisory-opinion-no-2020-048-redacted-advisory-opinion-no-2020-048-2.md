@@ -9,6 +9,10 @@ tags:
   - legitimate-interest
   - data-privacy-principles
   - topic/legitimate-interest
+official_tags:
+  - "lawful processing of personal information"
+  - "data privacy principles"
+  - "legitimate interests"
 date: "2020-11-17"
 draft: false
 ---

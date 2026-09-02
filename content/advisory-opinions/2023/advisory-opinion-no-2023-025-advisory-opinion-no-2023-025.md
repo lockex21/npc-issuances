@@ -7,6 +7,10 @@ tags:
   - year/2023
   - topic/data-sharing
   - topic/security
+official_tags:
+  - "facial recognition"
+  - "personal information"
+  - "sensitive personal information"
 aliases:
   - "NPC Advisory Opinion No. 2023-025"
   - "npc advisory opinion no. 2023-025"

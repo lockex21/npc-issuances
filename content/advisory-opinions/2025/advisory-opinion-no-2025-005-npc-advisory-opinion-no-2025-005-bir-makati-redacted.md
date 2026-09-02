@@ -8,6 +8,13 @@ tags:
   - "topic/consent"
   - "topic/data-sharing"
   - "topic/government"
+official_tags:
+  - "lawful processing of personal data"
+  - "access to government records"
+  - "data privacy principles"
+  - "special cases"
+  - "statutory mandate"
+  - "data sharing"
 date: "2025-06-23"
 draft: false
 aliases:

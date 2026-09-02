@@ -5,6 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+official_tags:
+  - "scope"
+  - "personal information"
+  - "sensitive personal information"
+  - "lawful processing"
+  - "Corporation Code"
+  - "inspection of corporate books and records"
 date: "2019-01-14"
 draft: false
 aliases:

@@ -11,6 +11,14 @@ tags:
   - type/advisory-opinion
   - year/2022
   - topic/legitimate-interest
+official_tags:
+  - "cancellation of title"
+  - "lis pendens"
+  - "tax declaration"
+  - "certificate of title"
+  - "tax clearance"
+  - "establishment of legal claims"
+  - "Section"
 date: "2022-12-29"
 draft: false
 ---

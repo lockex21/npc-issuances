@@ -6,6 +6,15 @@ tags:
   - "type/advisory-opinion"
   - "year/2025"
   - "topic/consent"
+official_tags:
+  - "visa application"
+  - "verification processes"
+  - "personal information processor"
+  - "sensitive personal information"
+  - "general data privacy principles"
+  - "privacy notice"
+  - "security measures"
+  - "privacy impact assessment"
 date: "2025-10-09"
 draft: false
 aliases:

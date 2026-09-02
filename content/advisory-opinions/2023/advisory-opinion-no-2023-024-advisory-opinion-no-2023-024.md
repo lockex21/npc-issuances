@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2023
+official_tags:
+  - "Vessel records"
+  - "scope of the DPA"
+  - "personal information"
+  - "juridical entities"
 aliases:
   - "NPC Advisory Opinion No. 2023-024"
   - "npc advisory opinion no. 2023-024"

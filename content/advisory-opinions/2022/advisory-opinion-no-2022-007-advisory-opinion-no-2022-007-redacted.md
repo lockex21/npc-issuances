@@ -5,6 +5,14 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+official_tags:
+  - "personal information controller"
+  - "personal information processor"
+  - "processing"
+  - "personal information"
+  - "liability"
+  - "damages"
+  - "accountability"
 date: "2022-02-28"
 draft: false
 aliases:

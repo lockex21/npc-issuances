@@ -7,6 +7,11 @@ tags:
   - "year/2020"
   - "topic/employment"
   - "topic/registration"
+official_tags:
+  - "data protection officer"
+  - "compliance officer"
+  - "independence"
+  - "conflict of interest"
 aliases:
   - "NPC Advisory Opinion No. 2020-025"
   - "npc advisory opinion no. 2020-025"

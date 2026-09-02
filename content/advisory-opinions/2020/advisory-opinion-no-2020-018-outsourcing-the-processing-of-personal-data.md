@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "outsourcing"
+  - "outsourcing agreements"
+  - "personal information controllers"
+  - "personal information processors"
 aliases:
   - "NPC Advisory Opinion No. 2020-018"
   - "npc advisory opinion no. 2020-018"

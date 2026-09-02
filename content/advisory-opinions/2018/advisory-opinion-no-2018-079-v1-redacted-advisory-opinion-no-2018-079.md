@@ -5,6 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+official_tags:
+  - "Scope"
+  - "Special cases"
+  - "Public Authority"
+  - "Statutory Mandate"
+  - "Law Enforcement"
+  - "PSA"
 date: "2018-10-23"
 draft: false
 aliases:

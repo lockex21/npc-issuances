@@ -8,6 +8,12 @@ tags:
 - topic/data-sharing
 - topic/legitimate-interest
 - topic/online-lending
+official_tags:
+  - "lawful criteria for processing"
+  - "data sharing"
+  - "credit information"
+  - "consent"
+  - "legitimate interest"
 date: "2023-05-05"
 draft: false
 aliases:

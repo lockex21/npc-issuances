@@ -10,6 +10,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+official_tags:
+  - "global positioning systems"
+  - "GPS devices"
+  - "real-time tracking"
+  - "proportionality"
 draft: false
 ---
 

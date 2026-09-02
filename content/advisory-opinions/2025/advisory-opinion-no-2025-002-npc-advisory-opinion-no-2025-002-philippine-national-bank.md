@@ -8,6 +8,11 @@ tags:
   - "topic/consent"
   - "topic/government"
   - "topic/legitimate-interest"
+official_tags:
+  - "Scope of DPA"
+  - "Lawful processing"
+  - "legitimate interest"
+  - "legal claims"
 date: "2025-04-08"
 draft: false
 aliases:

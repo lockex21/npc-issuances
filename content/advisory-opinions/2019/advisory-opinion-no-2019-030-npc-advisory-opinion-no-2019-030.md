@@ -7,6 +7,12 @@ tags:
   - year/2019
   - topic/data-subject-rights
   - topic/legitimate-interest
+official_tags:
+  - "scope"
+  - "personal information"
+  - "research"
+  - "exceptions"
+  - "proportionality"
 date: "2019-08-01"
 draft: false
 aliases:

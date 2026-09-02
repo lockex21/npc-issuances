@@ -6,6 +6,13 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/government"
+official_tags:
+  - "data classification"
+  - "Government Procurement Reform Act"
+  - "procurement documents"
+  - "disclosure"
+  - "transparency"
+  - "general data privacy principles"
 aliases:
   - "NPC Advisory Opinion No. 2021-006"
   - "npc advisory opinion no. 2021-006"

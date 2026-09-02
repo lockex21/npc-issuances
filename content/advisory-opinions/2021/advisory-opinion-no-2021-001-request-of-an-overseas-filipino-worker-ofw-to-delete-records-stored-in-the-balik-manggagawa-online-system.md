@@ -7,6 +7,11 @@ tags:
   - "year/2021"
   - "topic/data-subject-rights"
   - "topic/employment"
+official_tags:
+  - "data subject rights"
+  - "right to erasure"
+  - "retention"
+  - "anonymization"
 aliases:
   - "NPC Advisory Opinion No. 2021-001"
   - "npc advisory opinion no. 2021-001"

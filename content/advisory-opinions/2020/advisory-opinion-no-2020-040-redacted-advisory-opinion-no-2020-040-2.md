@@ -5,6 +5,12 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2020
+official_tags:
+  - "personal information controller"
+  - "personal information processor"
+  - "corporate dissolution"
+  - "data subjects’ rights"
+  - "liability"
 date: "2020-10-30"
 draft: false
 aliases:

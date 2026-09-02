@@ -6,6 +6,14 @@ tags:
   - "type/advisory-opinion"
   - "year/2025"
   - "topic/government"
+official_tags:
+  - "Bureau of Internal Revenue"
+  - "public authority"
+  - "regulatory mandate"
+  - "processing of personal information by a public authority"
+  - "Scope of the DP A"
+  - "special cases"
+  - "proportionality"
 date: "2025-09-24"
 draft: false
 aliases:

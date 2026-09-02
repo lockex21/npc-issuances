@@ -6,6 +6,9 @@ tags:
   - type/advisory-opinion
   - year/2019
   - topic/registration
+official_tags:
+  - "Data Privacy Officer"
+  - "Data Privacy Principles"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-021"

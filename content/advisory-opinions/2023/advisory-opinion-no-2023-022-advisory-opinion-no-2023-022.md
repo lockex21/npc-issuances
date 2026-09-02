@@ -6,6 +6,12 @@ tags:
   - type/advisory-opinion
   - year/2023
   - topic/data-subject-rights
+official_tags:
+  - "press freedom"
+  - "journalistic purpose"
+  - "special case"
+  - "freedom of information"
+  - "security measures"
 aliases:
   - "NPC Advisory Opinion No. 2023-022"
   - "npc advisory opinion no. 2023-022"

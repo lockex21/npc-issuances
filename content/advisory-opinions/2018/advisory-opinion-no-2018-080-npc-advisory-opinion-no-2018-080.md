@@ -7,6 +7,13 @@ tags:
   - year/2018
   - topic/cctv-surveillance
   - topic/legitimate-interest
+official_tags:
+  - "Legitimate Purpose"
+  - "Data Subjects Rights"
+  - "Lawfulness"
+  - "Legitimate Interest"
+  - "Access"
+  - "CCTV"
 date: "2018-11-26"
 draft: false
 aliases:

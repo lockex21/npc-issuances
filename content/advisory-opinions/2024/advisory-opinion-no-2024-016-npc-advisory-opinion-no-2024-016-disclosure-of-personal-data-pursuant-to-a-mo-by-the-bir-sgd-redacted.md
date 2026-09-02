@@ -10,6 +10,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+official_tags:
+  - "scope of the DPA"
+  - "personal information"
+  - "special cases"
+  - "public authority"
 date: "2024-12-11"
 draft: false
 ---

@@ -6,6 +6,14 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/data-sharing"
+official_tags:
+  - "Philhealth inspection and monitoring"
+  - "public authority"
+  - "regulatory mandate"
+  - "special cases"
+  - "general data privacy principles"
+  - "non-disclosure agreement"
+  - "data sharing agreement"
 aliases:
   - "NPC Advisory Opinion No. 2020-010"
   - "npc advisory opinion no. 2020-010"

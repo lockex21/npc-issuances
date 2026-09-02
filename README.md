@@ -22,6 +22,7 @@ Decisions and resolutions are mirrored through `r.jina.ai` because the live NPC 
 - Companion notes (summary, links, auto metadata/backlinks; internal only): `content/notes/<year>/...`
 - Raw extraction notes (regenerated, internal only): `content/sources/<year>/...`
 - Advisory opinions: `content/advisory-opinions/<year>/...`
+- PDF-derived advisory-opinion tag manifest: `data/advisory_opinion_tags.json`
 - Decisions: `content/decisions/<year>/...`
 - Resolutions: `content/resolutions/<year>/...`
 - Orders: `content/orders/<year>/...`
@@ -64,7 +65,7 @@ Run the repo checks:
 npm run check
 ```
 
-This runs TypeScript and code formatting checks, then validates the corpus with `scripts/validate_content.py`. The content validator checks tracked JSON paths, internal wikilinks, frontmatter, and generated/manual block markers.
+This runs TypeScript and code formatting checks, validates the corpus with `scripts/validate_content.py`, and verifies that PDF-derived advisory-opinion tags are synchronized with the JSON data and Markdown frontmatter.
 
 Run only the corpus validator:
 
@@ -114,6 +115,15 @@ Build advisory opinions:
 python3 scripts/build_npc_advisory_opinions.py --refresh
 ```
 
+Rebuild the advisory-opinion tag manifest from the local PDF text cache, then synchronize it into data and frontmatter:
+
+```bash
+python3 scripts/build_advisory_opinion_tag_manifest.py --write
+python3 scripts/sync_advisory_opinion_tags.py
+```
+
+The tag manifest includes only terms printed in PDF footnotes. It does not infer topics from an opinion's text or use the NPC index page as a fallback. Image-only, unlabeled, and broken-font footnotes are kept as explicitly PDF-verified overrides in the manifest builder.
+
 Build orders:
 
 ```bash
@@ -132,6 +142,8 @@ npx quartz build --serve
 ```
 
 Open `http://localhost:8080/`.
+
+On advisory-opinion pages, the exact PDF terms appear under **Official opinion tags**. They are included in ordinary search results, and each chip opens the corresponding filtered tag page.
 
 ## Notes
 

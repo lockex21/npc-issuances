@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "lawful processing"
+  - "personal information"
+  - "public authority"
+  - "general data privacy principles"
 aliases:
   - "NPC Advisory Opinion No. 2020-008"
   - "npc advisory opinion no. 2020-008"

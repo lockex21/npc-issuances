@@ -8,6 +8,11 @@ tags:
   - topic/employment
   - topic/legitimate-interest
   - topic/security
+official_tags:
+  - "employee service record"
+  - "protection of lawful rights and interest"
+  - "court proceedings"
+  - "legitimate interest"
 date: "2022-03-02"
 draft: false
 aliases:

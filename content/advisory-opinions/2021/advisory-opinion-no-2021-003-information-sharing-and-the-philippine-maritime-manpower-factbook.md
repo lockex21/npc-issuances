@@ -7,6 +7,12 @@ tags:
   - "year/2021"
   - "topic/data-sharing"
   - "topic/government"
+official_tags:
+  - "data sharing"
+  - "data sharing agreement"
+  - "scope"
+  - "personal data"
+  - "statistics"
 aliases:
   - "NPC Advisory Opinion No. 2021-003"
   - "npc advisory opinion no. 2021-003"

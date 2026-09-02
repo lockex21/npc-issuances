@@ -7,6 +7,11 @@ tags:
   - year/2020
   - topic/consent
   - topic/employment
+official_tags:
+  - "criteria for lawful processing"
+  - "consent"
+  - "contract"
+  - "legitimate interest"
 aliases:
   - "NPC Advisory Opinion No. 2020-005"
   - "npc advisory opinion no. 2020-005"

@@ -8,6 +8,17 @@ tags:
   - "topic/consent"
   - "topic/data-subject-rights"
   - "topic/online-lending"
+official_tags:
+  - "personal information"
+  - "lawful criteria for processing"
+  - "consent"
+  - "automated retrieval"
+  - "bank transaction history"
+  - "loan application"
+  - "right to access"
+  - "right to data portability"
+  - "right to be informed"
+  - "security measures"
 aliases:
   - "NPC Advisory Opinion No. 2020-021"
   - "npc advisory opinion no. 2020-021"

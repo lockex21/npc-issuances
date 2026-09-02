@@ -13,6 +13,15 @@ tags:
   - "topic/consent"
   - "topic/employment"
   - "topic/government"
+official_tags:
+  - "lawful criteria for processing"
+  - "legal obligation"
+  - "government employees"
+  - "premium contributions"
+  - "SSS"
+  - "GSIS"
+  - "consent"
+  - "proportionality"
 date: "2021-04-28"
 draft: false
 ---

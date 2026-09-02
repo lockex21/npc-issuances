@@ -6,6 +6,14 @@ tags:
   - "type/advisory-opinion"
   - "year/2025"
   - "topic/legitimate-interest"
+official_tags:
+  - "lawful processing of personal data"
+  - "PhilSys QR code"
+  - "KYC"
+  - "banking"
+  - "personal information processors"
+  - "sensitive personal information"
+  - "identity verification"
 date: "2025-12-26"
 draft: false
 aliases:

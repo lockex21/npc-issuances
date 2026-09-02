@@ -10,6 +10,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2019"
+official_tags:
+  - "scope"
+  - "personal information"
+  - "data subject"
+  - "lawful processing of personal data"
 date: "2019-10-17"
 draft: false
 ---

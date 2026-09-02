@@ -9,6 +9,16 @@ tags:
   - disclosure
   - consent
   - topic/consent
+official_tags:
+  - "assessor"
+  - "sensitive personal information"
+  - "consent"
+  - "disclosure"
+  - "lawful processing"
+  - "court proceedings"
+  - "legal claims"
+  - "real property"
+  - "tax declaration"
 date: "2019-04-01"
 draft: false
 aliases:

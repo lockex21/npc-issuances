@@ -13,6 +13,10 @@ tags:
   - "topic/data-sharing"
   - "topic/government"
   - "topic/security"
+official_tags:
+  - "disclosure of civil registry documents"
+  - "scope"
+  - "lawful processing of personal data"
 date: "2019-12-20"
 draft: false
 ---

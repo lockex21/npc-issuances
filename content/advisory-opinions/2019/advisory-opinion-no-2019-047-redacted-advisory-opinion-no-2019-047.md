@@ -13,6 +13,11 @@ tags:
   - "Philhealth"
   - "legal-claims"
   - "sensitive-personal-information"
+official_tags:
+  - "Philhealth"
+  - "complaint"
+  - "legal claims"
+  - "lawful processing"
 date: "2019-11-25"
 draft: false
 ---

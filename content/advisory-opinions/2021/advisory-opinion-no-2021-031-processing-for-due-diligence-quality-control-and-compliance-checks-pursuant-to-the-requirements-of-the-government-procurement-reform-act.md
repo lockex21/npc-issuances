@@ -7,6 +7,12 @@ tags:
   - "year/2021"
   - "topic/government"
   - "topic/security"
+official_tags:
+  - "criteria for lawful processing"
+  - "legal obligation"
+  - "mandate"
+  - "copyright"
+  - "general data privacy principles"
 date: "2021-08-05"
 draft: false
 aliases:

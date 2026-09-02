@@ -6,6 +6,15 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/security"
+official_tags:
+  - "disclosure of beneficiary data"
+  - "education sector"
+  - "lawful criteria for processing"
+  - "government agency"
+  - "mandate"
+  - "legitimate purpose"
+  - "proportionality"
+  - "data sharing agreement"
 date: "2020-10-30"
 draft: false
 aliases:

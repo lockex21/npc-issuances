@@ -11,6 +11,16 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/government"
+official_tags:
+  - "legislative franchise"
+  - "eminent domain"
+  - "right of way"
+  - "scope"
+  - "special cases"
+  - "lawful criteria for processing"
+  - "legal obligation"
+  - "laws and regulations"
+  - "legal claims"
 date: "2021-07-12"
 draft: false
 ---

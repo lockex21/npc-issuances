@@ -10,6 +10,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+official_tags:
+  - "personal information"
+  - "sensitive personal information"
+  - "lawful processing"
+  - "Corporation Code"
+  - "inspection of corporate books and records"
+  - "data subject rights"
 date: "2024-10-16"
 draft: false
 ---

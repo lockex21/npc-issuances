@@ -8,6 +8,12 @@ tags:
   - topic/children
   - topic/consent
   - topic/data-subject-rights
+official_tags:
+  - "health information"
+  - "consent"
+  - "right to access"
+  - "transmissibility of rights"
+  - "succession"
 date: "2022-02-15"
 draft: false
 aliases:

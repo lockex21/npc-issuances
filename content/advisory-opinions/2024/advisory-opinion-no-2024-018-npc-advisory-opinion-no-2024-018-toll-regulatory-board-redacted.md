@@ -11,6 +11,11 @@ tags:
   - "statutory-mandate"
   - "topic/cctv-surveillance"
   - "topic/data-subject-rights"
+official_tags:
+  - "CCTV footage"
+  - "special case"
+  - "public authority"
+  - "statutory mandate"
 date: "2024-12-20"
 draft: false
 aliases:

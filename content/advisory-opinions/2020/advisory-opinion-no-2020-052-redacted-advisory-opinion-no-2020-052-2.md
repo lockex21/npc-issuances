@@ -9,6 +9,14 @@ tags:
   - personal-information
   - juridical-persons
   - lawful-processing
+official_tags:
+  - "scope"
+  - "personal information"
+  - "natural person"
+  - "juridical person"
+  - "lawful criteria for processing"
+  - "legal obligation"
+  - "public authority"
 date: "2020-11-27"
 draft: false
 ---

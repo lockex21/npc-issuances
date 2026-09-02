@@ -8,6 +8,15 @@ tags:
   - "topic/consent"
   - "topic/data-subject-rights"
   - "topic/legitimate-interest"
+official_tags:
+  - "lawful processing of personal data"
+  - "access to government records"
+  - "data privacy principles"
+  - "consent"
+  - "legitimate interest"
+  - "legal obligations"
+  - "data subject rights"
+  - "public authority"
 date: "2025-05-13"
 draft: false
 aliases:

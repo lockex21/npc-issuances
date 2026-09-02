@@ -10,6 +10,12 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+official_tags:
+  - "lawful basis for processing"
+  - "laws and regulations"
+  - "BSP"
+  - "know your customer (KYC)"
+  - "outsourcing"
 draft: false
 ---
 

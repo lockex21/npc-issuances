@@ -9,6 +9,9 @@ tags:
   - data-protection
   - topic/government
   - topic/security
+official_tags:
+  - "Government database"
+  - "nationality requirement"
 date: "2019-01-17"
 draft: false
 aliases:

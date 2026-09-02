@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+official_tags:
+  - "Department of Health"
+  - "health information"
+  - "lawful processing"
+  - "mandate"
 date: "2018-11-26"
 draft: false
 aliases:

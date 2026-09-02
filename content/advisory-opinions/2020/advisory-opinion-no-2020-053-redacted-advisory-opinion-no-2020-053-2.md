@@ -9,6 +9,11 @@ tags:
   - member-access
   - proportionality
   - lawful-processing
+official_tags:
+  - "personal information"
+  - "lawful processing"
+  - "legal obligation"
+  - "proportionality"
 date: "2020-12-11"
 draft: false
 ---

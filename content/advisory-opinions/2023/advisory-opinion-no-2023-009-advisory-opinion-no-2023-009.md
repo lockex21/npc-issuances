@@ -6,6 +6,10 @@ tags:
 - type/advisory-opinion
 - year/2023
 - topic/data-sharing
+official_tags:
+  - "data sharing"
+  - "international body"
+  - "immunity from suit"
 date: "2023-02-27"
 draft: false
 aliases:

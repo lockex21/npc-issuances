@@ -10,6 +10,10 @@ tags:
   - personal-information
   - topic/data-sharing
   - topic/government
+official_tags:
+  - "Scope"
+  - "personal information"
+  - "special cases"
 date: "2019-03-05"
 draft: false
 aliases:

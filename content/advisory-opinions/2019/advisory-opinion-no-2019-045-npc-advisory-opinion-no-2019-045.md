@@ -10,6 +10,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2019"
+official_tags:
+  - "death certificate"
+  - "sensitive personal information"
+  - "Philippine Statistics Authority"
+  - "lawful criteria for processing"
+  - "law and regulation"
+  - "COA audit"
 date: "2019-11-06"
 draft: false
 ---

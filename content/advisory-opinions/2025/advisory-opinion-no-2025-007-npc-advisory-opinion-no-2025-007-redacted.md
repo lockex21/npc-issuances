@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2025"
+official_tags:
+  - "NPC Circular 2023-03"
+  - "PWD IDs"
+  - "Biometric Data"
+  - "security measures"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2025-007"

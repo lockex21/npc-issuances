@@ -14,6 +14,17 @@ tags:
   - topic/employment
   - topic/government
   - topic/security
+official_tags:
+  - "Civil Service Commission"
+  - "constitutional mandate"
+  - "exemption"
+  - "disclosure"
+  - "database"
+  - "security measures"
+  - "privacy impact assessment"
+  - "proportionality"
+  - "rights of data subjects"
+  - "right to rectification"
 date: "2022-11-23"
 draft: false
 ---

@@ -10,6 +10,12 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+official_tags:
+  - "administrative proceedings"
+  - "sensitive personal information"
+  - "lawful criteria for processing"
+  - "Civil Service Commission 2017 Rules on Administrative Cases in the Civil Service"
+  - "Code of Conduct and Ethical Standards for Public Officials and Employees"
 date: "2021-06-23"
 draft: false
 ---

@@ -6,6 +6,13 @@ tags:
   - "type/advisory-opinion"
   - "year/2025"
   - "topic/legitimate-interest"
+official_tags:
+  - "Registry of Deeds"
+  - "Sec. 12(f)"
+  - "13(f)"
+  - "DPA"
+  - "Legal claims"
+  - "Right to access"
 date: "2025-09-25"
 draft: false
 aliases:

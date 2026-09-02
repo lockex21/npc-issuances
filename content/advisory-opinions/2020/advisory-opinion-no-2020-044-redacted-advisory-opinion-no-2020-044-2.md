@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/employment"
+official_tags:
+  - "employee data"
+  - "health information"
+  - "infectious disease"
+  - "pregnancy-related illnesses"
 date: "2020-11-05"
 draft: false
 ---

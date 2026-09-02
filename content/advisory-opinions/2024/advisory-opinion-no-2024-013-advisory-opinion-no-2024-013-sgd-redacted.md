@@ -11,6 +11,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2024"
   - "topic/government"
+official_tags:
+  - "Vessels"
+  - "scope of the DPA"
+  - "personal information"
+  - "processing for fulfillment of statutory and constitutional mandate"
 date: "2024-11-05"
 draft: false
 ---

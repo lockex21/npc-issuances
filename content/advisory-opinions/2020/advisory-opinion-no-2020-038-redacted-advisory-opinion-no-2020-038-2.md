@@ -6,6 +6,13 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/breach-notification"
+official_tags:
+  - "email address"
+  - "carbon copy"
+  - "blind carbon copy"
+  - "personal data breach"
+  - "notification"
+  - "security measures"
 date: "2020-09-30"
 draft: false
 aliases:

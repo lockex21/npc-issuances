@@ -10,6 +10,10 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2019"
+official_tags:
+  - "Sensitive personal information"
+  - "consent"
+  - "lawful processing"
 date: "2019-12-17"
 draft: false
 ---

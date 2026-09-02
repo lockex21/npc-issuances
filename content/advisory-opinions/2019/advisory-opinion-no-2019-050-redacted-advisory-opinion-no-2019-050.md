@@ -11,6 +11,15 @@ tags:
   - personal-information
   - proportionality
   - topic/employment
+official_tags:
+  - "Address"
+  - "Employee"
+  - "Commission on Audit"
+  - "COA"
+  - "Government"
+  - "Legal obligation"
+  - "Personal information"
+  - "Proportionality"
 aliases:
   - "NPC Advisory Opinion No. 2019-050"
   - "npc advisory opinion no. 2019-050"

@@ -7,6 +7,14 @@ tags:
   - "year/2020"
   - "topic/data-sharing"
   - "topic/security"
+official_tags:
+  - "Small Business Wage Subsidy"
+  - "data sharing"
+  - "proportionality"
+  - "SSS"
+  - "DSWD"
+  - "public authority"
+  - "mandate"
 date: "2020-08-26"
 draft: false
 aliases:

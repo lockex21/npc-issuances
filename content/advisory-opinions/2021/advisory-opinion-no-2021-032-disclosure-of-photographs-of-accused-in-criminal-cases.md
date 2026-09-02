@@ -8,6 +8,11 @@ tags:
   - "sensitive-personal-information"
   - "criminal-cases"
   - "disclosure"
+official_tags:
+  - "social welfare and development"
+  - "fulfillment of mandate of public authority"
+  - "freedom of information"
+  - "privacy notice"
 date: "2021-08-09"
 draft: false
 aliases:

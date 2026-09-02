@@ -8,6 +8,14 @@ tags:
   - "topic/consent"
   - "topic/data-sharing"
   - "topic/government"
+official_tags:
+  - "personal information"
+  - "sensitive personal information"
+  - "death certificate"
+  - "criteria for lawful processing"
+  - "data sharing"
+  - "general data privacy principles"
+  - "security measures"
 date: "2025-08-29"
 draft: false
 aliases:

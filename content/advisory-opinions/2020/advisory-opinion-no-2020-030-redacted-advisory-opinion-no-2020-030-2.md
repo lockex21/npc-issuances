@@ -6,6 +6,12 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/government"
+official_tags:
+  - "sensitive personal information"
+  - "COVID-19"
+  - "DILG"
+  - "public authority"
+  - "reportorial requirement"
 date: "2020-08-05"
 draft: false
 aliases:

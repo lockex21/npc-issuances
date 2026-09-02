@@ -6,6 +6,16 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/government"
+official_tags:
+  - "land documents"
+  - "government franchise"
+  - "eminent domain"
+  - "expropriation"
+  - "mandate"
+  - "NGCP"
+  - "legal obligation"
+  - "law"
+  - "legal claims"
 date: "2020-09-08"
 draft: false
 aliases:

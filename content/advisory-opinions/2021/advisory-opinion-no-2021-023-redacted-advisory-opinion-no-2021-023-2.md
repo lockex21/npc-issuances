@@ -11,6 +11,14 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/consent"
+official_tags:
+  - "health data"
+  - "genetic data"
+  - "sensitive personal information"
+  - "special cases"
+  - "research"
+  - "ethical and legal obligations"
+  - "consent"
 date: "2021-07-05"
 draft: false
 ---

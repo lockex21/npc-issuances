@@ -5,6 +5,10 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "administrative cases"
+  - "education sector"
+  - "sensitive personal information"
 aliases:
   - "NPC Advisory Opinion No. 2020-013"
   - "npc advisory opinion no. 2020-013"

@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+official_tags:
+  - "Personal Data Sheet"
+  - "access"
+  - "public concern"
+  - "right to information"
 date: "2018-11-26"
 draft: false
 aliases:

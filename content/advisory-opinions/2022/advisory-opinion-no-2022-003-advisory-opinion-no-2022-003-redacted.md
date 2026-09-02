@@ -5,6 +5,12 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+official_tags:
+  - "sensitive personal information"
+  - "lawful processing"
+  - "protection of lawful rights and interest of natural or legal persons in court proceedings"
+  - "establishment"
+  - "exercise or defense of legal claims"
 date: "2022-02-14"
 draft: false
 aliases:

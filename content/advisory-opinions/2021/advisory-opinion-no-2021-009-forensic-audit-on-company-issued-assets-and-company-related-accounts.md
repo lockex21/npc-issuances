@@ -7,6 +7,11 @@ tags:
   - "year/2021"
   - "topic/data-subject-rights"
   - "topic/employment"
+official_tags:
+  - "forensic audits"
+  - "general data privacy principles"
+  - "lawful basis for processing"
+  - "data subject rights"
 aliases:
   - "NPC Advisory Opinion No. 2021-009"
   - "npc advisory opinion no. 2021-009"

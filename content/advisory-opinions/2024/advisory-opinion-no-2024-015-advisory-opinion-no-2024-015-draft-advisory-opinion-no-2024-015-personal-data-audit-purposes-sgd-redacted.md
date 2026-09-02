@@ -11,6 +11,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2024"
   - "topic/government"
+official_tags:
+  - "processing"
+  - "personal data"
+  - "audit function"
+  - "mandate"
 date: "2024-11-07"
 draft: false
 ---

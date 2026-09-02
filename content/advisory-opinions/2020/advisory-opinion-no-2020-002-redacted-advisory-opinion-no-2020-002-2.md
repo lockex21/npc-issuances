@@ -5,6 +5,12 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2020
+official_tags:
+  - "scope"
+  - "lawful processing"
+  - "public authority"
+  - "mandate"
+  - "data privacy principles"
 aliases:
   - "NPC Advisory Opinion No. 2020-002"
   - "npc advisory opinion no. 2020-002"

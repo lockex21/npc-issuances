@@ -10,6 +10,11 @@ tags:
   - fintech
   - credit-card
   - topic/legitimate-interest
+official_tags:
+  - "personal information"
+  - "credit card information"
+  - "fraud investigation"
+  - "legitimate interests"
 date: "2020-11-26"
 draft: false
 ---

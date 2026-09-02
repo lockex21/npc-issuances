@@ -12,6 +12,11 @@ tags:
   - year/2022
   - topic/cross-border-transfers
   - topic/data-sharing
+official_tags:
+  - "free flow of data"
+  - "data transfer"
+  - "cross-border data transfer"
+  - "accountability"
 date: "2022-11-21"
 draft: false
 ---

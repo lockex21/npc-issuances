@@ -10,6 +10,10 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+official_tags:
+  - "tax declarations"
+  - "scope"
+  - "lawful processing of personal data"
 date: "2019-09-03"
 draft: false
 ---

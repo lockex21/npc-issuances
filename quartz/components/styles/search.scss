@@ -217,6 +217,15 @@
               margin-bottom: 0;
             }
 
+            & > ul.official-tags {
+              display: flex;
+              flex-wrap: wrap;
+              gap: 0.3rem;
+              list-style: none;
+              margin: 0.45rem 0 0;
+              padding: 0;
+            }
+
             & > ul > li > p {
               border-radius: 8px;
               background-color: var(--highlight);
@@ -229,6 +238,15 @@
               &.match-tag {
                 color: var(--tertiary);
               }
+            }
+
+            & > ul.official-tags > li > p {
+              border: 1px solid color-mix(in srgb, var(--secondary) 28%, transparent);
+              border-radius: 999px;
+              color: var(--secondary);
+              line-height: 1.3rem;
+              margin: 0;
+              padding: 0.15rem 0.45rem;
             }
 
             & > p {

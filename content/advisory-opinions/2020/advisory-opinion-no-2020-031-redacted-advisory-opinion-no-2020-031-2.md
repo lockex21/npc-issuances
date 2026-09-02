@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "lawful processing of personal data"
+  - "special cases"
+  - "public authority"
+  - "mandate"
 date: "2020-08-06"
 draft: false
 aliases:

@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2023"
   - "topic/legitimate-interest"
+official_tags:
+  - "special cases"
+  - "law enforcement"
+  - "lawful processing"
+  - "investigations"
 aliases:
   - "NPC Advisory Opinion No. 2023-019"
   - "npc advisory opinion no. 2023-019"

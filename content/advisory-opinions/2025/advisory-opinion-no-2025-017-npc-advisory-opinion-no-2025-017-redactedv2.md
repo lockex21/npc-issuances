@@ -7,6 +7,12 @@ tags:
   - "year/2025"
   - "topic/children"
   - "topic/data-subject-rights"
+official_tags:
+  - "academic records"
+  - "student grades"
+  - "sensitive personal information"
+  - "data subject rights"
+  - "right to access"
 date: "2025-12-26"
 draft: false
 aliases:

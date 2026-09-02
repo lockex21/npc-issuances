@@ -12,6 +12,10 @@ tags:
   - "year/2024"
   - "topic/government"
   - "topic/legitimate-interest"
+official_tags:
+  - "Public documents"
+  - "scope of the DPA"
+  - "freedom of information"
 date: "2024-07-09"
 draft: false
 ---

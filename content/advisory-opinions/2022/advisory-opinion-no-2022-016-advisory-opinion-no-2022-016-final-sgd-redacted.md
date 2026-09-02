@@ -12,6 +12,10 @@ tags:
   - year/2022
   - topic/government
   - topic/legitimate-interest
+official_tags:
+  - "lawful processing"
+  - "legitimate interest"
+  - "data privacy principles"
 date: "2022-07-05"
 draft: false
 ---

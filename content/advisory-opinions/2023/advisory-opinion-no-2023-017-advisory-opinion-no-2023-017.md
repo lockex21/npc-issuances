@@ -7,6 +7,11 @@ tags:
   - "year/2023"
   - "topic/government"
   - "topic/security"
+official_tags:
+  - "Lawful Processing"
+  - "Contractual Obligation"
+  - "Legitimate Interest"
+  - "Accountability"
 aliases:
   - "NPC Advisory Opinion No. 2023-017"
   - "npc advisory opinion no. 2023-017"

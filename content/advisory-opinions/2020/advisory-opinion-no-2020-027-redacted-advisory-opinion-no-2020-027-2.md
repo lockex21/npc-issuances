@@ -5,6 +5,12 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "Personal Data Sheet"
+  - "NPC Advisory No. 2017-02"
+  - "administrative investigation"
+  - "admissibility"
+  - "evidence"
 aliases:
   - "NPC Advisory Opinion No. 2020-027"
   - "npc advisory opinion no. 2020-027"

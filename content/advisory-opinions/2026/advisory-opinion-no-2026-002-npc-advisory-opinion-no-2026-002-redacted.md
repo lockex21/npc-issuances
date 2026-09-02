@@ -7,6 +7,12 @@ tags:
   - "year/2026"
   - "topic/government"
   - "topic/legitimate-interest"
+official_tags:
+  - "Law firm’s request of personal information and sensitive personal information from government agencies"
+  - "Section 12(f)"
+  - "Section 13(f)"
+  - "legitimate purpose"
+  - "proportionality"
 date: "2026-05-12"
 draft: false
 aliases:

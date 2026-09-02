@@ -84,6 +84,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta({ showComma: false }),
     Component.TagList(),
+    Component.OfficialTagList(),
   ],
   left: [
     Component.PageTitle(),

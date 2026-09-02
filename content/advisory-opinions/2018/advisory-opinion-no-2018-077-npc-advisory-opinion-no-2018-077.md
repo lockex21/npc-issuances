@@ -6,6 +6,12 @@ tags:
   - "type/advisory-opinion"
   - "year/2018"
   - "topic/legitimate-interest"
+official_tags:
+  - "personal information"
+  - "sensitive personal information"
+  - "public authority"
+  - "oversight function"
+  - "proportionality"
 date: "2018-10-25"
 draft: false
 aliases:

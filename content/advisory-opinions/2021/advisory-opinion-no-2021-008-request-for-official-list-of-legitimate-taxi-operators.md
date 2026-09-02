@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+official_tags:
+  - "special cases"
+  - "discretionary benefit of a financial nature"
+  - "lawful basis for processing"
+  - "freedom of information"
 aliases:
   - "NPC Advisory Opinion No. 2021-008"
   - "npc advisory opinion no. 2021-008"

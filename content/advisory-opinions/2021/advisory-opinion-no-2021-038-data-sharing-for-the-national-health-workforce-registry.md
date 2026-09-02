@@ -6,6 +6,14 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/data-sharing"
+official_tags:
+  - "criteria for lawful processing"
+  - "compliance with legal obligation"
+  - "law or regulation"
+  - "consent"
+  - "general data privacy principles"
+  - "privacy impact assessment"
+  - "privacy-by-design"
 date: "2021-10-21"
 draft: false
 aliases:

@@ -11,6 +11,14 @@ tags:
   - transparency
   - topic/data-sharing
   - topic/government
+official_tags:
+  - "Data Sharing Agreement"
+  - "Data Privacy Principles"
+  - "Transparency"
+  - "Legitimate Purpose"
+  - "Proportionality"
+  - "Survey"
+  - "Philippine Statistics Office"
 date: "2019-03-11"
 draft: false
 aliases:

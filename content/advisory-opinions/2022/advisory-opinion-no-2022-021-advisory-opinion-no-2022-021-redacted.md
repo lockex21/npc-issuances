@@ -10,6 +10,12 @@ tags:
   - issuance
   - "type/advisory-opinion"
   - "year/2022"
+official_tags:
+  - "lawful criteria for processing"
+  - "natural person"
+  - "juridical person"
+  - "legal obligation"
+  - "publication of names"
 date: "2022-10-14"
 draft: false
 ---

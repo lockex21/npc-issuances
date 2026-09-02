@@ -11,6 +11,10 @@ tags:
   - "type/advisory-opinion"
   - "year/2024"
   - "topic/registration"
+official_tags:
+  - "Data Protection Officer"
+  - "conflict of interest"
+  - "autonomy"
 date: "2024-06-03"
 draft: false
 ---

@@ -11,6 +11,17 @@ tags:
   - "type/advisory-opinion"
   - "year/2022"
   - topic/legitimate-interest
+official_tags:
+  - "Philippine Identification System Act"
+  - "PhilSys Act"
+  - "PhilSys"
+  - "national ID"
+  - "identification system"
+  - "rights of data subjects"
+  - "right to object"
+  - "right to erasure"
+  - "right to deletion"
+  - "lawful criteria for processing"
 date: "2022-09-21"
 draft: false
 ---

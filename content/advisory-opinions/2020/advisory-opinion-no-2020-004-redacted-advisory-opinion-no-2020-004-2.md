@@ -5,6 +5,13 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2020
+official_tags:
+  - "scope"
+  - "research"
+  - "special cases"
+  - "public officials"
+  - "barangay officials"
+  - "death benefit"
 aliases:
   - "NPC Advisory Opinion No. 2020-004"
   - "npc advisory opinion no. 2020-004"

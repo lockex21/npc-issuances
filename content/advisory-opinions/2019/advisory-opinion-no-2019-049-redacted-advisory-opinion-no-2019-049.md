@@ -11,6 +11,10 @@ tags:
   - "type/advisory-opinion"
   - "year/2019"
   - "topic/consent"
+official_tags:
+  - "Consent"
+  - "Facial Recognition"
+  - "Identification"
 date: "2019-12-11"
 draft: false
 ---

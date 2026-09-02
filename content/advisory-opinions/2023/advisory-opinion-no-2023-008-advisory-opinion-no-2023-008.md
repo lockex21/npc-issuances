@@ -5,6 +5,11 @@ tags:
 - issuance
 - type/advisory-opinion
 - year/2023
+official_tags:
+  - "Scope"
+  - "general data privacy principles"
+  - "law and regulation"
+  - "lawful processing"
 date: "2023-02-17"
 draft: false
 aliases:

@@ -14,6 +14,11 @@ tags:
   - "topic/data-subject-rights"
   - "topic/employment"
   - "topic/legitimate-interest"
+official_tags:
+  - "Artificial intelligence"
+  - "legitimate interest"
+  - "proportionality"
+  - "right to object"
 date: "2024-05-21"
 draft: false
 ---

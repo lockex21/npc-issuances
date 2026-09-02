@@ -6,6 +6,18 @@ tags:
   - "type/advisory-opinion"
   - "year/2025"
   - "topic/consent"
+official_tags:
+  - "Lawful basis for processing"
+  - "Sec. 12 (c)"
+  - "Sec. 13 (f)"
+  - "Bureau of Internal Revenue"
+  - "public authority"
+  - "regulatory mandate"
+  - "processing of personal information by a public authority"
+  - "Scope of the DPA"
+  - "special cases"
+  - "Proportionality"
+  - "Privacy Notice"
 date: "2025-08-13"
 draft: false
 aliases:

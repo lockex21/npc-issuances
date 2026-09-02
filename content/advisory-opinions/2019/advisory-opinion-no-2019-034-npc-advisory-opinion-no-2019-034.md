@@ -7,6 +7,15 @@ tags:
   - year/2019
   - topic/consent
   - topic/employment
+official_tags:
+  - "consent"
+  - "freely given"
+  - "specific"
+  - "employees"
+  - "employment"
+  - "transparency"
+  - "privacy notice"
+  - "lawful processing"
 date: "2019-09-02"
 draft: false
 aliases:

@@ -6,6 +6,10 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/registration"
+official_tags:
+  - "data protection officer"
+  - "conflict of interest"
+  - "purpose and means of processing"
 aliases:
   - "NPC Advisory Opinion No. 2021-005"
   - "npc advisory opinion no. 2021-005"

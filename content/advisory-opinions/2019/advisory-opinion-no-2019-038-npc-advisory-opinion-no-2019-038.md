@@ -11,6 +11,10 @@ tags:
   - type/advisory-opinion
   - year/2019
   - topic/legitimate-interest
+official_tags:
+  - "personal information"
+  - "legitimate purpose"
+  - "lawful processing vitally important interests"
 date: "2019-10-24"
 draft: false
 ---

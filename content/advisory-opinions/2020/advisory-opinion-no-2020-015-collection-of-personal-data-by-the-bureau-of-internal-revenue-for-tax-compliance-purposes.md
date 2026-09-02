@@ -5,6 +5,12 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "scope"
+  - "special cases"
+  - "public authority"
+  - "lawful processing"
+  - "foreign diplomatic missions"
 aliases:
   - "NPC Advisory Opinion No. 2020-015"
   - "npc advisory opinion no. 2020-015"

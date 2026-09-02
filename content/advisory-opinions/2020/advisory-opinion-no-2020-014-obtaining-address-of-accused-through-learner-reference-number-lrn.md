@@ -5,6 +5,12 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2020
+official_tags:
+  - "personal information"
+  - "address of accused"
+  - "learners LRN"
+  - "warrant of arrest"
+  - "confidentiality"
 aliases:
   - "NPC Advisory Opinion No. 2020-014"
   - "npc advisory opinion no. 2020-014"

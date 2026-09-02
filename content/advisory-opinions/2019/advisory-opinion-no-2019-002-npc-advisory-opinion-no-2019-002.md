@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+official_tags:
+  - "disclosure"
+  - "confidential report"
+  - "criteria for lawful processing"
+  - "complaint"
 date: "2019-01-04"
 draft: false
 aliases:

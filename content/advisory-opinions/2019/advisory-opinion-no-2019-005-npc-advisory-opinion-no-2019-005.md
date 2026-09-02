@@ -6,6 +6,12 @@ tags:
   - type/advisory-opinion
   - year/2019
   - topic/legitimate-interest
+official_tags:
+  - "data sharing"
+  - "outsourcing"
+  - "personal information controller"
+  - "personal information processor"
+  - "compliance"
 date: "2019-01-04"
 draft: false
 aliases:

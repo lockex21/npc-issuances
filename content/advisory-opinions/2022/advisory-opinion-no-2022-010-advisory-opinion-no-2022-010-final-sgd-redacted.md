@@ -7,6 +7,8 @@ tags:
   - year/2022
   - topic/consent
   - topic/government
+official_tags:
+  - "Consent"
 date: "2022-07-14"
 draft: false
 aliases:

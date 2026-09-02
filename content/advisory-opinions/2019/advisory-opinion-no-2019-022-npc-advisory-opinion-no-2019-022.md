@@ -8,6 +8,10 @@ tags:
   - lawful-processing
   - data-privacy-principles
   - investigation
+official_tags:
+  - "Scope of the DPA"
+  - "Lawful Processing"
+  - "Data Privacy Principles"
 date: "2019-05-07"
 draft: false
 aliases:

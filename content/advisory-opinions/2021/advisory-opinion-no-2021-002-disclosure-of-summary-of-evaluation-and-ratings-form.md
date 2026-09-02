@@ -5,6 +5,12 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+official_tags:
+  - "scope of the DPA"
+  - "right to information"
+  - "limitations"
+  - "lawful processing of personal data"
+  - "general data privacy principles"
 aliases:
   - "NPC Advisory Opinion No. 2021-002"
   - "npc advisory opinion no. 2021-002"

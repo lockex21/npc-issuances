@@ -7,6 +7,11 @@ tags:
   - year/2020
   - topic/employment
   - topic/legitimate-interest
+official_tags:
+  - "Collection agency"
+  - "personal loan"
+  - "employment"
+  - "right to privacy"
 aliases:
   - "NPC Advisory Opinion No. 2020-006"
   - "npc advisory opinion no. 2020-006"

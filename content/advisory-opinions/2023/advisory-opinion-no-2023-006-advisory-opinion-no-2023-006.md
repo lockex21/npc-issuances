@@ -8,6 +8,11 @@ tags:
 - topic/government
 - topic/legitimate-interest
 - topic/security
+official_tags:
+  - "lawful processing"
+  - "legitimate interest"
+  - "proportionality"
+  - "security measures"
 date: "2023-01-30"
 draft: false
 aliases:

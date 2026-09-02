@@ -6,6 +6,13 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/data-sharing"
+official_tags:
+  - "registered deaths"
+  - "death certificate"
+  - "Local Civil Registrar"
+  - "PHIC"
+  - "data sharing"
+  - "proportionality"
 date: "2021-09-23"
 draft: false
 aliases:

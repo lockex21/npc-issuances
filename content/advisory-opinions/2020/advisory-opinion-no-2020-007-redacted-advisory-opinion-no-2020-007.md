@@ -6,6 +6,14 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/employment"
+official_tags:
+  - "SALN"
+  - "Bureau of Treasury"
+  - "elective officials"
+  - "malversation"
+  - "public documents"
+  - "right to information"
+  - "official custodian of documents"
 aliases:
   - "NPC Advisory Opinion No. 2020-007"
   - "npc advisory opinion no. 2020-007"

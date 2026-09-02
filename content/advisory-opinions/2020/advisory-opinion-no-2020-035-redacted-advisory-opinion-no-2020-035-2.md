@@ -6,6 +6,13 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/data-sharing"
+official_tags:
+  - "data sharing"
+  - "data sharing agreement"
+  - "Universal Health Care Act"
+  - "DOH"
+  - "Philhealth"
+  - "COVID-19"
 date: "2020-09-08"
 draft: false
 aliases:

@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2019
   - topic/government
+official_tags:
+  - "request for public documents"
+  - "sensitive personal information"
+  - "redaction"
+  - "freedom of information"
 date: "2019-04-24"
 draft: false
 aliases:

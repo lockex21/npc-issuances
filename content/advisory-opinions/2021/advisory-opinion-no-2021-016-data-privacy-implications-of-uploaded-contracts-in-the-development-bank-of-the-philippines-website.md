@@ -11,6 +11,12 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/government"
+official_tags:
+  - "government procurement"
+  - "procurement documents"
+  - "posting requirement"
+  - "security measures"
+  - "redaction"
 date: "2021-04-28"
 draft: false
 ---

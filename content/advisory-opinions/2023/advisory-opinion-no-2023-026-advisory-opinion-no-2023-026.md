@@ -8,6 +8,10 @@ tags:
   - topic/data-sharing
   - topic/employment
   - topic/security
+official_tags:
+  - "sensitive personal information"
+  - "fraud prevention"
+  - "legal claims"
 aliases:
   - "NPC Advisory Opinion No. 2023-026"
   - "npc advisory opinion no. 2023-026"

@@ -7,6 +7,13 @@ tags:
   - "year/2021"
   - "topic/data-subject-rights"
   - "topic/government"
+official_tags:
+  - "special cases"
+  - "lawful criteria for processing"
+  - "public authority"
+  - "fulfillment of mandate"
+  - "subpoena"
+  - "limitation on data subject rights"
 date: "2021-08-17"
 draft: false
 aliases:

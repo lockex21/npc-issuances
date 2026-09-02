@@ -5,6 +5,13 @@ tags:
 - issuance
 - type/advisory-opinion
 - year/2023
+official_tags:
+  - "subscriber records"
+  - "subscriber data"
+  - "Bureau of Internal Revenue"
+  - "internal revenue tax purposes"
+  - "special cases"
+  - "public authority"
 date: "2023-02-02"
 draft: false
 aliases:

@@ -9,6 +9,10 @@ tags:
   - sensitive-personal-information
   - legal-claims
   - topic/employment
+official_tags:
+  - "release of documents by government agencies"
+  - "criteria for processing sensitive personal information"
+  - "processing necessary for exercise or defense of legal claims"
 date: "2020-11-17"
 draft: false
 ---

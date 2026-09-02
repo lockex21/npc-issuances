@@ -6,6 +6,11 @@ tags:
 - type/advisory-opinion
 - year/2023
 - topic/employment
+official_tags:
+  - "lawful processing"
+  - "legitimate interest"
+  - "proportionality"
+  - "security measures"
 date: "2023-02-15"
 draft: false
 aliases:

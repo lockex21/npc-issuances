@@ -6,6 +6,12 @@ tags:
   - type/advisory-opinion
   - year/2022
   - topic/data-sharing
+official_tags:
+  - "special cases"
+  - "public authority"
+  - "law enforcement"
+  - "constitutional and statutory mandate"
+  - "proportionality"
 date: "2022-02-28"
 draft: false
 aliases:

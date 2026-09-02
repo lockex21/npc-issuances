@@ -6,6 +6,13 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/government"
+official_tags:
+  - "processing"
+  - "sensitive personal information"
+  - "COVID-19"
+  - "public authority"
+  - "mandate"
+  - "statistics"
 date: "2020-07-15"
 draft: false
 aliases:

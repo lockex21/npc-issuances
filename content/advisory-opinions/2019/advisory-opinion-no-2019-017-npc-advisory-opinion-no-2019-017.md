@@ -8,6 +8,9 @@ tags:
   - research
   - access-to-public-documents
   - topic/government
+official_tags:
+  - "Research"
+  - "Access to public documents"
 date: "2019-03-05"
 draft: false
 aliases:

@@ -12,6 +12,12 @@ tags:
   - "year/2022"
   - topic/consent
   - topic/employment
+official_tags:
+  - "COVID-19"
+  - "swab test results"
+  - "contact tracing"
+  - "sensitive personal information"
+  - "disclosure"
 date: "2022-10-19"
 draft: false
 ---

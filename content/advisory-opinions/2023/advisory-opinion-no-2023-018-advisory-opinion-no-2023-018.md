@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2023"
+official_tags:
+  - "special cases"
+  - "law enforcement"
+  - "lawful processing"
+  - "investigations"
 aliases:
   - "NPC Advisory Opinion No. 2023-018"
   - "npc advisory opinion no. 2023-018"

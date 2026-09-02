@@ -5,6 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2025"
+official_tags:
+  - "peer-to-peer disclosure"
+  - "online conversations and group chats"
+  - "educational institutions"
+  - "Section 13(f) DP"
+  - "disciplinary proceedings"
+  - "reasonable expectation of privacy"
 date: "2025-09-23"
 draft: false
 aliases:

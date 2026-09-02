@@ -9,6 +9,12 @@ tags:
   - "topic/data-subject-rights"
   - "topic/government"
   - "topic/security"
+official_tags:
+  - "CCTV footage"
+  - "lawful processing"
+  - "government office"
+  - "mandate"
+  - "proportionality"
 date: "2025-12-26"
 draft: false
 aliases:

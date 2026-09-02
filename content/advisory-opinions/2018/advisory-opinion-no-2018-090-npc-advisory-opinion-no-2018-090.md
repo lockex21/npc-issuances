@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2018
   - topic/employment
+official_tags:
+  - "Reasonable expectation of privacy"
+  - "employment"
+  - "office-issued mobile device"
+  - "unauthorized processing"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-090"

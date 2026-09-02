@@ -5,6 +5,12 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "loss of personal information"
+  - "improper disposal"
+  - "personal information controller"
+  - "security measures"
+  - "complaint-assisted form"
 date: "2020-09-28"
 draft: false
 aliases:

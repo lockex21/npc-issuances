@@ -37,6 +37,7 @@ OCR_DIR = CACHE_DIR / "ocr"
 INDEX_CACHE = CACHE_DIR / "index.html"
 CONTENT_DIR = ROOT / "content" / "advisory-opinions"
 DATA_PATH = ROOT / "data" / "advisory_opinions.json"
+TAG_MANIFEST_PATH = ROOT / "data" / "advisory_opinion_tags.json"
 INDEX_URL = "https://privacy.gov.ph/advisory-opinions/"
 USER_AGENT = "Mozilla/5.0 (compatible; NPC-Issuance-Wiki/1.0)"
 
@@ -76,6 +77,7 @@ class AdvisoryOpinion:
     subject: str = ""
     issue_date: str = ""
     tags: str = ""
+    official_tags: list[str] = field(default_factory=list)
 
     def as_dict(self) -> dict[str, Any]:
         return self.__dict__.copy()
@@ -216,6 +218,21 @@ def rel(path: Path) -> str:
     return str(path.relative_to(ROOT))
 
 
+def load_official_tags() -> dict[str, list[str]]:
+    """Load the separately audited, PDF-footnote-derived tag inventory."""
+    if not TAG_MANIFEST_PATH.exists():
+        return {}
+    payload = json.loads(TAG_MANIFEST_PATH.read_text(encoding="utf-8"))
+    records = payload.get("records", [])
+    return {
+        record["reference_label"]: record["tags"]
+        for record in records
+        if isinstance(record, dict)
+        and isinstance(record.get("reference_label"), str)
+        and isinstance(record.get("tags"), list)
+    }
+
+
 def build_markdown(record: AdvisoryOpinion, cleaned_text: str) -> str:
     lines = [
         "---",
@@ -225,6 +242,13 @@ def build_markdown(record: AdvisoryOpinion, cleaned_text: str) -> str:
         '  - "issuance"',
         '  - "type/advisory-opinion"',
         f'  - "year/{record.year}"',
+    ]
+    if record.official_tags:
+        lines.append("official_tags:")
+        lines.extend(
+            f"  - {json.dumps(tag, ensure_ascii=False)}" for tag in record.official_tags
+        )
+    lines += [
         "draft: false",
         "---",
         "",
@@ -312,6 +336,7 @@ def run(
     print("Extracting text and building markdown …")
     seen_slugs: set[str] = set()
     records: list[AdvisoryOpinion] = []
+    official_tags_by_reference = load_official_tags()
 
     for entry in sorted(entries, key=lambda e: (e.year, e.number)):
         pdf_path = _pdf_path_for(entry)
@@ -353,6 +378,7 @@ def run(
             subject=entry.subject,
             issue_date=entry.issue_date,
             tags=entry.tags,
+            official_tags=official_tags_by_reference.get(entry.reference_label, []),
         )
         md_path.parent.mkdir(parents=True, exist_ok=True)
         md_path.write_text(build_markdown(record, cleaned_text), encoding="utf-8")

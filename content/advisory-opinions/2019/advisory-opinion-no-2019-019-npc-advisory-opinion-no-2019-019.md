@@ -9,6 +9,10 @@ tags:
   - data-processing-systems
   - registration
   - topic/registration
+official_tags:
+  - "Scope"
+  - "Exemption from the Registration of the Data Processing System"
+  - "designation of Data Protection Officer"
 date: "2019-03-12"
 draft: false
 aliases:

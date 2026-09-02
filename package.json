@@ -16,7 +16,7 @@
     "docs": "npx quartz build --serve -d docs",
     "check": "npm run check:code && npm run check:content",
     "check:code": "tsc --noEmit && npx prettier --check \"*.{ts,js,json}\" \"quartz/**/*.{ts,tsx,js,jsx,scss,json}\" \"assets/**/*.{css,js}\" \"templates/**/*.html\"",
-    "check:content": "python3 scripts/validate_content.py",
+    "check:content": "python3 scripts/validate_content.py && python3 scripts/sync_advisory_opinion_tags.py --check",
     "format": "npm run format:code",
     "format:code": "npx prettier --write \"*.{ts,js,json}\" \"quartz/**/*.{ts,tsx,js,jsx,scss,json}\" \"assets/**/*.{css,js}\" \"templates/**/*.html\"",
     "test": "tsx --test",

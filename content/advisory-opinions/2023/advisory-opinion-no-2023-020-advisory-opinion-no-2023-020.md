@@ -7,6 +7,13 @@ tags:
   - "year/2023"
   - "topic/employment"
   - "topic/legitimate-interest"
+official_tags:
+  - "breath analyzers"
+  - "sensitive personal information"
+  - "lawful criteria for processing"
+  - "consent"
+  - "contract"
+  - "compliance with legal obligation"
 aliases:
   - "NPC Advisory Opinion No. 2023-020"
   - "npc advisory opinion no. 2023-020"

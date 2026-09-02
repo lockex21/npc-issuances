@@ -6,6 +6,12 @@ tags:
 - type/advisory-opinion
 - year/2023
 - topic/government
+official_tags:
+  - "personal data"
+  - "lawful processing"
+  - "titled lands"
+  - "public authority mandate"
+  - "legal obligation"
 date: "2023-01-18"
 draft: false
 aliases:

@@ -6,6 +6,14 @@ tags:
   - "type/advisory-opinion"
   - "year/2026"
   - "topic/government"
+official_tags:
+  - "lawful processing"
+  - "disclosure"
+  - "legal obligation"
+  - "government records"
+  - "local government unit"
+  - "landowner names"
+  - "property identification maps"
 date: "2026-05-12"
 draft: false
 aliases:

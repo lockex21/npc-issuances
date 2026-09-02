@@ -7,6 +7,16 @@ tags:
   - year/2019
   - topic/employment
   - topic/legitimate-interest
+official_tags:
+  - "lawful processing of sensitive personal information"
+  - "data privacy principles"
+  - "criminal history"
+  - "public notice"
+  - "employee data"
+  - "right to information"
+  - "freedom of the press"
+  - "prejudicial publicity"
+  - "right to privacy"
 date: "2019-05-07"
 draft: false
 aliases:

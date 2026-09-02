@@ -12,6 +12,11 @@ tags:
   - "year/2021"
   - "topic/employment"
   - "topic/legitimate-interest"
+official_tags:
+  - "lawful basis for processing"
+  - "personal information"
+  - "sensitive personal information"
+  - "establishment of legal claims"
 date: "2021-06-30"
 draft: false
 ---

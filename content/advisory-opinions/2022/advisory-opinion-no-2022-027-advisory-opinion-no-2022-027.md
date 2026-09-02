@@ -11,6 +11,17 @@ tags:
   - type/advisory-opinion
   - year/2022
   - topic/children
+official_tags:
+  - "Philippine Statistics Authority"
+  - "PSA"
+  - "disclosure"
+  - "civil registry documents"
+  - "birth certificate"
+  - "sensitive personal information"
+  - "putative parent"
+  - "paternity"
+  - "filiation"
+  - "establishment of legal claims"
 date: "2022-12-15"
 draft: false
 ---

@@ -11,6 +11,13 @@ tags:
   - legitimate-interest
   - topic/cctv-surveillance
   - topic/security
+official_tags:
+  - "scope"
+  - "lawful processing"
+  - "public authority"
+  - "proportionality"
+  - "due process"
+  - "statistics"
 date: "2020-11-26"
 draft: false
 ---

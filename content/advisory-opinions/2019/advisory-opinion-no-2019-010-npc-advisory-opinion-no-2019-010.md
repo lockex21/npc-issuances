@@ -7,6 +7,11 @@ tags:
   - year/2019
   - topic/employment
   - topic/security
+official_tags:
+  - "Access to employee records"
+  - "201 Files"
+  - "Medical Records"
+  - "Internal Audit"
 date: "2019-01-14"
 draft: false
 aliases:

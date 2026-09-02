@@ -6,6 +6,10 @@ tags:
   - type/advisory-opinion
   - year/2019
   - topic/consent
+official_tags:
+  - "KYC"
+  - "lawful processing"
+  - "consent"
 date: "2019-01-04"
 draft: false
 ---

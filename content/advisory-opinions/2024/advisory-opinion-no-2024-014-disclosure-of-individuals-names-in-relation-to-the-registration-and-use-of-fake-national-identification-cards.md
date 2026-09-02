@@ -10,6 +10,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+official_tags:
+  - "mandate"
+  - "processing of personal information"
+  - "general data privacy principles"
+  - "personal data protection"
 date: "2024-11-25"
 draft: false
 ---

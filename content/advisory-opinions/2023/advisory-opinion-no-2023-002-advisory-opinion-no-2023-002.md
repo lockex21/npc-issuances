@@ -6,6 +6,11 @@ tags:
 - type/advisory-opinion
 - year/2023
 - topic/consent
+official_tags:
+  - "scope of the DPA"
+  - "sensitive personal information"
+  - "tax declarations"
+  - "public documents"
 date: "2023-01-18"
 draft: false
 aliases:

@@ -7,6 +7,15 @@ tags:
   - "year/2021"
   - "topic/consent"
   - "topic/employment"
+official_tags:
+  - "HMO brokers"
+  - "request for personal data"
+  - "sensitive personal information"
+  - "health information"
+  - "lawful basis"
+  - "consent"
+  - "general data privacy principles"
+  - "statistics"
 aliases:
   - "NPC Advisory Opinion No. 2021-004"
   - "npc advisory opinion no. 2021-004"

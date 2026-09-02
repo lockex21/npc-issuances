@@ -7,6 +7,10 @@ tags:
   - year/2022
   - topic/employment
   - topic/legitimate-interest
+official_tags:
+  - "criteria for lawful processing"
+  - "general data privacy principles"
+  - "legitimate interest"
 date: "2022-03-02"
 draft: false
 aliases:

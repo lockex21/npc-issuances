@@ -7,6 +7,15 @@ tags:
   - "year/2021"
   - "topic/data-subject-rights"
   - "topic/elections"
+official_tags:
+  - "General Data Protection Regulation"
+  - "Overseas Voting Act"
+  - "Philippine Embassy"
+  - "certified list of overseas voters"
+  - "Vienna Convention on Diplomatic Relations"
+  - "lawful criteria for processing"
+  - "data subject rights"
+  - "limitations"
 aliases:
   - "NPC Advisory Opinion No. 2021-011"
   - "npc advisory opinion no. 2021-011"

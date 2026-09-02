@@ -14,6 +14,10 @@ tags:
   - "topic/data-subject-rights"
   - "topic/employment"
   - "topic/security"
+official_tags:
+  - "automated access"
+  - "personal information processor"
+  - "consent"
 date: "2024-05-16"
 draft: false
 ---

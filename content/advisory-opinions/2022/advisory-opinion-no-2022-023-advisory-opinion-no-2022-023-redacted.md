@@ -11,6 +11,11 @@ tags:
   - type/advisory-opinion
   - year/2022
   - topic/legitimate-interest
+official_tags:
+  - "disclosure of student personal information and sensitive personal information"
+  - "Section 12 (f)"
+  - "Section 13 (f)"
+  - "proportionality"
 date: "2022-11-11"
 draft: false
 ---

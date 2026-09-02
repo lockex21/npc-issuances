@@ -13,6 +13,13 @@ tags:
   - topic/data-subject-rights
   - topic/employment
   - topic/government
+official_tags:
+  - "201 files"
+  - "government employee"
+  - "Civil Service Commission"
+  - "right to access"
+  - "data subject rights"
+  - "legal claims"
 date: "2022-11-22"
 draft: false
 ---

@@ -9,6 +9,15 @@ tags:
   - "topic/fees-and-payments"
   - "topic/registration"
   - "topic/security"
+official_tags:
+  - "PIC registration"
+  - "data protection officer"
+  - "Schools Division"
+  - "personal data breach notification"
+  - "security incident reporting"
+  - "governance structure"
+  - "NPC Circular No. 2022-04"
+  - "centralized registration"
 date: "2026-05-18"
 draft: false
 aliases:

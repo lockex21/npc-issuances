@@ -6,6 +6,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/legitimate-interest"
+official_tags:
+  - "personal information"
+  - "bank transaction details"
+  - "fraud investigation"
+  - "legitimate interests"
 date: "2020-10-30"
 draft: false
 aliases:

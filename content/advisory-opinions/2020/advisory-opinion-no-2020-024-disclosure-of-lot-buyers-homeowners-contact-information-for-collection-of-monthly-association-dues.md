@@ -6,6 +6,10 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/legitimate-interest"
+official_tags:
+  - "contact information"
+  - "disclosure"
+  - "legitimate interest"
 aliases:
   - "NPC Advisory Opinion No. 2020-024"
   - "npc advisory opinion no. 2020-024"

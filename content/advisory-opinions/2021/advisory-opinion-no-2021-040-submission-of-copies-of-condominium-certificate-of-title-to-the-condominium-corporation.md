@@ -6,6 +6,16 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/consent"
+official_tags:
+  - "Condominium Certificate of Title"
+  - "lawful processing"
+  - "consent"
+  - "establishment"
+  - "exercise"
+  - "or defense of legal claims"
+  - "general data privacy principles"
+  - "proportionality"
+  - "privacy impact assessment"
 date: "2021-11-08"
 draft: false
 aliases:

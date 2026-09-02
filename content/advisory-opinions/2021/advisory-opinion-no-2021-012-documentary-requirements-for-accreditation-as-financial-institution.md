@@ -5,6 +5,15 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+official_tags:
+  - "scope"
+  - "lawful criteria for processing"
+  - "public authority"
+  - "law or regulation"
+  - "general data privacy principles"
+  - "confidentiality"
+  - "loans"
+  - "deposits"
 aliases:
   - "NPC Advisory Opinion No. 2021-012"
   - "npc advisory opinion no. 2021-012"

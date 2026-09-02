@@ -5,6 +5,10 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2020
+official_tags:
+  - "public authority"
+  - "mandate"
+  - "lawful processing"
 aliases:
   - "NPC Advisory Opinion No. 2020-012"
   - "npc advisory opinion no. 2020-012"

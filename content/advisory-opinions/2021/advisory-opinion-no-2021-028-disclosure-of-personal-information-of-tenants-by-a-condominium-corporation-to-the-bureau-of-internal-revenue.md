@@ -10,6 +10,10 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+official_tags:
+  - "Bureau of Internal Revenue"
+  - "scope of the DPA"
+  - "special cases"
 date: "2021-07-16"
 draft: false
 ---

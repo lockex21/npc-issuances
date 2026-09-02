@@ -5,6 +5,12 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "personal information"
+  - "sensitive personal information"
+  - "DSWD"
+  - "Listahanan"
+  - "privacy notice"
 aliases:
   - "NPC Advisory Opinion No. 2020-023"
   - "npc advisory opinion no. 2020-023"

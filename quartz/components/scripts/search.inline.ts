@@ -9,6 +9,7 @@ interface Item {
   title: string
   content: string
   tags: string[]
+  officialTags: string[]
   [key: string]: any
 }
 
@@ -77,6 +78,10 @@ let index = new FlexSearch.Document<Item>({
       },
       {
         field: "tags",
+        tokenize: "forward",
+      },
+      {
+        field: "officialTags",
         tokenize: "forward",
       },
     ],
@@ -322,7 +327,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       slug,
       title: searchType === "tags" ? data[slug].title : highlight(term, data[slug].title ?? ""),
       content: highlight(term, data[slug].content ?? "", true),
-      tags: highlightTags(term.substring(1), data[slug].tags),
+      tags: highlightTags(term, data[slug].tags),
+      officialTags: highlightOfficialTags(term, data[slug].officialTags),
     }
   }
 
@@ -342,12 +348,26 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       .slice(0, numTagResults)
   }
 
+  function highlightOfficialTags(term: string, tags: string[]) {
+    if (!tags) return []
+
+    const normalizedTerm = term.trim().toLowerCase()
+    return tags
+      .filter((tag) => normalizedTerm !== "" && tag.toLowerCase().includes(normalizedTerm))
+      .map((tag) => `<li><p class="match-official-tag">${highlight(term, tag)}</p></li>`)
+      .slice(0, numTagResults)
+  }
+
   function resolveUrl(slug: FullSlug): URL {
     return new URL(resolveRelative(currentSlug, slug), location.toString())
   }
 
-  const resultToHTML = ({ slug, title, content, tags }: Item) => {
+  const resultToHTML = ({ slug, title, content, tags, officialTags }: Item) => {
     const htmlTags = tags.length > 0 ? `<ul class="tags">${tags.join("")}</ul>` : ``
+    const htmlOfficialTags =
+      officialTags.length > 0
+        ? `<ul class="official-tags" aria-label="Matching official opinion tags">${officialTags.join("")}</ul>`
+        : ``
     const itemTile = document.createElement("a")
     itemTile.classList.add("result-card")
     itemTile.id = slug
@@ -355,6 +375,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     itemTile.innerHTML = `
       <h3 class="card-title">${title}</h3>
       ${htmlTags}
+      ${htmlOfficialTags}
       <p class="card-description">${content}</p>
     `
     itemTile.addEventListener("click", (event) => {
@@ -475,14 +496,14 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
         searchResults = await index.searchAsync({
           query: currentSearchTerm,
           limit: numSearchResults,
-          index: ["tags"],
+          index: ["tags", "officialTags"],
         })
       }
     } else if (searchType === "basic") {
       searchResults = await index.searchAsync({
         query: currentSearchTerm,
         limit: numSearchResults,
-        index: ["title", "content"],
+        index: ["title", "officialTags", "content"],
       })
     }
 
@@ -494,6 +515,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     // order titles ahead of content
     const allIds: Set<number> = new Set([
       ...getByField("title"),
+      ...getByField("officialTags"),
       ...getByField("content"),
       ...getByField("tags"),
     ])
@@ -532,6 +554,7 @@ async function fillDocument(data: ContentIndex) {
         title: fileData.title,
         content: fileData.content,
         tags: fileData.tags,
+        officialTags: fileData.officialTags ?? [],
       }),
     )
   }

@@ -13,6 +13,15 @@ tags:
   - "topic/consent"
   - "topic/data-sharing"
   - "topic/online-lending"
+official_tags:
+  - "consent of the data subject"
+  - "lawful criteria processing"
+  - "credit scoring"
+  - "general data privacy principles"
+  - "transparency"
+  - "privacy notice"
+  - "data sharing"
+  - "data sharing agreement"
 date: "2019-11-06"
 draft: false
 ---

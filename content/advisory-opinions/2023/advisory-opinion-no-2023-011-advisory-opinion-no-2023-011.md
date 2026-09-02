@@ -8,6 +8,11 @@ tags:
 - year/2023
 - topic/employment
 - topic/legitimate-interest
+official_tags:
+  - "personal information"
+  - "legitimate interest"
+  - "legal claims"
+  - "proportionality"
 date: "2023-03-17"
 draft: false
 aliases:

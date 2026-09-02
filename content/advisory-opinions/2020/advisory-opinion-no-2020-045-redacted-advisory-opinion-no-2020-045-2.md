@@ -6,6 +6,14 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/legitimate-interest"
+official_tags:
+  - "personal information"
+  - "disclosure"
+  - "lawful criteria for processing"
+  - "legal obligation"
+  - "corporation"
+  - "proxies"
+  - "Revised Corporation Code"
 date: "2020-11-06"
 draft: false
 ---

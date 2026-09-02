@@ -6,6 +6,16 @@ tags:
   - "type/advisory-opinion"
   - "year/2020"
   - "topic/government"
+official_tags:
+  - "right to privacy"
+  - "freedom of information"
+  - "disclosure of beneficiary data"
+  - "special cases"
+  - "accountability"
+  - "transparency"
+  - "proportionality"
+  - "pseudonymization"
+  - "statistics"
 aliases:
   - "NPC Advisory Opinion No. 2020-026"
   - "npc advisory opinion no. 2020-026"

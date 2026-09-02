@@ -11,6 +11,11 @@ tags:
   - "type/advisory-opinion"
   - "year/2024"
   - "topic/data-subject-rights"
+official_tags:
+  - "Incident reports"
+  - "court order"
+  - "proportionality"
+  - "law enforcement"
 date: "2024-07-02"
 draft: false
 ---

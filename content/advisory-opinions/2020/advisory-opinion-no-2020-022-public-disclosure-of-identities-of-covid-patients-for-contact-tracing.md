@@ -5,6 +5,16 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "processing"
+  - "public disclosure"
+  - "public authority"
+  - "statutory mandate"
+  - "law"
+  - "Department of Health"
+  - "COVID-19"
+  - "contact tracing"
+  - "privacy guidelines"
 aliases:
   - "NPC Advisory Opinion No. 2020-022"
   - "npc advisory opinion no. 2020-022"

@@ -6,6 +6,14 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/legitimate-interest"
+official_tags:
+  - "lawful processing of personal information"
+  - "contract"
+  - "mandate"
+  - "general data privacy principles"
+  - "transparency"
+  - "proportionality"
+  - "privacy notice"
 date: "2021-11-24"
 draft: false
 aliases:

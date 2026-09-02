@@ -5,6 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2023"
+official_tags:
+  - "ordinance"
+  - "barangay database"
+  - "ID system"
+  - "criteria for lawful processing"
+  - "data privacy principles"
+  - "rights of the data subject"
 date: "2023-06-21"
 draft: false
 aliases:

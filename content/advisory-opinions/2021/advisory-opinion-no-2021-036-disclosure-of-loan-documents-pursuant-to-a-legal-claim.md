@@ -6,6 +6,10 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/legitimate-interest"
+official_tags:
+  - "criteria for lawful processing"
+  - "legal claims"
+  - "legitimate interest"
 date: "2021-09-23"
 draft: false
 aliases:

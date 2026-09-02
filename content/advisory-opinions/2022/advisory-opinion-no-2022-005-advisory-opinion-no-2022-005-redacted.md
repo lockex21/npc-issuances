@@ -6,6 +6,13 @@ tags:
   - type/advisory-opinion
   - year/2022
   - topic/legitimate-interest
+official_tags:
+  - "lawful processing"
+  - "consent"
+  - "legitimate interest"
+  - "protection of lawful rights and interest of natural or legal persons in court proceedings"
+  - "establishment"
+  - "exercise or defense of legal claims"
 date: "2022-02-24"
 draft: false
 aliases:

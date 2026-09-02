@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "publication of beneficial ownership"
+  - "legal obligation"
+  - "law or regulation"
+  - "general data privacy principles"
 date: "2020-11-10"
 draft: false
 ---

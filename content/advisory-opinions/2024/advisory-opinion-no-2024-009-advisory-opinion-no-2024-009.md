@@ -11,6 +11,11 @@ tags:
   - type/advisory-opinion
   - year/2024
   - topic/elections
+official_tags:
+  - "Sec. 12 DPA"
+  - "Personal Information"
+  - "Fulfillment of Mandate"
+  - "Publication"
 date: "2024-07-23"
 draft: false
 ---

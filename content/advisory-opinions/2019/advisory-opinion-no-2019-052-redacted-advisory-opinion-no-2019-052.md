@@ -9,6 +9,15 @@ tags:
   - "health-information"
   - "sensitive-personal-information"
   - "topic/data-sharing"
+official_tags:
+  - "Data sharing"
+  - "Registry"
+  - "Collection of Sensitive Personal Information"
+  - "Teenage Pregnancy"
+  - "Health Information"
+  - "Transparency"
+  - "Legitimate purpose"
+  - "Proportionality"
 aliases:
   - "NPC Advisory Opinion No. 2019-052"
   - "npc advisory opinion no. 2019-052"

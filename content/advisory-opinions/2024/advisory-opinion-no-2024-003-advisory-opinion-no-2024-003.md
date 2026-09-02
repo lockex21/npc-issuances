@@ -13,6 +13,12 @@ tags:
   - "topic/consent"
   - "topic/employment"
   - "topic/legitimate-interest"
+official_tags:
+  - "Telecommuting"
+  - "monitoring software"
+  - "employee surveillance"
+  - "contract"
+  - "legitimate interest"
 date: "2024-04-02"
 draft: false
 ---

@@ -12,6 +12,13 @@ tags:
   - year/2022
   - topic/consent
   - topic/security
+official_tags:
+  - "personal data"
+  - "lawful processing"
+  - "consent of data subjects"
+  - "legal claims"
+  - "Sec. 13 (f)"
+  - "DPA"
 date: "2022-09-20"
 draft: false
 ---

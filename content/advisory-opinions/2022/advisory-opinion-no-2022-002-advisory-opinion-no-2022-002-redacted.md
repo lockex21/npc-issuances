@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2022
   - topic/legitimate-interest
+official_tags:
+  - "disclosure of personal data"
+  - "lawful basis for processing"
+  - "legitimate interest"
+  - "legal claims"
 date: "2022-02-11"
 draft: false
 aliases:

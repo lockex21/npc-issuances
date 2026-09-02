@@ -7,6 +7,12 @@ tags:
   - "year/2025"
   - "topic/data-sharing"
   - "topic/government"
+official_tags:
+  - "data sharing"
+  - "criteria for lawful processing"
+  - "mandate"
+  - "general data privacy principles"
+  - "security measures"
 date: "2025-06-23"
 draft: false
 aliases:

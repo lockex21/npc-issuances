@@ -7,6 +7,16 @@ tags:
   - "year/2020"
   - "topic/consent"
   - "topic/legitimate-interest"
+official_tags:
+  - "school practices"
+  - "education sector"
+  - "online education"
+  - "lawful criteria for processing"
+  - "consent"
+  - "minors"
+  - "children"
+  - "sensitive personal information"
+  - "data subject rights"
 date: "2020-11-09"
 draft: false
 ---

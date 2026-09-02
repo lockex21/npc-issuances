@@ -13,6 +13,22 @@ tags:
   - "topic/data-sharing"
   - "topic/data-subject-rights"
   - "topic/legitimate-interest"
+official_tags:
+  - "lawful processing"
+  - "sensitive personal information"
+  - "legal claim"
+  - "law"
+  - "regulation"
+  - "BSP"
+  - "fraud investigation"
+  - "fraud prevention"
+  - "blacklists"
+  - "fairness"
+  - "lawfulness"
+  - "accuracy"
+  - "privacy impact assessment"
+  - "data subject rights"
+  - "limitations"
 date: "2021-07-12"
 draft: false
 ---

@@ -12,6 +12,13 @@ tags:
   - "year/2019"
   - "topic/consent"
   - "topic/data-sharing"
+official_tags:
+  - "tax declarations"
+  - "scope"
+  - "lawful processing"
+  - "data privacy principles"
+  - "consent"
+  - "data sharing agreement"
 date: "2019-10-17"
 draft: false
 ---

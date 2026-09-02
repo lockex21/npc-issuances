@@ -12,6 +12,12 @@ tags:
   - "year/2021"
   - "topic/consent"
   - "topic/employment"
+official_tags:
+  - "sensitive personal information"
+  - "health information"
+  - "psychiatric evaluation of employees"
+  - "criteria for lawful processing of sensitive personal information"
+  - "consent"
 date: "2021-07-12"
 draft: false
 ---

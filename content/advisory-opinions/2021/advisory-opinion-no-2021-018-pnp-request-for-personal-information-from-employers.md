@@ -11,6 +11,13 @@ tags:
   - "type/advisory-opinion"
   - "year/2021"
   - "topic/employment"
+official_tags:
+  - "law enforcement agencies"
+  - "special cases"
+  - "lawful processing of personal information"
+  - "fulfillment of mandate"
+  - "processing based on laws and regulations"
+  - "general data privacy principles"
 date: "2021-06-18"
 draft: false
 ---

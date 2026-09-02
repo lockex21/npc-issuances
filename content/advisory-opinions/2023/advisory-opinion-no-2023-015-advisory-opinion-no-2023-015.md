@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2023"
+official_tags:
+  - "special cases"
+  - "disclosure to public authority"
+  - "general data privacy principles"
+  - "list of barangay inhabitants"
 date: "2023-08-24"
 draft: false
 aliases:

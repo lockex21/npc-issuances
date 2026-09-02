@@ -5,6 +5,13 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "birth certificate"
+  - "PSA"
+  - "personal information"
+  - "sensitive personal information"
+  - "lawful processing"
+  - "law or regulation"
 aliases:
   - "NPC Advisory Opinion No. 2020-011"
   - "npc advisory opinion no. 2020-011"

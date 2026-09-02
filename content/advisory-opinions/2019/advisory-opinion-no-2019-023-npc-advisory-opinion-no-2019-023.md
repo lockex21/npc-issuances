@@ -8,6 +8,13 @@ tags:
   - topic/cctv-surveillance
   - topic/employment
   - topic/legitimate-interest
+official_tags:
+  - "scope"
+  - "lawful processing of personal information"
+  - "privacy notice"
+  - "CCTV"
+  - "employee"
+  - "evidence"
 date: "2019-06-13"
 draft: false
 aliases:

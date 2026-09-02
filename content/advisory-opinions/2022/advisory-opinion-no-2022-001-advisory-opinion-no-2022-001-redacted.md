@@ -5,6 +5,15 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+official_tags:
+  - "scope of the DPA"
+  - "juridical entities"
+  - "legal obligation"
+  - "public authority"
+  - "law or regulation"
+  - "general data privacy principles"
+  - "proportionality"
+  - "sensitive personal information"
 date: "2022-02-11"
 draft: false
 aliases:

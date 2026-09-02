@@ -7,6 +7,13 @@ tags:
   - year/2021
   - topic/consent
   - topic/data-sharing
+official_tags:
+  - "data sharing"
+  - "data sharing agreement"
+  - "general data privacy principles"
+  - "law and regulation"
+  - "consent"
+  - "statistics"
 date: "2021-12-16"
 draft: false
 aliases:

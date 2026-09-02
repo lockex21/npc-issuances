@@ -5,6 +5,10 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2022
+official_tags:
+  - "online classes"
+  - "recording of online classes"
+  - "lawful criteria for processing"
 date: "2022-03-25"
 draft: false
 aliases:

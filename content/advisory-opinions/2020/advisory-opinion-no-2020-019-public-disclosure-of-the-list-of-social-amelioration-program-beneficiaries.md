@@ -5,6 +5,18 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "DSWD"
+  - "DILG"
+  - "Social Amelioration Program"
+  - "Emergency Subsidy Program"
+  - "COVID-19"
+  - "lawful processing"
+  - "law or regulation"
+  - "transparency"
+  - "public funds"
+  - "right to information"
+  - "matters of public concern"
 aliases:
   - "NPC Advisory Opinion No. 2020-019"
   - "npc advisory opinion no. 2020-019"

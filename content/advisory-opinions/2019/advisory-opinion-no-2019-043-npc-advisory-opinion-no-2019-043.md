@@ -11,6 +11,12 @@ tags:
   - "type/advisory-opinion"
   - "year/2019"
   - "topic/data-sharing"
+official_tags:
+  - "general data privacy principles"
+  - "criteria for lawful processing"
+  - "data sharing"
+  - "data sharing agreement"
+  - "civil registry documents"
 date: "2019-10-24"
 draft: false
 ---

@@ -5,6 +5,15 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+official_tags:
+  - "subscriber records"
+  - "address"
+  - "social media influencers"
+  - "Bureau of Internal Revenue"
+  - "internal revenue tax purposes"
+  - "special cases"
+  - "public authority"
+  - "proportionality"
 date: "2021-12-29"
 draft: false
 aliases:

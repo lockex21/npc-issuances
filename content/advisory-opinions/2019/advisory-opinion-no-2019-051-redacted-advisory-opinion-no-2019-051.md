@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2019
   - topic/data-subject-rights
+official_tags:
+  - "Right to erasure"
+  - "blocking"
+  - "deletion of account"
+  - "data subjects rights"
 aliases:
   - "NPC Advisory Opinion No. 2019-051"
   - "npc advisory opinion no. 2019-051"

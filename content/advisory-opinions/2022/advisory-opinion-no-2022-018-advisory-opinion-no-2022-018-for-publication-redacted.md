@@ -12,6 +12,17 @@ tags:
   - year/2022
   - topic/consent
   - topic/data-subject-rights
+official_tags:
+  - "Philippine Identification System Act"
+  - "PhilSys Act"
+  - "PhilSys"
+  - "national ID"
+  - "identification system"
+  - "rights of data subjects"
+  - "right to object"
+  - "right to erasure"
+  - "right to deletion"
+  - "lawful criteria for processing"
 date: "2022-09-20"
 draft: false
 ---

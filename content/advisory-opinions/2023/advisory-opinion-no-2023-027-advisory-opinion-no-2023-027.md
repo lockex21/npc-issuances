@@ -7,6 +7,10 @@ tags:
   - year/2023
   - topic/data-sharing
   - topic/employment
+official_tags:
+  - "Personal information controller"
+  - "obligations"
+  - "data sharing"
 aliases:
   - "NPC Advisory Opinion No. 2023-027"
   - "npc advisory opinion no. 2023-027"

@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2024"
+official_tags:
+  - "Foreign jurisdiction"
+  - "special cases"
+  - "legitimate purpose"
+  - "lawful processing"
 date: "2024-12-26"
 draft: false
 aliases:

@@ -11,6 +11,12 @@ tags:
   - "audit-function"
   - "security-measures"
   - "topic/data-sharing"
+official_tags:
+  - "processing"
+  - "personal data"
+  - "mandate"
+  - "audit function"
+  - "security measures"
 date: "2025-03-20"
 draft: false
 aliases:

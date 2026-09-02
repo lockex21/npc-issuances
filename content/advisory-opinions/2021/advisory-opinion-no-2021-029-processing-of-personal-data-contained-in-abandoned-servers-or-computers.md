@@ -5,6 +5,12 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+official_tags:
+  - "criteria for lawful processing of personal and sensitive personal information"
+  - "personal information controller"
+  - "accountability"
+  - "retention"
+  - "compliance"
 date: "2021-07-30"
 draft: false
 aliases:

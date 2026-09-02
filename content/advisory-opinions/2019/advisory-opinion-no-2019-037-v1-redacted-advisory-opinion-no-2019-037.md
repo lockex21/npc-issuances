@@ -6,6 +6,16 @@ tags:
   - "type/advisory-opinion"
   - "year/2019"
   - "topic/government"
+official_tags:
+  - "scope"
+  - "special cases"
+  - "Personal Data Sheet"
+  - "Executive Order No. 2"
+  - "NPC Advisory No. 2017-02"
+  - "right to privacy"
+  - "right to information"
+  - "information of public concern"
+  - "lawful processing"
 date: "2019-08-08"
 draft: false
 aliases:

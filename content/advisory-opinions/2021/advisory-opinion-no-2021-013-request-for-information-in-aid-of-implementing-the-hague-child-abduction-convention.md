@@ -9,6 +9,14 @@ tags:
   - "topic/data-sharing"
   - "topic/data-subject-rights"
   - "topic/government"
+official_tags:
+  - "Hague Child Abduction Convention"
+  - "Department of Justice"
+  - "mandate"
+  - "lawful criteria for processing"
+  - "general data privacy principles"
+  - "data subject rights"
+  - "data sharing"
 aliases:
   - "NPC Advisory Opinion No. 2021-013"
   - "npc advisory opinion no. 2021-013"

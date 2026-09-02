@@ -5,6 +5,15 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2021"
+official_tags:
+  - "disclosure of academic records"
+  - "sensitive personal information"
+  - "special cases"
+  - "administrative and criminal complaints"
+  - "Section 13 (f)"
+  - "legitimacy"
+  - "proportionality"
+  - "necessity"
 date: "2021-12-29"
 draft: false
 aliases:

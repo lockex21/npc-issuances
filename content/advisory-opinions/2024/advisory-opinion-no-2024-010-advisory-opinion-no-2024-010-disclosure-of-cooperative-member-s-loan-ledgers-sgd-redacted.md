@@ -11,6 +11,10 @@ tags:
   - "type/advisory-opinion"
   - "year/2024"
   - "topic/consent"
+official_tags:
+  - "Coop Loan ledger"
+  - "Disclosure"
+  - "Lawful processing"
 date: "2024-09-30"
 draft: false
 ---

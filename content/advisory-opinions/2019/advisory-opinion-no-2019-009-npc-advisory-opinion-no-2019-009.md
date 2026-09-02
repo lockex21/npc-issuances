@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+official_tags:
+  - "Scope"
+  - "exemption"
+  - "special cases"
+  - "registration of data processing systems"
 date: "2019-01-14"
 draft: false
 aliases:

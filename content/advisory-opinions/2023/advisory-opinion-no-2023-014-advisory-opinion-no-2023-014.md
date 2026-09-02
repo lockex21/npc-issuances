@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2023"
+official_tags:
+  - "Lawful Processing"
+  - "Contractual Obligation"
+  - "Legitimate Interest"
+  - "Accountability"
 date: "2023-06-21"
 draft: false
 aliases:

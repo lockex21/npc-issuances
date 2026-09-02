@@ -13,6 +13,13 @@ tags:
   - topic/cctv-surveillance
   - topic/legitimate-interest
   - topic/security
+official_tags:
+  - "body-worn cameras"
+  - "lawful processing of personal information"
+  - "general data privacy principles"
+  - "transparency"
+  - "proportionality"
+  - "privacy notice"
 date: "2022-09-21"
 draft: false
 ---

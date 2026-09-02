@@ -5,6 +5,11 @@ tags:
   - "issuance"
   - "type/advisory-opinion"
   - "year/2020"
+official_tags:
+  - "informational privacy"
+  - "disclosure of personal data"
+  - "writ of habeas data"
+  - "admissibility of evidence"
 date: "2020-11-04"
 draft: false
 ---

@@ -6,6 +6,11 @@ tags:
   - type/advisory-opinion
   - year/2020
   - topic/data-subject-rights
+official_tags:
+  - "personal information controller"
+  - "personal information processor"
+  - "health information"
+  - "electronic medical record"
 aliases:
   - "NPC Advisory Opinion No. 2020-009"
   - "npc advisory opinion no. 2020-009"

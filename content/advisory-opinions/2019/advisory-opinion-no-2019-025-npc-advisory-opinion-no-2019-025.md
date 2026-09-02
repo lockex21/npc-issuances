@@ -5,6 +5,11 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2019
+official_tags:
+  - "personal information"
+  - "criteria for lawful processing"
+  - "legal obligation"
+  - "Revised Corporation Code"
 date: "2019-05-07"
 draft: false
 aliases:
