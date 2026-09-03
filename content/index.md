@@ -42,6 +42,7 @@ The documents other pages in this wiki cite most often:
 
 ## Explore
 - [[topics/index|Topics]] — thematic groupings across all document types
+- [[tags/opinion|Official advisory-opinion tags]] — exact PDF-assigned keywords, consolidated for browsing
 - [[relationships/index|Reference map]] — which documents cite which, and how often
 
 Official source index: https://privacy.gov.ph/pips-and-pics/advisories-circulars/

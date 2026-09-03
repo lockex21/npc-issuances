@@ -143,7 +143,7 @@ npx quartz build --serve
 
 Open `http://localhost:8080/`.
 
-On advisory-opinion pages, the exact PDF terms appear under **Official opinion tags**. They are included in ordinary search results, and each chip opens the corresponding filtered tag page.
+On advisory-opinion pages, the exact PDF terms appear under **Official opinion tags**. They are included in ordinary search results, and each chip opens the corresponding filtered tag page. The homepage also links to an alphabetical directory that consolidates capitalization variants while preserving each PDF's exact wording on its opinion page.
 
 ## Notes
 

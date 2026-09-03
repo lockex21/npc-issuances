@@ -127,6 +127,13 @@ describe("transforms", () => {
     )
   })
 
+  test("slugOfficialOpinionTag", () => {
+    assert.strictEqual(path.slugOfficialOpinionTag("Consent"), "consent")
+    assert.strictEqual(path.slugOfficialOpinionTag("consent"), "consent")
+    assert.strictEqual(path.slugOfficialOpinionTag("Lawful Processing"), "lawful-processing")
+    assert.strictEqual(path.slugOfficialOpinionTag("Section 13(f)"), "section-13(f)")
+  })
+
   test("transformInternalLink", () => {
     asserts(
       [

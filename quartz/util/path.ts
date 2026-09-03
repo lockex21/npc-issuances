@@ -189,6 +189,10 @@ export function slugTag(tag: string) {
     .join("/")
 }
 
+export function slugOfficialOpinionTag(tag: string) {
+  return slugTag(tag).toLowerCase()
+}
+
 export function joinSegments(...args: string[]): string {
   if (args.length === 0) {
     return ""

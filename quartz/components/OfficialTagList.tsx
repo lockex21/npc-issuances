@@ -1,4 +1,4 @@
-import { FullSlug, resolveRelative, slugTag } from "../util/path"
+import { FullSlug, resolveRelative, slugOfficialOpinionTag } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
@@ -16,7 +16,7 @@ const OfficialTagList: QuartzComponent = ({ fileData, displayClass }: QuartzComp
         {tags.map((tag) => {
           const linkDest = resolveRelative(
             fileData.slug!,
-            `tags/opinion/${slugTag(tag)}` as FullSlug,
+            `tags/opinion/${slugOfficialOpinionTag(tag)}` as FullSlug,
           )
           return (
             <li>

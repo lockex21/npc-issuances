@@ -1274,6 +1274,7 @@ def build_content_tree(records: list[Issuance], *, write_record_pages: bool = Tr
         "",
         "## Explore",
         "- [[topics/index|Topics]] — thematic groupings across all document types",
+        "- [[tags/opinion|Official advisory-opinion tags]] — exact PDF-assigned keywords, consolidated for browsing",
         "- [[relationships/index|Reference map]] — which documents cite which, and how often",
         "",
         f"Official source index: {SOURCE_URL}",
