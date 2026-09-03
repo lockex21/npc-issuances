@@ -15,6 +15,7 @@ tags:
   - "topic/consent"
   - "topic/data-sharing"
   - "topic/data-subject-rights"
+date: "2023-12-07"
 draft: false
 ---
 

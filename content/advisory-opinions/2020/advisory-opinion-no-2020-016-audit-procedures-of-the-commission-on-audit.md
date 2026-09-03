@@ -10,6 +10,7 @@ aliases:
   - "npc advisory opinion no. 2020-016"
   - "Advisory Opinion No. 2020-016"
   - "advisory opinion no. 2020-016"
+date: "2020-03-12"
 draft: false
 ---
 
@@ -25,7 +26,7 @@ draft: false
 
 12 March 2020
 
-   Re:      AUDIT PROCEDURES OF THE COMMISSION ON AUDIT
+Re: AUDIT PROCEDURES OF THE COMMISSION ON AUDIT
 
 Dear [Redacted],
 
@@ -57,13 +58,9 @@ On the other hand, the foregoing does not relieve the COA, as a personal informa
 
 As your office correctly pointed out, the COA must still abide by the general data privacy principles provided under the DPA and its IRR, particularly the principle of proportionality. This means that in the processing of personal data, the COA must see to it that the personal data collected and processed shall be adequate, relevant, suitable, necessary, and not excessive in relation to its declared and specified purpose, and that personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.[^8] Thus, the methods to be used in conducting audits may be further assessed if the same are proportional methods vis-à-vis the purposes as well as risks these may pose.
 
-Nonetheless, we trust that the COA, as a PIC, is aware of its obligations under the DPA, its
-IRR, and issuances of the NPC, specifically [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security of Personal
-Data in Government Agencies, which includes the implementation of physical, organizational
-and technical security measures for the protection of personal data, among others, and [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] on Personal Data Breach Management.
+Nonetheless, we trust that the COA, as a PIC, is aware of its obligations under the DPA, its IRR, and issuances of the NPC, specifically [[issuances/undated/security-of-personal-data-in-government-agencies|NPC Circular No. 16-01]] on the Security of Personal Data in Government Agencies, which includes the implementation of physical, organizational and technical security measures for the protection of personal data, among others, and [[issuances/undated/personal-data-breach-management|NPC Circular No. 16-03]] on Personal Data Breach Management.
 
-This opinion is rendered based on the information you have provided. Additional information
-may change the context of the inquiry and the appreciation of the facts.
+This opinion is rendered based on the information you have provided. Additional information may change the context of the inquiry and the appreciation of the facts.
 
 For your reference.
 

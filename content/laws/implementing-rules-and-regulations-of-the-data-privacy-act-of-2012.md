@@ -19,6 +19,7 @@ tags:
   - "topic/government"
   - "topic/registration"
   - "topic/security"
+date: "2016-08-24"
 draft: false
 ---
 

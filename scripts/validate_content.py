@@ -19,6 +19,12 @@ CONTENT_PATH_KEYS = ("content_path", "markdown_path", "notes_path", "source_note
 RECORD_LIST_KEYS = ("records", "issuances", "orders", "decisions", "resolutions")
 SKIP_MARKDOWN_NAMES = {".cleanup-log.md", "_cleanup-log.md"}
 UNPUBLISHED_CONTENT_PREFIXES = ("notes/", "sources/")
+CORPUS_FOLDERS = ("advisory-opinions", "decisions", "resolutions", "orders", "issuances")
+UNDATED_FOLDER_NAME = "undated"
+INDEX_MARKDOWN_NAME = "index.md"
+OBSIDIAN_FOLDER_NAME = ".obsidian"
+CLEANUP_STATE_NAME = ".cleanup-state.json"
+CLEANUP_STATE_WRAPPER_KEY = "files"
 
 FRONTMATTER_RE = re.compile(r"\A---\n(?P<body>.*?)(?:\n---\n|\n---\Z)", re.DOTALL)
 WIKILINK_RE = re.compile(r"(?<!!)\[\[(?P<body>[^\]\n]+)\]\]")
@@ -45,6 +51,7 @@ class Stats:
     markdown_files: int = 0
     data_records: int = 0
     wikilinks: int = 0
+    state_entries: int = 0
 
 
 def line_for_offset(text: str, offset: int) -> int:
@@ -96,6 +103,51 @@ def slug_for(path: Path) -> str:
 def is_unpublished_content(path: Path) -> bool:
     slug = slug_for(path)
     return slug.startswith(UNPUBLISHED_CONTENT_PREFIXES)
+
+
+# Documents with no determinable issue date: none in the PDF (footer stamps are
+# template-revision artifacts) and issue_date is null in the synced index data.
+DATE_EXEMPT_SLUGS = {
+    "advisory-opinions/2025/advisory-opinion-no-2025-007-npc-advisory-opinion-no-2025-007-redacted",
+    "issuances/2020/faqs",
+    "issuances/2023/faq-prerequisites-for-the-philippine-privacy-mark-certification-program",
+    "issuances/2023/faq-security-of-personal-data-in-the-government-and-the-private-sector",
+}
+
+
+def requires_frontmatter_date(path: Path) -> bool:
+    rel_parts = path.relative_to(CONTENT_DIR).parts
+    return (
+        len(rel_parts) > 1
+        and rel_parts[0] in CORPUS_FOLDERS
+        and path.name != INDEX_MARKDOWN_NAME
+        and UNDATED_FOLDER_NAME not in rel_parts[:-1]
+        and slug_for(path) not in DATE_EXEMPT_SLUGS
+    )
+
+
+def iter_finder_duplicates() -> list[Path]:
+    matches: list[Path] = []
+    for path in CONTENT_DIR.rglob("*"):
+        rel_parts = path.relative_to(CONTENT_DIR).parts
+        if OBSIDIAN_FOLDER_NAME in rel_parts:
+            continue
+        if FINDER_DUPLICATE_RE.search(path.name):
+            matches.append(path)
+    return sorted(matches)
+
+
+def iter_cleanup_state_files() -> list[Path]:
+    return sorted(CONTENT_DIR.rglob(CLEANUP_STATE_NAME))
+
+
+def load_state_entries(payload: Any) -> dict[str, Any]:
+    if not isinstance(payload, dict):
+        return {}
+    wrapped = payload.get(CLEANUP_STATE_WRAPPER_KEY)
+    if isinstance(wrapped, dict):
+        return wrapped
+    return payload
 
 
 def build_slug_index(markdown_files: list[Path]) -> tuple[set[str], set[str]]:
@@ -197,6 +249,16 @@ def validate_frontmatter(path: Path, text: str, issues: list[Issue]) -> None:
         issues.append(Issue("markdown.title", path, "frontmatter is missing title"))
 
 
+def validate_frontmatter_date(path: Path, text: str, issues: list[Issue]) -> None:
+    if not requires_frontmatter_date(path):
+        return
+    match = FRONTMATTER_RE.match(text)
+    if not match:
+        return
+    if not re.search(r"(?m)^date:\s*.+", match.group("body")):
+        issues.append(Issue("markdown.date", path, "frontmatter is missing date"))
+
+
 def validate_manual_markers(path: Path, text: str, issues: list[Issue]) -> None:
     stack: list[tuple[str, int]] = []
     events: list[tuple[int, str, str]] = []
@@ -289,8 +351,44 @@ def validate_markdown_files(
     for path in markdown_files:
         text = path.read_text(encoding="utf-8", errors="replace")
         validate_frontmatter(path, text, issues)
+        validate_frontmatter_date(path, text, issues)
         validate_manual_markers(path, text, issues)
         validate_wikilinks(path, text, slugs, basenames, issues, stats)
+
+
+def validate_finder_duplicates(issues: list[Issue]) -> None:
+    for path in iter_finder_duplicates():
+        kind = "directory" if path.is_dir() else "file"
+        issues.append(
+            Issue(
+                "content.finder-duplicate",
+                path,
+                f"Finder/iCloud sync duplicate {kind}; delete it from the working copy",
+            )
+        )
+
+
+def validate_cleanup_state(issues: list[Issue], stats: Stats) -> None:
+    for path in iter_cleanup_state_files():
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as exc:
+            message = exc.msg if isinstance(exc, json.JSONDecodeError) else str(exc)
+            line = exc.lineno if isinstance(exc, json.JSONDecodeError) else None
+            issues.append(Issue("state.invalid-json", path, message, line))
+            continue
+
+        entries = load_state_entries(payload)
+        stats.state_entries += len(entries)
+        for name in sorted(entries):
+            if not (path.parent / name).is_file():
+                issues.append(
+                    Issue(
+                        "state.ghost-entry",
+                        path,
+                        f"entry has no matching file in this folder: {name}",
+                    )
+                )
 
 
 def main() -> int:
@@ -300,6 +398,8 @@ def main() -> int:
 
     validate_data_files(issues, stats, set(markdown_files))
     validate_markdown_files(issues, stats, markdown_files)
+    validate_finder_duplicates(issues)
+    validate_cleanup_state(issues, stats)
 
     if issues:
         counts = Counter(issue.code for issue in issues)
@@ -318,7 +418,8 @@ def main() -> int:
         "Content validation passed: "
         f"{stats.markdown_files} markdown files, "
         f"{stats.wikilinks} wikilinks, "
-        f"{stats.data_records} data records."
+        f"{stats.data_records} data records, "
+        f"{stats.state_entries} cleanup-state entries."
     )
     return 0
 
