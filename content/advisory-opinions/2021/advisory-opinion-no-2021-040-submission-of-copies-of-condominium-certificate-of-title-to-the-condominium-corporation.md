@@ -10,9 +10,7 @@ official_tags:
   - "Condominium Certificate of Title"
   - "lawful processing"
   - "consent"
-  - "establishment"
-  - "exercise"
-  - "or defense of legal claims"
+  - "establishment, exercise, or defense of legal claims"
   - "general data privacy principles"
   - "proportionality"
   - "privacy impact assessment"
@@ -30,7 +28,7 @@ aliases:
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2022/01/Redacted-Advisory-Opinion-No.-2021-040.pdf
 - Issue date: 11/08/2021
 - Subject: Submission Of Copies Of Condominium Certificate Of Title To The Condominium Corporation
-- Tags: Condominium certificate of title; lawful processing; consent; establishment; exercise; or defense of legal claims; general data privacy principles; proportionality; privacy impact assessment
+- Tags: Condominium Certificate of Title; lawful processing; consent; establishment, exercise, or defense of legal claims; general data privacy principles; proportionality; privacy impact assessment
 - OCR used during extraction: no
 
 ## Text

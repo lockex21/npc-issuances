@@ -15,6 +15,7 @@ official_tags:
   - "GPS devices"
   - "real-time tracking"
   - "proportionality"
+date: "2021-06-25"
 draft: false
 ---
 
@@ -34,12 +35,9 @@ draft: false
 
 Dear [Redacted],
 
-We write in response to your request for advisory opinion received by the National Privacy
-Commission (NPC) to provide guidance on the legality of the installation of global positioning
-systems (GPS) tracker in your motorcycle units considering the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
+We write in response to your request for advisory opinion received by the National Privacy Commission (NPC) to provide guidance on the legality of the installation of global positioning systems (GPS) tracker in your motorcycle units considering the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^2] (DPA).
 
-Further, '''''''''''''''''' '''''''''''''''''''' seeks to implement the following privacy safeguards in case the
-installation of GPS trackers is allowed:
+Further, '''''''''''''''''' '''''''''''''''''''' seeks to implement the following privacy safeguards in case the installation of GPS trackers is allowed:
 
 - Only the CEO, COO and IT Department will be given the administrative access rights to the said GPS Portal;
 - Viewing/review access to the GPS portal will only be given when there is an urgent requirement and justifications approved by the CEO, COO and Audit Head;
@@ -49,8 +47,7 @@ installation of GPS trackers is allowed:
 - Most importantly, '''''''''''''''''' ''''''''''''''''' will require the lessee or borrower/mortgagor to provide his/her express consent to the installation and continuous operation of the GPS device on his/her motorcycle; and
 - The GPS device will be uninstalled or removed when the motorcycle has been returned/surrendered to the company or when the loan is fully paid.
 
-Thus, you now seek guidance on the legality and propriety of installing and using GPS devices
-in rented and collateralized units.
+Thus, you now seek guidance on the legality and propriety of installing and using GPS devices in rented and collateralized units.
 
 ### Discussion
 
@@ -62,8 +59,7 @@ Under the DPA, the processing of personal information shall be allowed upon comp
 
 The principle of proportionality dictates that the processing of personal data shall be adequate, relevant, suitable, necessary, and not excessive in relation to a declared and specified purpose.[^4] Furthermore, personal data shall be processed only if the purpose of the processing could not reasonably be fulfilled by other means.[^5]
 
-We note that the purpose sought by '''''''''''''''''' ''''''''''''''''' is to prevent or deter the loss or theft of the motorcycles it has for rent or on loan may initially be seen as legitimate. However, this must be scrutinized against the possible violation of the individual’s privacy and threats to
-security.
+We note that the purpose sought by '''''''''''''''''' ''''''''''''''''' is to prevent or deter the loss or theft of the motorcycles it has for rent or on loan may initially be seen as legitimate. However, this must be scrutinized against the possible violation of the individual’s privacy and threats to security.
 
 It is worth noting that ''''''''''''''''' ''''''''''''''''', being a finance corporation, would already have in place proper procedures in the provision of motorcycles on rent or collateral, including KYC or Know-Your-Customer requirements or applications requiring the disclosure of personal data by the client. Likewise, it is of common knowledge that this type of service requires the company and the client to come under a contractual agreement that would have provisions on penalties in case of default on loan payments or in cases of theft or loss of the vehicle.
 

@@ -8,9 +8,7 @@ tags:
   - "topic/legitimate-interest"
 official_tags:
   - "Registry of Deeds"
-  - "Sec. 12(f)"
-  - "13(f)"
-  - "DPA"
+  - "Sec. 12(f), 13(f), DPA"
   - "Legal claims"
   - "Right to access"
 date: "2025-09-25"

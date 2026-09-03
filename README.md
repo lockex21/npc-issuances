@@ -65,7 +65,7 @@ Run the repo checks:
 npm run check
 ```
 
-This runs TypeScript and code formatting checks, validates the corpus with `scripts/validate_content.py`, and verifies that PDF-derived advisory-opinion tags are synchronized with the JSON data and Markdown frontmatter.
+This runs TypeScript and code formatting checks, validates the corpus with `scripts/validate_content.py`, and verifies that PDF-derived advisory-opinion tags are synchronized with the JSON data and Markdown frontmatter. The content validator checks tracked JSON paths, internal wikilinks, frontmatter (including a `date` on every corpus issuance), generated/manual block markers, Finder/iCloud sync duplicates left in the working copy, and cleanup-state files for invalid JSON or entries pointing at files that are no longer there.
 
 Run only the corpus validator:
 

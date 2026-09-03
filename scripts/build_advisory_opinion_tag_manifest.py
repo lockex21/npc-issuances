@@ -40,6 +40,23 @@ PLACEHOLDER_RE = re.compile(r"topics related.*separated by commas", re.IGNORECAS
 # word "Tags" before footnote 1; others have an image-only first page that the
 # corpus-wide pdftotext pass could not read.
 PDF_VERIFIED_OVERRIDES: dict[str, list[str]] = {
+    # Commas are part of the middle tag; semicolons separate the printed tags.
+    "Advisory Opinion No. 2021-033": [
+        "sensitive personal information",
+        "anti-fraud campaign, training, and awareness",
+        "internal disclosure of sensitive personal information",
+        "proportionality",
+    ],
+    # Commas are part of one legal-claims tag; semicolons separate the printed tags.
+    "Advisory Opinion No. 2021-040": [
+        "Condominium Certificate of Title",
+        "lawful processing",
+        "consent",
+        "establishment, exercise, or defense of legal claims",
+        "general data privacy principles",
+        "proportionality",
+        "privacy impact assessment",
+    ],
     "Advisory Opinion No. 2021-043": [
         "data sharing",
         "data sharing agreement",
@@ -48,12 +65,20 @@ PDF_VERIFIED_OVERRIDES: dict[str, list[str]] = {
         "consent",
         "statistics",
     ],
+    # The comma joins a single legal-claims tag in the printed footnote.
     "Advisory Opinion No. 2022-003": [
         "sensitive personal information",
         "lawful processing",
         "protection of lawful rights and interest of natural or legal persons in court proceedings",
-        "establishment",
-        "exercise or defense of legal claims",
+        "establishment, exercise or defense of legal claims",
+    ],
+    # The comma joins a single legal-claims tag in the printed footnote.
+    "Advisory Opinion No. 2022-005": [
+        "lawful processing",
+        "consent",
+        "legitimate interest",
+        "protection of lawful rights and interest of natural or legal persons in court proceedings",
+        "establishment, exercise or defense of legal claims",
     ],
     "Advisory Opinion No. 2022-010": ["Consent"],
     "Advisory Opinion No. 2022-015": [
@@ -61,6 +86,24 @@ PDF_VERIFIED_OVERRIDES: dict[str, list[str]] = {
         "statutory mandate",
         "photographs",
         "taking of videos",
+    ],
+    # The comma is internal to one statutory-citation tag.
+    "Advisory Opinion No. 2022-017": [
+        "personal data",
+        "lawful processing",
+        "consent of data subjects",
+        "legal claims",
+        "Sec. 13 (f), DPA",
+    ],
+    # The citation wraps onto a second PDF line and is one complete tag.
+    "Advisory Opinion No. 2022-028": [
+        "cancellation of title",
+        "lis pendens",
+        "tax declaration",
+        "certificate of title",
+        "tax clearance",
+        "establishment of legal claims",
+        "Section 13 (f)",
     ],
     "Advisory Opinion No. 2023-004": [
         "subscriber records",
@@ -157,6 +200,13 @@ PDF_VERIFIED_OVERRIDES: dict[str, list[str]] = {
         "Section 13(f) DP",
         "disciplinary proceedings",
         "reasonable expectation of privacy",
+    ],
+    # The statutory citations and statute abbreviation form one printed tag.
+    "Advisory Opinion No. 2025-012": [
+        "Registry of Deeds",
+        "Sec. 12(f), 13(f), DPA",
+        "Legal claims",
+        "Right to access",
     ],
     "Advisory Opinion No. 2025-017": [
         "academic records",

@@ -18,7 +18,7 @@ official_tags:
   - "certificate of title"
   - "tax clearance"
   - "establishment of legal claims"
-  - "Section"
+  - "Section 13 (f)"
 date: "2022-12-29"
 draft: false
 ---
@@ -27,7 +27,7 @@ draft: false
 - Reference: Advisory Opinion No. 2022-028
 - Official PDF: https://privacy.gov.ph/wp-content/uploads/2023/09/Advisory-Opinion-No.-2022-028-7ec6e1d6f1.pdf
 - Issue date: 12/29/2022
-- Tags: cancellation of title, lis pendens, tax declaration, certificate of title, tax clearance, establishment of legal claims, Section 13(f)
+- Tags: cancellation of title, lis pendens, tax declaration, certificate of title, tax clearance, establishment of legal claims, Section 13 (f)
 - OCR used during extraction: no
 
 ## Text

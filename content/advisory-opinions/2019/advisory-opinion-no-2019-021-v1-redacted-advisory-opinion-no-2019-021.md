@@ -9,6 +9,7 @@ tags:
 official_tags:
   - "Data Privacy Officer"
   - "Data Privacy Principles"
+date: "2019-03-19"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2019-021"
@@ -65,8 +66,7 @@ Considering also that the DPO is the contact person of the NPC, having a local m
 
 While a non-resident individual may be assigned as a DPO, note that each entity that forms part of a group of companies is treated separately and is considered as a PIC or PIP in its own right.[^3] Thus, each PIC or PIP must designate a DPO as prescribed by law.
 
-In addition, while a group of related companies may appoint or designate the DPO of one of its members to be primarily accountable for ensuring the compliance of the entire group with all data protection policies, such appointment is still subject to the approval of the NPC and, if so allowed, the other members of the group must still designate a Compliance Officer for
-Privacy (COP).
+In addition, while a group of related companies may appoint or designate the DPO of one of its members to be primarily accountable for ensuring the compliance of the entire group with all data protection policies, such appointment is still subject to the approval of the NPC and, if so allowed, the other members of the group must still designate a Compliance Officer for Privacy (COP).
 
 This opinion is based on the information you have provided. Additional information may change the context of the inquiry and the appreciation of facts.
 

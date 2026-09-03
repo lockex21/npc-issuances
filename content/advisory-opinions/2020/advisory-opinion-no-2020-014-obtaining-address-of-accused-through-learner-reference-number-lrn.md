@@ -16,6 +16,7 @@ aliases:
   - "npc advisory opinion no. 2020-014"
   - "Advisory Opinion No. 2020-014"
   - "advisory opinion no. 2020-014"
+date: "2020-02-24"
 draft: false
 ---
 
@@ -31,36 +32,28 @@ draft: false
 
 24 February 2020
 
-   Re: OBTAINING ADDRESS OF ACCUSED THROUGH LEARNER
-                         REFERENCE NUMBER (LRN)
+Re: OBTAINING ADDRESS OF ACCUSED THROUGH LEARNER REFERENCE NUMBER (LRN)
 
 Dear [Redacted],
 
 We write in response to your inquiry received by the National Privacy Commission (NPC) seeking clarification on the disclosure of the present address of certain individuals who are the accused in an ongoing criminal case through the Learner Reference Numbers (LRNs) of their children.
 
-We understand that your Office received an Indorsement from the Department of Education (DepEd) Office of the Assistant Secretary for Legal Affairs relative to the letter of one of the two complainants in a pending criminal case for estafa. In his letter, the complainant requested for the present address of the accused spouses in the criminal case currently with Branch 58 of the
-Regional Trial Court (RTC) in Angeles City.
+We understand that your Office received an Indorsement from the Department of Education (DepEd) Office of the Assistant Secretary for Legal Affairs relative to the letter of one of the two complainants in a pending criminal case for estafa. In his letter, the complainant requested for the present address of the accused spouses in the criminal case currently with Branch 58 of the Regional Trial Court (RTC) in Angeles City.
 
-We further understand that the present address is expected to be obtained through the LRN of the
-children of the accused, the records of which are currently in the possession of the DepEd Planning
-Division.
+We further understand that the present address is expected to be obtained through the LRN of the children of the accused, the records of which are currently in the possession of the DepEd Planning Division.
 
 The complainant attached the following in his letter request:
 
-1. Certification dated 20 August 2019 issued by the Branch Clerk of Court of Branch 58, RTC of
-   Angeles City stating to the effect that “[case title - redacted]” docketed as ''''''''''''''''''''''''''''''''''''''''''''''',
-   has been filed and raffled to this court on 15 April 2019 and a warrant of arrest has been issued
-   for the apprehension of the accused on 16 April 2019; and
-2. Copy of the Warrant of Arrest for the accused spouses issued by the Judge in Branch 58, RTC
-   of Angeles City, endorsed for immediate service and return to the following:
+1. Certification dated 20 August 2019 issued by the Branch Clerk of Court of Branch 58, RTC of Angeles City stating to the effect that “[case title - redacted]” docketed as ''''''''''''''''''''''''''''''''''''''''''''''', has been filed and raffled to this court on 15 April 2019 and a warrant of arrest has been issued for the apprehension of the accused on 16 April 2019; and
+2. Copy of the Warrant of Arrest for the accused spouses issued by the Judge in Branch 58, RTC of Angeles City, endorsed for immediate service and return to the following:
 
-   a.   The Chief of Police, Batangas City
-          b.   National Bureau of Investigation (NBI), Manila
-          c.   Director, PNP Criminal Investigation Command, Camp Crame, QC
-          d.   NBI Regional Office, San Fernando, Pampanga
-          e.   CIDG Office, Angeles City
-          f.   CIDG Pampanga
-          g.   Bureau of Immigration, Manila
+   a. The Chief of Police, Batangas City
+   b. National Bureau of Investigation (NBI), Manila
+   c. Director, PNP Criminal Investigation Command, Camp Crame, QC
+   d. NBI Regional Office, San Fernando, Pampanga
+   e. CIDG Office, Angeles City
+   f. CIDG Pampanga
+   g. Bureau of Immigration, Manila
 
 Thus, your Office now seeks clarification on the lawfulness of disclosure of the present address of the accused in relation to the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]][^1] (DPA).
 

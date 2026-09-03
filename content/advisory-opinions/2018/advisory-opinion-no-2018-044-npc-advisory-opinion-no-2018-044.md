@@ -5,6 +5,7 @@ tags:
   - issuance
   - type/advisory-opinion
   - year/2018
+date: "2018-08-07"
 draft: false
 aliases:
   - "NPC Advisory Opinion No. 2018-044"
@@ -24,23 +25,17 @@ aliases:
 
 7 August 2018
 
-RE: REQUEST FOR INFORMATION FROM RIZAL MEDICAL CENTER
+**RE: REQUEST FOR INFORMATION FROM RIZAL MEDICAL CENTER**
 
 Dear [Redacted],
 
-We write in response to your email dated 3 August 2018 received by the National Privacy
-Commission (NPC), attaching a handwritten request for advisory opinion on the above captioned
-matter, specifically, on the request addressed to Rizal Medical Center (RMC) to release the
-following information:
+We write in response to your email dated 3 August 2018 received by the National Privacy Commission (NPC), attaching a handwritten request for advisory opinion on the above captioned matter, specifically, on the request addressed to Rizal Medical Center (RMC) to release the following information:
 
-   1. Actual date/time of alcohol test conducted;
-       2. Actual date/time of drug test conducted; and
-       3. Names of doctors/lab personnel for tests.
+1. Actual date/time of alcohol test conducted;
+2. Actual date/time of drug test conducted; and
+3. Names of doctors/lab personnel for tests.
 
-This is also with reference to the previous report dated 17 July 2018 sent by the Contact Center
-ng Bayan of the Civil Service Commission (CSC) through email. Said report (Request for
-Assistance – For Immediate Action) provided details on your letter request dated 20 June 2018
-addressed to the RMC for “an Official Copy of the Alcohol and Drug Test Results” of a certain
+This is also with reference to the previous report dated 17 July 2018 sent by the Contact Center ng Bayan of the Civil Service Commission (CSC) through email. Said report (Request for Assistance – For Immediate Action) provided details on your letter request dated 20 June 2018 addressed to the RMC for “an Official Copy of the Alcohol and Drug Test Results” of a certain [Redacted], and the RMC’s letter reply dated 6 July 2018.
 
 We understand that the RMC denied the request on the basis of patient confidentiality and the provisions of the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] (DPA).[^1]
 
@@ -50,9 +45,7 @@ We understand that the RMC denied the request on the basis of patient confidenti
 
 The NPC has been requested to issue an advisory opinion on whether a hospital can disclose the fact that diagnostic exams or chemical tests have been performed on an individual in the health facility. In this particular case, a third party asks a public hospital to disclose whether an alleged suspect in a vehicular accident, reported to have resulted in the loss of human life, had an alcohol test or drug test performed in the health facility. It is not clear whether the alleged suspect is a patient of the facility, and whether cases have been brought against him.
 
-For purposes of this advisory opinion, we took note of the letter of the RMC addressed to the requesting party. This letter was received by NPC from the CSC on July 17, 2018. The said letter informed the requesting party that the hospital “cannot release or share medical records because we are bound by patient confidentiality and provisions of RA No. 10173 or the Data Privacy Act.”
-This letter is considered in addition to the information provided by requesting party through
-telephone conversations.
+For purposes of this advisory opinion, we took note of the letter of the RMC addressed to the requesting party. This letter was received by NPC from the CSC on July 17, 2018. The said letter informed the requesting party that the hospital “cannot release or share medical records because we are bound by patient confidentiality and provisions of RA No. 10173 or the Data Privacy Act.” This letter is considered in addition to the information provided by requesting party through telephone conversations.
 
 Based on the present inquiry, the information on the alcohol test or drug test is being requested for the purpose of finding out if the provisions of R.A. No. 10586[^2] have been complied with. The relevant provisions in the said law are:
 

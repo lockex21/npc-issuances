@@ -5591,9 +5591,7 @@
       "tags": "Sensitive personal information; anti-fraud campaign; training; and awareness; internal disclosure of sensitive personal information; proportionality",
       "official_tags": [
         "sensitive personal information",
-        "anti-fraud campaign",
-        "training",
-        "and awareness",
+        "anti-fraud campaign, training, and awareness",
         "internal disclosure of sensitive personal information",
         "proportionality"
       ]
@@ -5754,9 +5752,7 @@
         "Condominium Certificate of Title",
         "lawful processing",
         "consent",
-        "establishment",
-        "exercise",
-        "or defense of legal claims",
+        "establishment, exercise, or defense of legal claims",
         "general data privacy principles",
         "proportionality",
         "privacy impact assessment"
@@ -5955,8 +5951,7 @@
         "sensitive personal information",
         "lawful processing",
         "protection of lawful rights and interest of natural or legal persons in court proceedings",
-        "establishment",
-        "exercise or defense of legal claims"
+        "establishment, exercise or defense of legal claims"
       ]
     },
     {
@@ -6002,8 +5997,7 @@
         "consent",
         "legitimate interest",
         "protection of lawful rights and interest of natural or legal persons in court proceedings",
-        "establishment",
-        "exercise or defense of legal claims"
+        "establishment, exercise or defense of legal claims"
       ]
     },
     {
@@ -6200,8 +6194,7 @@
         "lawful processing",
         "consent of data subjects",
         "legal claims",
-        "Sec. 13 (f)",
-        "DPA"
+        "Sec. 13 (f), DPA"
       ]
     },
     {
@@ -6476,7 +6469,7 @@
         "certificate of title",
         "tax clearance",
         "establishment of legal claims",
-        "Section"
+        "Section 13 (f)"
       ]
     },
     {
@@ -7752,9 +7745,7 @@
       "tags": "",
       "official_tags": [
         "Registry of Deeds",
-        "Sec. 12(f)",
-        "13(f)",
-        "DPA",
+        "Sec. 12(f), 13(f), DPA",
         "Legal claims",
         "Right to access"
       ]
