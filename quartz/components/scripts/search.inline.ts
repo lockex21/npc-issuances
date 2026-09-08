@@ -216,6 +216,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   const enablePreview = searchLayout.dataset.preview === "true"
   let preview: HTMLDivElement | undefined = undefined
   let previewInner: HTMLDivElement | undefined = undefined
+  let previewRequestId = 0
   const results = document.createElement("div")
   results.className = "results-container"
   appendLayout(results)
@@ -227,6 +228,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   }
 
   function hideSearch() {
+    previewRequestId++
     container.classList.remove("active")
     container.setAttribute("aria-hidden", "true")
     searchButton.setAttribute("aria-expanded", "false")
@@ -448,10 +450,20 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   async function displayPreview(el: HTMLElement | null) {
     if (!searchLayout || !enablePreview || !el || !preview) return
+    const requestId = ++previewRequestId
+    const searchTerm = currentSearchTerm
     const slug = el.id as FullSlug
-    const innerDiv = await fetchContent(slug).then((contents) =>
-      contents.flatMap((el) => [...highlightHTML(currentSearchTerm, el as HTMLElement).children]),
-    )
+    const contents = await fetchContent(slug)
+    if (
+      requestId !== previewRequestId ||
+      !container.classList.contains("active") ||
+      !results.contains(el)
+    ) {
+      return
+    }
+    const innerDiv = contents.flatMap((el) => [
+      ...highlightHTML(searchTerm, el as HTMLElement).children,
+    ])
     previewInner = document.createElement("div")
     previewInner.classList.add("preview-inner")
     previewInner.append(...innerDiv)
@@ -461,11 +473,22 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     const highlights = [...preview.getElementsByClassName("highlight")].sort(
       (a, b) => b.innerHTML.length - a.innerHTML.length,
     )
-    highlights[0]?.scrollIntoView({ block: "start" })
+    // Scroll only the preview. scrollIntoView also moves the surrounding dialog,
+    // which shifts the result cards under the pointer and triggers another hover.
+    const highlight = highlights[0]
+    const top = highlight
+      ? preview.scrollTop +
+        highlight.getBoundingClientRect().top -
+        preview.getBoundingClientRect().top -
+        preview.clientTop -
+        parseFloat(getComputedStyle(highlight).scrollMarginTop || "0")
+      : 0
+    preview.scrollTo({ top, behavior: "instant" })
   }
 
   async function onType(e: HTMLElementEventMap["input"]) {
     if (!searchLayout || !index) return
+    previewRequestId++
     currentSearchTerm = (e.target as HTMLInputElement).value
     searchLayout.classList.toggle("display-results", currentSearchTerm !== "")
     searchType = currentSearchTerm.startsWith("#") ? "tags" : "basic"
