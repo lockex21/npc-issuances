@@ -91,6 +91,14 @@ Full refresh:
 python3 scripts/build_npc_site.py all --refresh
 ```
 
+Import only newly published decisions and resolutions, preserving existing records and edited pages:
+
+```bash
+python3 scripts/build_npc_decisions_resolutions.py all --new-only --refresh
+```
+
+`--new-only` reuses existing JSON records and fetches only new document text. Combined with `--refresh`, it refreshes the official indexes without fetching old documents again. Review the new pages against their PDFs, especially their issue dates, before publishing.
+
 Build decisions and resolutions:
 
 ```bash

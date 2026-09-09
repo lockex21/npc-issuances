@@ -9,10 +9,10 @@ Auto-generated topic cluster for **Fees And Payments**, covering the full corpus
 ## Issuances
 - [[issuances/2024/online-payment|Advisory]]
 - [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure of the NPC, as Amended (Current Version)]]
+- [[issuances/undated/faq-data-privacy-competency-program|Circular on Data Privacy Competency Program]]
 - [[issuances/2023/schedule-of-fees-and-charges-of-the-national-privacy-commission|Schedule of Fees and Charges of the National Privacy Commission (Circular No. 2023-01)]]
 - [[issuances/2021/2021-rules-of-procedure-of-the-national-privacy-commission|2021 Rules of Procedure of the National Privacy Commission (Original 2021 Version)]]
 - [[issuances/undated/rules-of-procedure|Rules of Procedure of the National Privacy Commission (Circular No. 16-04)]]
-- [[issuances/undated/faq-data-privacy-competency-program|Circular on Data Privacy Competency Program]]
 
 ## Advisory Opinions
 - [[advisory-opinions/2026/advisory-opinion-no-2026-004-npc-advisory-opinion-2026-004|NPC Advisory Opinion No. 2026-004 — Scope of Accountability and Registration in Security Incident and Personal Data Breach Reporting]]

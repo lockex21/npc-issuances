@@ -11,6 +11,7 @@ Auto-generated topic cluster for **Government**, covering the full corpus of law
 - [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (Republic Act No. 10173)]]
 
 ## Issuances
+- [[issuances/undated/public-advisory-on-online-lending-platforms-olps|Public Advisory on Online Lending Platforms (OLPs)]]
 - [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure of the NPC, as Amended (Current Version)]]
 - [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission (Circular No. 2024-01)]]
 - [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector (NPC Circular No. 2023-06)]]
@@ -27,12 +28,11 @@ Auto-generated topic cluster for **Government**, covering the full corpus of law
 - [[issuances/undated/rules-of-procedure|Rules of Procedure of the National Privacy Commission (Circular No. 16-04)]]
 - [[issuances/undated/security-of-personal-data-in-government-agencies|Security of Personal Data in Government Agencies (Circular No. 16-01)]]
 - [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies (Circular No. 16-02)]]
-- [[issuances/undated/public-advisory-on-online-lending-platforms-olps|Public Advisory on Online Lending Platforms (OLPs)]]
 
 ## Advisory Opinions
 - [[advisory-opinions/2026/advisory-opinion-no-2026-003-npc-advisory-opinion-no-2026-003-redacted|NPC Advisory Opinion No. 2026-003 — Disclosure of Landowner Names in Property Identification Maps]]
-- [[advisory-opinions/2026/advisory-opinion-no-2026-001-npc-advisory-opinion-no-2026-001|NPC Advisory Opinion No. 2026-001 — Collection of Government Employee Data by PAGCOR for Enforcement of Casino Entry Prohibition]]
 - [[advisory-opinions/2026/advisory-opinion-no-2026-002-npc-advisory-opinion-no-2026-002-redacted|Advisory Opinion No. 2026-002 — REQUESTS FOR PERSONAL DATA FROM GOVERNMENT AGENCIES]]
+- [[advisory-opinions/2026/advisory-opinion-no-2026-001-npc-advisory-opinion-no-2026-001|NPC Advisory Opinion No. 2026-001 — Collection of Government Employee Data by PAGCOR for Enforcement of Casino Entry Prohibition]]
 - [[advisory-opinions/2025/advisory-opinion-no-2025-016-npc-advisory-opinion-no-2025-016-redacted|NPC Advisory Opinion No. 2025-016 — Installation of Closed-Circuit Television (CCTV) in Local Government Unit Offices]]
 - [[advisory-opinions/2025/advisory-opinion-no-2025-011-npc-advisory-opinion-no-2025-011-redacted|NPC Advisory Opinion No. 2025-011 — Request for Documents Containing Personal Data by a Government Agency]]
 - [[advisory-opinions/2025/advisory-opinion-no-2025-008-npc-advisory-opinion-no-2025-008|NPC Advisory Opinion No. 2025-008 — Release of Death Certificates for Insurance Claims Processing]]
@@ -44,12 +44,12 @@ Auto-generated topic cluster for **Government**, covering the full corpus of law
 - [[advisory-opinions/2024/advisory-opinion-no-2024-008-advisory-opinion-no-2024-008-redacted|NPC Advisory Opinion No. 2024-008 — Disclosure of Public Documents Relative to a Local Government Unit’s Purchase of Real Properties]]
 - [[advisory-opinions/2023/advisory-opinion-no-2023-017-advisory-opinion-no-2023-017|NPC Advisory Opinion No. 2023-017 — Government Agency Access to PNP Crime Information and Analysis System]]
 - [[advisory-opinions/2023/advisory-opinion-no-2023-006-advisory-opinion-no-2023-006|NPC Advisory Opinion No. 2023-006 — Disclosure of Personal Data to Concerned Agencies/Offices for Proper Implementation of National and Local Government Programs and Projects]]
-- [[advisory-opinions/2023/advisory-opinion-no-2023-005-advisory-opinion-no-2023-005|NPC Advisory Opinion No. 2023-005 — Barangay Inventory of Vaccinated Population]]
 - [[advisory-opinions/2023/advisory-opinion-no-2023-003-advisory-opinion-no-2023-003|NPC Advisory Opinion No. 2023-003 — Disclosure of Property Information Through the Land Registration Authority’s Geo-spatial Query Service]]
+- [[advisory-opinions/2023/advisory-opinion-no-2023-005-advisory-opinion-no-2023-005|NPC Advisory Opinion No. 2023-005 — Barangay Inventory of Vaccinated Population]]
 - [[advisory-opinions/2022/advisory-opinion-no-2022-026-advisory-opinion-no-2022-026-redacted|NPC Advisory Opinion No. 2022-026 — Disclosure of Personal Data Through the Database of Individuals Barred From Taking Civil Service Examinations and From Entering Government Service (dibar)]]
 - [[advisory-opinions/2022/advisory-opinion-no-2022-025-advisory-opinion-no-2022-025-redacted|NPC Advisory Opinion No. 2022-025 — 201 Files of Government Employees]]
-- [[advisory-opinions/2022/advisory-opinion-no-2022-016-advisory-opinion-no-2022-016-final-sgd-redacted|NPC Advisory Opinion No. 2022-016 — Request for Personal Information of OFWs Deployed in the Middle East and Other Muslim Countries]]
 - [[advisory-opinions/2022/advisory-opinion-no-2022-010-advisory-opinion-no-2022-010-final-sgd-redacted|NPC Advisory Opinion No. 2022-010 — Request for Opinion on Privacy Matters Concerning Transfer of Assets/Liabilities]]
+- [[advisory-opinions/2022/advisory-opinion-no-2022-016-advisory-opinion-no-2022-016-final-sgd-redacted|NPC Advisory Opinion No. 2022-016 — Request for Personal Information of OFWs Deployed in the Middle East and Other Muslim Countries]]
 - [[advisory-opinions/2021/advisory-opinion-no-2021-039-data-sharing-of-incident-disaster-data|NPC Advisory Opinion No. 2021-039 — Data Sharing Of Incident/disaster Data]]
 - [[advisory-opinions/2021/advisory-opinion-no-2021-034-requests-from-government-agencies-for-the-department-of-foreign-affairs-to-provide-personal-information|NPC Advisory Opinion No. 2021-034 — Requests From Government Agencies For The Department Of Foreign Affairs To Provide Personal Information]]
 - [[advisory-opinions/2021/advisory-opinion-no-2021-031-processing-for-due-diligence-quality-control-and-compliance-checks-pursuant-to-the-requirements-of-the-government-procurement-reform-act|NPC Advisory Opinion No. 2021-031 — Processing For Due Diligence, Quality Control, And Compliance Checks Pursuant To The Requirements Of The Government Procurement Reform Act]]
@@ -72,7 +72,7 @@ Auto-generated topic cluster for **Government**, covering the full corpus of law
 - [[advisory-opinions/2019/advisory-opinion-no-2019-017-npc-advisory-opinion-no-2019-017|NPC Advisory Opinion No. 2019-017 — Research and the Data Privacy Act of 2012]]
 - [[advisory-opinions/2019/advisory-opinion-no-2019-014-npc-advisory-opinion-no-2019-014|NPC Advisory Opinion No. 2019-014 — BSP and DILG Data Sharing on Pawnshops and Money Service Businesses]]
 - [[advisory-opinions/2019/advisory-opinion-no-2019-012-npc-advisory-opinion-no-2019-012|NPC Advisory Opinion No. 2019-012 — Nationality of Database Host]]
-- [[advisory-opinions/2018/advisory-opinion-no-2018-041-npc-advisory-opinion-no-2018-041|“NPC Advisory Opinion No. 2018-041 — Pasig City Ordinance No. 51”]]
+- [[advisory-opinions/2018/advisory-opinion-no-2018-041-npc-advisory-opinion-no-2018-041|NPC Advisory Opinion No. 2018-041 — Pasig City Ordinance No. 51]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-025-npc-advisory-opinion-no-2018-025|NPC Advisory Opinion No. 2018-025 — Request for Information From Law Enforcement Agencies]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-008-npc-advisory-opinion-no-2018-008|NPC Advisory Opinion No. 2018-008 — Submission of Employee Names and Salary for Community Tax Certificate]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-002-npc-advisory-opinion-no-2018-002|NPC Advisory Opinion No. 2018-002 — Commission on Audit Request for Access to Bangko Sentral ng Pilipinas Employees’ Directory]]
@@ -83,9 +83,9 @@ Auto-generated topic cluster for **Government**, covering the full corpus of law
 - [[advisory-opinions/2017/advisory-opinion-no-2017-052-npc-advisoryopinionno-2017-052|NPC Advisory Opinion No. 2017-052 — Data Sharing Agreements Involving the Anti-Money Laundering Council]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-038-npc-advisoryopinionno-2017-038|NPC Advisory Opinion No. 2017-038 — Data Sharing Agreement Between Government Agencies]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-035-npc-advisoryopinionno-2017-035|NPC Advisory Opinion No. 2017-035 — Clarifications on the Data Privacy Act and Its Implementing Rules and Regulations]]
+- [[advisory-opinions/2017/advisory-opinion-no-2017-020-npc-advisoryopinionno-2017-020|NPC Advisory Opinion No. 2017-020 — Philippine Business Data Bank]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-029-npc-advisoryopinionno-2017-029|NPC Advisory Opinion No. 2017-029 — Reverse Search Module]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-028-npc-advisoryopinionno-2017-028|NPC Advisory Opinion No. 2017-028 — Data Sharing Agreement Between Government Agencies]]
-- [[advisory-opinions/2017/advisory-opinion-no-2017-020-npc-advisoryopinionno-2017-020|NPC Advisory Opinion No. 2017-020 — Philippine Business Data Bank]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-013-npc-advisoryopinionno-2017-013|NPC Advisory Opinion No. 2017-013 — Data Sharing; Definition of Commercial Purposes; Data Protection Officer]]
 
 ## Decisions

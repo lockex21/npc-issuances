@@ -7,6 +7,7 @@ draft: false
 Generated notes for **2023** NPC resolutions.
 
 ## Notes
+- [[resolutions/2023/npc-bn-18-117-in-re-um|NPC BN 18-117: In re: UM]]
 - [[resolutions/2023/npc-bn-18-023-in-re-unilever-philippines|NPC BN 18-023: In Re: Unilever Philippines]]
 - [[resolutions/2023/npc-bn-20-167-in-re-travelservices-inc|NPC BN 20-167: In Re: Travelservices, Inc.]]
 - [[resolutions/2023/npc-bn-20-170-in-re-travelpeople-ltd-inc|NPC BN 20-170: In Re: Travelpeople, Ltd., Inc.]]

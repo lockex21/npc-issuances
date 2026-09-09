@@ -49,11 +49,19 @@ DPA_SECTION_RE = re.compile(
     r"(?P<law>DPA|Data Privacy Act(?:\s+of\s+2012)?)\b",
     re.IGNORECASE,
 )
+DPA_TITLE_PATTERN = r"(?:DPA|Data\s+Privacy\s+Act(?:\s+of\s+2012)?|Republic\s+Act\s+No\.?\s+10173)"
+# IRR is also used for other statutes (for example, the National Building Code).
+# Require the cited phrase itself to identify the DPA, not merely the document.
+IRR_TITLE_PATTERN = (
+    rf"(?:{DPA_TITLE_PATTERN}\s+(?:IRR|Implementing\s+Rules\s+and\s+Regulations)"
+    rf"|(?:IRR|Implementing\s+Rules\s+and\s+Regulations)"
+    rf"(?:\s*\(IRR\))?\s+of\s+(?:the\s+)?{DPA_TITLE_PATTERN})"
+)
 IRR_SECTION_RE = re.compile(
     r"\bSection\s+(?P<section>\d+[A-Za-z]?)"
     r"(?P<subsection>\s*\([^)]+\))?"
     r"\s+of\s+the\s+"
-    r"(?P<law>IRR|Implementing Rules and Regulations)\b",
+    rf"(?P<law>{IRR_TITLE_PATTERN})\b",
     re.IGNORECASE,
 )
 DPA_RE = re.compile(
@@ -62,7 +70,7 @@ DPA_RE = re.compile(
     re.IGNORECASE,
 )
 IRR_RE = re.compile(
-    r"\b(?:Implementing\s+Rules\s+and\s+Regulations|DPA\s+IRR|IRR)\b",
+    rf"\b{IRR_TITLE_PATTERN}\b",
     re.IGNORECASE,
 )
 
@@ -144,11 +152,11 @@ class Linker:
 
         linked = phase(
             linked,
-            lambda text: self._link_dpa_sections(text, current_path, seen_targets, seen_law_targets),
+            lambda text: self._link_irr_sections(text, current_path, seen_targets, seen_law_targets),
         )
         linked = phase(
             linked,
-            lambda text: self._link_irr_sections(text, current_path, seen_targets, seen_law_targets),
+            lambda text: self._link_dpa_sections(text, current_path, seen_targets, seen_law_targets),
         )
         linked = phase(linked, lambda text: self._link_numbered_references(text, current_path, seen_targets))
         linked = phase(linked, lambda text: self._link_literal_references(text, current_path, seen_targets))
@@ -270,6 +278,8 @@ class Linker:
 
         def dpa_replace(match: re.Match[str]) -> str:
             nonlocal count
+            if any(start <= match.start() < end for start, end in protected_ranges):
+                return match.group(0)
             target = "laws/data-privacy-act-of-2012"
             if current_path == target or target in seen_law_targets:
                 return match.group(0)
@@ -286,8 +296,9 @@ class Linker:
             count += 1
             return f"[[{target}|{core.normalize_space(match.group(0))}]]"
 
-        linked = DPA_RE.sub(dpa_replace, text)
-        linked = IRR_RE.sub(irr_replace, linked)
+        linked = IRR_RE.sub(irr_replace, text)
+        protected_ranges = [(match.start(), match.end()) for match in PROTECTED_RE.finditer(linked)]
+        linked = DPA_RE.sub(dpa_replace, linked)
         return linked, count
 
 

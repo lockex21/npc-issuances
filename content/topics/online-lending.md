@@ -7,9 +7,9 @@ draft: false
 Auto-generated topic cluster for **Online Lending**, covering the full corpus of laws, issuances, advisory opinions, decisions, resolutions, and orders.
 
 ## Issuances
+- [[issuances/undated/public-advisory-on-online-lending-platforms-olps|Public Advisory on Online Lending Platforms (OLPs)]]
 - [[issuances/2022/amending-certain-provisions-of-npc-circular-no-20-01-on-the-guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Amending Certain Provisions of NPC Circular No. 20-01 on the Guidelines on the Processing of Personal Data for Loan-Related Transactions (NPC Circular No. 2022-02)]]
 - [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|Guidelines on the Processing of Personal Data for Loan-Related Transactions (Circular No. 20-01)]]
-- [[issuances/undated/public-advisory-on-online-lending-platforms-olps|Public Advisory on Online Lending Platforms (OLPs)]]
 
 ## Advisory Opinions
 - [[advisory-opinions/2023/advisory-opinion-no-2023-012-advisory-opinion-no-2023-012|NPC Advisory Opinion No. 2023-012 — Collection of Information of Customers, Delinquent Borrowers, and Loan Applicants of CIBI Members]]
@@ -32,6 +32,7 @@ Auto-generated topic cluster for **Online Lending**, covering the full corpus of
 - [[decisions/2020/npc-19-498-jva-vs-u-peso-ph-lending-corporation-upeso|NPC 19-498: JVA v. U-Peso.Ph Lending Corporation (Upeso)]]
 
 ## Resolutions
+- [[resolutions/2025/npc-bn-18-247-in-re-card-sme-bank-inc|NPC BN 18-247: In re: Card SME Bank Inc.]]
 - [[resolutions/2022/npc-bn-18-054-in-re-department-of-education-calamba|NPC BN 18-054: In re: Department of Education – Calamba]]
 - [[resolutions/2023/npc-bn-18-199-in-re-hc-consumer-finance-philippines-inc|NPC BN 18-199: In re: HC Consumer Finance Philippines, Inc.]]
 - [[resolutions/2019/npc-19-909-in-re-fcash-global-lending-inc-operating-fastcash-lending-application|NPC 19-909: In re: FCASH Global Lending, Inc., Operating Fastcash Online Lending Application]]

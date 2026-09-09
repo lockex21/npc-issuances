@@ -27,11 +27,11 @@ Auto-generated topic cluster for **Registration**, covering the full corpus of l
 - [[advisory-opinions/2020/advisory-opinion-no-2020-025-redacted-advisory-opinion-no-2020-025-2|NPC Advisory Opinion No. 2020-025 — Conflict of Interest on a Data Protection Officer Designated as a Compliance Officer]]
 - [[advisory-opinions/2019/advisory-opinion-no-2019-021-v1-redacted-advisory-opinion-no-2019-021|NPC Advisory Opinion No. 2019-021 — Assignment of a Non-Resident DPO and Requirements for DPO Contact Details]]
 - [[advisory-opinions/2019/advisory-opinion-no-2019-019-npc-advisory-opinion-no-2019-019|NPC Advisory Opinion No. 2019-019 — Exemption from Coverage of NPC Circular No. 17-01]]
-- [[advisory-opinions/2018/advisory-opinion-no-2018-075-npc-advisory-opinion-no-2018-075|“NPC Advisory Opinion No. 2018-075 — Barangay Tanyag Ordinance No. 03 Paupahan Form”]]
-- [[advisory-opinions/2018/advisory-opinion-no-2018-043-npc-advisory-opinion-no-2018-043|“NPC Advisory Opinion No. 2018-043 — Registration of Data Processing Systems”]]
-- [[advisory-opinions/2018/advisory-opinion-no-2018-019-npc-advisory-opinion-no-2018-019|“NPC Advisory Opinion No. 2018-019 — Appointment of Data Protection Officer and Registration of Data Processing System of a Homeowners’ Association”]]
-- [[advisory-opinions/2018/advisory-opinion-no-2018-005-npc-advisory-opinion-no-2018-005|“NPC Advisory Opinion No. 2018-005 — Data Sharing Agreement and Data Protection Officer”]]
+- [[advisory-opinions/2018/advisory-opinion-no-2018-075-npc-advisory-opinion-no-2018-075|NPC Advisory Opinion No. 2018-075 — Barangay Tanyag Ordinance No. 03 Paupahan Form]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-051-npc-advisory-opinion-no-2018-051|NPC Advisory Opinion No. 2018-051 — Various Concerns Regarding the Data Privacy Act]]
+- [[advisory-opinions/2018/advisory-opinion-no-2018-043-npc-advisory-opinion-no-2018-043|NPC Advisory Opinion No. 2018-043 — Registration of Data Processing Systems]]
+- [[advisory-opinions/2018/advisory-opinion-no-2018-019-npc-advisory-opinion-no-2018-019|NPC Advisory Opinion No. 2018-019 — Appointment of Data Protection Officer and Registration of Data Processing System of a Homeowners’ Association]]
+- [[advisory-opinions/2018/advisory-opinion-no-2018-005-npc-advisory-opinion-no-2018-005|NPC Advisory Opinion No. 2018-005 — Data Sharing Agreement and Data Protection Officer]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-064-npc-advisoryopinionno-2017-064|NPC Advisory Opinion No. 2017-064 — Registration of Data Processing Systems]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-062-npc-advisoryopinionno-2017-062|NPC Advisory Opinion No. 2017-062 — NPC Circular 17-01 Registration of Data Processing Systems]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-044-npc-advisoryopinionno-2017-044|NPC Advisory Opinion No. 2017-044 — Exemption from the Registration Requirement with the National Privacy Commission]]
@@ -45,6 +45,7 @@ Auto-generated topic cluster for **Registration**, covering the full corpus of l
 - [[advisory-opinions/2017/advisory-opinion-no-2017-013-npc-advisoryopinionno-2017-013|NPC Advisory Opinion No. 2017-013 — Data Sharing; Definition of Commercial Purposes; Data Protection Officer]]
 
 ## Resolutions
+- [[resolutions/2025/npc-bn-18-094-in-re-orica-australia-pty-ltd|NPC BN 18-094: In re: Orica Australia Pty. Ltd.]]
 - [[resolutions/2018/npc-18-151-in-re-western-union-services-philippines-inc|NPC BN 18-151: In re: Western Union Services (Philippines), Inc.]]
 - [[resolutions/2022/npc-bn-18-179-in-re-abs-cbn-corporation|NPC BN 18-179: In re: ABS-CBN Corporation]]
 - [[resolutions/2022/npc-16-004-cbp-v-orani-water-district|NPC 16-004: CBP v. Orani Water District]]

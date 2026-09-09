@@ -12,6 +12,7 @@ Auto-generated topic cluster for **Breach Notification**, covering the full corp
 ## Issuances
 - [[issuances/2026/clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system|Clarification on the Submission of Personal Data Breach Notification through Data Breach Notification Management System (Advisory No. 2026-02)]]
 - [[issuances/2024/guidelines-on-child-oriented-transparency|Guidelines on Child-Oriented Transparency (Advisory No. 2024-03)]]
+- [[issuances/undated/faq-guidelines-on-child-oriented-transparency|Advisory on Guidelines on Child-Oriented Transparency]]
 - [[issuances/2024/2021-rules-of-procedure-of-the-npc-as-amended|2021 Rules of Procedure of the NPC, as Amended (Current Version)]]
 - [[issuances/2024/amendments-to-certain-provisions-of-the-2021-rules-of-procedure-of-the-national-privacy-commission|Amendments to Certain Provisions of the 2021 Rules of Procedure of the National Privacy Commission (Circular No. 2024-01)]]
 - [[issuances/2021/guidelines-on-the-processing-of-personal-data-during-public-health-emergencies-for-public-health-measures|Guidelines on the Processing of Personal Data During Public Health Emergencies for Public Health Measures (Circular No. 2021-02)]]
@@ -21,7 +22,6 @@ Auto-generated topic cluster for **Breach Notification**, covering the full corp
 - [[issuances/2020/faqs|Frequently Asked Questions on the Draft Rules on the Issuance of Cease and Desist Orders (CDO)]]
 - [[issuances/undated/rules-of-procedure|Rules of Procedure of the National Privacy Commission (Circular No. 16-04)]]
 - [[issuances/undated/personal-data-breach-management|Personal Data Breach Management (Circular No. 16-03)]]
-- [[issuances/undated/faq-guidelines-on-child-oriented-transparency|Advisory on Guidelines on Child-Oriented Transparency]]
 
 ## Advisory Opinions
 - [[advisory-opinions/2026/advisory-opinion-no-2026-004-npc-advisory-opinion-2026-004|NPC Advisory Opinion No. 2026-004 — Scope of Accountability and Registration in Security Incident and Personal Data Breach Reporting]]
@@ -36,6 +36,7 @@ Auto-generated topic cluster for **Breach Notification**, covering the full corp
 
 ## Decisions
 - [[decisions/2019/npc-19-1438-vmjr-v-ebo|NPC 19-1438: VMJR v. EBO]]
+- [[decisions/2025/npc-21-082-mba-vs-gofluent-philippines-inc|NPC 21-082: MBA vs. GoFluent Philippines, Inc.]]
 - [[decisions/2014/npc-22-117-cjj-vs-jjs-and-jb|NPC 22-117: CJJ vs. JJS and JB]]
 - [[decisions/2024/npc-19-1805-cbb-vs-ams|NPC 19-1805: CBB v. AMS]]
 - [[decisions/2024/npc-ss-21-023-in-the-matter-of-the-alleged-personal-data-breach-of-bdo-unibank-inc|NPC SS 21-023: In the Matter of the Alleged Personal Data Breach of BDO Unibank, Inc.]]
@@ -61,6 +62,9 @@ Auto-generated topic cluster for **Breach Notification**, covering the full corp
 - [[decisions/2019/08-15-2019-in-re-data-breach-involving-the-comelec-data-processing-system-in-wao-lanao-del-sur|NPC CID 17-002: In Re Data Breach Involving the COMELEC Data Processing System in Wao, Lanao del Sur]]
 
 ## Resolutions
+- [[resolutions/2025/npc-bn-18-094-in-re-orica-australia-pty-ltd|NPC BN 18-094: In re: Orica Australia Pty. Ltd.]]
+- [[resolutions/2025/npc-bn-18-247-in-re-card-sme-bank-inc|NPC BN 18-247: In re: Card SME Bank Inc.]]
+- [[resolutions/2025/npc-bn-18-146-in-re-comelec-la-paz-abra|NPC BN 18-146: In re: COMELEC, La Paz, Abra]]
 - [[resolutions/2024/npc-bn-18-147-in-re-evolution-wellness-philippines-inc|NPC BN 18-147: In re: Evolution Wellness Philippines, Inc.]]
 - [[resolutions/2018/npc-bn-18-036-in-re-smart-communications-inc|NPC BN 18-063: In re: Smart Communications, Inc.]]
 - [[resolutions/2024/npc-bn-18-057-in-re-taguig-city-university|NPC BN 18-057: In re: Taguig City University]]
@@ -83,6 +87,7 @@ Auto-generated topic cluster for **Breach Notification**, covering the full corp
 - [[resolutions/2023/npc-bn-20-167-in-re-travelservices-inc-2|NPC BN 20-167: In re Travelservices, Inc.]]
 - [[resolutions/2018/npc-bn-18-138-in-re-pacific-plaza-resolution|NPC BN 18-138: In re: Pacific Plaza Towers Condominium Corporation]]
 - [[resolutions/2018/npc-bn-18-135-in-re-kgjs-fleet-management-manila-inc|NPC BN 18-135: In re: KGJS Fleet Management Manila Inc.]]
+- [[resolutions/2023/npc-bn-18-117-in-re-um|NPC BN 18-117: In re: UM]]
 - [[resolutions/2018/npc-bn-18-035-in-re-active-network-llc|NPC BN 18-035: In re: Active Network LLC]]
 - [[resolutions/2023/npc-bn-18-023-in-re-unilever-philippines|NPC BN 18-023: In Re: Unilever Philippines]]
 - [[resolutions/2023/npc-bn-18-021-in-re-asian-hospital-medical-center|NPC BN 18-021: In re: Asian Hospital and Medical Center]]

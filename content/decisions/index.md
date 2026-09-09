@@ -6,11 +6,11 @@ draft: false
 
 Generated notes for the NPC decisions corpus mirrored from the official website.
 
-- Corpus size: **99** decisions
+- Corpus size: **101** decisions
 - Source page: http://privacy.gov.ph/decisions-2/
 
 ## Years
-- [[decisions/2025/index|2025]] (2 decisions)
+- [[decisions/2025/index|2025]] (4 decisions)
 - [[decisions/2024/index|2024]] (21 decisions)
 - [[decisions/2023/index|2023]] (11 decisions)
 - [[decisions/2022/index|2022]] (23 decisions)

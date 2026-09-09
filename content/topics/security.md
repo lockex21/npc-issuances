@@ -53,8 +53,8 @@ Auto-generated topic cluster for **Security**, covering the full corpus of laws,
 - [[advisory-opinions/2019/advisory-opinion-no-2019-028-npc-advisory-opinion-no-2019-028|NPC Advisory Opinion No. 2019-028 — Publication of List of Cases Filed Against Employers for Non-Payment of Social Security Contributions]]
 - [[advisory-opinions/2019/advisory-opinion-no-2019-012-npc-advisory-opinion-no-2019-012|NPC Advisory Opinion No. 2019-012 — Nationality of Database Host]]
 - [[advisory-opinions/2019/advisory-opinion-no-2019-010-npc-advisory-opinion-no-2019-010|NPC Advisory Opinion No. 2019-010 — Access to Employee 201 Files and Medical Records]]
-- [[advisory-opinions/2018/advisory-opinion-no-2018-052-npc-advisory-opinion-no-2018-052|NPC Advisory Opinion No. 2018-052 — CHED Memorandum Order No. 3, Series of 2012]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-032-npc-advisory-opinion-no-2018-032|NPC Advisory Opinion No. 2018-032 — PPP Center Privacy Manual]]
+- [[advisory-opinions/2018/advisory-opinion-no-2018-052-npc-advisory-opinion-no-2018-052|NPC Advisory Opinion No. 2018-052 — CHED Memorandum Order No. 3, Series of 2012]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-024-npc-advisory-opinion-no-2018-024|NPC Advisory Opinion No. 2018-024 — Reporting of Alleged Criminals’ Personal Data]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-009-npc-advisory-opinion-no-2018-009|NPC Advisory Opinion No. 2018-009 — Disclosure of Personal Information to the Philippine Army]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-003-npc-advisory-opinion-no-2018-003|NPC Advisory Opinion No. 2018-003 — Visitor Logbook]]
@@ -83,6 +83,9 @@ Auto-generated topic cluster for **Security**, covering the full corpus of laws,
 - [[decisions/2017/ibc-vs-pbi|CID 17-K-004: IBC v. PBI]]
 
 ## Resolutions
+- [[resolutions/2025/npc-bn-18-094-in-re-orica-australia-pty-ltd|NPC BN 18-094: In re: Orica Australia Pty. Ltd.]]
+- [[resolutions/2025/npc-bn-18-247-in-re-card-sme-bank-inc|NPC BN 18-247: In re: Card SME Bank Inc.]]
+- [[resolutions/2025/npc-bn-18-146-in-re-comelec-la-paz-abra|NPC BN 18-146: In re: COMELEC, La Paz, Abra]]
 - [[resolutions/2024/npc-bn-18-147-in-re-evolution-wellness-philippines-inc|NPC BN 18-147: In re: Evolution Wellness Philippines, Inc.]]
 - [[resolutions/2018/npc-bn-18-036-in-re-smart-communications-inc|NPC BN 18-063: In re: Smart Communications, Inc.]]
 - [[resolutions/2024/npc-bn-18-057-in-re-taguig-city-university|NPC BN 18-057: In re: Taguig City University]]
@@ -101,6 +104,7 @@ Auto-generated topic cluster for **Security**, covering the full corpus of laws,
 - [[resolutions/2023/npc-bn-20-167-in-re-travelservices-inc-2|NPC BN 20-167: In re Travelservices, Inc.]]
 - [[resolutions/2018/npc-bn-18-138-in-re-pacific-plaza-resolution|NPC BN 18-138: In re: Pacific Plaza Towers Condominium Corporation]]
 - [[resolutions/2018/npc-bn-18-135-in-re-kgjs-fleet-management-manila-inc|NPC BN 18-135: In re: KGJS Fleet Management Manila Inc.]]
+- [[resolutions/2023/npc-bn-18-117-in-re-um|NPC BN 18-117: In re: UM]]
 - [[resolutions/2018/npc-bn-18-035-in-re-active-network-llc|NPC BN 18-035: In re: Active Network LLC]]
 - [[resolutions/2023/npc-bn-18-023-in-re-unilever-philippines|NPC BN 18-023: In Re: Unilever Philippines]]
 - [[resolutions/2023/npc-bn-18-021-in-re-asian-hospital-medical-center|NPC BN 18-021: In re: Asian Hospital and Medical Center]]

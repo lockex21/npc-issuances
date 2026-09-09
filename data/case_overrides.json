@@ -268,6 +268,26 @@
       "year": "2024",
       "markdown_path": "content/decisions/2014/npc-22-117-cjj-vs-jjs-and-jb.md",
       "preserve_existing_markdown": true
+    },
+    "npc-21-082-mba-vs-gofluent-philippines-inc": {
+      "title": "NPC 21-082: MBA vs. GoFluent Philippines, Inc.",
+      "short_title": "MBA vs. GoFluent Philippines, Inc.",
+      "issue_date_iso": "2025-01-16",
+      "issue_date": "January 16, 2025",
+      "year": "2025",
+      "markdown_path": "content/decisions/2025/npc-21-082-mba-vs-gofluent-philippines-inc.md",
+      "excerpt": "Decision dismissing the complaint against GoFluent Philippines Inc. and awarding nominal damages for violation of the principle of proportionality.",
+      "preserve_existing_markdown": true
+    },
+    "npc-24-006-hcn-vs-bdo": {
+      "title": "NPC 24-006: HCN vs. DBO",
+      "short_title": "HCN vs. DBO",
+      "issue_date_iso": "2025-08-04",
+      "issue_date": "August 4, 2025",
+      "year": "2025",
+      "markdown_path": "content/decisions/2025/npc-24-006-hcn-vs-dbo.md",
+      "excerpt": "Decision dismissing the complaint arising from the refusal to release approved construction/building plans for lack of merit.",
+      "preserve_existing_markdown": true
     }
   },
   "resolutions": {
@@ -771,6 +791,76 @@
       "issue_date_iso": "2021-01-21",
       "year": "2021",
       "markdown_path": "content/resolutions/2017/npc-bn-17-048-in-re-social-security-system.md",
+      "preserve_existing_markdown": true
+    },
+    "cid-cdo-25-001-in-re-in-the-matter-of-world-app-processing-of-personal-information": {
+      "title": "CID CDO 25-001: World App — Motion for Clarification (30 January 2026)",
+      "short_title": "World App — Motion for Clarification (30 January 2026)",
+      "issue_date_iso": "2026-01-30",
+      "issue_date": "January 30, 2026",
+      "year": "2026",
+      "markdown_path": "content/resolutions/2026/cid-cdo-25-001-in-re-in-the-matter-of-world-app-processing-of-personal-information.md",
+      "excerpt": "Resolution denying Tools for Humanity Corporation’s motion for clarification of the World App cease and desist directives, with a dissenting opinion voting to grant the motion.",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-094-in-re-orica-australia-pty-ltd": {
+      "title": "NPC BN 18-094: In re: Orica Australia Pty. Ltd.",
+      "short_title": "In re: Orica Australia Pty. Ltd.",
+      "issue_date_iso": "2025-11-20",
+      "issue_date": "November 20, 2025",
+      "year": "2025",
+      "markdown_path": "content/resolutions/2025/npc-bn-18-094-in-re-orica-australia-pty-ltd.md",
+      "excerpt": "Resolution closing the Orica Australia breach notification matter after finding that the PageUp incident required notification and that Orica sufficiently addressed the breach.",
+      "preserve_existing_markdown": true
+    },
+    "npc-25-176-in-re-bsb-vs-meta-platforms-inc-facebook-philippines": {
+      "title": "NPC 25-176: BSB v. Meta Platforms Inc. (Facebook Philippines)",
+      "short_title": "BSB v. Meta Platforms Inc. (Facebook Philippines)",
+      "issue_date_iso": "2025-11-20",
+      "issue_date": "November 20, 2025",
+      "year": "2025",
+      "markdown_path": "content/resolutions/2025/npc-25-176-in-re-bsb-vs-meta-platforms-inc-facebook-philippines.md",
+      "excerpt": "Resolution denying BSB’s motion for reconsideration and affirming the dismissal without prejudice of the complaint concerning deletion of Facebook accounts for lack of substantial evidence and failure to exhaust administrative remedies.",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-146-in-re-comelec-la-paz-abra": {
+      "title": "NPC BN 18-146: In re: COMELEC, La Paz, Abra",
+      "short_title": "In re: COMELEC, La Paz, Abra",
+      "issue_date_iso": "2025-10-30",
+      "issue_date": "October 30, 2025",
+      "year": "2025",
+      "markdown_path": "content/resolutions/2025/npc-bn-18-146-in-re-comelec-la-paz-abra.md",
+      "excerpt": "Resolution closing the COMELEC La Paz, Abra breach notification matter after compliance with notification requirements and security measures concerning the loss of an election day voter list.",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-247-in-re-card-sme-bank-inc": {
+      "title": "NPC BN 18-247: In re: Card SME Bank Inc.",
+      "short_title": "In re: Card SME Bank Inc.",
+      "issue_date_iso": "2025-10-30",
+      "issue_date": "October 30, 2025",
+      "year": "2025",
+      "markdown_path": "content/resolutions/2025/npc-bn-18-247-in-re-card-sme-bank-inc.md",
+      "excerpt": "Resolution closing the Card SME Bank breach notification matter due to satisfactory compliance and issuing a stern warning for its belated submission concerning lost transaction documents.",
+      "preserve_existing_markdown": true
+    },
+    "npc-21-357-in-re-sps-nsp-and-eop-vs-pshci": {
+      "title": "NPC 21-357: Sps. NSP and EOP vs. PSHCI",
+      "short_title": "Sps. NSP and EOP vs. PSHCI",
+      "issue_date_iso": "2025-07-03",
+      "issue_date": "July 3, 2025",
+      "year": "2025",
+      "markdown_path": "content/resolutions/2025/npc-21-357-in-re-sps-nsp-and-eop-vs-pshci.md",
+      "excerpt": "Resolution denying PSHCI’s motion for reconsideration of the decision finding a violation of the complainants’ right to access their deceased daughter’s medical records.",
+      "preserve_existing_markdown": true
+    },
+    "npc-bn-18-117-in-re-in-re-um": {
+      "title": "NPC BN 18-117: In re: UM",
+      "short_title": "In re: UM",
+      "issue_date_iso": "2023-11-13",
+      "issue_date": "November 13, 2023",
+      "year": "2023",
+      "markdown_path": "content/resolutions/2023/npc-bn-18-117-in-re-um.md",
+      "excerpt": "Resolution closing the University of Mindanao breach notification matter after finding compliance with notification requirements and security measures following unauthorized use of its official email addresses.",
       "preserve_existing_markdown": true
     }
   }

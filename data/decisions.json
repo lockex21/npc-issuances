@@ -1,7 +1,28 @@
 {
   "source_page": "http://privacy.gov.ph/decisions-2/",
-  "count": 99,
+  "count": 101,
   "records": [
+    {
+      "title": "NPC 24-006: HCN vs. DBO",
+      "short_title": "HCN vs. DBO",
+      "reference_label": "NPC 24-006",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2026/07/NPC-24-006-Decision-HCN-vs.-BDO.pdf",
+      "source_tags_raw": "Tags: Personal Information, Sensitive Personal Information, Legitimate Interest (Section12 (f), Protection of Lawful Rights and Interests in Court Proceedings Section 13(f), Scope of the DPA Section 4)",
+      "source_tags": [
+        "Personal Information, Sensitive Personal Information, Legitimate Interest (Section12 (f), Protection of Lawful Rights and Interests in Court Proceedings Section 13(f), Scope of the DPA Section 4)"
+      ],
+      "issue_date": "August 4, 2025",
+      "issue_date_iso": "2025-08-04",
+      "published_time": "Fri, 03 Jul 2026 11:43:04 GMT",
+      "published_time_iso": "2026-07-03T11:43:04+00:00",
+      "page_count": 26,
+      "year": "2025",
+      "slug": "npc-24-006-hcn-vs-bdo",
+      "raw_text_path": "cache/decisions/text_raw/npc-24-006-decision-hcn-vs-bdo-42b8ccd902.md",
+      "text_path": "cache/decisions/text/npc-24-006-decision-hcn-vs-bdo-42b8ccd902.txt",
+      "markdown_path": "content/decisions/2025/npc-24-006-hcn-vs-dbo.md",
+      "excerpt": "Decision dismissing the complaint arising from the refusal to release approved construction/building plans for lack of merit."
+    },
     {
       "title": "NPC 19-1234: FCG v. Unipeso Lending Company Inc. (Handy Loan)",
       "short_title": "FCG v. Unipeso Lending Company Inc. (Handy Loan)",
@@ -43,6 +64,27 @@
       "text_path": "cache/decisions/text/npc-19-1438-vmjr-v-ebo-a789b109fc.txt",
       "markdown_path": "content/decisions/2019/npc-19-1438-vmjr-v-ebo.md",
       "excerpt": "or if the complaint involves a serious violation or breach of the Data NPC 19 -1438"
+    },
+    {
+      "title": "NPC 21-082: MBA vs. GoFluent Philippines, Inc.",
+      "short_title": "MBA vs. GoFluent Philippines, Inc.",
+      "reference_label": "NPC 21-082",
+      "source_url": "http://privacy.gov.ph/wp-content/uploads/2026/07/NPC-21-082-Decision-MBA-v.-GoFluent-Philippines-Inc.pdf",
+      "source_tags_raw": "Tags: Section 25 Unauthorized Processing of Personal Information and Sensitive Personal Information, Section 28 Processing of Personal Information and Sensitive Personal Information for Unauthorized Purpose, Section 31 Malicious Disclosure, Section 32 Unauthorized Disclosure, Section 13, Principle of Proportionality, of Exhaustion of Remedies, Due Process, Forum Shopping, Privacy Violation, Cause of Action, Section 4(d), Nominal Damages",
+      "source_tags": [
+        "Section 25 Unauthorized Processing of Personal Information and Sensitive Personal Information, Section 28 Processing of Personal Information and Sensitive Personal Information for Unauthorized Purpose, Section 31 Malicious Disclosure, Section 32 Unauthorized Disclosure, Section 13, Principle of Proportionality, of Exhaustion of Remedies, Due Process, Forum Shopping, Privacy Violation, Cause of Action, Section 4(d), Nominal Damages"
+      ],
+      "issue_date": "January 16, 2025",
+      "issue_date_iso": "2025-01-16",
+      "published_time": "Fri, 03 Jul 2026 11:43:06 GMT",
+      "published_time_iso": "2026-07-03T11:43:06+00:00",
+      "page_count": 35,
+      "year": "2025",
+      "slug": "npc-21-082-mba-vs-gofluent-philippines-inc",
+      "raw_text_path": "cache/decisions/text_raw/npc-21-082-decision-mba-v-gofluent-philippines-inc-3ae0326891.md",
+      "text_path": "cache/decisions/text/npc-21-082-decision-mba-v-gofluent-philippines-inc-3ae0326891.txt",
+      "markdown_path": "content/decisions/2025/npc-21-082-mba-vs-gofluent-philippines-inc.md",
+      "excerpt": "Decision dismissing the complaint against GoFluent Philippines Inc. and awarding nominal damages for violation of the principle of proportionality."
     },
     {
       "title": "NPC 22-066: ALS vs ALLIED BANK (NOW PHILIPPINE NATIONAL BANK)",

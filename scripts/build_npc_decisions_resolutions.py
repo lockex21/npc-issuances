@@ -397,6 +397,12 @@ def cache_stem(source_url: str) -> str:
     return f"{core.slugify(basename)}-{digest}"
 
 
+def source_identity(source_url: str) -> str:
+    """Treat HTTP and HTTPS links to the same PDF as one source."""
+    parsed = urllib.parse.urlsplit(source_url)
+    return urllib.parse.urlunsplit(("", parsed.netloc.casefold(), parsed.path, parsed.query, ""))
+
+
 def build_display_title(reference_label: str | None, short_title: str) -> str:
     if reference_label and short_title:
         if short_title.casefold().startswith(reference_label.casefold()):
@@ -597,20 +603,33 @@ def build_records(
     case_overrides: dict[str, dict[str, Any]] | None = None,
     write_record_pages: bool = True,
     rewrite_record_pages: bool = False,
+    new_only: bool = False,
 ) -> list[CaseRecord]:
     raw_index = load_or_fetch(config.index_cache_path, config.mirror_url, refresh=refresh)
     _, index_markdown = split_mirror_response(raw_index)
     entries = parse_index_entries(index_markdown, config.heading)
     case_overrides = case_overrides or {}
 
-    records: list[CaseRecord] = []
-    seen_slugs: set[str] = set()
+    existing_records = (
+        load_records_from_json(config, case_overrides=case_overrides)
+        if new_only and config.data_path.exists()
+        else []
+    )
+    records: list[CaseRecord] = list(existing_records)
+    seen_sources = {source_identity(record.source_url) for record in existing_records}
+    # Reserve every existing slug before considering newly prepended index entries.
+    seen_slugs: set[str] = {record.slug for record in existing_records}
 
     for entry in entries:
+        identity = source_identity(entry.source_url)
+        if new_only and identity in seen_sources:
+            continue
         stem = cache_stem(entry.source_url)
         raw_path = config.raw_dir / f"{stem}.md"
         clean_path = config.text_dir / f"{stem}.txt"
-        raw_pdf_text = load_or_fetch(raw_path, mirror_url(entry.source_url), refresh=refresh)
+        raw_pdf_text = load_or_fetch(
+            raw_path, mirror_url(entry.source_url), refresh=refresh and not new_only
+        )
         pdf_meta, pdf_markdown = split_mirror_response(raw_pdf_text)
         published_time, published_time_iso = parse_published_time(pdf_meta.get("Published Time"))
         page_count = None
@@ -677,6 +696,7 @@ def build_records(
                 markdown_path.parent.mkdir(parents=True, exist_ok=True)
                 markdown_path.write_text(build_markdown(config, record, cleaned_text), encoding="utf-8")
         records.append(record)
+        seen_sources.add(identity)
 
     return sort_case_records(records)
 
@@ -779,6 +799,7 @@ def run(
     use_existing_records: bool = False,
     write_record_pages: bool = True,
     rewrite_record_pages: bool = False,
+    new_only: bool = False,
 ) -> dict[str, list[CaseRecord]]:
     case_overrides = load_case_overrides()
     results: dict[str, list[CaseRecord]] = {}
@@ -793,6 +814,7 @@ def run(
                 case_overrides=overrides,
                 write_record_pages=write_record_pages,
                 rewrite_record_pages=rewrite_record_pages,
+                new_only=new_only,
             )
         write_json(config, records)
         build_index_pages(config, records)
@@ -804,6 +826,11 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Build markdown corpora for NPC decisions and resolutions.")
     parser.add_argument("corpus", choices=["decisions", "resolutions", "all"])
     parser.add_argument("--refresh", action="store_true", help="Refresh the mirrored source pages and documents.")
+    parser.add_argument(
+        "--new-only",
+        action="store_true",
+        help="Reuse existing records and Markdown; fetch only new source PDFs. With --refresh, refresh only the index.",
+    )
     parser.add_argument(
         "--indexes-only",
         action="store_true",
@@ -833,6 +860,8 @@ def main() -> int:
         parser.error("--indexes-only cannot be combined with --rewrite-record-pages")
     if args.indexes_only and args.refresh:
         parser.error("--indexes-only reads existing JSON and cannot be combined with --refresh")
+    if args.new_only and (args.indexes_only or args.rewrite_record_pages or args.download_pdfs):
+        parser.error("--new-only cannot be combined with --indexes-only, --rewrite-record-pages, or --download-pdfs")
 
     if args.download_pdfs:
         for config in selected:
@@ -846,6 +875,7 @@ def main() -> int:
         use_existing_records=args.indexes_only,
         write_record_pages=not args.indexes_only,
         rewrite_record_pages=args.rewrite_record_pages,
+        new_only=args.new_only,
     )
     summary = ", ".join(f"{len(records)} {key}" for key, records in results.items())
     print(f"Generated {summary} under {CONTENT_DIR}")
