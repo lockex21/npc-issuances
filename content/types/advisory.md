@@ -9,6 +9,7 @@ All generated notes tagged as **Advisory**.
 ## Notes
 - [[issuances/undated/public-advisory-on-online-lending-platforms-olps|Public Advisory on Online Lending Platforms (OLPs)]]
 - [[issuances/2026/guidelines-on-data-scraping-of-publicly-available-personal-data|Advisory No. 2026-01: Guidelines on Data Scraping of Publicly Available Personal Data]]
+- [[issuances/2026/grant-of-additional-period-to-submit-annual-security-incident-reports-for-the-year-2025|Advisory No. 2026-03: Grant of Additional Period to Submit Annual Security Incident Reports for the Year 2025]]
 - [[issuances/2026/clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system|Advisory No. 2026-02: Clarification on the Submission of Personal Data Breach Notification through Data Breach Notification Management System]]
 - [[issuances/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Advisory No. 2025-02: Guidelines On Privacy Engineering In Systems Life Cycle Processes]]
 - [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Advisory No. 2025-01: Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements]]

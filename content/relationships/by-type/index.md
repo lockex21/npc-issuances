@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## Types
-- [[relationships/by-type/advisory|Advisories]] (24)
+- [[relationships/by-type/advisory|Advisories]] (25)
 - [[relationships/by-type/annex|Annexes]] (1)
 - [[relationships/by-type/circular|Circulars]] (29)
 - [[relationships/by-type/faq|FAQs]] (7)

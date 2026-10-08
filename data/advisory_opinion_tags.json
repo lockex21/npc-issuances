@@ -1,7 +1,7 @@
 {
   "source_basis": "Tags printed in the source advisory-opinion PDF footnotes; no inferred topics.",
   "coverage_note": "The earliest located PDF tags are in Advisory Opinion No. 2018-073. Late-2018 use is intermittent; only opinions with real printed tag terms are listed.",
-  "record_count": 242,
+  "record_count": 247,
   "records_by_year": {
     "2018": 7,
     "2019": 46,
@@ -11,7 +11,7 @@
     "2023": 25,
     "2024": 19,
     "2025": 17,
-    "2026": 4
+    "2026": 9
   },
   "excluded_placeholders": [
     "Advisory Opinion No. 2023-016"
@@ -2499,6 +2499,69 @@
         "governance structure",
         "NPC Circular No. 2022-04",
         "centralized registration"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2026-005",
+      "tags": [
+        "stockholder inspection",
+        "corporate records",
+        "compensation records",
+        "directors and officers",
+        "personal information",
+        "disclosure",
+        "proportionality",
+        "redaction",
+        "confidentiality undertaking"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2026-006",
+      "tags": [
+        "Special cases",
+        "regulatory function",
+        "mandate",
+        "personal information processor",
+        "outsourcing"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2026-007",
+      "tags": [
+        "stockholder inspection",
+        "corporate records",
+        "retirement benefit records",
+        "tax-related records",
+        "compensation records",
+        "sensitive personal information",
+        "disclosure",
+        "proportionality",
+        "redaction",
+        "confidentiality undertaking"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2026-008",
+      "tags": [
+        "CBPR Compliance",
+        "Certification",
+        "Personal Information",
+        "Sensitive Personal Information",
+        "Health Data"
+      ]
+    },
+    {
+      "reference_label": "Advisory Opinion No. 2026-009",
+      "tags": [
+        "CCTV systems",
+        "audio recording",
+        "NPC Circular No. 2024-02",
+        "Anti-Wire Tapping Act",
+        "barangay ordinance",
+        "proportionality",
+        "retention period",
+        "law enforcement requests",
+        "personal information controller"
       ]
     }
   ]

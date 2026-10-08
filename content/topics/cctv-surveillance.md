@@ -14,6 +14,7 @@ Auto-generated topic cluster for **CCTV Surveillance**, covering the full corpus
 - [[issuances/2020/privacy-guidelines-on-the-processing-and-disclosure-of-covid-19-related-data-for-disease-surveillance-and-response|Privacy Guidelines on the Processing and Disclosure of COVID-19 Related Data for Disease Surveillance and Response (Joint Memorandum Circular No. 2020-0002)]]
 
 ## Advisory Opinions
+- [[advisory-opinions/2026/advisory-opinion-no-2026-009-request-for-guidance-on-barangay-bel-air-ordinance-requiring-cctv-systems-with-audio-recording-capability|NPC Advisory Opinion No. 2026-009 — Request for Guidance on Barangay Bel-Air Ordinance Requiring CCTV Systems with Audio Recording Capability]]
 - [[advisory-opinions/2025/advisory-opinion-no-2025-016-npc-advisory-opinion-no-2025-016-redacted|NPC Advisory Opinion No. 2025-016 — Installation of Closed-Circuit Television (CCTV) in Local Government Unit Offices]]
 - [[advisory-opinions/2024/advisory-opinion-no-2024-018-npc-advisory-opinion-no-2024-018-toll-regulatory-board-redacted|NPC Advisory Opinion No. 2024-018 — Real-Time Traffic Situation Sharing via Live Streaming for Tollway Surveillance]]
 - [[advisory-opinions/2022/advisory-opinion-no-2022-019-advisory-opinion-no-2022-019-redacted|NPC Advisory Opinion No. 2022-019 — Use of Body-Worn Camera by Security Personnel]]

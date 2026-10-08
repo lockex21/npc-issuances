@@ -22,6 +22,7 @@ Auto-generated topic cluster for **Data Sharing**, covering the full corpus of l
 - [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies (Circular No. 16-02)]]
 
 ## Advisory Opinions
+- [[advisory-opinions/2026/advisory-opinion-no-2026-008-eligibility-for-participation-in-the-apec-cbpr-system-and-compliance-with-lgu-health-permit-requirements-involving-employee-personal-data|NPC Advisory Opinion No. 2026-008 — Eligibility for Participation in the APEC CBPR System and Compliance with LGU Health Permit Requirements Involving Employee Personal Data]]
 - [[advisory-opinions/2026/advisory-opinion-no-2026-001-npc-advisory-opinion-no-2026-001|NPC Advisory Opinion No. 2026-001 — Collection of Government Employee Data by PAGCOR for Enforcement of Casino Entry Prohibition]]
 - [[advisory-opinions/2025/advisory-opinion-no-2025-008-npc-advisory-opinion-no-2025-008|NPC Advisory Opinion No. 2025-008 — Release of Death Certificates for Insurance Claims Processing]]
 - [[advisory-opinions/2025/advisory-opinion-no-2025-005-npc-advisory-opinion-no-2025-005-bir-makati-redacted|NPC Advisory Opinion No. 2025-005 — Request for Access to Taxpayer Information from Local Government Unit]]

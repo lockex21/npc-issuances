@@ -23,6 +23,7 @@ Auto-generated topic cluster for **Consent**, covering the full corpus of laws, 
 - [[issuances/2020/guidelines-on-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Use of Telemedicine in COVID-19 Response (Joint Memorandum Circular No. 2020-0001)]]
 
 ## Advisory Opinions
+- [[advisory-opinions/2026/advisory-opinion-no-2026-006-processing-of-personal-data-for-the-beep5-program-of-the-department-of-transportation|NPC Advisory Opinion No. 2026-006 — Processing of Personal Data for the Beep5 Program of the Department of Transportation]]
 - [[advisory-opinions/2025/advisory-opinion-no-2025-013-npc-advisory-opinion-no-2025-013|NPC Advisory Opinion No. 2025-013 — Verification of Information Submitted for Visa Application]]
 - [[advisory-opinions/2025/advisory-opinion-no-2025-008-npc-advisory-opinion-no-2025-008|NPC Advisory Opinion No. 2025-008 — Release of Death Certificates for Insurance Claims Processing]]
 - [[advisory-opinions/2025/advisory-opinion-no-2025-006-npc-advisory-opinion-no-2025-006-redacted|NPC Advisory Opinion No. 2025-006 — Disclosure of Condominium Unit Owner Data to the Bureau of Internal Revenue]]

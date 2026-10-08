@@ -16,6 +16,7 @@ Auto-generated topic cluster for **Cross Border Transfers**, covering the full c
 - [[issuances/2020/data-sharing-agreements-involving-government-agencies-this-circular-has-been-repealed-by-npc-circular-no-2020-03-data-sharing-agreements|Data Sharing Agreements Involving Government Agencies (Circular No. 16-02)]]
 
 ## Advisory Opinions
+- [[advisory-opinions/2026/advisory-opinion-no-2026-008-eligibility-for-participation-in-the-apec-cbpr-system-and-compliance-with-lgu-health-permit-requirements-involving-employee-personal-data|NPC Advisory Opinion No. 2026-008 — Eligibility for Participation in the APEC CBPR System and Compliance with LGU Health Permit Requirements Involving Employee Personal Data]]
 - [[advisory-opinions/2022/advisory-opinion-no-2022-024-advisory-opinion-no-2022-024-sgd-redacted|NPC Advisory Opinion No. 2022-024 — Free Flow of Data]]
 - [[advisory-opinions/2018/advisory-opinion-no-2018-057-npc-advisory-opinion-no-2018-057|NPC Advisory Opinion No. 2018-057 — Outsourcing Agreement]]
 - [[advisory-opinions/2017/advisory-opinion-no-2017-052-npc-advisoryopinionno-2017-052|NPC Advisory Opinion No. 2017-052 — Data Sharing Agreements Involving the Anti-Money Laundering Council]]

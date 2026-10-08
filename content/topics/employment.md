@@ -18,6 +18,8 @@ Auto-generated topic cluster for **Employment**, covering the full corpus of law
 - [[issuances/2020/guidelines-on-the-monitoring-and-evaluation-m-e-of-the-use-of-telemedicine-in-covid-19-response|Guidelines on the Monitoring and Evaluation (M&E) of the Use of Telemedicine in COVID-19 Response (Joint Memorandum Circular No. 2020-0003)]]
 
 ## Advisory Opinions
+- [[advisory-opinions/2026/advisory-opinion-no-2026-009-request-for-guidance-on-barangay-bel-air-ordinance-requiring-cctv-systems-with-audio-recording-capability|NPC Advisory Opinion No. 2026-009 — Request for Guidance on Barangay Bel-Air Ordinance Requiring CCTV Systems with Audio Recording Capability]]
+- [[advisory-opinions/2026/advisory-opinion-no-2026-008-eligibility-for-participation-in-the-apec-cbpr-system-and-compliance-with-lgu-health-permit-requirements-involving-employee-personal-data|NPC Advisory Opinion No. 2026-008 — Eligibility for Participation in the APEC CBPR System and Compliance with LGU Health Permit Requirements Involving Employee Personal Data]]
 - [[advisory-opinions/2026/advisory-opinion-no-2026-001-npc-advisory-opinion-no-2026-001|NPC Advisory Opinion No. 2026-001 — Collection of Government Employee Data by PAGCOR for Enforcement of Casino Entry Prohibition]]
 - [[advisory-opinions/2024/advisory-opinion-no-2024-017-npc-advisory-opinion-no-2024-017-an-over-an-over-san-diego-primavera-law-offices-redacted|NPC Advisory Opinion No. 2024-017 — Publication of Former Employees' Personal Data]]
 - [[advisory-opinions/2024/advisory-opinion-no-2024-005-advisory-opinion-no-2024-005|NPC Advisory Opinion No. 2024-005 — Use of Artificial Intelligence in Call Analysis and Monitoring of Call Center Employees]]

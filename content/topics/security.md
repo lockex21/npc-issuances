@@ -11,6 +11,7 @@ Auto-generated topic cluster for **Security**, covering the full corpus of laws,
 - [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012 (Republic Act No. 10173)]]
 
 ## Issuances
+- [[issuances/2026/grant-of-additional-period-to-submit-annual-security-incident-reports-for-the-year-2025|Grant of Additional Period to Submit Annual Security Incident Reports for the Year 2025]]
 - [[issuances/2026/clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system|Clarification on the Submission of Personal Data Breach Notification through Data Breach Notification Management System (Advisory No. 2026-02)]]
 - [[issuances/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Guidelines on Privacy Engineering in Systems Life Cycle Processes (Advisory No. 2025-02)]]
 - [[issuances/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras (Circular No. 2025-01)]]

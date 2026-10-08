@@ -16,6 +16,8 @@ Auto-generated topic cluster for **Legitimate Interest**, covering the full corp
 - [[issuances/2020/guidelines-on-the-use-of-closed-circuit-television-cctv-systems-this-advisory-has-been-repealed-by-npc-circular-no-2024-02-closed-circuit-television-cctv-systems|Guidelines on the Use of Closed-Circuit Television (CCTV) Systems (Advisory No. 2020-04)]]
 
 ## Advisory Opinions
+- [[advisory-opinions/2026/advisory-opinion-no-2026-009-request-for-guidance-on-barangay-bel-air-ordinance-requiring-cctv-systems-with-audio-recording-capability|NPC Advisory Opinion No. 2026-009 — Request for Guidance on Barangay Bel-Air Ordinance Requiring CCTV Systems with Audio Recording Capability]]
+- [[advisory-opinions/2026/advisory-opinion-no-2026-006-processing-of-personal-data-for-the-beep5-program-of-the-department-of-transportation|NPC Advisory Opinion No. 2026-006 — Processing of Personal Data for the Beep5 Program of the Department of Transportation]]
 - [[advisory-opinions/2026/advisory-opinion-no-2026-002-npc-advisory-opinion-no-2026-002-redacted|Advisory Opinion No. 2026-002 — REQUESTS FOR PERSONAL DATA FROM GOVERNMENT AGENCIES]]
 - [[advisory-opinions/2025/advisory-opinion-no-2025-015-npc-advisory-opinion-no-2025-015-redact-redacted|NPC Advisory Opinion No. 2025-015 — Processing of QR Codes for Know-Your-Client Purposes by Third-Party Service Providers]]
 - [[advisory-opinions/2025/advisory-opinion-no-2025-014-npc-advisory-opinion-no-2025-014|NPC Advisory Opinion No. 2025-014 — Verification of Credentials Submitted for Visa Application]]

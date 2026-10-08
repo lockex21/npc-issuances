@@ -7,7 +7,7 @@ draft: false
 Each page below groups issuances by issuance type.
 
 ## Types
-- [[types/advisory|Advisory]] (24 issuances)
+- [[types/advisory|Advisory]] (25 issuances)
 - [[types/annex|Annex]] (1 issuances)
 - [[types/circular|Circular]] (29 issuances)
 - [[types/faq|FAQ]] (7 issuances)

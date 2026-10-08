@@ -10,6 +10,7 @@ Auto-generated topic cluster for **Breach Notification**, covering the full corp
 - [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations of the Data Privacy Act of 2012]]
 
 ## Issuances
+- [[issuances/2026/grant-of-additional-period-to-submit-annual-security-incident-reports-for-the-year-2025|Grant of Additional Period to Submit Annual Security Incident Reports for the Year 2025]]
 - [[issuances/2026/clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system|Clarification on the Submission of Personal Data Breach Notification through Data Breach Notification Management System (Advisory No. 2026-02)]]
 - [[issuances/2024/guidelines-on-child-oriented-transparency|Guidelines on Child-Oriented Transparency (Advisory No. 2024-03)]]
 - [[issuances/undated/faq-guidelines-on-child-oriented-transparency|Advisory on Guidelines on Child-Oriented Transparency]]

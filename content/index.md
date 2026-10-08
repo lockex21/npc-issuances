@@ -16,8 +16,8 @@ Cornerstone documents that most other material builds on:
 - [[issuances/2024/guidelines-on-the-application-of-republic-act-no-10173-or-the-data-privacy-act-of-2012-dpa-its-implementing-rules-and-regulations-and-the-issuances-of-the-commission-to-artificial-intelligence-systems-processing-personal-data|AI Guidelines (2024)]] — applying the DPA to artificial intelligence systems processing personal data
 
 ## Browse
-- [[issuances/index|Issuances]] — 65 circulars, advisories, guidelines, and rules, by year
-- [[advisory-opinions/index|Advisory opinions]] — 388 responses to written requests for guidance
+- [[issuances/index|Issuances]] — 66 circulars, advisories, guidelines, and rules, by year
+- [[advisory-opinions/index|Advisory opinions]] — 393 responses to written requests for guidance
 - [[decisions/index|Decisions]] — 101 rulings in complaints and other cases
 - [[resolutions/index|Resolutions]] — 147 dispositions of motions and interlocutory matters
 - [[orders/index|Orders]] — 73 directives, including breach-related and cease-and-desist orders
@@ -25,20 +25,20 @@ Cornerstone documents that most other material builds on:
 - [[types/index|Issuances by type]] — the same issuances grouped by document type
 
 ## Recently issued
+- [[issuances/2026/grant-of-additional-period-to-submit-annual-security-incident-reports-for-the-year-2025|Grant of Additional Period to Submit Annual Security Incident Reports for the Year 2025]] (2026-09-08)
 - [[issuances/2026/clarification-on-the-submission-of-personal-data-breach-notification-through-data-breach-notification-management-system|Clarification on the Submission of Personal Data Breach Notification through Data Breach Notification Management System]] (2026-05-11)
 - [[issuances/2026/guidelines-on-data-scraping-of-publicly-available-personal-data|Guidelines on Data Scraping of Publicly Available Personal Data]] (2026-04-13)
 - [[issuances/2025/guidelines-on-privacy-engineering-in-systems-life-cycle-processes|Guidelines On Privacy Engineering In Systems Life Cycle Processes]] (2025-08-27)
 - [[issuances/2025/clarification-on-certain-provisions-of-npc-circular-no-2020-03-on-data-sharing-agreements|Clarification on Certain Provisions of NPC Circular No. 2020-03 on Data Sharing Agreements]] (2025-06-26)
-- [[issuances/2025/guidelines-on-the-processing-of-personal-data-collected-using-body-worn-cameras|Guidelines on the Processing of Personal Data Collected Using Body-Worn Cameras]] (2025-05-26)
 
 ## Most referenced
 The documents other pages in this wiki cite most often:
 
+- [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]] (4 backlinks)
 - [[issuances/undated/registration-of-data-processing-systems|Registration of Data Processing Systems and Notifications Regarding Automated Decision-Making]] (3 backlinks)
-- [[issuances/undated/personal-data-breach-management|Personal Data Breach Management]] (3 backlinks)
 - [[issuances/2023/guidelines-on-consent|Guidelines on Consent]] (3 backlinks)
+- [[issuances/2022/guidelines-on-administrative-fines|GUIDELINES ON ADMINISTRATIVE FINES]] (3 backlinks)
 - [[issuances/2021/data-subject-rights|Data Subject Rights]] (3 backlinks)
-- [[issuances/2023/security-of-personal-data-in-the-government-and-the-private-sector|Security of Personal Data in the Government and the Private Sector]] (2 backlinks)
 
 ## Explore
 - [[topics/index|Topics]] — thematic groupings across all document types
