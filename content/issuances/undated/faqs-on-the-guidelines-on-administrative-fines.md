@@ -14,6 +14,7 @@ draft: false
 ---
 
 ## Issuance Text
+
 **FREQUENTLY ASKED QUESTIONS ON THE GUIDELINES ON ADMINISTRATIVE FINES**
 
 **Section 1 - Scope**
@@ -32,7 +33,7 @@ Yes, the Circular applies to entities not registered with the NPC, provided that
 
 The Commission, in working together with the University of the Philippines Law Center, has determined that using percentage fines, as opposed to standard amounts, is the most effective mechanism to impose administrative fines. This allows the Commission to set effective, proportionate, and dissuasive fines regardless of the size of a violating entity.
 
-In utilizing a percentage range, optimal deterrence will be achieved since it provides ex ante incentives for the PIC or PIP to adopt optimal or reasonable levels of data protection. To deter violations, a fine should be equal or larger than the cost of precaution at the optimal level. Thus, the percentage of fines in the Circular is intended to be equal to or larger than the possible cost of privacy security that the PICs or PIPs will put in place.
+In utilizing a percentage range, optimal deterrence will be achieved since it provides *ex ante* incentives for the PIC or PIP to adopt optimal or reasonable levels of data protection. To deter violations, a fine should be equal or larger than the cost of precaution at the optimal level. Thus, the percentage of fines in the Circular is intended to be equal to or larger than the possible cost of privacy security that the PICs or PIPs will put in place.
 
 Furthermore, the Economic Study, which was prepared by the University of the Philippines Law Center with the help of their economic consultant, has determined that the use of percentage fines allows for the protection of the fundamental human right of privacy of communication while ensuring free flow of information. This mutually beneficial exchange of information leads to the promotion of innovation and growth.
 
@@ -96,7 +97,7 @@ Yes, for natural and juridical entities established in foreign jurisdictions tha
 
 On the other hand, for natural and juridical entities established in the Philippines, the “gross annual income” includes the income derived from all sources within and without the Philippines, in adherence to the definition of “gross annual income” under the Philippine laws on Taxation.
 
-**Section 4 - Due Process**
+**Section 4 – Due Process**
 
 14. **Will the 2021 Rules of Procedure of the NPC apply?**
 
@@ -128,7 +129,7 @@ No, the Commission will not entertain a Motion to Reduce bond for whatever reaso
 
 19. **[[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] and Section 4 of [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]] on the Rules on the Issuance of Cease-and-Desist Orders (CDO) identify the specific parameters within which to issue a CDO. Refusal to pay is not a ground for the issuance of a CDO. How can the foregoing provision be reconciled with Section 7 of the Circular on Administrative Fines?**
 
-As worded, Section 7 of the Circular used the word "may" which highlights the Commission’s discretion to issue a CDO depending on the circumstances of each case. The Commission’s power to issue a CDO is rooted in the [[laws/data-privacy-act-of-2012|DPA]]. Following this, [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]] provides for an initial list of the grounds for the issuance of a CDO. The Commission, through this Circular, provides an additional ground for the issuance of a CDO.
+As worded, Section 7 of the Circular used the word "*may*" which highlights the Commission’s discretion to issue a CDO depending on the circumstances of each case. The Commission’s power to issue a CDO is rooted in the [[laws/data-privacy-act-of-2012|DPA]]. Following this, [[issuances/undated/rules-on-the-issuance-of-cease-and-desist-orders|NPC Circular No. 20-02]] provides for an initial list of the grounds for the issuance of a CDO. The Commission, through this Circular, provides an additional ground for the issuance of a CDO.
 
 **Section 10 - Applicability Clause**
 
@@ -142,13 +143,13 @@ Administrative fines imposed on a PIC or PIP may arise not only from complaints 
 
 21. **Is the Commission authorized to impose administrative fines under the [[laws/data-privacy-act-of-2012|DPA]]?**
 
-Yes, the Commission is authorized to impose administrative fines. [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] mandates the Commission to: (1) ensure compliance of the PICs and PIPs with the [[laws/data-privacy-act-of-2012|DPA]]; (2) compel or petition any entity, government agency or instrumentality to abide by its orders or take action on a matter affecting data privacy; and (3) monitor compliance and recommend necessary action to meet minimum standards for protection of personal information.
+Yes, the Commission is authorized to impose administrative fines. [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]] mandates the Commission to: (1) to ensure compliance of the PICs and PIPs with the [[laws/data-privacy-act-of-2012|DPA]]; (2) compel or petition any entity, government agency or instrumentality to abide by its orders or take action on a matter affecting data privacy; and (3) monitor compliance and recommend necessary action to meet minimum standards for protection of personal information.
 
-First, taken together with the authority of the Commission to receive complaints, institute investigations, adjudicate, and award indemnity on matters affecting any personal information, these powers establish the Commission as a quasi-judicial authority with all the necessary and implied powers that come with it, such as the power to impose administrative fines.
+***First***, taken together with the authority of the Commission to receive complaints, institute investigations, adjudicate, and award indemnity on matters affecting any personal information, these powers establish the Commission as a quasi-judicial authority with all the necessary and implied powers that come with it, such as the power to impose administrative fines.
 
-Second, the authority of the Commission to impose administrative fines is explicitly provided under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9(f)(6) of the IRR]].
+***Second***, the authority of the Commission to impose administrative fines is explicitly provided under [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9(f)(6) of the IRR]].
 
-Third, the authority of the Commission to impose administrative fines stems from long-standing doctrines in administrative law. Under the “doctrine of necessary implication,” what is implied in a statute is as much as part thereof as that which is expressed. Every statutory grant of power, right or privilege is deemed to include all incidental powers, rights, or privileges. This includes all such collateral and subsidiary consequences as may be fairly and logically inferred from its terms.
+***Third***, the authority of the Commission to impose administrative fines stems from long-standing doctrines in administrative law. Under the “doctrine of necessary implication,” what is implied in a statute is as much as part thereof as that which is expressed. Every statutory grant of power, right or privilege is deemed to include all incidental powers, rights, or privileges. This includes all such collateral and subsidiary consequences as may be fairly and logically inferred from its terms.
 
 Considering that the Commission exercises quasi-judicial functions as mandated by law, and that such function is integral to the overall authority to administer and implement the [[laws/data-privacy-act-of-2012|DPA]], the Commission has the power to impose administrative fines.
 

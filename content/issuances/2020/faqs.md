@@ -117,14 +117,14 @@ The CDO is an extraordinary remedy and by its nature a remedy to prevent grave a
 
 For publication of Decisions, the Commission has released NPC Advisory 2020-01 on “Protocols for the Publication of Decisions, Resolutions, and Orders On the NPC Website.” Section 1, “Scope of Publication” provides,
 
-- a) These guidelines shall cover all Commission Decisions, Resolutions, and Orders issued by the Commission En Banc.
+- **a)** These guidelines shall cover all Commission Decisions, Resolutions, and Orders issued by the Commission En Banc.
 
-- b) The following shall not be published on the NPC website:
-  - (i) Cases decided based on compromise agreements, mediated settlement agreements, quitclaims, and other modes of alternative dispute resolutions as these are not decided based on merit and therefore lack teaching value for the public
-  - (ii) Interlocutory Decisions, Orders, and Resolutions that do not dispose of the case or breach notification with finality.
-  - (iii)Decisions, Orders, and Resolutions that may be subject of a Motion for Reconsideration, unless the reglementary period to file such has lapsed.
+- **b)** The following shall not be published on the NPC website:
+  - **(i)** Cases decided based on compromise agreements, mediated settlement agreements, quitclaims, and other modes of alternative dispute resolutions as these are not decided based on merit and therefore lack teaching value for the public
+  - **(ii)** Interlocutory Decisions, Orders, and Resolutions that do not dispose of the case or breach notification with finality.
+  - **(iii)** Decisions, Orders, and Resolutions that may be subject of a Motion for Reconsideration, unless the reglementary period to file such has lapsed.
 
-- c) Notwithstanding the enumeration in paragraph (b), the Commission may, at its discretion, publish Decisions, Orders and Resolutions where public interest warrants or for the education of the public.
+- **c)** Notwithstanding the enumeration in paragraph (b), the Commission may, at its discretion, publish Decisions, Orders and Resolutions where public interest warrants or for the education of the public.
 
 However, in the case of a CDO, the publication is only after allowing the Adverse Party to be heard and is only limited to instances of public interest as determined by the Commission.
 
@@ -147,6 +147,5 @@ The penalties, fees, fines, as well as the determination of the bond will be sub
 *---Nothing follows---*
 
 ## Source
-
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/10/FAQs-for-Publication_NPC-Circular-20-02_Circular-Rules-on-CDO.pdf
 - OCR used during extraction: no

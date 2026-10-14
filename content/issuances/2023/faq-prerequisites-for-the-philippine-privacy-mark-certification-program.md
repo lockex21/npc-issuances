@@ -36,8 +36,8 @@ Meanwhile, Certification refers to a third-party attestation related to an objec
 
 Yes, the requirements for PICs and PIPs are the same. Section 4 of the Circular states that PICs or PIPs must be certified with the following standards:
 
-- I. ISO/IEC 27001 – information security management system (ISMS)
-- II. ISO/IEC 27701 – privacy information management system (PIMS)
+- **I.** ISO/IEC 27001 – information security management system (ISMS)
+- **II.** ISO/IEC 27701 – privacy information management system (PIMS)
 
 The details of the PPM Certification Program, such as the certification scheme, which contains specific requirements and rules or procedures for the certification, will be issued by the NPC, separately.
 
@@ -45,9 +45,9 @@ The details of the PPM Certification Program, such as the certification scheme, 
 
 Section 5 of the Circular states that CBs must be certified with the following standards:
 
-- I. ISO/IEC 27001 – information security management system (ISMS)
-- II. ISO/IEC 27701 – privacy information management system (PIMS)
-- III. In addition, CBs must obtain accreditation based on ISO/IEC 17021-1.
+- **I.** ISO/IEC 27001 – information security management system (ISMS)
+- **II.** ISO/IEC 27701 – privacy information management system (PIMS)
+- **III.** In addition, CBs must obtain accreditation based on ISO/IEC 17021-1.
 
 **VI. MAY ORGANIZATIONS OBTAIN ISO/IEC 27001 AND ISO/IEC 27701 CERTIFICATIONS IN ANY ORDER, OR MUST THEY FOLLOW A PARTICULAR SEQUENCE?**
 
@@ -78,6 +78,5 @@ The Circular was published in the Daily Tribune on March 15, 2024.
 The Circular took effect on March 15, 2024. As provided in Section 9 thereof, the Circular takes effect immediately after publication in one newspaper of general circulation.
 
 ## Source
-
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/12/v12-19-2024_FAQ-NPC-Circular-2023-05_LYA2_NNJ_JDN3.pdf
 - OCR used during extraction: no

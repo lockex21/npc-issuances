@@ -14,8 +14,7 @@ draft: false
 ---
 
 ## Issuance Text
-<!-- BEGIN MANUAL ANNOTATED TEXT -->
-<!-- SEEDED ANNOTATED HASH: 7ffedac5502f286e7e2f00f4d6f5465e1a3fac02 -->
+
 **ADVISORY**
 
 **ON ONLINE LENDING PLATFORMS**
@@ -29,12 +28,9 @@ Pursuant to the directive of the President to strengthen consumer protection in 
 - Unnecessary processing of personal data through mobile applications, including requiring unnecessary permissions, is prohibited.
 
 - Unauthorized, excessive, or disproportionate processing of personal data, particularly regarding access to borrowers’ contact lists, is prohibited. This refers to processing that is unconstrained, excessive, and disproportional to its purpose, such as, but is not limited to:
-
-  &emsp;a. Processing that leads to harassment;
-
-  &emsp;b. Processing for the collection of debt outside of the guarantors provided by the borrower; and
-
-  &emsp;c. Processing that results in *unfair collection practices*: those which use or involve threats of violence or other criminal means to harm the physical person, reputation or property of any person, as well as those which use threats to take any action that cannot be legally taken.
+  - **a.** Processing that leads to harassment;
+  - **b.** Processing for the collection of debt outside of the guarantors provided by the borrower; and
+  - **c.** Processing that results in *unfair collection practices*: those which use or involve threats of violence or other criminal means to harm the physical person, reputation or property of any person, as well as those which use threats to take any action that cannot be legally taken.
 
 - Contacting persons on the borrower's contact list other than those named as guarantors is prohibited. For purposes of debt collection, LCs, FCs, or persons acting as such may only contact the guarantor.
 
@@ -51,14 +47,11 @@ Pursuant to the directive of the President to strengthen consumer protection in 
 - Download OLPs from official or verified sources only and ensure that such OLPs are operated by duly registered and licensed entities.
 
 - Read privacy notices and consent forms carefully. Some OLPs might use deceptive design patterns or design techniques that aim to manipulate or deceive data subjects to perform a specific act relating to the processing of their personal data, such as:
+  - **a.** pre-ticked boxes for granting permissions;
+  - **b.** interface that makes giving consent easy but makes withdrawing consent difficult;
+  - **c.** prominently highlighted choices that results in greater personal data processing, whereas the alternative that supports data minimization is obscured.
 
-  &emsp;a. pre-ticked boxes for granting permissions;
-
-  &emsp;b. interface that makes giving consent easy but makes withdrawing consent difficult;
-
-  &emsp;c. prominently highlighted choices that results in greater personal data processing, whereas the alternative that supports data minimization is obscured.
-
-  &emsp;The use of deceptive design patterns undermines the general data privacy principles and the rights of data subjects and may invalidate consent.
+  The use of deceptive design patterns undermines the general data privacy principles and the rights of data subjects and may invalidate consent.
 
 - Review the permissions being required by OLPs: these must not request unnecessary permissions unless needed for specified and legitimate purposes, *e.g.*, access to your camera or photo gallery is permitted only for identity verification, know-your-customer (KYC), or similar specified and legitimate purposes, and must be turned off once the purpose has been fulfilled.
 
@@ -78,32 +71,26 @@ Digital transformation must protect — not prey upon — the Filipino people. T
 
 **FOR INFORMATION AND GUIDANCE.**
 
-|  |  |
-| :---: | :---: |
-| **SGD.**<br>**HENRY RHOEL R. AGUDA**<br>*Secretary*<br>**Department of Information and Communications Technology** | **SGD.**<br>**ATTY. JOHANN CARLOS S. BARCENA, *CESO III***<br>*Privacy Commissioner*<br>**National Privacy Commission** |
+**SGD.**\
+**HENRY RHOEL R. AGUDA**\
+*Secretary*\
+**Department of Information and Communications Technology**
 
-<div align="center">
+**SGD.**\
+**ATTY. JOHANN CARLOS S. BARCENA, *CESO III***\
+*Privacy Commissioner*\
+**National Privacy Commission**
 
-**SGD.**<br>
-**ATTY. ROGELIO V. QUEVEDO**<br>
-*Commissioner*<br>
+**SGD.**\
+**ATTY. ROGELIO V. QUEVEDO**\
+*Commissioner*\
 **Securities and Exchange Commission**
 
-</div>
-
-<div align="right">
-
 **18 March 2026**
-
-</div>
 
 [^1]: See: *[[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] and its [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012|Implementing Rules and Regulations]] (IRRs)*, *Guidelines on the Processing of Personal Data for Loan-Related Transactions* [ [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular 20-01]] ] (14 September 2020), as amended by NPC Circular No. 2022-02, *Amending Certain Provisions of [[issuances/undated/guidelines-on-the-processing-of-personal-data-for-loan-related-transactions|NPC Circular No. 20-01]] on the Guidelines on the Processing of Personal Data for Loan-Related Transactions* (01 December 2022); *Financial Products and Services Consumer Protection Act and the SEC IRR*, *Prohibition on Unfair Debt Collection Practices of Financing Companies (FC) and Lending Companies (LC)* [SEC Memorandum Circular No. 18, s.2019] (19 August 2019), *Disclosure Requirements on Advertisements of Financing Companies and Lending Companies and Reporting of Online Lending Platforms* [SEC Memorandum Circular No. 19, s. 2918] (18 September 2019).
 
 [^2]: OLPs shall refer to mobile lending applications, websites, and other financial technology (FinTech)-enabled programs or systems where the services and products of FCs and LCs are made available.
-<!-- END MANUAL ANNOTATED TEXT -->
-
 ## Source
-<!-- BEGIN GENERATED TEXT INFO -->
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2026/03/DICT-NPC-SEC-Public-Advisory-on-Online-Lending-Platforms.pdf
 - OCR used during extraction: no
-<!-- END GENERATED TEXT INFO -->

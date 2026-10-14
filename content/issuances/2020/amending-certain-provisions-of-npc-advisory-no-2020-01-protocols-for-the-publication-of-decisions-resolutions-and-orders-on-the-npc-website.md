@@ -18,37 +18,39 @@ draft: false
 
 ## Issuance Text
 
-**Advisory No. 2020-01-A**
+**ADVISORY 2020 – 01-A**
 
-**DATE:** 20 November 2020
+**DATE:** 20 NOVEMBER 2020
 
-**SUBJECT:** Amending Certain Provisions of NPC Advisory No. 2020-01: Protocols for the Publication of Decisions, Resolutions and Orders on the NPC Website
+**SUBJECT:** AMENDING CERTAIN PROVISIONS OF NPC ADVISORY NO. 2020-01: PROTOCOLS FOR THE PUBLICATION OF DECISIONS, RESOLUTIONS AND ORDERS ON THE NPC WEBSITE
 
 **SECTION 1.** ***Scope.*** These guidelines shall amend certain provisions of [[issuances/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|NPC Advisory No. 2020-01]].
 
-**SECTION 2.** ***Amendments.*** Section 1(b) of Advisory 2020-01 shall be amended to read as follows:
+**SECTION 2.** ***Amendments.*** Section 1 (b) of Advisory 2020-01 shall be amended to read as follows:
 
-> **SECTION 1.** ***Cases for Publication.*** XXX
-
-> b) The following cases shall not be appropriate for publication on the NPC website:
-
-> i. Cases decided on the basis of compromise agreements, mediated settlement agreements and/or quitclaims as these are not decided on the basis of merit and therefore lack teaching value for the public.
+> “**SECTION 1.** ***Cases for Publication.*** XXX
 >
-> ii. Interlocutory Decisions, Orders, and Resolutions that do not dispose the case or breach notification with finality.
+> - **b)** The following cases shall not be appropriate for publication on the NPC the website:
+>
+>   - **i.** Cases decided on the basis of compromise agreements, mediated settlement agreements and/or quitclaims as these are not decided on the basis of merit and therefore lack teaching value for the public.
+>   - **ii.** Interlocutory Decisions, Orders, and Resolutions that do not dispose the case or breach notification with finality.”
 
-**SECTION 3.** ***Repealing Clause.*** Decisions, Orders and Resolutions that may be subject of a Motion for Reconsideration may nevertheless be published on the NPC website, subject to the protocols set by [[issuances/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Section 2 of Advisory 2020-01]]. Section 1(b)(iii) of Advisory 2020-01 is hereby repealed.
+**SECTION 3.** ***Repealing clause.*** Decisions, Orders and Resolutions that may be subject of a Motion for Reconsideration may nevertheless be published on the NPC website, subject to the protocols set by [[issuances/2020/protocols-for-the-publication-of-decisions-resolutions-and-orders-on-the-npc-website|Section 2 of Advisory 2020-01]]. Section 1 (b)(iii) of Advisory 2020-01 is hereby repealed.
 
 **SECTION 4.** ***Effectivity.*** This guideline shall be effective immediately upon the approval of the Commission.
 
-   Sgd.
-                                  RAYMUND ENRIQUEZ LIBORO
-                                     Privacy Commissioner
+**(SGD.)**\
+**RAYMUND ENRIQUEZ LIBORO**\
+*Privacy Commissioner*
 
-   Sgd.                                                        Sgd.
- JOHN HENRY DU NAGA                                         LEANDRO ANGELO Y. AGUIRRE
-     Deputy Privacy Commissioner                                 Deputy Privacy Commissioner
+**(SGD.)**\
+**JOHN HENRY DU NAGA**\
+*Deputy Privacy Commissioner*
+
+**(SGD.)**\
+**LEANDRO ANGELO Y. AGUIRRE**\
+*Deputy Privacy Commissioner*
 
 ## Source
-
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2020/11/Amendment-to-Advisory-2020-01-Final.pdf
 - OCR used during extraction: no

@@ -1,7 +1,6 @@
 ---
 title: "Guidelines on the Processing of Personal Data for Loan-Related Transactions (Circular No. 20-01)"
-description: 'SUBJECT : GUIDELINES ON THE PROCESSING OF PERSONAL DATA FOR LOAN-RELATED
-  TRANSACTIONS'
+description: Prescribes guidelines for the processing of personal data by lending and financing companies, and persons acting as such, in loan-related transactions, including those conducted through online lending applications.
 aliases:
 - Circular No. 20-01
 - circular no. 20-01
@@ -18,31 +17,25 @@ date: '2020-09-14'
 
 ## Issuance Text
 
-**Circular No. 20-01**
+**NPC Circular No. 20-01**
 
 **DATE:** 14 September 2020
 
-**SUBJECT:** Guidelines on the Processing of Personal Data for Loan-Related Transactions
+**SUBJECT:** GUIDELINES ON THE PROCESSING OF PERSONAL DATA FOR LOAN-RELATED TRANSACTIONS
 
-WHEREAS, the National Privacy Commission (NPC) has received numerous complaints against some lending entities operating online lending applications (online apps) which can be downloaded and installed in mobile phones;
+**WHEREAS,** the National Privacy Commission (NPC) has received numerous complaints against some lending entities operating online lending applications (online apps) which can be downloaded and installed in mobile phones;
 
-WHEREAS, these online apps are used to facilitate loan transactions between these lending entities and their clients. The online apps provide a platform for the processing of personal data relating to their clients, which includes access to their clients’ phones’ contact list, camera, location, and storage, among others;
+**WHEREAS,** these online apps are used to facilitate loan transactions between these lending entities and their clients. The online apps provide a platform for the processing of personal data relating to their clients, which includes access to their clients’ phones’ contact list, camera, location, and storage, among others;
 
-WHEREAS, the complaints claimed that these lending entities, through the online apps, processed personal data of their clients without lawful basis under the law, and used such personal data about their clients and other individuals in their contact list causing damage to their reputation, in violation of their rights and freedoms as data subjects;
+**WHEREAS,** the complaints claimed that these lending entities, through the online apps, processed personal data of their clients without lawful basis under the law, and used such personal data about their clients and other individuals in their contact list causing damage to their reputation, in violation of their rights and freedoms as data subjects;
 
-WHEREAS, [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2 of the DPA]] otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]]
-([[laws/data-privacy-act-of-2012|DPA]]) provides that it is the policy of the State to protect the fundamental human right of privacy
-of communication while ensuring free flow of information to promote innovation and growth.
-The State recognizes the vital role of information and communications technology in nation-building and its inherent obligation to ensure that personal information in information and communications systems in the government and in the private sector are secured and protected;
+**WHEREAS**, [[laws/data-privacy-act-of-2012#section-2-declaration-of-policy|Section 2 of Republic Act No. 10173]] otherwise known as the [[laws/data-privacy-act-of-2012|Data Privacy Act of 2012]] ([[laws/data-privacy-act-of-2012|DPA]]) provides that it is the policy of the State to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth. The State recognizes the vital role of information and communications technology in nation-building and its inherent obligation to ensure that personal information in information and communications systems in the government and in the private sector are secured and protected;
 
-WHEREAS, pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the NPC is charged with the administration and implementation of the provisions of the law, which includes ensuring compliance with the provisions of the [[laws/data-privacy-act-of-2012|DPA]] and with international standards for data protection, and carrying out efforts to formulate and implement plans and policies that strengthen the protection of personal information in the country, in coordination with other government agencies and the private
-sector;
+**WHEREAS,** pursuant to [[laws/data-privacy-act-of-2012#section-7-functions-of-the-national-privacy-commission|Section 7 of the DPA]], the NPC is charged with the administration and implementation of the provisions of the law, which includes ensuring compliance with the provisions of the [[laws/data-privacy-act-of-2012|DPA]] and with international standards for data protection, and carrying out efforts to formulate and implement plans and policies that strengthen the protection of personal information in the country, in coordination with other government agencies and the private sector;
 
-WHEREFORE, in consideration of the foregoing premises, and without prejudice to the
-application of other pertinent laws and regulations on the matter, the NPC hereby issues this
-Circular that prescribes the guidelines for processing of personal data for loan transactions.
+**WHEREFORE**, in consideration of the foregoing premises, and without prejudice to the application of other pertinent laws and regulations on the matter, the NPC hereby issues this Circular that prescribes the guidelines for processing of personal data for loan transactions.
 
-**SECTION 1.** ***Scope.*** This Circular shall apply to, among others, the processing of personal data for purposes of loan processing activities[^1], through any modality, by lending or financing companies, as defined under the Lending Company Regulation Act of 2007 and Financing Company Act of 1998, respectively, or by any natural or juridical person who acts as such, whether or not granted with the requisite authority from the Securities and Exchange Commission (SEC). It shall likewise apply to personal information processors (PIP) or third-party service providers engaged by the lending or financing company, or any natural or juridical person who acts as such, whenever such PIPs or third-party service providers are engaged in the processing of the personal information of the latter’s clients.
+**SECTION 1.** ***Scope.*** This Circular shall apply to, among others, the processing of personal data for purposes of loan processing activities,[^1] through any modality, by lending or financing companies, as defined under the Lending Company Regulation Act of 2007 and Financing Company Act of 1998, respectively, or by any natural or juridical person who acts as such, whether or not granted with the requisite authority from the Securities and Exchange Commission (SEC). It shall likewise apply to personal information processors (PIP) or third-party service providers engaged by the lending or financing company, or any natural or juridical person who acts as such, whenever such PIPs or third-party service providers are engaged in the processing of the personal information of the latter’s clients.
 
 For purposes of this Circular, a lending company (LC) shall refer to a corporation engaged in granting loans from its own capital funds or from funds sourced from not more than nineteen (19) persons. It shall not be deemed to include banking institutions, investment houses, savings and loan associations, financing companies, pawnshops, insurance companies, cooperatives and other credit institutions already regulated by law.[^2]
 
@@ -54,39 +47,33 @@ While some entities are excluded from the definition above of lending and financ
 
 **SECTION 3.** ***Guidelines.*** The processing of personal data for evaluating loan applications, granting loans, collection of loans, and closure of loan accounts shall be subject to the following general guidelines:
 
-A. Borrowers shall be provided all the details required under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (b) of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 (a)(2) of its IRR]], in a clear language and in the most appropriate format.
+- **A.** Borrowers shall be provided all the details required under [[laws/data-privacy-act-of-2012#section-16-rights-of-the-data-subject|Section 16 (b) of the DPA]] and [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-34-rights-of-the-data-subject|Section 34 (a)(2) of its IRR]], in a clear language and in the most appropriate format.
 
-1. The details shall include all the information concerning all phases of the loan processing activity, from loan solicitation, loan origination, repayment, debt collection and remedial measures.
+  1. The details shall include all the information concerning all phases of the loan processing activity, from loan solicitation, loan origination, repayment, debt collection and remedial measures;
+  2. Whenever the loan processing activity entails the use of profiling, automated processing, automated decision-making, or credit rating or scoring, the borrower shall be informed of the same before the entry of his or her personal data into the data processing system or at the next practical opportunity;
+  3. Pursuant to the borrower’s right to information and access, LCs, FCs and other persons acting as such shall disclose the categories of data considered in deciding whether to approve or disapprove a loan application. Recognizing, however, that the integrity of the evaluation process and methods used must be maintained to avoid possible manipulation or exploitation of the same, LCs, FCs and other persons acting as such may implement reasonable policies determining the minimum information and manner of disclosure to a borrower; and
+  4. LCs, FCs, and other persons acting as such shall adopt policies and procedures to adequately address borrowers’ inquiries and clarifications.
 
-2. Whenever the loan processing activity entails the use of profiling, automated processing, automated decision-making, or credit rating or scoring, the borrower shall be informed of the same before the entry of his or her personal data into the data processing system or at the next practical opportunity.
+- **B.** In cases where a borrower’s personal data will be further processed for purposes compatible with the primary purpose, the same may be allowed, provided that:
 
-3. Pursuant to the borrower’s right to information and access, LCs, FCs and other persons acting as such shall disclose the categories of data considered in deciding whether to approve or disapprove a loan application. Recognizing, however, that the integrity of the evaluation process and methods used must be maintained to avoid possible manipulation or exploitation of the same, LCs, FCs and other persons acting as such may implement reasonable policies determining the minimum information and manner of disclosure to a borrower.
+  1. A direct and objective link must exist between the primary purpose for the processing of the personal data and the other compatible purposes. Such other purposes may include customer behavior analysis, system administration, service quality maintenance, customer service or support, among others; and
+  2. Should information be used for marketing, cross-selling, or sharing to third parties for purposes of offering other products or services not related to loans, LCs, FCs and other persons acting as such must have a separate lawful criterion for such processing pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and/or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the [[laws/data-privacy-act-of-2012|DPA]].
 
-4. LCs, FCs, and other persons acting as such shall adopt policies and procedures to adequately address borrowers’ inquiries and clarifications.
+- **C.** LCs, FCs, and other persons acting as such shall limit the collection of personal data from the borrowers to those which are adequate, relevant, suitable, necessary, and not excessive in relation with the applicable know your customer (KYC) policies, rules and regulations, as well as those necessary for determining creditworthiness and preventing fraud.
 
-B. In cases where a borrower’s personal data will be further processed for purposes compatible with the primary purpose, the same may be allowed, provided that:
+- **D.** Where online apps are used for loan processing activities, LCs, FCs, and other persons acting as such shall be prohibited from requiring unnecessary permissions that involve personal and sensitive personal information.
 
-1. A direct and objective link must exist between the primary purpose for the processing of the personal data and the other compatible purposes. Such other purposes may include customer behavior analysis, system administration, service quality maintenance, customer service or support, among others.
+  1. Application permissions shall only be allowed when suitable, necessary, and not excessive for the purpose of KYC, determining creditworthiness, preventing fraud, and collecting the debt in accordance with applicable provisions of law.
+  2. When such purpose has already been achieved, such online apps shall prompt the data subject to turn off or disallow these permissions.
+  3. Where an online app requires access to the borrower’s phone camera to take a photo of the borrower and/or the photo gallery to choose a photo for the exclusive purpose of KYC and preventing fraud at the beginning of the loan application, permission for such access may be allowed at that stage in the loan application process.
 
-2. Should information be used for marketing, cross-selling, or sharing to third parties for purposes of offering other products or services not related to loans, LCs, FCs and other persons acting as such must have a separate lawful criterion for such processing pursuant to [[laws/data-privacy-act-of-2012#section-12-criteria-for-lawful-processing-of-personal-information|Sections 12]] and/or [[laws/data-privacy-act-of-2012#section-13-sensitive-personal-information-and-privileged-information|13]] of the [[laws/data-privacy-act-of-2012|DPA]].
+     Where the photo has already been taken and saved in the application, the application should already turn off such permission by default, or at the very least, prompt the borrowers through appropriate means, i.e. just-in-time, pop-up notices, etc. that they may already turn off or disallow such permission as the same is no longer necessary for the operation of the application. In no way shall the borrower’s photo be used to harass or embarrass the borrower in order to collect a delinquent loan.
 
-C. LCs, FCs, and other persons acting as such shall limit the collection of personal data from the borrowers to those which are adequate, relevant, suitable, necessary, and not excessive in relation with the applicable know your customer (KYC) policies, rules and regulations, as well as those necessary for determining creditworthiness and preventing fraud.
+  4. Access to contact details in whatever form, such as but not limited to phone contact list or e-mail lists, the harvesting of social media contacts, and/or copying or otherwise saving these contacts for use in debt collection or to harass in any way the borrower or his/her contacts, are prohibited. In all instances, online lending apps must have a separate interface where borrowers can provide character references and/or co-makers of their own choosing.
 
-D. Where online apps are used for loan processing activities, LCs, FCs, and other persons acting as such shall be prohibited from requiring unnecessary permissions that involve personal and sensitive personal information.
+- **E.** LCs, FCs, and other persons acting as such shall bear in mind that they are at all times accountable for personal data under its control or custody. They shall not use any personal data to engage in unfair collection practices as defined under SEC Memorandum Circular No. 18 series of 2019. Such practices may also be construed as a punishable act under the [[laws/data-privacy-act-of-2012|DPA]]; and
 
-1. Application permissions shall only be allowed when suitable, necessary, and not excessive for the purpose of KYC, determining creditworthiness, preventing fraud, and collecting the debt in accordance with applicable provisions of law.
-
-2. When such purpose has already been achieved, such online apps shall prompt the data subject to turn off or disallow these permissions.
-
-3. Where an online app requires access to the borrower’s phone camera to take a photo of the borrower and/or the photo gallery to choose a photo for the exclusive purpose of KYC and preventing fraud at the beginning of the loan application, permission for such access may be allowed at that stage in the loan application process.
-
-Where the photo has already been taken and saved in the application, the application should already turn off such permission by default, or at the very least, prompt the borrowers through appropriate means, i.e. just-in-time, pop-up notices, etc. that they may already turn off or disallow such permission as the same is no longer necessary for the operation of the application. In no way shall the borrower’s photo be used to harass or embarrass the borrower in order to collect a delinquent loan.
-
-4. Access to contact details in whatever form, such as but not limited to phone contact list or e-mail lists, the harvesting of social media contacts, and/or copying or otherwise saving these contacts for use in debt collection or to harass in any way the borrower or his/her contacts, are prohibited. In all instances, online lending apps must have a separate interface where borrowers can provide character references and/or co-makers of their own choosing.
-
-E. LCs, FCs, and other persons acting as such shall bear in mind that they are at all times accountable for personal data under its control or custody. They shall not use any personal data to engage in unfair collection practices as defined under SEC Memorandum Circular No. 18 series of 2019. Such practices may also be construed as a punishable act under the [[laws/data-privacy-act-of-2012|DPA]].
-
-F. LCs, FCs, and other persons acting as such shall adopt and implement reasonable policies regarding the retention of the personal data of those whose loan applications were denied and of borrowers who have fully settled their loans. Personal data shall not be retained in perpetuity in contemplation of a possible future use yet to be determined. Otherwise, applicable penalties as provided for in the [[laws/data-privacy-act-of-2012|DPA]] may be imposed.
+- **F.** LCs, FCs, and other persons acting as such shall adopt and implement reasonable policies regarding the retention of the personal data of those whose loan applications were denied and of borrowers who have fully settled their loans. Personal data shall not be retained in perpetuity in contemplation of a possible future use yet to be determined. Otherwise, applicable penalties as provided for in the [[laws/data-privacy-act-of-2012|DPA]] may be imposed.
 
 **SECTION 4.** ***Character references.*** Borrowers may be required to provide names and contact numbers of character references to support the evaluation of the loan application and/or the loan collection process. To this end, it shall be the responsibility of the borrower to inform their character reference regarding the latter’s inclusion as character reference.
 
@@ -118,17 +105,21 @@ In all cases, loan processing activities shall be consistent with the relevant p
 
 **SECTION 11.** ***Effectivity.*** This Circular shall take effect fifteen (15) days after its publication in the Official Gazette or two newspapers of general circulation.
 
-Approved:
+**Approved:**
 
-Sgd.
-RAYMUND E. LIBORO
+**Sgd.**\
+**RAYMUND E. LIBORO**\
 Privacy Commissioner
 
-Sgd. Sgd.
-LEANDRO ANGELO Y. AGUIRRE JOHN HENRY D. NAGA
-Deputy Privacy Commissioner Deputy Privacy Commissioner
+**Sgd.**\
+**LEANDRO ANGELO Y. AGUIRRE**\
+Deputy Privacy Commissioner
 
-[^1]: "Loan processing activities" shall refer to any undertaking by lending or financing companies and other persons acting as such, for purposes of soliciting, evaluating, granting and maintaining a loan facility, including determination of creditworthiness. This shall include among others, activities to enforce Know-Your-Customer (KYC) policies, loan solicitation, submission of loan application and required documents by the borrower, loan servicing, repayment of the loan, debt collection, and remedial measures undertaken by the LCs, FCs, other persons acting as such, and their authorized representatives.
+**Sgd.**\
+**JOHN HENRY D. NAGA**\
+Deputy Privacy Commissioner
+
+[^1]: “Loan processing activities” shall refer to any undertaking by lending or financing companies and other persons acting as such, for purposes of soliciting, evaluating, granting and maintaining a loan facility, including determination of creditworthiness. This shall include among others, activities to enforce Know-Your-Customer (KYC) policies, loan solicitation, submission of loan application and required documents by the borrower, loan servicing, repayment of the loan, debt collection, and remedial measures undertaken by the LCs, FCs, other persons acting as such, and their authorized representatives.
 
 [^2]: An Act Governing the Establishment, Operation and Regulation of Lending Companies [Lending Company Regulation Act of 2007], Republic Act No. 9474 (2007).
 

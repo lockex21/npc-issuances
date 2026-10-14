@@ -19,35 +19,35 @@ draft: false
 
 **NPC Circular 2023-02**
 
-**DATE:** 26 September 2023
+**Date:** 26 September 2023
 
-**SUBJECT:** Data Privacy Competency Program
+**Subject:** Data Privacy Competency Program
 
-WHEREAS, [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA) mandates the National Privacy Commission (NPC) to administer and implement the provisions of the law, and implement plans and policies that strengthen the protection of personal data formulate in the country;
+**WHEREAS,** [[laws/data-privacy-act-of-2012|Republic Act No. 10173]] or the [[laws/data-privacy-act-of-2012|Data Privacy Act]] (DPA) mandates the National Privacy Commission (NPC) to administer and implement the provisions of the law, and implement plans and policies that strengthen the protection of personal data formulate in the country;
 
-WHEREAS, [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] of the DPA (IRR) provides that the NPC shall develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
+**WHEREAS,** [[laws/implementing-rules-and-regulations-of-the-data-privacy-act-of-2012#section-9-functions|Section 9 of the Implementing Rules and Regulations]] of the DPA (IRR) provides that the NPC shall develop, promulgate, review, or amend rules and regulations for the effective implementation of the DPA;
 
-WHEREAS, Section 9 of the IRR states that the NPC shall undertake the necessary or appropriate efforts to inform and educate the public on data privacy, data protection, and fair information rights and responsibilities;
+**WHEREAS,** Section 9 of the IRR states that the NPC shall undertake the necessary or appropriate efforts to inform and educate the public on data privacy, data protection, and fair information rights and responsibilities;
 
-WHEREAS, the NPC, through the NPC PHIL-DPO Program, initiated the DPO Accountability, Compliance, and Ethics (DPO ACE) training to capacitate Data Protection Officers with the knowledge and skills necessary to effectively manage the compliance of their respective organizations with the DPA;
+**WHEREAS,** the NPC, through the NPC PHIL-DPO Program, initiated the DPO Accountability, Compliance, and Ethics (DPO ACE) training to capacitate Data Protection Officers with the knowledge and skills necessary to effectively manage the compliance of their respective organizations with the DPA;
 
-WHEREAS, the NPC, through the PHIL-DPO Program, launched its Training the Trainers (T3) Program to grant provisional accreditation to Institutional Privacy Trainers (IPT) and Accredited Privacy Trainers (APT) to expand the breadth and scope of public education and training on data privacy throughout the Philippines;
+**WHEREAS,** the NPC, through the PHIL-DPO Program, launched its Training the Trainers (T3) Program to grant provisional accreditation to Institutional Privacy Trainers (IPT) and Accredited Privacy Trainers (APT) to expand the breadth and scope of public education and training on data privacy throughout the Philippines;
 
-WHEREAS, the DPO ACE training and T3 Program were mere ad hoc programs not covered by any formal issuances of the NPC and are being discontinued;
+**WHEREAS,** the DPO ACE training and T3 Program were mere *ad hoc* programs not covered by any formal issuances of the NPC and are being discontinued;
 
-WHEREAS, there is a need to institutionalize the NPC's public education and training programs on data privacy through the issuance of a Circular;
+**WHEREAS,** there is a need to institutionalize the NPC's public education and training programs on data privacy through the issuance of a Circular;
 
-WHEREAS, the NPC seeks to enhance the accessibility and quality of data privacy and protection trainings available in the Philippines in line with the recent developments in the application and interpretation of the DPA;
+**WHEREAS,** the NPC seeks to enhance the accessibility and quality of data privacy and protection trainings available in the Philippines in line with the recent developments in the application and interpretation of the DPA;
 
-WHEREAS, the NPC shall develop a Data Privacy Competency Program (Program), which shall be composed of courses on the fundamental and operational aspects of the DPA essential for anyone who seeks to have a better understanding of the DPA and its application to actual situations, and other projects geared towards data privacy education;
+**WHEREAS,** the NPC shall develop a Data Privacy Competency Program (Program), which shall be composed of courses on the fundamental and operational aspects of the DPA essential for anyone who seeks to have a better understanding of the DPA and its application to actual situations, and other projects geared towards data privacy education;
 
-WHEREAS, the Program shall neither result in a specialized accreditation or certification, such as those carried out by an independent third-party body, nor as a qualification to act or perform the functions of a data privacy professional;
+**WHEREAS,** the Program shall neither result in a specialized accreditation or certification, such as those carried out by an independent third-party body, nor as a qualification to act or perform the functions of a data privacy professional;
 
-WHEREAS, Executive Order No. 292, s. 1987, as amended, or the Administrative Code of 1987 authorizes all agencies to charge fees as compensation for seminars or training programs rendered to other government agencies or private parties;
+**WHEREAS,** Executive Order No. 292, s. 1987, as amended, or the Administrative Code of 1987 authorizes all agencies to charge fees as compensation for seminars or training programs rendered to other government agencies or private parties;
 
-WHEREAS, the Republic Act No. 8293, as amended, or the Intellectual Property Code provides that while the work of a government agency or office is not protected by copyright, a government agency or office may require prior approval and impose as a condition the payment of royalties for use of such work for profit;
+**WHEREAS,** the Republic Act No. 8293, as amended, or the Intellectual Property Code provides that while the work of a government agency or office is not protected by copyright, a government agency or office may require prior approval and impose as a condition the payment of royalties for use of such work for profit;
 
-WHEREFORE, in consideration of the foregoing premises, and without prejudice to the application of other pertinent laws and regulations on the matter, the NPC hereby issues this Circular prescribing the guidelines for the courses, including a Data Privacy Foundational Course, under the Program.
+**WHEREFORE,** in consideration of the foregoing premises, and without prejudice to the application of other pertinent laws and regulations on the matter, the NPC hereby issues this Circular prescribing the guidelines for the courses, including a Data Privacy Foundational Course, under the Program.
 
 **SECTION 1.** ***Scope and Purpose.*** Through the Program, the NPC shall develop uniform curricula and modules on the legal framework of privacy law and regulations (Curriculum) and learning outcomes to train and capacitate the public. The NPC shall license the use of a prescribed Curriculum to qualified Training Providers to enhance the quality of education on Philippine data privacy law. Qualified and licensed Training Providers shall design and conduct Training Courses based on the prescribed Curriculum covered by the specific License granted by the NPC.
 
@@ -55,19 +55,19 @@ This Circular shall apply to the Data Privacy Foundational Course, which shall c
 
 **SECTION 2.** ***Definition of Terms.*** Terms used in the DPA and its IRR, as amended, are adopted herein. In addition, whenever used in this Circular, the following terms are defined as follows:
 
-A. "Commission" refers to the Privacy Commissioner and the two (2) Deputy Privacy Commissioners;
+- **A.** "Commission" refers to the Privacy Commissioner and the two (2) Deputy Privacy Commissioners;
 
-B. "Curriculum" refers to the syllabus, modules, and other materials that the NPC develops to set a minimum standard for the conduct of courses under the Program;
+- **B.** "Curriculum" refers to the syllabus, modules, and other materials that the NPC develops to set a minimum standard for the conduct of courses under the Program;
 
-C. "Enrollee" refers to a person who shall avail themselves of a Training Course offered by a licensed Training Provider;
+- **C.** "Enrollee" refers to a person who shall avail themselves of a Training Course offered by a licensed Training Provider;
 
-D. "License" refers to the non-exclusive, non-assignable, and non-sublicensable authority granted by the NPC to a Training Provider to use a specific prescribed Curriculum under the Program;
+- **D.** "License" refers to the non-exclusive, non-assignable, and non-sublicensable authority granted by the NPC to a Training Provider to use a specific prescribed Curriculum under the Program;
 
-E. "NPC" refers to the National Privacy Commission created under the DPA;
+- **E.** "NPC" refers to the National Privacy Commission created under the DPA;
 
-F. "Training Course" refers to the course designed by a Training Provider pursuant to a specific prescribed Curriculum under the Program;
+- **F.** "Training Course" refers to the course designed by a Training Provider pursuant to a specific prescribed Curriculum under the Program;
 
-G. "Training Provider" refers to any natural or juridical person that is qualified under this Circular and licensed by the NPC to conduct a Training Course to an Enrollee based on a specific prescribed Curriculum;
+- **G.** "Training Provider" refers to any natural or juridical person that is qualified under this Circular and licensed by the NPC to conduct a Training Course to an Enrollee based on a specific prescribed Curriculum;
 
 **SECTION 3.** ***Nature of the License.*** The NPC shall issue a License to a qualified Training Provider to design a Training Course based on a specific prescribed Curriculum. In all cases, the License granted to a Training Provider shall be non-exclusive, non-assignable, and non-sublicensable. The NPC shall issue the License to a qualified Training Provider after the execution of a formal written agreement prescribing the terms and conditions on the matter (Agreement).
 
@@ -111,13 +111,17 @@ No person shall be appointed as a member of a Consultative Body, unless they are
 
 Approved:
 
-Sgd.
-ATTY. JOHN HENRY D. NAGA
+Sgd.\
+**ATTY. JOHN HENRY D. NAGA**\
 Privacy Commissioner
 
-Sgd.                                                    Sgd.
-ATTY. LEANDRO ANGELO Y. AGUIRRE            ATTY. NERISSA N. DE JESUS
-Deputy Privacy Commissioner                 Deputy Privacy Commissioner
+Sgd.\
+**ATTY. LEANDRO ANGELO Y. AGUIRRE**\
+Deputy Privacy Commissioner
+
+Sgd.\
+**ATTY. NERISSA N. DE JESUS**\
+Deputy Privacy Commissioner
 
 ## Source
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2023/11/Circular-on-Data-Privacy-Competency-Program-2023.09.26.pdf

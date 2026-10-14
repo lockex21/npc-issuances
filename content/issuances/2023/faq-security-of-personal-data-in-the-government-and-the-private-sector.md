@@ -19,7 +19,7 @@ draft: false
 
 **SECURITY OF PERSONAL DATA IN THE GOVERNMENT AND THE PRIVATE SECTOR**
 
-## GENERAL PROVISION
+### GENERAL PROVISION
 
 **I. WHAT IS THE DIFFERENCE BETWEEN CIRCULAR NO. 2023-06 (SECURITY OF PERSONAL DATA IN THE GOVERNMENT AND PRIVATE SECTOR) AND CIRCULAR NO. 2016-01 (SECURITY OF PERSONAL DATA IN GOVERNMENT AGENCIES)?**
 
@@ -35,13 +35,13 @@ Under Section 4(f) of Circular 2023-06, training its personnel is part of PICs�
 
 Following on-site visits, compliance checks, and data breach notifications, the NPC may require the submission of the PIC’s data protection policies, policies pertaining to third parties, and contracts for review. However, submission of PIP’s policies is not required.
 
-## STORAGE OF PERSONAL DATA
+### STORAGE OF PERSONAL DATA
 
 **IV. IS THERE A DEFINITION FOR HIGH VOLUME OF DATA?**
 
 There is no current definition of high volume of data. However, the criteria for registration to the NPC, as stated in Section 5 of NPC Circular 2022-04, may serve as the baseline for a high volume of data.
 
-## ACCESS TO PERSONAL DATA
+### ACCESS TO PERSONAL DATA
 
 **V. DOES ACCESS MEAN ONLY PHYSICAL ACCESS?**
 
@@ -51,7 +51,7 @@ No, access can be physical or online. Rule IV of the Circular covers security me
 
 Merely having a username, password, and approver may not be sufficient to meet the full requirements for accessing within an organization’s network. Rule IV of the Circular provides the requirements for security measures related to access to personal data. In addition, a PIC or a PIP is in the best position to determine appropriate security measures to implement since it has knowledge of its IT infrastructure.
 
-## TRANSFER OF PERSONAL DATA
+### TRANSFER OF PERSONAL DATA
 
 **VII. IS THE USE OF A FAX MACHINE ALLOWED IF THE OFFICE LOCATION HAS NO ACCESS TO THE INTERNET AND THE ONLY WAY TO TRANSMIT PERSONAL DATA IS VIA FAX MACHINE?**
 
@@ -59,7 +59,7 @@ No, fax machines pose a high privacy risk; hence, Section 26 of the Circular exp
 
 Section 27 of the Circular discusses other means of transmitting documents. It states that a PIC and its PIP that transmits documents or media containing personal data by mail or post shall use registered mail or, where appropriate, guaranteed parcel post services and Private Express and/or Messengerial Delivery Service (PEMEDES).
 
-## MISCELLANEOUS PROVISIONS
+### MISCELLANEOUS PROVISIONS
 
 **VIII. WHAT CAN TRIGGER AN AUDIT OF THE PICS’ OR PIPS’ COMPLIANCE WITH THE DPA OF 2012?**
 

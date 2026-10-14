@@ -23,9 +23,9 @@ draft: false
 
 **Circular on Guidelines for Legitimate Interest**
 
-**Questions Raised During the Public Consultation on 07 December 2023**
+Questions Raised During the Public Consultation on 07 December 2023
 
-## General Questions
+### General Questions
 
 **1. What is legitimate interest?**
 
@@ -85,7 +85,7 @@ If the PIC decides not to provide certain information, it should document the re
 
 It is important to remember that the determination of proportionality should not solely be from the PIC's perspective but should also consider the third party's objectives and the purposes it aims to achieve with the requested information.
 
-## Legitimate Interest of Third Parties
+### Legitimate Interest of Third Parties
 
 **9. May a PIC rely on the legitimate interest assessment of the third party to whom the data is disclosed without conducting its own Legitimate Interest Assessment?**
 
@@ -101,7 +101,7 @@ What is important is that the PIC can verify the legitimate interest of the thir
 
 To clarify, it is not necessary that both the PIC (disclosing party) and the third party (receiving party) have their own legitimate interest assessment.
 
-For example*:* Person A hits Person B’s car and sped off. Person B only has the plate number of Person A’s car. Person B then goes to the LTO to ask for information, specifically the name and address of the registered owner of the car.
+For example: Person A hits Person B’s car and sped off. Person B only has the plate number of Person A’s car. Person B then goes to the LTO to ask for information, specifically the name and address of the registered owner of the car.
 
 Person B can demonstrate their legitimate interest, but to expect LTO to have its own legitimate interest before it discloses the information requested would be problematic because in such instances, the PIC or the disclosing party may not have a legitimate interest in disclosing.
 
@@ -111,7 +111,9 @@ It depends on the basis for the refusal to disclose. If the refusal is based sol
 
 **12. Is there a prescribed form or procedure for the verification conducted by the PIC of the third parties’ legitimate interest?**
 
-No. There is no prescribed procedure for verification of the legitimate interest of the third party under the Circular. Similar to Section 4 of the Circular, the PIC may use any existing method, structure, or form, to verify the legitimate interest assessment that was conducted before the specific processing activity.
+No. There is no prescribed procedure for verification of the legitimate interest of the third party under the Circular.
+
+Similar to Section 4 of the Circular, the PIC may use any existing method, structure, or form, to verify the legitimate interest assessment that was conducted before the specific processing activity.
 
 To emphasize, what is essential is that the third party can show that it has a legitimate interest in the particular processing activity with proper documentation showing the presence of all three (3) requisites.
 
@@ -119,7 +121,7 @@ To emphasize, what is essential is that the third party can show that it has a l
 
 No. When the third party subsequently processes the personal information it receives, the third party becomes a PIC and will be treated as such.
 
-## Requisites for Processing Based on Legitimate Interest
+### Requisites for Processing Based on Legitimate Interest
 
 **14. In relation to the purpose test in Section 5 and the necessity test in Section 6, does a PIC need to fulfill all the elements of those two tests to establish its legitimate interest?**
 
@@ -135,7 +137,9 @@ As the Commission previously held, the qualifier “necessary” refers to the g
 
 Since the first requisite, which is the legitimate interest is established, refers to the purpose, “necessary” in relation to the second requisite refers to the means the PIC chooses to achieve its purpose.
 
-**16. A PIC or third party must determine the “measures implemented to protect the personal information involved in the specific processing activity or to mitigate the effect or impact of the specific processing activity on the data subject (e.g., privacy-enhancing technologies). If the PIC or third party has implemented existing measures to protect the personal information involved, does it satisfy the second factor? Or does it still depend on the effectiveness of the implemented measures based on the privacy impact assessment and other assessments?**
+**16. A PIC or third party must determine the “measures implemented to protect the personal information involved in the specific processing activity or to mitigate the effect or impact of the specific processing activity on the data subject (e.g., privacy-enhancing technologies).**
+
+**If the PIC or third party has implemented existing measures to protect the personal information involved, does it satisfy the second factor? Or does it still depend on the effectiveness of the implemented measures based on the privacy impact assessment and other assessments?**
 
 Yes, the PIC has to look at the effectiveness of the measures and that will depend on the good faith assessment of the PIC or third party.
 
@@ -164,7 +168,9 @@ The first sentence of Section 7 of the Circular is not a restatement of Section 
 
 For example: In the case of debt collection, which is a legitimate purpose, the effect to the data subject is not determined solely based on the purpose, which is debt collection, but how the PIC or third party goes about achieving debt collection. Does the PIC individually notify each person that has a debt, or does the PIC now publicize it on social media and announce to the world that this person has a debt? The purpose of collecting debt may be the same, but the means of fulfilling it can have different effects on the data subject.
 
-**19. The third factor provides that a PIC or third party must also consider the availability of other means or methods to fulfill the legitimate purpose. If there are other methods to fulfill the legitimate purpose and the PIC or third party fails to use the same, does that mean there is a failure to satisfy the third factor? What if both methods can fulfill the legitimate purpose?**
+**19. The third factor provides that a PIC or third party must also consider the availability of other means or methods to fulfill the legitimate purpose.**
+
+**If there are other methods to fulfill the legitimate purpose and the PIC or third party fails to use the same, does that mean there is a failure to satisfy the third factor? What if both methods can fulfill the legitimate purpose?**
 
 It is the obligation of the PIC or third party relying on legitimate interest to choose the least intrusive method taking into consideration the PIC or third party’s particular circumstances.
 
@@ -172,11 +178,15 @@ The Commission considers the particular circumstances of the PIC or the third pa
 
 **20. What is a “reasonable expectation”?**
 
-The reasonable expectation of the data subject is understood based on what a reasonable person would find acceptable under the circumstances. This is not discretionary, rather, it is viewed based on the surrounding circumstances of each case. The Commission has already issued decisions explaining this and clarified that the reasonable expectation of privacy discussed here is not the same reasonable expectation of privacy in *Ople v. Torres.*
+The reasonable expectation of the data subject is understood based on what a reasonable person would find acceptable under the circumstances. This is not discretionary, rather, it is viewed based on the surrounding circumstances of each case.
+
+The Commission has already issued decisions explaining this and clarified that the reasonable expectation of privacy discussed here is not the same reasonable expectation of privacy in *Ople v. Torres.*
 
 Reasonable expectation of privacy is in terms of further processing of personal information given the specific circumstances surrounding the processing activity such as the original business arrangement between parties.
 
-**21. COMMENT: “Reasonable expectation must not be discretionary, all possible reasonable expectations must be given to the data subject upon obtaining consent to be compliant to the data subject’s right to be informed of the purposes for which they are being or will be processed, including processing for all legitimate interests of the PIC, or the data subject such as processing for direct marketing, profiling, or historical, statistical or scientific purpose. Also, the data subject shall be given the opportunity or the right to object to the processing of the personal data, in relation, to the other legitimate interests particularly those favorable to the PIC or the PIP.”**
+**21. COMMENT: “Reasonable expectation must not be discretionary, all possible reasonable expectations must be given to the data subject upon obtaining consent to be compliant to the data subject’s right to be informed of the purposes for which they are being or will be processed, including processing for all legitimate interests of the PIC, or the data subject such as processing for direct marketing, profiling, or historical, statistical or scientific purpose.**
+
+**Also, the data subject shall be given the opportunity or the right to object to the processing of the personal data, in relation, to the other legitimate interests particularly those favorable to the PIC or the PIP.”**
 
 There may be some misinterpretation regarding the concept of a reasonable expectation of privacy in this context. There is a difference between the reasonable expectation of a data subject discussed in the previous question and what data subject can expect following the obligation of the controllers to provide them with information on the scope, purpose, nature, and extent of the processing.
 
@@ -186,7 +196,7 @@ Therefore, the data subject should be given an opportunity to object.
 
 The Commission highlights that the Circular does not change the lawful basis for processing that is legitimate interest. It just provides clarifications to make it easy for people to rely on legitimate interest as basis for processing, so that they avoid over reliance on consent.
 
-## Legitimate Interest Assessment (LIA)
+### Legitimate Interest Assessment (LIA)
 
 **22. What should the legitimate interest assessment contain? Are there required contents?**
 
@@ -236,11 +246,11 @@ A one-time privacy impact assessment may not be sufficient because regular evalu
 
 As for how long the documentation should be kept, it should be retained as long as the particular process is in place. In the event of an investigation or compliance check, the documentation may be requested. Failure to have adequate documentation while continuing a processing activity relying on legitimate interest could pose challenges. Therefore, it is advisable to maintain documentation as long as the relevant process is ongoing.
 
-## Further Processing of Personal Information Based on Legitimate Interest
+### Further Processing of Personal Information Based on Legitimate Interest
 
 **30. May further processing of personal information be based on legitimate interest?**
 
-Yes. Under Section 9 of the Circular, personal information originally collected based on consent may be processed further for additional purposes that constitute a legitimate interest of the PIC or third party.
+Yes. Under Section 9 of the Circular, personal information originally collected based on consent **may** be processed further for additional purposes that constitute a legitimate interest of the PIC or third party.
 
 In doing so, the PIC or third party must conduct a legitimate interest assessment on the further processing of personal information.
 
@@ -256,7 +266,7 @@ If the processing activity contemplated by the PIC is already covered by the con
 
 **32. COMMENT: Regarding Section 9, we propose that it be revised to clarify that as long as consent has been obtained in compliance with applicable requirements (e.g. Circular on the Guidelines on Consent), further processing for additional purposes should be permitted under the legitimate interest basis. We believe that this is what Section 9 intends to convey but suggest that the reference to the Circular on the Guidelines on Consent be clearly tied to the consent originally obtained.”**
 
-This is not the intention of Section 9 of the Circular. The Commission emphasizes that Section 9 provides “**may**”. How the PIC goes about achieving that legitimate interest is an important consideration.
+This is not the intention of Section 9 of the Circular. The Commission emphasizes that Section 9 provides “may”. How the PIC goes about achieving that legitimate interest is an important consideration.
 
 **33. By what channel or means should PIC's report the results of the legitimate interest assessment to NPC. Is it going to be a compliance report that needs to be submitted at certain times of the year?**
 
@@ -264,7 +274,7 @@ No, PICs are not required to submit the legitimate interest assessment through a
 
 It is helpful to look at legitimate interest assessment in the same way as the privacy impact assessment, as it constitutes a part of the latter. Currently, the NPC does not require the submission of privacy impact assessments unless an entity is under investigation or subject to a compliance check. The same principle could apply to legitimate interest assessments.
 
-## Sectoral Determination of Specific Legitimate Interest
+### Sectoral Determination of Specific Legitimate Interest
 
 **34. Is it mandatory for sectors to determine common personal information processing activities within their respective industries that may be based on legitimate interest?**
 
@@ -280,7 +290,9 @@ The first requirement in determining legitimate interest goes into what the PIC�
 
 Creating a list of common legitimate interests for each sector or in general might be counterproductive, as it could overlook the specific methods and means necessary to achieve a legitimate interest in a given context.
 
-**36. Medical technology companies need to process health data both when developing new technologies and as part of their rollout to healthcare systems. In general, Medical Technology Companies act as processors. Given this scenario, can the medical technology sector work on a sectoral determination of specific legitimate interests?**
+**36. Medical technology companies need to process health data both when developing new technologies and as part of their rollout to healthcare systems. In general, Medical Technology Companies act as processors.**
+
+**Given this scenario, can the medical technology sector work on a sectoral determination of specific legitimate interests?**
 
 Yes, the medical technology sector can work on the sectoral determination of legitimate interests. It's important to note, however, that legitimate interest applies solely to the processing of personal information and not sensitive personal information.
 
@@ -288,13 +300,15 @@ Since health data likely falls under sensitive personal information, legitimate 
 
 Given the nature of health data, legitimate interest may not be the best criteria to rely on, but the sector is free to come up with its sectoral determination of specific legitimate interests.
 
-## Processing carried out by Public Authorities
+### Processing carried out by Public Authorities
 
 **37. When may public authorities rely on legitimate interest as their lawful basis for processing personal information?**
 
 When processing personal or sensitive personal information, public authorities should primarily rely on their mandate as provided by law or regulation.
 
-As outlined in Section 12 of the Circular, a government agency can resort to legitimate interests as basis for processing, but only for ancillary processing activities conducted in the ordinary course of its business, not to fulfill its mandate. This includes activities such as office management, employee welfare, and financial accountability. In such instances, a legitimate interest assessment must still be conducted to ascertain whether legitimate interest is the most appropriate and suitable legal basis for that specific processing activity.
+As outlined in Section 12 of the Circular, a government agency can resort to legitimate interests as basis for processing, but only for ancillary processing activities conducted in the ordinary course of its business, not to fulfill its mandate. This includes activities such as office management, employee welfare, and financial accountability.
+
+In such instances, a legitimate interest assessment must still be conducted to ascertain whether legitimate interest is the most appropriate and suitable legal basis for that specific processing activity.
 
 **38. In relation to Section 10, to clarify, third parties do not include the PICs with whom we have an existing data sharing agreement?**
 
@@ -310,9 +324,10 @@ No, there is no mandatory requirement for sectors to submit the sectoral determi
 
 **40. If legitimate interest is used for further processing not covered by consent, must the data subject receive fresh notification or opportunity to object?**
 
-Yes, a fresh notification is required. It is essential to clarify that the right to be informed, grounded in the principle of transparency, is a constant requirement. Even if a different lawful basis, other than consent, is utilized for processing, the obligation to provide a privacy notice persists, as consistently emphasized by the Commission. If there are new developments or changes in processing activities, the data subject must be notified. In the context of relying on legitimate interest as a basis, the data subject retains the right to object, and this right does not expire. However, it's important to note that the right to object is not absolute. For instance, in cases when the basis for processing is legitimate interest, the data subject can exercise their right to object. However, this will not stop the processing if another basis for processing exists such as when pursuing a legal claim under Section 13 (f) of the DPA. As always, these determinations are made on a case-to-case basis.
+Yes, a fresh notification is required. It is essential to clarify that the right to be informed, grounded in the principle of transparency, is a constant requirement. Even if a different lawful basis, other than consent, is utilized for processing, the obligation to provide a privacy notice persists, as consistently emphasized by the Commission. If there are new developments or changes in processing activities, the data subject must be notified.
+
+In the context of relying on legitimate interest as a basis, the data subject retains the right to object, and this right does not expire. However, it's important to note that the right to object is not absolute. For instance, in cases when the basis for processing is legitimate interest, the data subject can exercise their right to object. However, this will not stop the processing if another basis for processing exists such as when pursuing a legal claim under Section 13 (f) of the DPA. As always, these determinations are made on a case-to-case basis.
 
 ## Source
-
 - Official source PDF: https://privacy.gov.ph/wp-content/uploads/2024/01/FAQ-Guidelines-on-Legitimate-Interest-as-of-28-December-2023.pdf
 - OCR used during extraction: no
